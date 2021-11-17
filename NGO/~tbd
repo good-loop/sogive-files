@@ -1,0 +1,14 @@
+{
+  "color": "",
+  "@type": "NGO",
+  "name": "TBD: To Be Decided",
+  "description": "This is a placeholder for people who haven\u0027t picked their charity yet.",
+  "@id": "tbd",
+  "suggest": [
+    "TBD: To Be Decided",
+    "tbd"
+  ],
+  "summaryDescription": "This is a placeholder for people who haven\u0027t picked their charity yet.",
+  "status": "DRAFT",
+  "whyTags": "cos"
+}
