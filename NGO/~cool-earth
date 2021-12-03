@@ -1,0 +1,118 @@
+{
+  "images": "http://www.coolearth.org/wp-content/uploads/2015/07/Save-the-rainforest-hashtag-Cool-Earth-4926x32641.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": "",
+          "name": "tonne(s) of CO2eq averted",
+          "description": "A donation to Cool Earth will avert a tonne of CO2e for $1 by Giving What We Can\u0027s analysis - but S. Joshi\u0027s analysis suggests this was optimistic.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "1",
+            "currency": "GBP",
+            "value100p": 10000.0,
+            "value": 1.0
+          }
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-02-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-01-31T00:00:00Z",
+          "value100p": 1.162789E10,
+          "value": 1162789.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-02-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-01-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-02-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-01-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-02-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-01-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-02-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends78/0001117978_AC_20150131_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "120 million trees, leading to the locking in of 130 million tonnes of co2",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-01-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Cool Earth",
+  "noPublicDonations": false,
+  "description": "\"Helping Cool Earth to halt tropical deforestation makes a real difference. Perhaps the biggest difference we will make in our whole lives.\"   \n -- Sir David Attenborough",
+  "suggest": [
+    "Cool Earth",
+    "Cool Earth",
+    "cool-earth"
+  ],
+  "url": "https://www.coolearth.org/",
+  "whyTags": "Climate change, Trees, International aid, poverty, conservation",
+  "recommended": false,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "tonne(s) of CO2eq averted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 10000,
+      "value": "1.0"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": true,
+  "name": "Cool Earth",
+  "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png",
+  "modified": false,
+  "@id": "cool-earth",
+  "englandWalesCharityRegNum": "1117978",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
