@@ -108,11 +108,11 @@
   },
   "ready": true,
   "name": "Cool Earth",
-  "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png#ccrop:60",
+  "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png#ccrop:70",
   "modified": false,
   "@id": "cool-earth",
   "englandWalesCharityRegNum": "1117978",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
