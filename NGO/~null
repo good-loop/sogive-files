@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Aktionsbündnis Seelische Gesundheit",
   "id": "aktionsb-ndnis-seelische-gesundheit",
-  "suggest": []
+  "suggest": [
+    "Aktionsbündnis Seelische Gesundheit"
+  ],
+  "status": "DRAFT"
 }
