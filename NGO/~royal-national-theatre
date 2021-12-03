@@ -384,10 +384,10 @@
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
-            "raw": "20,30",
+            "raw": "38.62",
             "currency": "",
-            "value100p": 2.03E7,
-            "value": 2030.0
+            "value100p": 386200.0,
+            "value": 38.62
           }
         }
       ],
