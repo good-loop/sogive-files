@@ -379,7 +379,7 @@
           "description": "This refers to the number of productions, not the amount of shows played. At least, otherwise the average number of attendants per show is around 60,000. "
         },
         {
-          "number": 3310000.0,
+          "number": 1740000.0,
           "name": "audience members (singular: audience member) engaged",
           "costPerBeneficiary": {
             "@type": "Money",
