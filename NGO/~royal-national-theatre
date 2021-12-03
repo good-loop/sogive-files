@@ -1,0 +1,467 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2019.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "110300000",
+          "currency": "GBP",
+          "value100p": 1.103E12,
+          "value": 1.103E8
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "24400000",
+          "currency": "GBP",
+          "value100p": 2.44E11,
+          "value": 2.44E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "51100000",
+          "currency": "GBP",
+          "value100p": 5.11E11,
+          "value": 5.11E7
+        }
+      ],
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "12200000",
+        "currency": "GBP",
+        "value100p": 1.22E11,
+        "value": 1.22E7
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends23/0000224223_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": "Operations fund - p. 47 AR"
+        }
+      },
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 28.0,
+          "@type": "Output",
+          "name": "Productions (singular: production) played",
+          "description": "This is the number of productions played at NT theatres"
+        },
+        {
+          "number": 569000.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Seems superfluous. Should cut?"
+            }
+          },
+          "name": "Audience members (singular: audience member) engaged",
+          "description": "This means they attended or participated in a NT tour"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends23/0000224223_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "61400000",
+          "currency": "GBP",
+          "value100p": 6.14E11,
+          "value": 6.14E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "I have combined this with \"Major Projects\", which I suspect refers to the new \"Public Acts\" production of Pericles (see p3)\n\nMy rational is that this play is included in all the listed figures below, so costs should be too. \n\nThe worry is that (1) the £0.4m may contain other costs too and (2) there is an \"additional\" benefit in hiring community actors rather than professionals.\n\nI have also not found a way of quantifying the benefit from added diversity, but doesn\u0027t seem clear this is necessary"
+        }
+      },
+      "name": "Performances",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 324.0,
+          "name": "Youth companies (singular: Youth company) engaged",
+          "description": "Schools or theatres who engaged in the Connections festival"
+        },
+        {
+          "number": 101.0,
+          "name": "Primary schools (singular: Primary school) supported",
+          "description": "Support primary schools\u0027 theatre making by providing teachers with materials and training"
+        },
+        {
+          "number": 90.0,
+          "name": "Schools (singular: school) engaged",
+          "description": "Schools who signed up for the New Views playwriting programme"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends23/0000224223_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4200000",
+          "currency": "GBP",
+          "value100p": 4.2E10,
+          "value": 4200000.0
+        }
+      ],
+      "name": "Learning \u0026 Public Engagement",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1314.0,
+          "meta": {
+            "all": {
+              "notes": "Not sure if this is the right section for these two. But this is where the report has them"
+            }
+          },
+          "name": "Teachers (singular: Teacher)",
+          "description": "This means they participated in the annual Continual Professional Development programme"
+        },
+        {
+          "number": 155.0,
+          "name": "Young people (singular: Young person)",
+          "description": "This means they (14-18 years old) participated in technical and production arts training programme"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends23/0000224223_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2400000",
+          "currency": "GBP",
+          "value100p": 2.4E10,
+          "value": 2400000.0
+        }
+      ],
+      "name": "Research \u0026 Development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 340000.0,
+          "confidence": "high",
+          "name": "Cinema audience engaged",
+          "description": "This means they saw a NT Live broadcast at a cinema"
+        },
+        {
+          "number": 536000.0,
+          "name": "School pupils (singular: school pupil)",
+          "description": "This means they saw a production via free streaming service for schools"
+        },
+        {
+          "number": 950000.0,
+          "meta": {
+            "all": {
+              "notes": "seems more appropriate than 3.3m on social media. Know this has increased drastically since Covid"
+            }
+          },
+          "name": "Digital audience engaged",
+          "description": "Engaged with video content on YouTube channel"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends23/0000224223_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6400000",
+          "currency": "GBP",
+          "value100p": 6.4E10,
+          "value": 6400000.0
+        }
+      ],
+      "name": "Live \u0026 Digital",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 8500000.0,
+          "name": "people (singular: person) engaged"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "114800000",
+          "currency": "GBP",
+          "value100p": 1.148E12,
+          "value": 1.148E8
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "19200000",
+          "currency": "GBP",
+          "value100p": 1.92E11,
+          "value": 1.92E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "55900000",
+          "currency": "GBP",
+          "value100p": 5.59E11,
+          "value": 5.59E7
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 28.0,
+          "name": "Productions (singular: production) played",
+          "description": "This refers to the number of productions, not the amount of shows played. At least, otherwise the average number of attendants per show is around 60,000. "
+        },
+        {
+          "number": 3310000.0,
+          "name": "audience members (singular: audience member) engaged",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "20,30",
+            "currency": "",
+            "value100p": 2.03E7,
+            "value": 2030.0
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "67200000",
+          "currency": "GBP",
+          "value100p": 6.72E11,
+          "value": 6.72E7
+        }
+      ],
+      "name": "Performances "
+    }
+  ],
+  "@type": "NGO",
+  "description": "Performances\n- Showcase theatre work in their three South Bank theatres, through tours across the UK, and cinema broadcasts\n- Provides accessible ticket pricing and organise free festivals\n- Invest in new work and develop, with the explicit goal of promoting diversity in theatre\n\nLearning \u0026 Public Engagement\n- Conduct nationwide Learning programmes to promote theatre for 5-18 year olds\n- Help local theatres and community organisations build audiences and organise programmes\n\nLive \u0026 Digital\n- Offer free production streaming service for schools\n- Provide digital distribution of their content\n\nResearch \u0026 Development and Campaigning\n- Offer training for teachers and youth theatre leaders via Continual Professional Development programme, as well as bursaries\n- Contribute to industry research/consultation, such as the Ofsted curriculum review",
+  "recommendation": "**The National Theatre achieves a Bronze assessment under the SoGive rating methodology.**\n\nThe National Theatre promote theatre in the UK, by producing plays and running several outreach activities.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what The National Theatre does**\n\nBased on the information we have gathered from the 2019 accounts, we understand that it cost The National Theatre around £61m to produce its plays and tours. They also spent £6.4m to make their work available virtually, such as cinema broadcasts and a free streaming service for schools. In 2019, this collectively may have reached up to 7.2m people world wide.\n\nMoreover, The National Theatre supports theatres in schools. This includes organising festivals for youth theatre groups and providing support for primary school teachers. Lastly, The National Theatre also engages in advocacy for Creative Education. This includes advising regulatory organisations and offering professional development for teachers and people in the theatre industry.\n\n**Benchmarking**\n\nHaving reviewed The National Theatre\u0027s work under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, we have focused on the \"Performances\" and \"Live \u0026 Digital\" area of The National Theatre\u0027s work, which together constitutes over three-quarters of its charitable activities, as per the 2019 accounts. While this seems reasonable, it\u0027s possible that the impact of the marginal pound donated to The National Theatre could be related to campaigning and learning could have a different level of impactfulness if it is used for learning or advocacy activities.\n\nLearning and advocacy activities are harder to assess. A true analysis of the impact of campaigning needs to consider counterfactuals. E.g. if The National Theatre successfully persuaded the government to spend more money to support the arts, what would that money have achieved if The National Theatre had not successfully redirected the funds? However, the campaigning element of The National Theater\u0027s work is small and probably would not affect the result of our analysis.\n\n**Conclusion**\nIf it costs around £9 for someone to engage with The National Theatre\u0027s work, by either attending a live performance or watching it virtually, then £1,500 could fund just over 160 people. We believe that 160 people watching a theatre play is likely to be less positive an outcome than saving someone\u0027s life. (possibly bronze once research is done)\n\nFor reference, when we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove, that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Gold-rated charity (i.e. achieves less positive impact per pound donated than a Gold-rated charity)\n",
+  "whyTags": "Arts, Culture",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/NT_Logo-10359711033497118299.png",
+  "@id": "royal-national-theatre",
+  "wikipedia": "https://en.wikipedia.org/wiki/Royal_National_Theatre",
+  "summaryDescription": "To promote theatre in the UK and make it more accessible, The National Theatre organises plays and several outreach activities",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/NT_Pic-12883986881105397622.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Royal National Theatre",
+    "royal-national-theatre"
+  ],
+  "url": "http://www.nationaltheatre.org.uk/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "impact": {
+      "notes": ""
+    },
+    "description": {
+      "notes": ""
+    }
+  },
+  "name": "Royal National Theatre",
+  "category": "arts culture humanities",
+  "subcategory": "Performing Arts",
+  "englandWalesCharityRegNum": "224223",
+  "uk_giftaid": true,
+  "whereTags": "UK, London",
+  "status": "DRAFT"
+}
