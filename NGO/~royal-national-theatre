@@ -380,15 +380,7 @@
         },
         {
           "number": 1740000.0,
-          "name": "Audience members (singular: audience member) engaged",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "38.62",
-            "currency": "",
-            "value100p": 386200.0,
-            "value": 38.62
-          }
+          "name": "Audience members (singular: audience member) engaged"
         }
       ],
       "year": 2020.0,
