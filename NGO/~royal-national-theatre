@@ -380,7 +380,7 @@
         },
         {
           "number": 1740000.0,
-          "name": "audience members (singular: audience member) engaged",
+          "name": "Audience members (singular: audience member) engaged",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
