@@ -470,6 +470,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4000000",
+          "currency": "GBP",
+          "value100p": 4.0E10,
+          "value": 4000000.0
         }
       ],
       "name": "NT Learning \u0026 Public Engagement"
