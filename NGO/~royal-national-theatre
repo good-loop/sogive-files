@@ -443,10 +443,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "2500000",
+          "raw": "10800000",
           "currency": "GBP",
-          "value100p": 2.5E10,
-          "value": 2500000.0
+          "value100p": 1.08E11,
+          "value": 1.08E7
         }
       ],
       "name": "NT Live \u0026 Digital"
