@@ -421,7 +421,12 @@
       "name": "Performances "
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "Audience members (singular: Audience member) engaged online"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
