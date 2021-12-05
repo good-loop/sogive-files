@@ -458,6 +458,10 @@
         {
           "number": 6000.0,
           "name": "young people (singular: young person) took part in theatre plays"
+        },
+        {
+          "number": 150.0,
+          "name": "schools (singular: school) supported"
         }
       ],
       "year": 2020.0,
