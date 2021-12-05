@@ -450,7 +450,12 @@
       "name": "NT Live \u0026 Digital"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 152.0,
+          "name": "school plays (singular: school play) supported"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
