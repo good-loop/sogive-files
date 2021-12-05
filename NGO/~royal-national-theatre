@@ -525,12 +525,7 @@
       "name": "NT Major Projects"
     },
     {
-      "outputs": [
-        {
-          "number": 1000.0,
-          "name": "artists (singular: artist) supported"
-        }
-      ],
+      "outputs": [],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
