@@ -462,6 +462,10 @@
         {
           "number": 152.0,
           "name": "schools (singular: school) supported"
+        },
+        {
+          "number": 1000.0,
+          "name": "artists (singular: artist) supported"
         }
       ],
       "year": 2020.0,
