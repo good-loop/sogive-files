@@ -376,7 +376,7 @@
         {
           "number": 28.0,
           "name": "Productions (singular: production) played",
-          "description": "This refers to the number of productions, not the amount of shows played. At least, otherwise the average number of attendants per show is around 60,000. "
+          "description": "This refers to the number of productions, not the amount of shows performed. At least, otherwise the average number of attendants per show is around 60,000. "
         },
         {
           "number": 1740000.0,
