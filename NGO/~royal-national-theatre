@@ -410,7 +410,8 @@
           "value": 6.72E7
         }
       ],
-      "name": "Performances "
+      "name": "Performances ",
+      "isRep": true
     },
     {
       "outputs": [
@@ -596,7 +597,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "Productions (singular: production) played",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 23999999999,
+      "value": "2399999.99999999971200000"
+    }
   },
   "meta": {
     "noPublicDonations": {
