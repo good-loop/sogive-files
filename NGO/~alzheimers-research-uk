@@ -1,0 +1,407 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends89/0001077089_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "36,050,298",
+          "currency": "GBP",
+          "value100p": 3.6050298E11,
+          "value": 3.6050298E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3,216,318",
+          "currency": "GBP",
+          "value100p": 3.216318E10,
+          "value": 3216318.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "442,133",
+          "currency": "GBP",
+          "value100p": 4.42133E9,
+          "value": 442133.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Taken annual costs numbers from consolidated balance sheet, not charity balance sheet. Makes slight difference? (p25)\n\nTaken trading costs as Support costs (p36)\n\nTaken income from beneficiaries as \"income from charitable activities\" (p25)"
+        },
+        "reserves": {
+          "notes": "Call with Richard: check with Sanjay because negative atm"
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "-1,331,151",
+        "currency": "GBP",
+        "value100p": -1.331151E10,
+        "value": -1331151.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 88.0,
+          "name": "Projects supported (singular: Project supported)"
+        },
+        {
+          "number": 21.0,
+          "name": "Drug discovery projects supported (singular: drug discovery project supported)",
+          "description": "Drug discovery projects progressed via Drug Discovery Institutes"
+        },
+        {
+          "number": 200.0,
+          "name": "Important discoveries (singular: important discovery) "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends89/0001077089_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "19,796,240",
+          "currency": "GBP",
+          "value100p": 1.979624E11,
+          "value": 1.979624E7
+        }
+      ],
+      "name": "Dementia research",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 260000.0,
+          "name": "Health information booklets (singular: health information booklet)",
+          "description": "Free health information booklets to households and communities across the UK."
+        },
+        {
+          "number": 4100.0,
+          "name": "Enquiries handled (singular: enquiry handled)",
+          "description": "Enquiries handled via Dementia Research lnfoline, which offers guidance and reassurance."
+        },
+        {
+          "number": 40.0,
+          "name": "Public awareness events (singular: public awareness event)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends89/0001077089_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5,158,324",
+          "currency": "GBP",
+          "value100p": 5.158324E10,
+          "value": 5158324.0
+        }
+      ],
+      "name": "Information and advocacy",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11273708\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3964458"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "31237834",
+          "currency": "GBP",
+          "value100p": 3.1237834E11,
+          "value": 3.1237834E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "393034",
+          "currency": "GBP",
+          "value100p": 3.93034E9,
+          "value": 393034.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "476915",
+          "currency": "GBP",
+          "value100p": 4.76915E9,
+          "value": 476915.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Income from beneficiaries is \"Income from charitable activities\" (pg. 33). Trading costs is using \"Other trading \u0026 income generating activities\" as a proxy (pg. 33)"
+        },
+        "reserves": {
+          "notes": "Pg 35"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "6514276",
+        "currency": "",
+        "value100p": 6.514276E10,
+        "value": 6514276.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11273708\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3964458"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "17334179",
+          "currency": "GBP",
+          "value100p": 1.7334179E11,
+          "value": 1.7334179E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Pg. 44"
+        }
+      },
+      "name": "Dementia research"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11273708\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3964458"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4000196",
+          "currency": "GBP",
+          "value100p": 4.000196E10,
+          "value": 4000196.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Pg. 44"
+        }
+      },
+      "name": "Information and advocacy"
+    }
+  ],
+  "@type": "NGO",
+  "recommendation": "**To evaluate Alzheimer Research UK under the SoGive rating methodology, we would need more information**\n\nAlzheimer Research UK funds research in specialist research to investigate the causes, treatment, and cure for all forms of dementia. It also engages in information and advocacy activities related to this.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Alzheimer\u0027s Research UK does**\n\nBased on the information we have gathered from the 2019 accounts, Alzheimer\u0027s Research UK invested £19.8m into research, supporting 88 projects and progressing 21 drug discovery programmes. Most of this is done through direct funding, but the charity also provides grants and organises international conferences.\n\nAlzheimer\u0027s Research UK also runs \"Information\" projects. This includes running awareness campaigns, distributing information, and monitoring public attitudes. Additionally, Alzheimer\u0027s Research UK also engage in advocacy, which is focused around their \u0027\u0027No time to lose\" and demands increased government funding.\n\n**Benchmarking**\n\nHaving reviewed Alzheimer Research UK\u0027s work under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, we have focused on the \"Research\" area of Alzheimer Research UK, which constitutes around 80% of its charitable activities, as per the 2019 accounts. While this seems reasonable, it\u0027s possible that the impact of the marginal pound donated to Alzheimer Research UK could be related to information and advocacy could have a different level of impactfulness if it is used for learning or advocacy activities.\n\nFrom the annual report we understand that on average it costs Alzheimer Research UK £181,616 to fund a research or drug discovery project.\n\nResearch projects funded are difficult to assess, as they may result in a significant improvement of people suffering from dementia and preventing future cases. Our [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) on this suggests there are some tentative reasons to be positive about research. Given that [findings](https://www.nhs.uk/news/neurology/dementia-could-strike-1-in-3-born-this-year-claims-report/) indicates that one in three British people born this year could develop dementia during their lifetime, any breakthroughs could have a large impact and Alzheimer Research UK is Europe\u0027s leading dementia research charity. \n\nHowever, our another [analysis]\n(https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?view\u003dsidebar) suggests that research regarding neurological diseases, the subject of Alzheimer Research UK, is slightly overfunded: The amount spent on the research as proportion of the total UK research spend is around 9%, whereas the global disease burden in Disability Adjusted Life Years is around 4%. This suggests that the marginal pound spend on neurological disease research may be used less effectively than a marginal pound donated to research in infection (18% global disease burden and 11% proportion of the UK research spend) or reproductive health and childbirth (9% global disease burden and 2% proportion of the UK research spend). It would therefore be more sensible to donate on the research in these two categories. Yet, another category appaears to be substantially more overfunded than Alzheimer research, namely research on cancer, with its 9% global disease burden and 43% proportion of the total UK research spend. Donating to Alzheimer Research UK or another neurological disease research charity is therefore relatively sensible.\n\nInformation and advocacy activities are also hard to assess. A true analysis of the impact of campaigning needs to consider counterfactuals. E.g. if Alzheimer\u0027s Research UK successfully persuaded the government to spend more money to support people suffering from neurological diseases, what would that money have achieved if Alzheimer\u0027s Research UK had not successfully redirected the funds? However, as the information and advocacy elements of Alzheimer\u0027s Research UK\u0027s work are small, we have left these considerations out of this analysis.\n\n**Conclusion**\n\nIt is thus not clear what the marginal benefit of the marginal pound donated to Alzheimer Research UK. This is because quantifying research is inherently difficult to do, especially at the margin. For us to be able to say that Alzheimer Research UK is as cost-effective as one of our benchmark charities, they would need to show that donating to them  would achieve an outcome as good as saving a life. Based on our judgement, the report contains no evidence of this sort.\n\nFurther information that would enable us to form a fuller opinion of the work of Alzheimer Research UK would be a more comprehensive impact assessments, both in quantity and depth. I.e. for each costed project, not just the number of outputs achieved (e.g. research projects funded or number of discoveries made) but also a sizing of the ultimate benefits (e.g. measuring how many people may receive better treatment/prevention and what big is the effect of this on their wellbeing). We would also be interested in the quality of these assessments (e.g. did the studies compare against a control group, how were the controls determined, etc.).",
+  "description": "Dementia Research\n- Focus on improving diagnosis, reducing risk, and developing treatments\n- Drug Discovery Alliance includes three dedicated institutes that are developing a portfolio of 21 drugs for treatment\n- Dementia Consortium brings together university researchers, charities and pharmaceutical companies to assist and fund research\n- Dementia Discovery Fund provides early stage venture capital investments to fast-track the search for new treatments for dementia\n- UK Dementia Research Institute acts as a hub to connect UK research efforts\n\nInformation and Advocacy\n- Builds a broader public understanding, particularly making the case that dementia is not an inevitable part of ageing\n- Hosts information online and writes articles\n- Monitors public attitudes through surveys\n- Advocates for increased government funding through the \u0027\u0027No time to lose\" campaign",
+  "whyTags": "Health, Research",
+  "imageCaption": "AR UK Research",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/ARU-11872117981588045239.png",
+  "@id": "alzheimers-research-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alzheimer\u0027s_Research_UK",
+  "summaryDescription": "Dementia research charity, dedicated to investigating the causes of this condition, and developing ways to prevent, treat and ultimately, cure all forms of the condition.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/ARU_pic-11303424699837558098.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "ALZHEIMERS RESEARCH UK",
+    "alzheimers-research-uk"
+  ],
+  "url": "https://www.alzheimersresearchuk.org/",
+  "howTags": "Research, Awareness, Advocacy",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "impact": {
+      "notes": ""
+    }
+  },
+  "name": "ALZHEIMERS RESEARCH UK",
+  "logo_white": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alzheimer%27s_Research_UK_logo_new.svg/320px-Alzheimer%27s_Research_UK_logo_new.svg.png",
+  "category": "health",
+  "subcategory": "Medical Research",
+  "englandWalesCharityRegNum": "1077089",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
