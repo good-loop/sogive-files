@@ -485,7 +485,12 @@
       "name": "Individual Aid"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 84000.0,
+          "name": "patient consultations"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
