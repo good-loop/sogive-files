@@ -591,7 +591,8 @@
       "outputs": [
         {
           "number": 41.0,
-          "name": "school projects"
+          "name": "school projects",
+          "description": "school projects, no figure for water projects"
         }
       ],
       "year": 2020.0,
