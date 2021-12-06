@@ -592,7 +592,11 @@
         {
           "number": 41.0,
           "name": "school projects",
-          "description": "school projects, no figure for water projects"
+          "description": ""
+        },
+        {
+          "number": 109.0,
+          "name": "water projects"
         }
       ],
       "year": 2020.0,
