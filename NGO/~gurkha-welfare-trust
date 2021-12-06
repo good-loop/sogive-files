@@ -588,7 +588,12 @@
       "name": "Disaster Response"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 41.0,
+          "name": "school projects"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
