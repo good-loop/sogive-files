@@ -396,7 +396,7 @@
     "the-multiple-sclerosis-society-of-great-britain-and-northern-ireland"
   ],
   "url": "https://www.mssociety.org.uk/",
-  "howTags": "Campaigning, Research, Direct Work. Campaigning",
+  "howTags": "Campaigning, Research, Direct Work.",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
@@ -413,5 +413,5 @@
   "englandWalesCharityRegNum": "1139257-1",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, England, Wales, Scotland, Northern Ireland",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
