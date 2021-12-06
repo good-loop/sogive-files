@@ -2,50 +2,6 @@
   "projects": [
     {
       "outputs": [],
-      "adjustmentComment": "",
-      "donationWording": "",
-      "images": "",
-      "@type": "Project",
-      "stories_src": "",
-      "inputs": [
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "annualCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "fundraisingCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "tradingCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP",
-          "value": 0.0
-        }
-      ],
-      "isRep": true,
-      "ready": false,
-      "analysisComment": "",
-      "name": "overall",
-      "analyst": "Sanjay",
-      "location": ""
-    },
-    {
-      "outputs": [],
       "data-src": [
         {
           "@type": "Citation",
@@ -560,7 +516,12 @@
       "name": "Medical Aid"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 43.0,
+          "name": "residents"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
