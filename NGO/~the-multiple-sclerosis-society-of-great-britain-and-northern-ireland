@@ -1,0 +1,417 @@
+{
+  "scotlandCharityRegNum": "SC041628",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "29056000",
+          "currency": "GBP",
+          "value100p": 2.9056E11,
+          "value": 2.9056E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "6765000",
+        "currency": "GBP",
+        "value100p": 6.765E10,
+        "value": 6765000.0
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4016000",
+          "currency": "GBP",
+          "value100p": 4.016E10,
+          "value": 4016000.0
+        }
+      ],
+      "name": "Effective treatments "
+    },
+    {
+      "outputs": [
+        {
+          "number": 22328.0,
+          "name": "people (singular: person) reached",
+          "description": "Supported via helpline or personally at their resource centre or public events, or via grants."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4501000",
+          "currency": "GBP",
+          "value100p": 4.501E10,
+          "value": 4501000.0
+        }
+      ],
+      "name": "Responsive care and support",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "894000",
+          "currency": "GBP",
+          "value100p": 8.94E9,
+          "value": 894000.0
+        }
+      ],
+      "name": "Preventing MS ",
+      "description": "In 2018 we launched Connect Immune Research, alongside the Juvenile Diabetes Research Foundation and Versus Arthritis, and with the British Society for Immunology as a supporting partner.\nThis partnership aims to explore the root causes of individual diseases by encouraging research that works across, or learns from, autoimmune conditions. We also continued to fund several research grants into prevention of MS. \n"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3810000",
+          "currency": "GBP",
+          "value100p": 3.81E10,
+          "value": 3810000.0
+        }
+      ],
+      "name": "Quality information ",
+      "description": "Costs for the creation and distribution of booklets, website and social media maintenance or organisation of information events. "
+    },
+    {
+      "outputs": [
+        {
+          "number": 16300.0,
+          "name": "people (singular: person) reached",
+          "description": "This means people supported via MS Society organised volunteer groups, or that received professional financial advice. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6157000",
+          "currency": "GBP",
+          "value100p": 6.157E10,
+          "value": 6157000.0
+        }
+      ],
+      "name": "A strong community, independent lives"
+    },
+    {
+      "outputs": [
+        {
+          "number": 86.0,
+          "name": "grants awarded",
+          "description": "Grants awarded to families and carers of people affected by MS to allow them to learn new skills or socialise and relax."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1364000",
+          "currency": "GBP",
+          "value100p": 1.364E10,
+          "value": 1364000.0
+        }
+      ],
+      "name": "Supporting families and carers "
+    },
+    {
+      "outputs": [
+        {
+          "number": 5.0,
+          "name": "research projects funded",
+          "description": "Funding research that would help make the MS diagnosis more accurate. 3 new projects funded in 2018, 2 ongoing funded."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends57/0001139257_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "517000",
+          "currency": "GBP",
+          "value100p": 5.17E9,
+          "value": 517000.0
+        }
+      ],
+      "name": "Greater certainty about the future "
+    }
+  ],
+  "@type": "NGO",
+  "description": "The charity divides its work into 7 goals:\n\n1. Effective treatments: people with MS will have access to treatments for their condition, including treatments that can slow, stop or reverse the accumulation of disability.\n2. Responsive care and support: people with MS, including those being diagnosed, will have access to support that is responsive to their needs, and recognises them as equal partners in their care.\n3. Preventing MS: progress in research means that fewer people will develop MS.\n4. Quality information: people affected by MS will have access to high-quality information that meets their needs.\n5. A strong community, independent lives: people affected by MS will be able to live their lives, strengthened by a community that ensures no one has to face MS alone.\n6. Supporting families and carers: the families and carers of people with MS will have access to the support they need.\n7. Greater certainty about the future: people with MS will have greater certainty about how their condition will progress. ",
+  "recommendation": "More information is needed to assess The Multiple Sclerosis Society of Great Britain and Northern Ireland under the SoGive rating methodology.\n\nMS Society support to people diagnosed with Multiple Sclerosis, their families and carers, and funds research in the area of MS.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\nBased on information we have gathered from the 2018 accounts, we understand that it may cost around £200 to support one person via helpline or personally at their resource centre or public events. \n\nUnder MS Society\u0027s Strong Community, Independent lives project, it may cost around just under £400 to support one person via MS Society organised volunteer groups, or to provide professional financial advice that families affected by multiple sclerosis otherwise could not afford.\n\nIn 2018, MS Society also awarded 86 grants to family members and carers of people with multiple sclerosis to allow them to learn new skills or to socialise and relax.\n\nIn 2018 MS Society also devoted £517 000 to fund research projects that aim to find ways to diagnose multiple sclerosis more accurately, so as to eliminate the uncertainty people with multiple sclerosis are facing.\n\nMS Society also engages in campaigning and lobbying for better conditions and treatment of people with multiple sclerosis, and publishes information booklets.\n\nWe then compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500.\n\nAssessing the impact of a donation to the MS Society is complicated by the fact that the organisation does several different things, and knowing where the marginal next pound donated would go is difficult.\n\nHowever if we take the example of the Strong Community, Independent Lives project, the SoGive method involves comparing with a benchmark charity, i.e. comparing 1 life saved or 4 people provided with support. We do not believe we have enough information about the nature of the support provided to know whether 4 people supported is better than saving one person\u0027s life.",
+  "whyTags": "Health, Disease, Multiple Sclerosis",
+  "parentCharityName": "Multiple Sclerosis Society",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/MS_soc_logo-5638463437958497862.jpg",
+  "@id": "the-multiple-sclerosis-society-of-great-britain-and-northern-ireland",
+  "summaryDescription": "The MS Society is a charitable organisation that funds research and support for people living with multiple sclerosis.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/Great-North-Run-Banner-1140-x-413-6830145127304056247.jpg",
+  "parentCharity": "SC041990",
+  "impact": "more-info-needed",
+  "suggest": [
+    "The Multiple Sclerosis Society of Great Britain and Northern Ireland",
+    "the-multiple-sclerosis-society-of-great-britain-and-northern-ireland"
+  ],
+  "url": "https://www.mssociety.org.uk/",
+  "howTags": "Campaigning, Research, Direct Work. Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2015854,
+      "value": "201.58545324256536414000"
+    }
+  },
+  "name": "The Multiple Sclerosis Society of Great Britain and Northern Ireland",
+  "englandWalesCharityRegNum": "1139257-1",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, England, Wales, Scotland, Northern Ireland",
+  "status": "PUBLISHED"
+}
