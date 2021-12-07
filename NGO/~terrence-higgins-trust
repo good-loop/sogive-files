@@ -334,7 +334,7 @@
   ],
   "@type": "NGO",
   "noPublicDonations": false,
-  "description": "Our mission is to eradicate HIV transmission in the UK, to empower and support people living with HIV to lead healthy lives, to amplify the voices of those living with and affected by HIV across public and political arenas to eradicate discrimination, and to enable people to enjoy good sexual health.\n\nOur work helps us to directly support over 100,000 people every year. Our current activities include the promotion of better HIV, sexual health and general health by education of the public through initiatives such as our campaigning work, the provision of HIV and sexual health programmes and material such as our digital service offer THT at Home, Work Positive, and the information we produce as part of our delivery of the National HIV Prevention programme in England, care and support services such as our complementary therapy services and counselling, clinical services in the form of HIV, blood borne virus (BBV) and STI testing, and advice, information and advocacy through our free-to-call helpline, THT Direct.\n\n",
+  "description": "Our mission is to eradicate HIV transmission in the UK, to empower and support people living with HIV to lead healthy lives, to amplify the voices of those living with and affected by HIV across public and political arenas to eradicate discrimination, and to enable people to enjoy good sexual health.\n\nOur work helps us to directly support over 100,000 people every year. Our current activities include the promotion of better HIV, sexual health and general health by education of the public through initiatives such as our campaigning work, the provision of HIV and sexual health programmes and material such as our digital service offer THT at Home, Work Positive, and the information we produce as part of our delivery of the National HIV Prevention programme in England, care and support services such as our complementary therapy services and counselling, clinical services in the form of HIV, blood borne virus (BBV) and STI testing, and advice, information and advocacy through our free-to-call helpline, THT Direct.",
   "suggest": [
     "Terrence Higgins Trust",
     "terrence-higgins-trust"
@@ -355,5 +355,5 @@
   "@id": "terrence-higgins-trust",
   "englandWalesCharityRegNum": "288527",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
