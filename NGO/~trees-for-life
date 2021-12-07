@@ -1,0 +1,91 @@
+{
+  "images": "",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 370596,
+      "value": "37.059697624190066193820"
+    }
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 23150.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 8.57932E7,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 857932.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-details?number\u003dSC021303#results"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "On page 1, they say that they planted 23,150 trees, and they also said that they provided 50,084 trees ready for planting. I\u0027m not sure what they mean by the latter, but I think it looks like something that should be ignored",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "displayName": "Trees for Life",
+  "noPublicDonations": false,
+  "name": "Trees for life",
+  "@id": "trees-for-life",
+  "suggest": [
+    "Trees for life",
+    "Trees for Life",
+    "trees-for-life"
+  ],
+  "uk_giftaid": true,
+  "whyTags": "Climate change, Trees"
+}
