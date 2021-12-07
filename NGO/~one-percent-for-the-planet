@@ -3,6 +3,7 @@
   "@type": "NGO",
   "name": "one-percent-for-the-planet",
   "logo": "https://media.good-loop.com/uploads/raw/1pp-logo-3-12839276370528103690.png",
+  "description": "Their membership model drives critical philanthropic support to address the most urgent environmental issues of our time. Their network exemplifies the power of collective action as they bring together individuals, businesses and nonprofit organizations around the world to support people and the planet.\n\n\n\n\n1% For The Planet was founded to prevent greenwashing, certify reputable giving and provide accountability. The 1% For The Planet certification is given to businesses and individuals that meet their high-bar commitment-donate 1% of annual sales or salary to environmental causes. ",
   "@id": "one-percent-for-the-planet",
   "suggest": [
     "one-percent-for-the-planet",
@@ -10,5 +11,5 @@
   ],
   "id": "one-percent-for-the-planet",
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
