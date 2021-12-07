@@ -87,6 +87,7 @@
     }
   },
   "name": "Trees for life",
+  "logo": "https://media.good-loop.com/uploads/standard/Trees_for_Life-10059705772026101565.png",
   "@id": "trees-for-life",
   "uk_giftaid": true,
   "status": "DRAFT"
