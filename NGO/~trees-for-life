@@ -1,17 +1,5 @@
 {
   "images": "",
-  "simpleImpact": {
-    "number": 1.0,
-    "@type": "Output",
-    "name": "",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 370596,
-      "value": "37.059697624190066193820"
-    }
-  },
   "projects": [
     {
       "outputs": [
@@ -72,20 +60,34 @@
     }
   ],
   "@type": "NGO",
-  "meta": {
-    "noPublicDonations": {
-      "notes": "Yes"
-    }
-  },
   "displayName": "Trees for Life",
   "noPublicDonations": false,
-  "name": "Trees for life",
-  "@id": "trees-for-life",
   "suggest": [
     "Trees for life",
     "Trees for Life",
     "trees-for-life"
   ],
+  "url": "https://treesforlife.org.uk/",
+  "whyTags": "Climate change, Trees",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 370596,
+      "value": "37.059697624190066193820"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Trees for life",
+  "@id": "trees-for-life",
   "uk_giftaid": true,
-  "whyTags": "Climate change, Trees"
+  "status": "DRAFT"
 }
