@@ -1,5 +1,5 @@
 {
-  "images": "",
+  "images": "https://media.good-loop.com/uploads/standard/terrence-higgings-16150517139874397129.jpeg",
   "projects": [
     {
       "outputs": [],
@@ -355,5 +355,5 @@
   "@id": "terrence-higgins-trust",
   "englandWalesCharityRegNum": "288527",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
