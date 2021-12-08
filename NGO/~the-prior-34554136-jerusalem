@@ -695,6 +695,37 @@
         }
       ],
       "name": "Training the public"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12100000",
+          "currency": "GBP",
+          "value100p": 1.21E11,
+          "value": 1.21E7
+        }
+      ],
+      "name": "First aid products"
     }
   ],
   "@type": "NGO",
