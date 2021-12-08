@@ -633,6 +633,37 @@
         }
       ],
       "name": "Covid-19 support"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3900000",
+          "currency": "GBP",
+          "value100p": 3.9E10,
+          "value": 3900000.0
+        }
+      ],
+      "name": "Community support programmes"
     }
   ],
   "@type": "NGO",
