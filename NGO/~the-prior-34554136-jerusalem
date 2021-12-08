@@ -726,6 +726,37 @@
         }
       ],
       "name": "First aid products"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1400000",
+          "currency": "GBP",
+          "value100p": 1.4E10,
+          "value": 1400000.0
+        }
+      ],
+      "name": "Other charitable activities"
     }
   ],
   "@type": "NGO",
