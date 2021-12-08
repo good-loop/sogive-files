@@ -664,6 +664,37 @@
         }
       ],
       "name": "Community support programmes"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "26600000",
+          "currency": "GBP",
+          "value100p": 2.66E11,
+          "value": 2.66E7
+        }
+      ],
+      "name": "Training the public"
     }
   ],
   "@type": "NGO",
