@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "South Wester Atheltic ",
   "logo": "https://media.good-loop.com/uploads/standard/Pepsi_Zero_-_SWAC_Lockup_-_Horizontal-11156202544836433198.png",
   "id": "south-western-athletic-conference",
-  "suggest": [],
+  "suggest": [
+    "South Wester Atheltic "
+  ],
   "status": "DRAFT"
 }
