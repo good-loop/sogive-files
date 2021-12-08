@@ -571,6 +571,37 @@
         }
       ],
       "name": "First aid provision and youth development"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16200000",
+          "currency": "GBP",
+          "value100p": 1.62E11,
+          "value": 1.62E7
+        }
+      ],
+      "name": "Ambulance and transport services"
     }
   ],
   "@type": "NGO",
