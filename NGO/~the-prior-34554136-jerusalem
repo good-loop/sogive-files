@@ -602,6 +602,37 @@
         }
       ],
       "name": "Ambulance and transport services"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10300000",
+          "currency": "GBP",
+          "value100p": 1.03E11,
+          "value": 1.03E7
+        }
+      ],
+      "name": "Covid-19 support"
     }
   ],
   "@type": "NGO",
