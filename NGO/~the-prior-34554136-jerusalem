@@ -519,10 +519,21 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "91100000",
+        "currency": "",
+        "value100p": 9.11E11,
+        "value": 9.11E7
+      }
     }
   ],
   "@type": "NGO",
