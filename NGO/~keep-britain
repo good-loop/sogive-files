@@ -158,6 +158,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.keepbritaintidy.org/sites/default/files/resource/Keep%20Britain%20Tidy%20Annual%20Report%202019-2020.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -174,6 +180,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
