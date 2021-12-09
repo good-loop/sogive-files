@@ -30,6 +30,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "year": {
+          "notes": "year ended 31 March 2020"
+        }
+      },
       "name": "overall"
     }
   ],
