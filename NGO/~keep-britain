@@ -30,6 +30,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "year": {
+          "notes": "year en"
+        }
+      },
       "name": "overall"
     }
   ],
