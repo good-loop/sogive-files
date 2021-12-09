@@ -2,6 +2,37 @@
   "circleCrop": 90.0,
   "images": "https://media.good-loop.com/uploads/standard/26313_-_Web_banner_-_Puffin_-_3488x1991-2960685254568114291.jpeg",
   "ukCompanyRegNum": "3496361",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.keepbritaintidy.org/sites/default/files/resource/Keep%20Britain%20Tidy%20Annual%20Report%202019-2020.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "displayName": "Keep Britain Tidy",
   "description": "Keep Britain Tidy is an independent charity with three goals - to eliminate litter, end waste and improve places. This means more to us than just picking up litter. It means creating clean beaches, parks and streets. It means creating sustainable practices and eliminating unnecessary waste.",
@@ -12,6 +43,11 @@
   ],
   "url": "https://www.keepbritaintidy.org/",
   "whyTags": "community, environment, public spaces",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
   "name": "keep-britain",
   "logo": "https://media.good-loop.com/uploads/raw/Keep__Britain__Tidy-15066068793580680195.png",
   "@id": "keep-britain",
