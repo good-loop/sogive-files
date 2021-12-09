@@ -36,6 +36,9 @@
       "meta": {
         "year": {
           "notes": "year ended 31 March 2020"
+        },
+        "inputs_meta": {
+          "notes": "p.22"
         }
       },
       "name": "overall"
