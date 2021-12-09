@@ -8,10 +8,10 @@
       "data-src": [
         {
           "@type": "Citation",
-          "url": ""
+          "url": "https://www.keepbritaintidy.org/sites/default/files/resource/Keep%20Britain%20Tidy%20Annual%20Report%202019-2020.pdf"
         }
       ],
-      "year": 2019.0,
+      "year": 2020.0,
       "@type": "Project",
       "inputs": [
         {
@@ -30,11 +30,6 @@
           "currency": "GBP"
         }
       ],
-      "meta": {
-        "year": {
-          "notes": "year ended 31 March 2020"
-        }
-      },
       "name": "overall"
     }
   ],
@@ -51,7 +46,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "name": "keep-britain",
   "logo": "https://media.good-loop.com/uploads/raw/Keep__Britain__Tidy-15066068793580680195.png",
