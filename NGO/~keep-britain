@@ -1,0 +1,19 @@
+{
+  "circleCrop": 90.0,
+  "images": "https://media.good-loop.com/uploads/standard/26313_-_Web_banner_-_Puffin_-_3488x1991-2960685254568114291.jpeg",
+  "@type": "NGO",
+  "displayName": "Keep Britain Tidy",
+  "description": "Keep Britain Tidy is an independent charity with three goals - to eliminate litter, end waste and improve places. This means more to us than just picking up litter. It means creating clean beaches, parks and streets. It means creating sustainable practices and eliminating unnecessary waste.",
+  "suggest": [
+    "keep-britain",
+    "Keep Britain Tidy",
+    "keep-britain"
+  ],
+  "url": "https://www.keepbritaintidy.org/",
+  "name": "keep-britain",
+  "logo": "https://media.good-loop.com/uploads/raw/Keep__Britain__Tidy-15066068793580680195.png",
+  "@id": "keep-britain",
+  "id": "keep-britain",
+  "englandWalesCharityRegNum": "1071737",
+  "status": "PUBLISHED"
+}
