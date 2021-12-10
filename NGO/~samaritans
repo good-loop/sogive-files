@@ -388,7 +388,15 @@
     {
       "outputs": [
         {
-          "name": "mental health helpline sessions (singular: session)"
+          "name": "mental health helpline sessions (singular: session)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "5",
+            "currency": "",
+            "value100p": 50000.0,
+            "value": 5.0
+          }
         }
       ],
       "data-src": [
