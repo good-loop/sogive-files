@@ -390,6 +390,7 @@
         {
           "number": 3680459.0,
           "name": "mental health helpline sessions (singular: session)",
+          "description": "Callers into the mental ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
