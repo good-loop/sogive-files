@@ -215,6 +215,11 @@
           "value": 1029507.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Awards and Accreditation"
     },
     {
