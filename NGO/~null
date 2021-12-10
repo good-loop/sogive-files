@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Rescue City",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/greater_good_charities-7712472304939917688.png#ccrop:116",
-  "id": "greater-good-charities",
-  "suggest": [],
-  "status": "DRAFT"
+  "logo": "https://media.good-loop.com/uploads/standard/rescue_city-15919304547000626200.png#ccrop:101",
+  "id": "rescue-city",
+  "suggest": [
+    "Rescue City"
+  ],
+  "status": "PUBLISHED"
 }
