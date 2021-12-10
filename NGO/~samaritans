@@ -474,6 +474,9 @@
         {
           "@type": "Citation",
           "url": "https://media.samaritans.org/documents/Samaritans_Annual_Report_and_Accounts_2020-21.pdf"
+        },
+        {
+          "@type": "Citation"
         }
       ],
       "year": 2021.0,
