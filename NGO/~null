@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Rescue City",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/rescue_city-15919304547000626200.png",
-  "id": "rescue-city",
-  "suggest": [
-    "Rescue City"
-  ],
-  "status": "DRAFT"
+  "id": "pets-for-patriots",
+  "suggest": []
 }
