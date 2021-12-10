@@ -1,0 +1,473 @@
+{
+  "scotlandCharityRegNum": "SC040604",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5000000.0,
+          "@type": "Output",
+          "name": "call(s) taken",
+          "description": "Samaritans provides free, 24 hour, confidential emotional support for people who are experiencing feelings of distress, despair or suicidal thoughts.",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 2.0E11,
+          "value": 2.0E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "Source is essentially Sanjay\u0027s insider knowledge. it\u0027s complicated because the true cost is the c ?10m of spend at the level of the central charity + the cost of each of the c 200 branches, whose overall spend sums to c another ?10m - no easy way of calculating that latter figure (the hard way is to go through the financials of all 201 entities and add them up)"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Strictly this is the cost per intervention, not cost per beneficiary (i.e. cost per contact/call with Samaritans, but it could be that the same person calls several times, so the cost per beneficiary is higher)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 5256000.0,
+          "meta": {
+            "all": {
+              "notes": "",
+              "source": ""
+            }
+          },
+          "confidence": "medium",
+          "name": "mental health help sessions (singular: session)",
+          "description": "Help comes in the form of phone calls, emails, SMS, letters, and face to face conversations.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "4",
+            "currency": "GBP",
+            "value100p": 40000.0,
+            "value": 4.0
+          }
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "18503000",
+          "currency": "GBP",
+          "value100p": 1.8503E11,
+          "value": 1.8503E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "6583000",
+        "currency": "GBP",
+        "value100p": 6.583E10,
+        "value": 6583000.0
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "reserves": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "name": "overall",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5256000.0,
+          "meta": {
+            "all": {
+              "notes": "For Samaritans, the cost of reaching to people is not just the total cost, but also another 5-10mil in the Samaritan branches. £4 is the figure used by Samaritans in previous years. ",
+              "source": ""
+            }
+          },
+          "confidence": "medium",
+          "name": "mental health help sessions (singular: session)",
+          "description": "Help comes in the form of phone calls, emails, SMS, letters, and face to face conversations. Each call last for [21 minutes on average](https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf).",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "4",
+            "currency": "GBP",
+            "value100p": 40000.0,
+            "value": 4.0
+          }
+        }
+      ],
+      "image": "",
+      "stories": "",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12115000",
+          "currency": "GBP",
+          "value100p": 1.2115E11,
+          "value": 1.2115E7
+        }
+      ],
+      "start": "2018-04-01",
+      "description": "",
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "imageCaption": "",
+      "meta": {
+        "image": {
+          "source": ""
+        },
+        "imageCaption": {
+          "source": ""
+        },
+        "stories": {
+          "source": ""
+        },
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "description": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "name": "Access and service",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "stories": "",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2825000",
+          "currency": "GBP",
+          "value100p": 2.825E10,
+          "value": 2825000.0
+        }
+      ],
+      "start": "2018-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "stories": {
+          "source": ""
+        },
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "description": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "name": "Influence",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "stories": "",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "312000",
+          "currency": "GBP",
+          "value100p": 3.12E9,
+          "value": 312000.0
+        }
+      ],
+      "start": "2018-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "stories": {
+          "source": ""
+        },
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "description": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "name": "Evidence",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Samaritans",
+  "description": "[Every 90 minutes](https://media.samaritans.org/documents/Samaritans_Annual_Report_2018-19_FINAL.pdf), someone in the UK or Ireland takes their own life. [Samaritans](https://www.samaritans.org/about-samaritans/our-organisation/what-we-do/) not only provides help at times of crisis but also seeks to prevent crises from happening. During 2018, more than 20,000 people volunteered for the Samaritans, and Samaritans have 201 branches across the UK and Ireland.",
+  "recommendation": "**To evaluate Samaritans under the SoGive rating methodology, we would need more information.**\n\nSamaritans reduces distress and despair through its confidential emotional support, primarily by providing its phone helpline.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Samaritans does**\n\nBased on self-reported information provided historically by Samaritans, we understand that providing helpline service for one time costs around £4.\n\n19% and 2% of the expenditures go respectively to campaigns and research. The latter accounts for such a small percentage of the expenses that we have left research output out of our analysis. Our earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) has tentatively suggested that peer-reviewed research may have some positive impacts.\n\n**Benchmarking**\n\nAfter a review of the work of Samaritans under the two-question method, the next step in the SoGive process involves comparing Samaritans to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, we found that £1,500 can fund roughly 650 helpline calls or other similar care services. According to Samaritans\u0027 18/19 impact report, one-quarter of the callers expressed suicidal feelings. Since these calls are aimed directly at alleviating tremendous distress and preventing people from dying by suicide, we cannot rule out the possibility that 650 of these calls would result in a more positive outcome than saving someone\u0027s life. Only around 0.9% of the callers express seriously suicidal feelings. For the year 2018/19, that would mean around 6 people. However, we know of no evidence that the service provided by Samaritans had a lasting life-saving impact. Furthermore, based on our understanding of Samaritans\u0027 approach to impact and evaluation we do not consider them to be a leader in this field.\n\n**Conclusion**\n\nWe cannot conclude based on the information we currently have whether Samaritans have a more cost-effective impact than the Against Malaria Foundation.\n\nFurther information that would enable us to form a fuller opinion of the work of Samaritans includes:\n(a) research into the exact number of lives saved through Samaritans\n(b) the development of an ethical framework that quantifies distress alleviation\n(c) an impact assessment of Samaritan\u0027s research\n\nFull disclosure: a SoGive Director is a Samaritan volunteer.\n\n",
+  "whyTags": "Mental Health, Suicide",
+  "UNSDG": "3",
+  "imageCaption": "Chad Varah",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Samaritans__Logo__WEB-20190313023149460-2353775708957839906.jpg",
+  "@id": "samaritans",
+  "wikipedia": "https://en.wikipedia.org/wiki/Samaritans_(charity)",
+  "summaryDescription": "Samaritans’ vision is that fewer people die by suicide, which they accomplish primarily via confidential emotional support from their 24-hour phone listening service, email correspondence, face to face, letters or mobile app",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/Chad__phone__1000-square.width-728-642629346121405849.jpg",
+  "stories": "While not a religious organisation, Samaritans was established by a vicar and writer-cartoonist called [Chad Varah](https://www.samaritans.org/about-samaritans/our-history/), in 1953 in London. Throughout his life Chad had provided counselling to his parishioners, and the vicar  hoped to do more to help people with suicidal thoughts.\nChad believed that Samaritan\u0027s service involved simply \"a man willing to listen, with a base and an emergency telephone.\"",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Samaritans",
+    "Samaritans",
+    "samaritans"
+  ],
+  "url": "https://www.samaritans.org/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "mental health help sessions (singular: session)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 40000,
+      "value": "4.0"
+    }
+  },
+  "meta": {
+    "scotlandCharityRegNum": {
+      "source": ""
+    },
+    "images": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "stories": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "name": {
+      "source": ""
+    },
+    "description": {
+      "source": ""
+    },
+    "logo": {
+      "source": "https://www.thirdsector.co.uk/samaritans-launches-new-brand/communications/article/1578995"
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "englandWalesCharityRegNum": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    }
+  },
+  "name": "Samaritans",
+  "lastModified": "2020-08-21T00:58:35Z",
+  "category": "health",
+  "subcategory": "Mental Health",
+  "englandWalesCharityRegNum": "219432",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Ireland",
+  "status": "DRAFT"
+}
