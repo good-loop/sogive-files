@@ -188,7 +188,8 @@
           "notes": "p.30"
         }
       },
-      "name": "Volunteering and Community Engagement"
+      "name": "Volunteering and Community Engagement",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -372,7 +373,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "volunteer(s) recruited to clean up public spaces",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1637495,
+      "value": "163.74955052139517479375"
+    }
   },
   "name": "keep-britain",
   "logo": "https://media.good-loop.com/uploads/raw/Keep__Britain__Tidy-15066068793580680195.png",
