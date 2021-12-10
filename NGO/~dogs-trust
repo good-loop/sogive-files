@@ -1,6 +1,6 @@
 {
   "scotlandCharityRegNum": "SC037843",
-  "circleCrop": 86.0,
+  "circleCrop": 87.0,
   "projects": [
     {
       "outputs": [
@@ -678,5 +678,5 @@
   "englandWalesCharityRegNum": "227523",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
