@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Rescue City",
+  "unlisted": true,
   "id": "rescue-city",
-  "suggest": []
+  "suggest": [
+    "Rescue City"
+  ],
+  "status": "DRAFT"
 }
