@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Pets for Patriots",
   "id": "pets-for-patriots",
-  "suggest": []
+  "suggest": [
+    "Pets for Patriots"
+  ],
+  "status": "DRAFT"
 }
