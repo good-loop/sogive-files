@@ -209,12 +209,17 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1,029,507",
+          "raw": "1029507",
           "currency": "GBP",
           "value100p": 1.029507E10,
           "value": 1029507.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Awards and Accreditation"
     },
     {
