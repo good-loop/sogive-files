@@ -299,6 +299,11 @@
           "value": 834148.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Campaigns and Marketing"
     },
     {
