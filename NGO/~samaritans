@@ -391,7 +391,7 @@
           "number": 3000000.0,
           "meta": {
             "all": {
-              "notes": "This does not include 3680459"
+              "notes": "This does not include beneficiaries from services outside of the hotline. In total, 3680459"
             }
           },
           "name": "mental health helpline sessions (singular: session)",
