@@ -388,6 +388,7 @@
     {
       "outputs": [
         {
+          "number": 3680459.0,
           "name": "mental health helpline sessions (singular: session)",
           "costPerBeneficiary": {
             "@type": "Money",
