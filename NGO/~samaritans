@@ -395,7 +395,7 @@
             }
           },
           "name": "mental health helpline sessions (singular: session)",
-          "description": "This refers to callers into the phone hotline",
+          "description": "This refers to callers into the phone hotline.",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
