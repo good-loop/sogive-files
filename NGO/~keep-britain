@@ -335,7 +335,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "481,776",
+          "currency": "GBP",
+          "value100p": 4.81776E9,
+          "value": 481776.0
         }
       ],
       "name": "Waste Insights"
