@@ -147,7 +147,7 @@
               "notes": "p.6"
             }
           },
-          "name": "volunteer(s) recruited to clean up public spaces"
+          "name": "volunteer(s) recruited to improve an up public spaces"
         }
       ],
       "data-src": [
@@ -373,7 +373,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "volunteer(s) recruited to clean up public spaces",
+    "name": "volunteer(s) recruited to improve an up public spaces",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
