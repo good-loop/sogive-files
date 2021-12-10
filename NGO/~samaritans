@@ -386,7 +386,11 @@
       "end_raw": "2019-03-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "mental health helpline sessions (singular: session)"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
