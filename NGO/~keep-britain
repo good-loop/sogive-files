@@ -83,12 +83,17 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "651,274",
+          "raw": "651274",
           "currency": "GBP",
           "value100p": 6.51274E9,
           "value": 651274.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Litter and Place Services"
     },
     {
