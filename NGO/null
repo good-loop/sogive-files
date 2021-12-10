@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/logo-ggo-rev-15182852354590758882.png#ccrop:75",
+  "name": "  ",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-ggo-rev-15182852354590758882.png#ccrop:63",
   "id": "greater-good-charities",
-  "suggest": [],
-  "status": "MODIFIED"
+  "suggest": [
+    "  "
+  ],
+  "status": "DRAFT"
 }
