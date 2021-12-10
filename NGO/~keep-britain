@@ -89,11 +89,6 @@
           "value": 651274.0
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Litter and Place Services"
     },
     {
@@ -125,17 +120,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "264192",
-          "currency": "GBP",
-          "value100p": 2.64192E9,
-          "value": 264192.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Education"
     },
     {
@@ -167,17 +154,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "910775",
-          "currency": "GBP",
-          "value100p": 9.10775E9,
-          "value": 910775.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Volunteering and Community Engagement"
     },
     {
@@ -209,17 +188,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1029507",
-          "currency": "GBP",
-          "value100p": 1.029507E10,
-          "value": 1029507.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Awards and Accreditation"
     },
     {
@@ -251,17 +222,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "535141",
-          "currency": "GBP",
-          "value100p": 5.35141E9,
-          "value": 535141.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Centre for Social Innovation"
     },
     {
@@ -293,17 +256,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "834148",
-          "currency": "GBP",
-          "value100p": 8.34148E9,
-          "value": 834148.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Campaigns and Marketing"
     },
     {
@@ -335,17 +290,9 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "481776",
-          "currency": "GBP",
-          "value100p": 4.81776E9,
-          "value": 481776.0
+          "currency": "GBP"
         }
       ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "p.30"
-        }
-      },
       "name": "Waste Insights"
     }
   ],
@@ -369,6 +316,7 @@
   "@id": "keep-britain",
   "id": "keep-britain",
   "englandWalesCharityRegNum": "1071737",
+  "summaryDescription": "Keep Britain Tidy works to reduce waste and improve public spaces in the UK. ",
   "whereTags": "UK",
   "uk_giftaid": true,
   "status": "DRAFT"
