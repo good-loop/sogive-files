@@ -131,6 +131,11 @@
           "value": 264192.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Education"
     },
     {
