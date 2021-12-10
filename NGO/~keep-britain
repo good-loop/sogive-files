@@ -251,7 +251,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "535,141",
+          "currency": "GBP",
+          "value100p": 5.35141E9,
+          "value": 535141.0
         }
       ],
       "name": "Centre for Social Innovation"
