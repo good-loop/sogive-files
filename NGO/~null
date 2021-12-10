@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Pets for Patriots",
-  "logo": "https://media.good-loop.com/uploads/standard/pets_for_patriots-1917537990760908546.jpg",
-  "id": "pets-for-patriots",
-  "suggest": [
-    "Pets for Patriots"
-  ],
-  "status": "DRAFT"
+  "id": "greater-good-charities",
+  "suggest": []
 }
