@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Rescue City",
   "unlisted": true,
-  "displayName": "South Western Athletic Conference",
-  "logo": "https://media.good-loop.com/uploads/standard/Pepsi_Zero_-_SWAC_Lockup_-_Vertical-6464805391635478405.png#ccrop:80",
-  "id": "south-western-athletic-conference",
+  "logo": "https://media.good-loop.com/uploads/standard/rescue_city-15919304547000626200.png",
+  "id": "rescue-city",
   "suggest": [
-    "South Western Athletic Conference"
+    "Rescue City"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
