@@ -616,7 +616,7 @@
     "samaritans"
   ],
   "url": "https://www.samaritans.org/",
-  "howTags": "Direct work",
+  "howTags": "Direct work, ",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
