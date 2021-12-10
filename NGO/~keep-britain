@@ -251,12 +251,17 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "535,141",
+          "raw": "535141",
           "currency": "GBP",
           "value100p": 5.35141E9,
           "value": 535141.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Centre for Social Innovation"
     },
     {
