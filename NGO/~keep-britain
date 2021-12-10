@@ -89,6 +89,11 @@
           "value": 651274.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.30"
+        }
+      },
       "name": "Litter and Place Services"
     },
     {
