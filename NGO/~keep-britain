@@ -139,7 +139,12 @@
       "name": "Education"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 5562.0,
+          "name": "volunteer(s) recruited to clean up public spaces"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
