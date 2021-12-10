@@ -510,6 +510,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3724000",
+          "currency": "GBP",
+          "value100p": 3.724E10,
+          "value": 3724000.0
         }
       ],
       "name": "Influence"
