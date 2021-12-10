@@ -388,7 +388,7 @@
     {
       "outputs": [
         {
-          "number": 3680459.0,
+          "number": 3000000.0,
           "name": "mental health helpline sessions (singular: session)",
           "description": "Callers into the mental ",
           "costPerBeneficiary": {
