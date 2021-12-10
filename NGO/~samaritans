@@ -395,7 +395,7 @@
             }
           },
           "name": "mental health helpline sessions (singular: session)",
-          "description": "Callers into the mental ",
+          "description": "Callers into the phone hotline",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
