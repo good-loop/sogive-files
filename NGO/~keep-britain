@@ -293,7 +293,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "834148",
+          "currency": "GBP",
+          "value100p": 8.34148E9,
+          "value": 834148.0
         }
       ],
       "name": "Campaigns and Marketing"
