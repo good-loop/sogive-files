@@ -167,7 +167,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "910,775",
+          "currency": "GBP",
+          "value100p": 9.10775E9,
+          "value": 910775.0
         }
       ],
       "name": "Volunteering and Community Engagement"
