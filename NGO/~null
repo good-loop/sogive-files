@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/DonorsChoose__Logo-17350206333412879315.jpg",
   "id": "donors-chose",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
