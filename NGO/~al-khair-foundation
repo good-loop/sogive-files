@@ -724,6 +724,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "207,437",
+          "currency": "GBP",
+          "value100p": 2.07437E9,
+          "value": 207437.0
         }
       ],
       "name": "Rehabilitation"
