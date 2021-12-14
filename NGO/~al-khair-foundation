@@ -1,0 +1,649 @@
+{
+  "scotlandCharityRegNum": "SC042234",
+  "ukCompanyRegNum": "04819971",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "23439070",
+          "currency": "GBP",
+          "value100p": 2.343907E11,
+          "value": 2.343907E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "3938526",
+          "currency": "GBP",
+          "value100p": 3.938526E10,
+          "value": 3938526.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1911459",
+        "currency": "GBP",
+        "value100p": 1.911459E10,
+        "value": 1911459.0
+      },
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "207869",
+          "currency": "GBP",
+          "value100p": 2.07869E9,
+          "value": 207869.0
+        }
+      ],
+      "name": "Rehabilitation",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "499120",
+          "currency": "GBP",
+          "value100p": 4.9912E9,
+          "value": 499120.0
+        }
+      ],
+      "name": "Economic empowerment",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5412440",
+          "currency": "GBP",
+          "value100p": 5.41244E10,
+          "value": 5412440.0
+        }
+      ],
+      "name": "Emergency relief",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7440911",
+          "currency": "GBP",
+          "value100p": 7.440911E10,
+          "value": 7440911.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2137223",
+          "currency": "GBP",
+          "value100p": 2.137223E10,
+          "value": 2137223.0
+        }
+      ],
+      "name": "Education",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "917513",
+          "currency": "GBP",
+          "value100p": 9.17513E9,
+          "value": 917513.0
+        }
+      ],
+      "name": "Healthcare",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2902660",
+          "currency": "GBP",
+          "value100p": 2.90266E10,
+          "value": 2902660.0
+        }
+      ],
+      "name": "WASH",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "90107",
+          "currency": "GBP",
+          "value100p": 9.0107E8,
+          "value": 90107.0
+        }
+      ],
+      "name": "Protection and care",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3159936",
+          "currency": "GBP",
+          "value100p": 3.159936E10,
+          "value": 3159936.0
+        }
+      ],
+      "name": "Religious dues",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 9700.0,
+          "name": "students (singular: student) taught",
+          "description": "4 of the Al-Khair schools are located in the UK. 1 is located in Somaliland. Another 4 are located in Pakistan."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://alkhairschool.org.uk/introduction/"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://issuu.com/bangla_news/docs/akf_annual_report_2019_19_feb_v3.1"
+        }
+      ],
+      "start_raw": "2018-08-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1801303",
+          "currency": "GBP",
+          "value100p": 1.801303E10,
+          "value": 1801303.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2089362",
+          "currency": "GBP",
+          "value100p": 2.089362E10,
+          "value": 2089362.0
+        }
+      ],
+      "name": "Operation of primary and secondary school",
+      "start": "2018-08-01",
+      "end": "2019-07-31",
+      "end_raw": "2019-07-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "16588109",
+          "currency": "GBP",
+          "value100p": 1.6588109E11,
+          "value": 1.6588109E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs. Page 46. Sum of 2020 Total of \u0027Raising Funds\u0027 and \u0027Charitable Activities\u0027\n\nCurrent understanding: The entries corresponding to \u0027Primary and Secondary School\u0027 correspond to Al-Khairs private schools in the UK and is separate from their educational charity activities."
+        },
+        "reserves": {
+          "notes": "Page 46. Row is Funds balances carried forward. Column is 2020 Total"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "20169277",
+        "currency": "",
+        "value100p": 2.0169277E11,
+        "value": 2.0169277E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10716441\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4037542"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6469663",
+          "currency": "GBP",
+          "value100p": 6.469663E10,
+          "value": 6469663.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 51 of report. Table 5. Row \u0027Education\u0027. Column \u0027Total 2020 costs\u0027"
+        }
+      },
+      "name": "Education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10716441\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4037542"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5096561",
+          "currency": "GBP",
+          "value100p": 5.096561E10,
+          "value": 5096561.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 51. Table 5. Row \u0027religious dues\u0027. column \u0027total 2020 costs\u0027"
+        }
+      },
+      "name": "Religious Dues"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Al-Khair Foundation works both internationally and in the UK. Their activities cover several different areas, including emergency relief, water, health, shelter, education, livelihood, vulnerable people, and seasonal/religious (e.g. providing iftar meals during Ramadan).",
+  "recommendation": "",
+  "UNSDG": "0",
+  "whyTags": "Disaster Response, Health, Water, Education, Women, Employment, Shelter",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Alkhair-Foundation-4640388770918831849.png",
+  "@id": "al-khair-foundation",
+  "wikipedia": "https://en.wikipedia.org/wiki/Al-Khair_Foundation",
+  "summaryDescription": "Al-Khair Foundation is a Muslim faith-based charity that works globally to provide emergency relief and developmental aid.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/IMG-20180227-WA0059-16430692066488015810.jpg",
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "suggest": [
+    "AL-KHAIR FOUNDATION",
+    "al-khair-foundation"
+  ],
+  "url": "https://alkhair.org/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "name": "AL-KHAIR FOUNDATION",
+  "lastModified": "2020-08-15T17:19:23Z",
+  "category": "international",
+  "subcategory": "Humanitarian Relief Supplies",
+  "englandWalesCharityRegNum": "1126808",
+  "whereTags": "United Kingdom, Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
