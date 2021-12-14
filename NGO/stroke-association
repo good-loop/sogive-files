@@ -1,0 +1,1073 @@
+{
+  "scotlandCharityRegNum": "SC037789",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 85000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.6746E11,
+          "value": 3.6746E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/impact_report_2015-16.pdf"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "ready": true,
+      "analysisComment": "the 85000 beneficiaries is 66000 direct and 19000 helpline. Would be better to get the cost per beneficiary for each project",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.01438E10,
+          "value": 7014380.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/DocumentList.aspx?RegisteredCharityNumber\u003d211015\u0026SubsidiaryNumber\u003d0\u0026DocType\u003dAccountList"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/impact_report_2015-16.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "research grants and awards",
+      "analyst": "",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.585701E11,
+          "value": 2.585701E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/DocumentList.aspx?RegisteredCharityNumber\u003d211015\u0026SubsidiaryNumber\u003d0\u0026DocType\u003dAccountList"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/impact_report_2015-16.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "This includes the cost of the help line which hasn\u0027t been accounted for in figures (15000-19000)",
+      "name": "community services",
+      "analyst": "",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.87461E10,
+          "value": 3874610.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/DocumentList.aspx?RegisteredCharityNumber\u003d211015\u0026SubsidiaryNumber\u003d0\u0026DocType\u003dAccountList"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/impact_report_2015-16.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "information and awareness",
+      "analyst": "",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9919978\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38198000",
+          "currency": "GBP",
+          "value100p": 3.8198E11,
+          "value": 3.8198E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "227000",
+          "currency": "GBP",
+          "value100p": 2.27E9,
+          "value": 227000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "10443000",
+          "currency": "GBP",
+          "value100p": 1.0443E11,
+          "value": 1.0443E7
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "12175000",
+        "currency": "GBP",
+        "value100p": 1.2175E11,
+        "value": 1.2175E7
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 64708.0,
+          "name": "People (singular: person) supported",
+          "description": "This means they received face-to-face support from the stroke\ncoordinators or received advice via Stroke Helpline."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends15/0000211015_AC_20190331_E_C.pdf"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "22248000",
+          "currency": "GBP",
+          "value100p": 2.2248E11,
+          "value": 2.2248E7
+        }
+      ],
+      "name": "Community services"
+    },
+    {
+      "outputs": [
+        {
+          "number": 12.0,
+          "name": "grants awarded",
+          "description": "Grants awarded to fund research projects on stroke, mostly at universities."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends15/0000211015_AC_20190331_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/research/research-projects?field_region_tid\u003dAll\u0026tid\u003dAll\u0026field_rp_status_value\u003dAll\u0026field_year_awarded_value%5Bvalue%5D%5Byear%5D\u003d2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2084000",
+          "currency": "GBP",
+          "value100p": 2.084E10,
+          "value": 2084000.0
+        }
+      ],
+      "name": "research grants and awards"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends15/0000211015_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5882000",
+          "currency": "GBP",
+          "value100p": 5.882E10,
+          "value": 5882000.0
+        }
+      ],
+      "name": "policy and communications"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38493000",
+          "currency": "GBP",
+          "value100p": 3.8493E11,
+          "value": 3.8493E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "191000",
+          "currency": "GBP",
+          "value100p": 1.91E9,
+          "value": 191000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "10205000",
+          "currency": "GBP",
+          "value100p": 1.0205E11,
+          "value": 1.0205E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "got trading costs from p.127. 110+81 (not sure about it)"
+        },
+        "reserves": {
+          "notes": "p113. 4,014 +  8,784 (000)"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "12798000",
+        "currency": "",
+        "value100p": 1.2798E11,
+        "value": 1.2798E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "19455000",
+          "currency": "GBP",
+          "value100p": 1.9455E11,
+          "value": 1.9455E7
+        }
+      ],
+      "name": "Stroke Support Services",
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3556000",
+          "currency": "GBP",
+          "value100p": 3.556E10,
+          "value": 3556000.0
+        }
+      ],
+      "name": "Community Development"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1277000",
+          "currency": "GBP",
+          "value100p": 1.277E10,
+          "value": 1277000.0
+        }
+      ],
+      "name": "Research Grants \u0026 Awards"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1509000",
+          "currency": "GBP",
+          "value100p": 1.509E10,
+          "value": 1509000.0
+        }
+      ],
+      "name": "Systems Influencing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4579000",
+          "currency": "GBP",
+          "value100p": 4.579E10,
+          "value": 4579000.0
+        }
+      ],
+      "name": "Awareness \u0026 Engagement"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "34125000",
+          "currency": "GBP",
+          "value100p": 3.4125E11,
+          "value": 3.4125E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "172000",
+          "currency": "GBP",
+          "value100p": 1.72E9,
+          "value": 172000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "10265000",
+          "currency": "GBP",
+          "value100p": 1.0265E11,
+          "value": 1.0265E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs: p.128\nTrading costs: p.143\nIncome from Ben (generous bloke): p.128"
+        },
+        "reserves": {
+          "notes": "p.129 (3,293 + 12,484)"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "15777000",
+        "currency": "",
+        "value100p": 1.5777E11,
+        "value": 1.5777E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "18073000",
+          "currency": "GBP",
+          "value100p": 1.8073E11,
+          "value": 1.8073E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.128"
+        }
+      },
+      "name": "Stroke Support Services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3809000",
+          "currency": "GBP",
+          "value100p": 3.809E10,
+          "value": 3809000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.128"
+        }
+      },
+      "name": "Awareness \u0026 Engagement"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1991000",
+          "currency": "GBP",
+          "value100p": 1.991E10,
+          "value": 1991000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.128"
+        }
+      },
+      "name": "Community Development"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1801000",
+          "currency": "GBP",
+          "value100p": 1.801E10,
+          "value": 1801000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.128"
+        }
+      },
+      "name": "Research Grants \u0026 Awards"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "809000",
+          "currency": "GBP",
+          "value100p": 8.09E9,
+          "value": 809000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.128"
+        }
+      },
+      "name": "Systems Influencing"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Stroke association",
+  "recommendation": "**Summary**\n\n**The Stroke Association is rated as Not Recommended (Firm) on the SoGive ratings scale.**\n- The Stroke Association works to reduce the harms caused by stroke in the United Kingdom.\n- Over 50% of their expenditure goes towards providing support services to stroke survivors and their caregivers.\n- The remaining expenditure goes towards raising awareness, policy campaigning, and research funding.\n- While we believe the Stroke Association probably does improve the wellbeing of people affected by stroke, we are unable to find clear impact analyses on the Stroke Association’s initiatives.\n- From the number of beneficiaries supported by the Stroke Association and the frequency of death by stroke in the United Kingdom, we are confident that the Stroke Association does not achieve SoGive’s Gold-Standard for cost effectiveness.\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what the Stroke Association does - how they spend your donations**\n\nThe Stroke Association focuses on stroke within the United Kingdom. They provide support services for survivors and their caregivers and work to decrease the prevalence of incidents. They achieve this via direct support, raising awareness, policy campaigning, and research funding.\n\n*Support Services*\n\n[For the year ending 31 March 2021] (https://www.stroke.org.uk/sites/default/files/annual_report_2020_2021.pdf), the Stroke Association’s expenditure totalled £34.1m and over half of this (£18.1m) was attributed towards providing support services to stroke victims and their caregivers (Annual Report, p.128). A further £2.0m was attributed towards community development and volunteering.\n\n[In the previous year](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10710309\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d211015), this included face-to-face support with 42,000 people. For the 2020-2021 period, face-to-face support had to be significantly limited due to the COVID-19 pandemic, however similar support was provided remotely.\n\nIn total, 70,736 stroke survivors and caregivers were directly supported in 2020-2021 by groups associated with the Stroke Association, which was about a 7% increase on the previous year (Annual Report, p.7). This primarily involved several telephone and digital support services that reacted to the needs and enquiries of beneficiaries. It also included 4,377 victims proactively contacted after hospital discharge via the \"Stroke Association Connect\" service, but this was funded by the NHS, with the Stroke Association’s contribution seeming to be volunteers and knowledge (Annual Report, p.49). \n\nIn addition, the Stroke Association provides indirect support through online tools such as \"My Stroke Guide\" (Annual Report, p.52) and \"Getting online with aphasia\" (Annual Report, p.52).\n\n\n*Raising Awareness and Campaigning*\n\nFor the year ending 31 March 2021, the Stroke Association spent approximately 13.5% (£4.6m) of their budget on \"Awareness\" and \"Systems Influencing\"  (Annual Report, p.128).\n\nThe Stroke Association’s website had in excess of 1 million visitors, and they have posted over 200,000 physical publications such as magazines and information guides (Annual Report, p.56). This published information includes raising awareness of the issue, as well as prevention and support.\n\nIn 2020, they compiled a report to improve focus on stroke in the shadow of the COVID-19 pandemic (Annual Report, pp.16-17) and used this to campaign for their interests and raise public awareness and support. This is in addition to their usual television, radio, social and print media campaigns.\n\n\n*Research Funding*\n\nFor the year ending 31 March 2021, the Stroke Association spent approximately 5.3% (£1.8m) of their budget on \"Research grants and awards\" (Annual Report, p.128). \n\n\n**Cost-effectiveness analysis - how does the Stroke Association compare to the most cost-effective charities?**\n\nAfter a review of the work of the Stroke Association under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nWe are unable to find any robust impact analysis of the Stroke Association’s work on their website. Furthermore, the Stroke Association\u0027s projects usually involve collaboration with the NHS or other NGOs and their likely contribution to outputs is not clear. As such, we will only review at a high level to see if there is any reasonable potential the Stroke Association would achieve SoGive’s Gold Standard following more robust analysis.\n\nTo achieve SoGive’s Gold Standard, the Stroke Association’s 2020-21 expenditure of £34.1m would need to achieve an improvement in well-being equivalent to averting a year of depression in 170,500 people *or* saving 6,820 lives. Given the Stroke Association’s work could provide benefits in mental health and saving lives, it is easier to consider their work as an equal amalgamation of these SoGive benchmarks and state that the Stroke Association needs to achieve the equivalent of averting a year of depression in 85,250 people *and* saving 3,410 lives.\n\nThe Stroke Association \"only\" contacted 70,736 beneficiaries and, [according to the most recent data that the Stroke Association provides](https://www.stroke.org.uk/what-is-stroke/stroke-statistics#Leading%20causes%20of%20death), approximately 27,000 people die of stroke per year in the UK (~75% of 35,960 who died from cerebrovascular disease in 2018, but this number is steadily and reliably falling). While we believe the Stroke Association probably does improve the wellbeing of people affected by stroke, we do not consider it to be realistic that the Stroke Association could achieve the equivalent of averting over a year (85,250/70,736) of severe depression in every beneficiary contacted, nor that stroke deaths would have been over 10% higher (3,410/27,000) in the UK without their work. Indeed, if they did have an impact this big, we would expect these services to already be fully funded by the NHS, as this would likely be significantly more cost-effective than the services and treatments that the NHS is typically willing to fund.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Conclusion**\n\nBased on the above, we rate the Stroke Association as Not Recommended (Firm) under the SoGive methodology.\n",
+  "description": "",
+  "whyTags": "Health, Stroke",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/strokeAssocLogo-20180830120222642-2755768304173675077.jpg",
+  "@id": "stroke-association",
+  "summaryDescription": "Stroke Association focuses on stroke within the United Kingdom. They provide support services for survivors and their caregivers and work to decrease the prevalence of incidents. They achieve this via direct support, raising awareness, policy campaigning and research funding.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/67903637__980891467488__o-13328066851891591404.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Stroke Association",
+    "Stroke association",
+    "stroke-association"
+  ],
+  "url": "https://www.stroke.org.uk/",
+  "howTags": "Research, Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[community services 2016.0]"
+  },
+  "whoTags": "General Public",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Stroke Association",
+  "englandWalesCharityRegNum": "211015",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
