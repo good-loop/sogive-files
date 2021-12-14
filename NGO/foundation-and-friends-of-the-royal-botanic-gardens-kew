@@ -1,0 +1,390 @@
+{
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/unnamed-7599143420284365790.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2019-08/RBG%20Kew%20Annual%20Report%20and%20Accounts%20for%20the%20year%20ended%2031%20March%202019.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "80,100,000",
+          "currency": "GBP",
+          "value100p": 8.01E11,
+          "value": 8.01E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "9,100,000",
+          "currency": "GBP",
+          "value100p": 9.1E10,
+          "value": 9100000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "21,700,000",
+          "currency": "GBP",
+          "value100p": 2.17E11,
+          "value": 2.17E7
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "41900000",
+        "currency": "GBP",
+        "value100p": 4.19E11,
+        "value": 4.19E7
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 306.0,
+          "name": "scientific publications published"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2019-08/RBG%20Kew%20Annual%20Report%20and%20Accounts%20for%20the%20year%20ended%2031%20March%202019.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "48000000",
+          "currency": "GBP",
+          "value100p": 4.8E11,
+          "value": 4.8E7
+        }
+      ],
+      "name": "Research and conservation"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2360681.0,
+          "name": "visitor(s) served",
+          "description": "This measure records the overall number of admissions\nKew Gardens and Wakehurst"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2019-08/RBG%20Kew%20Annual%20Report%20and%20Accounts%20for%20the%20year%20ended%2031%20March%202019.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "18900000",
+          "currency": "GBP",
+          "value100p": 1.89E11,
+          "value": 1.89E7
+        }
+      ],
+      "name": "Visitor activities "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5682000",
+          "currency": "GBP",
+          "value100p": 5.682E10,
+          "value": 5682000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 23, Total Column"
+        }
+      },
+      "name": "Science"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2021-07/RBG%20Kew%20-%20Annual%20Report%202020-2021%20Web%20accessible%20-%20final.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "77700000",
+          "currency": "GBP",
+          "value100p": 7.77E11,
+          "value": 7.77E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "7100000",
+          "currency": "GBP",
+          "value100p": 7.1E10,
+          "value": 7100000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "13600000",
+          "currency": "GBP",
+          "value100p": 1.36E11,
+          "value": 1.36E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 35.\nAnnual costs. Row Total expenditure, Column 2020-2021 Total.\n\nTrading cost. Row Raising funds - trading. Column 2020-2021 Total.\n\nPage 41.\nIncome from Beneficiaries. Table 6, first column bottom row."
+        },
+        "reserves": {
+          "notes": "page 36, row is total current assets. column is consolidated 2021"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "45000000",
+        "currency": "",
+        "value100p": 4.5E11,
+        "value": 4.5E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 1600000.0,
+          "meta": {
+            "all": {
+              "notes": "Page 9, Row 7. Column Outturn 2020-21\n\nOver-riding as calculated as 35.63. But should be around 10."
+            }
+          },
+          "name": "visits (singular: visit)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "10.50",
+            "currency": "",
+            "value100p": 105000.0,
+            "value": 10.5
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2021-07/RBG%20Kew%20-%20Annual%20Report%202020-2021%20Web%20accessible%20-%20final.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16800000",
+          "currency": "GBP",
+          "value100p": 1.68E11,
+          "value": 1.68E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 35. Row visitor activities, column 2020-21 Total.  (also on page 41)"
+        }
+      },
+      "name": "Visitor activities"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.kew.org/sites/default/files/2021-07/RBG%20Kew%20-%20Annual%20Report%202020-2021%20Web%20accessible%20-%20final.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "50100000",
+          "currency": "GBP",
+          "value100p": 5.01E11,
+          "value": 5.01E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 35. Row \u0027Research and conservation\u0027 column 2020-21 Total.  (also on page 41)"
+        }
+      },
+      "name": "Research and conservation",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "recommendation": "**Summary**\n\n**The Royal Botanic Gardens Kew is rated as More Information Needed on the SoGive ratings scale.**\n\n- The Royal Botanic Gardens at Kew (RBG Kew) researches the science of plants and fungi and maintains several large botanic gardens, with the primary aim of preserving biodiversity.\n- In 2020-2021, they spent £50.1 million on Research and Conservation activities and £16.8 on Visitor Activities.\n- The information available in RBG Kew’s annual report is not sufficient to get a precise sense of the impact of their Research and Conservation activities. Furthermore, there is no clear way of comparing work on biodiversity to our current Gold Standard benchmarks.\n- Based on this, we conclude that more information is needed to compare RBG Kew to the SoGive Gold Standard benchmark.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what RBG Kew does - how they spend your donations**\n\n\"Foundation and Friends of the Royal Botanic Gardens Kew\" and \"Royal Botanic Gardens Kew\" are legally distinct organisations. Roughly, the Foundation and Friends one is the one individuals can donate to, but the other one is the one that actually uses the donations and does the charitable work.\n\nRBG Kew’s [2020-2021 annual report](https://www.kew.org/sites/default/files/2021-07/RBG%20Kew%20-%20Annual%20Report%202020-2021%20Web%20accessible%20-%20final.pdf) shows that RBG Kew’s charitable work falls into two big categories: Visitor activities, and Research and conservation.\n\nVisitor activities cost £16.8 million for the year. Two example projects are:\n- Maintaining their botanical gardens.\n- Outreach activities in schools.\n\nIn 2020-2021 they had 1.6 million visits to their gardens and around 2000 school children visits. (Note that in the year before, the numbers were 2.6 million and 100,000 and this drop is the result of the covid-19 pandemic.)\n\nResearch and conservation cost £50.1 million for the year. Three example projects are:\n- The Millenium Seed Bank, preserving seeds from almost 40,000 different plant species, to prevent the extinction of those plants.\n- Naming and categorisation of 156 new plants and fungi.\n- Helping revoke the decision to allow extensive logging in the Ebo Forest in Cameroon.\n\nRBG Kew gives these objective measures of their research in 2020-2021:\n- 373 new scientific publications\n- Around 50,000 citations for all of their publications\n\n**Cost-effectiveness analysis - how does RBG Kew compare to the most cost-effective charities?**\n\nAfter a review of the work of RBG Kew under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nBecause the majority of RBG Kew’s money and effort is spent on the research, to judge the effectiveness of RBG Kew we should try to estimate the effectiveness of the research. However, to do this we would need further information. Here are examples of questions we would like to be able to answer in order to estimate the cost effectiveness:\n\n- What is the value of preventing the extinction of different plant species? Preventing their extinction could plausibly have *intrinsic value* (if we think that plant biodiversity is valuable for its own sake). However, we may be more inclined to think preventing their extinction has *instrumental value*, by enabling other outcomes, such as being used for food for humans and other animals, being a source of medical compounds, or having implications for climate change and the stability of ecosystems.\n- How should we measure and value these instrumental outcomes? And how should we compare them with the existing SoGive benchmarks, such as the value of saving a person’s life or averting the suffering of an animal?\n- How does the idea of ‘wild animal welfare’ (as described in this [Vox article](https://www.vox.com/the-highlight/22325435/animal-welfare-wild-animals-movement) affect our views on the value of biodiversity? If animals in the wild often have lives filled with suffering, this would have implications for the type of ecosystems we should support.\n\nThese are questions that should be addressed by further research and development of the SoGive methodology. The questions go beyond the value of RBG Kew specifically. However, there are also questions that are more narrowly focused on RBG Kew’s specific projects, such as: \n\n- What does RBG Kew do that is unique and provides added value? The Millennium Seed Bank is the largest seed bank in the world, but there are others that may also be valuable.\n- What are the positive results of preventing logging of the Ebo Forest? Do they outweigh the benefits to Cameroonians from having access to more wood and building materials?\n- Of the research publications RBG Kew indicate they have contributed to, what is the extent of their contribution (i.e. how much of the benefits of this research should be attributed to Kew researchers, considering that they most likely collaborate with non-Kew researchers)?  \n\nIn addition to the research and conservation activities, around a quarter of RBG Kew’s spending is on visitor activities. We believe that the direct benefits of these activities to the visitors (in terms of the positive experience they get from visiting Kew Gardens) are unlikely to be large enough to be considered cost-effective compared to the SoGive Gold Standard benchmarks. \n\nHowever, it may be that spending on visitor activities indirectly acts as fundraising for the research and conservation work. In other words, any charitable donations that are spent on visitor activities may increase the number of people visiting Kew and spending their own money (e.g. by subsidising ticket prices or making Kew more attractive to visit), resulting in more money overall going to the research and conservation work. Whether this is true will depend on what economists call the ‘price elasticity of demand’ for a ticket.\n\n\n**Conclusion**\n\nBased on the above, we rate RBG Kew as More Information Needed under the SoGive methodology.\n",
+  "description": "Royal Botanic Gardens Kew (RGB Kew) has two main activities: the first is scientific research into plants and fungi, and the second is the maintenance of several botanical gardens.\n\nThe scientific research covers a range of different projects. Some examples include:\n* The Millenium Seed Project. The main aim is to preserve biodiversity by storing and protecting seeds of threatened, range restricted and useful plants.\n* TIPAs. Supporting identification and conservation of TIPAs, Tropical Important Plant Areas.\n* Writing and publishing scientific reports, e.g. State of the World\u0027s Plants.\n* Adapting Agriculture to Climate Change. The main objective is to collect and prepare relatives of the world’s most important food crops, so that plant breeders can produce new varieties of the crops that are adapted to the future climatic conditions of farmers in the developing world.\n\nThe botanical gardens that are created and maintained are:\n* Evolution Garden\n* Children\u0027s Garden\n* Broadwalk Borders\n* Wakehurst Place\n\nRGB Kew also has a few smaller activities, e.g. education, outreach, and maintenance of their Library.",
+  "suggest": [
+    "FOUNDATION AND FRIENDS OF THE ROYAL BOTANIC GARDENS KEW",
+    "foundation-and-friends-of-the-royal-botanic-gardens-kew"
+  ],
+  "url": "https://www.kew.org/",
+  "whyTags": "Environment, Biodiversity",
+  "howTags": "Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[Research and conservation 2021.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "notes": "Page 30 of report on uk government website.\n\nTheir website: https://www.kew.org/science/our-science/projects"
+    },
+    "englandWalesCharityRegNum": {
+      "notes": "This is the number of FOUNDATION AND FRIENDS OF THE ROYAL BOTANIC GARDENS KEW, but the analysis is done on Royal Botanic Gardens, Kew (their annual report includes  the fund\u0027s activities as well)"
+    }
+  },
+  "name": "FOUNDATION AND FRIENDS OF THE ROYAL BOTANIC GARDENS KEW",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/royal-botanic-gardens-kew-vector-logo-4360448852190094652.png",
+  "@id": "foundation-and-friends-of-the-royal-botanic-gardens-kew",
+  "englandWalesCharityRegNum": "803428",
+  "summaryDescription": "Royal Botanic Gardens Kew researches the science of plants and fungi and maintains two large botanic gardens.",
+  "uptodatedraft": "probably",
+  "whereTags": "UK, Global",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
