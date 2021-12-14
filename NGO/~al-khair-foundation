@@ -693,6 +693,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "355,140",
+          "currency": "GBP",
+          "value100p": 3.5514E9,
+          "value": 355140.0
         }
       ],
       "name": "Protection and care"
@@ -800,5 +808,5 @@
   "englandWalesCharityRegNum": "1126808",
   "whereTags": "United Kingdom, Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
