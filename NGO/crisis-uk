@@ -1,0 +1,828 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 16047.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.5839E11,
+          "value": 2.5839E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "I have taken the numbers listed in the annual report and accounts and added them, making an educated guess about the cases where I need to exclude figures because they would be a double count of others",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 8253.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 8.778E10,
+          "value": 8778000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education health and wellbeing",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1586.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 9.69E9,
+          "value": 969000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "employment",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1897.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 1.743E10,
+          "value": 1743000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "housing",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 4311.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) helped at Christmas",
+          "start": "2014-07-01T00:00:00Z",
+          "description": "people who live on the streets or in precarious housing conditions receiving comprehensive support over the course of several days around Christmas time",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.32E10,
+          "value": 2320000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "crisis at christmas",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 1.2029E11,
+          "value": 1.2029E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "other",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "43567000",
+          "currency": "GBP",
+          "value100p": 4.3567E11,
+          "value": 4.3567E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "7,400,000",
+          "currency": "GBP",
+          "value100p": 7.4E10,
+          "value": 7400000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-07-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1250000",
+        "currency": "GBP",
+        "value100p": 1.25E10,
+        "value": 1250000.0
+      },
+      "end": "2019-06-30",
+      "end_raw": "2019-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2075000",
+          "currency": "GBP",
+          "value100p": 2.075E10,
+          "value": 2075000.0
+        }
+      ],
+      "name": "Christmas"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3235000",
+          "currency": "GBP",
+          "value100p": 3.235E10,
+          "value": 3235000.0
+        }
+      ],
+      "name": "Campaigning and influencing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16669000",
+          "currency": "GBP",
+          "value100p": 1.6669E11,
+          "value": 1.6669E7
+        }
+      ],
+      "name": "Education, health and wellbeing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1960000",
+          "currency": "GBP",
+          "value100p": 1.96E10,
+          "value": 1960000.0
+        }
+      ],
+      "name": "Housing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1153000",
+          "currency": "GBP",
+          "value100p": 1.153E10,
+          "value": 1153000.0
+        }
+      ],
+      "name": "Employment"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "176000",
+          "currency": "GBP",
+          "value100p": 1.76E9,
+          "value": 176000.0
+        }
+      ],
+      "name": "Volunteering"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0001082947_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1171000",
+          "currency": "GBP",
+          "value100p": 1.171E10,
+          "value": 1171000.0
+        }
+      ],
+      "name": "Social enterprise"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Crisis",
+  "recommendation": "**To evaluate Crisis under the SoGive rating methodology, we would need more information.**\n\nCrisis works with homeless people to help them better their situation, with government and authorities to influence and plan homelessness policies and with other entities to provide training in homelessness work.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Crisis does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis or form opinions about their work under the SoGive methodology.\n\nIn their annual report, Crisis describes their achievements under five strategic goals. However, it does not allocate their expenditure to individual projects, only to areas of work (Housing; Employment; Volunteering; Christmas; Campaigning and influencing; Education, health and wellbeing; Social enterprise). Several areas are covered under each of their Strategic Goals, which makes it impossible for us to form a clear picture of the effectiveness of Crisis\u0027 work.\n\n\nAs per the 2019 Annual Report, Crisis operates under 5 Strategic Goals.\n\nSTRATEGY GOAL 1: Ensure that the policy changes needed to end homelessness are adopted\n\nUnder this goal, they have launched three new campaigns:\n• Cover the Cost - to restore Local Housing Allowance rates to cover the cost of rents across Great Britain and prevent thousands of people from becoming homeless.\n• Scrap the Act - to abolish the Vagrancy Act, which criminalises people just for sleeping rough and begging in England and Wales.\n• A Safe Home - to ensure everyone fleeing domestic abuse in England is guaranteed a safe home from their council. \nThese are not the only instances of their campaigning work, there will be more under further Strategic Goals. Campaigning work is generally difficult to evaluate - it is not really clear what is the sum of motivations for legislators\u0027 decisions. If the campaigns listed were or will be successful, for example, that a law is changed as wished, it is not clear that only Crisis should be credited with the success.\n\nFurthermore, their Best Practice team has helped Highland Council in Scotland to make better use of the private rented sector as a route out of homelessness. They have provided tenancy training in Conwy in Wales and have developed a proposal for a Housing First project in Torbay, England.\nThis is an example of the training and consultancy work of Crisis.\n\nThey \u0027celebrated with our 1,123 members who achieved 2,383 qualifications between them.\u0027 We understand Crisis provides homeless people with training for various professions. These people then go on to gain a qualification.\n\nSTRATEGY GOAL 2: Ensure that governments in England, Scotland and Wales adopt national plans for ending homelessness\n\nUnder this goal, Crisis worked with the Scottish Government to publish its plan for ending homelessness. They chaired the Scottish Government\u0027s Homelessness and Rough Sleeping Action Group (HARSAG). This brought together experts from local government, the charity sector, academia, housing providers, legal specialists and others. \nThey started talks with the Welsh Government to discuss and offer our support for the adoption of a similar approach in Wales. Furthermore, they continued to advocate for a comprehensive strategy to end homelessness in Westminster. As noted before, these activities are difficult to assess with the information provided.\n\nThey also \"supported 473 people into external education.\"\n\nSTRATEGY GOAL 3: Demonstrate that homelessness can be ended in local areas\n\nUnder this goal, Crisis supported 665 people into employment. and gave their support to five local authorities in implementing the Homelessness Reduction Act 2017. This involved developing tools and training and holding events and conferences to promote understanding of the Act and our expertise in supporting its implementation.\nCrisis further established and chaired homelessness forums in Brent and Coventry to help local authorities improve their housing services for homeless people from first contact to ending homelessness for good.\nThey trained 131 individuals in catering, hospitality and sales through retail and café training programmes.\n\nSTRATEGY GOAL 4 End the homelessness of more people through our direct services\n\nThey set up a Single Homelessness Prevention Service in Brent and fostered links with a hospital in Birmingham to reduce the risk of patients being discharged into homelessness.\nProvided a Renting Ready programme to help Housing Association tenants at risk of homelessness because of poverty and lack of confidence in living independently.\nRan a pilot homelessness prevention project for people using food banks in Oxford.\n\nCrisis also welcomed 11,259 people to their year-round services. We understand this means providing a service in one of Crisis Skylight Centres. The services are [described](https://www.crisis.org.uk/get-help/services/how-crisis-can-help-you/) as: \n• learning, education and skills training\n• finding work and applying for jobs\n• finding a home and settling in well\n• looking after your health and wellbeing\n• volunteering and meeting new people.\n\nSTRATEGY GOAL 5 End homelessness for more people who are excluded from help or who have complex needs\n\nHelped 726 people improve their relationships and social networks.\nLed a partnership of eight London-based migrant and homelessness organisations to support people to apply for European Union Settled Status.\n,In cooperation with the local authority, Crisis helped migrant homeless people in Croydon to get paid work.\n\nThey also supported the Doncaster Complex Lives Alliance which involves a wide range of partners including the NHS and Doncaster Council. It works with people with complex issues including homelessness, rough sleeping,\n\n**Benchmarking**\n\nHaving reviewed the work of Crisis under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nDespite being unable to perform a detailed analysis based on the information available in the public domain (annual report, website), Crisis provides a cost per benefit figure of their own: It should cost £28.87 to secure one place at one of their Centres during Christmas. For this amount, one person should access 3 hot meals, health checks and treatment from a range of healthcare professionals, advice on housing, employment and benefits, a bed for the night, if needed, a chance to shower, freshen up and get clean clothes.\nIt should also provide \"a way out of homelessness for good through Crisis\u0027 year-round training, education and support..\" It is not clear whether Crisis means that the £28.87 figure should cover the cost for the whole year or that the figure should provide one space at the Centre, thus showing a homeless person the opportunity of their year-long services. The latter seems more probable to us.\nOverall, it seems that for less than £30, one homeless person gets a day like one of a person with home. One person accessing the abovementioned Crisis services for 50 days would cost about the same as saving a person\u0027s life by a benchmark charity.\n\n**Conclusion**\n\nFurther information that would enable us to form a fuller opinion of the work of Crisis would be:\n(a) more comprehensive picture of the costs involved in delivering their work\n(b) more comprehensive impact assessments, both in quantity and depth",
+  "description": "Crisis has five main goals:\n1. Ensure that the policy changes needed to end homelessness are adopted\n2. Ensure that governments in England, Scotland and Wales adopt national plans for ending homelessness\n3. Demonstrate that homelessness can be ended in local areas\n4. End the homelessness of more people through their direct services\n5. End homelessness for more people who are excluded from help or who have complex needs\n\nThey try to achieve these by campaigning, training of workers, a consultancy with governments and local authorities, providing basic services such as food and shelter for homeless people in their Skylight Centres\n",
+  "whyTags": "Homelessness",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/logo-6883385804229256835.png#ccrop:80",
+  "@id": "crisis-uk",
+  "summaryDescription": "Crisis is dedicated to ending homelessness by delivering life-changing services and campaigning for change",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/crisis-1373620202745460138.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "suggest": [
+    "Crisis UK",
+    "Crisis",
+    "crisis-uk"
+  ],
+  "url": "https://www.crisis.org.uk/",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 16102075,
+      "value": "1610.20751542344351504000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Crisis UK",
+  "englandWalesCharityRegNum": "1082947",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
