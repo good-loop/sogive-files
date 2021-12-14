@@ -662,6 +662,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1228001",
+          "currency": "GBP",
+          "value100p": 1.228001E10,
+          "value": 1228001.0
         }
       ],
       "name": "Humanitarian relief"
@@ -792,5 +800,5 @@
   "englandWalesCharityRegNum": "1126808",
   "whereTags": "United Kingdom, Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
