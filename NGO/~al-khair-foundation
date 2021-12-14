@@ -755,6 +755,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "111,493",
+          "currency": "GBP",
+          "value100p": 1.11493E9,
+          "value": 111493.0
         }
       ],
       "name": "Healthcare"
