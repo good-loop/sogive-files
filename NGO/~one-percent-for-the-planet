@@ -1,5 +1,5 @@
 {
-  "circleCrop": 85.0,
+  "circleCrop": 74.0,
   "@type": "NGO",
   "name": "one-percent-for-the-planet",
   "logo": "https://media.good-loop.com/uploads/raw/1ftp__Primary__Vertical__FullColor-9918702103395043531.jpg",
@@ -11,5 +11,5 @@
   ],
   "id": "one-percent-for-the-planet",
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
