@@ -52,7 +52,19 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "animal(s) helped",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "0.09",
+            "currency": "",
+            "value100p": 900.0,
+            "value": 0.09
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -277,5 +289,5 @@
   "englandWalesCharityRegNum": "1095050",
   "summaryDescription": "Compassion in World Farming campaigns for improved welfare for farm animals by engaging with supranational bodies, national governments, corporates and the public.",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
