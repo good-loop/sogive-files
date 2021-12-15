@@ -263,7 +263,8 @@
         {
           "number": 4000.0,
           "confidence": "high",
-          "name": "people supported"
+          "name": "people supported",
+          "description": ""
         }
       ],
       "year": 2020.0,
