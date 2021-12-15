@@ -1,0 +1,394 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/IPPFimage-13713974540859170593.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 6.1882353E7,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 1.100632E12,
+          "value": 1.100632E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends76/0000229476_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "How on earth are they so cheap???",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ippf.org/sites/default/files/2021-06/IPPF%20Financial%20Statements%202020.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "159576000",
+          "currency": "USD",
+          "value100p": 1.59576E12,
+          "value": 1.59576E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "USD",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "USD",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "21510000",
+        "currency": "USD",
+        "value100p": 2.151E11,
+        "value": 2.151E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9967000",
+          "currency": "USD",
+          "value100p": 9.967E10,
+          "value": 9967000.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9753000",
+          "currency": "USD",
+          "value100p": 9.753E10,
+          "value": 9753000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are 2020 costs for central + regional + grant expenditure on this strategic outcome."
+        }
+      },
+      "name": "Championing Rights"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.55E7,
+          "meta": {
+            "all": {
+              "notes": "p.10 of annual  report"
+            }
+          },
+          "confidence": "medium",
+          "name": "Young people(singular:person) receiving sex education",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.15",
+            "currency": "USD",
+            "value100p": 1500.0,
+            "value": 0.15
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "3789000",
+          "currency": "USD",
+          "value100p": 3.789E10,
+          "value": 3789000.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3707000",
+          "currency": "USD",
+          "value100p": 3.707E10,
+          "value": 3707000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are 2020 costs for central + regional + grant expenditure on this strategic outcome."
+        }
+      },
+      "name": "Empower Communities"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.181E8,
+          "meta": {
+            "all": {
+              "notes": "p.10 of annual report"
+            }
+          },
+          "confidence": "medium",
+          "name": "Sex and Reproductive Health services (singular:service) provided or enabled",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.60",
+            "currency": "USD",
+            "value100p": 6000.0,
+            "value": 0.6
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "131400000",
+          "currency": "USD",
+          "value100p": 1.314E12,
+          "value": 1.314E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "128572000",
+          "currency": "USD",
+          "value100p": 1.28572E12,
+          "value": 1.28572E8
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are 2020 costs for central + regional + grant expenditure on this strategic outcome."
+        }
+      },
+      "name": "Serve People",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "14420000",
+          "currency": "USD",
+          "value100p": 1.442E11,
+          "value": 1.442E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14110000",
+          "currency": "USD",
+          "value100p": 1.411E11,
+          "value": 1.411E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Is this a way to hide support costs? Project costs are 2020 costs for central + regional + grant expenditure on this strategic outcome."
+        }
+      },
+      "name": "Unite and Perform"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "International Planned Parenthood Federation",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "confidence": "high",
+  "description": "The International Planned Parenthood Federation (IPPF) engages in a wide variety of programs to try and expand sexual healthcare around the world, with a particular focus on developing countries. These programmes include, but are not limited to:\n- Providing access to contraception\n- Providing access to abortions\n- Maternal Healthcare\n- STI treatment\n- Counselling\n- Sex education\n- Campaigning for reproductive rights",
+  "recommendation": "",
+  "suggest": [
+    "International planned parenthood foundation",
+    "International Planned Parenthood Federation",
+    "international-planned-parenthood-foundation"
+  ],
+  "communicationsWithCharity": "Email sent on 19th Feb 2016 asking for more info about their interventions and the breakdown of the services received by each client, in the hope that this will explain why they appear so cost-effective. An auto-reply came back saying that they would aim to reply within 2 weeks. On 7th March (i.e. a bit more than 2 weeks later) I chased. In May 2016 I sent them an email suggesting that they perhaps weren\u0027t interested in engaging with potential donors because they might already be too rich, and they still didn\u0027t reply.",
+  "url": "https://www.ippf.org/",
+  "whyTags": "Health, international aid, Human rights, Sexual health, Family Planning",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Sex and Reproductive Health services (singular:service) provided or enabled",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "USD",
+      "value100p": 6000,
+      "value": "0.6"
+    }
+  },
+  "meta": {
+    "displayName": {
+      "notes": "It says foundation in the app, but it appears to be federation."
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "International planned parenthood foundation",
+  "logo": "https://media.good-loop.com/uploads/raw/IPPFlogo-14957331837040993656.svg",
+  "@id": "international-planned-parenthood-foundation",
+  "englandWalesCharityRegNum": "229476",
+  "summaryDescription": "The IPPF is a charity that focuses on expanding access to sexual health and family planning services, especially in the developing world.",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
