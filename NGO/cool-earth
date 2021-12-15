@@ -1,5 +1,5 @@
 {
-  "images": "http://www.coolearth.org/wp-content/uploads/2015/07/Save-the-rainforest-hashtag-Cool-Earth-4926x32641.jpg",
+  "images": "https://www.coolearth.org/wp-content/uploads/2015/07/Save-the-rainforest-hashtag-Cool-Earth-4926x32641.jpg",
   "projects": [
     {
       "outputs": [
@@ -114,5 +114,5 @@
   "englandWalesCharityRegNum": "1117978",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
