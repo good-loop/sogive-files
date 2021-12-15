@@ -262,6 +262,7 @@
       "outputs": [
         {
           "number": 4000.0,
+          "confidence": "high",
           "name": "people supported"
         }
       ],
