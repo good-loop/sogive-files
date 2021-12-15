@@ -1,0 +1,467 @@
+{
+  "scotlandCharityRegNum": "SC043084",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 239679.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15967041",
+          "currency": "GBP",
+          "value100p": 1.5967041E11,
+          "value": 1.5967041E7
+        }
+      ],
+      "name": "Financial Assistance",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 829153.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14334474",
+          "currency": "GBP",
+          "value100p": 1.4334474E11,
+          "value": 1.4334474E7
+        }
+      ],
+      "name": "Emergency Relief"
+    },
+    {
+      "outputs": [
+        {
+          "number": 142795.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3917917",
+          "currency": "GBP",
+          "value100p": 3.917917E10,
+          "value": 3917917.0
+        }
+      ],
+      "name": "Construction"
+    },
+    {
+      "outputs": [
+        {
+          "number": 975732.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3312854",
+          "currency": "GBP",
+          "value100p": 3.312854E10,
+          "value": 3312854.0
+        }
+      ],
+      "name": "Islamic Rituals"
+    },
+    {
+      "outputs": [
+        {
+          "number": 484528.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3075145",
+          "currency": "GBP",
+          "value100p": 3.075145E10,
+          "value": 3075145.0
+        }
+      ],
+      "name": "Da\u0027wah \u0026 Education"
+    },
+    {
+      "outputs": [
+        {
+          "number": 262933.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2482580",
+          "currency": "GBP",
+          "value100p": 2.48258E10,
+          "value": 2482580.0
+        }
+      ],
+      "name": "Ramadhan \u0026 Gifts"
+    },
+    {
+      "outputs": [
+        {
+          "number": 391495.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2211246",
+          "currency": "GBP",
+          "value100p": 2.211246E10,
+          "value": 2211246.0
+        }
+      ],
+      "name": "Water \u0026 Sanitation"
+    },
+    {
+      "outputs": [
+        {
+          "number": 257652.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "825007",
+          "currency": "GBP",
+          "value100p": 8.25007E9,
+          "value": 825007.0
+        }
+      ],
+      "name": "Medical Aid"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5130.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "329848",
+          "currency": "GBP",
+          "value100p": 3.29848E9,
+          "value": 329848.0
+        }
+      ],
+      "name": "Livelihoods \u0026 Training"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11168772\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1000851"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "47937931",
+          "currency": "GBP",
+          "value100p": 4.7937931E11,
+          "value": 4.7937931E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "isRep": {
+          "notes": "I have used information from two reports, "
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "13135749",
+        "currency": "",
+        "value100p": 1.3135749E11,
+        "value": 1.3135749E7
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Ummah Welfare Trust (Amanat Charity Trust)",
+  "impact": "more-info-needed-promising",
+  "confidence": "medium",
+  "description": "Ummah Welfare Trust provides support to the most desperate communities around the world by providing financial assistance, emergency relief, construction projects, education, water and sanitation, medical aid, and income generation projects. ",
+  "recommendation": "**Summary**\n \n**Ummah Welfare Trust is rated as More Information Needed (promising) on the SoGive ratings scale.**\n \n- Ummah Welfare Trust aims to sustainably support the lives and livelihoods of the most desperate communities around the world with education, infrastructure, and relief.\n- Examples of the range of work undertaken include providing food aid, hygiene supplies, providing financial assistance to widows, income generation projects, and building schools.\n- Taking figures of the two biggest areas of spending at face value, Ummah Welfare Trust appears to spend an average of around £17 per person on emergency relief and around £68 per person on financial assistance.\n- Given the nature of the activities, we note that their cost-effectiveness could potentially be as good as the activities of one of SoGive’s Gold Standard rated organizations.\n- However, we anticipate that the actual costs per person are somewhat higher, given that Ummah Welfare Trust runs some programs in collaboration with other organizations.\n- We also require more information about the outcomes achieved by their programs and how expenditures on programs are distributed across activities.\n \n**The SoGive approach**\n \nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n \nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n \n**More about what Ummah Welfare Trust does - how they spend your donations**\n\nIn their [annual report](https://uwt.org/wp-content/uploads/2021/04/UWT_Annual_Report_2021_Web.pdf) for the year ended 28 February 2021, Ummah Welfare Trust reported spending about £45.1m on charitable activities, which amounts to £47.9m if we include overhead costs. The organization divides its expenditures into nine types of programs (p.30), in the order of share of total expenditure:\n \n- Financial Assistance.\n- Emergency Relief.\n- Da’wah \u0026 Education.\n- Ramadhan \u0026 Gifts.\n- Islamic Rituals.\n- Construction.\n- Water \u0026 Sanitation.\n- Medical Aid.\n- Livelihoods \u0026 Training\n \n*Financial Assistance*\n \nIn their Financial Assistance programs, Ummah Welfare Trust provides hardship assistance, orphan and widow support, disability support, and injured persons support. In total, the programs reached 239,679 people in 2021, and received around £16m in spending, which is around 33% of the charity’s total spending.\n \n*Emergency Relief*\n \nIn their Emergency Relief programs, Ummah Welfare Trust provides food aid, cash assistance, winter supplies, tents, fuel, cooked food, clothing, and hygiene supplies. In total, the programs reached 829,153 people in 2021, and received around £14.3m in spending, which is close to 30% of total spending.\n \n*Construction*\n \nIn their construction programs, Ummah Welfare Trust provides support for the building of mosques, houses, and schools. In total, the programs reached 142,795 people in 2021, and received £3.9m in spending, which is around 8% of total spending.\n \n*Islamic Rituals*\n \nIn their Islamic Rituals programs, Ummah Welfare Trust provides support for Qurbani (sacrificial slaughter of an animal) and other activities related to the celebration of Eid (Islamic festival). In total, the programs reached 975,732 people in 2021, and received around £3.3m in spending, which is around 7% of total spending.\n \n*Da’wah \u0026 Education*\n\nIn their Da’wah \u0026 Education programs, Ummah Welfare Trust provides Hifdh (Quran study) sponsorship, teacher assistance, madrassah support, school support, and book distribution. In total, the programs reached 484,528 people in 2021, and received around £3.1m in spending, which is around 6% of total spending.\n \n*Ramadhan \u0026 Gifts*\n \nIn their Ramadhan \u0026 Gifts programs, Ummah Welfare Trust provides various food items related to the celebration of Ramadhan. In total, the programs reached 262,933 people in 2021, and received around £2.5m in spending, which is about 5% of total spending.\n \n*Water \u0026 Sanitation*\n \nIn their Water \u0026 Sanitation programs, Ummah Welfare Trust provides support for the building of water wells, hand pumps, and water tankers. In total, the programs reached 391,495 people in 2021, and received around £2.2m in spending, which is around 4% of total spending.\n \n*Medical Aid*\n \nIn their Medical Aid programs, Ummah Welfare Trust provides support for cataract surgery, dialysis treatment, medical clinics, and medicines. In total, the programs reached 257,652 people in 2021, and received around £0.8m in spending, which is less than 2% of total spending.\n \n*Livelihoods \u0026 Training*\n \nIn their Livelihoods \u0026 Training programs, Ummah Welfare Trust provides rickshaws, livestock, stalls, and vocational training with the aim of supporting income generation. In total, the programs reached 5,130 people in 2021, and received around £0.3m in spending, which is less than 1% of total spending.\n \n**Cost-effectiveness analysis - how does Ummah Welfare Trust compare to the most cost-effective charities?**\n \nTo review the work of Ummah Welfare Trust under the two-question method, we analyse costs per output and compare this to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £50 to double someone’s consumption (spending) for one year) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar)\n \nIf we consider the two main areas of spending, which together make up around 63% of the charity’s total spending, we find the following:\n- In the financial assistance programs, £16m was used to reach 239,679 people in 2021, so the average cost per person reached is around £68.\n- In emergency relief programs, £14.3m was used to reach 829,153 people in 2021, so the average cost per person reached is around £17.\n \nGiven the relatively low cost per person reached, and the fact that some of their activities are in areas such emergency relief and financial assistance to the most vulnerable, it seems possible that Ummah Welfare Trust could achieve an impact that matches or exceeds SoGive’s Gold Standard. To reach a firm assessment, the following further information is required:\n \n- Spending is reported only on the program level (e.g., emergency relief), and no information is provided on how spending is distributed across the various activities listed under any given program. Considering how these activities may vary in terms of their effects on the wellbeing of beneficiaries, we would need more information on how spending is distributed across activities listed under any program.\n- Furthermore, to assess the effectiveness of the individual activities against SoGive’s benchmarks, we would require more information on what exactly they entail in practice. For instance, one of the activities listed under emergency relief is the provision of hygiene supplies. This could range anywhere from lifesaving disinfectants to dental care.\n- We would also require evidence on the effectiveness of the activities. To our knowledge, Ummah Welfare Trust conducts no impact evaluation. The type of evidence that SoGive requires for a complete assessment could be based on previously obtained robust evidence and reasoning found in the wider literature, or Ummah Welfare Trust undertaking a high-quality assessment for themselves, such as a randomized controlled trial.\n- The 2021 annual report notes that some programs were carried out in partnership with external organizations. Considering that partner organizations may have incurred additional costs, taking the numbers reported by Ummah Welfare Trust at face value could overstate the cost-effectiveness. We would therefore require a clearer picture of the full extent of these partnerships.\n- Relatedly, the organization’s programs have been carried out across several countries, and only limited information is provided on how spending and activities more generally are distributed between countries. As activities may vary in their cost-effectiveness across countries, a fuller picture could potentially change our cost-effectiveness estimate.\n \nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n \n**Conclusion**\n \nBased on the above, we rate Ummah Welfare Trust as \"More info needed (promising)\" under the SoGive methodology. This means:\n- We do have some indication of cost-effectiveness, and see the possibility that cost-effectiveness matches or exceeds the Gold Standard, but this depends on further data and analysis.\n\n",
+  "suggest": [
+    "Amanat Charity Trust",
+    "Ummah Welfare Trust (Amanat Charity Trust)",
+    "amanat-charity-trust"
+  ],
+  "url": "https://uwt.org/",
+  "whyTags": "Muslim \u0026 International Aid",
+  "howTags": "Direct work \u0026 making grants to organizations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 666184,
+      "value": "66.618439663049337729273"
+    }
+  },
+  "name": "Amanat Charity Trust",
+  "logo": "https://media.good-loop.com/uploads/raw/c922a400-def6-4154-be5a-e0690f52aebe-15809224457083002880.jpeg",
+  "@id": "amanat-charity-trust",
+  "englandWalesCharityRegNum": "1000851",
+  "summaryDescription": "Ummah Welfare Trust aims to sustainably support lives and livelihood of the most desperate communities around the world with education, infrastructure and relief. ",
+  "uk_giftaid": true,
+  "whereTags": "developing world",
+  "status": "DRAFT"
+}
