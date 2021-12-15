@@ -4,7 +4,7 @@
       "outputs": [
         {
           "number": 4000.0,
-          "confidence": "low",
+          "confidence": "medium",
           "name": "People Supported"
         }
       ],
