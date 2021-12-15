@@ -114,7 +114,8 @@
         "currency": "",
         "value100p": 5.75757E10,
         "value": 5757570.0
-      }
+      },
+      "isRep": true
     },
     {
       "outputs": [],
@@ -274,7 +275,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall null]"
+    "name": "animal(s) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 900,
+      "value": "0.09",
+      "name": ""
+    }
   },
   "whoTags": "",
   "meta": {
@@ -290,5 +298,5 @@
   "englandWalesCharityRegNum": "1095050",
   "summaryDescription": "Compassion in World Farming campaigns for improved welfare for farm animals by engaging with supranational bodies, national governments, corporates and the public.",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
