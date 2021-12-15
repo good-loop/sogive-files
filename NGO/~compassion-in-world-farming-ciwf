@@ -54,7 +54,7 @@
     {
       "outputs": [
         {
-          "name": "animal(s) helped by CIWF\u0027s campaigns",
+          "name": "farm animal(s) helped by CIWF\u0027s campaigns",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -275,7 +275,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "animal(s) helped by CIWF\u0027s campaigns",
+    "name": "farm animal(s) helped by CIWF\u0027s campaigns",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
