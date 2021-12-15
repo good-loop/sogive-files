@@ -282,6 +282,7 @@
       "notes": "Yes"
     }
   },
+  "ready": true,
   "name": "Compassion in World Farming (CIWF)",
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/raw/compassion-in-world-farming-6571812334414756324.png",
@@ -289,5 +290,5 @@
   "englandWalesCharityRegNum": "1095050",
   "summaryDescription": "Compassion in World Farming campaigns for improved welfare for farm animals by engaging with supranational bodies, national governments, corporates and the public.",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
