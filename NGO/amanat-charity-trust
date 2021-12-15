@@ -472,6 +472,7 @@
       "name": ""
     }
   },
+  "ready": true,
   "name": "Amanat Charity Trust",
   "logo": "https://media.good-loop.com/uploads/raw/c922a400-def6-4154-be5a-e0690f52aebe-15809224457083002880.jpeg",
   "@id": "amanat-charity-trust",
@@ -479,5 +480,5 @@
   "summaryDescription": "Ummah Welfare Trust aims to sustainably support lives and livelihood of the most desperate communities around the world with education, infrastructure and relief. ",
   "uk_giftaid": true,
   "whereTags": "developing world",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
