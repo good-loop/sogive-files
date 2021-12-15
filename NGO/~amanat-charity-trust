@@ -48,7 +48,15 @@
       "outputs": [
         {
           "number": 829153.0,
-          "name": "people (singular: person) supported"
+          "name": "people (singular: person) supported",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "17",
+            "currency": "",
+            "value100p": 170000.0,
+            "value": 17.0
+          }
         }
       ],
       "data-src": [
@@ -463,5 +471,5 @@
   "summaryDescription": "Ummah Welfare Trust aims to sustainably support lives and livelihood of the most desperate communities around the world with education, infrastructure and relief. ",
   "uk_giftaid": true,
   "whereTags": "developing world",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
