@@ -1,0 +1,397 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "confidence": "low",
+          "name": "People Supported"
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2020.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15583",
+          "currency": "GBP",
+          "value100p": 1.5583E8,
+          "value": 15583.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "8477000",
+        "currency": "",
+        "value100p": 8.477E10,
+        "value": 8477000.0
+      },
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends54/0000294354_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "18,664,000",
+          "currency": "GBP",
+          "value100p": 1.8664E11,
+          "value": 1.8664E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "6,591,000",
+        "currency": "GBP",
+        "value100p": 6.591E10,
+        "value": 6591000.0
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 4570.0,
+          "@type": "Output",
+          "name": "People supported (singular: perosn supported)",
+          "description": "People with MND supported through various charitable activities like care centres, and helplines (see editorial for details)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends54/0000294354_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7,580,000",
+          "currency": "GBP",
+          "value100p": 7.58E10,
+          "value": 7580000.0
+        }
+      ],
+      "name": "Care",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends54/0000294354_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3,801,000",
+          "currency": "GBP",
+          "value100p": 3.801E10,
+          "value": 3801000.0
+        }
+      ],
+      "name": "Research",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends54/0000294354_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,101,000",
+          "currency": "GBP",
+          "value100p": 2.101E10,
+          "value": 2101000.0
+        }
+      ],
+      "name": "Campaigning",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "867000",
+          "currency": "GBP",
+          "value100p": 8.67E9,
+          "value": 867000.0
+        }
+      ],
+      "name": "Care"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2799000",
+          "currency": "GBP",
+          "value100p": 2.799E10,
+          "value": 2799000.0
+        }
+      ],
+      "name": "Research"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1724000",
+          "currency": "GBP",
+          "value100p": 1.724E10,
+          "value": 1724000.0
+        }
+      ],
+      "name": "Campaigning"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "MND Association",
+  "description": "The Motor Neurone Disease Association supports people in the UK suffering from MND through various means\n\nCare\n- Runs care centres that offer direct support and local support networks\n- Provides information through helplines and online resources, including help to claim benefits\nGrants\n- Offers finanical support to those suffering from MND and caretakers, including loaning out equipment\nResearch\n- Funds medical studies and works with consortiums to test possible treatments\n- Runs a register of those suffering from MND as a research project, and survey people to find out to best provide care\nCampaigning\n- Help the government in consultations, and also distribute informations to HSCPs and Royal Colleges\n- Lobby for better laws, including fast-tracking benefits and how councils should provide care\n",
+  "recommendation": "**To evaluate the Motor Neurone Disease Association achieves a bronze assessment under the SoGive rating methodology.**\n\nThe MND Association has the mission of supporting people suffering from motor neurone disease in the UK. It does this by offering care, funding global research, as well as raising awareness and campaigning.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n\n- how much does it cost for the charity to do something\n\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what MND Association does**\n\nBased on the information we have gathered from the 2018 accounts, we know that MND Association spent £7.6m on care to support around 4,570 people. This included assisting 3,828 people diagnosed with MND through care centres, running helplines that answered 8,562 calls, and giving £1.5m worth of support grants to 1,801 people.\n\nMND Association also spent £3.8m on research. In 2018, this funded 16 studies, supported a consortium that tests antibodies, as well as clinical trials. The MND Associations also links those with the disease to scientists, for example, to create a system in which people can donate cell lines or for mapping genetic code data.\n\nLastly, the MND Association also spent £2.1m on campaigning. This includes both helping in government consultations and calling for better policy, such as the \"Scrap 6 Months\" campaign to fast track benefits. The charity also conducts surveys of what support those with MND need and outlines the best care practices for local councils.\n\n**Benchmarking**\n\nHaving reviewed the MND Association\u0027s work under the SoGive two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, it seems sensible to focus on the \"Care\" area of MND Association\u0027s work, which composes over half of its charitable activities, as per the 2018 accounts. While this seems reasonable, it\u0027s possible that the impact of the marginal pound donated to MND Association could be related to research or campaigning, which may have a different level of impactfulness.\n\nIf it costs around £1,600 for the MND Association to support someone with motor neuron disease (through care centres, helplines, and grants), then £1,500 could just about support one person. We believe that one person receiving multidisciplinary care is likely to be less positive an outcome than saving one person\u0027s life.\n\nResearch projects funded are difficult to assess, as they may result in a significant improvement of people suffering from MND but this is uncertain. Our [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) on this suggests there are some tentative reasons to be positive about research in general. However, our another [analysis](https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?view\u003dsidebar) suggests that neurological diseases research, the subject of MND Association, is slightly overfunded: The amount spent on the research as a proportion of the total UK research spend is around 9%, whereas the global disease burden in Disability Adjusted Life Years is around 4%. This suggests that the marginal pound spent on neurological disease research may be used less effectively than a marginal pound donated to research in infection (18% global disease burden and 11% proportion of the UK research spend) or reproductive health and childbirth (9% global disease burden and 2% proportion of the UK research spend). It would, therefore, be more sensible to donate to the research in these two categories. Yet, another category appears to be substantially more overfunded than neurological disease research, namely research on cancer, with its 9% global disease burden and 43% proportion of the total UK research spend. Donating to MND Association or another neurological disease research charity is therefore relatively sensible.\n\nLikewise, it is not clear how to judge the impact of campaigning, since we need to consider counterfactuals. E.g. if MND Association successfully persuaded the government to spend more money fighting this disease, what would that money have achieved if funds had not been redirected? Such details are not known.\n\n**Conclusion**\n\nThe Motor Neurone Disease Association achieves bronze assessment under the SoGive methodology.\n\nWhen we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove, that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Gold-rated charity (i.e. achieves less positive impact per pound donated than a Gold-rated charity)",
+  "whyTags": "Health, Motor Neurone Disease",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/MNDA_logo-8618795139074009704.jpg",
+  "@id": "motor-neurone-disease-association",
+  "wikipedia": "https://en.wikipedia.org/wiki/Motor_Neurone_Disease_Association",
+  "summaryDescription": "The Motor Neurone Disease Association funds global research into MND, provides care and grants, as well as campaigning for better support.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/MNDA_phot-15268108070599100929.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Motor Neurone Disease Association",
+    "MND Association",
+    "motor-neurone-disease-association"
+  ],
+  "url": "https://www.mndassociation.org/",
+  "howTags": "Research, Care, Advocacy, Grants",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "People Supported"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "recommendation": {
+      "notes": ""
+    }
+  },
+  "name": "Motor Neurone Disease Association",
+  "category": "health",
+  "subcategory": "Medical Research",
+  "englandWalesCharityRegNum": "294354",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
