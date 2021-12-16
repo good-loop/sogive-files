@@ -62,7 +62,7 @@
               "notes": "Converted from USD using 3 March 2018 exchange rate"
             }
           },
-          "name": "animal(s) spared",
+          "name": "animal(s) ",
           "description": "",
           "costPerBeneficiary": {
             "@type": "Money",
@@ -240,7 +240,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "animal(s) spared",
+    "name": "animal(s) ",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
