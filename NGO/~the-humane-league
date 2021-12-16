@@ -1,0 +1,264 @@
+{
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/humane_league_pic-17854576243098087008.png",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "3259215",
+          "currency": "GBP",
+          "value100p": 3.259215E10,
+          "value": 3259215.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-01-01",
+      "isRep": false,
+      "start_raw": "2017-01-01",
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "notes": "Converted from USD using 3 March 2018 exchange rate.\n\nThere are three other categories of expenses in the Guesstimate model:\n\n- Communications and Social Media\n- Campus Outreach\n- Labs\n\nAs the Guesstimate model does not include any information about number of animals spared for these categories, we are assuming they are acting in support of the three projects we have listed."
+        }
+      },
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "meta": {
+            "all": {
+              "notes": "Converted from USD using 3 March 2018 exchange rate"
+            }
+          },
+          "name": "animal(s) spared",
+          "description": "Farm animals spared",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.018",
+            "currency": "GBP",
+            "value100p": 180.0,
+            "value": 0.018
+          }
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "1021220",
+          "currency": "GBP",
+          "value100p": 1.02122E10,
+          "value": 1021220.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Converted from USD using 3 March 2018 exchange rate\n\nThere are three other categories of expenses in the Guesstimate model:\n\n- Communications and Social Media\n- Campus Outreach\n- Labs\n\nAs the Guesstimate model does not include any information about number of animals spared for these categories, we are assuming they are acting in support of the three projects we have listed."
+        }
+      },
+      "name": "Campaigns",
+      "start": "2017-01-01",
+      "description": "Various campaigns to influence corporate policy.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "animal(s) spared",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "-2",
+            "currency": "GBP",
+            "value100p": -20000.0,
+            "value": -2.0
+          }
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "318678",
+          "currency": "GBP",
+          "value100p": 3.18678E9,
+          "value": 318678.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Converted from USD using 3 March 2018 exchange rate\n\nThere are three other categories of expenses in the Guesstimate model:\n\n- Communications and Social Media\n- Campus Outreach\n- Labs\n\nAs the Guesstimate model does not include any information about number of animals spared for these categories, we are assuming they are acting in support of the three projects we have listed."
+        }
+      },
+      "name": "Grassroots outreach programs",
+      "start": "2017-01-01",
+      "description": "Outreach to private individuals.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "meta": {
+            "all": {
+              "notes": "Converted from USD using 3 March 2018 exchange rate"
+            }
+          },
+          "name": "animal(s) spared",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.04",
+            "currency": "GBP",
+            "value100p": 400.0,
+            "value": 0.04
+          }
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "289708",
+          "currency": "GBP",
+          "value100p": 2.89708E9,
+          "value": 289708.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Converted from USD using 3 March 2018 exchange rate\n\nThere are three other categories of expenses in the Guesstimate model:\n\n- Communications and Social Media\n- Campus Outreach\n- Labs\n\nAs the Guesstimate model does not include any information about number of animals spared for these categories, we are assuming they are acting in support of the three projects we have listed."
+        }
+      },
+      "name": "Online outreach",
+      "start": "2017-01-01",
+      "description": "Facebook ads",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "more-info-needed-promising",
+  "description": "The Humane League\u0027s mission is to reduce the suffering of as many animals as possible, as effectively as possible. They work to reform the way farm animals are treated while also inspiring people to make more compassionate food choices. Their strategy includes hard-hitting corporate campaigns and wide-ranging outreach and education programs, supported by an extensive network of organizations, activists and supporters around the world.",
+  "recommendation": "What does The Humane League do?\nThe Humane League (THL) engages in a variety of programs designed to persuade individuals and organizations to adopt behaviors that reduce farmed animal suffering. THL\u0027s largest programs, based on their budget, are their corporate campaigns and grassroots organizing. They encourage corporations to enact policies dictating higher animal welfare standards and they educate the public using outreach materials such as leaflets and online videos. Through their grassroots offices and campus leadership program, they recruit and train new animal advocates. THL also works to build the animal advocacy movement internationally through the Open Wing Alliance, which offers funding and training to advocacy groups interested in working on corporate campaigns.\n\nWhat are their strengths?\nIn our view, THL\u0027s most significant advantage is not any single program, but rather their general approach to advocacy. Among animal advocacy organizations, THL makes particularly strong efforts to assess their own programs and to look for and test ways to improve them. Their success in their corporate campaigns, and the publication of their research through Humane League Labs (HLL), has shifted the outlook and programming of several other advocacy organizations toward finding the best ways to advocate for animals.\n\nTHL\u0027s organizational structure appears to be strong, with a cohesive and democratic culture promoting positive relationships between THL staff, board members, and volunteers. We think this is especially important for THL because part of the intention of their local offices is to build a grassroots movement, and setting a positive and results-oriented tone for those new to the movement is good for animal advocacy as a whole. Their track record demonstrates significant success. Recently, they\u0027ve been especially successful with their corporate campaigns, and they appear to have played an important role in promoting corporate campaigns outside of the U.S. by training and collaborating with other groups through the Open Wing Alliance.\n\nTHL has an exceptionally strong commitment to using studies and systematic data collection to guide their approach to advocacy. Their corporate campaigns are especially strong, and they often take the lead in collaborating with other groups to facilitate knowledge-sharing about their strategic approach. They have been flexible in using their grassroots network for a variety of advocacy efforts-including individual outreach, support for corporate campaigns, and grassroots legislative advocacy. We find THL to be an excellent giving opportunity because of their strong programs and evidence-driven outlook, and we are pleased to recommend donating to them.\n\nWhat are their weaknesses?\nWe are somewhat concerned about THL\u0027s sustained high rate of expansion. THL has in the past been remarkably quick to expand in response to increased funding, more than doubling their budget each year in the recent past. Although their growth seems to have slowed this year, they still have the highest projected growth of our Top Charities. It\u0027s possible that they will continue to use large amounts of new funding efficiently, but we also believe there\u0027s a chance that they\u0027re reaching a size where significant changes in organization or internal systems are required, which might put a damper on their growth.\n\nWith thanks to Animal Charity Evaluators. For more detail see: https://animalcharityevaluators.org/charity-review/the-humane-league/\n\n",
+  "suggest": [
+    "The Humane League",
+    "the-humane-league"
+  ],
+  "url": "https://thehumaneleague.org.uk/",
+  "whyTags": "Animals",
+  "howTags": "Campaigning",
+  "externalAssessments": "https://animalcharityevaluators.org/charity-review/the-humane-league/",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "animal(s) spared",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 180,
+      "value": "0.018"
+    }
+  },
+  "ready": true,
+  "name": "The Humane League",
+  "modified": false,
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/The_Humane_League_logo.svg/500px-The_Humane_League_logo.svg.png",
+  "@id": "the-humane-league",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Humane_League",
+  "summaryDescription": "The Humane League (THL) is a nonprofit organization that works to reduce the suffering of farm animals through online advertising, Meatless Monday campaigns, and corporate outreach.",
+  "englandWalesCharityRegNum": "1177926",
+  "whereTags": "Global",
+  "uptodatedraft": "probably",
+  "usCharityRegNum": "04-3817491",
+  "status": "DRAFT"
+}
