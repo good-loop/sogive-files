@@ -63,7 +63,7 @@
             }
           },
           "name": "animal(s) spared",
-          "description": "Farm animals spared",
+          "description": "",
           "costPerBeneficiary": {
             "@type": "Money",
             "raw": "0.018",
@@ -260,5 +260,5 @@
   "whereTags": "Global",
   "uptodatedraft": "probably",
   "usCharityRegNum": "04-3817491",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
