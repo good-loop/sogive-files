@@ -59,17 +59,17 @@
           "number": 1.0,
           "meta": {
             "all": {
-              "notes": "Converted from USD using 3 March 2018 exchange rate"
+              "notes": ""
             }
           },
           "name": "farm animal(s) experiencing improved welfare",
           "description": "",
           "costPerBeneficiary": {
             "@type": "Money",
-            "raw": "0.018",
+            "raw": "0.01",
             "currency": "GBP",
-            "value100p": 180.0,
-            "value": 0.018
+            "value100p": 100.0,
+            "value": 0.01
           }
         }
       ],
@@ -245,8 +245,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 180,
-      "value": "0.018"
+      "value100p": 100,
+      "value": "0.01"
     }
   },
   "ready": true,
