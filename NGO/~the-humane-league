@@ -59,7 +59,7 @@
           "number": 1.0,
           "meta": {
             "all": {
-              "notes": "Converted from USD using 3 March 2018 exchange rate"
+              "notes": ""
             }
           },
           "name": "farm animal(s) experiencing improved welfare",
@@ -260,5 +260,5 @@
   "whereTags": "Global",
   "uptodatedraft": "probably",
   "usCharityRegNum": "04-3817491",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
