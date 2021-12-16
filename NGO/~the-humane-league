@@ -62,7 +62,7 @@
               "notes": "Converted from USD using 3 March 2018 exchange rate"
             }
           },
-          "name": "farm animal(s) ",
+          "name": "farm animal(s) in better living conditions",
           "description": "",
           "costPerBeneficiary": {
             "@type": "Money",
@@ -240,7 +240,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "farm animal(s) ",
+    "name": "farm animal(s) in better living conditions",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
@@ -260,5 +260,5 @@
   "whereTags": "Global",
   "uptodatedraft": "probably",
   "usCharityRegNum": "04-3817491",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
