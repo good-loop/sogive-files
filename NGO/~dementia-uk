@@ -1,0 +1,323 @@
+{
+  "scotlandCharityRegNum": "SCO47429",
+  "ukCompanyRegNum": "02944156",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9461855",
+          "currency": "GBP",
+          "value100p": 9.461855E10,
+          "value": 9461855.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "74553",
+          "currency": "GBP",
+          "value100p": 7.4553E8,
+          "value": 74553.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "2573943",
+        "currency": "GBP",
+        "value100p": 2.573943E10,
+        "value": 2573943.0
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4882187",
+          "currency": "GBP",
+          "value100p": 4.882187E10,
+          "value": 4882187.0
+        }
+      ],
+      "name": "Admiral nursing project ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "165353 ",
+          "currency": "GBP",
+          "value100p": 1.65353E9,
+          "value": 165353.0
+        }
+      ],
+      "name": "Research and publications ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "659734 ",
+          "currency": "GBP",
+          "value100p": 6.59734E9,
+          "value": 659734.0
+        }
+      ],
+      "name": "Public awareness ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "652699",
+          "currency": "GBP",
+          "value100p": 6.52699E9,
+          "value": 652699.0
+        }
+      ],
+      "name": "Business development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "785560",
+          "currency": "GBP",
+          "value100p": 7.8556E9,
+          "value": 785560.0
+        }
+      ],
+      "name": "Practice development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Dementia UK",
+  "description": "Dementia UK helps people with dementia and their families by connecting them with nurses specialized in the disease, raising public awareness about difficulties faced by people with dementia and their family members and participating in research about dementia care.",
+  "recommendation": "**To evaluate Dementia UK under the SoGive rating methodology, we would need more information. **\n\nDementia UK helps people with dementia and their families by providing one-to-one support, running a helpline, raising awareness and participating in research about dementia.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Dementia UK does**\n\nWe learned from Dementia UK\u0027s 2018/19 annual [report](https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf) that the charity spent £9.5 million during the financial year. \n\nIn performing our analysis, we focus on the Admiral Nursing activity in Dementia UK \u0027s work, which constitutes around 88% of their expenses on charitable activities. More specifically, Dementia UK used 68% on paying for the core nursing program, 11% on providing the nurses with additional training, and 9% on [business development](https://www.dementiauk.org/for-professionals/how-to-commission-or-host-an-admiral-nurse-service/get-in-touch-with-the-team/), which involves developing new services and maintaining current services. The nurses provide not only in-person care but also consultations and helpline services. \n\nThe Admiral Nurses helped more than 60,000 people during the financial year. Using data from the most recent annual accounts, we estimate the average cost of helping one person as £80. However, to get to a true assessment of the cost-effectiveness, we would need to make the four following adjustments: \n\nFirstly, the real cost per beneficiary will prove much higher. Dementia UK only pays for half the salary of Admiral Nurses during the first two years of the nurses\u0027 careers, and the charity will stop funding the nurses after two years. Out of 269 Admiral Nurses, only 69 joined during the past two years. The rest of the salaries come from the nurses\u0027 [host institutions](https://www.peggysworldcic.co.uk/admiral-nurse/), which usually receive NHS funding and include a variety of care homes, hospitals, and hospices. We will need to know how many years or days of nursing services Dementia UK actually funded. \n\nSecondly, we do not know how the Admiral Nurse program structurally changed the medical field. We surmise that by offering the incentive of two years of partial funding, Dementia UK is trying to address a perceived lack of dementia nurses like the Admiral Nurses. Does this structural gap really exist? We would need to estimate the difference, if any, between people\u0027s demand for the kind of services offered by the Admiral Nurses and the health sector\u0027s capability to provide such services. If we do find a gap, we will also need to compare the size of this gap to gaps involved in other health issues. Even if a significant funding gap does exist, we will still need to ask whether the Admiral Nurses can effectively mend the gap. \n--The number of the Admiral Nurses might prove too many.\n--We don\u0027t know how the impact of the nurses\u0027 work compares to what they otherwise might have done. \nWe know for now only the fact that more than 95% of carer experience survey takers found the program helpful.\n\nThirdly, we do not know the extent to which the Admiral Nurse program helps divert funding away from hospitals and care homes. To fully understand the impacts of Dementia UK\u0027s services, we must consider what would happen if the charity did not exist. According to the annual report, the program reduces unnecessary hospital admissions and delays entry into residential care. If Dementia UK did not exist, people currently receiving care at home might have had to go to a residential care centre or hospital. Treatment there could have cost the government a large amount of money, which could then pay for more valuable things. We know neither the exact amount of money saved on residential care and hospital visits nor the ultimate use of the funds saved. To obtain such information, we would again need to know what short-term and long-term impacts the nurses\u0027 treatments have on the patients. \n\nFourthly, we do not know whether host institutions like those funded by the NHS would have covered for the Admiral Nurse program if the charity did not pay for the nurses. The NHS is already providing care and advice for people with dementia and their families, so the NHS might pay for the nurses anyways. However, if the NHS would not have funded the nurses, we would also need to see whether the Admiral Nurse program meets the NHS\u0027s standards for cost-effectiveness, which are already far less demanding than SoGive\u0027s Gold charities. Dementia UK\u0027s partial funding scheme might incentivize the NHS to divert funds away from more cost-effective projects.\n\nBesides, we want to know the amount of training offered to the Admiral Nurses and what they did with the training. We will also have to wait to see the effects of services currently being developed by the business development team.\n\nThe charity also campaigns to raise awareness about dementia on various media platforms, spending about 9% of charitable funds. We do not know the number of people who received information from Dementia UK. Nor do we know what they did with this information. Besides, the charity collaborated with the Central-England Co-operative to produce short films about dementia. We do not know Dementia UK\u0027s exact level of contribution. As we have pointed out in an earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar), the impact of campaigns often proves difficult to assess.\n\nFinally, Dementia UK spent about 3% of charitable funds to support research on topics such as case management, end of life care, and developing an advance care plan template. Staff from Dementia UK actively contributed to the new Dementia Guidelines published in 2018 by the National Institute for Clinical Excellence as well as to the NICE Adult Carer guidelines. \n\nOur earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) on this suggests there are some tentative reasons to be positive about research in general. However, another [study]\n(https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?view\u003dsidebar) suggests that neurological disease research, the subject of Dementia UK, is slightly overfunded. The amount spent on neurological diseases as a proportion of the total UK research spending is around 9%. However, neurological diseases account for 3% of the world\u0027s disease burden or 8% of the UK\u0027s disease burden, measured in terms of the number of healthy life years taken away by the diseases and adjusted for the severity of the diseases. This suggests that neurological disease research receive a disproportionately large amount of funding, unlike other research areas like cardiovascular diseases (12% of UK research spending, 14% of global disease burden, and 16% of UK disease burden). It would probably be more sensible to donate to research in these other underfunded research areas rather than neurological diseases. We must take this suggestion with a grain of salt, however, for donors might reasonably overfund a research area that proves particularly tractable and tends to yield cost-effective health solutions. \n\nIn any case, please note that Dementia UK is currently spending less than 3% of its budget on research. The marginal pound donated to the charity is likely to be used on other activities, such as providing consultation.\n\n**Benchmarking**\n\nHaving reviewed the work of Dementia UK under the two-question method, the next step in the SoGive process would be to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. These benchmark charities should achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation). However, because of insufficient information in the charity\u0027s annual report, we were unable to perform the comparison.\n\n**Conclusion**\n\nBased on the annual report we understand that Dementia UK does valuable work by providing consultation to people with dementia, but it is not clear whether any £1,500 donation would achieve a higher impact than saving someone\u0027s life.\n\nFurther information that would enable us to form a fuller opinion of the work of Dementia UK would be a more comprehensive impact assessment, both in quantity and depth. We need to know the reach of the charity\u0027s impacts (e.g. number of people given advice) and the extent to which the charity helps each beneficiary (e.g. measuring the effect of this advice on patients\u0027 and their families\u0027 wellbeing). In particular, we want to know the amount of money saved on residential or hospital care and the ultimate use of the funds saved. We would be interested in the quality of these assessments (e.g. did the studies compare against a control group, how were the controls determined, etc.)",
+  "whyTags": "Dementia",
+  "UNSDG": "3",
+  "hideImpact": false,
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-5437312902632436970.jpg",
+  "@id": "dementia-uk",
+  "summaryDescription": "Dementia UK provides specialist support for people facing dementia.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-18307860150519979530.jpg",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Dementia UK",
+    "Dementia UK",
+    "dementia-uk"
+  ],
+  "url": "https://www.dementiauk.org/",
+  "howTags": "Direct Work, Research, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "Dementia UK",
+  "lastModified": "2020-08-29T17:52:08Z",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "1039404",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
