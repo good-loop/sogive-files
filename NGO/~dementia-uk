@@ -293,7 +293,15 @@
             }
           },
           "name": "beneficiaries (singular: beneficiary) reached directly",
-          "description": "This means beneficiaries reached through the charity\u0027s Admiral Nurse services"
+          "description": "This means beneficiaries reached through the charity\u0027s Admiral Nurse services",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "74.47",
+            "currency": "",
+            "value100p": 744700.0,
+            "value": 74.47
+          }
         }
       ],
       "data-src": [
@@ -366,9 +374,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 1251300,
-      "value": "125.130099999999993743495"
+      "value100p": 744700,
+      "value": "74.47",
+      "name": ""
     }
   },
   "name": "Dementia UK",
