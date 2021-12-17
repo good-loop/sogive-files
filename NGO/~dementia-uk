@@ -521,6 +521,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "162842",
+          "currency": "GBP",
+          "value100p": 1.62842E9,
+          "value": 162842.0
         }
       ],
       "name": "Research and publications"
