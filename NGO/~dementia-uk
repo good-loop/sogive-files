@@ -494,7 +494,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": " 656684",
+          "currency": "GBP",
+          "value100p": 6.56684E9,
+          "value": 656684.0
         }
       ],
       "name": "Public awareness"
