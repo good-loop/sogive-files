@@ -282,6 +282,30 @@
       "start": "2018-04-01",
       "end": "2019-03-31",
       "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -310,7 +334,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "name": "Dementia UK",
   "lastModified": "2020-08-29T17:52:08Z",
@@ -319,5 +343,5 @@
   "englandWalesCharityRegNum": "1039404",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
