@@ -284,7 +284,12 @@
       "end_raw": "2019-03-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "beneficiaries (singular: beneficiary) reached directly",
+          "description": "This means beneficiaries reached through PI\u0027s 129 projects in a range of areas."
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -351,7 +356,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "beneficiaries (singular: beneficiary) reached directly"
   },
   "name": "Dementia UK",
   "lastModified": "2020-08-29T17:52:08Z",
