@@ -316,6 +316,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs are Carol concert, Christmas cards\nand Merchandise"
+        }
+      },
       "name": "overall",
       "isRep": true
     }
