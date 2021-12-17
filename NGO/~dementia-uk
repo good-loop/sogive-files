@@ -410,6 +410,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "936365",
+          "currency": "GBP",
+          "value100p": 9.36365E9,
+          "value": 936365.0
         }
       ],
       "name": "Practice development"
