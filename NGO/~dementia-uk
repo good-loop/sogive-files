@@ -457,7 +457,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "673231",
+          "currency": "GBP",
+          "value100p": 6.73231E9,
+          "value": 673231.0
         }
       ],
       "name": "Business development"
