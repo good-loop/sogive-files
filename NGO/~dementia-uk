@@ -289,7 +289,7 @@
           "number": 70000.0,
           "meta": {
             "all": {
-              "notes": "Cost per beneficiary uses "
+              "notes": "Cost per beneficiary uses charitable spending as the annual cost."
             }
           },
           "name": "beneficiaries (singular: beneficiary) reached directly",
