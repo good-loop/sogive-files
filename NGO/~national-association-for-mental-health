@@ -1,0 +1,1136 @@
+{
+  "ukCompanyRegNum": "424348",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 400000.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-04-01T00:00:00Z",
+          "end": "2014-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value100p": 3.2822E11,
+          "value": 3.2822E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends30/0000219830_AC_20140331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The 400,000 figure (phrased as \"more than 400,000\") includes information, advice, therapy, advocacy and peer support - no breakdown provided as to how many people received which services. Other valuable outcomes (from Goals A,B,D,etc) include developing resilience, reducing stigma and others. Need to investigate the structure of the charity - could it be that there are further missing costs from local organisations?",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 375000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 1.38406E12,
+          "value": 1.38406E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The 375,000 figure comes from the annual review (http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf) - P3 - where it is phrased as \"local minds supporting 375,000 people\". See separate sheet for  breakdown, provided by email.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "54624000",
+          "currency": "GBP",
+          "value100p": 5.4624E11,
+          "value": 5.4624E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "13473000",
+          "currency": "GBP",
+          "value100p": 1.3473E11,
+          "value": 1.3473E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "17048000",
+        "currency": "GBP",
+        "value100p": 1.7048E11,
+        "value": 1.7048E7
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        },
+        "reserves": {
+          "source": ""
+        },
+        "isRep": {
+          "source": ""
+        }
+      },
+      "name": "overall",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 67500.0,
+          "confidence": "medium",
+          "name": "people (singular: person) receiving community support",
+          "description": "Community support accounts for 37% of Mind\u0027s service provision and is used by 18% of Mind\u0027s users. Examples of community support include befriending or wellbeing services."
+        }
+      ],
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "51210220",
+          "currency": "GBP",
+          "value100p": 5.121022E11,
+          "value": 5.121022E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "meta": {
+        "stories": {
+          "source": ""
+        }
+      },
+      "name": "Community support",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 56250.0,
+          "confidence": "medium",
+          "name": "people (singular: person) receiving talking treatments",
+          "description": "Talking treatments account for 16% of Mind\u0027s service provision and is used by 15% of Mind\u0027s users. "
+        }
+      ],
+      "image": "",
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "22144960",
+          "currency": "GBP",
+          "value100p": 2.214496E11,
+          "value": 2.214496E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "imageCaption": "",
+      "meta": {
+        "stories": {
+          "source": ""
+        }
+      },
+      "name": "Talking treatment",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 187500.0,
+          "confidence": "medium",
+          "name": "people (singular: person) getting advice and advocacy",
+          "description": "Advice and advocacy account for 15% of Mind\u0027s service provision and is used by 50% of Mind\u0027s users. Advocacy involves one person voicing the ideas of another person suffering from mental illnesses, whose ideas are often not taking seriously."
+        }
+      ],
+      "image": "",
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "20760900",
+          "currency": "GBP",
+          "value100p": 2.07609E11,
+          "value": 2.07609E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/advocacy/what-is-advocacy/"
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "imageCaption": "",
+      "meta": {
+        "imageCaption": {
+          "source": ""
+        },
+        "stories": {
+          "source": ""
+        }
+      },
+      "name": "Advice and advocacy",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3750.0,
+          "confidence": "medium",
+          "name": "people (singular: person) supported for a year",
+          "description": "Residential care account for 7% of Mind\u0027s service provision and is used by 1% of Mind\u0027s users. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        }
+      ],
+      "image": "",
+      "start_raw": "2014-04-01T00:00:00Z",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9688420",
+          "currency": "GBP",
+          "value100p": 9.68842E10,
+          "value": 9688420.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Residential",
+      "start": "2014-04-01",
+      "description": "",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 25260.0,
+          "confidence": "medium",
+          "name": "people (singular: person) supported ",
+          "description": "Employment and skills account for 11% of Mind\u0027s service provision and is used by 7% of Mind\u0027s users. The charity helps people with mental health problems get jobs and acquire skills."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15224660",
+          "currency": "GBP",
+          "value100p": 1.522466E11,
+          "value": 1.522466E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Employment and skills",
+      "start": "2014-04-01",
+      "description": "",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 11250.0,
+          "confidence": "medium",
+          "name": "people (singular: person) helped",
+          "description": "Specific groups account for 12% of Mind\u0027s service provision and is used by 3% of Mind\u0027s users. These specific groups include children, those who suffer from bereavement, victims of abuse, and members of the LGBTQ community. Mind helps special groups (such as children, those in the LGBTQ community, those who have suffered abuse or have complex needs) and provides more tailored support."
+        }
+      ],
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "16608720",
+          "currency": "GBP",
+          "value100p": 1.660872E11,
+          "value": 1.660872E7
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2014-04-01",
+      "meta": {
+        "stories": {
+          "source": ""
+        },
+        "description": {
+          "source": ""
+        }
+      },
+      "name": "Specific groups",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 15000.0,
+          "confidence": "medium",
+          "name": "????",
+          "description": "Campaigning accounts for 1% of Mind\u0027s service provision and accounts for 4% of Mind\u0027s outreach. "
+        }
+      ],
+      "image": "",
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1384060",
+          "currency": "GBP",
+          "value100p": 1.38406E10,
+          "value": 1384060.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "imageCaption": "",
+      "meta": {
+        "image": {
+          "source": ""
+        },
+        "imageCaption": {
+          "source": ""
+        },
+        "stories": {
+          "source": ""
+        }
+      },
+      "name": "Campaigning",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3750.0,
+          "confidence": "medium",
+          "name": "people (singular: person) helped",
+          "description": "Crisis services accounts for 1% of Mind\u0027s service provision and is used by 1% of Mind\u0027s users. This project involves people whose lives are at risk."
+        }
+      ],
+      "stories": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1384060",
+          "currency": "GBP",
+          "value100p": 1.38406E10,
+          "value": 1384060.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01",
+      "description": "",
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3337689/minds-accounts_2014_2015.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.mind.org.uk/media/3349559/mind_annual-review_2014_15_online_final.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/getting-help-in-a-crisis/"
+        }
+      ],
+      "start_raw": "2014-04-01T00:00:00Z",
+      "meta": {
+        "stories": {
+          "source": ""
+        }
+      },
+      "name": "Crisis services",
+      "end": "2015-03-31",
+      "end_raw": "2015-03-31T00:00:00Z"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5528000",
+          "currency": "GBP",
+          "value100p": 5.528E10,
+          "value": 5528000.0
+        }
+      ],
+      "name": "Helping people to stay well",
+      "start": "2018-04-01",
+      "description": "\"Helping people to stay well\" involves Mind\u0027s work on public mental health, resilience, and workplace wellbeing.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6073000",
+          "currency": "GBP",
+          "value100p": 6.073E10,
+          "value": 6073000.0
+        }
+      ],
+      "name": "Giving people choice",
+      "start": "2018-04-01",
+      "description": "\"Giving people choice\" involves Mind\u0027s work on information services and peer support.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6604000",
+          "currency": "GBP",
+          "value100p": 6.604E10,
+          "value": 6604000.0
+        }
+      ],
+      "name": "Improving services and support",
+      "start": "2018-04-01",
+      "description": "\"Improving services and support\" involves Mind\u0027s work on primary care, crisis care. This area also touches on Mind\u0027s efforts to strengthen funding, commissioning, and service delivery.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16498000",
+          "currency": "GBP",
+          "value100p": 1.6498E11,
+          "value": 1.6498E7
+        }
+      ],
+      "name": "Helping people take part in society equally",
+      "start": "2018-04-01",
+      "description": "\"Helping people take part in society equally\" involves Mind\u0027s work on home and community, welfare, work and rights, leadership and participation, and stigma and discrimination.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media-a/4461/mind-annual-review-and-financial-statements-2018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "926000",
+          "currency": "GBP",
+          "value100p": 9.26E9,
+          "value": 926000.0
+        }
+      ],
+      "name": "Making access to services equal for everyone",
+      "start": "2018-04-01",
+      "description": "\"Giving people choice\" involves Mind\u0027s work with LGBTQ+ groups, young black men, homeless people, substance misuse, and the criminal justice system.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Mind",
+  "description": "Every year, [one in four people](https://www.mind.org.uk/about-us/what-we-do/) suffers from a mental health condition. Mind provides mental health information and support, organizes a local network of specialized service providers, conduct professional training to promote mental health in the workplace, and run campaigns on mental-health-related issues. ",
+  "recommendation": "**Mind achieves a Bronze assessment under the SoGive rating methodology.**\nTentative:\n\nThis charity supplies mental health support and information organises a community network of specialized service providers helps improve mental health standards in the workplace and champions the rights of those affected by mental health problems.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Mind does**\n\nThe most comprehensive information we obtained about Mind\u0027s activities comes from 2015, so the following analysis does not completely represent Mind\u0027s effectiveness today. Based on the information we gathered from the 2014/15 accounts, we estimated the costs of major mental health services for one beneficiary. Three types of services directly treated mental conditions. Talking treatment accounted for 16% of service provision and cost around £450 per person. Services to special groups accounted for 12% of service provision and cost about £1,700 per person. Residential care took up 7% of service provision and cost about £2,400 per person per year. Another three types of services offered social support to people who experience mental issues. Advice and advocacy accounted for 15% of service provision and cost about £130 per person. Services that had to do with employment and skills accounted for 11% of the service and cost about £680 per person. Community support services such as befriending amounted to 37% of the service provided and cost around £860 per person. \n\nIn addition to these six services, Mind also provided crisis services and campaigned to secure better conditions for people struggling with mental health issues. The impact of campaigns prove inherently difficult to estimate, according to [one of our earlier analyses](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar), but according to the report, these two projects accounted respectively for only 1% of the charity\u0027s service provision, so we have left the two initiatives out of our analysis.\n\n**Benchmarking**\n\nAfter a review of Mind\u0027s work under the two-question method, the next step in the SoGive process involves comparing Mind to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\n**Conclusion**\n\nAmong the three major mental health services examined above that directly treat mental issues, talking treatment had the lowest per beneficiary cost. If talking treatment for 1 person costs £450, then £1,500 could fund just over 3 people supported.\n\nWe see 3 people receiving mental health care during a year as less positive of an outcome than saving someone\u0027s life. Mind\u0027s therapy appears unlikely to have the same order of magnitude of impact as saving one\u0027s life, for [the organization noted](https://www.mind.org.uk/information-support/drugs-and-treatments/talking-therapy-and-counselling/about-talking-therapies/#WhatCanTherapyHelpWith) that people not at a crisis point can also seek support from therapy.\n\nAmong the three major mental health services examined above that do not directly treat mental issues, those related to advice and advocacy has the lowest per beneficiary cost. If advice and advocacy for 1 person cost £130, then £1,500 could fund nearly 12 people supported. \n\nAssuming that this supplementary support does not have the same order of magnitude of impact as direct treatment, we see 12 mentally troubled people becoming more socially supported as less positive of an outcome than saving someone\u0027s life. \n\nFor reference, when we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove, that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Gold-rated charity (i.e. achieves less positive impact per pound donated than a Gold-rated charity)",
+  "whyTags": "Mental health",
+  "UNSDG": "3",
+  "imageCaption": "Kallikaran (right) speaking with a staff from Mind",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/up0-14159793705843313117.png#ccrop:80",
+  "@id": "national-association-for-mental-health",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mind_(charity)",
+  "summaryDescription": "Mind offers advice and support to people experiencing mental health issues, and charity also campaigns to improve services, raise awareness, and promote understanding.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/Screen_Shot_2020-06-18_at_2.34.46_PM-9382570665410741887.png",
+  "stories": "Suffering from suicidal thoughts, [Rohan Kallikaran](https://www.mind.org.uk/about-us/what-we-do/) reached out to Mind. He found assurance in his conversation with Mind\u0027s staff and appreciated the opportunity to speak openly about mental health. He has recently decided to run a marathon to raise funds for Mind.",
+  "noPublicDonations": false,
+  "impact": "low",
+  "suggest": [
+    "National Association for Mental Health",
+    "Mind",
+    "national-association-for-mental-health"
+  ],
+  "communicationsWithCharity": "I sent an email on 29/Dec/2015 asking about how the federated structure impacts on cost analysis and a breakdown of the 400,000 beneficiaries by service used. Reply received a couple of weeks later (see data in separate sheet)",
+  "url": "https://www.mind.org.uk/information-support/",
+  "howTags": "Direct work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) receiving community support",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 8621249,
+      "value": "862.1249158249159391473762626262639194500"
+    }
+  },
+  "meta": {
+    "ukCompanyRegNum": {
+      "source": ""
+    },
+    "images": {
+      "source": ""
+    },
+    "stories": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "name": {
+      "source": ""
+    },
+    "logo": {
+      "source": ""
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "englandWalesCharityRegNum": {
+      "source": ""
+    },
+    "summaryDescription": {
+      "source": ""
+    }
+  },
+  "name": "National Association for Mental Health",
+  "lastModified": "2020-09-18T12:09:46Z",
+  "category": "health",
+  "subcategory": "Mental Health",
+  "englandWalesCharityRegNum": "219830",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
