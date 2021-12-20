@@ -1044,6 +1044,35 @@
       "description": "\"Giving people choice\" involves Mind\u0027s work with LGBTQ+ groups, young black men, homeless people, substance misuse, and the criminal justice system.",
       "end": "2019-03-31",
       "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mind.org.uk/media/6823/mind-2019_20-annual-review-and-financial-statements.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
