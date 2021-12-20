@@ -1070,7 +1070,7 @@
     "national-association-for-mental-health"
   ],
   "communicationsWithCharity": "I sent an email on 29/Dec/2015 asking about how the federated structure impacts on cost analysis and a breakdown of the 400,000 beneficiaries by service used. Reply received a couple of weeks later (see data in separate sheet)",
-  "url": "https://www.mind.org.uk/information-support/",
+  "url": "https://www.mind.org.uk",
   "howTags": "Direct work, Campaigning",
   "simpleImpact": {
     "number": 1.0,
@@ -1132,5 +1132,5 @@
   "englandWalesCharityRegNum": "219830",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
