@@ -25,11 +25,12 @@
           "value": 0.0
         },
         {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
+          "@type": "Money",
           "name": "tradingCosts",
+          "raw": "402000",
           "currency": "GBP",
-          "value": 0.0
+          "value100p": 4.02E9,
+          "value": 402000.0
         },
         {
           "value100": 0.0,
