@@ -1097,12 +1097,7 @@
       }
     },
     {
-      "outputs": [
-        {
-          "number": 1.0,
-          "name": "test"
-        }
-      ],
+      "outputs": [],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -1124,7 +1119,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "4,373000",
+          "raw": "4373000",
           "currency": "GBP",
           "value100p": 4.373E10,
           "value": 4373000.0
