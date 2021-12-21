@@ -1084,6 +1084,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "costs p.47, income p.46"
+        },
+        "reserves": {
+          "notes": "p.47"
         }
       },
       "name": "overall",
