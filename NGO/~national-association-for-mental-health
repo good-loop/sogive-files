@@ -1269,6 +1269,11 @@
           "value": 1097000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47"
+        }
+      },
       "name": "Making access to services equal for everyone"
     }
   ],
