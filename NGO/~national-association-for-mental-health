@@ -1259,6 +1259,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1097000",
+          "currency": "GBP",
+          "value100p": 1.097E10,
+          "value": 1097000.0
         }
       ],
       "name": "Making access to services equal for everyone"
