@@ -1187,6 +1187,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6966000",
+          "currency": "GBP",
+          "value100p": 6.966E10,
+          "value": 6966000.0
         }
       ],
       "name": "Improving services and support"
