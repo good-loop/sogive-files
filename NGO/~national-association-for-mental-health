@@ -1233,6 +1233,11 @@
           "value": 1.8127E7
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47"
+        }
+      },
       "name": "Helping people take part in society equally"
     },
     {
