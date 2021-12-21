@@ -1119,10 +1119,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "4373000",
+          "raw": "£6,354,000",
           "currency": "GBP",
-          "value100p": 4.373E10,
-          "value": 4373000.0
+          "value100p": 6.354E10,
+          "value": 6354000.0
         }
       ],
       "name": "Helping people to stay well"
