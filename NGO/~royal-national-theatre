@@ -454,19 +454,18 @@
       "outputs": [
         {
           "number": 150.0,
+          "@type": "Output",
           "name": "school plays (singular: school play) supported"
         },
         {
           "number": 6000.0,
+          "@type": "Output",
           "name": "young people (singular: young person) took part in theatre plays"
         },
         {
           "number": 152.0,
+          "@type": "Output",
           "name": "schools (singular: school) supported"
-        },
-        {
-          "number": 1000.0,
-          "name": "artists (singular: artist) supported"
         }
       ],
       "year": 2020.0,
