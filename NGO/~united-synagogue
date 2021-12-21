@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2020.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "37662000",
+          "currency": "GBP",
+          "value100p": 3.7662E11,
+          "value": 3.7662E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "Founded in 1970, he US is largest synagogue movement in Europe, comprising 62 local communities supported by a central office. Organizational objectives include\n- to found, build, maintain, conduct, promote, and develop within the United Kingdom, Synagogues which conform to the Form of Worship for persons of the Jewish Religion. \n- to advance education and provide instruction in religious subjects to persons of the Jewish religion\n- the relief of poor persons of the Jewish religion, and to provide means of burial for persons of the Jewish religion\nand more. \n\n",
+  "suggest": [
+    "United Synagogue",
+    "united-synagogue"
+  ],
+  "url": "https://www.theus.org.uk",
+  "whyTags": "Jewish, Burial, Education, Religion, ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "United Synagogue",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-3583721871374215434.png",
+  "@id": "united-synagogue",
+  "englandWalesCharityRegNum": "242552",
+  "summaryDescription": "Organization providing burials services and education schemes (among other charitable services) for persons of the Jewish Religion",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
