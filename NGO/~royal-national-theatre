@@ -498,7 +498,12 @@
       "name": "NT Learning \u0026 Public Engagement"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "people (singular: person) supported"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
