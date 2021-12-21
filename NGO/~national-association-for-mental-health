@@ -1125,6 +1125,11 @@
           "value": 6354000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47"
+        }
+      },
       "name": "Helping people to stay well"
     },
     {
