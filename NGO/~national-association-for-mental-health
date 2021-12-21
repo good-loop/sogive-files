@@ -1197,6 +1197,11 @@
           "value": 6966000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47"
+        }
+      },
       "name": "Improving services and support"
     },
     {
