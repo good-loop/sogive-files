@@ -1097,7 +1097,12 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "test"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -1114,6 +1119,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
