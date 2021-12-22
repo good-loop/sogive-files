@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
+  "name": "Blind Dog Rescue Alliance",
   "logo": "https://media.good-loop.com/uploads/standard/xEAKKRaX__400x400-16871417495117206246.jpeg#ccrop:80",
   "id": "blind-dog-rescue-all",
-  "suggest": [],
+  "suggest": [
+    "Blind Dog Rescue Alliance"
+  ],
   "category": "animals",
   "status": "DRAFT"
 }
