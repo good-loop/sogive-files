@@ -1,10 +1,14 @@
 {
   "@type": "NGO",
-  "name": "donors chose",
-  "logo": "https://media.good-loop.com/uploads/standard/DonorsChoose__Logo-17350206333412879315.jpg",
-  "id": "donors-chose",
+  "unlisted": true,
+  "displayName": "  Blind Dog Rescue Alliance",
+  "name": "  Blind Dog Rescue Alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/xEAKKRaX__400x400-13561544549518389267.jpeg",
+  "id": "greater-good-charities",
   "suggest": [
-    "donors chose"
+    "  Blind Dog Rescue Alliance",
+    "  Blind Dog Rescue Alliance"
   ],
+  "url": "https://www.blinddogrescue.org/",
   "status": "DRAFT"
 }
