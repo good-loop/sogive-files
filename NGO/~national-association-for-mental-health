@@ -280,7 +280,7 @@
       ],
       "start": "2014-04-01",
       "description": "",
-      "isRep": true,
+      "isRep": false,
       "data-src": [
         {
           "@type": "Citation",
@@ -1306,14 +1306,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people (singular: person) receiving community support",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 8621249,
-      "value": "862.1249158249159391473762626262639194500"
-    }
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "ukCompanyRegNum": {
