@@ -609,7 +609,7 @@
         {
           "number": 140.0,
           "name": "people (singular: person) helped to change professions to teaching",
-          "description": "This refers to one person, likely a professional with valuable skills and career experience provided with guidance to switch careers to teaching.",
+          "description": "This refers to one person, likely a professional with valuable skills and career experience, provided with guidance to switch careers to teaching.",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -843,5 +843,5 @@
   "englandWalesCharityRegNum": "1095322",
   "whereTags": "United Kingdom, Global",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
