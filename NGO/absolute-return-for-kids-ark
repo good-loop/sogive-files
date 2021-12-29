@@ -609,7 +609,7 @@
         {
           "number": 140.0,
           "name": "people (singular: person) helped to change professions to teaching",
-          "description": "This refers to one person, likely a professional with valuable skills and career experience provided with guidance to switch careers to teaching.",
+          "description": "This refers to one person, likely a professional with valuable skills and career experience, being provided with guidance to switch careers to teaching.",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
