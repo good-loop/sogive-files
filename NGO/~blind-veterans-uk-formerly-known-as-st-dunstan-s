@@ -791,7 +791,8 @@
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/blind-veterans-brighton-284__2-10209653800487664279.jpg",
   "noPublicDonations": false,
-  "impact": "more-info-needed",
+  "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "Blind Veterans Uk (formerly known as St Dunstan\u0027s)",
     "blind-veterans-uk-formerly-known-as-st-dunstan-s"
