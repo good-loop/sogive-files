@@ -1,0 +1,827 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 4000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 2.7742E11,
+          "value": 2.7742E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 2.717E10,
+          "value": 2717000.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1251.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "Numbers of beneficiaries for each project/programme are supposed to be gathered from the annual report - i\u0027m struggling to see how these add up to the total number of beneficiaries according to an email from the charity.",
+      "name": "help and training for independent living",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1830.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "Numbers of beneficiaries for each project/programme are supposed to be gathered from the annual report - i\u0027m struggling to see how these add up to the total number of beneficiaries according to an email from the charity.",
+      "name": "care centres",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6200.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "Numbers of beneficiaries for each project/programme are supposed to be gathered from the annual report - i\u0027m struggling to see how these add up to the total number of beneficiaries according to an email from the charity.",
+      "name": "welfare services incl community based services",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 157.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "Numbers of beneficiaries for each project/programme are supposed to be gathered from the annual report - i\u0027m struggling to see how these add up to the total number of beneficiaries according to an email from the charity.",
+      "name": "housing",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38261000",
+          "currency": "GBP",
+          "value100p": 3.8261E11,
+          "value": 3.8261E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "7000",
+          "currency": "GBP",
+          "value100p": 7.0E7,
+          "value": 7000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2574000",
+          "currency": "GBP",
+          "value100p": 2.574E10,
+          "value": 2574000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "118437000",
+        "currency": "GBP",
+        "value100p": 1.18437E12,
+        "value": 1.18437E8
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6572000",
+          "currency": "GBP",
+          "value100p": 6.572E10,
+          "value": 6572000.0
+        }
+      ],
+      "name": "Independent living assistance"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2276000",
+          "currency": "GBP",
+          "value100p": 2.276E10,
+          "value": 2276000.0
+        }
+      ],
+      "name": "Housing provision"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8324000",
+          "currency": "GBP",
+          "value100p": 8.324E10,
+          "value": 8324000.0
+        }
+      ],
+      "name": "Welfare services"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5244.0,
+          "name": "Member stay(s) at the centre"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12673000",
+          "currency": "GBP",
+          "value100p": 1.2673E11,
+          "value": 1.2673E7
+        }
+      ],
+      "name": "Care centre activities"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000216227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1574000",
+          "currency": "GBP",
+          "value100p": 1.574E10,
+          "value": 1574000.0
+        }
+      ],
+      "name": "Recruitment and services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10403312\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d216227"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "39186000",
+          "currency": "GBP",
+          "value100p": 3.9186E11,
+          "value": 3.9186E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "6000",
+          "currency": "GBP",
+          "value100p": 6.0E7,
+          "value": 6000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2504000",
+          "currency": "GBP",
+          "value100p": 2.504E10,
+          "value": 2504000.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "104511000",
+        "currency": "",
+        "value100p": 1.04511E12,
+        "value": 1.04511E8
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2533000",
+          "currency": "GBP",
+          "value100p": 2.533E10,
+          "value": 2533000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "674000",
+          "currency": "GBP",
+          "value100p": 6.74E9,
+          "value": 674000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2137000",
+          "currency": "GBP",
+          "value100p": 2.137E10,
+          "value": 2137000.0
+        }
+      ],
+      "name": "Housing Provision"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "7102000",
+          "currency": "GBP",
+          "value100p": 7.102E10,
+          "value": 7102000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5588000",
+          "currency": "GBP",
+          "value100p": 5.588E10,
+          "value": 5588000.0
+        }
+      ],
+      "name": "Independent Living Assistance"
+    },
+    {
+      "outputs": [
+        {
+          "number": 9500.0,
+          "confidence": "medium",
+          "name": "members (singular:member) provided with community support for a year",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1341",
+            "currency": "",
+            "value100p": 1.341E7,
+            "value": 1341.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.blindveterans.org.uk/about/impact-report-2020/community/"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "12741000",
+          "currency": "GBP",
+          "value100p": 1.2741E11,
+          "value": 1.2741E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10025000",
+          "currency": "GBP",
+          "value100p": 1.0025E11,
+          "value": 1.0025E7
+        }
+      ],
+      "name": "Community Services",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15659000",
+          "currency": "GBP",
+          "value100p": 1.5659E11,
+          "value": 1.5659E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1830000",
+          "currency": "GBP",
+          "value100p": 1.83E10,
+          "value": 1830000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12711000",
+          "currency": "GBP",
+          "value100p": 1.2711E11,
+          "value": 1.2711E7
+        }
+      ],
+      "name": "Care Centre Activities"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1132000",
+          "currency": "GBP",
+          "value100p": 1.132E10,
+          "value": 1132000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "891000",
+          "currency": "GBP",
+          "value100p": 8.91E9,
+          "value": 891000.0
+        }
+      ],
+      "name": "Recruitment and Services"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Blind Veterans UK",
+  "recommendation": "**Summary**\n**Blind Veterans is rated as Not Recommended (tentative)**\n- Blind Veterans UK provides care, community, and support to visually impaired ex-servicepeople in the UK.\n- Their support is spread across a wide variety of areas including, but not limited to: assisting members with independent living, providing companionship, and delivering care.\n- Based on their expenditure in 2020 and an estimate of them having 10-28,000 members, we believe they spend between £1,400-£4,000 per member each year. For their support to reach the cost-effectiveness levels of the SoGive Gold Standard at this level of expenditure, their support would need to provide wellbeing benefits equivalent to averting 7-20 years of severe depression for each member; this seems highly unlikely.\n- Overall, it appears highly unlikely Blind Veterans UK’s cost-effectiveness will come close to the Gold Standard. Consequently, we rate Blind Veterans UK as Not Recommended (tentative).\n\n**The SoGive approach**\n \nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)? \nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Blind Veterans UK does - how they spend your donations**\n\nBlind Veterans UK provides care, community, and support for vision-impaired individuals who have served in the British Armed Forces.\nAccording to their [2020 annual report]( https://www.blindveterans.org.uk/media/6164/bvuk-72pp-annual-report-lr-2020-final-24-09-20.pdf), this support was split between five main areas: Independent living assistance, such as training in relevant technologies (£5.6 million); housing provision (£2.1 million); community services, such as running social events and meetups (£10 million); care centre activities, including the provision of specialist rehabilitation and holidays (£12.7 million); and beneficiary recruitment and services (£890,000).\n\n**Cost-effectiveness analysis - how does the Blind Veterans UK compare to the most cost-effective charities?**\n\nAfter a review of the work of the Blind Veterans UK under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\nJudging from the key impact numbers they have provided (such as 9500 receiving community support, 689 receiving specialist rehabilitation, and operating two care centres), it appears Blind Veterans UK have reached at least 10,000 people in the past year but are unlikely to have provided significant support to more than 28,000. We reached this conclusion by considering that if the [2.1 million UK veterans](https://commonslibrary.parliament.uk/research-briefings/cbp-7693/) are blind at the same rate as US ones ([130,000](https://www.research.va.gov/topics/visionloss.cfm#:~:text\u003dVA\u0027s%20Office%20of%20Blind%20Rehabilitation,to%20perform%20necessary%20daily%20activities.) out of [19 million](https://www.pewresearch.org/fact-tank/2021/04/05/the-changing-face-of-americas-veteran-population), there would only be around 14,000 blind veterans to support, capping their potential membership numbers. Even if we assume there are twice that many British blind veterans and the charity supports them all, with their annual expenditure of £39.2 million, a year’s support to a member would cost £1,400 on average. To meet the SoGive Gold Standard at this level expenditure, the members would, on average, each need to receive wellbeing benefits equivalent to averting seven years of severe depression each year; this seems highly unlikely.\nFor these reasons, it seems Blind Veterans UK are unlikely to come close to the cost-effectiveness required for our Gold Standard.\n\n**Conclusion**\nBased on the above, we rate Blind Veterans UK as Not Recommended (tentative) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective.\n- We do have some indication of cost-effectiveness, and believe that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin. This indication is tentative as we relied on data that was not specific to Blind Veterans.\n",
+  "description": "Some of the services Blind Veterans UK provide are:\nRehabilitation\nThe charity offers rehabilitation services by qualified professionals. They do so by assessing vision, to learn about the level of sight loss of individual veterans. Based on the assessment, the workers teach the veterans how to best use their sight and how to adjust their surroundings. Furthermore, they teach how to use white canes if needed and how to learn the best routes. They also teach how to do everyday activities again, such as making a cup of tea or tell the time.\n\nCare\nThe charity offers continual nursing and social care services for veterans who need it at their Brighton and Llandudno centres. This is for people who have sustained other illnesses and disabilities alongside their blindness,  don\u0027t have family help to stay self-sufficient at home, will benefit from a temporary stay to recover from an illness, or give their full-time carers a break, or who need support during their old age.\n\nClubs and Societies\nThe charity also provides opportunities for veterans to socialise and have a hobby. The charity runs an Acoustic rifle shooting club, Amateur radio club, Archery club, Bowls club, Computer club and many others.\n\nThe charity workers and volunteers also visit the veterans at home, helping with property maintenance. Furthermore, the charity provides car transportation for those who need it.",
+  "whyTags": "Military, Veterans, Blindness, Disability",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/Blind__Veterans__UK__Logo-13262581872317767371.jpg",
+  "@id": "blind-veterans-uk-formerly-known-as-st-dunstan-s",
+  "wikipedia": "https://en.wikipedia.org/wiki/Blind_Veterans_UK",
+  "summaryDescription": "Blind Veterans UK is a charity that provides support and services to visually impaired ex-Armed Forces and National Service personnel.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/blind-veterans-brighton-284__2-10209653800487664279.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Blind Veterans Uk (formerly known as St Dunstan\u0027s)",
+    "Blind Veterans UK",
+    "blind-veterans-uk-formerly-known-as-st-dunstan-s"
+  ],
+  "communicationsWithCharity": "No of beneficiaries wasn\u0027t clear from the annual report, so I sent an email asking for more info",
+  "url": "https://www.blindveterans.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "members (singular:member) provided with community support for a year",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 13410000,
+      "value": "1341.0",
+      "name": ""
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Blind Veterans Uk (formerly known as St Dunstan\u0027s)",
+  "englandWalesCharityRegNum": "216227",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
