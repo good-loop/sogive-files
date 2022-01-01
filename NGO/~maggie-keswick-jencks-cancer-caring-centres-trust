@@ -1,0 +1,281 @@
+{
+  "scotlandCharityRegNum": "SC024414",
+  "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/Maggies__Centre__Oxford-11605636809401155205.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://maggies-staging.s3.amazonaws.com/media/filer_public/80/e5/80e584fe-5cb6-4ff5-8e3f-01db751a37cb/maggies_annual_report_accounts-2019.pdf"
+        }
+      ],
+      "start_raw": "2019-01-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "18,047,000",
+          "currency": "GBP",
+          "value100p": 1.8047E11,
+          "value": 1.8047E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "68,000",
+          "currency": "GBP",
+          "value100p": 6.8E8,
+          "value": 68000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Richard Call: Taken Trading Costs as merchandise income p26. Check this!"
+        },
+        "reserves": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2019-01-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "5,830,000",
+        "currency": "GBP",
+        "value100p": 5.83E10,
+        "value": 5830000.0
+      },
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 285000.0,
+          "name": "Visitors (singular: Visitor)",
+          "description": "This mean an individual (who is diagnosed with cancer or their family and friends) visited a UK Centre to receive information and support"
+        },
+        {
+          "number": 26.0,
+          "name": "UK Centres (singular: UK centre)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://maggies-staging.s3.amazonaws.com/media/filer_public/80/e5/80e584fe-5cb6-4ff5-8e3f-01db751a37cb/maggies_annual_report_accounts-2019.pdf"
+        }
+      ],
+      "start_raw": "2019-01-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10,540,000",
+          "currency": "GBP",
+          "value100p": 1.054E11,
+          "value": 1.054E7
+        }
+      ],
+      "name": "Cancer Support",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://maggies-staging.s3.amazonaws.com/media/filer_public/80/e5/80e584fe-5cb6-4ff5-8e3f-01db751a37cb/maggies_annual_report_accounts-2019.pdf"
+        }
+      ],
+      "start_raw": "2019-01-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "730,000",
+          "currency": "GBP",
+          "value100p": 7.3E9,
+          "value": 730000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "No really useful statistic. 2 BAME blogger events, 30 MPs visited centre. and \"awareness\" increase"
+        }
+      },
+      "name": "Cancer Information \u0026 Awareness",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5.0,
+          "meta": {
+            "all": {
+              "notes": "(6.6m+1.45m)/(3+2)"
+            }
+          },
+          "name": "Annual centre construction costs (singular: Annual centre construction cost)",
+          "description": "2019 expenditure on construction of new centres (both completed and ongoing)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "1,610,0000",
+            "currency": "GBP",
+            "value100p": 1.61E11,
+            "value": 1.61E7
+          }
+        },
+        {
+          "number": 4.0,
+          "meta": {
+            "all": {
+              "notes": "1m/4"
+            }
+          },
+          "name": "Annual centre planning costs",
+          "description": "2019 expenditure on planning of new centres",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "250,000",
+            "currency": "GBP",
+            "value100p": 2.5E9,
+            "value": 250000.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://maggies-staging.s3.amazonaws.com/media/filer_public/80/e5/80e584fe-5cb6-4ff5-8e3f-01db751a37cb/maggies_annual_report_accounts-2019.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,911,000",
+          "currency": "GBP",
+          "value100p": 8.911E10,
+          "value": 8911000.0
+        }
+      ],
+      "name": "Capital Expenditure"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Maggie\u0027s Centre",
+  "impact": "low",
+  "confidence": "high",
+  "description": "Cancer Support\n- Manage 28 centres across the UK (and expanding) that support people diagnosed with cancer and their loved ones\n- Provide professional advice on managing money, nutrition and exercise, managing symptoms as well as other issues\n- Offer support groups and workshops to help emotional welfare and create a support community\n- Host online information as well as blogs and message boards\n- Organise \"gifts and treats\" from businesses and individuals\n\nCancer Information \u0026 Awareness\n- Increase external awareness through PR campaigns and social media",
+  "recommendation": "**To evaluate Maggie\u0027s Centre under the SoGive rating methodology, we would need more information.**\n\nMaggie\u0027s Centre helps people with cancer as well as their family and friends by creating a space where they have access to information and emotional support. They also help spread more awareness about the challenges such people face.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n\n- how much does it cost for the charity to do something\n\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Maggie\u0027s Centre does**\n\nBased on the information we have gathered from the 2019 accounts, Maggie\u0027s Centre spent £10.5m on \"Cancer Support\" charitable activities. This includes an array of free services, such as professional advice, emotional wellbeing workshops, and financial guidance. It is estimated that this reached 285,000 visitors across its 26 centres.\n\nMaggie\u0027s Centre also spent £8.9m on building centres in new locations (5), planning new ones (4) and refurbishments. Lastly, the charity also raises awareness and share people\u0027s experiences, which cost £730,000 in 2019.\n\n**Benchmarking**\n\nHaving reviewed Maggie\u0027s Centre work under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, we have focused on the \"Cancer Support\" area of Maggie\u0027s Centre work, which composes over half of its charitable activities, as per the 2019 accounts. While this seems reasonable, it\u0027s possible that the impact of the marginal pound donated to Maggie\u0027s Centre could be related to capital expenditure and awareness, which may have a different level of impactfulness.\n\n**Conclusion**\nIf it costs around £37 for Maggie\u0027s Centre to provide support to someone (this could be someone diagnosed with cancer or their friends and family) via the various activities outlined, then £1,500 could fund just over 40 people. We believe that 40 people receiving emotional support is likely to be less positive an outcome than saving someone\u0027s life.\n\nCapital expenditure is harder to assess. We note that building a new centre requires a high fixed cost but may support many people thereafter. Whilst the 2019 financial accounts include annual construction and planning accounts, we do not know how much each centre costs in total nor how many people it will support thereafter. We thus cannot make a confident assessment using this information, but note that the cost per beneficiary is likely increase the £37 \"running costs\" above.\n\nLikewise, the \"Cancer Information \u0026 Awareness\" category is hard to assess, since the 2019 financial accounts do not go into detail about what outcomes bring about (mentioned are sharing BAME experiences, advocating MPs, and others). Since this is a small element of Maggie\u0027s Centre charitable activities (\u003c4% of total), we have left these considerations out of this analysis.",
+  "suggest": [
+    "Maggie Keswick Jencks Cancer Caring Centres Trust",
+    "Maggie\u0027s Centre",
+    "maggie-keswick-jencks-cancer-caring-centres-trust"
+  ],
+  "url": "https://www.maggies.org/",
+  "whyTags": "health, cancer, mental health, patient support, UK",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "imageCaption": "Maggie\u0027s Oxford Centre",
+  "name": "Maggie Keswick Jencks Cancer Caring Centres Trust",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/Maggies_Logo-5383698173431435241.jpg",
+  "@id": "maggie-keswick-jencks-cancer-caring-centres-trust",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "summaryDescription": "Maggie\u0027s offers free help to those facing cancer and their families, running support centres that provide information and emotional support",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
