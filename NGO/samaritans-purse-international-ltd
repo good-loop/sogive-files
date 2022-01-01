@@ -1,0 +1,14 @@
+{
+  "scotlandCharityRegNum": "SC039251",
+  "@type": "NGO",
+  "name": "Samaritans Purse International Ltd",
+  "recommendation": "Please see our review of the charity on [this page](https://app.sogive.org/#charity?charityId\u003dsamaritans-purse)",
+  "@id": "samaritans-purse-international-ltd",
+  "suggest": [
+    "Samaritans Purse International Ltd",
+    "samaritans-purse-international-ltd"
+  ],
+  "url": "www.samaritans-purse.org.uk",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
