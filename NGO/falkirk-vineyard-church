@@ -1,0 +1,17 @@
+{
+  "scotlandCharityRegNum": "SC045176",
+  "parentCharityName": "Vineyard Churches UK and Ireland",
+  "@type": "NGO",
+  "displayName": "Falkirk Vineyard",
+  "parentCharity": "SC041285",
+  "name": "Falkirk Vineyard Church",
+  "@id": "falkirk-vineyard-church",
+  "suggest": [
+    "Falkirk Vineyard Church",
+    "Falkirk Vineyard",
+    "falkirk-vineyard-church"
+  ],
+  "url": "https://duckduckgo.com",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
