@@ -1,11 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "Lebron James Family Foundation ",
-  "logo": "https://media.good-loop.com/uploads/standard/lebron-james-family-foundation-14796953276631689674.png",
-  "id": "lebron-james-family-foundation",
+  "displayName": "Thurgood Marshall College Fund",
+  "name": "Thurgood Marshall College Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/download_19-12631027652450681588.png#ccrop:129",
+  "description": "The Marshall Project is a nonpartisan, nonprofit news organization that seeks to create and sustain a sense of national urgency about the U.S. criminal justice system. We have an impact on the system through journalism, rendering it more fair, effective, transparent and humane.",
+  "id": "thurgood",
   "suggest": [
-    "Lebron James Family Foundation "
+    "Thurgood Marshall College Fund",
+    "Thurgood Marshall College Fund"
   ],
-  "url": "https://www.lebronjamesfamilyfoundation.org/",
-  "status": "DRAFT"
+  "url": "https://www.tmcf.org/",
+  "status": "PUBLISHED"
 }
