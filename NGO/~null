@@ -1,15 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/united_way-6672435385506092361.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
   "@type": "NGO",
-  "displayName": "United Way Dallas",
-  "name": "United Way Dallas",
-  "logo": "https://media.good-loop.com/uploads/standard/UWMD__Logo__For__Print__Use-12461748434047240162.jpg#ccrop:80",
-  "description": "United Way is engaged in nearly 1,800 communities across more than 40 countries and territories worldwide. As the largest privately-funded nonprofit in the world, we create solutions that build stronger communities. We\u0027re improving education, strengthening financial stability and making communities healthier.",
-  "id": "unitedwaydallas",
+  "displayName": "All Stars Project Inc.",
+  "logo": "https://media.good-loop.com/uploads/standard/6912976-logo-12019544143255132154.png#ccrop:77",
+  "id": "all-stars-project",
   "suggest": [
-    "United Way Dallas",
-    "United Way Dallas"
+    "All Stars Project Inc."
   ],
-  "url": "https://unitedwaydallas.org/",
-  "status": "MODIFIED"
+  "url": "",
+  "status": "PUBLISHED"
 }
