@@ -1,15 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/thurgood_marshall_-10064739373520053292.jpeg",
   "@type": "NGO",
-  "displayName": "Thurgood Marshall College Fund",
-  "name": "Thurgood Marshall College Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/download_19-12631027652450681588.png#ccrop:129",
-  "description": "Established in 1987, the Thurgood Marshall College Fund (TMCF) is the nation’s largest organization exclusively representing the Black College Community. TMCF member-schools include the publicly-supported Historically Black Colleges and Universities (HBCUs) and Predominantly Black Institutions (PBIs). Publicly-supported HBCUs enroll over 80% of all students attending HBCUs. Through scholarships, capacity building and research initiatives, innovative programs, and strategic partnerships, TMCF is a vital resource in the K-12 and higher education space. The organization is also a source for top employers seeking top talent for competitive internships and good jobs.",
-  "id": "thurgood",
+  "displayName": "United Way Dallas",
+  "name": "United Way Dallas",
+  "logo": "https://media.good-loop.com/uploads/standard/UWMD__Logo__For__Print__Use-12461748434047240162.jpg#ccrop:80",
+  "description": "United Way is engaged in nearly 1,800 communities across more than 40 countries and territories worldwide. As the largest privately-funded nonprofit in the world, we create solutions that build stronger communities. We\u0027re improving education, strengthening financial stability and making communities healthier.",
+  "id": "unitedwaydallas",
   "suggest": [
-    "Thurgood Marshall College Fund",
-    "Thurgood Marshall College Fund"
+    "United Way Dallas",
+    "United Way Dallas"
   ],
-  "url": "https://www.tmcf.org/",
-  "status": "MODIFIED"
+  "url": "https://unitedwaydallas.org/",
+  "status": "PUBLISHED"
 }
