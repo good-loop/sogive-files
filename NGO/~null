@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Lebron James Family oundation ",
   "id": "lebron-james-family-foundation",
-  "suggest": []
+  "suggest": [
+    "Lebron James Family oundation "
+  ],
+  "status": "DRAFT"
 }
