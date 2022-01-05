@@ -1,14 +1,11 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "  Blind Dog Rescue Alliance",
-  "name": "  Blind Dog Rescue Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/xEAKKRaX__400x400-13561544549518389267.jpeg",
-  "id": "greater-good-charities",
+  "displayName": "Lebron James Family Foundation ",
+  "logo": "https://media.good-loop.com/uploads/standard/lebron-james-family-foundation-14796953276631689674.png",
+  "id": "lebron-james-family-foundation",
   "suggest": [
-    "  Blind Dog Rescue Alliance",
-    "  Blind Dog Rescue Alliance"
+    "Lebron James Family Foundation "
   ],
-  "url": "https://www.blinddogrescue.org/",
+  "url": "https://www.lebronjamesfamilyfoundation.org/",
   "status": "DRAFT"
 }
