@@ -2,12 +2,14 @@
   "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
   "@type": "NGO",
   "displayName": "All Stars Project Inc.",
+  "name": "",
   "logo": "https://media.good-loop.com/uploads/standard/6912976-logo-12019544143255132154.png#ccrop:77",
   "description": "Through the developmental power of performance we transform the lives of youth from poor and underserved communities in partnership with caring adults, giving everyone the opportunity to grow.",
   "id": "all-stars-project",
   "suggest": [
+    "",
     "All Stars Project Inc."
   ],
   "url": "",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
