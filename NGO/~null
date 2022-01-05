@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/united_way-6672435385506092361.jpeg",
   "@type": "NGO",
   "displayName": "United Way Dallas",
   "name": "United Way Dallas",
@@ -10,5 +11,5 @@
     "United Way Dallas"
   ],
   "url": "https://unitedwaydallas.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
