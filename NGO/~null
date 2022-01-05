@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/thurgood_marshall_-10064739373520053292.jpeg",
   "@type": "NGO",
   "displayName": "Thurgood Marshall College Fund",
   "name": "Thurgood Marshall College Fund",
@@ -10,5 +11,5 @@
     "Thurgood Marshall College Fund"
   ],
   "url": "https://www.tmcf.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
