@@ -277,7 +277,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "95948",
+          "currency": "GBP",
+          "value100p": 9.5948E8,
+          "value": 95948.0
         }
       ],
       "name": "Consultancy fees"
