@@ -240,7 +240,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "250340",
+          "currency": "GBP",
+          "value100p": 2.5034E9,
+          "value": 250340.0
         }
       ],
       "name": "Direct vehicle costs"
