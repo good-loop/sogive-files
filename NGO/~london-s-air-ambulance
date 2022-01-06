@@ -11,7 +11,7 @@
             }
           },
           "name": "missions (singular: mission) conducted",
-          "description": "",
+          "description": "Missions include helicopter missions, car missions and PRU treatments",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
