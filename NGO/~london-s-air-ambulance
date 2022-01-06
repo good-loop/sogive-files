@@ -58,7 +58,15 @@
           "notes": "Trading costs: \"lottery and retail shop\" on pg. 48"
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "01",
+        "currency": "",
+        "value100p": 10000.0,
+        "value": 1.0
+      }
     }
   ],
   "@type": "NGO",
