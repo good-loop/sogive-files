@@ -314,7 +314,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "136699",
+          "currency": "GBP",
+          "value100p": 1.36699E9,
+          "value": 136699.0
         }
       ],
       "name": "Institute costs"
@@ -337,6 +340,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
