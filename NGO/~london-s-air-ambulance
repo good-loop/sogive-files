@@ -351,7 +351,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "494032",
+          "currency": "GBP",
+          "value100p": 4.94032E9,
+          "value": 494032.0
         }
       ],
       "name": "Other related costs"
