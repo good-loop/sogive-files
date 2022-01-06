@@ -399,6 +399,7 @@
   ],
   "@type": "NGO",
   "impact": "more-info-needed",
+  "confidence": "high",
   "description": "The charity provide pre-hospital care through emergency transportation, via helicopters (during daylight hours) and rapid response cars (during night or adverse weather conditions). They also provide training, research and education in pre-hospital medicine",
   "suggest": [
     "London\u0027s Air Ambulance",
