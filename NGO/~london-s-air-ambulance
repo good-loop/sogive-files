@@ -166,7 +166,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "307712",
+          "currency": "GBP",
+          "value100p": 3.07712E9,
+          "value": 307712.0
         }
       ],
       "name": "Fire-fighters cost"
