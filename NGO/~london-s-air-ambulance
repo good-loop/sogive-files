@@ -125,6 +125,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1139088",
+          "currency": "GBP",
+          "value100p": 1.139088E10,
+          "value": 1139088.0
         }
       ],
       "name": "Direct helicopter costs"
@@ -147,6 +155,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
