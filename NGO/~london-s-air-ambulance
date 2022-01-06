@@ -203,7 +203,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "98574",
+          "currency": "GBP",
+          "value100p": 9.8574E8,
+          "value": 98574.0
         }
       ],
       "name": "Vehicle leasing"
