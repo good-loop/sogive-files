@@ -2,7 +2,12 @@
   "images": "https://media.good-loop.com/uploads/raw/Helicopter-11856315256010344867.jpg",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 4251.0,
+          "name": "missions (singular: mission) conducted"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -54,7 +59,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "missions (singular: mission) conducted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 20899971,
+      "value": "2089.9971771347918849598"
+    }
   },
   "name": "London\u0027s Air Ambulance",
   "logo": "https://media.good-loop.com/uploads/raw/logo-10174190964542362292.jpg",
