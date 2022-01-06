@@ -6,7 +6,7 @@
         {
           "number": 4251.0,
           "name": "missions (singular: mission) conducted",
-          "description": "The charity conducted 628 helicopter missions,  908 car missions, and 2,715 PRU treatments for a total of 4,251 patients. using the charitable expenditure instead of annual cost as the numerator, this averaging out to £1,123 per patient",
+          "description": "The charity conducted 628 helicopter missions,  908 car missions, and 2,715 PRU treatments for a total of 4,251 patients. using the charitable expenditure instead of annual cost as the numerator, this averages out to £1,123 per patient",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
