@@ -261,7 +261,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "Income from beneficiaries is \"Income from charitable activities\" (pg. 33). Trading costs is using \"Other trading \u0026 income generating activities\" as a proxy (pg. 33)"
+          "notes": "Income from beneficiaries is \"Income from charitable activities (unrestricted)\" but there is some  (pg. 33). Trading costs is using \"Other trading \u0026 income generating activities\" as a proxy (pg. 33)"
         },
         "reserves": {
           "notes": "Pg 35"
