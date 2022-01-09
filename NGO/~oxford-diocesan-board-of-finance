@@ -4,6 +4,7 @@
       "outputs": [
         {
           "number": 55000.0,
+          "confidence": "medium",
           "name": "regular worshipper(s)"
         }
       ],
