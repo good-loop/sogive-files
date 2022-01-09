@@ -1,0 +1,397 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 77.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 3.5589E11,
+          "value": 3.5589E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value100p": 5.9E8,
+          "value": 59000.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends11/0000207711_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "No of \"beneficiaries\" is actually number of researchers",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends11/0000207711_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "58264000",
+          "currency": "GBP",
+          "value100p": 5.8264E11,
+          "value": 5.8264E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "715000",
+          "currency": "GBP",
+          "value100p": 7.15E9,
+          "value": 715000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "872000",
+          "currency": "GBP",
+          "value100p": 8.72E9,
+          "value": 872000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "207881000",
+        "currency": "GBP",
+        "value100p": 2.07881E12,
+        "value": 2.07881E8
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends11/0000207711_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1276000",
+          "currency": "GBP",
+          "value100p": 1.276E10,
+          "value": 1276000.0
+        }
+      ],
+      "name": "Research",
+      "description": "Securing funding for research projects and running own research centres."
+    },
+    {
+      "outputs": [
+        {
+          "number": 32800.0,
+          "name": "people (singular: person) reached",
+          "description": "This means personal \u0027interaction\u0027 with Versus Arthritis staff or support via helpline."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends11/0000207711_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3469000",
+          "currency": "GBP",
+          "value100p": 3.469E10,
+          "value": 3469000.0
+        }
+      ],
+      "name": "Information, Services \u0026 Awareness"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10797665\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d207711"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "49131000",
+          "currency": "GBP",
+          "value100p": 4.9131E11,
+          "value": 4.9131E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019/2020 annual report (p. 47). \"Annual costs\" \u003d (\"Total expenditure\" for \"2020 Total Funds\")."
+        },
+        "reserves": {
+          "notes": "2019/2020 annual report (p. 47). \"Reserves\" \u003d (\"Balance sheet at 31 March 2020\" for \"Revaluation\nReserve\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "28000",
+        "currency": "",
+        "value100p": 2.8E8,
+        "value": 28000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10797665\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d207711"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "22802000",
+          "currency": "GBP",
+          "value100p": 2.2802E11,
+          "value": 2.2802E7
+        }
+      ],
+      "name": "Research",
+      "start": "2019-04-01",
+      "description": "Securing funding for arthritis-related research projects, and conducting original research in one of their 14 research centres, mostly located at universities.",
+      "end": "2020-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10797665\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d207711"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20387000",
+          "currency": "GBP",
+          "value100p": 2.0387E11,
+          "value": 2.0387E7
+        }
+      ],
+      "name": "Information, services and awareness",
+      "start": "2019-04-01",
+      "description": "Personal advising services and distance support via a helpline.",
+      "end": "2020-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Versus Arthritis",
+  "recommendation": "To evaluate the work of Versus Arthritis, we would need more information.\n\nVersus Arthritis provides support for people affected by arthritis, secures funding for researchers and conducts its own research.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\nBased on the information we have gathered from the 2019 accounts, we understand that it may cost around £105 to help a person with arthritis, either personally or via a helpline. The final impact of this work, however, is not known. This work constitutes about a half of their expenditure on charitable activities.\n\nThe other half of their work is dedicated to research. This means securing of funding for arthritis-related research projects and conducting original research in one of their 14 research centres, mostly at universities. Again, the overall impact of this work is difficult to assess.\n\nThe next step in the SoGive charity rating process is then to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500.\n\nFurther information that would enable us to form a fuller opinion of the work of Versus Arthritis would be:\n(a) information about how they make strategic/prioritisation decisions\n(b) a theory of change for the research work, including an assessment of the extent of change/impact achieved as a result of the research, and also a fuller picture of the whole story needed to bring about that change, include the other actors involved, and including the costs associated with those other actors. \n(c) assessments of the impact of the information work, based on adequately powered studies, using a sufficient control, preferably randomised\n",
+  "description": "Versus Arthritis was formed in 2018 following a merger of Arthritis Care and Arthritis Research UK. It has two main areas of work. Firstly, personal advising services and distance support via a helpline. Secondly, securing funding for arthritis-related research projects, and conducting original research in one of their 14 research centres, mostly located at universities.",
+  "whyTags": "Health",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/versusarthslogo-2536831648876863246.png",
+  "@id": "arthritis-research-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Versus_Arthritis",
+  "summaryDescription": "Versus Arthritis is the UK\u0027s largest charity dedicated to supporting people with arthritis.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/ad__34587988__fdc0db7357cb43f1__tn-5373912638393422832.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Arthritis Research UK",
+    "Versus Arthritis",
+    "arthritis-research-uk"
+  ],
+  "url": "https://www.versusarthritis.org/",
+  "howTags": "Direct Work, Research, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": ""
+    }
+  },
+  "name": "Arthritis Research UK",
+  "category": "health",
+  "englandWalesCharityRegNum": "207711",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
