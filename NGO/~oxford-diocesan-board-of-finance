@@ -1,13 +1,7 @@
 {
   "projects": [
     {
-      "outputs": [
-        {
-          "number": 55000.0,
-          "confidence": "medium",
-          "name": "regular worshipper(s)"
-        }
-      ],
+      "outputs": [],
       "data-src": [
         {
           "@type": "Citation",
@@ -235,14 +229,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "regular worshipper(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 5429454,
-      "value": "542.945454545454550884000"
-    }
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "ready": true,
   "meta": {
