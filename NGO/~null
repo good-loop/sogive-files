@@ -1,5 +1,6 @@
 {
   "@type": "NGO",
   "id": "eden",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
