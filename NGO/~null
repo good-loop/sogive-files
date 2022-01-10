@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "get lit",
-  "logo": "https://media.good-loop.com/uploads/standard/get_lit_logo-11102126445837571702.png#ccrop:101",
-  "id": "get-lit",
-  "suggest": [
-    "get lit"
-  ],
-  "status": "PUBLISHED"
+  "id": "do-something-org",
+  "suggest": []
 }
