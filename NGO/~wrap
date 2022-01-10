@@ -11,10 +11,10 @@
   ],
   "url": "https://wrap.org.uk/",
   "name": "wrap",
-  "logo": "https://media.good-loop.com/uploads/standard/Waste____Resources__Action__Programme__logo-1334207624415395617.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/Waste____Resources__Action__Programme__logo-1334207624415395617.svg#ccrop:90",
   "@id": "wrap",
   "id": "wrap",
   "category": "environment",
   "subcategory": "Climate Action",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
