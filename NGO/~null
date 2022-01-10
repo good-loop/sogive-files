@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/Dosomethinglogo-15472079760017402351.png",
+  "name": " ",
+  "logo": "https://media.good-loop.com/uploads/standard/Dosomethinglogo-15472079760017402351.png#ccrop:79",
   "id": "do-something-org",
-  "suggest": [],
+  "suggest": [
+    " "
+  ],
   "status": "DRAFT"
 }
