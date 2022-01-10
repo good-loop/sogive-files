@@ -1,0 +1,20 @@
+{
+  "circleCrop": 85.0,
+  "images": "https://media.good-loop.com/uploads/raw/recycle-lorry-image-1024x683-3548482840389679566.jpeg",
+  "@type": "NGO",
+  "displayName": "Wrap",
+  "description": "Wrap promote and encourage sustainable resource use through product design, waste minimisation, re-use, recycling and reprocessing of waste materials.\n\nWe work across six continents with governments, businesses and citizens to create a world where resources are sourced and used sustainably.\n\n",
+  "suggest": [
+    "wrap",
+    "Wrap",
+    "wrap"
+  ],
+  "url": "https://wrap.org.uk/",
+  "name": "wrap",
+  "logo": "https://media.good-loop.com/uploads/standard/Waste____Resources__Action__Programme__logo-1334207624415395617.svg#ccrop:90",
+  "@id": "wrap",
+  "id": "wrap",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "status": "DRAFT"
+}
