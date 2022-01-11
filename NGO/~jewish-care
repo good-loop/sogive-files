@@ -433,10 +433,10 @@
       "reserves": {
         "@type": "Money",
         "name": "",
-        "raw": "113465000",
+        "raw": "22500000",
         "currency": "",
-        "value100p": 1.13465E12,
-        "value": 1.13465E8
+        "value100p": 2.25E11,
+        "value": 2.25E7
       },
       "isRep": true
     },
