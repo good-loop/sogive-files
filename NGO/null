@@ -1,10 +1,15 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
   "@type": "NGO",
-  "name": " ",
-  "logo": "https://media.good-loop.com/uploads/standard/Dosomethinglogo-15472079760017402351.png#ccrop:80",
-  "id": "do-something-org",
+  "displayName": "All Stars Project Inc.",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/6912976-logo-12019544143255132154.png#ccrop:77",
+  "description": "The All Stars Project is a national nonprofit organization that provides free performing arts and afterschool development programs to underserved youth and their families around the country. Using the developmental power of performance, ASP transforms the lives of youth from poor and underserved communities in partnership with caring adults giving everyone the chance to grow.  ASP’s award-winning programs, celebrating their 40th anniversary this year, bring people from all racial, economic and social walks of life together to create something positive, new and transformative for all involved.",
+  "id": "all-stars-project",
   "suggest": [
-    " "
+    "",
+    "All Stars Project Inc."
   ],
-  "status": "DRAFT"
+  "url": "",
+  "status": "MODIFIED"
 }
