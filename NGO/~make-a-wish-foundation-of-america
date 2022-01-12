@@ -1,0 +1,80 @@
+{
+  "images": "https://media.good-loop.com/uploads/standard/make_a_wish-8501102184685389961.jpeg",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 6.3307991E9,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 6.3307991E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://wish.org/~/media/100-000/About%20Us/Making%20a%20Difference/Managing%20Our%20Funds/Documents/FY2013/FY13%20MAWF%20of%20America_Consolidated%20FS.ashx"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Doesn\u0027t state the number of wishes, which is interesting because that info is given for the UK charity",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Make a wish foundation of America",
+    "make-a-wish-foundation-of-america"
+  ],
+  "whyTags": "Children",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Make a wish foundation of America",
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/MAW__Colorado__RGB-1333283514333017859.png#ccrop:93",
+  "@id": "make-a-wish-foundation-of-america",
+  "whereTags": "United States of America",
+  "uk_giftaid": false,
+  "status": "PUBLISHED"
+}
