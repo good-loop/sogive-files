@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "united negro college fund",
   "id": "united-negro-college-fund",
-  "suggest": []
+  "suggest": [
+    "united negro college fund"
+  ],
+  "status": "DRAFT"
 }
