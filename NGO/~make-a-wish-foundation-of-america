@@ -55,6 +55,7 @@
   "@type": "NGO",
   "displayName": "Make A Wish Foundation ",
   "noPublicDonations": false,
+  "description": "The Make-A-Wish Foundation is a 501(c)(3) nonprofit organization founded in the United States that helps fulfill the wishes of children with a critical illness between the ages of 2½ and 18 years old.",
   "suggest": [
     "Make a wish foundation of America",
     "Make A Wish Foundation ",
