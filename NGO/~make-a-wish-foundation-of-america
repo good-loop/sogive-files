@@ -53,9 +53,11 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Make A Wish Foundation",
   "noPublicDonations": false,
   "suggest": [
     "Make a wish foundation of America",
+    "Make A Wish Foundation",
     "make-a-wish-foundation-of-america"
   ],
   "whyTags": "Children",
@@ -76,5 +78,5 @@
   "@id": "make-a-wish-foundation-of-america",
   "whereTags": "United States of America",
   "uk_giftaid": false,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
