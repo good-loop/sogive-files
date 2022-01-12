@@ -1,15 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
   "@type": "NGO",
-  "displayName": "All Stars Project Inc.",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/ASINC__K3262_illustrator_1-4582890770458554082.svg#ccrop:120",
-  "description": "The All Stars Project is a national nonprofit organization that provides free performing arts and afterschool development programs to underserved youth and their families around the country. Using the developmental power of performance, ASP transforms the lives of youth from poor and underserved communities in partnership with caring adults giving everyone the chance to grow.  ASP’s award-winning programs, celebrating their 40th anniversary this year, bring people from all racial, economic and social walks of life together to create something positive, new and transformative for all involved.",
-  "id": "all-stars-project",
-  "suggest": [
-    "",
-    "All Stars Project Inc."
-  ],
-  "url": "",
-  "status": "MODIFIED"
+  "id": "united-negro-college-fund",
+  "suggest": []
 }
