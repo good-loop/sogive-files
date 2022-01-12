@@ -1,10 +1,14 @@
 {
   "@type": "NGO",
-  "name": "united negro college fund",
-  "logo": "https://media.good-loop.com/uploads/standard/uncf-10191784990862949011.png#ccrop:81",
-  "id": "united-negro-college-fund",
+  "displayName": "EMpower",
+  "name": "EMpower",
+  "logo": "https://media.good-loop.com/uploads/standard/empower-logo-blue-12229056750854720133.svg#ccrop:75",
+  "description": "EMpower brings smart money to power smart solutions with and for young people in emerging markets. Those solutions are centered around supporting young people both now and in the future, focusing on their well-being, needs and contributions today laying groundwork for them to reach their full potential tomorrow.",
+  "id": "empower",
   "suggest": [
-    "united negro college fund"
+    "EMpower",
+    "EMpower"
   ],
+  "url": "https://empowerweb.org/",
   "status": "DRAFT"
 }
