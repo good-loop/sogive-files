@@ -1,15 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/EMpower-17907084807389270934.jpeg",
   "@type": "NGO",
-  "displayName": "EMpower",
-  "name": "EMpower",
-  "logo": "https://media.good-loop.com/uploads/standard/empower-logo-blue-12229056750854720133.svg#ccrop:75",
-  "description": "EMpower brings smart money to power smart solutions with and for young people in emerging markets. Those solutions are centered around supporting young people both now and in the future, focusing on their well-being, needs and contributions today laying groundwork for them to reach their full potential tomorrow.",
-  "id": "empower",
-  "suggest": [
-    "EMpower",
-    "EMpower"
-  ],
-  "url": "https://empowerweb.org/",
-  "status": "PUBLISHED"
+  "id": "wetland-trust",
+  "suggest": []
 }
