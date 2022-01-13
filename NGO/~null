@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Our Seas Our Future",
   "id": "our-seas-our-future",
-  "suggest": []
+  "suggest": [
+    "Our Seas Our Future"
+  ],
+  "status": "DRAFT"
 }
