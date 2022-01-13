@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Wetland Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/wetland_trust-9900248543258100070.jpeg#ccrop:70",
-  "description": "The National Wetland Trust of New Zealand is a non-profit is trying to stop the trend of draining and filling wetlands as they are vital for maintaining healthy ecosystems. ",
-  "id": "wetland-trust",
+  "displayName": "Our Seas Our Future",
+  "logo": "https://media.good-loop.com/uploads/standard/our-seas-our-future-16272204345157743525.jpeg",
+  "description": "Our Seas Our Future is a 100% volunteer-run and non-profit marine conservation organisation based in Aotearoa/New Zealand.\n\nWith nationwide operations, OSOF operates based on a volunteer-driven model, focusing on coastal and marine conservation, environmental education, and community engagement projects.\n\nThe idea that gave rise to the OSOF initiative still drives us today; we are all stewards of our marine environment, and how we treat our environment now will shape the world we are living in tomorrow; the health of our seas is intertwined with our future.",
+  "id": "our-seas-our-future",
   "suggest": [
-    "Wetland Trust"
+    "Our Seas Our Future"
   ],
-  "url": "https://www.wetlandtrust.org.nz/donate/",
+  "category": "environment",
+  "url": "https://www.osof.org/",
   "status": "DRAFT"
 }
