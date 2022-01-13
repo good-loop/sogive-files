@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Our Seas Our Future",
-  "logo": "https://media.good-loop.com/uploads/standard/our-seas-our-future-16272204345157743525.jpeg#ccrop:90",
-  "description": "Our Seas Our Future is a 100% volunteer-run and non-profit marine conservation organisation based in Aotearoa/New Zealand.\n\nWith nationwide operations, OSOF operates based on a volunteer-driven model, focusing on coastal and marine conservation, environmental education, and community engagement projects.\n\nThe idea that gave rise to the OSOF initiative still drives us today; we are all stewards of our marine environment, and how we treat our environment now will shape the world we are living in tomorrow; the health of our seas is intertwined with our future.",
-  "id": "our-seas-our-future",
+  "displayName": "Beyond Blue",
+  "logo": "https://media.good-loop.com/uploads/standard/Beyond__Blue__logo-8293687471304412550.svg",
+  "id": "beyond-blue",
   "suggest": [
-    "Our Seas Our Future"
+    "Beyond Blue"
   ],
-  "category": "environment",
-  "url": "https://www.osof.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
