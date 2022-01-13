@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Wetland Trust",
   "id": "wetland-trust",
-  "suggest": []
+  "suggest": [
+    "Wetland Trust"
+  ],
+  "status": "DRAFT"
 }
