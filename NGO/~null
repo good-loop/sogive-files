@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Beyond Blue",
   "id": "beyond-blue",
-  "suggest": []
+  "suggest": [
+    "Beyond Blue"
+  ],
+  "status": "DRAFT"
 }
