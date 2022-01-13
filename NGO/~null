@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Beyond Blue",
-  "id": "beyond-blue",
-  "suggest": [
-    "Beyond Blue"
-  ],
-  "status": "DRAFT"
+  "id": "our-seas-our-future",
+  "suggest": []
 }
