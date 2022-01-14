@@ -394,7 +394,7 @@
               "notes": "This does not include beneficiaries from services outside of the hotline. In total, 3,680,459 people helped. Overriden cost per beneficiary comes from the 2021 impact report, and is expected to include training and onboarding costs"
             }
           },
-          "name": "emotional support contact[s](singular: session)",
+          "name": "emotional support contact[s]",
           "description": "This refers to callers into the phone hotline.",
           "costPerBeneficiary": {
             "@type": "Money",
