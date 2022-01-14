@@ -395,7 +395,7 @@
             }
           },
           "name": "emotional support contact[s]",
-          "description": "This refers to the phone hotline only",
+          "description": "This refers to the phone hotline",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
