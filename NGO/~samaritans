@@ -395,7 +395,7 @@
             }
           },
           "name": "emotional support contact[s]",
-          "description": "This refers to the phone hotline, letters, emails and face-to-face ",
+          "description": "This refers to the phone hotline online",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
