@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Global Fund For Women ",
   "id": "global-fund-for-women",
-  "suggest": []
+  "suggest": [
+    "Global Fund For Women "
+  ],
+  "status": "DRAFT"
 }
