@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "MENTAL HEALTH AMERICA",
   "id": "mha",
-  "suggest": []
+  "suggest": [
+    "MENTAL HEALTH AMERICA"
+  ],
+  "status": "DRAFT"
 }
