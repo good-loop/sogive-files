@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "feeding-america",
-  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:96",
-  "id": "feeding-america",
+  "displayName": "RED NOSE DAY",
+  "logo": "https://media.good-loop.com/uploads/standard/RED_NOSE_DAY-9913452172227611525.jpg#ccrop:125",
+  "id": "rnd",
   "suggest": [
-    "feeding-america"
+    "RED NOSE DAY"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
