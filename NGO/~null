@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/NATIONAL_ALLIANCE_ON_MENTAL_ILLNESS-13933861286623985856.jpg",
   "id": "national-allianceon-mental-illness",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
