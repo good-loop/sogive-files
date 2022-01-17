@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "feeding-america",
-  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:96",
-  "id": "feeding-america",
-  "suggest": [
-    "feeding-america"
-  ],
-  "status": "PUBLISHED"
+  "id": "rnd",
+  "suggest": []
 }
