@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "RED NOSE DAY",
   "id": "rnd",
-  "suggest": []
+  "suggest": [
+    "RED NOSE DAY"
+  ],
+  "status": "DRAFT"
 }
