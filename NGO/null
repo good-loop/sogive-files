@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "RED NOSE DAY",
-  "name": "RED NOSE DAY",
-  "logo": "https://media.good-loop.com/uploads/standard/RED_NOSE_DAY-9913452172227611525.jpg#ccrop:125",
-  "id": "rnd",
+  "displayName": "Global Fund For Women",
+  "logo": "https://media.good-loop.com/uploads/standard/global-fund-for-women-9393231513697066677.svg#ccrop:90",
+  "id": "global-fund-for-women",
   "suggest": [
-    "RED NOSE DAY",
-    "RED NOSE DAY"
+    "Global Fund For Women"
   ],
-  "status": "PUBLISHED"
+  "url": "https://www.globalfundforwomen.org/",
+  "status": "DRAFT"
 }
