@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "RED NOSE DAY",
-  "logo": "https://media.good-loop.com/uploads/standard/RED_NOSE_DAY-9913452172227611525.jpg#ccrop:125",
-  "id": "rnd",
-  "suggest": [
-    "RED NOSE DAY"
-  ],
-  "status": "DRAFT"
+  "id": "global-fund-for-women",
+  "suggest": []
 }
