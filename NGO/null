@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": "MENTAL HEALTH AMERICA",
-  "logo": "https://media.good-loop.com/uploads/standard/mha-17598650386978137090.jpg#ccrop:107",
-  "id": "mha",
-  "suggest": [
-    "MENTAL HEALTH AMERICA"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/NATIONAL_ALLIANCE_ON_MENTAL_ILLNESS-13933861286623985856.jpg#ccrop:118",
+  "id": "national-allianceon-mental-illness",
+  "suggest": [],
   "status": "DRAFT"
 }
