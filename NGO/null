@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/NATIONAL_ALLIANCE_ON_MENTAL_ILLNESS-13933861286623985856.jpg#ccrop:134",
-  "id": "national-allianceon-mental-illness",
-  "suggest": [],
-  "status": "PUBLISHED"
+  "name": "feeding-america",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:96",
+  "id": "feeding-america",
+  "suggest": [
+    "feeding-america"
+  ],
+  "status": "MODIFIED"
 }
