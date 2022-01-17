@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Beyond Blue",
-  "logo": "https://media.good-loop.com/uploads/standard/Beyond__Blue__logo-8293687471304412550.svg#ccrop:90",
-  "id": "beyond-blue",
+  "name": "MENTAL HEALTH AMERICA",
+  "logo": "https://media.good-loop.com/uploads/standard/mha-17598650386978137090.jpg#ccrop:107",
+  "id": "mha",
   "suggest": [
-    "Beyond Blue"
+    "MENTAL HEALTH AMERICA"
   ],
-  "url": "https://www.beyondblue.org.au/",
   "status": "DRAFT"
 }
