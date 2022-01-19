@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Global Fund For Women",
-  "logo": "https://media.good-loop.com/uploads/standard/global-fund-for-women-9393231513697066677.svg#ccrop:90",
-  "id": "global-fund-for-women",
+  "displayName": "Single Mom Strong",
+  "logo": "https://media.good-loop.com/uploads/standard/single-mom-strong-6502572522574794360.png",
+  "id": "single-mom-strong",
   "suggest": [
-    "Global Fund For Women"
+    "Single Mom Strong"
   ],
-  "url": "https://www.globalfundforwomen.org/",
   "status": "DRAFT"
 }
