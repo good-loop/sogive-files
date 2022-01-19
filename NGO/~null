@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Single Mom Strong",
   "logo": "https://media.good-loop.com/uploads/standard/single-mom-strong-6502572522574794360.png",
   "id": "single-mom-strong",
-  "suggest": [],
+  "suggest": [
+    "Single Mom Strong"
+  ],
   "status": "DRAFT"
 }
