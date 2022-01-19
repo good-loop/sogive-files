@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Single Mom Strong",
-  "logo": "https://media.good-loop.com/uploads/standard/single-mom-strong-6502572522574794360.png",
-  "id": "single-mom-strong",
+  "displayName": "UN  Women UK",
+  "logo": "https://media.good-loop.com/uploads/standard/New-logo-no-background-9050767213591664475.png#ccrop:85",
+  "id": "un-women-uk",
   "suggest": [
-    "Single Mom Strong"
+    "UN  Women UK"
   ],
+  "url": "https://www.unwomenuk.org/",
   "status": "DRAFT"
 }
