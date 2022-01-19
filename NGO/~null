@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "UN  Women UK",
   "id": "un-women-uk",
-  "suggest": []
+  "suggest": [
+    "UN  Women UK"
+  ],
+  "status": "DRAFT"
 }
