@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "The Ocean Foundation",
   "id": "the-ocean-foundation",
-  "suggest": []
+  "suggest": [
+    "The Ocean Foundation"
+  ],
+  "status": "DRAFT"
 }
