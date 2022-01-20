@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Earth Justice ",
   "id": "earth-justice",
-  "suggest": [],
+  "suggest": [
+    "Earth Justice "
+  ],
   "status": "DRAFT"
 }
