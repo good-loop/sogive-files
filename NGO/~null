@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "UN  Women UK",
-  "logo": "https://media.good-loop.com/uploads/standard/New-logo-no-background-9050767213591664475.png#ccrop:85",
-  "id": "un-women-uk",
-  "suggest": [
-    "UN  Women UK"
-  ],
-  "url": "https://www.unwomenuk.org/",
-  "status": "DRAFT"
+  "id": "earth-justice",
+  "suggest": []
 }
