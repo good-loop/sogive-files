@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "The Ocean Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/the-ocean-foundation-logo-vector-469738881737751125.png#ccrop:90",
-  "id": "the-ocean-foundation",
+  "displayName": "GRID Alternatives",
+  "logo": "https://media.good-loop.com/uploads/standard/logo__0__0-11890551637349967871.png#ccrop:90",
+  "id": "grid-alternatives",
   "suggest": [
-    "The Ocean Foundation"
+    "GRID Alternatives"
   ],
+  "url": "https://gridalternatives.org/",
   "status": "DRAFT"
 }
