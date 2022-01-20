@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Earth Justice ",
-  "logo": "https://media.good-loop.com/uploads/standard/ej__logo-5918930802362983094.svg#ccrop:90",
-  "id": "earth-justice",
+  "displayName": "The Ocean Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/the-ocean-foundation-logo-vector-469738881737751125.png#ccrop:90",
+  "id": "the-ocean-foundation",
   "suggest": [
-    "Earth Justice "
+    "The Ocean Foundation"
   ],
-  "url": "https://earthjustice.org/",
   "status": "DRAFT"
 }
