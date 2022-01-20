@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "GRID Alternatives",
   "id": "grid-alternatives",
-  "suggest": []
+  "suggest": [
+    "GRID Alternatives"
+  ],
+  "status": "DRAFT"
 }
