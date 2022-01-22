@@ -53,6 +53,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "AR, p33. Annual Costs \u003d 32,888 + 1,091 + 407"
+        },
+        "reserves": {
+          "notes": "AR. p40"
         }
       },
       "analysisComment": "",
