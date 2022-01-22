@@ -40,6 +40,14 @@
           "value": 0.0
         }
       ],
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "27,793 ",
+        "currency": "",
+        "value100p": 2.7793E8,
+        "value": 27793.0
+      },
       "isRep": true,
       "ready": false,
       "meta": {
