@@ -284,6 +284,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2663000",
+          "currency": "GBP",
+          "value100p": 2.663E10,
+          "value": 2663000.0
         }
       ],
       "name": "Make Fairtrade Personal "
