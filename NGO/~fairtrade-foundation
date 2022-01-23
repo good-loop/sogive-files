@@ -1,0 +1,231 @@
+{
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-cover-7205467632345817568.png",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001043886_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10233259\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1043886%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1043886"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "11184000",
+          "currency": "GBP",
+          "value100p": 1.1184E11,
+          "value": 1.1184E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "5000000",
+        "currency": "GBP",
+        "value100p": 5.0E10,
+        "value": 5000000.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001043886_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10233259\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1043886%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1043886"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5398000",
+          "currency": "GBP",
+          "value100p": 5.398E10,
+          "value": 5398000.0
+        }
+      ],
+      "name": "Focus on Impact"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001043886_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10233259\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1043886%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1043886"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2626000",
+          "currency": "GBP",
+          "value100p": 2.626E10,
+          "value": 2626000.0
+        }
+      ],
+      "name": "Improve and Innovate"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001043886_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10233259\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1043886%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1043886"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2653000",
+          "currency": "GBP",
+          "value100p": 2.653E10,
+          "value": 2653000.0
+        }
+      ],
+      "name": "Make Fairtrade Personal"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11212795\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1043886"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "description": "The Fairtrade Foundation seeks to: provide an independent certification of the trade supply chain, with the FAIRTRADE Mark as the consumer guarantee, facilitate the market so that producers can sell to traders and retailers in order that the market for Fairtrade grows, and raise awareness among consumers of the need for Fairtrade and the importance of the FAIRTRADE Mark.",
+  "suggest": [
+    "Fairtrade Foundation",
+    "fairtrade-foundation"
+  ],
+  "url": "https://www.fairtrade.org.uk/",
+  "whyTags": "poverty, workers\u0027 rights, environment",
+  "howTags": "campaigning, direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "name": "Fairtrade Foundation",
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-logo-6865310755107036103.png",
+  "@id": "fairtrade-foundation",
+  "lastModified": "2020-10-13T19:27:08Z",
+  "id": "fairtrade-foundation",
+  "englandWalesCharityRegNum": "1043886",
+  "summaryDescription": "The Fairtrade Foundation advocates for better prices, decent working conditions, local sustainability, and fair terms of trade for farmers and workers in the developing world.",
+  "uptodatedraft": "probably",
+  "whereTags": "uk, developing world",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
