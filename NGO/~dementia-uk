@@ -289,11 +289,11 @@
           "number": 70000.0,
           "meta": {
             "all": {
-              "notes": "Cost per beneficiary uses charitable spending as the annual cost."
+              "notes": "Cost per beneficiary uses charitable spending as the annual cost, and divided it between the 70000 beneficiaries"
             }
           },
           "name": "beneficiaries (singular: beneficiary) reached directly",
-          "description": "This means beneficiaries reached through the charity\u0027s Admiral Nurse services. Services are provided for approximately 2 hours on average",
+          "description": "This means beneficiaries reached through the charity\u0027s Admiral Nurse services. Services are provided for 2 hours on average",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
