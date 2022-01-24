@@ -1,7 +1,5 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/MADD__Retina__Logo-9634404401418709855.png",
   "id": "mothers-against-drunk-driving",
-  "suggest": [],
-  "status": "DRAFT"
+  "suggest": []
 }
