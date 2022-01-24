@@ -1,0 +1,741 @@
+{
+  "scotlandCharityRegNum": "SC039136",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 201.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.8019E11,
+          "value": 3.8019E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.1098946E11,
+          "value": 1.1098946E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "research",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.1423382E9,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 1.1423382E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.diabetes.org.uk/About_us/Annual-reports/Annual-Report-2015/Not-alone-with-diabetes/"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "not alone with diabetes",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.3003384E9,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 1.3003384E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.diabetes.org.uk/About_us/Annual-reports/Annual-Report-2015/Better-care/"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "better care everywhere",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 15000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) informed about diabetes risk",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "This refers to people helped to find out their risk of Type 2 diabetes at a Diabetes UK event",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 2.493289E8,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 2493289.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.diabetes.org.uk/About_us/Annual-reports/Annual-Report-2015/Reducing-risk/"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "reducing the risk of type 2 diabetes",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "growing the impact of our work",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 201.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38297000",
+          "currency": "GBP",
+          "value100p": 3.8297E11,
+          "value": 3.8297E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3049000",
+          "currency": "GBP",
+          "value100p": 3.049E10,
+          "value": 3049000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "4514000",
+          "currency": "GBP",
+          "value100p": 4.514E10,
+          "value": 4514000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "14159000",
+        "currency": "GBP",
+        "value100p": 1.4159E11,
+        "value": 1.4159E7
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7678000",
+          "currency": "GBP",
+          "value100p": 7.678E10,
+          "value": 7678000.0
+        }
+      ],
+      "name": "Research "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6400000",
+          "currency": "GBP",
+          "value100p": 6.4E10,
+          "value": 6400000.0
+        }
+      ],
+      "name": "Managing diabetes"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8002000",
+          "currency": "GBP",
+          "value100p": 8.002E10,
+          "value": 8002000.0
+        }
+      ],
+      "name": "Transforming care"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2080000",
+          "currency": "GBP",
+          "value100p": 2.08E10,
+          "value": 2080000.0
+        }
+      ],
+      "name": "Prevention"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4582000",
+          "currency": "GBP",
+          "value100p": 4.582E10,
+          "value": 4582000.0
+        }
+      ],
+      "name": "Understanding and support"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "color": "#193276",
+  "@type": "NGO",
+  "displayName": "Diabetes UK",
+  "description": "Their work involves helping people with diabetes to manage their condition, preventing diabetes, improving the care provided to those with diabetes, and providing information about diabetes.",
+  "recommendation": "To evaluate the work of Diabetes UK, we would need more information.\n\nThe British Diabetic Association, known as Diabetes UK, works to reduce the harm caused by Type 1 and Type 2 Diabetes. They are UK\u0027s leading funder of diabetes research, they provide information on diabetes prevention and coping. A significant part of their work consists of campaigning and lobbying for better diabetes prevention and higher quality of treatment and support. \n\nUnder the SoGive two-question method, we consider two questions:\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\nBased on the information we have gathered from the 2018 accounts, we cannot clearly state what Diabetes UK delivers for a particular amount of money. Although the 2018 Annual Report clearly allocates the expenditure with different areas of work, the results in these areas are not clear. This complicates our efforts to form an opinion on the cost-effectiveness of the work of Diabetes UK.\n\nDiabetes UK divides their work into five areas.\n\nRESEARCH\nDiabetes UK funds research projects in the area of Type 1 and Type 2 Diabetes. The projects include:\nThe DiRECT trial, which has shown that some people can put Type 2 diabetes into remission with a low-calorie weight management programme. It\u0027s been a life-changing result from their largest ever research investment into one study. \nThe artificial pancreas: a continuous blood glucose monitor linked to an insulin pump that manages blood glucose levels. All previous trials of the artificial pancreas have been in people with Type 1 diabetes. But in 2018, Diab. UK researchers showed that it could also help people with Type 2 in hospital.  \n\nPREVENTION\nIn 2018, nearly 7,000 people signed DBUK\u0027s Food Upfront petition, demanding clear and consistent food labelling. They delivered the petition to the Prime Minister in May and one month later the government published chapter two of their childhood obesity plan.\nIn Scotland, Diabetes UK joined with \u0027others\u0027 to develop a\nnational policy for Type 2 diabetes and secured a commitment of £42 million for prevention.\nNationwide, they aim to help people know their risk of Type 2 and understand how to reduce it. Nearly 200,000 people used Diabetes UK online checker in 2018 and hundreds more came along to events up and down the country.\n\nTRANSFORMING CARE\nBy working with people at the heart of healthcare, Diabetes UK aims to achieve improvements in local and national services for people affected by the disease. They \u0027make their case to decision-makers through the\nmedia, in parliament and in private\u0027. They campaign and lobby both on local and national level.\n\nMANAGING DIABETES\nDiabetes UK campaigned for a decade to change driving laws, and in January 2018 new rules were introduced in the UK.\nTheir lobbying also resulted in an amendment to a new law in Wales\nwhich will mean better support for children with diabetes in schools. Diabetes UK want each child to get an individual plan that outlines the support they need and makes clear how the school will provide it.\n\nUNDERSTANDING AND SUPPORT\nDiabetes UK aims to support people that have to cope with diabetes. To that goal, they host events to connect provide information.\nThe day-long Insider conference at ExCel London presented the latest research and developments to more than 200 people affected by diabetes. In Scotland, their Young Leaders gave 16 to 30 year olds with Type 1 the\nchance to connect with others like them. The project reached more than\n1,300 young people through school talks and the Young, Fun and Type 1 conference.\n\nThe factor complicating the analysis is that substantial amount of the work of Diabetes UK, namely campaigning and lobbying, is likely to be delivered in partnership with other NGOs. Social events hosted by Diabetes UK may have positive results, however, there is no clear way of assessing their real impact.\n\nThe next step in the SoGive charity rating process is then compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500.\n\nFurther information that would enable us to form a fuller opinion of Diabetes UK\u0027s work would be:\n(a) information about Diabetes UK makes strategic/prioritisation decisions\n(b) a theory of change for the research and campaigning work, including an assessment of the extent of change/impact achieved as a result of the research or campaigning, and also a fuller picture of the whole story needed to bring about that change, include the other actors involved, and including the costs associated with those other actors. Furthermore an assessment of counterfactuals, especially for the campaigning work: i.e. what are the indirect consequences of campaigns. (e.g. if Diabetes UK campaigned for the government to provide better funding for diabetes, what receives less funding as a result?)\n(c) assessments of the impact of more direct work, based on adequately powered studies, using a sufficient control, preferably randomised\n",
+  "nextAction": "n/a",
+  "whyTags": "Health",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/diabetes_uk_logo.png",
+  "modified": false,
+  "@id": "the-british-diabetic-association",
+  "summaryDescription": "Diabetes UK (formerly The British Diabetic Association) is a charity aiming to reduce the harm caused by diabetes. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/Diabetes-UK-runner-resize-226577642632093666.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "suggest": [
+    "The British Diabetic Association",
+    "Diabetes UK",
+    "the-british-diabetic-association"
+  ],
+  "url": "https://www.diabetes.org.uk/",
+  "howTags": "Research, Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "meta": {
+    "scotlandCharityRegNum": {
+      "notes": "Ref: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number\u003d39136"
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "The British Diabetic Association",
+  "lastModified": "2020-11-16T16:29:05Z",
+  "englandWalesCharityRegNum": "215199",
+  "uk_giftaid": false,
+  "status": "DRAFT"
+}
