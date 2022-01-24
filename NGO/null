@@ -1,11 +1,17 @@
 {
+  "images": "https://media.good-loop.com/uploads/raw/Waterorg-153844004730746517.jpeg",
+  "circleCrop": 105.0,
   "@type": "NGO",
-  "displayName": "GRID Alternatives",
-  "logo": "https://media.good-loop.com/uploads/standard/logo__0__0-11890551637349967871.png#ccrop:90",
-  "id": "grid-alternatives",
+  "displayName": "Water.org",
+  "name": "Water.org",
+  "logo": "https://media.good-loop.com/uploads/standard/Waterorg__Resources__Logo-RV.original-10437064506712624654.jpg#ccrop:145",
+  "description": "Water.org is a global nonprofit organization working to bring water and sanitation to the world. We want to make it safe, accessible, and cost-effective.\n\nWe help people get access to safe water and sanitation through affordable financing, such as small loans. We give our everything every day to empower people in need with these life-changing resources - giving women hope, children health and families a bright future.",
+  "id": "water-org",
   "suggest": [
-    "GRID Alternatives"
+    "Water.org",
+    "Water.org"
   ],
-  "url": "https://gridalternatives.org/",
+  "category": "community development",
+  "url": "https://water.org/",
   "status": "DRAFT"
 }
