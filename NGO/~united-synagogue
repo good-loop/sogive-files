@@ -3,15 +3,7 @@
     {
       "outputs": [
         {
-          "name": "Synagogue Member(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "880",
-            "currency": "",
-            "value100p": 8800000.0,
-            "value": 880.0
-          }
+          "name": "Synagogue Member(s)"
         }
       ],
       "adjustmentComment": "",
@@ -95,14 +87,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Synagogue Member(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "value100p": 8800000,
-      "value": "880.0",
-      "name": ""
-    }
+    "name": "Synagogue Member(s)"
   },
   "meta": {
     "noPublicDonations": {
