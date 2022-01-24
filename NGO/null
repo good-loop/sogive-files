@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": "National Safety Council",
-  "logo": "https://media.good-loop.com/uploads/standard/national_safety_council-7844540858102568507.jpg#ccrop:92",
-  "id": "national-safety-council",
-  "suggest": [
-    "National Safety Council"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/MADD__Retina__Logo-10638991135845661263.png",
+  "id": "mothers-against-drunk-driving",
+  "suggest": [],
   "status": "DRAFT"
 }
