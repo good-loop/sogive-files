@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "National Safety Council",
   "id": "national-safety-council",
-  "suggest": []
+  "suggest": [
+    "National Safety Council"
+  ],
+  "status": "DRAFT"
 }
