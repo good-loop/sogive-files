@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "GRID Alternatives",
-  "logo": "https://media.good-loop.com/uploads/standard/logo__0__0-11890551637349967871.png#ccrop:90",
-  "id": "grid-alternatives",
-  "suggest": [
-    "GRID Alternatives"
-  ],
-  "url": "https://gridalternatives.org/",
-  "status": "DRAFT"
+  "id": "national-safety-council",
+  "suggest": []
 }
