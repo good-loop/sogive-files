@@ -86,7 +86,7 @@
     "WWF",
     "cool-earth"
   ],
-  "url": "https://www.coolearth.org/",
+  "url": "https://www.wwf.com",
   "whyTags": "Climate change, Trees, International aid, poverty, conservation",
   "recommended": false,
   "simpleImpact": {
@@ -108,7 +108,7 @@
   },
   "ready": true,
   "name": "WWF",
-  "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png#ccrop:60",
+  "logo": "",
   "modified": false,
   "@id": "cool-earth",
   "englandWalesCharityRegNum": "1117978",
