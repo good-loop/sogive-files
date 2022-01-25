@@ -582,15 +582,15 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "raw": "2,788",
+          "raw": "2788000",
           "currency": "GBP",
-          "value100p": 2.788E7,
-          "value": 2788.0
+          "value100p": 2.788E10,
+          "value": 2788000.0
         }
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "AR. p60"
+          "notes": "AR. p60\np/"
         }
       },
       "name": "overall",
