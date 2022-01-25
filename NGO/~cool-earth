@@ -108,11 +108,11 @@
   },
   "ready": true,
   "name": "WWF",
-  "logo": "https://media.good-loop.com/uploads/standard/WWF-5477552556008605838.png",
+  "logo": "https://media.good-loop.com/uploads/standard/WWF-5477552556008605838.png#ccrop:_ccrop:_ccrop:",
   "modified": false,
   "@id": "cool-earth",
   "englandWalesCharityRegNum": "1117978",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
