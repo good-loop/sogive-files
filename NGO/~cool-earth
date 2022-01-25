@@ -78,12 +78,12 @@
     }
   ],
   "@type": "NGO",
-  "displayName": "Cool Earth",
+  "displayName": "WWF",
   "noPublicDonations": false,
   "description": "\"Helping Cool Earth to halt tropical deforestation makes a real difference. Perhaps the biggest difference we will make in our whole lives.\"   \n -- Sir David Attenborough",
   "suggest": [
     "WWF",
-    "Cool Earth",
+    "WWF",
     "cool-earth"
   ],
   "url": "https://www.coolearth.org/",
