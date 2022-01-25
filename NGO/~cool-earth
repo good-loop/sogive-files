@@ -82,7 +82,7 @@
   "noPublicDonations": false,
   "description": "\"Helping Cool Earth to halt tropical deforestation makes a real difference. Perhaps the biggest difference we will make in our whole lives.\"   \n -- Sir David Attenborough",
   "suggest": [
-    "Cool Earth",
+    "WWF",
     "Cool Earth",
     "cool-earth"
   ],
@@ -107,7 +107,7 @@
     }
   },
   "ready": true,
-  "name": "Cool Earth",
+  "name": "WWF",
   "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png#ccrop:60",
   "modified": false,
   "@id": "cool-earth",
