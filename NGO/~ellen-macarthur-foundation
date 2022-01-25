@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC043120",
+  "@type": "NGO",
+  "displayName": "EMF",
+  "name": "Ellen MacArthur Foundation",
+  "@id": "ellen-macarthur-foundation",
+  "suggest": [
+    "Ellen MacArthur Foundation",
+    "EMF",
+    "ellen-macarthur-foundation"
+  ],
+  "url": "",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
