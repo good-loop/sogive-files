@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Plantlife",
   "id": "plantlife",
-  "suggest": []
+  "suggest": [
+    "Plantlife"
+  ],
+  "status": "DRAFT"
 }
