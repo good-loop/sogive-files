@@ -667,34 +667,6 @@
         }
       ],
       "name": "Understanding and support"
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "fundraisingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        }
-      ],
-      "name": "overall"
     }
   ],
   "color": "#193276",
@@ -736,6 +708,6 @@
   "name": "The British Diabetic Association",
   "lastModified": "2020-11-16T16:29:05Z",
   "englandWalesCharityRegNum": "215199",
-  "uk_giftaid": false,
+  "uk_giftaid": true,
   "status": "DRAFT"
 }
