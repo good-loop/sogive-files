@@ -6,68 +6,6 @@
       "adjustmentComment": "",
       "donationWording": "",
       "images": "",
-      "year": 201.0,
-      "@type": "Project",
-      "stories_src": "",
-      "inputs": [
-        {
-          "year": 2015.0,
-          "start": "2015-01-01T00:00:00Z",
-          "name": "annualCosts",
-          "currency": "GBP",
-          "end": "2015-12-31T00:00:00Z",
-          "value100p": 3.8019E11,
-          "value": 3.8019E7
-        },
-        {
-          "value100": 0.0,
-          "year": 2015.0,
-          "start": "2015-01-01T00:00:00Z",
-          "name": "fundraisingCosts",
-          "currency": "GBP",
-          "end": "2015-12-31T00:00:00Z",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "year": 2015.0,
-          "start": "2015-01-01T00:00:00Z",
-          "name": "tradingCosts",
-          "currency": "GBP",
-          "end": "2015-12-31T00:00:00Z",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "year": 2015.0,
-          "start": "2015-01-01T00:00:00Z",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP",
-          "end": "2015-12-31T00:00:00Z",
-          "value": 0.0
-        }
-      ],
-      "start": "2015-01-01T00:00:00Z",
-      "isRep": false,
-      "data-src": [
-        {
-          "year": 2015.0,
-          "@type": "Citation",
-          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20151231_E_C.pdf"
-        }
-      ],
-      "ready": false,
-      "analysisComment": "",
-      "name": "overall",
-      "analyst": "Sanjay",
-      "end": "2015-12-31T00:00:00Z",
-      "location": ""
-    },
-    {
-      "outputs": [],
-      "adjustmentComment": "",
-      "donationWording": "",
-      "images": "",
       "year": 2015.0,
       "@type": "Project",
       "stories_src": "",
@@ -412,60 +350,6 @@
           "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
         }
       ],
-      "start_raw": "2018-01-01",
-      "year": 201.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "raw": "38297000",
-          "currency": "GBP",
-          "value100p": 3.8297E11,
-          "value": 3.8297E7
-        },
-        {
-          "@type": "Money",
-          "name": "fundraisingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "raw": "3049000",
-          "currency": "GBP",
-          "value100p": 3.049E10,
-          "value": 3049000.0
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "raw": "4514000",
-          "currency": "GBP",
-          "value100p": 4.514E10,
-          "value": 4514000.0
-        }
-      ],
-      "name": "overall",
-      "start": "2018-01-01",
-      "end": "2018-12-31",
-      "reserves": {
-        "@type": "Money",
-        "raw": "14159000",
-        "currency": "GBP",
-        "value100p": 1.4159E11,
-        "value": 1.4159E7
-      },
-      "end_raw": "2018-12-31"
-    },
-    {
-      "outputs": [],
-      "data-src": [
-        {
-          "@type": "Citation",
-          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0000215199_AC_20181231_E_C.pdf"
-        }
-      ],
       "year": 2018.0,
       "@type": "Project",
       "inputs": [
@@ -667,6 +551,35 @@
         }
       ],
       "name": "Understanding and support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11144871\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d215199"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "color": "#193276",
@@ -695,7 +608,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "scotlandCharityRegNum": {
