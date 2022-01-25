@@ -593,7 +593,15 @@
           "notes": "AR. p60"
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "17440",
+        "currency": "",
+        "value100p": 1.744E8,
+        "value": 17440.0
+      }
     }
   ],
   "color": "#193276",
