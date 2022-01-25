@@ -1,5 +1,5 @@
 {
-  "images": "https://www.coolearth.org/wp-content/uploads/2015/07/Save-the-rainforest-hashtag-Cool-Earth-4926x32641.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/WWF-7129491213183219666.png",
   "projects": [
     {
       "outputs": [
@@ -78,15 +78,15 @@
     }
   ],
   "@type": "NGO",
-  "displayName": "Cool Earth",
+  "displayName": "WWF",
   "noPublicDonations": false,
-  "description": "\"Helping Cool Earth to halt tropical deforestation makes a real difference. Perhaps the biggest difference we will make in our whole lives.\"   \n -- Sir David Attenborough",
+  "description": "WWF -- Sir David Attenborough",
   "suggest": [
-    "Cool Earth",
-    "Cool Earth",
+    "WWF",
+    "WWF",
     "cool-earth"
   ],
-  "url": "https://www.coolearth.org/",
+  "url": "https://www.wwf.com",
   "whyTags": "Climate change, Trees, International aid, poverty, conservation",
   "recommended": false,
   "simpleImpact": {
@@ -107,12 +107,12 @@
     }
   },
   "ready": true,
-  "name": "Cool Earth",
-  "logo": "https://media.good-loop.com/uploads/standard/RS521__CE__Logo__Positive__ForestGreen-879461504007514816.png#ccrop:60",
+  "name": "WWF",
+  "logo": "https://media.good-loop.com/uploads/standard/WWF-5477552556008605838.png",
   "modified": false,
   "@id": "cool-earth",
   "englandWalesCharityRegNum": "1117978",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
