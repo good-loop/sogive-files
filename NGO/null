@@ -1,7 +1,11 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/MADD__Retina__Logo-10638991135845661263.png#ccrop:92",
-  "id": "mothers-against-drunk-driving",
-  "suggest": [],
-  "status": "MODIFIED"
+  "displayName": "Plantlife",
+  "logo": "https://media.good-loop.com/uploads/standard/plantlife__1-5578452957242747737.jpg#ccrop:120",
+  "id": "plantlife",
+  "suggest": [
+    "Plantlife"
+  ],
+  "url": "https://www.plantlife.org.uk/uk",
+  "status": "DRAFT"
 }
