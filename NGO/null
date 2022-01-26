@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Plantlife",
-  "logo": "https://media.good-loop.com/uploads/standard/plantlife__1-5578452957242747737.jpg#ccrop:120",
-  "id": "plantlife",
+  "displayName": "Women In Sport",
+  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
+  "id": "women-in-sport",
   "suggest": [
-    "Plantlife"
+    "Women In Sport"
   ],
-  "url": "https://www.plantlife.org.uk/uk",
+  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
   "status": "DRAFT"
 }
