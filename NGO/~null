@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Plantlife",
-  "logo": "https://media.good-loop.com/uploads/standard/plantlife__1-5578452957242747737.jpg#ccrop:120",
-  "id": "plantlife",
-  "suggest": [
-    "Plantlife"
-  ],
-  "url": "https://www.plantlife.org.uk/uk",
-  "status": "DRAFT"
+  "id": "women-in-sport",
+  "suggest": []
 }
