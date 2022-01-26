@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Women In Sport",
-  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
-  "id": "women-in-sport",
-  "suggest": [
-    "Women In Sport"
-  ],
-  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
-  "status": "DRAFT"
+  "id": "breif",
+  "suggest": []
 }
