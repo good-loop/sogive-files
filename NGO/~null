@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Breif",
+  "displayName": "Brief",
   "logo": "https://media.good-loop.com/uploads/standard/breif.org-12413075308813906237.jpg",
   "id": "breif",
   "suggest": [
-    "Breif"
+    "Brief"
   ],
   "url": "",
   "status": "DRAFT"
