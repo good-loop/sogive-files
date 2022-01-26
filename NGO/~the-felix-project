@@ -1,0 +1,15 @@
+{
+  "circleCrop": 80.0,
+  "@type": "NGO",
+  "displayName": "The Felix Project",
+  "name": "the-felix-project",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-white-633318722113588727.svg",
+  "@id": "the-felix-project",
+  "suggest": [
+    "the-felix-project",
+    "The Felix Project",
+    "the-felix-project"
+  ],
+  "id": "the-felix-project",
+  "status": "PUBLISHED"
+}
