@@ -1,0 +1,1083 @@
+{
+  "scotlandCharityRegNum": "SC040154",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.9617E11,
+          "value": 3.9617E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.645E10,
+          "value": 5645000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Choosing Rehoming as the marginal project, although this is far from clear",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9160.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Low because it\u0027s not clear with the costs and the outputs are aligned. Also, lack of clarity about marginal project"
+            }
+          },
+          "confidence": "low",
+          "name": "pet(s) helped by rehoming services",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.0241E11,
+          "value": 1.0241E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.459233E10,
+          "value": 1459233.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Costs based on rehoming + rehab (see sofa p27)",
+      "name": "rehoming",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 29549.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.036E11,
+          "value": 1.036E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.47619E10,
+          "value": 1476190.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "I\u0027m not confident about the costs here - they might not align with the outputs. Based on clinical in this case",
+      "name": "veterinary",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6108.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "I\u0027m not confident about the costs here - they might not align with the outputs.",
+      "name": "behaviour",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 68913.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.385E10,
+          "value": 5385000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 7.67305E9,
+          "value": 767305.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "I\u0027m not confident about the costs here - they might not align with the outputs.",
+      "name": "education",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6136.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 9.53E9,
+          "value": 953000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.35792E9,
+          "value": 135792.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends92/0000224392_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "I\u0027m not confident about the costs here - they might not align with the outputs.",
+      "name": "pet bereavement",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000224392_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10429755\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d224392"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "39767000",
+          "currency": "GBP",
+          "value100p": 3.9767E11,
+          "value": 3.9767E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "6108000",
+          "currency": "GBP",
+          "value100p": 6.108E10,
+          "value": 6108000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2506000",
+          "currency": "GBP",
+          "value100p": 2.506E10,
+          "value": 2506000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "costs p.24, income p.31 of annual report"
+        },
+        "reserves": {
+          "notes": "p.14:  liquid, unrestricted reserve of £28.2m "
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "28200000",
+        "currency": "",
+        "value100p": 2.82E11,
+        "value": 2.82E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 32732.0,
+          "meta": {
+            "all": {
+              "notes": "p.3 number of pets helped through vet services"
+            }
+          },
+          "confidence": "medium",
+          "name": "pet(s) helped through veterinary services",
+          "description": "This refers to pets helped through Blue Cross\u0027 veterinary services."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000224392_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10429755\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d224392"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11294000",
+          "currency": "GBP",
+          "value100p": 1.1294E11,
+          "value": 1.1294E7
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1542000",
+          "currency": "GBP",
+          "value100p": 1.542E10,
+          "value": 1542000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.24 expenditure on clinical services, p.31 income from clinical charitable activities "
+        }
+      },
+      "name": "Clinical Services",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 9023.0,
+          "meta": {
+            "all": {
+              "notes": "p.8 pets helped through rehoming services"
+            }
+          },
+          "confidence": "medium",
+          "name": "pet(s) helped through rehoming services",
+          "description": "This refers to pets helped through Blue Cross\u0027 rehoming services. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000224392_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10429755\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d224392"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "910000",
+          "currency": "GBP",
+          "value100p": 9.1E9,
+          "value": 910000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11527000",
+          "currency": "GBP",
+          "value100p": 1.1527E11,
+          "value": 1.1527E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.24 expenditure on rehoming services, p.31 income from rehoming charitable activities "
+        }
+      },
+      "name": "Rehoming",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000224392_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10429755\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d224392"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4072000",
+          "currency": "GBP",
+          "value100p": 4.072E10,
+          "value": 4072000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.24 expenditure on raising awareness"
+        }
+      },
+      "name": "Raising Awareness"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000224392_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10429755\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d224392"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "54000",
+          "currency": "GBP",
+          "value100p": 5.4E8,
+          "value": 54000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1177000",
+          "currency": "GBP",
+          "value100p": 1.177E10,
+          "value": 1177000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.24 expenditure on advice and support, p.31 income from advice and support"
+        }
+      },
+      "name": "Advice and Support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "35900000",
+          "currency": "GBP",
+          "value100p": 3.59E11,
+          "value": 3.59E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "9952000",
+          "currency": "GBP",
+          "value100p": 9.952E10,
+          "value": 9952000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1526000",
+          "currency": "GBP",
+          "value100p": 1.526E10,
+          "value": 1526000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs and trading costs p. 30, Income from beneficiaries p. 37"
+        },
+        "reserves": {
+          "notes": "p.31"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": " 64239000",
+        "currency": "",
+        "value100p": 6.4239E11,
+        "value": 6.4239E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 32059.0,
+          "name": "pet(s) given veterinary care"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1040000",
+          "currency": "GBP",
+          "value100p": 1.04E10,
+          "value": 1040000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11032000",
+          "currency": "GBP",
+          "value100p": 1.1032E11,
+          "value": 1.1032E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs p. 30, Income from beneficiaries p. 37"
+        }
+      },
+      "name": "Clinical care",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 4831.0,
+          "name": "pet(s) rehomed"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "460000",
+          "currency": "GBP",
+          "value100p": 4.6E9,
+          "value": 460000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10576000",
+          "currency": "GBP",
+          "value100p": 1.0576E11,
+          "value": 1.0576E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs p. 30, Income from beneficiaries p. 37"
+        }
+      },
+      "name": "Rehoming"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3259000",
+          "currency": "GBP",
+          "value100p": 3.259E10,
+          "value": 3259000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs p. 30"
+        }
+      },
+      "name": "Raising awareness"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "26000",
+          "currency": "GBP",
+          "value100p": 2.6E8,
+          "value": 26000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1081000",
+          "currency": "GBP",
+          "value100p": 1.081E10,
+          "value": 1081000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs p. 30, Income from beneficiaries p. 37"
+        }
+      },
+      "name": "Advice and support"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Blue Cross",
+  "description": "Blue Cross helps pets and pet owners in the UK through a range of programs, such as providing veterinary care at their animal hospitals, matching homeless pets with new owners, providing education and advice about animal care to current and future pet owners, and running a pet bereavement support helpline.",
+  "recommendation": "**Summary**\n\n**Blue Cross is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\n- Blue Cross helps pets and pet owners in the UK through a range of programs, such as running veterinary hospitals, rehoming homeless pets, and providing pet advice.\n- We estimate that a Blue Cross donor might be able to provide veterinary care to one pet for about £300, or rehome one pet for about £2000.\n- We think that this opportunity is significantly less cost-effective than our Gold Standard benchmark of preventing the suffering of one factory-farmed chicken for £5.\n- Therefore, we do not recommend donating to this charity at this time.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Blue Cross does - how they spend your donations**\n\nBlue Cross focuses on helping pets and pet owners in the UK. Their [2020 annual report](https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf) describes their charitable activities across three categories: veterinary services, pet rehoming, and education.\n\nIn 2020, Blue Cross spent approximately £11 million providing veterinary and clinical care. Some care was provided in person at veterinary hospitals run by Blue Cross, some care was provided by phone or video consultation with Blue Cross teams, and some through partnerships with other veterinary practices. Over 32,000 pets received care through Blue Cross in 2020.\n\nApproximately £10 million was spent on efforts to rehome homeless pets. Blue Cross runs 14 rehoming centres, and coordinates a network of foster carers. In 2020, they were able to rehome about 4,800 pets. This figure may not be typical: for example, in 2019 they were able to rehome about 9,000 pets. Their annual report indicates that Covid-19 imposed major constraints on the rehoming program in particular.\n\nLastly, Blue Cross spent approximately £4 million providing education, advice, and support to pet owners and potential future pet owners. Programs in this category include: giving talks to schools and youth groups, running a website which offers pet advice, producing podcasts, offering courses for animal professionals, and running a pet bereavement support helpline. In 2020 they reached over 56,000 people through talks and workshops, while their website received 9.4 million page views.\n\nImpact information can be found on pages 7-10 of the [2020 annual report](https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf), and expenditure information on page 30.\n\n**Cost-effectiveness analysis - how does Blue Cross compare to the most cost-effective charities?**\n\nAfter a review of Blue Cross’s work under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as averting the suffering of 1 chicken in very poor conditions for every £5 donated) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nFor this analysis, we will focus on Blue Cross’s veterinary care and rehoming programs, which together account for most (83%) of their charitable spending. In their veterinary care program, they spent about £11 million and provided care to about 32,000 pets. This implies that on average, they spent about £300 to provide care to one pet. \"Care\" may describe a range of services, from a routine check-up to a life-saving operation. In order to compare veterinary care to our Gold Standard benchmarks, we might estimate that on average, one pet receiving care is approximately as valuable as one chicken’s suffering being averted. A Gold-rated organization could avert the suffering of one chicken for only £5, which would therefore be significantly more cost-effective than providing care to one pet for £300. In other words, for £300 a Gold-rated organization could avert the suffering of 60 chickens, which we think is more valuable than providing one-time veterinary care to one pet.\n\nIn their rehoming program, Blue Cross spent about £10 million and rehomed about 4,800 pets, for an average of about £2,000 per pet rehomed. We might estimate that rehoming a homeless pet, which optimistically could give the pet multiple additional years of happy life, is approximately as valuable as averting the suffering of five to ten chickens. A Gold-rated organization could avert the suffering of 10 chickens for about £50, which would therefore be significantly more cost-effective than rehoming one pet for £2,000. \n\nBased on this analysis, we think that donating to Blue Cross will not have as much positive impact as donating to a Gold-rated organization.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n**Conclusion**\n\nBased on the above, we rate Blue Cross as Not Recommended (firm) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective.\n- We do have some indication of cost-effectiveness, and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin.\n",
+  "whyTags": "Animals",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/download-3899048360569955396.png#ccrop:90",
+  "@id": "blue-cross",
+  "wikipedia": "https://en.wikipedia.org/wiki/Blue_Cross_(animal_charity)",
+  "summaryDescription": "helps pets and pet owners in the UK.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/bluecross-5069963732706368605.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Blue Cross",
+    "Blue Cross",
+    "blue-cross"
+  ],
+  "url": "https://www.bluecross.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "pet(s) given veterinary care",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 3116753,
+      "value": "311.675348576062868120000"
+    }
+  },
+  "whoTags": "Animals",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "howTags": {
+      "notes": "Mostly direct work but published a research report on tackling mental health, poverty and loneliness through pet ownership and looking to do more research. "
+    }
+  },
+  "name": "Blue Cross",
+  "englandWalesCharityRegNum": "224392",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "suggestedDonations": [],
+  "status": "MODIFIED"
+}
