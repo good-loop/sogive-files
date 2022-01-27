@@ -1,0 +1,514 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 3.0391715E11,
+          "value": 3.0391715E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 8.84766E9,
+          "value": 884766.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000206394_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 8435.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "animal(s) receiving care",
+          "start": "2014-01-01T00:00:00Z",
+          "description": "The Battersea Dogs and Cats home provides shelther and care for animals who have been lost, abandoned or neglected",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 2.7989755E11,
+          "value": 2.7989755E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 8.1484E9,
+          "value": 814840.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000206394_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "care of dogs and cats",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 2.40196E10,
+          "value": 2401960.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 6.9926E8,
+          "value": 69926.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000206394_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education and awareness",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "name": "animals (singular:animal) helped",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000206394_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "40358000 ",
+          "currency": "GBP",
+          "value100p": 4.0358E11,
+          "value": 4.0358E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1901000",
+          "currency": "GBP",
+          "value100p": 1.901E10,
+          "value": 1901000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "752000",
+          "currency": "GBP",
+          "value100p": 7.52E9,
+          "value": 752000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "88752000",
+        "currency": "GBP",
+        "value100p": 8.8752E11,
+        "value": 8.8752E7
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 7000.0,
+          "name": "animals (singular: animal) helped",
+          "description": "Helping animals means reuniting them with their owner, caring for\nthem at one of their sites, or rehoming them.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "4390",
+            "currency": "GBP",
+            "value100p": 4.39E7,
+            "value": 4390.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000206394_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "30727280",
+          "currency": "GBP",
+          "value100p": 3.072728E11,
+          "value": 3.072728E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1447360",
+          "currency": "GBP",
+          "value100p": 1.44736E10,
+          "value": 1447360.0
+        }
+      ],
+      "name": "Care of dogs and cats",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5925000",
+          "currency": "GBP",
+          "value100p": 5.925E10,
+          "value": 5925000.0
+        }
+      ],
+      "name": "Education and awareness",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11202813\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d206394"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "43604000",
+          "currency": "GBP",
+          "value100p": 4.3604E11,
+          "value": 4.3604E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2590000",
+          "currency": "GBP",
+          "value100p": 2.59E10,
+          "value": 2590000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "584000",
+          "currency": "GBP",
+          "value100p": 5.84E9,
+          "value": 584000.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "25336000",
+        "currency": "",
+        "value100p": 2.5336E11,
+        "value": 2.5336E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 3997.0,
+          "confidence": "medium",
+          "name": "animals (singular: animal) helped",
+          "description": "Helping animals means reuniting them with their owner, caring for\nthem at one of their sites, or rehoming them."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11202813\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d206394"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "21016000",
+          "currency": "GBP",
+          "value100p": 2.1016E11,
+          "value": 2.1016E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "584000",
+          "currency": "GBP",
+          "value100p": 5.84E9,
+          "value": 584000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "Care of Dogs and Cats",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "description": "They accept and help every dog and cat, regardless of their physical and mental condition. Arriving animals are checked-up, receive vaccination, worming and flea treatment. Animals are cared for by a team of veterinary surgeons, nurses and assistants.",
+  "recommendation": "Battersea Dogs \u0026 Cats Home achieves a Bronze assessment under the SoGive rating methodology.\n\nBattersea Dogs \u0026 Cats Home provides home, care and veterinary services to cats and dogs.\n\nUnder the SoGive two question method, we consider two questions:\n\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money) \n\nBased on the information we have gathered from the 2018 accounts, we understand that it may cost over £4,000 to care for one animal for a year.\n\nAll of Battersea animals are examined by a Veterinary Surgeon during their stay. Battersea employs a clinic team of 39 staff across our three sites, including eight Veterinary Surgeons, 21 Veterinary Nurses and three Veterinary Care Assistants. There is also an approved Nurse training practice which has currently seven Student Vet Nurses. This means that the c£4,000 per animal helped cost includes expensive services such as general veterinary care and surgeries.\n\nThey also run a 7 days Lost Dogs \u0026 Cats Line. Extensive efforts go into reducing stress levels of the dogs and cats. Battersea service thus includes dog grooming facilities, foster homes for most poorly or stressed animals, individual care plans for every animal or classical music played for a few hours each day.\n\nOur method compares the examined charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a human life for around £1,500.\n\nWe believe that one animal being nursed for a year is likely to be less positive an outcome better than saving 2 human lives. In particular, the fact that each animal helped may end up achieving improvements in their quality of life that are less good than a life saved, it seems likely that Battersea Dogs and Cats Home achieves outcomes that underperform SoGive\u0027s benchmark charities, even for donors who weigh an animal life as more than twice as valuable as a human life.\n\nHence we believe that Battersea Cats and Dogs Home appears, as far as we can tell from information in the public domain to be doing good work for the welfare of animals, but underperforms the SoGive benchmark charities.\n",
+  "whyTags": "Animals",
+  "UNSDG": "0",
+  "ready": true,
+  "modified": false,
+  "logo": "https://www.battersea.org.uk/sites/all/themes/battersea_theme/images/logo.png#ccrop:82",
+  "@id": "battersea-dogs-and-cats-home",
+  "summaryDescription": "Battersea Dogs \u0026 Cats Home is one of the UK\u0027s oldest and most famous animal rescue centres.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/battersea-13551673786793689252.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "suggest": [
+    "Battersea dogs\u0027 and cats\u0027 home",
+    "battersea-dogs-and-cats-home"
+  ],
+  "url": "https://www.battersea.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "animals (singular: animal) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 98340047,
+      "value": "9834.0047384224880085827394908571952000"
+    }
+  },
+  "whoTags": "Animals",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Battersea dogs\u0027 and cats\u0027 home",
+  "category": "animals",
+  "subcategory": "Animal Rights, Welfare, and Services",
+  "englandWalesCharityRegNum": "206394",
+  "whereTags": "South East England, London, Battersea, Berkshire, Kent, United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
