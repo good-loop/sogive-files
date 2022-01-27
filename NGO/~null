@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Brief",
-  "logo": "https://media.good-loop.com/uploads/standard/breif.org-12413075308813906237.jpg#ccrop:90",
-  "id": "breif",
-  "suggest": [
-    "Brief"
-  ],
-  "url": "https://www.brief.org.uk/",
-  "status": "PUBLISHED"
+  "id": "her-game-too",
+  "suggest": []
 }
