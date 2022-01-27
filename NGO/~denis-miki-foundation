@@ -1,17 +1,18 @@
 {
   "circleCrop": 99.0,
   "@type": "NGO",
-  "name": "denis-miki-foundation",
-  "logo": "https://media.good-loop.com/uploads/raw/DMF_logo-17162435344730161651.jpg",
-  "@id": "denis-miki-foundation",
   "suggest": [
     "denis-miki-foundation",
     "denis-miki-foundation"
   ],
+  "url": "https://denismikifoundation.org/",
+  "UNSDG": "1",
+  "name": "denis-miki-foundation",
+  "logo": "https://media.good-loop.com/uploads/raw/DMF_logo-17162435344730161651.jpg",
+  "@id": "denis-miki-foundation",
   "wikipedia": "",
   "category": "community development",
   "subcategory": "Housing and Neighborhood Development",
-  "url": "https://denismikifoundation.org/",
-  "status": "DRAFT",
-  "UNSDG": "1"
+  "summaryDescription": "Denis Miki Foundation (DMF) was formed out of the need to meet the challenges of the impact of the economic crisis and unemployment which greatly affects Cameroon as a country and particular sectors",
+  "status": "DRAFT"
 }
