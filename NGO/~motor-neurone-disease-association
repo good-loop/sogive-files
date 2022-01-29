@@ -289,10 +289,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "93000000",
+          "raw": "90000000",
           "currency": "GBP",
-          "value100p": 9.3E11,
-          "value": 9.3E7
+          "value100p": 9.0E11,
+          "value": 9.0E7
         }
       ],
       "name": "Care",
