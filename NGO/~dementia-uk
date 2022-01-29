@@ -289,7 +289,7 @@
           "number": 70000.0,
           "meta": {
             "all": {
-              "notes": "Cost per beneficiary uses charitable spending as the annual cost, subtract the trading costs (80,723) and divided it between the 70000 beneficiaries"
+              "notes": "Cost per beneficiary uses charitable spending as the annual cost (), subtract the trading costs (80,723) and divided it between the 70000 beneficiaries"
             }
           },
           "name": "beneficiaries (singular: beneficiary) reached directly",
