@@ -352,10 +352,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "2",
+          "raw": "2260000",
           "currency": "GBP",
-          "value100p": 20000.0,
-          "value": 2.0
+          "value100p": 2.26E10,
+          "value": 2260000.0
         }
       ],
       "name": "Campaigning"
