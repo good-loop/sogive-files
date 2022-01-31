@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Body \u0026 Soul",
+  "unlisted": true,
   "id": "body-and-soul",
-  "suggest": []
+  "suggest": [
+    "Body \u0026 Soul"
+  ],
+  "status": "DRAFT"
 }
