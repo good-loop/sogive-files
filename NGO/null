@@ -1,12 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "Body \u0026 Soul",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/BodySoulLogo-Head-5046338789839981861.png#ccrop:90",
-  "id": "body-and-soul",
+  "displayName": "Love Food Hate Waste",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/love-food-hate-waste-icon-3649704131351733234.jpg",
+  "id": "love-food-hate-waste",
   "suggest": [
-    "Body \u0026 Soul"
+    "",
+    "Love Food Hate Waste"
   ],
-  "url": "https://bodyandsoulcharity.org/",
+  "url": "https://www.waitrose.com/",
   "status": "DRAFT"
 }
