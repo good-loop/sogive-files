@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "Love Food Hate Waste",
   "name": "",
   "id": "love-food-hate-waste",
   "suggest": [
-    ""
+    "",
+    "Love Food Hate Waste"
   ],
   "status": "DRAFT"
 }
