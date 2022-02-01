@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Sshelter Scotland",
   "id": "shelter-scotland",
-  "suggest": []
+  "suggest": [
+    "Sshelter Scotland"
+  ],
+  "status": "DRAFT"
 }
