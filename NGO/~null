@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Fund Social Housing ",
+  "unlisted": true,
   "id": "fund-social-housing",
   "suggest": [
     "Fund Social Housing "
   ],
+  "url": "",
   "status": "DRAFT"
 }
