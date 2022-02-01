@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Fund Social Housing ",
   "id": "fund-social-housing",
-  "suggest": []
+  "suggest": [
+    "Fund Social Housing "
+  ],
+  "status": "DRAFT"
 }
