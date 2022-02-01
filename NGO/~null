@@ -1,12 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "Fund Social Housing ",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_Social_Housing_1-7114150046188317275.png#ccrop:115",
-  "id": "fund-social-housing",
+  "name": "Ecologi",
+  "id": "ecologi",
   "suggest": [
-    "Fund Social Housing "
+    "Ecologi"
   ],
-  "url": "",
-  "status": "DRAFT"
+  "url": "https://ecologi.com/good-loop"
 }
