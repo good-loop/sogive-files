@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "Fund Social Housing ",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_Social_Housing-1056290002508139567.png#ccrop:131",
+  "logo": "https://media.good-loop.com/uploads/standard/Fund_Social_Housing-1056290002508139567.png",
   "id": "fund-social-housing",
   "suggest": [
     "Fund Social Housing "
   ],
   "url": "",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
