@@ -1,14 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Love Food Hate Waste",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/love-food-hate-waste-icon-3649704131351733234.jpg",
-  "id": "love-food-hate-waste",
-  "suggest": [
-    "",
-    "Love Food Hate Waste"
-  ],
-  "url": "https://www.waitrose.com/",
-  "status": "DRAFT"
+  "id": "shelter-scotland",
+  "suggest": []
 }
