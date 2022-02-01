@@ -1,9 +1,11 @@
 {
+  "ukCompanyRegNum": "11911630",
   "@type": "NGO",
   "name": "Ecologi",
   "id": "ecologi",
   "suggest": [
     "Ecologi"
   ],
-  "url": "https://ecologi.com/good-loop"
+  "url": "https://ecologi.com/",
+  "status": "DRAFT"
 }
