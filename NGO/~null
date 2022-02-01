@@ -1,9 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Sshelter Scotland",
+  "displayName": "Shelter Scotland",
+  "logo": "https://media.good-loop.com/uploads/standard/Shelter-Scotland-17904669137577458530.png#ccrop:73",
   "id": "shelter-scotland",
   "suggest": [
-    "Sshelter Scotland"
+    "Shelter Scotland"
   ],
   "status": "DRAFT"
 }
