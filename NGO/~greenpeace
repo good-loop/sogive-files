@@ -1,0 +1,303 @@
+{
+  "ukCompanyRegNum": "02463348",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/02463348/filing-history/MzIzNDYyMTY5NGFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "17362414",
+          "currency": "GBP",
+          "value100p": 1.7362414E11,
+          "value": 1.7362414E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/02463348/filing-history/MzIzNDYyMTY5NGFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2019-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8501000",
+          "currency": "GBP",
+          "value100p": 8.501E10,
+          "value": 8501000.0
+        }
+      ],
+      "name": "Campaigning",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/02463348/filing-history/MzIzNDYyMTY5NGFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2019-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2913000",
+          "currency": "GBP",
+          "value100p": 2.913E10,
+          "value": 2913000.0
+        }
+      ],
+      "name": "Campaign and supporter communications",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/02463348/filing-history/MzIzNDYyMTY5NGFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4301000",
+          "currency": "GBP",
+          "value100p": 4.301E10,
+          "value": 4301000.0
+        }
+      ],
+      "name": "Grants for international projects",
+      "start": "2018-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/02463348/filing-history/MzIzNDYyMTY5NGFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2157000",
+          "currency": "GBP",
+          "value100p": 2.157E10,
+          "value": 2157000.0
+        }
+      ],
+      "name": "Actions, investigations, outreach and events",
+      "start": "2018-01-01",
+      "end": "2019-12-31",
+      "end_raw": "2019-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Greenpeace UK",
+  "description": "Concerned about climate change and loss of biodiversity, this charity works to prevent destructive industries from threatening the Earth\u0027s forests, oceans, and air. Greenpeace investigates, documents, and exposes the causes of environmental destruction.",
+  "recommendation": "**To evaluate Greenpeace UK under the SoGive rating methodology, we would need more information.**\n\nGreenpeace UK aims to fight against climate change and the loss of biodiversity on Earth. This charity strives to keep destructive industries from doing permanent harm to the Earth\u0027s forests, oceans, and air. The charity does so by launching initiatives of investigation, documentation and public campaigns against environmental destruction. \n\nAccording to Greenpeace UK\u0027s [annual report](https://www.greenpeace.org.uk/wp-content/uploads/2019/06/Greenpeace_Impact_Report-2018_FINAL.pdf), the charity spends 48% of charitable expenses on campaigning, 24% on grants for international projects, 16% on \"campaign and supporter communications,\" and 12% on \"actions, investigations, outreach and events.\" Much of what Greenpeace does would fall under the term \"campaigning.\"\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Greenpeace does**\n\nOur inability to provide an evaluation arises mainly from the fact that we did not obtain sufficient information about the costs and impacts of the specific campaign initiatives that Greenpeace funds. As [our earlier analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) shows, the effect of public campaigns proves particularly hard to estimate.\n\nListed below are summaries of [Greenpeace UK\u0027s campaigns](https://www.greenpeace.org.uk/wp-content/uploads/2019/06/Greenpeace_Impact_Report-2018_FINAL.pdf):\n\n- The charity campaigns to end the age of oil, promote renewable energy, and slow down global warming, focusing primarily on reducing the use of internal combustion engines. Many Greenpeace initiatives belong to this area, and we do not have a cost breakdown, but we will look at two example campaigns. \n\nAs recently as 2017, Volkswagen UK considered diesel as a fuel with \"a great future,\" but after two years of campaigning, Volkswagen UK has announced that the company would stop producing diesel and petrol cars by 2040. We do not know the exact amount of carbon emission averted. We also do not know the extent to which Greenpeace UK influenced Volkswagen UK\u0027s decision. Before Volkswagen UK\u0027s decision, the British government had already decided to [ban](https://www.bbc.com/news/business-41231766) diesel and petrol vehicles by 2040, so Volkswagen UK would probably stop producing these vehicles anyways even if Greenpeace UK did not exist. Greenpeace\u0027s report did not claim that the charity influenced the government\u0027s decision.\n\nAlso after two years of campaigns, London mayor Sadiq Khan announced an extension to the city\u0027s Ultra Low Emission Zone (ULEZ), which charges the most polluting vehicles for entry. The ULEZ may disincentivize drivers from driving environmentally unfriendly cars and emitting pollution. However, drivers who find the ULEZ too expensive might also drive elsewhere instead, emitting the same pollution or more. We need a rigorous estimate of averted carbon emissions on a broad geographical scale. Besides, drivers might abandon old cars and purchase environmentally-friendly vehicles, leading to an increase in car production. Greenpeace has not provided any information about whether such an increase would happen. Nor do we know about the carbon costs involved in production if it does happen. Finally, we do not know if Greenpeace UK\u0027s campaign has played a decisive role in causing Khan to extend the ULEZ.\n\n- Greenpeace UK hopes to protect the Earth\u0027s oceans. We will also look at just two of Greenpeace UK\u0027s many campaigns in this issue area, for which we do not have a cost breakdown. \n\nTo save ocean animals from ingesting plastic, Greenpeace UK produced and publicized an analysis of British supermarkets\u0027 plastic footprint, causing some supermarkets to immediately make plans to reduce plastic use. Although not mentioned in the charity\u0027s report, this campaign may also reduce society\u0027s reliance on fossil fuels, a raw material for producing plastics. We do not know the amount of plastic waste, ocean animal death, fossil fuel production, or carbon emissions prevented. Considering that Greenpeace UK collaborated with other organizations like the Environment Investigation Agency in this initiative, we also do not know Greenpeace UK\u0027s level of contribution to this campaign. \n\nWhat\u0027s more, Greenpeace UK lobbied British politicians to call for the Antarctic Ocean Commission to create ocean sanctuaries in Antarctica, but Norway, Russia, and China blocked the initiative. \n\n- Furthermore, Greenpeace UK campaigns against deforestation, forcing the palm oil trading company Wilmar to produce a plan to reduce deforestation. We do not know the amount of deforestation averted by this initiative. The charity\u0027s report framed the preservation of forests as conducive to protecting wildlife, but forests also absorb carbon dioxide, and our shallow review suggests that intact forests might prevent disease-carrying animals from coming into contact with human society. We do not know the extent to which Greenpeace UK influenced Wilmar\u0027s decisions. A lot of companies that Wilmar sells oil to had already committed to zero deforestation in their supply chains.\n\n- Finally, Greenpeace found that the Institute of Economic Affairs had been working with US donors to capitalize on Brexit as an opportunity to slash food and environmental standards. We do not know what this discovery led to. How many people have heard of Greenpeace\u0027s investigation? What did they do about it?\n\n**Benchmarking**\n\nAfter a review of the work of Greenpeace UK under the two-question method, the next step in the SoGive process would involve comparing this charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. These benchmark charities should achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation). However, because of a lack of information in the charity\u0027s annual report, we ended up unable to perform the comparison.\n\n**Conclusion**\n\nWe would need more information to determine whether Greenpeace UK would lead to an impact more positive than saving a life for about £1,500.\n\nFurther information that would enable us to form a fuller opinion of the work of the charity would involve:\na) a more detailed cost assessment of Greenpeace\u0027s various initiatives. How much money is directed towards pressuring Volkswagen, for example?\nb) an impact assessment of Greenpeace UK campaigns. For each initiative, we would like to know how much pollution would be prevented, how many animals would be saved, or how many trees would be preserved. We would like to understand the different actors involved in achieving the goal. How do other stakeholders view Greenpeace UK? We would want to estimate how much later that outcome would have been achieved without Greenpeace if we were to build a quantitative model of the charity\u0027s impact. ",
+  "whyTags": "Energy, Climate Change, Environment, Conservation",
+  "UNSDG": "0",
+  "imageCaption": "Swedish pension fund divests from fossil fuels",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/gp-logo-17006946187178726733.svg",
+  "@id": "greenpeace",
+  "wikipedia": "https://en.wikipedia.org/wiki/Greenpeace",
+  "summaryDescription": "[Greenpeace](https://www.greenpeace.org.uk/challenges/) aims to protect the natural world for future generations.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/Screen_Shot_2020-06-20_at_12.42.56_PM-5373812170093147517.png",
+  "stories": "After a sustained campaign by Greenpeace Sweden, the [Swedish Public pension fund](http://www.tiki-toki.com/timeline/entry/594418/Greenpeace/#vars!panel\u003d13885020!) announced that they would completely divest from fossil fuels.",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Greenpeace",
+    "Greenpeace UK",
+    "greenpeace"
+  ],
+  "url": "https://www.greenpeace.org.uk/",
+  "howTags": "campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2018.0]"
+  },
+  "meta": {
+    "images": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "stories": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "name": {
+      "source": ""
+    },
+    "description": {
+      "source": ""
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "summaryDescription": {
+      "source": ""
+    },
+    "uk_giftaid": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    }
+  },
+  "name": "Greenpeace",
+  "lastModified": "2020-08-22T15:06:03Z",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "284934",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Global",
+  "status": "DRAFT"
+}
