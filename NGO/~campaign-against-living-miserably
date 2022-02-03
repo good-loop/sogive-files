@@ -10,10 +10,10 @@
   ],
   "url": "https://www.thecalmzone.net/about-calm/what-is-calm/",
   "name": "Campaign Against Living Miserably",
-  "logo": "https://media.good-loop.com/uploads/raw/calm-17736825809472718654.jpg#noscale",
+  "logo": "https://media.good-loop.com/uploads/raw/calm-17736825809472718654.jpg#noscale_ccrop:97",
   "@id": "campaign-against-living-miserably",
   "summaryDescription": "The Campaign Against Living Miserably (CALM) is leading a movement against suicide. Every week 125 people in the UK take their own lives. And 75% of all UK suicides are male.\nCALM exists to change this. ",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
