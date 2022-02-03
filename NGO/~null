@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Sport in Mind",
   "id": "sport-in-mind",
-  "suggest": []
+  "suggest": [
+    "Sport in Mind"
+  ],
+  "status": "DRAFT"
 }
