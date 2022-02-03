@@ -1,7 +1,13 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/good360-11687916559893870319.png#ccrop:97",
-  "id": "good360",
-  "suggest": [],
-  "status": "DRAFT"
+  "displayName": "Ocean Cleanup",
+  "name": "The Ocean Cleanup",
+  "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:103",
+  "id": "ocean-cleanup",
+  "suggest": [
+    "The Ocean Cleanup",
+    "Ocean Cleanup"
+  ],
+  "url": "https://theoceancleanup.com/",
+  "status": "PUBLISHED"
 }
