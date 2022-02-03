@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Catalyst",
-  "logo": "https://media.good-loop.com/uploads/standard/Catalyst-Course-13632143471589380041.png#ccrop:130",
+  "logo": "https://media.good-loop.com/uploads/standard/Catalyst-Course-13632143471589380041.png#ccrop:165",
   "id": "catalyst",
   "suggest": [
     "Catalyst"
   ],
   "url": "https://www.catalyst.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
