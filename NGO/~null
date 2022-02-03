@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Catalyst",
   "id": "catalyst",
-  "suggest": []
+  "suggest": [
+    "Catalyst"
+  ],
+  "status": "DRAFT"
 }
