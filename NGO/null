@@ -1,7 +1,12 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/good360-11687916559893870319.png#ccrop:97",
-  "id": "good360",
-  "suggest": [],
+  "displayName": "UCLA Mattel Children’s Hospital",
+  "name": "UCLA Mattel Children’s Hospital",
+  "logo": "https://media.good-loop.com/uploads/standard/UMCH-Logo-720x480-3469489282137022563.png#ccrop:106",
+  "id": "uch-mattel",
+  "suggest": [
+    "UCLA Mattel Children’s Hospital",
+    "UCLA Mattel Children’s Hospital"
+  ],
   "status": "DRAFT"
 }
