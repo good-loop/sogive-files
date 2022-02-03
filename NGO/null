@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Catalyst",
-  "logo": "https://media.good-loop.com/uploads/standard/Catalyst-Course-13632143471589380041.png#ccrop:165",
-  "id": "catalyst",
+  "displayName": "LGBT Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/lgbt-17644972304446972559.png#ccrop:80",
+  "id": "lgbt-foundation",
   "suggest": [
-    "Catalyst"
+    "LGBT Foundation"
   ],
-  "url": "https://www.catalyst.org/",
-  "status": "PUBLISHED"
+  "url": "https://lgbt.foundation/",
+  "status": "DRAFT"
 }
