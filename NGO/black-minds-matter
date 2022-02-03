@@ -1,0 +1,16 @@
+{
+  "circleCrop": 100.0,
+  "color": "#000000",
+  "@type": "NGO",
+  "displayName": "Black Minds Matter",
+  "name": "black-minds-matter",
+  "logo": "https://media.good-loop.com/uploads/standard/Copy-of-ARSC-4-4285372329456017228.png",
+  "@id": "black-minds-matter",
+  "suggest": [
+    "black-minds-matter",
+    "Black Minds Matter",
+    "black-minds-matter"
+  ],
+  "id": "black-minds-matter",
+  "status": "DRAFT"
+}
