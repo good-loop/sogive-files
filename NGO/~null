@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/good360-11687916559893870319.png",
   "id": "good360",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
