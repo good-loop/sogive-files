@@ -1,0 +1,1340 @@
+{
+  "scotlandCharityRegNum": "SC039570",
+  "circleCrop": 75.0,
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1.54E7,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "children (singular: child) helped",
+          "start": "2013-01-01T00:00:00Z",
+          "description": "This averages out lots of different types of help. including education, nutrition,  improving livelihoods, tackling HIV/AIDS, and many more",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 5.85E7,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 3.089E10,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 3.089E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://www.savethechildren.org.uk/sites/default/files/images/Annual_report_2013.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.66E8,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "children (singular: child) helped",
+          "start": "2014-01-01T00:00:00Z",
+          "description": "This averages out lots of different types of help. including education, nutrition,  improving livelihoods, tackling HIV/AIDS, and many more",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 8.663376E10,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 8.663376E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "https://i.stci.uk/sites/default/files/Save%20the%20Children%20International%20Trustees%20Report%202014.pdf"
+        },
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.savethechildren.org/atf/cf/%7B9def2ebe-10ae-432c-9bd0-df91d2eba74a%7D/SC_2014_ANNUALREPORT.PDF"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Seems surprisingly low, but could be accurate. Query sent to charity",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.21E7,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "children (singular: child) helped directly",
+          "start": "2016-01-01T00:00:00Z",
+          "description": "This averages out lots of different types of help. including education, nutrition,  improving livelihoods, tackling HIV/AIDS, and many more",
+          "end": "2016-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 8.04E7,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people helped or reached.  A person is reached directly when he or she has received one or more project/programme inputs from Save the Children or a partner; or has participated in activities or accessed services provided by Save the Children, a partner, or institutions or individuals supported by Save the Children or its partners. A person is reached indirectly through information, education or communication and/or awareness raising efforts; or events conducted or supported by Save the Children or one of its implementing partners; or if a family or community member?s wellbeing is expected to be enhanced by a person reached directly by Save the Children or one of its partners.",
+          "start": "2016-01-01T00:00:00Z",
+          "end": "2016-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 4.101E12,
+          "value": 4.101E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 8.293E10,
+          "value": 8293000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 5.3271944E11,
+          "value": 5.3271944E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.07726E10,
+          "value": 1077260.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "nutrition",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 5.2678057E11,
+          "value": 5.2678057E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.06525E10,
+          "value": 1065250.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "livelihoods",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 8.6247462E11,
+          "value": 8.6247462E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.744087E8,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 1744087.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "health",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.33926E9,
+          "value": 133926.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 270800.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 2708.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "hiv aids",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 323000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "children (singular: child) helped to stay safe",
+          "start": "2016-01-01T00:00:00Z",
+          "end": "2016-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.2937064E11,
+          "value": 1.2937064E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 2.61612E7,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 261612.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "protection",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 8.57348E9,
+          "value": 857348.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.7337E8,
+          "value": 17337.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "rights",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6200000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": ""
+            }
+          },
+          "confidence": "low",
+          "name": "children (singular: child) reached through education programmes",
+          "start": "2016-01-01T00:00:00Z",
+          "description": "This refers to children receiving lots of different types of inputs, activities, and support, such as children\u0027s books or reading clubs",
+          "end": "2016-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 5.4902113E11,
+          "value": 5.4902113E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.110225E10,
+          "value": 1110225.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 1.2217375E12,
+          "value": 1.2217375E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 2.470585E10,
+          "value": 2470585.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "rapid onset emergencies",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 2.6898336E11,
+          "value": 2.6898336E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value100p": 5.43935E9,
+          "value": 543935.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2016-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20161231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigning and awareness",
+      "analyst": "Sanjay",
+      "end": "2016-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.33E7,
+          "confidence": "low",
+          "name": "children (singular: child) reached"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0000213890_AC_20171231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "408,063,000",
+          "currency": "GBP",
+          "value100p": 4.08063E12,
+          "value": 4.08063E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "8,767,000",
+          "currency": "GBP",
+          "value100p": 8.767E10,
+          "value": 8767000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "For income from beneficiaries, note 3 of the accounts included an \"other\" category which might have been what we call \"income from beneficiaries\". However I\u0027ve assumed not because wording at the bottom of the note said: \"ncome from charitable activities relates to income from performance-related grants that are used to further our charitable objectives across our\nthematic areas\""
+        }
+      },
+      "name": "overall",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "confidence": "medium",
+          "name": "People (singular: Person) Reached",
+          "description": "This is based on an estimate of the cost-effectiveness of the broader Save the Children Association. We assume Save the Children UK has a similar level of cost-effectiveness.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "20",
+            "currency": "",
+            "value100p": 200000.0,
+            "value": 20.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "283161000",
+          "currency": "GBP",
+          "value100p": 2.83161E12,
+          "value": 2.83161E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "7833000",
+          "currency": "GBP",
+          "value100p": 7.833E10,
+          "value": 7833000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 45"
+        },
+        "reserves": {
+          "notes": "general-pension p. 72"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "31386000",
+        "currency": "",
+        "value100p": 3.1386E11,
+        "value": 3.1386E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20188000",
+          "currency": "GBP",
+          "value100p": 2.0188E11,
+          "value": 2.0188E7
+        }
+      ],
+      "name": "Nutrition"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "37604000",
+          "currency": "GBP",
+          "value100p": 3.7604E11,
+          "value": 3.7604E7
+        }
+      ],
+      "name": "Livelihood"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "42501000",
+          "currency": "GBP",
+          "value100p": 4.2501E11,
+          "value": 4.2501E7
+        }
+      ],
+      "name": "Health"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11150000",
+          "currency": "GBP",
+          "value100p": 1.115E11,
+          "value": 1.115E7
+        }
+      ],
+      "name": "Protection and Rights"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "43654000",
+          "currency": "GBP",
+          "value100p": 4.3654E11,
+          "value": 4.3654E7
+        }
+      ],
+      "name": "Education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "85725000",
+          "currency": "GBP",
+          "value100p": 8.5725E11,
+          "value": 8.5725E7
+        }
+      ],
+      "name": "Rapid Onset Emergencies"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11296000",
+          "currency": "GBP",
+          "value100p": 1.1296E11,
+          "value": 1.1296E7
+        }
+      ],
+      "name": "Advocacy and Awareness"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Save the Children UK",
+  "description": "Save the Children is an independent organisation that targets marginalised and deprived children to help them \"survive\", \"learn\" and \"be protected\". Their major projects include those delivering protection, rights and education for vulnerable children. They aim at changing the world for children in need by means of innovative programs, bold campaigns, independent advocacy and high impact partnerships. They are a global movement consisting of 30 member countries and are operational in 117 countries. ",
+  "recommendation": "**Save The Children UK achieves a \"More information needed (Promising)\" assessment under the SoGive rating methodology.**\n\nThe Save the Children movement seeks to protect children’s rights, ensuring they have access to healthcare and adequate nutrition, have the chance to learn, and can get protection when they are in danger from natural disasters and war.\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Save the Children does**\n\nSave the Children UK is a member of the Save the Children Association (SCA), a global movement made up of 30 national entities ([UK Annual Report](https://www.savethechildren.org.uk/content/dam/gb/reports/annual-report-2020-save-the-children.pdf) p. 53). Save the Children UK’s plans are aligned with the whole Save the Children movement and is one of its major contributors. Out of Save the Children UK’s annual spending of £275 million (overheads included) (UK Annual Report p. 71, 45), roughly 97% or about £266 million is spent outside the UK (UK Annual Report p. 11). \nSave the Children UK provides 17% of the total expenditure of SCA (International Annual Report 2019, p. 22). We will consider the financial information of both Save the Children UK and the SCA.\nIn 2019, the SCA used £1.62 billion to directly reach about 70 million people, 40 million of whom are children ([International Annual Report, 2019](https://resourcecentre.savethechildren.net/node/18345/pdf/save_the_children_annual_review_2019_0.pdf) p. 1, 22).\n\nSave the Children UK’s £275 million charitable expenditure is composed of six thematic areas of work: emergencies (£94m); education (£48m), health (£46m), livelihoods (£41m), nutrition (£22m), protection and rights (£12m) and advocacy and awareness (£12m) (UK Annual Report p. 71). \nEmergency response efforts include the humanitarian entity Elrha that supports research and innovation projects in order to evidence what works in humanitarian response, bridging between academics and humanitarians (£12m) (UK Annual Report p. 37). There is also the Start Network that aims to reinvent the humanitarian system through different aid programmes (£34m) (UK Annual Report p. 37). In 2019, the SCA helped about 17.9 million people through emergency programs, but unlike Save the Children UK, the SCA categorizes expenditures differently and does not reveal how much it spent on these international programs (International Annual Report p. 19). \n\nSome examples of projects and programmes for education are as follows: parenting sessions and distribution of learning materials in rural Tanzania, Accelerated Education Project (AEP) for students aged between 10 and 16 in Sierra Leone, Families Connect Programme in the UK, and distribution of home study packs in Afghanistan through the STAGES project for girls (UK Annual Report, p. 24). Education programmes are valuable for its own sake (intrinsic value) in terms of knowledge and wisdom, and also for the career results derived from them (extrinsic value), such as improvement of social and financial conditions. In 2019, the SCA spent £455 million on 7.7 million children (International Annual Report p. 13).\n\nExamples of health projects include Kangaroo Mother Care for preterm newborns in Kenya, and access to HIV and AIDS prevention, care, and treatment for adolescent girls and young women, also in Kenya (UK Annual Report p. 19).\n\nAn example of a programme belonging to the nutrition area is the work with partners to roll out an innovative approach known as Family MUAC to detect acute malnutrition in children in Kenya and Somalia (UK Annual Report p. 20). In 2019, the SCA spent £585 million on health and nutrition for 26.8 million children, plus an undisclosed number of adults (International Annual Report p. 13).\n\nRegarding protection and rights, some examples of projects include efforts to provide legal representation for Palestinian children detained by the Israeli military, \"Coaching for life\" football programme for Syrian refugee children and children from slums of Jakarta, and mobilization of community-level child protection volunteers in India (UK Annual Report p. 27-31). In 2019, the SCA spent £243 million on protection for 3.4 million children and £65 million on upholding the rights of 0.6 million children (International Annual Report p. 13). It appears that the latter category focuses more on legal advocacy.\n\nThe funding on livelihoods significantly increased compared to 2019 (£29m vs £38m), mostly because of a Somalia drought response program. In 2019, the SCA spent £384 million on child poverty for about 2.9 million children and likely some additional adults (International Annual Report p. 13).\n\nAdvocacy and awareness refer to long-term systemic impacts and include actions like campaigning and research. As stated in their UK Annual Report for 2020 (p. 80), Save the Children’s activities in this area have several objectives such as informing supporters and the wider public about the reality of children’s lives; influencing decision-makers on policies and educating children and young people in the UK by bringing global perspectives to the curriculum and promoting the UN Convention on the Rights of the Child. In Save the Children’s case, advocacy efforts are aimed at \"tackling child malnutrition and childhood pneumonia, supporting children in conflict, and pushing for every child to have access to good-quality learning opportunities\" (UK Annual report p. 46) through specialised reports and summits. The charity provides little information on the cost of each individual campaign, on the total number of children who can potentially benefit from these campaigns, and on the extent to which Save the Children - not some other organization like the UN - contributes to these goals each year. To learn more about how SoGive approaches long-term projects by charities, see this blog post [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?view\u003dsidebar)\n\nThe UK data used for this analysis comes from the 2019-20 financial year, which was impacted by the COVID-19 pandemic. This implies unanticipated changes in the funds collected (i.e by sales in its shops) and also in field work (i.e gathering information to assess the projects’ impacts). \n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Save the Children UK under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as saving a life for £5000, £50 to double someone’s consumption (spending) for one year, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work.\n\nAssuming that the two organizations have equal cost-effectiveness, we can use data on the SCA to estimate the cost-effectiveness of Save the Children UK. Since the SCA spent £1.62 billion reaching about 70 million people in 2019, reaching each person cost about £20 on average. However, since the SCA collaborates with many other organizations, this is likely an overestimate of the charity’s cost-effectiveness. This is because in addition to the average of £20 from the Save the Children Association, the typical beneficiary might have also been helped by funding from other organizations working on the same projects as SCA, whose expenditures did not appear on the SCA’s annual report. For the charity to reach Gold standard, we would have to believe that the benefits provided by reaching 250 people is at least as good as saving a life, or equivalently that the benefits provided by reaching 2 or 3 people is about as good as doubling someone’s consumption for a year, or that the benefits provided by reaching 10 people is at least as good as averting a year of severe depression.\n\nHere are some similar analyses of the charity’s largest programs:\n\nThe SCA spent £585 million on health and nutrition for 26.8 million children and some additional adults. Health and nutrition programs, along with the charity’s poverty relief programs, are the charity’s two programs that are also likely to help a significant number of adults. Given that these two programs helped 29.7 million children in total, and that the charity helped 30 million adults, we assume that for each child helped by the health and nutrition programs, an adult is also helped. Thus the health and nutrition programs reached about 54 million people. Reaching each person therefore costs about £10 on average. For the health and nutrition programs to reach Gold standard, we would have to believe that the benefits provided by reaching 500 people is at least as good as saving a life, that the benefits provided by reaching 5 people is at least as good as doubling someone’s consumption for a year, or that the benefits provided by reaching 20 people is at least as good as averting a year of severe depression.\n\nAssuming that, like Save the Children UK, the SCA spends 34% of its money on emergency responses, then the SCA would spend about £421 million helping about 17.9 million people. Reaching each person therefore costs about £20 on average. For the emergency programs to reach Gold standard, we would have to believe that the benefits provided by reaching 250 people is about as good as saving a life, that the benefits provided by reaching 2 or 3 people is about as good as doubling someone’s consumption for a year, or that the benefits provided by reaching 10 people is at least as good as averting a year of severe depression.\n\nSince the charity works in cause areas such as health and emergencies, where lives could potentially be saved, and because the charity achieves a low cost per beneficiary that is likely to be well below £100 per person on average, the cost-effectiveness of Save the Children UK seems promising, and could even match or exceed the SoGive Gold Standard. However, we need more information about the charity’s impact on a typical beneficiary to be able to rate the charity. Such impacts might include the effect of the charity’s projects on childhood mortality, poverty, education, or other measures of health and wellbeing. The most robust evidence of impact would be that generated through randomised controlled trials.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html?view\u003dsidebar)\n \n**Conclusion**\n\nTo be able to rate Save the Children UK, we would need more information about the impact of their work, but aspects of the charity’s work appear promising with regards to cost-effectiveness.\n",
+  "whyTags": "International aid, Poverty, Disaster response, Children",
+  "ready": true,
+  "modified": true,
+  "logo": "data:image/png;base64,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\u003d\u003d#ccrop:_ccrop:_ccrop:_ccrop:75",
+  "@id": "the-save-the-children-fund",
+  "wikipedia": "https://en.wikipedia.org/wiki/Save_the_Children",
+  "summaryDescription": "[Save the Children](https://www.savethechildren.org.uk/) works in over 100 countries to protect their rights and provide children with education, healthcare and disaster relief.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/save_the_children-10709118516075771872.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "suggest": [
+    "The Save the Children Fund",
+    "Save the Children UK",
+    "the-save-the-children-fund"
+  ],
+  "communicationsWithCharity": "Email sent on 26/jul/2017 from sanjay@sogive.org to find out more about the 6.2 million education beneficiaries. Have since received a reply.",
+  "url": "https://www.savethechildren.org.uk/",
+  "howTags": "Direct Work, collaboration with partners, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "People (singular: Person) Reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 200000,
+      "value": "20.0",
+      "name": ""
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "The Save the Children Fund",
+  "lastModified": "2020-10-14T10:10:43Z",
+  "englandWalesCharityRegNum": "213890",
+  "uk_giftaid": true,
+  "whereTags": "Developing World",
+  "status": "PUBLISHED"
+}
