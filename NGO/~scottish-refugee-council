@@ -251,7 +251,7 @@
   "imageCaption": "Building a better future with refugees in Scotland.",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/3083406641670385facebook/srclogosmall-15743965170181639552.jpg",
+  "logo": "https://app.sogive.org/uploads/3083406641670385facebook/srclogosmall-15743965170181639552.jpg#ccrop:102",
   "@id": "scottish-refugee-council",
   "wikipedia": "https://en.wikipedia.org/wiki/Scottish_Refugee_Council",
   "summaryDescription": "The Scottish Refugee Council is a registered charity that provides advice and services to asylum seekers and refugees. The objective of the organisation is \u0027building a better future with refugees in Scotland\u0027.",
@@ -281,5 +281,5 @@
   "subcategory": "Shelter and Crisis Services",
   "uk_giftaid": true,
   "whereTags": "United Kingdom (Scotland)",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
