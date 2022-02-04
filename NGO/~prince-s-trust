@@ -2181,7 +2181,7 @@
   "whyTags": "Children, young people, young adults",
   "ready": true,
   "modified": false,
-  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-The__Princes__Trust.svg-14504134976233229155.png#ccrop:72",
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-The__Princes__Trust.svg-14504134976233229155.png#ccrop:70",
   "@id": "prince-s-trust",
   "wikipedia": "https://en.wikipedia.org/wiki/The_Prince%27s_Trust",
   "summaryDescription": "The Prince\u0027s Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training.",
@@ -2217,5 +2217,5 @@
   "englandWalesCharityRegNum": "1079675",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, England, Wales, Scotland, Northern Ireland",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
