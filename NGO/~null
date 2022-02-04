@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png#ccrop:99",
   "id": "gurls-talk",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
