@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Gurls Talk",
-  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
-  "id": "gurls-talk",
+  "displayName": "Homeless Prenatal Program",
+  "logo": "https://media.good-loop.com/uploads/standard/HPP3colorlogo3-2817779338170734988.png",
+  "id": "homeless-prenatal-program",
   "suggest": [
-    "Gurls Talk"
+    "Homeless Prenatal Program"
   ],
-  "url": "https://www.gurlstalk.com/",
+  "url": "https://www.homelessprenatal.org/",
   "status": "DRAFT"
 }
