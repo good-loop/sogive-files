@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Homeless Prenatal Program",
   "id": "homeless-prenatal-program",
-  "suggest": []
+  "suggest": [
+    "Homeless Prenatal Program"
+  ],
+  "status": "DRAFT"
 }
