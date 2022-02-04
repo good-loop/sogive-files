@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Convoy OPf Hope",
   "id": "convoy-of-hope",
-  "suggest": []
+  "suggest": [
+    "Convoy OPf Hope"
+  ],
+  "status": "DRAFT"
 }
