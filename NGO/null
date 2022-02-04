@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Sport in Mind",
-  "logo": "https://media.good-loop.com/uploads/standard/SIM__logo-3993785270550407569.png#ccrop:125",
-  "id": "sport-in-mind",
+  "displayName": "Gurls Talk",
+  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
+  "id": "gurls-talk",
   "suggest": [
-    "Sport in Mind"
+    "Gurls Talk"
   ],
-  "url": "https://www.sportinmind.org/",
+  "url": "https://www.gurlstalk.com/",
   "status": "DRAFT"
 }
