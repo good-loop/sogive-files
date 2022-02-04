@@ -1,0 +1,2221 @@
+{
+  "circleCrop": 65.0,
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 58554.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "young people (singular: person) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to young people helped to get jobs, education and training",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.5071E11,
+          "value": 6.5071E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.824E10,
+          "value": 1824000.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 17150.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "young people (singular: person) helped to be entrepreneurs",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people aged between 18 and 30 assisted to start their own business through the provision of financial and mentoring support.",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.0922351E11,
+          "value": 1.0922351E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.06164E9,
+          "value": 306164.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "enterprise",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9252.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) given personal development training",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people (either young people aged 16-25 or unemployed people) provided with 12 weeks of personal development training",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.411853E10,
+          "value": 6411853.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.7973E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 179730.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "team",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 3420.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) receiving a grant",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people aged 14 to 25 receiving a grant of between ?50 and ?500 to access education, training or development",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.398302E10,
+          "value": 4398302.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.23288E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 123288.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "awards",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9682.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) given a personal development programme ",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people aged 13 to 19 at risk of underachievement or exclusion from school provided with a personal development programme at special clubs",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.477078E10,
+          "value": 4477078.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.25497E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 125497.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "xl",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6417.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) given vocational skills",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people aged 16 to 25 who are not in employment provided with the opportunity to develop relevant vocational skills",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.0987997E11,
+          "value": 1.0987997E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.08004E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 308004.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "get into",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 2788.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) engaged in short courses",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to people (typically aged 16 to 25) engaged in short courses on themes such as sports, arts, or STEM",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.685952E10,
+          "value": 4685952.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.31352E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 131352.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "get started",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 5830.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "youth(s) helped through local projects",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 8.732152E10,
+          "value": 8732152.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 2.4477E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 244770.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "local programmes and pilots",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.0942641E11,
+          "value": 1.0942641E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.06732E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 306732.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "fairbridge garden centre",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.004213E10,
+          "value": 3004213.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 8.4211E8,
+          "value": 84211.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "adventurous activities",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.0846E9,
+          "value": 508460.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.4253E8,
+          "value": 14253.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "international",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 68167.0,
+          "meta": {
+            "all": {
+              "notes": "Source of 68167 figure: p19 of accounts"
+            }
+          },
+          "name": "young people (singular:person) supported",
+          "description": "This means young people who participated in one programme, in more\nthan one programme or who are receiving ongoing support."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "61895000",
+          "currency": "GBP",
+          "value100p": 6.1895E11,
+          "value": 6.1895E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2154000",
+          "currency": "GBP",
+          "value100p": 2.154E10,
+          "value": 2154000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1606000",
+          "currency": "GBP",
+          "value100p": 1.606E10,
+          "value": 1606000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs --\u003e income from other trading activities.\n\nIncome from beneficiaries appears to be \u0027programme fees\u0027."
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "45692000",
+        "currency": "GBP",
+        "value100p": 4.5692E11,
+        "value": 4.5692E7
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 13274.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10010000",
+          "currency": "GBP",
+          "value100p": 1.001E11,
+          "value": 1.001E7
+        }
+      ],
+      "name": "Enterprise programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 8516.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4962000",
+          "currency": "GBP",
+          "value100p": 4.962E10,
+          "value": 4962000.0
+        }
+      ],
+      "name": "Team programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3507.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1858000",
+          "currency": "GBP",
+          "value100p": 1.858E10,
+          "value": 1858000.0
+        }
+      ],
+      "name": "Awards programmes"
+    },
+    {
+      "outputs": [
+        {
+          "number": 20564.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5147000",
+          "currency": "GBP",
+          "value100p": 5.147E10,
+          "value": 5147000.0
+        }
+      ],
+      "name": "Achieve programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5929.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8255000",
+          "currency": "GBP",
+          "value100p": 8.255E10,
+          "value": 8255000.0
+        }
+      ],
+      "name": "Get into programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2998.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3463000",
+          "currency": "GBP",
+          "value100p": 3.463E10,
+          "value": 3463000.0
+        }
+      ],
+      "name": "Get Started programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3627.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5441000",
+          "currency": "GBP",
+          "value100p": 5.441E10,
+          "value": 5441000.0
+        }
+      ],
+      "name": "Local programmes \u0026 pilots"
+    },
+    {
+      "outputs": [
+        {
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3665000",
+          "currency": "GBP",
+          "value100p": 3.665E10,
+          "value": 3665000.0
+        }
+      ],
+      "name": "Adventurous Activities"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2564.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8005000",
+          "currency": "GBP",
+          "value100p": 8.005E10,
+          "value": 8005000.0
+        }
+      ],
+      "name": "Fairbndge"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2811.0,
+          "name": "course places (singular:place) provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2235000",
+          "currency": "GBP",
+          "value100p": 2.235E10,
+          "value": 2235000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust Online"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1381000",
+          "currency": "GBP",
+          "value100p": 1.381E10,
+          "value": 1381000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust Intemational"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "931000",
+          "currency": "GBP",
+          "value100p": 9.31E9,
+          "value": 931000.0
+        }
+      ],
+      "name": "Princes TrustAustralia"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1060000",
+          "currency": "GBP",
+          "value100p": 1.06E10,
+          "value": 1060000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust Canada"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends75/0001079675_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "142000",
+          "currency": "GBP",
+          "value100p": 1.42E9,
+          "value": 142000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust New Zealand"
+    },
+    {
+      "outputs": [
+        {
+          "number": 76328.0,
+          "meta": {
+            "all": {
+              "notes": "76,328 is from p.33 of 2019/20 annual report. That\u0027s the total number. In the UK, they supported 70,181 (p.15)."
+            }
+          },
+          "confidence": "medium",
+          "name": "young people supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.princes-trust.org.uk/Document_Annual-Report_2019-2020.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.princes-trust.org.uk/Document_PT-Group-Impact-Report.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3608000",
+          "currency": "GBP",
+          "value100p": 3.608E10,
+          "value": 3608000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1500000",
+          "currency": "GBP",
+          "value100p": 1.5E10,
+          "value": 1500000.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "77302000",
+          "currency": "GBP",
+          "value100p": 7.7302E11,
+          "value": 7.7302E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "income from beneficiaries \u003d programme fees. See page 42 of 2019/20 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "21600000",
+        "currency": "",
+        "value100p": 2.16E11,
+        "value": 2.16E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 27223.0,
+          "meta": {
+            "all": {
+              "notes": "p7 AR 2020"
+            }
+          },
+          "confidence": "medium",
+          "name": "Total course places provided ",
+          "description": "helps young people who may be\nstruggling with mainstream education or who\nmay have been excluded"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8465000",
+          "currency": "GBP",
+          "value100p": 8.465E10,
+          "value": 8465000.0
+        }
+      ],
+      "name": "Achieve "
+    },
+    {
+      "outputs": [
+        {
+          "number": 7409.0,
+          "meta": {
+            "all": {
+              "notes": "Adding Mosaic + Enterprise challenge course places together, as the programme summaries lump them together "
+            }
+          },
+          "confidence": "low",
+          "name": "Total course places provided",
+          "description": "Gives young people access to inspirational\nand relatable role-model mentors; and has been\nproven to boost their confidence, resilience and\nlong-term employability. \n\nThe Enterprise Challenge (part of Mosaic) is an\ninter-school competition for young people aged\n11-16 who are supported by trained mentors"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10761279\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3969861"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Mosaic/Enterprise Challenge "
+    },
+    {
+      "outputs": [
+        {
+          "number": 1687.0,
+          "confidence": "medium",
+          "name": "Total course places provided ",
+          "description": "offers one-to-one\nsupport and group activities for young people\nwho need support to bring structure and stability\ninto their lives"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 7680000",
+          "currency": "GBP",
+          "value100p": 7.68E10,
+          "value": 7680000.0
+        }
+      ],
+      "name": "Explore "
+    },
+    {
+      "outputs": [
+        {
+          "number": 10335.0,
+          "confidence": "medium",
+          "name": "Total course places provided",
+          "description": "12-week personal development\nprogramme which includes outdoor activities,\nwork experience and a community project"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4718000",
+          "currency": "GBP",
+          "value100p": 4.718E10,
+          "value": 4718000.0
+        }
+      ],
+      "name": "Team "
+    },
+    {
+      "outputs": [
+        {
+          "number": 2799.0,
+          "name": "Total course places provided",
+          "description": " short courses that engage\nyoung people through the arts or sport and\nsupport them into further education, training or\nemployment"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5125000 ",
+          "currency": "GBP",
+          "value100p": 5.125E10,
+          "value": 5125000.0
+        }
+      ],
+      "name": "Get started "
+    },
+    {
+      "outputs": [
+        {
+          "number": 4931.0,
+          "confidence": "medium",
+          "name": "Total course places provided ",
+          "description": " gives young people the vital first-hand\ntraining and experience they need to secure\nentry-level roles across a range of employment\nsectors"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11224000",
+          "currency": "GBP",
+          "value100p": 1.1224E11,
+          "value": 1.1224E7
+        }
+      ],
+      "name": "Get into "
+    },
+    {
+      "outputs": [
+        {
+          "number": 9144.0,
+          "confidence": "medium",
+          "name": "Total course places provided",
+          "description": "offers training,\nmentoring and funding to help young people\ngenerate and test business ideas, write business\nplans, and ultimately start their own business."
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9878000",
+          "currency": "GBP",
+          "value100p": 9.878E10,
+          "value": 9878000.0
+        }
+      ],
+      "name": "Enterprise"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5093.0,
+          "name": "Total course places provided",
+          "description": " small grants which\nhelp young people gain access to education,\ntraining or employment"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2878000",
+          "currency": "GBP",
+          "value100p": 2.878E10,
+          "value": 2878000.0
+        }
+      ],
+      "name": "Development awards"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7210000 ",
+          "currency": "GBP",
+          "value100p": 7.21E10,
+          "value": 7210000.0
+        }
+      ],
+      "name": "Local programmes \u0026 pilots"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 2551000",
+          "currency": "GBP",
+          "value100p": 2.551E10,
+          "value": 2551000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust America "
+    },
+    {
+      "outputs": [
+        {
+          "number": 5455.0,
+          "confidence": "medium",
+          "name": "young people supported ",
+          "description": "supporting young\npeople in their journey from\neducation to employment "
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "362000",
+          "currency": "GBP",
+          "value100p": 3.62E9,
+          "value": 362000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust International "
+    },
+    {
+      "outputs": [
+        {
+          "number": 160.0,
+          "confidence": "very-low",
+          "name": "Australian Defence Force veterans supported",
+          "description": "took part in the ‘Enterprise for Veterans’\nprogramme, , which inspires\nmilitary veterans into\nentrepreneurship"
+        },
+        {
+          "number": 350.0,
+          "confidence": "very-low",
+          "name": "young people supported",
+          "description": "participants in the Achieve education programme in Victoria "
+        },
+        {
+          "number": 35.0,
+          "confidence": "very-low",
+          "name": "educators received professional development training"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "882000",
+          "currency": "GBP",
+          "value100p": 8.82E9,
+          "value": 882000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust Australia"
+    },
+    {
+      "outputs": [
+        {
+          "number": 633.0,
+          "name": "participants supported ",
+          "description": "helped\nyoung people overcome\nbarriers to employment and\nprepare for the changing\nworld of work; provided\nentrepreneurship training\nand support for veterans; and\ncreated important language\nresources for Indigenous\nchildren and their families"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1155000",
+          "currency": "GBP",
+          "value100p": 1.155E10,
+          "value": 1155000.0
+        }
+      ],
+      "name": "Prince\u0027s Trust Canada"
+    }
+  ],
+  "@type": "NGO",
+  "description": "The Prince\u0027s Trust is a charity in the United Kingdom founded in 1976 by Charles, Prince of Wales. They aim to help young people aged 11 to 30 who are unemployed and those at risk of unemployment because they have struggled at school. They want to bring young people together from different backgrounds, cultures and faiths, so that they can make a positive difference in their communities. The Prince\u0027s Trust provides practical support, enabling young people to overcome their problems and get their lives on track. This is done by delivering programmes and basic financial support, which help young people to develop the confidence and skills they need to get a job or start a business.",
+  "recommendation": "**Summary** \n\n**To evaluate The Prince’s Trust under the SoGive rating methodology, we would need more information.**\n\n- The Prince’s Trust supports young people (aged 11-30), assisting them in obtaining or furthering their education, employment and entrepreneurial skills. \n-  To this end, the Prince’s Trust has a comprehensive list of course offerings, which offer assistance for those aged 11-30, who are seeking to move into work, education or training\n-  Based on their 2019/2020 Annual Report, we estimate a cost per beneficiary of around £800. This implies that, for The Prince\u0027s Trust to be cost-effective compared to the Gold Standard, their courses would, on average, have to double their participants\u0027 consumption for around 16 years (or increase it by 50% for around 32 years etc).\n- The Prince’s Trust’s programs are likely to have some positive effects on employability, lifetime earnings, and thus, consumption. However, with the current information, it is not possible to ascertain whether this change meets or exceeds the cost-effectiveness of the SoGive Gold Standard benchmarks.  \n- Information on the costs of specific programs, comprehensive impact assessments (both long and short term), and specific beneficiary figures for their smaller programmes and online programmes would enable further cost per beneficiary analysis. \n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebarl), we consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what The Prince’s Trust does - how they spend your donations**\n\nThe Prince’s Trust aims to help young people start businesses, get jobs, and build their confidence. To this end, The Prince’s Trust has a comprehensive list of course offerings, which offers assistance for those aged 11-30, who are seeking to move into work, education or training. The Prince’s Trust states that it has ten core programmes, as well as various local programmes and pilot programmes. Over the 2019/2020 financial year, The Prince’s Trust spent a total of £77.3m. Of this, £62.1m was charitable expenditure, and the remaining £15.1m was spent on raising funds. \n\nOut of the charitable expenditure, the vast majority of it was spent by The Prince’s Trust (UK), which expended £57.1m (approximately 92% of the total charitable expenditure), on the various aforementioned programs. Specifically, in the 2019/2020 financial year, The Prince’s Trust’s expenditure went towards providing places in courses, as enumerated below: \n- Achieve, a programme that assists young people who may be facing difficulties in the mainstream education system, or who have been excluded, is the Prince’s Trust’s largest programme in terms of participant figures. 27,223 places were provided, at a cost of £8.5m (15% of charitable expenditure in the UK). \n- Team, a \"12-week personal development programme which includes outdoor activities, work experience and a community project\", helps young people develop self-confidence and build friendships. 10,335 places were provided, requiring the expenditure of £4.7m (8%). \n- The Enterprise programme, which offers training, mentoring and grants for potential entrepreneurs, saw 9144 participants, and required expenditure of £9.9m (17%).\n- ‘Get into’ is a programme delivered in partnership with employers and training providers, which seeks to provide young people with the training and experience needed to find entry-level positions across various employment sectors. This required expenditure of £11.2m (20%), allowing for the provision of 4,931 places on the course. \n- 2,799 places were offered in Get Started (£5.1m, 9%), which consists of short courses that motivate and support young people into pursuing further education, training or employment. \n- 1,687 places were offered in the Explore programme (£7.7m, 13.5%), which is a flexible one-to-one programme tailored to the beneficiary’s individual needs, aiming to bring structure and stability to young people’s lives. \n- 5,093 grants were provided through the Development Awards (£2.9m, 5%), which assist young people in accessing education, training or employment. \n- £7.2m (13%) was spent on local programmes and pilots, which presumably include Mosaic and the Enterprise Challenge and Get Hired. Mosaic (4,369 places) is a school-based mentoring programme, which aims to improve confidence, resilience and long-term employability. The Enterprise Challenge is its associated inter-school competition. Get Hired (no participation figures available) consists of short programmes assisting youth in getting through the selection process, and into jobs. \n\nThe Prince’s Trust also provides Employability Online, which is a collection of programme resources, including \"CV writing, interview skills, and … [work] tips\". Although no participation figures for 2019/2020 are available, the 2020/2021 Impact Report states that online course delivery was critical to its impact during COVID-19; 83% of youth supported outside of the UK (around 11 thousand people) were reached via online courses and resources.  \n\nThe Prince’s Trust also has subsidiaries in America, Australia, Canada, New Zealand, and an International group. However, their expenditure is relatively minor (just over 6.4% of total charitable expenditure), and much of their work, whilst likely valuable, is of a much smaller scale than its key programmes, which are located in the UK. Due to this, and the lack of clear impact reports for the subsidiaries, this analysis focuses on the UK activities of the Prince’s Trust. \n\n**Cost-effectiveness analysis - how does The Prince’s Trust compare to the most cost-effective charities?**\n\nAfter a review of The Prince’s Trust, under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as doubling someone’s consumption (spending) for a year for £50, or averting one year of severe depression for £200) and also provide robust evidence on the effectiveness of their work. \n\nGiven the figures above, we can derive rough cost per beneficiary figures for each programme: \n- Achieve - £312 per participant\n- Team - £455 per participant \n- Enterprise - £1083 per participant \n- Get into - £2271 per participant \n- Explore - £4564 per participant \n- Get started - £1822 per participant \n- Development Awards - £569 per participant \n- Local programmes and grants - uncertain (due to lack of specific impact figures) \n\nAlternatively, using the total number of young people assisted in the UK during 2019/20 (70,181), we can come to a rough overall cost per beneficiary of £813. The cost per course place provided (72,449, accounting for young people who took part in more than one course, and those receiving ongoing support) amounts to £788. This implies that, for The Prince\u0027s Trust to be cost-effective compared to the Gold Standard of doubling consumption for £50 per year, their courses would, on average, have to double their participants\u0027 consumption for around 16 years (or increase it by 50% for around 32 years etc). Moreover (discussed in depth later), if there are economic losers, then the benefit to participants would have to be even higher. \n\nWorking out whether this meets the applicable SoGive Gold Standard benchmark is difficult, as much The Prince’s Trust’s work revolves around assisting young people into further education - deriving even rough figures for how much this increases their lifetime income by is a complex task. This is due to difficulties estimating the counterfactual (i.e. the level of educational attainment achieved without The Prince’s Trust’s work), especially since it is possible that in the absence of The Prince’s Trust, other relevant charities or institutions may have provided similar assistance. Moreover, The Prince’s Trust’s beneficiaries are likely quite heterogeneous, given the scope of its activities, and the fact that certain programs target individuals facing different levels of adversity, and thus, different probabilities of independently managing to make it into the world of work. Thus, whether The Prince’s Trust meets the Gold Standard benchmarks depends heavily upon the improvements that these programs bring to beneficiaries, over the course of their lifetimes. \n\nMoreover, we have to factor in the nonmaterial improvements that The Prince’s Trust brings to its beneficiaries - many of them face great difficulties in their lives, and so it isn’t unreasonable to assume that participation in some of these programs brings a measure of positive psychological wellbeing (ie. including potential alleviation of depression) to the participants. However, again, we have no figures by which to evaluate these emotional improvements, although glowing reviews and testimonials suggest that at least some people benefit greatly in this respect. Thus, to properly evaluate the charity, we would need more figures surrounding the lifetime income increases arising from such programme participation, and a measure of the improvement in psychological wellbeing that arises from such programmes. \n\nGiven The Prince’s Trust’s long history and generally high level of funding, it most likely has the capacity to employ economists/analysts to estimate a range of relevant outcome measures - at the very least how much they improve short-term educational outcomes or reduce short-term unemployment. As an extension on that, The Prince’s Trust could also feasibly report evidence relating to longer-term income, and perhaps even overall wellbeing. This wouldn\u0027t even have to be an analysis of their own programmes - they could draw on randomised controlled trials (RCTs) and other studies done elsewhere, and demonstrate that they were implementing their programs in a similar way to those done in the studies. Given their resources, they may even have the capacity to run their own RCTs.\n\nAdmirably, The Prince’s Trust has reports which attempts to quantify some of the cumulative benefits of its programs, over the last 10 years, taking into account both direct effects and flow-on effects (ie. indirect effects that arise from the direct effects). This is estimated at £1.4 billion in value delivered to society over 10 years; extremely rudimentary maths (not accounting for the probable growth in the scale and impact of operations year-on-year) suggests that this implies at least £140m in value creation per year. However, one critical consideration is whether there are any economic losers. For example, are there people who are losing out, because they’ve lost job opportunities to people who have been aided by The Prince’s Trust’s programs? In the absolute worst case scenario, this would mean no net gain in employment and earnings across the population as a whole. This would imply that the charity\u0027s programs have zero productivity benefits. In reality, there are likely to be at least some productivity benefits, but the possibility of economic losers could effectively reduce the overall impact of the charity. With the existing information, it is not possible to ascertain with existing figures whether it is achieving outcomes comparable to the SoGive Gold Standard benchmarks of effectiveness per pound donated.  \n\nFurther information that would enable us to form a fuller opinion of the work of The Prince’s Trust would be:\n(a) more comprehensive picture of the costs involved in delivering their work (eg. the cost of specific programs in the local/pilot programme section)\n(b) more comprehensive impact assessments, both in quantity and depth (the extent to which people in need have been helped, eg. lifetime income improvement, nonmaterial benefits such as mental health improvements)\n(c) more comprehensive picture about the number of people benefiting from their smaller programs, and online programs \n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nTo evaluate The Prince’s Trust under the SoGive rating methodology, we would need more information.\n",
+  "whyTags": "Children, young people, young adults",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-The__Princes__Trust.svg-14504134976233229155.png#ccrop:90",
+  "@id": "prince-s-trust",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Prince%27s_Trust",
+  "summaryDescription": "The Prince\u0027s Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/ptp-6463648908077869373.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Prince\u0027s Trust",
+    "prince-s-trust"
+  ],
+  "url": "https://www.princes-trust.org.uk/",
+  "howTags": "direct work, training, community support",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "young people supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 9458390,
+      "value": "945.839010585892409342000"
+    }
+  },
+  "whoTags": "Children, young people",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Prince\u0027s Trust",
+  "englandWalesCharityRegNum": "1079675",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, England, Wales, Scotland, Northern Ireland",
+  "status": "PUBLISHED"
+}
