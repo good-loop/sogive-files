@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Homeless Prenatal Program",
-  "logo": "https://media.good-loop.com/uploads/standard/HPP3colorlogo3-2817779338170734988.png",
-  "id": "homeless-prenatal-program",
+  "displayName": "Convoy Of Hope",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-color-3397996445408551220.svg#ccrop:90",
+  "id": "convoy-of-hope",
   "suggest": [
-    "Homeless Prenatal Program"
+    "Convoy Of Hope"
   ],
-  "url": "https://www.homelessprenatal.org/",
+  "url": "https://convoyofhope.org/",
   "status": "DRAFT"
 }
