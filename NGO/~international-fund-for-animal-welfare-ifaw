@@ -563,7 +563,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "983957",
+          "currency": "GBP",
+          "value100p": 9.83957E9,
+          "value": 983957.0
         }
       ],
       "name": "Disaster Response and Risk"
