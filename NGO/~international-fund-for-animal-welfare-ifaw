@@ -600,7 +600,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "814332",
+          "currency": "GBP",
+          "value100p": 8.14332E9,
+          "value": 814332.0
         }
       ],
       "name": "International Policy"
