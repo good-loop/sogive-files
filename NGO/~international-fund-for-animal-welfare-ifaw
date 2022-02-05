@@ -1,0 +1,376 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/534/attachment/original/uk-annual-report-2019.pdf"
+        }
+      ],
+      "start_raw": "2020-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3574862",
+          "currency": "GBP",
+          "value100p": 3.574862E10,
+          "value": 3574862.0
+        }
+      ],
+      "name": "Landscape Conservation",
+      "start": "2020-07-01",
+      "end": "2020-06-30",
+      "end_raw": "2020-06-30",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 898.0,
+          "name": "trainees"
+        },
+        {
+          "number": 16498.0,
+          "name": "kilograms of ivory and pangolin scales seized"
+        },
+        {
+          "number": 34.0,
+          "name": "kilograms of rhino horn seized"
+        },
+        {
+          "number": 10.0,
+          "name": "wildlife crime awareness events"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2769082",
+          "currency": "GBP",
+          "value100p": 2.769082E10,
+          "value": 2769082.0
+        }
+      ],
+      "name": "Wildlife Crime"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4912578",
+          "currency": "GBP",
+          "value100p": 4.912578E10,
+          "value": 4912578.0
+        }
+      ],
+      "name": "Wildlife Rescue"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3123148",
+          "currency": "GBP",
+          "value100p": 3.123148E10,
+          "value": 3123148.0
+        }
+      ],
+      "name": "Marine Conservation"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2068597",
+          "currency": "GBP",
+          "value100p": 2.068597E10,
+          "value": 2068597.0
+        }
+      ],
+      "name": "Community Engagement"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d1jyxxz9imt9yb.cloudfront.net/resource/582/attachment/regular/FY19_UK_Charity_Financial_Statements.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2020-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "19079727",
+          "currency": "GBP",
+          "value100p": 1.9079727E11,
+          "value": 1.9079727E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Page 34 of financial statement document"
+        },
+        "reserves": {
+          "notes": "total funds 2019, check note 17 on document"
+        }
+      },
+      "name": "overall",
+      "start": "2020-07-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "12103325",
+        "currency": "GBP",
+        "value100p": 1.2103325E11,
+        "value": 1.2103325E7
+      },
+      "end": "2020-06-30",
+      "end_raw": "2020-06-30"
+    }
+  ],
+  "@type": "NGO",
+  "description": "The International Fund for Animal Welfare is one of the largest animal welfare and conservation charities in the world. The organization works to rescue individual animals, safeguard populations, preserve habitat, and advocate for greater protections.",
+  "recommendation": "**To evaluate the International Fund for Animal Welfare under the SoGive rating methodology, we would need more information.**\n\nThe International Fund for Animal Welfare is one of the largest animal welfare and conservation charities in the world. The organization works to rescue individual animals, safeguard populations, preserve habitat, and advocate for greater protections.\n\n\n**More about what International Fund for Animal Welfare does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis or form opinions about their work under the SoGive methodology.\n\nThis is because, in their annual report, the International Fund for Animal Welfare allocates their expenditure to a very wide variety of activities. Their work constitutes hundreds of varying contributions to individual projects that further the mission of the International Fund for Animal Welfare. \n\nWe don\u0027t how much exactly each activity cost and the impact assessment of them.\n\n**Benchmarking**\n\nHaving reviewed the work of the International Fund for Animal Welfare under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nBased on the information from the 2019 annual report, it is not possible to focus on a single charitable activity since there is no predominant activity to evaluate. It\u0027s very possible that the impact of the marginal pound donated to the International Fund for Animal Welfare could be related to any of the charitable activities IFAW support, which could have a different level of impactfulness. We cannot provide the cost-effectiveness assessment for a donated pound allocated to the International Fund for Animal Welfare projects.\n\n\n**Conclusion**\n\nFurther information that would enable us to form a fuller opinion of the work of the International Fund for Animal Welfare would be a more concise and quantifiable impact assessment on the different activities they support.",
+  "whyTags": "animal rescue, land conservation",
+  "imageCaption": "Working with the GRI-Elephant Orphanage Project (EOP), an NGO based in Zambia, IFAW helped develop and operate the IFAW-EOP. As the first elephant orphanage in Southern Africa, it\u0027s focused on returning elephants to the wild. Our teams take orphaned Zambian elephants out for regular walks, put them on consistent feeding schedules, and watch over them while they sleep.",
+  "ready": false,
+  "modified": true,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ifaw_logo.png",
+  "@id": "international-fund-for-animal-welfare-ifaw",
+  "wikipedia": "https://en.wikipedia.org/wiki/International_Fund_for_Animal_Welfare",
+  "summaryDescription": "The International Fund for Animal Welfare works to advance the welfare of animals and conservation of their habitats throughout the world.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/10222083806261236facebook/ifaw__zambia-8720592648324290849.png",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "INTERNATIONAL FUND FOR ANIMAL WELFARE (IFAW)",
+    "international-fund-for-animal-welfare-ifaw"
+  ],
+  "url": "https://www.ifaw.org/uk",
+  "howTags": "Direct work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "INTERNATIONAL FUND FOR ANIMAL WELFARE (IFAW)",
+  "category": "animals",
+  "englandWalesCharityRegNum": "1024806",
+  "whereTags": "UK, Africa, Australia, America, Worldwide",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
