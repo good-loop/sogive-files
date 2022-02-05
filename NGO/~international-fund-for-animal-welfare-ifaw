@@ -627,6 +627,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "221339",
+          "currency": "GBP",
+          "value100p": 2.21339E9,
+          "value": 221339.0
         }
       ],
       "name": "Marine Mammal Rescue and Research"
