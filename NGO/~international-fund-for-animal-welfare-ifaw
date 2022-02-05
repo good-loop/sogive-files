@@ -489,10 +489,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "3349",
+          "raw": "3349701",
           "currency": "GBP",
-          "value100p": 3.349E7,
-          "value": 3349.0
+          "value100p": 3.349701E10,
+          "value": 3349701.0
         }
       ],
       "name": "Wildlife Rescue"
@@ -515,6 +515,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
