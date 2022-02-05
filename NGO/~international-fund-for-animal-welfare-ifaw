@@ -452,7 +452,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "1498326",
+          "currency": "GBP",
+          "value100p": 1.498326E10,
+          "value": 1498326.0
         }
       ],
       "name": "Marine Conservation"
