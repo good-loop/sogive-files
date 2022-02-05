@@ -526,7 +526,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "2973988",
+          "currency": "GBP",
+          "value100p": 2.973988E10,
+          "value": 2973988.0
         }
       ],
       "name": "Wildlife Crime"
