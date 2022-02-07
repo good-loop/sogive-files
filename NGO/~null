@@ -1,11 +1,19 @@
 {
+  "circleCrop": 97.0,
+  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
   "@type": "NGO",
-  "displayName": "Convoy Of Hope",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-color-3397996445408551220.svg#ccrop:90",
-  "id": "convoy-of-hope",
+  "displayName": "Eden Reforestation Projects",
+  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
   "suggest": [
-    "Convoy Of Hope"
+    "Eden Reforestation Projects"
   ],
-  "url": "https://convoyofhope.org/",
-  "status": "DRAFT"
+  "url": "https://edenprojects.org/",
+  "UNSDG": "13",
+  "whyTags": "environment",
+  "logo": "https://media.good-loop.com/uploads/standard/MM__TrumpEarth__EdenLogo-7782664227770815900.png",
+  "id": "eden-reforestation-projects",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "summaryDescription": "Plant Trees. Save Lives.",
+  "status": "PUBLISHED"
 }
