@@ -5,6 +5,7 @@
     {
       "outputs": [
         {
+          "number": 1.0,
           "name": "tree(s)",
           "costPerBeneficiary": {
             "@type": "Money",
