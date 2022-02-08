@@ -1,0 +1,117 @@
+{
+  "ukCompanyRegNum": "03779545",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1000000.0,
+          "meta": {
+            "all": {
+              "notes": "Curiously the 2018 accounts (http://apps.charitycommission.gov.uk/Accounts/Ends56/0001135156_AC_20180331_E_C.pdf) only refer to \u003c1 million trees planted, but the 2015 accounts (http://apps.charitycommission.gov.uk/Accounts/Ends56/0001135156_AC_20150331_E_C.pdf) refer to 2.3 million trees planted, and only a slightly smaller total spend, so not sure what\u0027s happening there."
+            }
+          },
+          "confidence": "low",
+          "name": "Tree(s) Planted",
+          "description": "This refers to trees planted or grown in various African countries."
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "3,668,773",
+          "currency": "GBP",
+          "value100p": 3.668773E10,
+          "value": 3668773.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "4446",
+          "currency": "GBP",
+          "value100p": 4.446E7,
+          "value": 4446.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "raw": "993",
+          "currency": "GBP",
+          "value100p": 9930000.0,
+          "value": 993.0
+        }
+      ],
+      "start": "2017-03-31",
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends56/0001135156_AC_20150331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-03-31",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": "",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "TREE AID was established in 1987 by a group of foresters in response to the famine in Africa brought to public attention by Band Aid and Live Aid. Its aim was to provide a long-term solution to the challenges of poverty and environmental decline once the emergency relief efforts ended. TREE AID\u0027s founders - inspired by the Chipko and Greenbelt movement in India and Kenya respectively - believed that community forestry could ensure that people in rural Africa\u0027s drylands were less vulnerable to drought and famine in future. Drawing on the ideas of thinkers and practitioners such as E F Schumacher and Robert Chambers, TREE AID\u0027s work is informed by the notion that small-scale development, appropriate to local culture and environment that puts poor people\u0027s needs first, is essential to the success and sustainability of any intervention to alleviate poverty. This thinking still informs the charity\u0027s work today.\n\nTREE AID has offices in Bristol, UK, in Ouagadougou, Burkina Faso, in Mali, in Ethiopia and in Ghana. It currently has programmes running in Burkina Faso, Ethiopia, Ghana, Mali and Niger. ",
+  "recommendation": "Planting trees will help with the growing issue of deforestation and the resulting impacts on the environment. £3.66 seems like a reasonable cost to plant a single tree. However, there is question of whether the countries/communities in which the trees planted would have happened without an intervention. It is also not possible to break down the total impact of spending by project or country. ",
+  "whyTags": "Climate change, Trees",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/tree-aid-logo-801904986909553785.png#ccrop:122",
+  "@id": "tree-aid",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tree_Aid",
+  "summaryDescription": "TREE AID is an international development organisation which focuses on unlocking the potential of trees to reduce poverty and protect the environment in Africa. ",
+  "uptodatedraft": "probably",
+  "images": "https://knowhow.ncvo.org.uk/funding/assets/TreeAid1bridgingloan.JPG/image",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Tree Aid",
+    "tree-aid"
+  ],
+  "url": "https://www.treeaid.org.uk/",
+  "howTags": "Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Tree(s) Planted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 36633,
+      "value": "3.6633340"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Tree Aid",
+  "englandWalesCharityRegNum": "1135156",
+  "uk_giftaid": true,
+  "whereTags": "Burkina Faso, Ethiopia, Ghana, Mali and Niger",
+  "status": "PUBLISHED"
+}
