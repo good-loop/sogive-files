@@ -1,0 +1,19 @@
+{
+  "scotlandCharityRegNum": "SC038331",
+  "color": "#006bff",
+  "@type": "NGO",
+  "displayName": "The Art Fund",
+  "suggest": [
+    "National Art Collections Fund",
+    "The Art Fund",
+    "national-art-collections-fund"
+  ],
+  "url": "https://www.artfund.org/",
+  "name": "National Art Collections Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/art_fund.png#ccrop:90",
+  "@id": "national-art-collections-fund",
+  "lastModified": "2020-10-28T13:07:46Z",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
