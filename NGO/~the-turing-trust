@@ -1,0 +1,95 @@
+{
+  "scotlandCharityRegNum": "SC046150",
+  "images": "https://app.sogive.org/uploads/10101530321497487facebook/TuringTrustPhoto-8379978891835166076.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 16200.0,
+          "meta": {
+            "all": {
+              "notes": "They are aware of the computer rooms installed which is 28 African classrooms with computers enabling these schools to begin\n adequately teaching IT skills. They also work on training also which contributes to level of confidence around this number."
+            }
+          },
+          "name": "people (singular: person) taught digital skills from donated computers",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "5.78",
+            "currency": "GBP",
+            "value100p": 57800.0,
+            "value": 5.78
+          }
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "93681",
+          "currency": "GBP",
+          "value100p": 9.3681E8,
+          "value": 93681.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "",
+          "currency": "GBP",
+          "value100p": 0.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "We may have trading costs of 14,191 but it is unclear if this is the case."
+        }
+      },
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "more-info-needed-promising",
+  "confidence": "medium",
+  "description": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
+  "suggest": [
+    "The Turing Trust",
+    "the-turing-trust"
+  ],
+  "url": "www.turingtrust.co.uk",
+  "whyTags": "education",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) taught digital skills from donated computers",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 57800,
+      "value": "5.78"
+    }
+  },
+  "ready": true,
+  "name": "The Turing Trust",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/10101530321497487facebook/Turing_Trust-5742973618326953979.jpg",
+  "@id": "the-turing-trust",
+  "summaryDescription": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
+  "englandWalesCharityRegNum": "1156687",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "whereTags": "Africa, Developing world",
+  "status": "PUBLISHED"
+}
