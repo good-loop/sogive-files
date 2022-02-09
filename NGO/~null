@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Turn2US",
   "name": "Turn2US",
   "id": "turn2us",
   "suggest": [
+    "Turn2US",
     "Turn2US"
   ],
   "status": "DRAFT"
