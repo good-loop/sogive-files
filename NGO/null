@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Coach Bright",
-  "logo": "https://media.good-loop.com/uploads/standard/CoachBright-14637464908443653309.png#ccrop:90",
-  "id": "coach-bright",
+  "displayName": "ChangeMakers",
+  "name": "ChangeMakers",
+  "logo": "https://media.good-loop.com/uploads/standard/Changemakers-8065477684484601088.png#ccrop:112",
+  "id": "changemakers",
   "suggest": [
-    "Coach Bright"
+    "ChangeMakers",
+    "ChangeMakers"
   ],
-  "category": "education",
-  "url": "https://www.coachbright.org/",
+  "url": "https://www.changemakers.com/",
   "status": "DRAFT"
 }
