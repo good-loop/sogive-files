@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Turn2US",
   "id": "turn2us",
-  "suggest": []
+  "suggest": [
+    "Turn2US"
+  ],
+  "status": "DRAFT"
 }
