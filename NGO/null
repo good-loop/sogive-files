@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "ChangeMakers",
-  "name": "ChangeMakers",
-  "logo": "https://media.good-loop.com/uploads/standard/Changemakers-8065477684484601088.png#ccrop:112",
-  "id": "changemakers",
+  "displayName": "Turn2US",
+  "name": "Turn2US",
+  "logo": "https://media.good-loop.com/uploads/standard/turn2us-5400692291458388456.png",
+  "id": "turn2us",
   "suggest": [
-    "ChangeMakers",
-    "ChangeMakers"
+    "Turn2US",
+    "Turn2US"
   ],
-  "url": "https://www.changemakers.com/",
+  "url": "https://www.turn2us.org.uk/",
   "status": "DRAFT"
 }
