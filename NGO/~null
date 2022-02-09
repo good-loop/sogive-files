@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "ChangeMakers",
+  "name": "ChangeMakers",
   "id": "changemakers",
-  "suggest": []
+  "suggest": [
+    "ChangeMakers",
+    "ChangeMakers"
+  ],
+  "status": "DRAFT"
 }
