@@ -700,7 +700,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "7707000",
+          "currency": "GBP",
+          "value100p": 7.707E10,
+          "value": 7707000.0
         }
       ],
       "name": "Better Care "
