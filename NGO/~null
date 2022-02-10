@@ -1,6 +1,6 @@
 {
   "@type": "NGO",
-  "unlisted": true,
+  "unlisted": false,
   "id": "testing-testing",
   "suggest": [],
   "status": "DRAFT"
