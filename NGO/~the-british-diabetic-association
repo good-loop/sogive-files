@@ -718,6 +718,11 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
       "name": "Prevention "
