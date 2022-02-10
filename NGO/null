@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Turn2US",
-  "name": "Turn2US",
-  "logo": "https://media.good-loop.com/uploads/standard/turn2us-5400692291458388456.png",
-  "id": "turn2us",
+  "name": "feeding-america",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:90",
+  "id": "feeding-america",
   "suggest": [
-    "Turn2US",
-    "Turn2US"
+    "feeding-america"
   ],
-  "url": "https://www.turn2us.org.uk/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
