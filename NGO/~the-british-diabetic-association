@@ -669,10 +669,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "6,772",
+          "raw": "6772000",
           "currency": "GBP",
-          "value100p": 6.772E7,
-          "value": 6772.0
+          "value100p": 6.772E10,
+          "value": 6772000.0
         }
       ],
       "name": "Living Well "
