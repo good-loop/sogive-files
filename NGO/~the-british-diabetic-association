@@ -780,7 +780,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "161000",
+          "currency": "GBP",
+          "value100p": 1.61E9,
+          "value": 161000.0
         }
       ],
       "name": "Remission "
