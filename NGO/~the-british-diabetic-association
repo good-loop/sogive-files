@@ -817,10 +817,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "9,689",
+          "raw": "9689000",
           "currency": "GBP",
-          "value100p": 9.689E7,
-          "value": 9689.0
+          "value100p": 9.689E10,
+          "value": 9689000.0
         }
       ],
       "name": "Raising Funds "
