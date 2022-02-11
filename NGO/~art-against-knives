@@ -73,11 +73,13 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Art Against ",
   "impact": "more-info-needed",
   "confidence": "medium",
   "description": "[Art against knives](https://www.artagainstknives.com/) embeds creative spaces in London’s most isolated communities, to provide skills training, mentoring, and specialist support for young people.",
   "suggest": [
     "",
+    "Art Against ",
     "art-against-knives"
   ],
   "url": "https://www.artagainstknives.com/",
