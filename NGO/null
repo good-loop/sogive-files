@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "feeding-america",
-  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:85",
-  "id": "feeding-america",
+  "displayName": "Lives Not Knives",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-15565031897297654993.svg#ccrop:70",
+  "id": "lives-not-knives",
   "suggest": [
-    "feeding-america"
+    "Lives Not Knives"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
