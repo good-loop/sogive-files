@@ -1,0 +1,13 @@
+{
+  "scotlandCharityRegNum": "SC012235",
+  "@type": "NGO",
+  "name": "RCA Trust",
+  "@id": "rca-trust",
+  "suggest": [
+    "RCA Trust",
+    "rca-trust"
+  ],
+  "url": "https://www.rcatrust.com",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
