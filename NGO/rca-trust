@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC012235",
+  "images": "https://media.good-loop.com/uploads/standard/12-1-2707465706318764787.jpg",
+  "@type": "NGO",
+  "name": "RCA Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/12-1-4099112186645164366.jpg",
+  "@id": "rca-trust",
+  "suggest": [
+    "RCA Trust",
+    "rca-trust"
+  ],
+  "url": "https://www.rcatrust.com",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
