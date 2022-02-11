@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Lives Not Knives",
   "id": "lives-not-knives",
-  "suggest": [],
+  "suggest": [
+    "Lives Not Knives"
+  ],
   "status": "DRAFT"
 }
