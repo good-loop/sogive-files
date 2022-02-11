@@ -1,0 +1,116 @@
+{
+  "images": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-24_at_15.49.49-2412375385938581137.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 3800.0,
+          "meta": {
+            "all": {
+              "notes": "this is 800 hours of creative training + 3000 hours of specialist support "
+            }
+          },
+          "confidence": "medium",
+          "name": "training hour(s) provided"
+        },
+        {
+          "number": 318.0,
+          "meta": {
+            "all": {
+              "notes": "all numbers from page 4. "
+            }
+          },
+          "confidence": "medium",
+          "name": "person(s) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001140866_AC_20181231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9726783\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3DArt%2Bagainst%2BKnives%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5015131"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "288,030",
+          "currency": "GBP",
+          "value100p": 2.8803E9,
+          "value": 288030.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "Issue solved"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "44368",
+        "currency": "GBP",
+        "value100p": 4.4368E8,
+        "value": 44368.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Art Against Knives",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "description": "[Art against knives](https://www.artagainstknives.com/) embeds creative spaces in London’s most isolated communities, to provide skills training, mentoring, and specialist support for young people.",
+  "suggest": [
+    "",
+    "Art Against Knives",
+    "art-against-knives"
+  ],
+  "url": "https://www.artagainstknives.com/",
+  "whyTags": "Violence, Youth",
+  "howTags": "Direct Work ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "training hour(s) provided",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 757973,
+      "value": "75.7973684210526300630"
+    }
+  },
+  "meta": {
+    "impact": {
+      "notes": "It seems they measure their impact but it\u0027s not in the public domain. On their Our Impact page, they ask to be contacted for further details"
+    }
+  },
+  "name": "",
+  "logo": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-24_at_15.49.10-17163551335040724543.png",
+  "@id": "art-against-knives",
+  "lastModified": "2020-12-13T16:17:34Z",
+  "id": "art-against-knives",
+  "englandWalesCharityRegNum": "1140866",
+  "summaryDescription": "[Art against knives](https://www.artagainstknives.com/) prevents young people from becoming victims or perpetrators of violent crime by embedding creative spaces in their communities.",
+  "whereTags": "London",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
