@@ -369,7 +369,12 @@
       "end_raw": "2018-12-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 311.0,
+          "name": "animal cared for"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
