@@ -372,6 +372,7 @@
       "outputs": [
         {
           "number": 3114.0,
+          "confidence": "medium",
           "name": "animal cared for"
         }
       ],
