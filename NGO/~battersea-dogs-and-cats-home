@@ -488,6 +488,37 @@
       },
       "name": "Care of Dogs and Cats",
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9400000",
+          "currency": "GBP",
+          "value100p": 9.4E10,
+          "value": 9400000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Campaigning and Awareness"
     }
   ],
   "@type": "NGO",
@@ -520,8 +551,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 127521351,
-      "value": "12752.13512539749513457115262308691792000"
+      "value100p": 99116121,
+      "value": "9911.61213538004365583247246040659192000"
     }
   },
   "whoTags": "Animals",
