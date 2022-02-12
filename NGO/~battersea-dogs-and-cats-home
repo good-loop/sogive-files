@@ -398,15 +398,12 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "raw": "584000",
-          "currency": "GBP",
-          "value100p": 5.84E9,
-          "value": 584000.0
+          "currency": "GBP"
         }
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "The income from be"
+          "notes": ""
         }
       },
       "name": "overall",
@@ -501,8 +498,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 98340047,
-      "value": "9834.0047384224880085827394908571952000"
+      "value100p": 99760541,
+      "value": "9976.05417614790753582526662793061728000"
     }
   },
   "whoTags": "Animals",
@@ -517,5 +514,5 @@
   "englandWalesCharityRegNum": "206394",
   "whereTags": "South East England, London, Battersea, Berkshire, Kent, United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
