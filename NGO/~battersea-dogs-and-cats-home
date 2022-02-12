@@ -373,7 +373,15 @@
         {
           "number": 3114.0,
           "confidence": "medium",
-          "name": "animal(s) cared for"
+          "name": "animal(s) cared for",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "10,533",
+            "currency": "",
+            "value100p": 1.0533E8,
+            "value": 10533.0
+          }
         }
       ],
       "data-src": [
