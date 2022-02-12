@@ -104,7 +104,12 @@
       "name": "project2"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "test unit 3"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
