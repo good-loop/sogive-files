@@ -481,6 +481,11 @@
           "value": 0.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "annual cost includes proportionate amount of support and fundraising costs."
+        }
+      },
       "name": "Care of Dogs and Cats",
       "isRep": true
     }
