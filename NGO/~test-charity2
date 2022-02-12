@@ -1,0 +1,142 @@
+{
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1000",
+          "currency": "GBP",
+          "value100p": 1.0E7,
+          "value": 1000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2500.0,
+          "name": "output"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1000000",
+          "currency": "GBP",
+          "value100p": 1.0E10,
+          "value": 1000000.0
+        }
+      ],
+      "name": "project1"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1000000",
+          "currency": "GBP",
+          "value100p": 1.0E10,
+          "value": 1000000.0
+        }
+      ],
+      "name": "project2"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2000000",
+          "currency": "GBP",
+          "value100p": 2.0E10,
+          "value": 2000000.0
+        }
+      ],
+      "name": "project3"
+    }
+  ],
+  "@type": "NGO",
+  "name": "test charity2",
+  "recommendation": "**First sentence test - this should be bold**\n\nThis is a test of SoGive’s systems!\n\nTest Charity 2\n\n6th update test\n\n**Conclusion**\n\nFinal sentence",
+  "@id": "test-charity2",
+  "suggest": [
+    "test charity2",
+    "test-charity2"
+  ],
+  "status": "DRAFT"
+}
