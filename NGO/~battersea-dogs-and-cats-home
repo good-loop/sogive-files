@@ -497,10 +497,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "9400000",
+          "raw": "9376000",
           "currency": "GBP",
-          "value100p": 9.4E10,
-          "value": 9400000.0
+          "value100p": 9.376E10,
+          "value": 9376000.0
         },
         {
           "@type": "Money",
@@ -551,8 +551,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 99116121,
-      "value": "9911.61213538004365583247246040659192000"
+      "value100p": 99172522,
+      "value": "9917.25227885617080833928654965624184000"
     }
   },
   "whoTags": "Animals",
