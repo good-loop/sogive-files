@@ -554,6 +554,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "This category includes "
+        }
+      },
       "name": "Grant Giving and Academy"
     }
   ],
