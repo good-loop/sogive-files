@@ -406,7 +406,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "In this case, the income from beneficiaries comes from animal sales and claim"
+          "notes": "In this case, the income from beneficiaries comes from \"animal sales and claim fees.\""
         }
       },
       "name": "overall",
