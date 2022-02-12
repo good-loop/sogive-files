@@ -1,0 +1,56 @@
+{
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "test unit(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 10000000,
+      "value": "1000.0"
+    }
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5.0,
+          "name": "test unit(s)"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "5000",
+          "currency": "GBP",
+          "value100p": 5.0E7,
+          "value": 5000.0
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "ready": true,
+  "name": "test charity1",
+  "@id": "test-charity1",
+  "suggest": [
+    "test charity1",
+    "test-charity1"
+  ],
+  "status": "MODIFIED"
+}
