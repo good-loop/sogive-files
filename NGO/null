@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Steel Warriors",
-  "logo": "https://media.good-loop.com/uploads/standard/Steel-Warriors-3106539284089299565.jpg#ccrop:90",
-  "id": "steel-warriors",
+  "displayName": "Testing Testing Testing ",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Burger__King__logo__1999-14469225609522704880.svg",
+  "id": "testing-testing-testing",
   "suggest": [
-    "Steel Warriors"
+    "Testing Testing Testing "
   ],
   "status": "DRAFT"
 }
