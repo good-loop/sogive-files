@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Testing Testing Testing ",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Burger__King__logo__1999-14469225609522704880.svg",
-  "id": "testing-testing-testing",
-  "suggest": [
-    "Testing Testing Testing "
-  ],
-  "status": "DRAFT"
+  "id": "greening-taupo",
+  "suggest": []
 }
