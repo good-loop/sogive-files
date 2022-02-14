@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Greening Taupo",
-  "logo": "https://media.good-loop.com/uploads/standard/GT__HORIZONTAL__RGB__BADGE__TAGLINE__SML-7737760569774665372.jpg#ccrop:90",
-  "id": "greening-taupo",
+  "displayName": "Save the Kiwi",
+  "logo": "https://media.good-loop.com/uploads/standard/Save-the-Kiwi-2-14786219476498774318.jpg",
+  "id": "save-the-kiwi",
   "suggest": [
-    "Greening Taupo"
+    "Save the Kiwi"
   ],
-  "url": "https://www.greeningtaupo.org.nz/",
+  "url": "https://www.savethekiwi.nz/",
   "status": "DRAFT"
 }
