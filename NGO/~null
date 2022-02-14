@@ -1,10 +1,17 @@
 {
+  "color": "#000000",
   "@type": "NGO",
-  "displayName": "Lives Not Knives",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-15565031897297654993.svg#ccrop:59",
-  "id": "lives-not-knives",
+  "displayName": "National Geographic Society",
+  "name": "National Geographic Society",
+  "logo": "https://media.good-loop.com/uploads/standard/nat_geo-17940010659672845382.png#ccrop:90",
+  "description": "The National Geographic Society uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world.",
+  "id": "national-geographic",
   "suggest": [
-    "Lives Not Knives"
+    "National Geographic Society",
+    "National Geographic Society"
   ],
-  "status": "PUBLISHED"
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "url": "https://www.nationalgeographic.org/",
+  "status": "MODIFIED"
 }
