@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Testing Testing Testing ",
+  "unlisted": true,
   "id": "testing-testing-testing",
   "suggest": [
     "Testing Testing Testing "
