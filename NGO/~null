@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Greening Taupo",
   "id": "greening-taupo",
-  "suggest": []
+  "suggest": [
+    "Greening Taupo"
+  ],
+  "status": "DRAFT"
 }
