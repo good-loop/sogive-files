@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Testing Testing Testing ",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Burger__King__logo__1999-14469225609522704880.svg",
-  "id": "testing-testing-testing",
+  "displayName": "Greening Taupo",
+  "logo": "https://media.good-loop.com/uploads/standard/GT__HORIZONTAL__RGB__BADGE__TAGLINE__SML-7737760569774665372.jpg#ccrop:90",
+  "id": "greening-taupo",
   "suggest": [
-    "Testing Testing Testing "
+    "Greening Taupo"
   ],
+  "url": "https://www.greeningtaupo.org.nz/",
   "status": "DRAFT"
 }
