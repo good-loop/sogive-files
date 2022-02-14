@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Save  The Kiwi",
   "id": "save-the-kiwi",
-  "suggest": []
+  "suggest": [
+    "Save  The Kiwi"
+  ],
+  "status": "DRAFT"
 }
