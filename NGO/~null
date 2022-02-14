@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Testing Testing Testing ",
   "id": "testing-testing-testing",
-  "suggest": []
+  "suggest": [
+    "Testing Testing Testing "
+  ],
+  "status": "DRAFT"
 }
