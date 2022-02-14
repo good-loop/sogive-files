@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Greening Taupo",
-  "logo": "https://media.good-loop.com/uploads/standard/GT__HORIZONTAL__RGB__BADGE__TAGLINE__SML-7737760569774665372.jpg#ccrop:90",
-  "id": "greening-taupo",
-  "suggest": [
-    "Greening Taupo"
-  ],
-  "status": "DRAFT"
+  "id": "save-the-kiwi",
+  "suggest": []
 }
