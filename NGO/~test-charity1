@@ -103,6 +103,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1750",
+          "currency": "GBP",
+          "value100p": 1.75E7,
+          "value": 1750.0
         }
       ],
       "name": "Project2"
