@@ -49,7 +49,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 5.0,
+          "name": "test unit1"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
