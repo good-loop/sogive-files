@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Save the Kiwi",
-  "logo": "https://media.good-loop.com/uploads/standard/Save-the-Kiwi-2-14786219476498774318.jpg",
-  "id": "save-the-kiwi",
-  "suggest": [
-    "Save the Kiwi"
-  ],
-  "url": "https://www.savethekiwi.nz/",
-  "status": "DRAFT"
+  "id": "the-fox-project",
+  "suggest": []
 }
