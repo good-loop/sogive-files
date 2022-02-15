@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "The Fox Project",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/logo-3887648369270936600.jpg",
-  "id": "the-fox-project",
-  "suggest": [
-    "The Fox Project"
-  ],
-  "url": "https://foxproject.org.uk/",
-  "status": "DRAFT"
+  "id": "world-food-programme",
+  "suggest": []
 }
