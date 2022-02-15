@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "World Food programme",
   "id": "world-food-programme",
-  "suggest": []
+  "suggest": [
+    "World Food programme"
+  ],
+  "status": "DRAFT"
 }
