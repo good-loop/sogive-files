@@ -1,0 +1,22 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/arbor_day-5886397153561431276.png",
+  "@type": "NGO",
+  "displayName": "Arbor Day Foundation",
+  "suggest": [
+    "Arbor Day Foundation",
+    "Arbor Day Foundation",
+    "arbor-day-foundation"
+  ],
+  "url": "https://www.arborday.org/",
+  "howTags": "trees",
+  "name": "Arbor Day Foundation",
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/ArborDayFoundation__Stacked__PMS349-7875804700953273616.png",
+  "@id": "arbor-day-foundation",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arbor_Day_Foundation",
+  "summaryDescription": "Trees provide the very necessities of life itself. They clean our air, protect our drinking water, create healthy communities, and feed the human soul. But these life necessities are threatened around the globe.\nTo address this, we’re launching an unprecedented undertaking: the Time for Trees initiative. Together, we can create change … through trees.",
+  "uptodatedraft": "probably",
+  "whereTags": "USA",
+  "status": "PUBLISHED",
+  "usCharityRegNum": "23-7169265"
+}
