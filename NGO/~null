@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "The Fox Project",
+  "unlisted": true,
   "id": "the-fox-project",
-  "suggest": []
+  "suggest": [
+    "The Fox Project"
+  ],
+  "status": "DRAFT"
 }
