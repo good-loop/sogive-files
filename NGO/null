@@ -1,11 +1,17 @@
 {
+  "color": "#000000",
   "@type": "NGO",
-  "displayName": "World Food Programme",
-  "logo": "https://media.good-loop.com/uploads/standard/wfp-logo-standard-blue-en-4004686500463890960.png#ccrop:90",
-  "id": "world-food-programme",
+  "displayName": "National Geographic Society",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/nat_geo-17940010659672845382.png#ccrop:90",
+  "description": "The National Geographic Society uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world.",
+  "id": "national-geographic",
   "suggest": [
-    "World Food Programme"
+    "",
+    "National Geographic Society"
   ],
-  "url": "https://www.wfp.org/",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "url": "https://www.nationalgeographic.org/",
   "status": "DRAFT"
 }
