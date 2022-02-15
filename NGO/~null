@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "World Food Programme",
+  "logo": "https://media.good-loop.com/uploads/standard/wfp-logo-standard-blue-en-4004686500463890960.png#ccrop:90",
   "id": "world-food-programme",
   "suggest": [
     "World Food Programme"
