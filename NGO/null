@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Save the Kiwi",
-  "logo": "https://media.good-loop.com/uploads/standard/Save-the-Kiwi-2-14786219476498774318.jpg",
-  "id": "save-the-kiwi",
+  "displayName": "The Fox Project",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/logo-3887648369270936600.jpg",
+  "id": "the-fox-project",
   "suggest": [
-    "Save the Kiwi"
+    "The Fox Project"
   ],
-  "url": "https://www.savethekiwi.nz/",
+  "url": "https://foxproject.org.uk/",
   "status": "DRAFT"
 }
