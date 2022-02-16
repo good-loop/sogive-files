@@ -1,17 +1,14 @@
 {
-  "color": "#000000",
   "@type": "NGO",
-  "displayName": "National Geographic Society",
+  "displayName": "Comic Relief",
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/nat_geo-17940010659672845382.png#ccrop:90",
-  "description": "The National Geographic Society uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world.",
-  "id": "national-geographic",
+  "logo": "https://media.good-loop.com/uploads/standard/comic-relief-6507731720186293423.svg#ccrop:105",
+  "id": "comic-relief",
   "suggest": [
     "",
-    "National Geographic Society"
+    "Comic Relief"
   ],
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "url": "https://www.nationalgeographic.org/",
-  "status": "DRAFT"
+  "englandWalesCharityRegNum": "326568",
+  "url": "https://www.comicrelief.com/",
+  "status": "PUBLISHED"
 }
