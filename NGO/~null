@@ -37,7 +37,15 @@
           "notes": "check page 73"
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "Makes grants to organisations",
+        "currency": "",
+        "value100p": 0.0,
+        "error": {}
+      }
     }
   ],
   "@type": "NGO",
