@@ -1,18 +1,19 @@
 {
   "@type": "NGO",
   "displayName": "International Animal Rescue",
-  "name": "international-animal-resuce",
   "description": "Key Organisational Goals:\n- Develop awareness to create mutual collaboration and collective action to protect natural habitats and the wildlife therein.\n- Stimulate communities, government institutions and private stakeholders to take an active role in the management and protection of forests.\n- Implement effective and/or innovative methods and approaches to reduce the trade in wild animals.\n- Ensure that animals remain safe in their habitat and that where/when appropriate, vulnerable animals are rescued, and to increase knowledge to expedite the release of animals into the wild. For animals that are not viable for release, provide sanctuary.",
-  "@id": "international-animal-resuce",
   "suggest": [
     "international-animal-resuce",
     "International Animal Rescue",
     "international-animal-resuce"
   ],
+  "url": "https://www.internationalanimalrescue.org/",
+  "UNSDG": "15",
+  "name": "international-animal-resuce",
+  "logo": "https://media.good-loop.com/uploads/raw/th-3104303579406333557.jpeg",
+  "@id": "international-animal-resuce",
   "category": "animals",
   "subcategory": "Wildlife Conservation",
   "summaryDescription": "International Animal Rescue\u0027s (IAR) vision is a world where humans and animals coexist in sustainable ecosystems. Their mission is to build awareness and implement effective systems such that habitats and animals are protected.",
-  "url": "https://www.internationalanimalrescue.org/",
-  "status": "DRAFT",
-  "UNSDG": "15"
+  "status": "DRAFT"
 }
