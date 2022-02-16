@@ -54,6 +54,7 @@
   "@type": "NGO",
   "displayName": "Comic Relief",
   "impact": "more-info-needed",
+  "confidence": "medium",
   "recommendation": "",
   "suggest": [
     "",
