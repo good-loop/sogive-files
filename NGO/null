@@ -1,17 +1,11 @@
 {
-  "color": "#000000",
   "@type": "NGO",
-  "displayName": "National Geographic Society",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/nat_geo-17940010659672845382.png#ccrop:90",
-  "description": "The National Geographic Society uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world.",
-  "id": "national-geographic",
+  "displayName": "Young Minds",
+  "logo": "https://media.good-loop.com/uploads/standard/2019__Young__Minds-972397138028157397.png#ccrop:90",
+  "id": "young-minds",
   "suggest": [
-    "",
-    "National Geographic Society"
+    "Young Minds"
   ],
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "url": "https://www.nationalgeographic.org/",
+  "url": "https://www.youngminds.org.uk/",
   "status": "DRAFT"
 }
