@@ -35,13 +35,16 @@
       "meta": {
         "inputs_meta": {
           "notes": "check page 73"
+        },
+        "reserves": {
+          "notes": "see page "
         }
       },
       "name": "overall",
       "reserves": {
         "@type": "Money",
         "name": "",
-        "raw": "Makes grants to organisations",
+        "raw": "41.5m",
         "currency": "",
         "value100p": 0.0,
         "error": {}
