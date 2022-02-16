@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Young Minds",
-  "logo": "https://media.good-loop.com/uploads/standard/2019__Young__Minds-972397138028157397.png#ccrop:90",
-  "id": "young-minds",
+  "displayName": "Action 4 Youth",
+  "logo": "https://media.good-loop.com/uploads/standard/Action4Youth-logo-landscape-ee3124-13814495607193640706.svg#ccrop:90",
+  "id": "action-4-youth",
   "suggest": [
-    "Young Minds"
+    "Action 4 Youth"
   ],
-  "url": "https://www.youngminds.org.uk/",
+  "url": "https://www.action4youth.org/",
   "status": "DRAFT"
 }
