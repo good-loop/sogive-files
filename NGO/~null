@@ -1,11 +1,66 @@
 {
-  "@type": "NGO",
-  "displayName": "Action 4 Youth",
-  "logo": "https://media.good-loop.com/uploads/standard/Action4Youth-logo-landscape-ee3124-13814495607193640706.svg#ccrop:90",
-  "id": "action-4-youth",
-  "suggest": [
-    "Action 4 Youth"
+  "scotlandCharityRegNum": "SC039730",
+  "images": "https://media.good-loop.com/uploads/raw/comic_relief-16971394671838690021.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.ctfassets.net/zsfivwzfgl3t/Zyt3hfxuavgJC5LvUDovZ/eaff608202d918317cf8fe93105233fb/Charity_Projects_Annual_Report_202021_Signed.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "82.6m",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "check page 73"
+        }
+      },
+      "name": "overall"
+    }
   ],
-  "url": "https://www.action4youth.org/",
+  "@type": "NGO",
+  "displayName": "Comic Relief",
+  "recommendation": "**To evaluate Comic Relief under the SoGive rating methodology, we would need more information.**\n\nComic Relief organizes entertainment events like the Red Nose Day and Sports Relief to encourage the audience to donate. The donations will then be invested for a maximum of 6 years. Investment returns pay for Comic Relief\u0027s running costs, while the other funds would be split roughly evenly between the UK and 14 other countries for charities to reduce inequality, address social injustices, and promote sustainable change. \n\nThe charity spends roughly 59% of charitable expenses on tackling poverty and social injustice internationally, 39% on tackling charitable expenses on tackling poverty and social injustice in the UK, and 2% on global awareness and social change. Example beneficiary charities include YMCA Sutton Coldfield and Saheliya Play and Learn Centre.\n\nIn the 18/19 financial year, Comic Relief had a net gain of £13.2 million from [capital investments](https://www.comicrelief.com/annualreport2018-19/finance-and-resources/). The actual total return rate for 1-year investments amounts to 11.4%, and the actual total return rate for 5-year investments amounts to 12.6%.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Comic Relief does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis or form opinions about Comic Relief\u0027s work under the SoGive methodology.\n\nOur inability to provide an evaluation arises mainly from the fact that we did not obtain sufficient information about the costs and impacts of the hundreds of charities that Comic Relief donates to.\n\nHowever, we do know that Comic Relief strives to use [a rigorous selection process](https://www.comicrelief.com/annualreport2018-19/impact-and-investment) to choose grant recipients. Out of 2,241 funding applications, the charity granted 316 requests. Comic Relief makes grant payment in phases, asking beneficiary charities to report on how the money is spent.\n\n**Benchmarking**\n\nAfter a review of the work of Comic Relief under the two-question method, the next step in the SoGive process would involve comparing this charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. These benchmark charities should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation). However, because of a lack of information in the charity\u0027s annual report, we ended up unable to perform the comparison.\n\n**Conclusion**\n\nWe would need more information to determine whether Comic Relief would lead to an impact more positive than saving a life for about £1,500.\n\nFurther information that would enable us to form a fuller opinion of the work of the charity would involve:\n(a) a more detailed cost assessment of the beneficiary charities of Comic Relief: Which exact charities fall under categories like \"tackling poverty and social injustice in the UK?\" How much does each project of each beneficiary charity cost?\n(b) a more detailed impact assessment of the beneficiary charities of Comic Relief: How many lives saved is each project\u0027s impact equivalent to? What would happen if Comic Relief did not provide its services? To become highly confident about the effectiveness of Comic Relief, we would need evidence of the effectiveness to the standard of Randomised Control Trials.\n\n",
+  "suggest": [
+    "",
+    "Comic Relief"
+  ],
+  "url": "https://www.comicrelief.com/",
+  "whyTags": "Children, Homelessness, Mental Health, Poverty, Refugees,  Sexual Violation, Women",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/comic-relief-6507731720186293423.svg#ccrop:105",
+  "id": "comic-relief",
+  "englandWalesCharityRegNum": "326568",
+  "summaryDescription": "Comic Relief tackles poverty in the UK and worldwide through partnerships with a variety of organisations and projects. They fundraise through entertainment events such as Sports Relief and Red Nose Day.",
+  "whereTags": "UK, developing countries",
+  "uk_giftaid": true,
   "status": "DRAFT"
 }
