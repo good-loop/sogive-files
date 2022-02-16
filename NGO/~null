@@ -1,4 +1,5 @@
 {
+  "scotlandCharityRegNum": "SC039730",
   "@type": "NGO",
   "displayName": "Comic Relief",
   "name": "",
@@ -10,5 +11,5 @@
   ],
   "englandWalesCharityRegNum": "326568",
   "url": "https://www.comicrelief.com/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
