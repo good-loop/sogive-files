@@ -5,7 +5,7 @@
         {
           "number": 37564.0,
           "confidence": "medium",
-          "name": "Synagogue member(s) attending services for one year",
+          "name": "synagogue member(s) attending services for one year",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -100,7 +100,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Synagogue member(s) attending services for one year",
+    "name": "synagogue member(s) attending services for one year",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
