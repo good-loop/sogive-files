@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo__horizontal-02-14910213500328217639.jpg#ccrop:120",
   "id": "healthy-seas",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
