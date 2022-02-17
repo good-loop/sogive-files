@@ -18,10 +18,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "33295000",
+          "raw": "37662000",
           "currency": "GBP",
-          "value100p": 3.3295E11,
-          "value": 3.3295E7
+          "value100p": 3.7662E11,
+          "value": 3.7662E7
         },
         {
           "value100": 0.0,
@@ -96,8 +96,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 7793365,
-      "value": "779.336598871259706600000"
+      "value100p": 8955915,
+      "value": "895.591523799382375728000"
     }
   },
   "meta": {
