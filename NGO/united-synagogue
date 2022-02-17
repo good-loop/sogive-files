@@ -1,0 +1,125 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 37564.0,
+          "confidence": "medium",
+          "name": "Synagogue Member(s)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "880",
+            "currency": "",
+            "value100p": 8800000.0,
+            "value": 880.0
+          }
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2020.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "37662000",
+          "currency": "GBP",
+          "value100p": 3.7662E11,
+          "value": 3.7662E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "4020000",
+          "currency": "GBP",
+          "value100p": 4.02E10,
+          "value": 4020000.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "27793000",
+        "currency": "",
+        "value100p": 2.7793E11,
+        "value": 2.7793E7
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11076376\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d242552"
+        }
+      ],
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "notes": "AR, p33.\n\nI did NOT include Grants payable as they are to other charities."
+        },
+        "reserves": {
+          "notes": "AR. p40"
+        }
+      },
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "description": "The United Synagogue runs religious services, community building events, charitable outreach programs, education programs and burial services.",
+  "recommendation": "**Summary**\n\n**The United Synagogue is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\n- The United Synagogue provides Orthodox Judaism services in the UK\n- They provide this at a cost of approximately £880 per practising member\n- Given this cost, to reach the SoGive Gold Standard, the United Synagogue would have to provide a marginal improvement in well-being that is comparable to averting severe depression for over 4 years per member *per year*\n- While the United Synagogue’s services may provide some positive net impact to wellbeing, we believe this cannot come close to what is required to achieve a Gold Standard rating.\n- Based on this, we rate the United Synagogue as Not Recommended (firm) under the SoGive methodology\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n \n**More about what The United Synagogue does - how they spend your donations**\n \nIn 2020, the United Synagogue spent approximately £33m ([Annual Report]( https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11076376\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d242552), p. 33). This appears to be a typical year for their expenditure, which in 2019 totalled a comparable £36.5m.\n \nThis expenditure went towards their goals of promoting and supporting Orthodox Judaism in the UK. Their activities include the running of religious services, community building events, charitable outreach programs, education programs and burial services. They oversee the operation of 57 synagogues with memberships totalling 37,564 (Annual Report, p. 6).\n\n\n**Cost-effectiveness analysis - how does United Synagogue compare to the most cost-effective charities?**\n\nAfter a review of the work of the United Synagogue under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n \nIn 2020, the United Synagogue spent approximately £880 per practising member (~£33m spent for 37,564 members). To reach the SoGive Gold Standard Benchmark (£200 to avert one year of severe depression), the United Synagogue would have to provide a marginal improvement in well-being that is comparable to averting severe depression for over 4 years per member (£880/£200), *per year*. We consider the potential benefits of religious practice to be, essentially, purely in the form of improved mental wellbeing (i.e. we do not consider any purported spiritual/religious benefits). To reach the Gold Standard, this improvement would need to be on average 4 times greater than the improvement experienced when going from severe depression to no/minimal depression. We do not consider this to be realistic, and by a considerable margin.\n \nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n \n**Conclusion**\nBased on the above, we rate United Synagogue as Not Recommended (Firm) under the SoGive methodology. This means:\n- We do not have good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness, and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "suggest": [
+    "United Synagogue",
+    "united-synagogue"
+  ],
+  "url": "https://www.theus.org.uk",
+  "whyTags": "Religion",
+  "howTags": "direct work, community support",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Synagogue Member(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 8800000,
+      "value": "880.0",
+      "name": ""
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "United Synagogue",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-3583721871374215434.png",
+  "@id": "united-synagogue",
+  "englandWalesCharityRegNum": "242552",
+  "summaryDescription": "The United Synagogue promotes and supports the practising of Orthodox Judaism in the UK.",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
