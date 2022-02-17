@@ -81,6 +81,7 @@
   ],
   "color": "#017d49",
   "@type": "NGO",
+  "displayName": "THE TRUSSELL TRUST",
   "description": "The Trussell Trust operates 3 food banks and supports a network of 428 more. These food banks take referrals from local agencies such as children\u0027s centres, housing associations, advice charities and mental health teams. They provide those in need with boxes containing three days of emergency food and other essential home supplies. Boxes are carefully designed to provide a balanced supply of food for any household size.",
   "whyTags": "Hunger, Poverty",
   "ready": true,
@@ -92,6 +93,7 @@
   "images": "https://app.sogive.org/uploads/justinbartongmail.comemail/ttt-og-image-6198868315212526701.jpg",
   "noPublicDonations": false,
   "suggest": [
+    "THE TRUSSELL TRUST",
     "THE TRUSSELL TRUST",
     "the-trussell-trust"
   ],
@@ -120,5 +122,5 @@
   "englandWalesCharityRegNum": "1110522",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
