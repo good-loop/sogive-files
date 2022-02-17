@@ -83,6 +83,37 @@
         }
       ],
       "name": "Expenditure on Raising Funds"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "45.2",
+          "currency": "GBP",
+          "value100p": 452000.0,
+          "value": 45.2
+        }
+      ],
+      "name": "Tackling poverty and social injustice in the UK"
     }
   ],
   "@type": "NGO",
