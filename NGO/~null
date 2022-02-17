@@ -76,10 +76,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "12.9",
+          "raw": "13m",
           "currency": "GBP",
-          "value100p": 129000.0,
-          "value": 12.9
+          "value100p": 0.0,
+          "error": {}
         }
       ],
       "name": "Expenditure on Raising Funds"
