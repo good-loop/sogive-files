@@ -5,7 +5,7 @@
         {
           "number": 37564.0,
           "confidence": "medium",
-          "name": "Synagogue Member(s) attending services for one year",
+          "name": "Synagogue member(s) attending services for one year",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -100,7 +100,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Synagogue Member(s) attending services for one year",
+    "name": "Synagogue member(s) attending services for one year",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
@@ -122,5 +122,5 @@
   "summaryDescription": "The United Synagogue promotes and supports the practising of Orthodox Judaism in the UK.",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
