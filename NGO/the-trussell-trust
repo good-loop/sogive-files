@@ -1,0 +1,126 @@
+{
+  "scotlandCharityRegNum": "SC044246",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1332952.0,
+          "meta": {
+            "all": {
+              "notes": "The Trussell Trust operates 3 food banks directly and supports 428 others in a network model.\n\nThe cost per unit has been estimated by summing The Trussell Trust\u0027s cost per unit (£4.33) with the cost per unit from one of the food banks that they support, The Cambridge City Foodbank (£21.68)."
+            }
+          },
+          "confidence": "low",
+          "name": "three day emergency food supplies (singular: supply)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "26.01",
+            "currency": "GBP",
+            "value100p": 260100.0,
+            "value": 26.01
+          }
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "6640000",
+          "currency": "GBP",
+          "value100p": 6.64E10,
+          "value": 6640000.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "872814",
+          "currency": "GBP",
+          "value100p": 8.72814E9,
+          "value": 872814.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-04-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends22/0001110522_AC_20180331_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends83/0001149883_AC_20180930_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "color": "#017d49",
+  "@type": "NGO",
+  "displayName": "THE TRUSSELL TRUST",
+  "description": "The Trussell Trust operates 3 food banks and supports a network of 428 more. These food banks take referrals from local agencies such as children\u0027s centres, housing associations, advice charities and mental health teams. They provide those in need with boxes containing three days of emergency food and other essential home supplies. Boxes are carefully designed to provide a balanced supply of food for any household size.",
+  "whyTags": "Hunger, Poverty",
+  "ready": true,
+  "logo": "https://media.good-loop.com/uploads/standard/trussell-trust-logo-500px-14510382039771531099.jpg#ccrop:90",
+  "modified": false,
+  "@id": "the-trussell-trust",
+  "summaryDescription": "Aims to end hunger and poverty in the UK",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/justinbartongmail.comemail/ttt-og-image-6198868315212526701.jpg",
+  "noPublicDonations": false,
+  "suggest": [
+    "THE TRUSSELL TRUST",
+    "THE TRUSSELL TRUST",
+    "the-trussell-trust"
+  ],
+  "url": "https://www.trusselltrust.org/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "three day emergency food supplies (singular: supply)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 260100,
+      "value": "26.01"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "THE TRUSSELL TRUST",
+  "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/trussell_trust_logo_white.png",
+  "lastModified": "2020-11-16T16:17:19Z",
+  "englandWalesCharityRegNum": "1110522",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
