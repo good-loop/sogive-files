@@ -1,0 +1,23 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/farm-grow-2-copy-17942272920391749111.jpg",
+  "@type": "NGO",
+  "displayName": "Rainforest Alliance",
+  "description": "The Rainforest Alliance is an international non-profit organisation working at the intersection of business, agriculture, and forests to make responsible business the new normal. They are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
+  "suggest": [
+    "",
+    "Rainforest Alliance",
+    "rainforest-alliance"
+  ],
+  "url": "https://www.rainforest-alliance.org/",
+  "UNSDG": "13",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/rainforest__logo__2020-15107753302741255120.png#ccrop:125",
+  "@id": "rainforest-alliance",
+  "id": "rainforest-alliance",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rainforest_Alliance",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "summaryDescription": "The Rainforest Alliance is an international non-profit organization working at the intersection of business, agriculture, and forests to make responsible business the new normal. We are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
+  "status": "DRAFT",
+  "usCharityRegNum": " 13-3377893"
+}
