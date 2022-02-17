@@ -1,0 +1,13 @@
+{
+  "scotlandCharityRegNum": "SC040914",
+  "@type": "NGO",
+  "name": "Bowel Cancer UK",
+  "@id": "bowel-cancer-uk",
+  "suggest": [
+    "Bowel Cancer UK",
+    "bowel-cancer-uk"
+  ],
+  "url": "https://www.bowelcanceruk.org.uk/",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
