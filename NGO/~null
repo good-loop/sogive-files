@@ -182,7 +182,7 @@
   "displayName": "Comic Relief",
   "impact": "more-info-needed",
   "confidence": "medium",
-  "recommendation": "",
+  "recommendation": "comic-relief",
   "suggest": [
     "",
     "Comic Relief"
