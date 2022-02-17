@@ -145,6 +145,37 @@
         }
       ],
       "name": "Tackling poverty and social injustice internationally "
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1.5m",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        }
+      ],
+      "name": "Global awareness, education and social change"
     }
   ],
   "@type": "NGO",
