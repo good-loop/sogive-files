@@ -114,6 +114,7 @@
       "notes": "Yes"
     }
   },
+  "ready": true,
   "name": "United Synagogue",
   "logo": "https://media.good-loop.com/uploads/raw/logo-3583721871374215434.png",
   "@id": "united-synagogue",
@@ -121,5 +122,5 @@
   "summaryDescription": "The United Synagogue promotes and supports the practising of Orthodox Judaism in the UK.",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
