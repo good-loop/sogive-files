@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Action 4 Youth",
-  "logo": "https://media.good-loop.com/uploads/standard/Action4Youth-logo-landscape-ee3124-13814495607193640706.svg#ccrop:90",
-  "id": "action-4-youth",
+  "displayName": "Healthy Seas",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo__horizontal-02-14910213500328217639.jpg#ccrop:120",
+  "id": "healthy-seas",
   "suggest": [
-    "Action 4 Youth"
+    "Healthy Seas"
   ],
-  "url": "https://www.action4youth.org/",
+  "url": "https://www.healthyseas.org/",
   "status": "DRAFT"
 }
