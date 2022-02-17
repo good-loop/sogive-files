@@ -52,6 +52,37 @@
         "value100p": 0.0,
         "error": {}
       }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12.9",
+          "currency": "GBP",
+          "value100p": 129000.0,
+          "value": 12.9
+        }
+      ],
+      "name": "Expenditure on Raising Funds"
     }
   ],
   "@type": "NGO",
