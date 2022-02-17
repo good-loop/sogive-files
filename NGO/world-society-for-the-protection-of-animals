@@ -1,0 +1,1398 @@
+{
+  "ukCompanyRegNum": "04029540",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 3.21E8,
+          "meta": {
+            "all": {
+              "notes": "2017 annual report (p. 4)."
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "We know that this is an amalgamation of ways of making animals lives better, but we don\u0027t know how that\u0027s broken down"
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "31821000",
+          "currency": "GBP",
+          "value100p": 3.1821E11,
+          "value": 3.1821E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "14000",
+          "currency": "GBP",
+          "value100p": 1.4E8,
+          "value": 14000.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-01-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "6263000",
+        "currency": "GBP",
+        "value100p": 6.263E10,
+        "value": 6263000.0
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9185689\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": "",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0001081849_AC_20171231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "1567000",
+          "currency": "GBP",
+          "value100p": 1.567E10,
+          "value": 1567000.0
+        }
+      ],
+      "name": "Animals in communities",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0001081849_AC_20171231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "5382000",
+          "currency": "GBP",
+          "value100p": 5.382E10,
+          "value": 5382000.0
+        }
+      ],
+      "name": "Animals in farming",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "2773000",
+          "currency": "GBP",
+          "value100p": 2.773E10,
+          "value": 2773000.0
+        }
+      ],
+      "name": "Animals in disasters",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "3305000",
+          "currency": "GBP",
+          "value100p": 3.305E10,
+          "value": 3305000.0
+        }
+      ],
+      "name": "Global advocacy for animals",
+      "start": "2017-01-01",
+      "description": "",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "11550000",
+          "currency": "GBP",
+          "value100p": 1.155E11,
+          "value": 1.155E7
+        }
+      ],
+      "name": "Animals in the wild"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3.6E9,
+          "meta": {
+            "all": {
+              "notes": "2018 annual report (p. 4)."
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "The estimate takes into consideration animals in the wild, in natural disasters, in agricultural communities, and in other parts of human society."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9791615\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "35912000",
+          "currency": "GBP",
+          "value100p": 3.5912E11,
+          "value": 3.5912E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2019-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "16826000",
+        "currency": "GBP",
+        "value100p": 1.6826E11,
+        "value": 1.6826E7
+      },
+      "end_raw": "2019-12-31",
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.worldanimalprotection.org/sites/default/files/media/int_files/annual_report_2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1436480",
+          "currency": "GBP",
+          "value100p": 1.43648E10,
+          "value": 1436480.0
+        }
+      ],
+      "name": "Animals in communities",
+      "start": "2018-01-01",
+      "description": "World Animal Protection is convincing governments and local people to protect the free-roaming dog population.",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.worldanimalprotection.org/sites/default/files/media/int_files/annual_report_2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7900640",
+          "currency": "GBP",
+          "value100p": 7.90064E10,
+          "value": 7900640.0
+        }
+      ],
+      "name": "Animals in farming",
+      "start": "2018-01-01",
+      "description": "World Animal Protection not only campaigns to make people see how animals suffer in intensive farming systems but also works with farmers and governments to come up with solutions.",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.worldanimalprotection.org/sites/default/files/media/int_files/annual_report_2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2513840",
+          "currency": "GBP",
+          "value100p": 2.51384E10,
+          "value": 2513840.0
+        }
+      ],
+      "name": "Animals in disasters",
+      "start": "2018-01-01",
+      "description": "The charity provides veterinary care to animals in disaster aftermaths, working with local governments, communities, and organizations to prepare to protect animals in future disasters.",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.worldanimalprotection.org/sites/default/files/media/int_files/annual_report_2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12928320",
+          "currency": "GBP",
+          "value100p": 1.292832E11,
+          "value": 1.292832E7
+        }
+      ],
+      "name": "Animals in the wild",
+      "start": "2018-01-01",
+      "description": "The charity calls on governments, businesses, and ordinary people to protect wild animals from cruel treatments",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.worldanimalprotection.org/sites/default/files/media/int_files/annual_report_2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3950320",
+          "currency": "GBP",
+          "value100p": 3.95032E10,
+          "value": 3950320.0
+        }
+      ],
+      "name": "Global advocacy for animals",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.12E9,
+          "meta": {
+            "all": {
+              "notes": "2020 annual report (p. 4)."
+            }
+          },
+          "confidence": "very-low",
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "31279000",
+          "currency": "GBP",
+          "value100p": 3.1279E11,
+          "value": 3.1279E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 56). \"Annual costs\" \u003d (\"Expenditure on:\" \"Total\" for \"Total Funds 2020\")."
+        },
+        "reserves": {
+          "notes": "2020 annual report (p. 45). \"Reserves that were not endowments funds, restricted funds,\ndesignated funds or tied up in fixed assets, amounted to £8.8m\n(2019: £9.5m). This was equivalent to nearly 3 ½ months\nexpenditure based on the 2021 budget\"."
+        }
+      },
+      "name": "overall",
+      "start": "2020-01-01",
+      "end": "2020-12-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "8800000",
+        "currency": "",
+        "value100p": 8.8E10,
+        "value": 8800000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 3.2E9,
+          "meta": {
+            "all": {
+              "notes": "2019 annual report (p. 4)."
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38637000",
+          "currency": "GBP",
+          "value100p": 3.8637E11,
+          "value": 3.8637E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "7123000",
+          "currency": "GBP",
+          "value100p": 7.123E10,
+          "value": 7123000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 49). \"Annual costs\" \u003d (\"Expenditure on:\" \"Total\" for \"Total Funds 2019\"). \"Trading costs\" \u003d (\"Expenditure on:\" \"Total\" for \"Total Funds 2019\") - (\"Expenditure on:\" \"Charitable activities\" for \"Total Funds 2019\")."
+        },
+        "reserves": {
+          "notes": "2019 annual report (p. 49). \"Reserves\" \u003d (\"Fund balances carried forward\" for \"Unrestricted Funds 2019\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "9742000",
+        "currency": "",
+        "value100p": 9.742E10,
+        "value": 9742000.0
+      },
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1735000",
+          "currency": "GBP",
+          "value100p": 1.735E10,
+          "value": 1735000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 58)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 32).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in communities",
+      "start": "2019-01-01",
+      "description": "\"Many of the world’s 400 million free roaming dogs endure horrendous lives\". \"We move governments and communities worldwide to create better lives for dogs through humane dog population management that ends poor treatment and culling. Our solutions involve educating owners and communities, legislation, dog registration, vaccinating against rabies, sterilisation, rehoming - or a combination of some or all of these\".",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5.0E7,
+          "meta": {
+            "all": {
+              "notes": "2020 annual report (p. 5).",
+              "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "The amount value is the desired impact, not necessarily the real impact."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1197000",
+          "currency": "GBP",
+          "value100p": 1.197E10,
+          "value": 1197000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 65)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 32).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in communities",
+      "start": "2020-01-01",
+      "description": "\"Many of the world’s 400 million free roaming dogs endure horrendous lives\". \"We move governments and communities worldwide to create better lives for dogs through humane dog population management that ends poor treatment and culling. Our solutions involve educating owners and communities, legislation, dog registration, vaccinating against rabies, sterilisation, rehoming - or a combination of some or all of these\".",
+      "end": "2020-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8209000",
+          "currency": "GBP",
+          "value100p": 8.209E10,
+          "value": 8209000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 58)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 20).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in farming",
+      "start": "2019-01-01",
+      "description": "\"Most of our planet’s 70 billion farm animals spend their lives trapped in factory farms that inflict horrendous suffering\". \"Throughout 2020 we worked with businesses, governments, farmers and scientists to end this appalling suffering, to give farm animals better lives and to improve people’s lives too\".",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0E9,
+          "meta": {
+            "all": {
+              "notes": "2020 annual report (p. 5).",
+              "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "The amount value is the desired impact, not necessarily the real impact."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8058000",
+          "currency": "GBP",
+          "value100p": 8.058E10,
+          "value": 8058000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 65)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 20).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in farming",
+      "start": "2020-01-01",
+      "description": "\"Most of our planet’s 70 billion farm animals spend their lives trapped in factory farms that inflict horrendous suffering\". \"Throughout 2020 we worked with businesses, governments, farmers and scientists to end this appalling suffering, to give farm animals better lives and to improve people’s lives too\".",
+      "end": "2020-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2415000",
+          "currency": "GBP",
+          "value100p": 2.415E10,
+          "value": 2415000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 58)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 28).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in disasters",
+      "start": "2019-01-01",
+      "description": "\"More than 1 billion of the world’s poorest people depend on animals for food, transport and livelihoods. Consequently, when animals die during disasters, it devastates the people who rely on them for companionship and economic status. So, as well as responding to disasters, we work year-round to help countries prepare and reduce the impact on animals and their owners\". \"We encourage and train governments, international bodies, and local and national partners to include animals in their plans, policies and practice at international and national levels\".",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.7E8,
+          "meta": {
+            "all": {
+              "notes": "2020 annual report (p. 5).",
+              "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "The amount value is the desired impact, not necessarily the real impact."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1774000",
+          "currency": "GBP",
+          "value100p": 1.774E10,
+          "value": 1774000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 65)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 28).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in disasters",
+      "start": "2020-01-01",
+      "description": "\"More than 1 billion of the world’s poorest people depend on animals for food, transport and livelihoods. Consequently, when animals die during disasters, it devastates the people who rely on them for companionship and economic status. So, as well as responding to disasters, we work year-round to help countries prepare and reduce the impact on animals and their owners\". \"We encourage and train governments, international bodies, and local and national partners to include animals in their plans, policies and practice at international and national levels\".",
+      "end": "2020-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15270000",
+          "currency": "GBP",
+          "value100p": 1.527E11,
+          "value": 1.527E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 58)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 7).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in the wild",
+      "start": "2019-01-01",
+      "description": "\"Our world’s wild animals face unimaginable abuse, exploitation, pain and suffering. At least 1.6 trillion suffer through people’s actions every year\". \"We are moving the world to demand that wild animals are valued and protected in the wild where they belong\".",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1100000.0,
+          "meta": {
+            "all": {
+              "notes": "2020 annual report (p. 5).",
+              "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+            }
+          },
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+          "description": "The amount value is the desired impact, not necessarily the real impact."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11370000",
+          "currency": "GBP",
+          "value100p": 1.137E11,
+          "value": 1.137E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 65)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 7).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Animals in the wild",
+      "start": "2020-01-01",
+      "description": "\"Our world’s wild animals face unimaginable abuse, exploitation, pain and suffering. At least 1.6 trillion suffer through people’s actions every year\". \"We are moving the world to demand that wild animals are valued and protected in the wild where they belong\".",
+      "end": "2020-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3885000",
+          "currency": "GBP",
+          "value100p": 3.885E10,
+          "value": 3885000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 58)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 43).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Global advocacy for animals",
+      "start": "2019-01-01",
+      "description": "\"This activity is key to our theory of change as we move the world to protect animals\". It relates to \"communication, education and advocacy across the world\".",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3060000",
+          "currency": "GBP",
+          "value100p": 3.06E10,
+          "value": 3060000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2020 annual report (p. 65)."
+        },
+        "description": {
+          "notes": "2020 annual report (p. 43).",
+          "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      },
+      "name": "Global advocacy for animals",
+      "start": "2020-01-01",
+      "description": "\"This activity is key to our theory of change as we move the world to protect animals\". It relates to \"communication, education and advocacy across the world\".",
+      "end": "2020-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0E8,
+          "name": "animal(s) whose lives (singular: life) were (singular: was) improved"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA8609610\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "30364000",
+          "currency": "GBP",
+          "value100p": 3.0364E11,
+          "value": 3.0364E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "6447",
+          "currency": "GBP",
+          "value100p": 6.447E7,
+          "value": 6447.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "15521000",
+        "currency": "",
+        "value100p": 1.5521E11,
+        "value": 1.5521E7
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "World Animal Protection",
+  "description": "This charity has offices in Australia, Brazil, Canada, China, Costa Rica, Denmark, India, Kenya, the Netherlands, New Zealand, Sweden, Thailand, the UK, and the US. [World Animal Protection](https://www.worldanimalprotection.org/about-us) aims to reduce animal suffering and influence people to think more about animals. ",
+  "recommendation": "**Summary**\n\n**World Animal Protection is rated as More Information Needed (Tentatively Promising) on the SoGive ratings scale.**\n\n- World Animal Protection (WAP) is an animal charity working to protect animals around the world and improve their welfare\n- Based on its 2020 annual report, the charity had an average expenditure of just £0.03 per animal whose life they sought to improve\n- This naively seems promising in comparison with the SoGive Gold Standard of £5 to avert the suffering of one chicken who is living in very poor conditions \n- However, more information is needed regarding the extent to which animals actually benefited from the charity’s activities \n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what WAP does - how they spend your donations**\n\nWorld Animal Protection is an animal charity working to protect animals around the world and improve their welfare. Its total expenditure of £31.3M for 2020 can be segmented as follows ([2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), pp. 56 and 65):\n- Charitable activities (81%):\n- Animals in the wild (36% of total expenditure). \"Our world’s wild animals face unimaginable abuse, exploitation, pain and suffering. At least 1.6 trillion suffer through people’s actions every year\". \"We are moving the world to demand that wild animals are valued and protected in the wild where they belong\" (p. 7).\n- Animals in farming (26%). \"Most of our planet’s 70 billion farm animals spend their lives trapped in factory farms that inflict horrendous suffering\". \"Throughout 2020 we worked with businesses, governments, farmers and scientists to end this appalling suffering, to give farm animals better lives and to improve people’s lives too\" (p. 20).\n- Global advocacy for animals (9.8%). \"This activity is key to our theory of change as we move the world to protect animals\". It relates to \"communication, education and advocacy across the world\" (p. 43).\n- Animals in disasters (5.7%). \"More than 1 billion of the world’s poorest people depend on animals for food, transport and livelihoods. Consequently, when animals die during disasters, it devastates the people who rely on them for companionship and economic status. So, as well as responding to disasters, we work year-round to help countries prepare and reduce the impact on animals and their owners\". \"We encourage and train governments, international bodies, and local and national partners to include animals in their plans, policies and practice at international and national levels\" (p. 28).\n- Animals in communities (3.8%). \"Many of the world’s 400 million free roaming dogs endure horrendous lives\". \"We move governments and communities worldwide to create better lives for dogs through humane dog population management that ends poor treatment and culling. Our solutions involve educating owners and communities, legislation, dog registration, vaccinating against rabies, sterilisation, rehoming - or a combination of some or all of these\" (p. 32).\n- Raising funds (19%).\n\nWAP summarises its 2015-2020 strategy for each of the 4 priority programmes in the section \"Our strategy on a page\" of its annual reports (the description is identical for all the annual reports between 2015 and 2020, and is presented on p. 5 or 6):\n- *Animals in communities*. \"We will convince the governments of 25 countries to adopt humane and ethical dog population management policies and practices. These will improve the lives of at least 50 million dogs\".\n- *Animals in disasters*. \"We will directly benefit the lives of at least 5 million animals through our disaster response and improve the lives of a further 270 million animals by working with target governments to change policy and practice\".\n- *Animals in farming*. \"We will transform the lives of at least 1 billion farm animals, secure commitments from four global retail brands and 12 national chicken retailers to source higher welfare chicken and move seven of the top 10 global pig producers to end close confinement and barren environments\".\n- *Animals in the wild*. \"We will directly save at least 100,000 wild animals from being traded and used for entertainment, as luxury pets or products, and as traditional medicines. We will also save 1 million marine animals\".\n\nConsequently, the 2015-2020 strategy aimed to impact at least 1.33 billion animals, which equates to an average of 221M animals per year.\n\nWAP’s overall impact is described in the section \"Moving the world in numbers\":\n- 2015: no overall impact metric is provided ([2015 annual report](https://www.worldanimalprotection.org.uk/sites/default/files/media/int_files/pdfs/2015_annual_report_and_accounts.pdf), p. 5).\n- 2016: \"Create better lives for more than 100 million animals\" ([2016 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA8609610\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), p. 5).\n- 2017: \"Gave 321 million animals better lives\" ([2017 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9185689\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), p. 4).\n- 2018: \"Our work contributed to improving the lives of more than 3.6 billion animals\" ([2018 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9791615\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), p. 4).\n- 2019: \"Through our influencing, advocacy and practical work we helped give more than 3.2 billion animals better lives\" ([2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10861557\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), p. 4).\n- 2020: \"With our supporters we helped improve the lives of more than 1.12 billion animals globally\" ([2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11050966\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3973505), p. 4).\n\nInformation about how these numbers were obtained could not be found, but would be relevant for assessing WAP’s overall impact more accurately. However, we note that the overall impact numbers given above imply a combined total of 8.3 billion animals, which is about 6 times larger than the total of 1.3 billion animals mentioned in the 2015-2020 strategy. It may be important to understand this large difference. \n\n\n**Cost-effectiveness analysis - how do the WAP priority programmes compare to each other?**\n\nSince the annual cost of each of the priority programmes is given in the annual reports from 2015 to 2020, and the desired impact of each of them for that period is stated in the 2015-2020 strategy section of the annual report (see previous section), WAP’s implied cost-effectiveness for 2015-2020 can be estimated as follows:\n- *Animals in communities*. A total cost of £10.5M, and the desired impact of improving the lives of 50M animals imply an average cost per animal of £0.21.\n- *Animals in farming*. A total cost of £41.6M, and the desired impact of improving the lives of 1000M animals imply an average cost per animal of £0.04.\n- *Animals in disasters*. A total cost of £15.4M, and the desired impact of improving the lives of 275M animals imply an average cost per animal of £0.06.\n- *Animals in the wild*. A total cost of £68.2M, and the desired impact of improving the lives of 1.1M animals imply an average cost per animal of £60.\n\nDetailed calculations are available [here](https://docs.google.com/spreadsheets/d/1mt37PojeRQN0cznw1DGVPnkl3Kh5xkV4P7zyGIRpXC8/edit?usp\u003dsharing).\n\nIn other words, assuming the actual number of animals whose lives were improved is proportional to the target number indicated by the 2015-2020 strategy, the \"Animals in communities\" programme would improve the lives of 300 times more animals than \"Animals in the wild\" for the same cost. Likewise, the \"Animals in disasters\" and \"Animals in farming\" programmes, respectively, would improve the lives of 4 and 5 times more animals than \"Animals in communities\" for the same cost.\n\nAs a consequence, the number of animals whose lives were improved spans 3 orders of magnitude. Knowing the average impact per animal for each programme would be relevant for determining whether their cost-effectiveness could also vary as much, and for better deciding which programmes should be supported.\n\n\n**Cost-effectiveness analysis - how does the WAP compare to the most cost-effective charities?**\n\nAfter a review of the work of the WAP under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5 to avert the suffering of one chicken who is living in very poor conditions) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nThe charity’s overall cost-effectiveness in 2020 could be calculated based on WAP’s total expenditure of £31.3M, and the 1.12 billion animals whose lives they claim were improved. These imply an average cost of just £0.03 per animal whose life was improved. \n\nFor the above cost to match the SoGive Gold Standard of £5 to avert the suffering of one chicken who is living in very poor conditions, on average, each animal helped by the charity  would have to experience an improvement in well-being equivalent to averting roughly 2 days of extreme chicken suffering (0.0279 / 5 * 365.25 \u003d 2.0). This duration is sufficiently short for WAP’s cost-effectiveness to naively seem promising. \n\nHowever, to reach further conclusions, more information would be needed regarding:\n- The extent to which animals benefited from the charity’s activities.\n- How the cost per animal could be so low, and how the difference between the overall impact given for 2015-2020 could be so much larger than the one described in the 2015-2020 strategy (as discussed in the section \"More about what WAP does - how they spend your donations\").\n- Long-term impact assessment of WAP’s campaigns. [Our earlier analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) shows that the impact of such campaigns may often prove difficult to estimate. Ultimately, what would happen if the charity did not provide its services? To become highly confident about the effectiveness of the work of WAP, we would like evidence on impact based on randomised control trials (RCTs), or similarly robust methods. However, we recognise that undertaking such trials can be particularly challenging, and that these are not necessarily well-suited for assessing the impact of a campaign. We would at least expect to see a Theory of Change that is well-grounded in reason, and draws on any relevant existing evidence for taking a particular approach to campaigning.\n- The extent to which they collaborated with other organisations on these campaigns, and hence how much of the benefit achieved by these campaigns should be attributed to the work of WAP rather than other organisations.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Conclusion**\n\nBased on the above, we rate the World Animal Protection as More Information Needed (Tentatively Promising) under the SoGive methodology.\n\n",
+  "whyTags": "Animals",
+  "UNSDG": "0",
+  "imageCaption": "A rescued bear named Pooh",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/anon/World__Animal__Protection__logo.svg-6041517750795449284.png",
+  "@id": "world-society-for-the-protection-of-animals",
+  "wikipedia": "https://en.wikipedia.org/wiki/World_Animal_Protection",
+  "summaryDescription": "[World Animal Protection](https://www.worldanimalprotection.org/our-work) is an animal charity working to protect animals around the world and improve their welfare.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/anon/dogs__1-274744074532260254.jpg",
+  "stories": "\n\nPooh\u0027s favourite activities include playing, sleeping, and most importantly, eating - and he eats a lot for such a small bear! His favourite foods are roti (a nutritious flat bread) and juicy apples. Pooh gets very excited when he can hear the sound of the food cart trundling towards him at meal times.\n\nAt night, Pooh likes to sleep at the front entrance of the den, loyally protecting his fellow bears.",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "confidence": "medium",
+  "suggest": [
+    "World Society for the Protection of Animals",
+    "World Animal Protection",
+    "world-society-for-the-protection-of-animals"
+  ],
+  "url": "https://www.worldanimalprotection.org/",
+  "howTags": "Campaigning, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "animal(s) whose lives (singular: life) were (singular: was) improved",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 279,
+      "value": "0.0279276785714285727691000"
+    }
+  },
+  "whoTags": "",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "whereTags": {
+      "source": ""
+    }
+  },
+  "name": "World Society for the Protection of Animals",
+  "category": "animals",
+  "subcategory": "Animal Rights, Welfare, and Services",
+  "englandWalesCharityRegNum": "1081849",
+  "whereTags": "Global",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
