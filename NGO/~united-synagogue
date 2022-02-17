@@ -5,7 +5,15 @@
         {
           "number": 37564.0,
           "confidence": "medium",
-          "name": "Synagogue Member(s)"
+          "name": "Synagogue Member(s)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "880",
+            "currency": "",
+            "value100p": 8800000.0,
+            "value": 880.0
+          }
         }
       ],
       "adjustmentComment": "",
@@ -95,9 +103,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 8955915,
-      "value": "895.591523799382375728000"
+      "value100p": 8800000,
+      "value": "880.0",
+      "name": ""
     }
   },
   "meta": {
