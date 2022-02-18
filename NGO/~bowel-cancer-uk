@@ -92,6 +92,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://bowelcancerorguk.s3.amazonaws.com/about_us/Bowel_Cancer_UK_Annual_Report_2020.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -119,6 +125,11 @@
           "value": 1173288.0
         }
       ],
+      "meta": {
+        "year": {
+          "notes": "p10"
+        }
+      },
       "name": "Awareness and Direct Services"
     }
   ],
