@@ -1,12 +1,211 @@
 {
-  "@type": "NGO",
-  "displayName": "Testing Charity",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Wikimedia-logo-9147743802402560360.png",
-  "id": "testing-charity",
-  "suggest": [
-    "Testing Charity"
+  "scotlandCharityRegNum": "SC039730",
+  "images": "https://media.good-loop.com/uploads/raw/comic_relief-16971394671838690021.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.ctfassets.net/zsfivwzfgl3t/Zyt3hfxuavgJC5LvUDovZ/eaff608202d918317cf8fe93105233fb/Charity_Projects_Annual_Report_202021_Signed.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "82.6m",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1.5",
+          "currency": "GBP",
+          "value100p": 15000.0,
+          "value": 1.5
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "check page 73. There are likely to be trading costs but i cant separate them out. Only circa 1m so probably not too relevant."
+        },
+        "reserves": {
+          "notes": "see page 38"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "49.3m",
+        "currency": "",
+        "value100p": 0.0,
+        "error": {}
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "13m",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        }
+      ],
+      "name": "Expenditure on Raising Funds"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "45.2",
+          "currency": "GBP",
+          "value100p": 452000.0,
+          "value": 45.2
+        }
+      ],
+      "name": "Tackling poverty and social injustice in the UK"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "26.5",
+          "currency": "GBP",
+          "value100p": 265000.0,
+          "value": 26.5
+        }
+      ],
+      "name": "Tackling poverty and social injustice internationally "
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1.5m",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        }
+      ],
+      "name": "Global awareness, education and social change"
+    }
   ],
-  "url": "",
-  "status": "PUBLISHED"
+  "@type": "NGO",
+  "displayName": "Comic Relief",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "recommendation": "comic-relief",
+  "suggest": [
+    "",
+    "Comic Relief"
+  ],
+  "url": "https://www.comicrelief.com/",
+  "whyTags": "Children, Homelessness, Mental Health, Poverty, Refugees,  Sexual Violation, Women",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "meta": {
+    "recommendation": {
+      "notes": "There\u0027s a discrepancy between page 19 and page 73 in terms of investments "
+    }
+  },
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/comic-relief-6507731720186293423.svg#ccrop:105",
+  "id": "comic-relief",
+  "englandWalesCharityRegNum": "326568",
+  "summaryDescription": "Comic Relief tackles poverty in the UK and worldwide through partnerships with a variety of organisations and projects. They fundraise through entertainment events such as Sports Relief and Red Nose Day.",
+  "whereTags": "UK, developing countries",
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
