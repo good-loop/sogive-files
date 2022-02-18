@@ -1,6 +1,37 @@
 {
   "scotlandCharityRegNum": "SC040914",
   "images": "https://media.good-loop.com/uploads/raw/iStock-599264834_1-14786461318226109277.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://bowelcancerorguk.s3.amazonaws.com/about_us/Bowel_Cancer_UK_Annual_Report_2020.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "suggest": [
     "Bowel Cancer UK",
@@ -9,6 +40,11 @@
   "url": "https://www.bowelcanceruk.org.uk/",
   "whyTags": "Cancer, Health, Research",
   "howTags": "Campaigning, Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
   "name": "Bowel Cancer UK",
   "logo": "https://media.good-loop.com/uploads/raw/bowelcanceruk-6003136297433857261.png",
   "@id": "bowel-cancer-uk",
