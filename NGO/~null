@@ -52,137 +52,13 @@
         "value100p": 415000.0,
         "value": 41.5
       }
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "raw": "13m",
-          "currency": "GBP",
-          "value100p": 0.0,
-          "error": {}
-        }
-      ],
-      "name": "Expenditure on Raising Funds"
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "raw": "45.2",
-          "currency": "GBP",
-          "value100p": 452000.0,
-          "value": 45.2
-        }
-      ],
-      "name": "Tackling poverty and social injustice in the UK"
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "raw": "26.5",
-          "currency": "GBP",
-          "value100p": 265000.0,
-          "value": 26.5
-        }
-      ],
-      "name": "Tackling poverty and social injustice internationally "
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "raw": "1.5m",
-          "currency": "GBP",
-          "value100p": 0.0,
-          "error": {}
-        }
-      ],
-      "name": "Global awareness, education and social change"
     }
   ],
   "@type": "NGO",
   "displayName": "Comic Relief",
   "impact": "more-info-needed",
   "confidence": "medium",
-  "recommendation": "comic-relief",
+  "recommendation": "",
   "suggest": [
     "",
     "Comic Relief"
