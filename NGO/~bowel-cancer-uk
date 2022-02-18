@@ -51,7 +51,11 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "• we helped secure approval for two new drugs to benefit advanced bowel cancer patients in the UK, who are people with few other treatment options"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -85,6 +89,37 @@
         }
       },
       "name": "Research"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,173,288",
+          "currency": "GBP",
+          "value100p": 1.173288E10,
+          "value": 1173288.0
+        }
+      ],
+      "name": "Awareness and Direct Services"
     }
   ],
   "@type": "NGO",
