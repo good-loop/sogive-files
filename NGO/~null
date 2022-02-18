@@ -24,10 +24,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "1.5",
+          "raw": "1.5m",
           "currency": "GBP",
-          "value100p": 15000.0,
-          "value": 1.5
+          "value100p": 0.0,
+          "error": {}
         },
         {
           "@type": "Money",
@@ -47,10 +47,10 @@
       "reserves": {
         "@type": "Money",
         "name": "",
-        "raw": "49.3m",
+        "raw": "41.5",
         "currency": "",
-        "value100p": 0.0,
-        "error": {}
+        "value100p": 415000.0,
+        "value": 41.5
       }
     },
     {
