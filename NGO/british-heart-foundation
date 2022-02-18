@@ -1,0 +1,491 @@
+{
+  "scotlandCharityRegNum": "SC039426",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value100p": 1.369E12,
+          "value": 1.369E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "https://www.bhf.org.uk/~/media/files/publications/about-the-bhf/bhf_annualreportaccount2014.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1100.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "research project(s)",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.161E12,
+          "value": 3.161E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.521E12,
+          "value": 1.521E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends71/0000225971_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Cost is not per beneficiary, but per project. Would be better to get this on a per researcher basis, because a project is a bit meaningless. Income from charitable activities stated as ?1m, but ?0 would be a better figure from our perspective (not that it\u0027s material)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1100.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "When I contacted BHF to ask about this, they said that their cost would be the same as any other medical researchers. I challenged whether this would be true (e.g. maybe the cost of research equipment would vary even if salaries are similar) but I was told this was unlikely to be material. So the figure used here is the one used for Cancer Research UK"
+            }
+          },
+          "confidence": "low",
+          "name": "researcher(s) working for a day",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to researchers employed to better tackle cardiovascular disease. The cost includes all overheads",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "500",
+            "value100p": 5000000.0,
+            "value": 500.0
+          },
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "funded one research project for XXXX hours/days/weeks",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.4317206E12,
+          "value": 2.4317206E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.17008764E12,
+          "value": 1.17008764E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends71/0000225971_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "research",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.292794E11,
+          "value": 7.292794E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.699528E11,
+          "value": 2.699528E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends71/0000225971_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "prevention survival and support",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10739263\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d225971"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "356500000",
+          "currency": "GBP",
+          "value100p": 3.565E12,
+          "value": 3.565E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "188900000",
+          "currency": "GBP",
+          "value100p": 1.889E12,
+          "value": 1.889E8
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "38000000",
+        "currency": "",
+        "value100p": 3.8E11,
+        "value": 3.8E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10739263\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d225971"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "93100000",
+          "currency": "GBP",
+          "value100p": 9.31E11,
+          "value": 9.31E7
+        }
+      ],
+      "name": "Research",
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10739263\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d225971"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "34500000",
+          "currency": "GBP",
+          "value100p": 3.45E11,
+          "value": 3.45E7
+        }
+      ],
+      "name": "Healthcare Innovation"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "British Heart Foundation (BHF)",
+  "description": "The research funded by the British Heart Foundation covers a broad range of heart and cardiovascular conditions, including heart attacks, angina and coronary heart disease, high blood pressure, stroke and diabetes. A sizable minority of BHF\u0027s work is on preventative work such as providing training on CPR in schools, community groups and workplaces, and also making defibrillators more widely available. BHF has also identified a link between exposure to air pollution and risk of stroke and circulatory disease. BHF furthermore has one of the largest networks of charity shops.",
+  "recommendation": "Any opinions we have on British Heart Foundation (BHF) are necessarily tentative, given the shortage of data on BHF\u0027s impact (or indeed the impact of most research charities). However we tentatively assign Silver status to BHF.\n\nIt seems likely that its impact will (probably) outperform that of Cancer Research UK and other cancer research charities as well as the bulk of charities doing direct work, but underperform that of the SoGive recommended charities. Hence the silver status.\n\nFor more on that, see [this post](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html) which sets out our (tentative) view that most research outperforms most direct work, but underperforms the highest impact giving options.\n\nSee also [this post](http://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html) which compares different biomedical research donation areas and suggests that if you are going to donate to biomedical research, then BHF is probably one of the better choices.",
+  "whyTags": "Health",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-5513067594268715697.png#ccrop:80",
+  "@id": "british-heart-foundation",
+  "summaryDescription": "BHF fights heart and circulatory disease primarily through research, but also through education, such as training on CPR.",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/raw/bhf-3571690302142809668.jpeg",
+  "noPublicDonations": false,
+  "impact": "medium",
+  "confidence": "low",
+  "suggest": [
+    "British Heart Foundation",
+    "British Heart Foundation (BHF)",
+    "british-heart-foundation"
+  ],
+  "communicationsWithCharity": "Email sent on 7th March 2017 from sogive email address",
+  "url": "https://www.bhf.org.uk/",
+  "howTags": "Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "researcher(s) working for a day",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 5000000,
+      "value": "500.0"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "British Heart Foundation",
+  "lastModified": "2020-10-16T12:56:38Z",
+  "englandWalesCharityRegNum": "225971",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
