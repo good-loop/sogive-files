@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Healthy Seas",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__horizontal-02-14910213500328217639.jpg#ccrop:120",
-  "id": "healthy-seas",
+  "displayName": "Testing Charity",
+  "logo": "https://media.good-loop.com/uploads/standard/Wikimedia-logo-9147743802402560360.png",
+  "id": "testing-charity",
   "suggest": [
-    "Healthy Seas"
+    "Testing Charity"
   ],
-  "url": "https://www.healthyseas.org/",
+  "url": "",
   "status": "DRAFT"
 }
