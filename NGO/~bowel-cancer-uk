@@ -2,6 +2,7 @@
   "scotlandCharityRegNum": "SC040914",
   "@type": "NGO",
   "name": "Bowel Cancer UK",
+  "logo": "https://media.good-loop.com/uploads/raw/bowelcanceruk-6003136297433857261.png",
   "@id": "bowel-cancer-uk",
   "suggest": [
     "Bowel Cancer UK",
@@ -10,5 +11,5 @@
   "englandWalesCharityRegNum": "1071038",
   "url": "https://www.bowelcanceruk.org.uk/",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
