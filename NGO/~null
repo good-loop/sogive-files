@@ -16,18 +16,18 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "86.2m",
+          "raw": "86,200,000",
           "currency": "GBP",
-          "value100p": 0.0,
-          "error": {}
+          "value100p": 8.62E11,
+          "value": 8.62E7
         },
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "1",
+          "raw": "1,500,000",
           "currency": "GBP",
-          "value100p": 10000.0,
-          "value": 1.0
+          "value100p": 1.5E10,
+          "value": 1500000.0
         },
         {
           "@type": "Money",
