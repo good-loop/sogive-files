@@ -35,6 +35,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "p39"
+        },
+        "reserves": {
+          "notes": "p33"
         }
       },
       "name": "overall"
