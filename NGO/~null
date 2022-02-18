@@ -3,7 +3,7 @@
   "@type": "NGO",
   "displayName": "The Eden Project",
   "name": "The Eden Project",
-  "logo": "",
+  "logo": "https://media.good-loop.com/uploads/standard/eden-project-vector-logo-18098242113599950683.png#ccrop:87",
   "description": "We are an educational charity and social enterprise. Our global mission is to create a movement that builds relationships between people and the natural world to demonstrate the power of working together for the benefit of all living things.   ",
   "id": "the-eden-project",
   "suggest": [
@@ -12,5 +12,5 @@
   ],
   "category": "environment",
   "url": "https://www.edenproject.com/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
