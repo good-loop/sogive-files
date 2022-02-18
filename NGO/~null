@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Testing Charity",
+  "logo": "https://media.good-loop.com/uploads/standard/Wikimedia-logo-9147743802402560360.png#ccrop:99",
   "id": "testing-charity",
   "suggest": [
     "Testing Charity"
