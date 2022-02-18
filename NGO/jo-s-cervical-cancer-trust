@@ -1,0 +1,14 @@
+{
+  "scotlandCharityRegNum": "SC041236",
+  "@type": "NGO",
+  "name": "Jo\u0027s Cervical Cancer Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/jcc-logo-11670098399165257672.png#ccrop:103",
+  "@id": "jo-s-cervical-cancer-trust",
+  "suggest": [
+    "Jo\u0027s Cervical Cancer Trust",
+    "jo-s-cervical-cancer-trust"
+  ],
+  "url": "https://www.jostrust.org.uk",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
