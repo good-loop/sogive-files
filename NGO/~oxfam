@@ -411,7 +411,7 @@
           },
           "confidence": "low",
           "name": "people (singular: person) given potentially life-saving assistance",
-          "description": "This is based on Oxfam\u0027s humanitarian work prog",
+          "description": "This is based on Oxfam\u0027s humanitarian work activities",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -622,5 +622,5 @@
   "englandWalesCharityRegNum": "202918",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
