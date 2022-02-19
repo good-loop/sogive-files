@@ -354,7 +354,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "Detailed notes in tab \"Oxfam\" in Cost per beneficiary sheet. "
+          "notes": "Detailed notes in tab \"Oxfam\" in Cost per beneficiary sheet. SOFA on p.67 of 2020 accounts"
         },
         "reserves": {
           "notes": "p. 68 Unrestricted funds",
@@ -622,5 +622,5 @@
   "englandWalesCharityRegNum": "202918",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
