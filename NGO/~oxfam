@@ -411,7 +411,7 @@
           },
           "confidence": "low",
           "name": "people (singular: person) given potentially life-saving assistance",
-          "description": "This is based on Oxfam\u0027s humanitarian work activities",
+          "description": "This is based on Oxfam\u0027s humanitarian programmes",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
