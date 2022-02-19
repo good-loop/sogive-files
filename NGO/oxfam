@@ -588,19 +588,19 @@
     "Oxfam",
     "oxfam"
   ],
-  "url": "http://www.oxfam.org.uk/",
+  "url": "https://www.oxfam.org.uk/",
   "howTags": "Direct Work, Campaigning",
   "recommended": false,
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people (singular: person) supported out of poverty",
+    "name": "people (singular: person) given life-saving assistance",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 177090,
-      "value": "17.70909090909090926800000"
+      "value100p": 160000,
+      "value": "16.0",
+      "name": ""
     }
   },
   "meta": {
@@ -622,5 +622,5 @@
   "englandWalesCharityRegNum": "202918",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
