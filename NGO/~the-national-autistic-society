@@ -47,13 +47,7 @@
       "location": ""
     },
     {
-      "outputs": [
-        {
-          "confidence": "medium",
-          "name": "5139",
-          "description": "Pupils helped during covid and families empowered through a helpline"
-        }
-      ],
+      "outputs": [],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -100,7 +94,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "5139"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "meta": {
     "noPublicDonations": {
