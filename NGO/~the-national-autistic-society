@@ -95,7 +95,12 @@
       "isRep": false
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 4663.0,
+          "name": "Family(ies) helped"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
