@@ -323,5 +323,8 @@
   "uptodatedraft": "probably",
   "whereTags": "UK, developing world",
   "uk_giftaid": true,
+  "suggestedDonations": [
+    {}
+  ],
   "status": "DRAFT"
 }
