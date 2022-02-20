@@ -217,8 +217,8 @@
     "kidney-research-uk"
   ],
   "url": "https://www.kidneyresearchuk.org/",
-  "whyTags": "Health",
-  "howTags": "Research",
+  "whyTags": "Health, Research",
+  "howTags": "Research, Campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
