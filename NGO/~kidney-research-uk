@@ -238,5 +238,8 @@
   "summaryDescription": "Kidney Research UK funds and delivers research into kidney diseases, improves treatments for people with kidney diseases and spreads awareness of kidney health.",
   "uk_giftaid": true,
   "whereTags": "UK",
+  "suggestedDonations": [
+    {}
+  ],
   "status": "DRAFT"
 }
