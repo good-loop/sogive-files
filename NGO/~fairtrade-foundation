@@ -195,15 +195,12 @@
         },
         {
           "@type": "Money",
-          "name": "tradingCosts",
-          "raw": "2997000",
-          "currency": "GBP",
-          "value100p": 2.997E10,
-          "value": 2997000.0
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
         },
         {
           "@type": "Money",
-          "name": "incomeFromBeneficiaries",
+          "name": "tradingCosts",
           "currency": "GBP"
         }
       ],
