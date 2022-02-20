@@ -187,14 +187,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "raw": "9,076,000",
-          "currency": "GBP",
-          "value100p": 9.076E10,
-          "value": 9076000.0
-        },
-        {
-          "@type": "Money",
           "name": "annualCosts",
           "raw": "11,747,000",
           "currency": "GBP",
@@ -208,6 +200,11 @@
           "currency": "GBP",
           "value100p": 3.34E9,
           "value": 334000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
         }
       ],
       "name": "overall"
