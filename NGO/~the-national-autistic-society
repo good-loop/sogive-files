@@ -49,7 +49,7 @@
     {
       "outputs": [
         {
-          "number": 4663.0,
+          "number": 22263.0,
           "confidence": "medium",
           "name": "Family(ies) supported",
           "description": "Families advised and empowered through a helpline/ people supported in their local branch"
@@ -188,8 +188,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 200240,
-      "value": "20.0240188719708344832"
+      "value100p": 41940,
+      "value": "4.194043929389570393076"
     }
   },
   "meta": {
