@@ -51,7 +51,7 @@
         {
           "number": 5139.0,
           "confidence": "medium",
-          "name": "Chil",
+          "name": "",
           "description": "Pupils helped during covid and families empowered through a helpline"
         }
       ],
@@ -101,7 +101,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Chil",
+    "name": "",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
