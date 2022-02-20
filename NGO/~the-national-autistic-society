@@ -99,7 +99,8 @@
         {
           "number": 4663.0,
           "confidence": "medium",
-          "name": "Family(ies) helped"
+          "name": "Family(ies) helped",
+          "description": "Families "
         }
       ],
       "year": 2021.0,
