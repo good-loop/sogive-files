@@ -207,6 +207,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs include "
+        }
+      },
       "name": "overall"
     },
     {
