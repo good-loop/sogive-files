@@ -11,13 +11,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 9.645138E8,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.645138E10,
           "value": 9645138.0
         },
         {
@@ -31,13 +31,13 @@
           "value": 0.0
         },
         {
-          "value100": 4.90793E7,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.90793E9,
           "value": 490793.0
         },
         {
@@ -208,6 +208,32 @@
       "analyst": "Sanjay",
       "end": "2016-03-31T00:00:00Z",
       "location": ""
+    },
+    {
+      "outputs": [],
+      "year": 2022.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "5,876",
+          "currency": "GBP",
+          "value100p": 5.876E7,
+          "value": 5876.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -222,7 +248,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2016.0]"
+    "name": "No Outputs! for project Project[overall 2022.0]"
   },
   "whoTags": "",
   "meta": {
