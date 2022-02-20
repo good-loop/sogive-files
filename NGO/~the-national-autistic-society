@@ -56,6 +56,7 @@
     "the-national-autistic-society"
   ],
   "url": "www.autism.org.uk",
+  "whyTags": "Disability",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
@@ -71,5 +72,5 @@
   "@id": "the-national-autistic-society",
   "summaryDescription": "We are the UK\u0027s leading charity for people on the autism spectrum and their families. Since 1962, we have been providing support, guidance and advice, as well as campaigning for improved rights, services and opportunities to help create a society that works for autistic people.",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
