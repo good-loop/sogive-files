@@ -47,7 +47,12 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "confidence": "medium",
+          "name": "5139"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -94,7 +99,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "5139"
   },
   "meta": {
     "noPublicDonations": {
