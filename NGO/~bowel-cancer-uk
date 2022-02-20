@@ -134,33 +134,6 @@
     },
     {
       "outputs": [],
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "Communications \u0026 Campaigning"
-    },
-    {
-      "outputs": [],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -197,6 +170,8 @@
     }
   ],
   "@type": "NGO",
+  "impact": "more-info-needed",
+  "confidence": "medium",
   "suggest": [
     "Bowel Cancer UK",
     "bowel-cancer-uk"
