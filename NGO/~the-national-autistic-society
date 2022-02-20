@@ -160,7 +160,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "48068",
+          "currency": "GBP",
+          "value100p": 4.8068E8,
+          "value": 48068.0
         }
       ],
       "name": "Social and independent living support"
