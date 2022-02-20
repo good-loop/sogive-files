@@ -212,7 +212,8 @@
           "notes": "Trading costs include \"Raising funds\" and \"Make Fairtrade Personal\" in the SOFA.\n\nThere is no Income from Beneficiaries because the Beneficiaries are the farmers and producers, but the license fees are paid by the companies marketing products carrying the Foundation’s.\n\nI\u0027ve also included both restricted and unrestricted funds."
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     },
     {
       "outputs": [],
