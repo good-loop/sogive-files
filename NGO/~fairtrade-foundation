@@ -177,6 +177,9 @@
         {
           "@type": "Citation",
           "url": "https://www.fairtrade.org.uk/wp-content/uploads/2021/07/Fairtrade-Annual-Report-and-Financial-Statements-2020-1.pdf"
+        },
+        {
+          "@type": "Citation"
         }
       ],
       "year": 2020.0,
