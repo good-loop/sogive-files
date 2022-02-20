@@ -172,7 +172,8 @@
   "@type": "NGO",
   "displayName": "NAS",
   "noPublicDonations": false,
-  "impact": "more-info-needed",
+  "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "The National Autistic Society",
     "NAS",
