@@ -47,7 +47,14 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 5139.0,
+          "confidence": "medium",
+          "name": "",
+          "description": "Pupils helped during covid and families empowered through a helpline"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -94,7 +101,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 181692,
+      "value": "18.1692936368943376632"
+    }
   },
   "meta": {
     "noPublicDonations": {
