@@ -245,6 +245,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "Pg. 36"
+        },
+        "reserves": {
+          "notes": "Pg. 37"
         }
       },
       "name": "overall",
