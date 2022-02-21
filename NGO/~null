@@ -24,10 +24,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "1,500,000",
+          "raw": "1518000",
           "currency": "GBP",
-          "value100p": 1.5E10,
-          "value": 1500000.0
+          "value100p": 1.518E10,
+          "value": 1518000.0
         },
         {
           "@type": "Money",
