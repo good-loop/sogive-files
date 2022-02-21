@@ -150,8 +150,18 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p74"
+        }
+      },
       "name": "Global awareness, education and social change"
     }
   ],
