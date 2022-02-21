@@ -508,7 +508,8 @@
           "value": 9326000.0
         }
       ],
-      "name": "There\u0027s no place like home"
+      "name": "There\u0027s no place like home",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -660,14 +661,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "young cancer patient(s) helped",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 32456338,
-      "value": "3245.63380281690160968000"
-    }
+    "name": "No Outputs! for project Project[There\u0027s no place like home 2020.0]"
   },
   "whoTags": "Children",
   "meta": {
@@ -679,5 +673,5 @@
   "englandWalesCharityRegNum": "1107328",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
