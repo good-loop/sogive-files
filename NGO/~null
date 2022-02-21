@@ -1,5 +1,6 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/logo-4809441343243123496.png",
+  "color": "#1a1d20",
   "@type": "NGO",
   "displayName": "Gyrl Wonder",
   "name": "Gyrl Wonder",
@@ -9,5 +10,5 @@
     "Gyrl Wonder",
     "Gyrl Wonder"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
