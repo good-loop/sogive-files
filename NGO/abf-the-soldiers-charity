@@ -1,0 +1,474 @@
+{
+  "scotlandCharityRegNum": "SC039189",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.3727226E11,
+          "value": 1.3727226E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends20/0001146420_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "22924530",
+          "currency": "GBP",
+          "value100p": 2.292453E11,
+          "value": 2.292453E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "Page 34 of the data source document. Funds balances at 31 March (there is another entry for the 1st of April)"
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "84863389",
+        "currency": "GBP",
+        "value100p": 8.4863389E11,
+        "value": 8.4863389E7
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 70000.0,
+          "meta": {
+            "all": {
+              "notes": "Amount of funded members taken from page 8 of the data source document."
+            }
+          },
+          "name": "members of the army family supported",
+          "description": "In FY 18-19 they spent £17.3m supporting more\nthan 70,000 members of the Army family."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3736507",
+          "currency": "GBP",
+          "value100p": 3.736507E10,
+          "value": 3736507.0
+        }
+      ],
+      "name": "Grants to Regiments and Corps for the benefit of individuals",
+      "start": "2018-04-01",
+      "description": "All grants made for the benefit of soldiers, former soldiers and their families are paid through their parent Regimental or Corps associations. The total value of these grants made during the year was £3,736,507 (2018: £3,351,005).",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 92.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Amount of other charities funded taken from page 8 of the data source document."
+            }
+          },
+          "name": "other charities funded",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11292592",
+          "currency": "GBP",
+          "value100p": 1.1292592E11,
+          "value": 1.1292592E7
+        }
+      ],
+      "name": "Grants to other charities",
+      "start": "2018-04-01",
+      "description": "The charity, on behalf of the partnership of Army charitable funds, makes grants to national charities and occasionally other organisations which support soldiers, veterans and their families.\nBy the nature of Service charities and other charities supporting serving and former soldiers, many of The Soldiers\u0027 Charity\u0027s Trustees and senior management work closely with, or serve as Trustees for, some of the charities listed below that receive grants from us. Where this applies, the Trustee or member of the management team will not take part in the grant making decision process.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2236200",
+          "currency": "GBP",
+          "value100p": 2.2362E10,
+          "value": 2236200.0
+        }
+      ],
+      "name": "Grant making and other support costs",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 60000.0,
+          "name": "members (singular: member) of the army supported"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "12308072",
+          "currency": "GBP",
+          "value100p": 1.2308072E11,
+          "value": 1.2308072E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1760181",
+          "currency": "GBP",
+          "value100p": 1.760181E10,
+          "value": 1760181.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "32107928",
+        "currency": "",
+        "value100p": 3.2107928E11,
+        "value": 3.2107928E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4519535.5",
+          "currency": "GBP",
+          "value100p": 4.5195355E10,
+          "value": 4519535.5
+        }
+      ],
+      "name": "Grants to other charities "
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2671384",
+          "currency": "GBP",
+          "value100p": 2.671384E10,
+          "value": 2671384.0
+        }
+      ],
+      "name": "Grant making and other support costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11203354\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5026912"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3356971",
+          "currency": "GBP",
+          "value100p": 3.356971E10,
+          "value": 3356971.0
+        }
+      ],
+      "name": "Grants to Regiments and Corps for the benefit of individuals "
+    }
+  ],
+  "@type": "NGO",
+  "description": "ABF Soldiers\u0027 charity benefits soldiers, ex-soldiers and those closest to them. It does this by making grants, which either go to individual soldiers and their families, or to other charities, who then use the funds to do work which also relates to supporting the military. Grants are provided for a very wide range of needs including support to those wounded on current or long past operations; help with providing retraining for civilian occupations - especially for those leaving the Army as a result of injury or illness; help for the elderly (through assistance with mobility aids, home adaptations and care home fees); help in covering priority debts such as council tax, utility bills for those in particular difficulty and support for children\u0027s education for families in particular need, for example after the death of the family breadwinner.",
+  "recommendation": "**Summary**\n**ABF The Soldiers’ Charity is rated as Too Rich on the SoGive rating scale.**\n\n- ABF The Soldiers’ Charity provides support to soldiers, ex-soldiers, and their families.\n- Examples of the activities undertaken include making grants to individual soldiers and families, providing funding to a wide range of charities and other organizations, and supporting the military welfare ecosystem.\n- Taking reported numbers at face value, the organization appears to spend about £176 per person reached by its services. This number however combines the costs and impacts of all projects, and with the information provided we are not able to estimate the cost per person for individual projects.  \n- While it is possible that ABF The Soldiers’ Charity reaches a level of cost effectiveness equivalent to a SoGive Gold Standard organization, we lack evidence for a firm assessment. In particular, we would need more detailed information on the impact achieved per project and their effects on the wellbeing of beneficiaries.   \n- Furthermore, we estimated that ABF The Soldiers’ Charity has a level of reserves which means they can fully fund their activities for roughly 36 months, even if they received no further funding. This is more than the 18 month threshold above which we rate charities as Too Rich.\n- For these reasons, we have low confidence that a donation to ABF The Soldiers’ Charity will achieve at least as much impact as the same amount of money donated to a SoGive Gold Standard organization.\n \n**The SoGive approach**\n \nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n \nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n \n**More about what ABF The Soldiers’ Charity does - how they spend your donations**\n \nABF The Soldiers’ Charity conduct their activities in 63 countries and have provided essential funding to 43 charities, all with the aim of benefitting soldiers, ex-soldiers, and their families. From the 2021 [annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11203354\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5026912) (p.42) we can conclude that, after making adjustments for certain types of spending, a total of £10.5m is spent on charitable activities. The organization divides these expenditures into three types of activities:\n \n*Grants to individuals*\nFirst, ABF The Soldiers’ Charity gives out grants to individuals (p.9). These grants serve a variety of purposes, from helping with unexpected bills or expenses for a family in crisis to assisting with funeral costs. The grants are made through Regimental and Corps charities and receive about £3.3m in spending, which corresponds to 31% of total expenditures.\n \n*Grants to other charities and organizations*\nSecond, grants are given out to other charities and organizations with the aim of providing specialist support to soldiers, ex-soldiers and their families (p.9). This type of support may include employment and training, family welfare, housing, and general wellbeing. In total, this type of activity receives about £4.5m in spending, which corresponds to 43% of total spending.  \n\n*Other projects*\nThird, the organization undertakes projects to play a key role in the military welfare ecosystem by promoting efficient management, and funding organizations that carry out army related casework, such as providing support to widowed women and children (p.9; p.13). In total, these projects receive about £2.6m in spending, which corresponds to 26% of total spending.\n \nABF The Soldiers’ Charity report that their services reached 60,000 individuals in 2021 (p.10). This number represents the total impact of all three types of projects combined.\n \n**Cost-effectiveness analysis - how does ABF The Soldiers’ Charity compare to the most cost-effective charities?**\n \nAfter a review of the work of ABF The Soldiers’ Charity under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a\nhigh impact per pound donated (such as £5,000 per life saved, or £200 to avert\none year of severe depression) and also provide robust evidence on the\neffectiveness of their work. The process used to determine the SoGive Gold\nStandard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n \nIf we take the main impact number provided by ABF The Soldiers’ Charity at face value, the organization spent £10.5m to reach 60,000 individuals, so the average cost per person reached is approximately £176. The main challenge we face in using this number to compare ABF to SoGive’s Gold Standard rated charities is that it represents the combined impact of all projects while ABF funds a wide variety of projects that likely affect the wellbeing of their beneficiaries in different ways. To reach a full assessment, we would need to know impact numbers for specific projects (both the number of people helped, and the average impact on wellbeing for these people), which ABF currently provides for only a small share of its projects. Furthermore, ABF achieves much of its impact by funding other organizations, and as these organizations likely depend on additional sources of funding, we should expect the actual costs per person reached to be higher.\n \n**Reserves**\n \nABF The Soldiers’ Charity is considered to be Too Rich under the SoGive methodology. Given the total unrestricted funds of £32.1m carried forward on 31 March 2021, and the total expenditure of £10.5m for the year ended on 31 March 2021, we estimate that ABF The Soldiers’ Charity has a level of reserves which means they could fully fund their activities for roughly 36 months, even if they received no further donations. This is longer than the 18 month threshold above which charities are ranked as Too Rich.\n \n**Conclusion**\n \nBased on the above, we rate the ABF The Soldiers’ Charity as Too Rich under theSoGive methodology.",
+  "whyTags": "Military/veterans",
+  "ready": false,
+  "modified": true,
+  "logo": "https://www.soldierscharity.org/wp-content/uploads/2015/05/ABFTSC_primary_CMYK.png",
+  "@id": "abf-the-soldiers-charity",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABF_The_Soldiers%27_Charity",
+  "summaryDescription": "ABF Soldiers\u0027 charity benefits soldiers, ex-soldiers and those closest to them",
+  "uptodatedraft": "probably",
+  "images": "https://www.charityfairsassociation.co.uk/wp-content/uploads/2016/06/image-2.jpeg",
+  "noPublicDonations": false,
+  "impact": "too-rich",
+  "confidence": "high",
+  "suggest": [
+    "ABF THE SOLDIERS\u0027 CHARITY",
+    "abf-the-soldiers-charity"
+  ],
+  "url": "https://soldierscharity.org/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "members of the army family supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 533786,
+      "value": "53.378671428571425902495"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "ABF THE SOLDIERS\u0027 CHARITY",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "1146420",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
