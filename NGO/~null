@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Health Services - Brook Advisory",
+  "name": "Health Services - Brook Advisory",
   "id": "health-services",
-  "suggest": []
+  "suggest": [
+    "Health Services - Brook Advisory",
+    "Health Services - Brook Advisory"
+  ],
+  "status": "DRAFT"
 }
