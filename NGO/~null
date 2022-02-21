@@ -1,7 +1,9 @@
 {
   "@type": "NGO",
   "displayName": "Health Services - Brook Advisory",
+  "unlisted": true,
   "name": "Health Services - Brook Advisory",
+  "logo": "https://media.good-loop.com/uploads/standard/Education_Resources_1-17006587903231766159.png",
   "id": "health-services",
   "suggest": [
     "Health Services - Brook Advisory",
