@@ -1,13 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/logo-4809441343243123496.png",
   "@type": "NGO",
-  "displayName": "Gyrl Wonder",
-  "name": "Gyrl Wonder",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-13738081816189300379.png",
-  "id": "gyrl-wonder",
-  "suggest": [
-    "Gyrl Wonder",
-    "Gyrl Wonder"
-  ],
-  "status": "DRAFT"
+  "id": "gyrl-",
+  "suggest": []
 }
