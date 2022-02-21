@@ -484,6 +484,7 @@
         {
           "number": 4270.0,
           "name": "individual(s) supported with accommodation costs",
+          "description": "This refers to accommodation costs associated with ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -693,5 +694,5 @@
   "englandWalesCharityRegNum": "1107328",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
