@@ -1,13 +1,167 @@
 {
-  "@type": "NGO",
-  "displayName": "Health Services - Brook Advisory",
-  "unlisted": true,
-  "name": "Health Services - Brook Advisory",
-  "logo": "https://media.good-loop.com/uploads/standard/Education_Resources_1-17006587903231766159.png#ccrop:109",
-  "id": "health-services",
-  "suggest": [
-    "Health Services - Brook Advisory",
-    "Health Services - Brook Advisory"
+  "scotlandCharityRegNum": "SC039730",
+  "images": "https://media.good-loop.com/uploads/raw/comic_relief-16971394671838690021.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.ctfassets.net/zsfivwzfgl3t/Zyt3hfxuavgJC5LvUDovZ/eaff608202d918317cf8fe93105233fb/Charity_Projects_Annual_Report_202021_Signed.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "86197000",
+          "currency": "GBP",
+          "value100p": 8.6197E11,
+          "value": 8.6197E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1518000",
+          "currency": "GBP",
+          "value100p": 1.518E10,
+          "value": 1518000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "check page 73 for annual costs and p86 for trading costs. "
+        },
+        "reserves": {
+          "notes": "see page 39"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "41,500,000",
+        "currency": "",
+        "value100p": 4.15E11,
+        "value": 4.15E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.ctfassets.net/zsfivwzfgl3t/Zyt3hfxuavgJC5LvUDovZ/eaff608202d918317cf8fe93105233fb/Charity_Projects_Annual_Report_202021_Signed.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "UK: Tackling poverty and social injustice"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "International: Tackling poverty and social injustice"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Global awareness, education and social change"
+    }
   ],
+  "@type": "NGO",
+  "displayName": "Comic Relief",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "recommendation": "",
+  "suggest": [
+    "",
+    "Comic Relief"
+  ],
+  "url": "https://www.comicrelief.com/",
+  "whyTags": "Children, Homelessness, Mental Health, Poverty, Refugees,  Sexual Violation, Women",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "meta": {
+    "recommendation": {
+      "notes": "There\u0027s a discrepancy between page 19 and page 73 in terms of investments "
+    }
+  },
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/comic-relief-6507731720186293423.svg#ccrop:105",
+  "id": "comic-relief",
+  "englandWalesCharityRegNum": "326568",
+  "summaryDescription": "Comic Relief tackles poverty in the UK and worldwide through partnerships with a variety of organisations and projects. They fundraise through entertainment events such as Sports Relief and Red Nose Day.",
+  "whereTags": "UK, developing countries",
+  "uk_giftaid": true,
   "status": "DRAFT"
 }
