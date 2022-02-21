@@ -483,7 +483,15 @@
       "outputs": [
         {
           "number": 4270.0,
-          "name": "individual(s) supported with accommodation costs"
+          "name": "individual(s) supported with accommodation costs",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "2184",
+            "currency": "",
+            "value100p": 2.184E7,
+            "value": 2184.0
+          }
         }
       ],
       "year": 2020.0,
@@ -670,9 +678,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 21840749,
-      "value": "2184.074941451990676000"
+      "value100p": 21840000,
+      "value": "2184.0",
+      "name": ""
     }
   },
   "whoTags": "Children",
@@ -685,5 +693,5 @@
   "englandWalesCharityRegNum": "1107328",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
