@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Gyrl Wonder",
   "id": "gyrl-wonder",
-  "suggest": []
+  "suggest": [
+    "Gyrl Wonder"
+  ],
+  "status": "DRAFT"
 }
