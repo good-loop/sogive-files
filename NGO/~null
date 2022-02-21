@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Home-Start Birmingham",
   "id": "home-start-birmingham",
-  "suggest": []
+  "suggest": [
+    "Home-Start Birmingham"
+  ],
+  "status": "DRAFT"
 }
