@@ -1,0 +1,683 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 7100.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "young cancer patient(s) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to young people and their families receiving the emotional, practical, financial and clinical support that means they are more able to manage the worst effects of cancer on their lives as well as their health",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.5785E11,
+          "value": 2.5785E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.741E10,
+          "value": 2741000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends28/0001107328_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "27624000",
+          "currency": "GBP",
+          "value100p": 2.7624E11,
+          "value": 2.7624E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3210000",
+          "currency": "GBP",
+          "value100p": 3.21E10,
+          "value": 3210000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "3249000",
+        "currency": "GBP",
+        "value100p": 3.249E10,
+        "value": 3249000.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 6733.0,
+          "name": "children (singular child) supported",
+          "description": "This means providing day-to-day support for a child,\nyoung person and their family, from information and guidance to clinical care and specialist play\nduring treatment."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2468000",
+          "currency": "GBP",
+          "value100p": 2.468E10,
+          "value": 2468000.0
+        }
+      ],
+      "name": "When the doctor says cancer",
+      "description": "To reach and support children and young people with cancer, and their families, by delivering easily accessible information and the creation of peerto-peer support communities."
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5104000",
+          "currency": "GBP",
+          "value100p": 5.104E10,
+          "value": 5104000.0
+        }
+      ],
+      "name": "There\u0027s no place like home"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1748000",
+          "currency": "GBP",
+          "value100p": 1.748E10,
+          "value": 1748000.0
+        }
+      ],
+      "name": "Helping young lives thrive, not just survive"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3849000",
+          "currency": "GBP",
+          "value100p": 3.849E10,
+          "value": 3849000.0
+        }
+      ],
+      "name": "Cancer costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "723000",
+          "currency": "GBP",
+          "value100p": 7.23E9,
+          "value": 723000.0
+        }
+      ],
+      "name": "When a child dies"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.clicsargent.org.uk/wp-content/uploads/2019/09/ARA-1819_FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "763000",
+          "currency": "GBP",
+          "value100p": 7.63E9,
+          "value": 763000.0
+        }
+      ],
+      "name": "Making change happen"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.younglivesvscancer.org.uk/wp-content/uploads/2021/03/CLIC-Sargent-2019-20-Accounts.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "26794000",
+          "currency": "GBP",
+          "value100p": 2.6794E11,
+          "value": 2.6794E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2654000",
+          "currency": "GBP",
+          "value100p": 2.654E10,
+          "value": 2654000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "7421000",
+        "currency": "",
+        "value100p": 7.421E10,
+        "value": 7421000.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.younglivesvscancer.org.uk/wp-content/uploads/2021/03/CLIC-Sargent-2019-20-Accounts.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4530000",
+          "currency": "GBP",
+          "value100p": 4.53E10,
+          "value": 4530000.0
+        }
+      ],
+      "name": "When the doctor says cancer"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9326000",
+          "currency": "GBP",
+          "value100p": 9.326E10,
+          "value": 9326000.0
+        }
+      ],
+      "name": "There\u0027s no place like home"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3201000",
+          "currency": "GBP",
+          "value100p": 3.201E10,
+          "value": 3201000.0
+        }
+      ],
+      "name": "Helping young lives thrive, not just survive"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7382000",
+          "currency": "GBP",
+          "value100p": 7.382E10,
+          "value": 7382000.0
+        }
+      ],
+      "name": "Cancer costs"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1292000",
+          "currency": "GBP",
+          "value100p": 1.292E10,
+          "value": 1292000.0
+        }
+      ],
+      "name": "When a child dies"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1063000",
+          "currency": "GBP",
+          "value100p": 1.063E10,
+          "value": 1063000.0
+        }
+      ],
+      "name": "Making change happen"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Young Lives Against Cancer",
+  "recommendation": "**Summary**\n\n**Young Lives vs Cancer is rated as Not Recommended (firm) on the SoGive ratings scale**\n\n- Young Lives vs Cancer (YLVC) provides various support services for young people with cancer and their families, two of which are discussed:\n- \"When the doctor says cancer\" provides young patients and their families with tailored support and guidance following initial cancer diagnosis, at a cost of around £177 per family member\n- To reach the SoGive Gold Standard, this project would need to produce an increase in wellbeing per individual equivalent to averting over 10 months of severe depression\n- \"Homes from Home\" provides accommodations for patients and their families near treatment facilities, at a cost of around £2,184 per family member\n- To reach the SoGive Gold Standard, Homes from Home would need to produce an increase in wellbeing per individual equivalent to averting almost 11 years of severe depression, or double each individual’s spending for over 43 years, or some combination of the two\n- We think it is highly likely that neither project produces such a large impact, and since these two projects account for a majority of total expenditure, we rate Young Lives vs Cancer as Not Recommended (Firm) under the SoGive methodology\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what YLVC does - how they spend your donations**\n\nAll information was retrieved from the [2019-20 annual report](https://www.younglivesvscancer.org.uk/wp-content/uploads/2021/03/CLIC-Sargent-2019-20-Accounts.pdf) - we used this instead of the 2020-21 report as we believe that, considering the impact of the COVID-19 pandemic, the earlier report is likely more representative of the charity’s future activities. All data on expenditure were retrieved from p. 37. Note that in reporting the expenditure below, overheads (expenditure on non-charitable activities) are added in proportion to the size of the project - for example, \"When the doctor says cancer\" accounts for 17% of the expenditure on charitable activities, so we add 17% of the overheads to the reported expenditure on the project to get an estimate of the total expenditure.\n\nYLVC operates several projects, outlined below, to support young patients (25 years old and under) and their families cope with cancer diagnosis, treatment, and day-to-day life. Total expenditure across all projects was £26.794m, of which about 50% were overheads (including fundraising costs). \n\n*’When the doctor says cancer’ - Guidance, information, and support*\nYLVC provides guidance, information, and tailored support to children and families soon after receiving a diagnosis and during the early stages of clinical treatment (p. 7-9). In the 2019-20 financial year, 7,294 young patients and their families received individual support, for a total expenditure of £4.530m (16.9% of total expenditure).\n\n*Grants for travel, accommodation, and lost income*\nTo help deal with costs associated with cancer (not treatment costs themselves), such as travel, accommodation, and lost income, YLVC provided over 5000 grants (p. 9-10). They also provide advice and consulting services to help families acquire additional sources of funding elsewhere (p. 10). Expenditure on this project totalled £7.382m (27.6% of total expenditure).\n\n*Homes from Home*\nYLVC’s largest share of expenditure (£9.326m, 34.8% of total expenditure) is allocated to their Homes from Home project, which provides ten free accommodations close to Principal Treatment Centres. 1220 families used these accommodations, resulting in reduced travel and living costs and enabling them to spend quality time together outside of the hospital (p. 11-12).\n\n*Education and employment support*\n£3.201m (11.9%) was allocated towards helping young patients get their lives back on track both during and after cancer treatment, especially with regard to education and school life - YLVC provided over 1000 young people with education and employment support (p. 12-15).\n\n*Bereavement support*\nIn the event that a young patient dies, YLVC offers bereavement support in the form of counselling and grants - over 400 families received such support (p. 15-16), for a total expenditure of £1.292m (4.8%).\n\n*Research and campaigning*\nYLVC also performs research into long-term impacts of cancer diagnosis and campaigning work to advocate on behalf of young cancer patients and their families (p. 17-18), though this receives a small share of expenditure (£1.063m)\n\n**Cost-effectiveness analysis - how does YLVC compare to the most cost-effective charities?**\n\nAfter a review of the work of the YLVC under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nSince ‘Homes from Home’ and \"When the doctor says cancer\" add up to over half of the total expenditure, analyses of these two projects can provide a reasonable estimate of the charity’s cost-effectiveness as a whole.\n\nEstimating the average number of members per family is required to generate a \"pounds per individual\" impact number for these two projects. This was performed using the 2020 data in Table 3 (Families with dependent children by family type and number of dependent children) of the [Families and Households, 2020](https://www.ons.gov.uk/file?uri\u003d/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/familiesandhouseholdsfamiliesandhouseholds/current/familiesandhouseholds2020.xlsx) dataset, published by the Office for National Statistics. The average number of family members in families with at least one child comes out to be ~3.5. Note that this estimate only accounts for families with dependent children (the definition of which is given with the data) but there doesn’t seem to be any reason to believe that considering families with non-dependent children would significantly change the average.\n\n*Homes from Home*\nGiven that 1220 families were supported by the Homes from Home project, and using this average of 3.5 family members, this implies around 4,270 individuals were supported. Given costs of the project of around £9.326m, the cost-per-individual supported by the Homes from Home project is estimated as £2,184. Comparing this figure to the Gold Standard benchmark of £200 to avert one year of severe depression, Homes from Home would need to produce, for each individual, an increase in well-being equivalent to averting at least 10 years and 11 months of severe depression to be considered cost-effective. Alternatively, considering the benchmark of £50 to double one’s consumption for a year, Homes from Home would need to double each individual’s consumption for around 43 years and 8 months to be considered cost-effective. We think it is highly unlikely that Homes from Home produces such a high impact, and thus underperforms relative to the Gold Standard.\n\n*’When the doctor says cancer’*\nFor the \"When the doctor says cancer\" project, we assume that each young patient supported corresponds to one family, resulting in around 25,529 beneficiaries. Given costs of £4.53m, this implies a cost-effectiveness of £177 per family member. At this figure, to meet the Gold Standard of £200 to avert one year of severe depression, each family member would need to experience a gain in wellbeing equivalent to averting 10 - 11 months of severe depression. Since this project is largely focused on providing guidance and information, we do not believe that this project produces such a high impact, and thus also underperforms relative to the Gold Standard.\n\n**Conclusion** \n\nSince neither project meets the Gold Standard and they account for a majority of the charity’s total expenditure, we rate Young Lives vs Cancer as Not Recommended (Firm) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "whyTags": "Cancer, health",
+  "ready": true,
+  "modified": true,
+  "logo": "https://media.good-loop.com/uploads/raw/Clic-Sargent-Strap-LOGO-2017-4035639427289975261.png#ccrop:75_noscale",
+  "@id": "clic-sargent-cancer-care-for-children",
+  "wikipedia": "https://en.wikipedia.org/wiki/CLIC_Sargent",
+  "summaryDescription": "Young Lives vs Cancer provides specialist support services to children with cancer and their families.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/clicsargent-1012500171066312586.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "CLIC Sargent Cancer Care for Children",
+    "Young Lives Against Cancer",
+    "clic-sargent-cancer-care-for-children"
+  ],
+  "url": "https://www.younglivesvscancer.org.uk/",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "young cancer patient(s) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 32456338,
+      "value": "3245.63380281690160968000"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "CLIC Sargent Cancer Care for Children",
+  "englandWalesCharityRegNum": "1107328",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
