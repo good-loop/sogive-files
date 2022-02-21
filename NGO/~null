@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Birmingham and Solihull Women\u0027s Aid",
   "name": "Birmingham and Solihull Women\u0027s Aid",
   "id": "birmingham-and-solihull-women-s-aid",
   "suggest": [
+    "Birmingham and Solihull Women\u0027s Aid",
     "Birmingham and Solihull Women\u0027s Aid"
   ],
   "status": "DRAFT"
