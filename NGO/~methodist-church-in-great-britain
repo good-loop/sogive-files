@@ -1,0 +1,581 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.methodist.org.uk/media/16550/methodist-church-signed-accounts-ye-310819.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "49622000",
+          "currency": "GBP",
+          "value100p": 4.9622E11,
+          "value": 4.9622E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": ""
+        },
+        "inputs_meta": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2018-09-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "99967000",
+        "currency": "GBP",
+        "value100p": 9.9967E11,
+        "value": 9.9967E7
+      },
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.methodist.org.uk/media/16550/methodist-church-signed-accounts-ye-310819.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16632000",
+          "currency": "GBP",
+          "value100p": 1.6632E11,
+          "value": 1.6632E7
+        }
+      ],
+      "name": "Equipping the church to engage society ",
+      "start": "2018-09-01",
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.methodist.org.uk/media/16550/methodist-church-signed-accounts-ye-310819.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12172000",
+          "currency": "GBP",
+          "value100p": 1.2172E11,
+          "value": 1.2172E7
+        }
+      ],
+      "name": "Formation, training, development and resourcing",
+      "start": "2018-09-01",
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.methodist.org.uk/media/16550/methodist-church-signed-accounts-ye-310819.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8783000",
+          "currency": "GBP",
+          "value100p": 8.783E10,
+          "value": 8783000.0
+        }
+      ],
+      "name": "Empowering the ministry of overseas partners",
+      "start": "2018-09-01",
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.methodist.org.uk/media/16550/methodist-church-signed-accounts-ye-310819.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3460000",
+          "currency": "GBP",
+          "value100p": 3.46E10,
+          "value": 3460000.0
+        }
+      ],
+      "name": "Advocacy and education ",
+      "start": "2018-09-01",
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10998853\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4047572"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "44353000",
+          "currency": "GBP",
+          "value100p": 4.4353E11,
+          "value": 4.4353E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "13897000",
+          "currency": "GBP",
+          "value100p": 1.3897E11,
+          "value": 1.3897E7
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": "1 September 2019 - 31 August 2020"
+        },
+        "reserves": {
+          "notes": "general unrestricted funds"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "54139000",
+        "currency": "",
+        "value100p": 5.4139E11,
+        "value": 5.4139E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2069000",
+          "currency": "GBP",
+          "value100p": 2.069E10,
+          "value": 2069000.0
+        }
+      ],
+      "name": "Building Communities "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1697000",
+          "currency": "GBP",
+          "value100p": 1.697E10,
+          "value": 1697000.0
+        }
+      ],
+      "name": "Children, Youth, and Families "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6106000",
+          "currency": "GBP",
+          "value100p": 6.106E10,
+          "value": 6106000.0
+        }
+      ],
+      "name": "Evangelism and Growth "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10060000",
+          "currency": "GBP",
+          "value100p": 1.006E11,
+          "value": 1.006E7
+        }
+      ],
+      "name": "Global Relations "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2822000",
+          "currency": "GBP",
+          "value100p": 2.822E10,
+          "value": 2822000.0
+        }
+      ],
+      "name": "Learning Network "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7713000",
+          "currency": "GBP",
+          "value100p": 7.713E10,
+          "value": 7713000.0
+        }
+      ],
+      "name": "The Methodist Council and Governance "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1024000",
+          "currency": "GBP",
+          "value100p": 1.024E10,
+          "value": 1024000.0
+        }
+      ],
+      "name": "Ministries "
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4726000",
+          "currency": "GBP",
+          "value100p": 4.726E10,
+          "value": 4726000.0
+        }
+      ],
+      "name": "Property "
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Methodist Church in Great Britain",
+  "description": "The Methodist Church in Great Britain oversees a variety of Methodist organizations involved in worship (churches), education (schools and religious education), and international aid. Internally, it trains and supports clergy and provides its church members with leadership, courses, events, and other forms of support. Externally, it coordinates with partner churches, evangelizes Christianity, campaigns for various causes, and provides international aid.",
+  "recommendation": "",
+  "whyTags": "Christian, International Aid, Disaster Relief",
+  "UNSDG": "0",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-832189999997951870.png",
+  "@id": "methodist-church-in-great-britain",
+  "id": "methodist-church-in-great-britain",
+  "summaryDescription": "The Methodist Church in Great Britain is the umbrella organization of Methodist churches, schools, and other organizations in Great Britain and is the worldwide mother church of Methodism, a Protestant Christian denomination.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-10444268397272395086.png",
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "suggest": [
+    "Methodist Church in Great Britain",
+    "Methodist Church in Great Britain",
+    "methodist-church-in-great-britain"
+  ],
+  "url": "https://www.methodist.org.uk/",
+  "howTags": "Direct Work, Campaigning, Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "name": "Methodist Church in Great Britain",
+  "lastModified": "2020-08-17T13:11:41Z",
+  "category": "religion",
+  "subcategory": "Religious Activities",
+  "englandWalesCharityRegNum": "1132208",
+  "whereTags": "Great Britain, International",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
