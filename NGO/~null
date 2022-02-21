@@ -3,11 +3,11 @@
   "@type": "NGO",
   "displayName": "Gyrl Wonder",
   "name": "Gyrl Wonder",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-13135107315886684112.png",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-13135107315886684112.png#ccrop:95",
   "id": "gyrl-wonder",
   "suggest": [
     "Gyrl Wonder",
     "Gyrl Wonder"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
