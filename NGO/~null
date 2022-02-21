@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "International Aids Society",
   "id": "a",
-  "suggest": []
+  "suggest": [
+    "International Aids Society"
+  ],
+  "status": "DRAFT"
 }
