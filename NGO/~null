@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Home-Start Birmn",
+  "displayName": "Home-Start Birmingham",
   "name": "Home-Start Birmingham",
   "id": "home-start-birmingham",
   "suggest": [
     "Home-Start Birmingham",
-    "Home-Start Birmn"
+    "Home-Start Birmingham"
   ],
   "url": "https://www.homestartbirmingham.co.uk/",
   "status": "DRAFT"
