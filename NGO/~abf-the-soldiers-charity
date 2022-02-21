@@ -1,0 +1,474 @@
+{
+  "scotlandCharityRegNum": "SC039189",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.3727226E11,
+          "value": 1.3727226E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends20/0001146420_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "22924530",
+          "currency": "GBP",
+          "value100p": 2.292453E11,
+          "value": 2.292453E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "Page 34 of the data source document. Funds balances at 31 March (there is another entry for the 1st of April)"
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "84863389",
+        "currency": "GBP",
+        "value100p": 8.4863389E11,
+        "value": 8.4863389E7
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 70000.0,
+          "meta": {
+            "all": {
+              "notes": "Amount of funded members taken from page 8 of the data source document."
+            }
+          },
+          "name": "members of the army family supported",
+          "description": "In FY 18-19 they spent £17.3m supporting more\nthan 70,000 members of the Army family."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3736507",
+          "currency": "GBP",
+          "value100p": 3.736507E10,
+          "value": 3736507.0
+        }
+      ],
+      "name": "Grants to Regiments and Corps for the benefit of individuals",
+      "start": "2018-04-01",
+      "description": "All grants made for the benefit of soldiers, former soldiers and their families are paid through their parent Regimental or Corps associations. The total value of these grants made during the year was £3,736,507 (2018: £3,351,005).",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 92.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Amount of other charities funded taken from page 8 of the data source document."
+            }
+          },
+          "name": "other charities funded",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11292592",
+          "currency": "GBP",
+          "value100p": 1.1292592E11,
+          "value": 1.1292592E7
+        }
+      ],
+      "name": "Grants to other charities",
+      "start": "2018-04-01",
+      "description": "The charity, on behalf of the partnership of Army charitable funds, makes grants to national charities and occasionally other organisations which support soldiers, veterans and their families.\nBy the nature of Service charities and other charities supporting serving and former soldiers, many of The Soldiers\u0027 Charity\u0027s Trustees and senior management work closely with, or serve as Trustees for, some of the charities listed below that receive grants from us. Where this applies, the Trustee or member of the management team will not take part in the grant making decision process.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://soldierscharity.org/wp-content/uploads/2019/10/ABF_Annual-Report_2018-2019_v13.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2236200",
+          "currency": "GBP",
+          "value100p": 2.2362E10,
+          "value": 2236200.0
+        }
+      ],
+      "name": "Grant making and other support costs",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 60000.0,
+          "name": "members (singular: member) of the army supported"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "12308072",
+          "currency": "GBP",
+          "value100p": 1.2308072E11,
+          "value": 1.2308072E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1760181",
+          "currency": "GBP",
+          "value100p": 1.760181E10,
+          "value": 1760181.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "32107928",
+        "currency": "",
+        "value100p": 3.2107928E11,
+        "value": 3.2107928E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4519535.5",
+          "currency": "GBP",
+          "value100p": 4.5195355E10,
+          "value": 4519535.5
+        }
+      ],
+      "name": "Grants to other charities "
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2671384",
+          "currency": "GBP",
+          "value100p": 2.671384E10,
+          "value": 2671384.0
+        }
+      ],
+      "name": "Grant making and other support costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11203354\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5026912"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3356971",
+          "currency": "GBP",
+          "value100p": 3.356971E10,
+          "value": 3356971.0
+        }
+      ],
+      "name": "Grants to Regiments and Corps for the benefit of individuals "
+    }
+  ],
+  "@type": "NGO",
+  "description": "ABF Soldiers\u0027 charity benefits soldiers, ex-soldiers and those closest to them. It does this by making grants, which either go to individual soldiers and their families, or to other charities, who then use the funds to do work which also relates to supporting the military. Grants are provided for a very wide range of needs including support to those wounded on current or long past operations; help with providing retraining for civilian occupations - especially for those leaving the Army as a result of injury or illness; help for the elderly (through assistance with mobility aids, home adaptations and care home fees); help in covering priority debts such as council tax, utility bills for those in particular difficulty and support for children\u0027s education for families in particular need, for example after the death of the family breadwinner.",
+  "recommendation": "",
+  "whyTags": "Military/veterans",
+  "ready": false,
+  "modified": true,
+  "logo": "https://www.soldierscharity.org/wp-content/uploads/2015/05/ABFTSC_primary_CMYK.png",
+  "@id": "abf-the-soldiers-charity",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABF_The_Soldiers%27_Charity",
+  "summaryDescription": "ABF Soldiers\u0027 charity benefits soldiers, ex-soldiers and those closest to them",
+  "uptodatedraft": "probably",
+  "images": "https://www.charityfairsassociation.co.uk/wp-content/uploads/2016/06/image-2.jpeg",
+  "noPublicDonations": false,
+  "impact": "too-rich",
+  "confidence": "high",
+  "suggest": [
+    "ABF THE SOLDIERS\u0027 CHARITY",
+    "abf-the-soldiers-charity"
+  ],
+  "url": "https://soldierscharity.org/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "members of the army family supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 533786,
+      "value": "53.378671428571425902495"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "ABF THE SOLDIERS\u0027 CHARITY",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "1146420",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
