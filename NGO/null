@@ -1,14 +1,12 @@
 {
-  "notes": "pre and postnatal depression support services",
   "@type": "NGO",
-  "displayName": "Acacia",
-  "name": "Acacia",
-  "logo": "https://media.good-loop.com/uploads/standard/acacia_logo-5822503598035033767.png#ccrop:82",
-  "id": "acacia",
+  "displayName": "international-aids-society",
+  "name": "International Aids Society",
+  "logo": "https://media.good-loop.com/uploads/standard/unnamed-4484508365603556277.jpg",
+  "id": "a",
   "suggest": [
-    "Acacia",
-    "Acacia"
+    "International Aids Society",
+    "international-aids-society"
   ],
-  "url": "https://www.acacia.org.uk/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
