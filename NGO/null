@@ -1,14 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/logo-10830861977088534050.png",
-  "color": "",
   "@type": "NGO",
-  "displayName": "Gyrl Wonder",
-  "name": "Gyrl Wonder",
-  "logo": "https://media.good-loop.com/uploads/standard/download-5262109793199868486.jpg#ccrop:92",
-  "id": "gyrl-wonder",
+  "unlisted": true,
+  "displayName": "Education Resources",
+  "name": "Education Resources - Brook Advisory",
+  "logo": "https://media.good-loop.com/uploads/standard/Untitled_design-6278441923086270117.png",
+  "id": "education-resources",
   "suggest": [
-    "Gyrl Wonder",
-    "Gyrl Wonder"
+    "Education Resources - Brook Advisory",
+    "Education Resources"
   ],
-  "status": "MODIFIED"
+  "url": "https://www.brook.org.uk/",
+  "status": "DRAFT"
 }
