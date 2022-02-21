@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
   "unlisted": true,
-  "displayName": "Cou",
+  "displayName": "Counselling Services - Brook Advisory",
   "name": "Counselling Services - Brook Advisory",
   "id": "counselling-services",
   "suggest": [
     "Counselling Services - Brook Advisory",
-    "Cou"
+    "Counselling Services - Brook Advisory"
   ],
   "status": "DRAFT"
 }
