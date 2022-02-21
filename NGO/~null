@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "international-aids-society",
   "name": "International Aids Society",
   "id": "a",
   "suggest": [
-    "International Aids Society"
+    "International Aids Society",
+    "international-aids-society"
   ],
   "status": "DRAFT"
 }
