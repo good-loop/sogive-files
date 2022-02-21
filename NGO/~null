@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "Education Resources",
   "name": "Education Resources - Brook Advisory",
   "id": "education-resources",
   "suggest": [
-    "Education Resources - Brook Advisory"
+    "Education Resources - Brook Advisory",
+    "Education Resources"
   ],
+  "url": "",
   "status": "DRAFT"
 }
