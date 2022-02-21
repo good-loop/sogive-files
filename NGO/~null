@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Girl Dreamer",
-  "name": "GirlDreamer",
-  "id": "girldreamer",
-  "suggest": [
-    "GirlDreamer",
-    "Girl Dreamer"
-  ],
-  "status": "DRAFT"
+  "id": "birmingham-and-solihull-women-s-aid",
+  "suggest": []
 }
