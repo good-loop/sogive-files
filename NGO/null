@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "international-aids-society",
-  "name": "International Aids Society",
-  "logo": "https://media.good-loop.com/uploads/standard/unnamed-4484508365603556277.jpg",
-  "id": "a",
+  "displayName": "Proud to Pitch in",
+  "name": "Proud to Pitch in",
+  "logo": "https://media.good-loop.com/uploads/standard/proud_to_pitch_in_logo-14471783346751613853.jpg",
+  "id": "proud-to-pitch-in",
   "suggest": [
-    "International Aids Society",
-    "international-aids-society"
+    "Proud to Pitch in",
+    "Proud to Pitch in"
   ],
+  "url": "https://www.greeneking-pubs.co.uk/proud-to-pitch-in/",
   "status": "DRAFT"
 }
