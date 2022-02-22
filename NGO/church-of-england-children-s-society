@@ -234,7 +234,20 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 616060.0,
+          "name": "young people (singular: person) reached",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "60",
+            "currency": "",
+            "value100p": 600000.0,
+            "value": 60.0
+          }
+        }
+      ],
       "adjustmentComment": "",
       "donationWording": "",
       "images": "",
