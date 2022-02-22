@@ -1,0 +1,543 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends92/0000232492_AC_20190630_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "24183903",
+          "currency": "GBP",
+          "value100p": 2.4183903E11,
+          "value": 2.4183903E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "249895",
+          "currency": "GBP",
+          "value100p": 2.49895E9,
+          "value": 249895.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4,370,175",
+        "currency": "GBP",
+        "value100p": 4.370175E10,
+        "value": 4370175.0
+      },
+      "end_raw": "2019-06-30"
+    },
+    {
+      "outputs": [
+        {
+          "number": 242.0,
+          "name": "Scholarships awarded",
+          "description": "The scholarships fund postgraduate or second bachelor\u0027s studies at the University of Oxford. The cost includes tuition fees, personal expenses, provision of the Rhodes House for public events and private use, and continual community support of the Rhodes Trust."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends92/0000232492_AC_20190630_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.rhodeshouse.ox.ac.uk/media/44437/rhodes-annual-report-2019-2-page-spreads-final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15,895,507",
+          "currency": "GBP",
+          "value100p": 1.5895507E11,
+          "value": 1.5895507E7
+        }
+      ],
+      "name": "Scholarship progamme"
+    },
+    {
+      "outputs": [
+        {
+          "number": 400.0,
+          "name": "Fellows supported",
+          "description": "The Atlantic Institute supports the global\nnetwork of Atlantic Fellows to learn and\nwork across programs, borders and disciplines to\n\u0027advance fairer, healthier, more inclusive societies\u0027.\nBased at the Rhodes Trust, the Institute provides the space, resources and platforms to connect people and ideas from across the seven Atlantic Fellows programs and beyond. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends92/0000232492_AC_20190630_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.rhodeshouse.ox.ac.uk/media/44437/rhodes-annual-report-2019-2-page-spreads-final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,993,681",
+          "currency": "GBP",
+          "value100p": 1.993681E10,
+          "value": 1993681.0
+        }
+      ],
+      "name": "Atlantic institute"
+    },
+    {
+      "outputs": [
+        {
+          "number": 34.0,
+          "name": "Fellows supported",
+          "description": "The program is an initiative of Schmidt\nFutures, delivered in partnership with The Rhodes Trust. Schmidt It exists to support the \u0027most promising early-career scientists.\""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends92/0000232492_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3,105,813",
+          "currency": "GBP",
+          "value100p": 3.105813E10,
+          "value": 3105813.0
+        }
+      ],
+      "name": "Schmidt Science Fellows"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends92/0000232492_AC_20190630_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "250,267",
+          "currency": "GBP",
+          "value100p": 2.50267E9,
+          "value": 250267.0
+        }
+      ],
+      "name": "Other programmes Including Schwarzman Lesdership Programme"
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "name": "scholarship(s) awarded",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "77795",
+            "currency": "",
+            "value100p": 7.7795E8,
+            "value": 77795.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "28840139",
+          "currency": "GBP",
+          "value100p": 2.8840139E11,
+          "value": 2.8840139E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "220132",
+          "currency": "GBP",
+          "value100p": 2.20132E9,
+          "value": 220132.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0 ",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 212.0,
+          "name": "scholarships awarded",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "7846",
+            "currency": "",
+            "value100p": 7.846E7,
+            "value": 7846.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16765832",
+          "currency": "GBP",
+          "value100p": 1.6765832E11,
+          "value": 1.6765832E7
+        }
+      ],
+      "name": "Scholarship Program",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3588857",
+          "currency": "GBP",
+          "value100p": 3.588857E10,
+          "value": 3588857.0
+        }
+      ],
+      "name": "Atlantic Institute "
+    },
+    {
+      "outputs": [
+        {
+          "number": 22.0,
+          "name": "scholarships awarded"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4369033",
+          "currency": "GBP",
+          "value100p": 4.369033E10,
+          "value": 4369033.0
+        }
+      ],
+      "name": "Schmidt Science Fellows"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "84024",
+          "currency": "GBP",
+          "value100p": 8.4024E8,
+          "value": 84024.0
+        }
+      ],
+      "name": "Other programs including Schwarzman Leadership Program"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10907987\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d232492"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "334135",
+          "currency": "GBP",
+          "value100p": 3.34135E9,
+          "value": 334135.0
+        }
+      ],
+      "name": "RISE"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "The Rhodes Trust",
+  "description": "The Rhodes Trust comprises the three charitable funds: the Public Purposes Fund, the Cecil Rhodes Scholarship Fund, and the Rhodes Trust Horizon Fund. \n\nEach of the three component charitable funds has separately\ndefined objects:\nThe primary purpose of the Cecil Rhodes Scholarship Fund is to provide scholarships to enable students from many countries (including selected countries of the Commonwealth, and from Germany and the United\nStates) to undertake either second undergraduate or post-graduate degrees, primarily at the University of Oxford. The Will of Cecil John Rhodes specified certain numbers and allocations of scholarships. Each scholarship covers both tuition fees and maintenance during the tenure of the scholarship.\n\nThe Public Purposes Fund (PPF) has as its objects the promotion or advancement in any part of the British Commonwealth of Nations or in the United States of America of any educational or other charitable purposes in such manner as the Rhodes Trust shall think fit including giving financial support to individuals, institutions or organizations as will in its opinion promote or advance the cultural or social welfare of the people of the British Commonwealth or the furtherance of good relations amongst the various peoples of the British Commonwealth or between those peoples and the peoples of the United States of America. Alongside the Scholarship Fund, it now supports a substantial proportion of the scholarships, including those allocated to the various jurisdictions as specified by the Will of Cecil John Rhodes. The assets of the PPF include Rhodes House, which is maintained by this fund as a central convening and focal point for all Rhodes Scholars, and for the administration of all activities of the Trust.\n\nThe Rhodes Trust Horizon Fund was established in 2014 under the terms of the 1946 Rhodes Trust Act, with very broad objects to promote and advance education and other charitable purposes in any part of the world. The Horizon Fund finances new scholarships in countries not covered when the scholarships were originally established by Cecil Rhodes. Its key partnership activities include the Atlantic Institute and the Schmidt Science Fellows.",
+  "recommendation": "",
+  "whyTags": "Education",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/7404124960__e4965df851-9724296113563248175.jpg",
+  "modified": true,
+  "@id": "rhodes-trust-public-purposes-fund",
+  "summaryDescription": "The Rhodes Trust comprises the three charitable funds: the Public Purposes Fund, the Cecil Rhodes Scholarship Fund, and the Rhodes Trust Horizon Fund, all of which are aimed at advancing education and increasing educational access for students around the world. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/staen_soubor-16473622454909816879.jpg",
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "RHODES TRUST - PUBLIC PURPOSES FUND",
+    "The Rhodes Trust",
+    "rhodes-trust-public-purposes-fund"
+  ],
+  "url": "https://www.rhodeshouse.ox.ac.uk/",
+  "howTags": "Grants, scholarships, awards",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "scholarships awarded",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 78460000,
+      "value": "7846.0",
+      "name": ""
+    }
+  },
+  "name": "RHODES TRUST - PUBLIC PURPOSES FUND",
+  "lastModified": "2020-09-03T09:59:33Z",
+  "englandWalesCharityRegNum": "232492",
+  "uk_giftaid": true,
+  "whereTags": "Global, UK, US",
+  "status": "DRAFT"
+}
