@@ -291,7 +291,7 @@
         }
       ],
       "start": "2015-04-01T00:00:00Z",
-      "isRep": false,
+      "isRep": true,
       "data-src": [
         {
           "year": 2016.0,
@@ -401,7 +401,7 @@
         }
       ],
       "name": "direct work",
-      "isRep": true
+      "isRep": false
     }
   ],
   "@type": "NGO",
@@ -428,7 +428,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[direct work 2020.0]"
+    "name": "young people (singular: person) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 600000,
+      "value": "60.0",
+      "name": ""
+    }
   },
   "whoTags": "Children",
   "meta": {
@@ -441,5 +448,5 @@
   "uk_giftaid": true,
   "whereTags": "UK",
   "suggestedDonations": [],
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
