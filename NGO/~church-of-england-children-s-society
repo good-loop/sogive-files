@@ -234,7 +234,12 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 616060.0,
+          "name": "young people (singular: person) reached"
+        }
+      ],
       "adjustmentComment": "",
       "donationWording": "",
       "images": "",
@@ -428,5 +433,5 @@
   "uk_giftaid": true,
   "whereTags": "UK",
   "suggestedDonations": [],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
