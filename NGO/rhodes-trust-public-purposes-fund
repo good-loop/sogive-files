@@ -253,10 +253,10 @@
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
-            "raw": "7",
+            "raw": "77795",
             "currency": "",
-            "value100p": 70000.0,
-            "value": 7.0
+            "value100p": 7.7795E8,
+            "value": 77795.0
           }
         }
       ],
@@ -346,7 +346,7 @@
         }
       ],
       "name": "Scholarship Program",
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [],
@@ -530,8 +530,8 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 70000,
-      "value": "7.0",
+      "value100p": 777950000,
+      "value": "77795.0",
       "name": ""
     }
   },
@@ -540,5 +540,5 @@
   "englandWalesCharityRegNum": "232492",
   "uk_giftaid": true,
   "whereTags": "Global, UK, US",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
