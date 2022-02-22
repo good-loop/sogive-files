@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Charity-water",
   "name": "Charity:Water",
   "id": "c",
   "suggest": [
-    "Charity:Water"
+    "Charity:Water",
+    "Charity-water"
   ],
   "status": "DRAFT"
 }
