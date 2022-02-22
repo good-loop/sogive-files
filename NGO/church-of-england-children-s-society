@@ -1,0 +1,432 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 18164.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "children(singular: child)/young people (singular: person) worked with",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to children worked with across children\u0027s centres and youth at risk services",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 13259.72,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "young people (singular: person) experiencing positive changes across key areas of their lives including safety, relationships, and mental health, according to studies conducted by Children\u0027s Society",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.5080006E11,
+          "value": 3.5080006E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.09983413E10,
+          "value": 6099834.13
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends24/0000221124_AC_20160331_E_C.pdf"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/mkt054f_2016_impact-report_regional-pull-outs-digital_national_v1.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "childcare and protection",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.760917E10,
+          "value": 5760917.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.00172843E10,
+          "value": 1001728.43
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends24/0000221124_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigning",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.837077E10,
+          "value": 1837077.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.1943744E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 319437.44
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends24/0000221124_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "policy and research",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2020.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "37780000",
+          "currency": "GBP",
+          "value100p": 3.778E11,
+          "value": 3.778E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "4007000",
+          "currency": "GBP",
+          "value100p": 4.007E10,
+          "value": 4007000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2021-01/Annual-Report.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2020-10/Impact-Report-2020.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Adam B",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2021-01/Annual-Report.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2020-10/Impact-Report-2020.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4855000",
+          "currency": "GBP",
+          "value100p": 4.855E10,
+          "value": 4855000.0
+        }
+      ],
+      "name": "systems change work"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2020-10/Impact-Report-2020.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.childrenssociety.org.uk/sites/default/files/2021-01/Annual-Report.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14413000",
+          "currency": "GBP",
+          "value100p": 1.4413E11,
+          "value": 1.4413E7
+        }
+      ],
+      "name": "direct work",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Children\u0027s Society",
+  "description": "Most of the Children\u0027s Society\u0027s funds have been historically spent on working directly with children, with a minority of funds spent on campaigning and research. Priority themes include children in care, missing and runaways, substance misuse, mental health, and sexual exploitation.",
+  "recommendation": "**Summary**\n\n**The Children’s Society is rated as More Information Needed on the SoGive ratings scale.**\n\n- The Children\u0027s Society works to improve the lives of disadvantaged children and young people in the UK. \n- Based on their 2020 annual report, we believe The Children’s Society spent an average of around £61 per child reached in 2020.\n- Given the SoGive Gold Standard of £200 to avert one year of severe depression, this cost of £61 could be expected to avert 4 months of severe depression if donated to a Gold Standard mental health charity. \n- It seems possible that The Children’s Society could be having an impact on a child’s well-being that is at least as good as averting 4 months of severe depression, given the possibility that any positive impacts could persist through the child’s lifetime. However, based on the charity’s 2020 annual report, it is unclear what the charity means when it refers to \"children reached\", and no strong evidence is provided to indicate the charity’s typical impact on the children it reached.\n- For this reason, it is possible that a donation to The Children’s Society could achieve a positive impact comparable to a Gold-rated organisation but we need much more evidence to accurately estimate the charity’s cost-effectiveness . \n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what The Children’s Society does - how they spend your donations**\n\nThe Children’s Society 2020 [annual report](https://www.childrenssociety.org.uk/sites/default/files/2020-10/Impact-Report-2020.pdf) indicates that their main charitable activities involve direct work and systems change work. Overall, they work to alleviate and prevent child sexual and criminal exploitation, improve access to mental health and wellbeing support, and support children and their families facing poverty or destitution; particularly refugees, immigrants, and young carers. \n\nThe direct work involves running advisory and counselling programs. In terms of systems change work, this means campaigning, proposing policy reform, changing public attitudes, and educating local authorities. In 2020, the charity spent £14,413,000 on direct work, and £4,855,000 on systems change work, excluding overhead costs ([annual report](https://www.childrenssociety.org.uk/sites/default/files/2021-01/Annual-Report.pdf), pg 46). Total expenditure for the charity in 2020 was £37,780,000.\n\nIn 2020, 11,500 young people were reached through direct support and another 24,000 were impacted through systems change work. Additionally, 14,514 professionals who work with young people were reached, including police, teachers and social workers. Through these professionals they estimate they reached approximately 40 young people per professional per year, implying an estimated 580,560 additional children were reached. This makes a total of 604,560 young people who were reached through system change work. Including the direct support, this means a total of 616,060 young people were estimated to have been reached in 2020 ([impact report](https://www.childrenssociety.org.uk/sites/default/files/2020-10/Impact-Report-2020.pdf), pg. 10). \n\nThe charity’s annual report provides no further breakdown of how they allocate their resources to specific projects within system change and direct work. \n\n**Cost-effectiveness analysis - how does The Children’s Society compare to the most cost-effective charities?**\n\nAfter a review of the work of The Children’s Society under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nThe Children’s Society claims to have reached a total of approximately 616,060 young people in 2020 (11,500 from direct work and 604,560 from systems change work). Total expenditure for the charity was £37,780,000 in 2020. Given the claim of 616,060 children reached, this gives an average cost of around £61 per child in 2020. Given the SoGive Gold Standard of £200 to avert one year of severe depression, this cost of £61 could be expected to avert 4 months of severe depression if instead donated to a Gold Standard mental health charity. \n\nIt seems possible that The Children’s Society could be having an impact on a child’s well-being that is at least as good as averting 4 months of severe depression, given the possibility that any positive impacts could persist through the child’s lifetime. However, based on the charity’s 2020 annual report, it is unclear what the charity means when it refers to \"children reached\", and no strong evidence is provided to indicate the charity’s typical impact on the children it reached. This means we currently have insufficient information with regards to the charity’s cost-effectiveness to make a comparison with the Gold Standard benchmarks.\n\nThey do mention a few statistics relating to outcomes. For instance, in 2020, they delivered 4.4 million positive impacts for young people through their policy and campaigning work, though it is not clear what they mean by a ‘positive impact’. 77% of beneficiaries said their lives improved after working with the charity. And 87% said they were happy or very happy with the charity’s services this year (Impact Report pg 6). \n\n\n*Direct work*\nIf we do a cost-effectiveness analysis on each type of charitable activity, we get much less promising results for the direct work. The charity spent £14,413,000 on direct work in 2020 and reached 11,500 children through it. This implies spending an average of £1253 per child. So even if the impact the Children’s Society is having on each child’s wellbeing is equivalent to averting a year of severe depression, the charity’s direct work would significantly fall short in meeting the Gold Standard. In other words, direct work would need to have an impact on well-being equivalent to averting 6.3 years of severe depression per child in order to meet the Gold Standard. \n\n*Systems change work*\nWhen looking at just systems change work, the charity spent £4,855,000 and reached an estimated total of 604,560 children. While this comes out to be £8 per child and is quite inexpensive on the cost side, there is significant uncertainty in this estimate, as it takes into account not only the children the charity directly reached via the systems change work, but also the number of children they reached via the professionals. But the professionals would have reached this additional number of children anyway through their job. So the question is what additional impact is the charity achieving? The charity does not give any estimates of the typical impact of this work. We thus need more information in order to determine whether this work is cost-effective.\n\nFor these reasons, it is possible that a donation to The Children’s Society could plausibly achieve a positive impact comparable to a Gold-rated organisation, but we require significantly more information about the charity’s impact and activities. This information includes:\n- A clearer break down of the costs of specific projects\n- Clearer descriptions of the projects undertaken, including what charity means when it refers to \"children reached\"\n- Robust evidence demonstrating the typical impact of the charity’s work on the children it reaches. Ideally, this evidence would come from a randomised controlled trial undertaken by independent evaluators on the charity’s projects. However, the charity could also demonstrate that it is implementing its projects in a manner that is consistent with other projects and high-quality research undertaken elsewhere. Indeed, because the charity’s work may be expected to have a long-term impact on some of the children it reaches, we would expect the charity to synthesise any evidence on short-term effects with evidence from the wider academic literature on the long-term consequences of these short-term effects.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n\n**Conclusion**\n\nBased on the above, we rate The Children’s Society as More Info Needed on the SoGive rating scale. \n",
+  "whyTags": "Children, Health, Youth, Sexual violation, Poverty, Addiction",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/raw/The__Childrens__Society__logo-11751438433759198857.jpeg",
+  "@id": "church-of-england-children-s-society",
+  "summaryDescription": "The Children\u0027s Society improves the lives of disadvantaged children and young people in the UK. ",
+  "images": "https://media.good-loop.com/uploads/raw/children_photo-6277621960867202267.jpeg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Church of England Children\u0027s Society",
+    "Children\u0027s Society",
+    "church-of-england-children-s-society"
+  ],
+  "url": "https://www.childrenssociety.org.uk/",
+  "howTags": "Direct work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[direct work 2020.0]"
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Church of England Children\u0027s Society",
+  "englandWalesCharityRegNum": "221124",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "suggestedDonations": [],
+  "status": "DRAFT"
+}
