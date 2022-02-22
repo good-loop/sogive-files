@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Proud to Pitch in",
+  "name": "Proud to Pitch in",
   "id": "proud-to-pitch-in",
-  "suggest": []
+  "suggest": [
+    "Proud to Pitch in",
+    "Proud to Pitch in"
+  ],
+  "status": "DRAFT"
 }
