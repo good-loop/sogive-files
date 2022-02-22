@@ -249,7 +249,15 @@
       "outputs": [
         {
           "number": "",
-          "name": "scholarship(s) awarded"
+          "name": "scholarship(s) awarded",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "7",
+            "currency": "",
+            "value100p": 70000.0,
+            "value": 7.0
+          }
         }
       ],
       "data-src": [
@@ -518,7 +526,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "scholarship(s) awarded"
+    "name": "scholarship(s) awarded",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 70000,
+      "value": "7.0",
+      "name": ""
+    }
   },
   "name": "RHODES TRUST - PUBLIC PURPOSES FUND",
   "lastModified": "2020-09-03T09:59:33Z",
