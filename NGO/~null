@@ -2,7 +2,7 @@
   "@type": "NGO",
   "displayName": "Proud to Pitch in",
   "name": "Proud to Pitch in",
-  "logo": "https://media.good-loop.com/uploads/standard/ptpi_logo_green-14188978609311839711.png",
+  "logo": "https://media.good-loop.com/uploads/standard/ptpi_logo_green-14188978609311839711.png#ccrop:86",
   "description": "Greene King giving back to grassroots and ciommunity sports clubs",
   "id": "proud-to-pitch-in",
   "suggest": [
@@ -10,5 +10,5 @@
     "Proud to Pitch in"
   ],
   "url": "https://www.greeneking-pubs.co.uk/proud-to-pitch-in/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
