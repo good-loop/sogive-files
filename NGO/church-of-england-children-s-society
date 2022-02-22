@@ -401,7 +401,7 @@
         }
       ],
       "name": "direct work",
-      "isRep": true
+      "isRep": false
     }
   ],
   "@type": "NGO",
