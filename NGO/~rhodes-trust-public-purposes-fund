@@ -346,7 +346,7 @@
         }
       ],
       "name": "Scholarship Program",
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [],
