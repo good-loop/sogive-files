@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "Charity-water",
   "name": "Charity:Water",
+  "logo": "https://media.good-loop.com/uploads/standard/download-3714981083747501541.jpg",
   "id": "c",
   "suggest": [
     "Charity:Water",
