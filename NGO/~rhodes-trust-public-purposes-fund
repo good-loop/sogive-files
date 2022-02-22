@@ -294,7 +294,8 @@
           "value": 0.0
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     },
     {
       "outputs": [
@@ -525,12 +526,12 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "scholarships awarded",
+    "name": "scholarship(s) awarded",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 78460000,
-      "value": "7846.0",
+      "value100p": 777950000,
+      "value": "77795.0",
       "name": ""
     }
   },
