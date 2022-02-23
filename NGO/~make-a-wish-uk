@@ -1,0 +1,258 @@
+{
+  "scotlandCharityRegNum": "SC037479 SC037479",
+  "ukCompanyRegNum": "02031836",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 855.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "wishes (singular: wish) granted",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "children with life threatening illnesses granted a wish, such as a holiday or a special day out",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 8.020412E10,
+          "value": 8020412.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.9499E8,
+          "value": 29499.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends72/0000295672_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Of the 997 wishes, 893 are wishes granted to a seriously ill child, and 104 are \"wish assists\". I\u0027m not sure what that means, but I think it\u0027s when a child abroad wishes to visit the UK, and the UK entity helps make that happen. I have not included the 101 cases where preparations were started but the wish \"sadly had to be cancelled\" (presumably the child died?) Arguably this is not giving enough credit, since the family and child presumably benefitted from knowing that things were being done for them, even if they didn\u0027t get the actual wish in the end.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1246.0,
+          "meta": {
+            "all": {
+              "source": ""
+            }
+          },
+          "confidence": "medium",
+          "name": "wishes (singular: wish) granted",
+          "description": "Examples of an ailing children\u0027s wishes may include going to places they always wanted to go, experiencing their dream jobs for a day, and getting special gifts."
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "8963283",
+          "currency": "GBP",
+          "value100p": 8.963283E10,
+          "value": 8963283.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-09-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4920430",
+        "currency": "GBP",
+        "value100p": 4.92043E10,
+        "value": 4920430.0
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.make-a-wish.org.uk/live/media/filer_public/e1/1b/e11be253-bb90-4270-9a19-2fda07fbdaf6/make-a-wish-uk-2019-annual-accounts.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "meta": {
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "inputs_meta": {
+          "notes": ""
+        },
+        "end": {
+          "source": ""
+        },
+        "reserves": {
+          "source": ""
+        }
+      },
+      "name": "overall",
+      "end": "2019-08-31",
+      "end_raw": "2019-08-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Make-A-Wish UK",
+  "description": "Make-A-Wish UK has a group of [volunteers and staff members](https://www.make-a-wish.org.uk/about-us/what-we-do/our-story/) who aim to bring joy to ailing children. The charity claims that [research](https://assets.make-a-wish.org.uk/live/media/filer_public/e1/1b/e11be253-bb90-4270-9a19-2fda07fbdaf6/make-a-wish-uk-2019-annual-accounts.pdf) has shown that wish-granting also strengthens family bonds previously strained because of the child\u0027s illness. A subsidiary company called [Make-A-Wish Promotions Ltd](https://www.make-a-wish.org.uk/about-us/what-we-do/charity-information/) directs all of its profits to Make-a-wish UK.",
+  "recommendation": "**Make-A-Wish UK achieves a Bronze assessment under the SoGive rating methodology.**\n\nMake-A-Wish UK helps critically ill children fulfil life-changing wishes.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something?\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)?\n\n**More about what Make-A-Wish UK does**\n\nBased on the information we have gathered from the [2018/19 accounts](https://assets.make-a-wish.org.uk/live/media/filer_public/e1/1b/e11be253-bb90-4270-9a19-2fda07fbdaf6/make-a-wish-uk-2019-annual-accounts.pdf), we understand that on average, fulfilling 1 child\u0027s wish would cost about £7,200. Make-a-Wish UK granted 1,246 wishes during the financial year, but the organization was actively working towards granting the wishes of 1,506 children, out of more than 2,564 who submitted inquiries. \n\n**Benchmarking**\n\nAfter a review of the work of Make-A-Wish UK under the two-question method, the next step in the SoGive process involves comparing the organization to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. A benchmark charity should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation).\n\nMake-A-Wish UK spends about £7,200 on granting 1 wish, so for this cost, we could fund either 1 wish or save about 5 lives. We see partially granting the wish of an ailing child as a less positive outcome than saving 5 people\u0027s lives. \n\n**Conclusion**\n\nWe conclude by giving Make-A-Wish UK a Bronze rating under the SoGive two-question method.\n\nFor reference, when we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Silver-rated charity (i.e. achieves less positive impact per pound donated than a Silver-rated charity)",
+  "whyTags": "Children, Health",
+  "UNSDG": "3",
+  "parentCharityName": "Make-A-Wish International",
+  "imageCaption": "Micaela working hard in the hotel kitchen",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/Make-a-wish__logo-1409670304387012127.jpg#ccrop:115",
+  "@id": "make-a-wish-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Make-A-Wish_Foundation_UK",
+  "summaryDescription": "Make-A-Wish UK grants what it considers as life-altering wishes for children with critical illnesses.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/micaela-making-macaroons-image-m.jpg____2360x1324__q50__progressive__subsampling-2__upscale-37392268068314998.jpg",
+  "stories": "11-year-old [Micaela](https://www.make-a-wish.org.uk/wishes/wish-stories/micaelas-wish-to-be-a-chef/) dreams of owning her own café and made a wish to spend a day experiencing life in the kitchen of a top hotel. Thanks to the staff at the Reubens Hotel in London, the little girl with a congenital heart failure enjoyed a memorable day.",
+  "noPublicDonations": false,
+  "impact": "low",
+  "parentCharity": "86-0726985",
+  "suggest": [
+    "Make a wish UK",
+    "Make-A-Wish UK",
+    "make-a-wish-uk"
+  ],
+  "url": "https://www.make-a-wish.org.uk/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "wishes (singular: wish) granted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 71936460,
+      "value": "7193.6460674157305413782"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "scotlandCharityRegNum": {
+      "source": ""
+    },
+    "ukCompanyRegNum": {
+      "source": ""
+    },
+    "images": {
+      "source": ""
+    },
+    "stories": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    },
+    "parentCharityName": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "name": {
+      "source": ""
+    },
+    "logo": {
+      "notes": "",
+      "source": ""
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "englandWalesCharityRegNum": {
+      "source": ""
+    },
+    "summaryDescription": {
+      "source": ""
+    }
+  },
+  "name": "Make a wish UK",
+  "lastModified": "2020-10-05T10:32:52Z",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "295672",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
