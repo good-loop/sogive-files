@@ -376,7 +376,8 @@
         {
           "number": 1740000.0,
           "@type": "Output",
-          "name": "Audience members (singular: audience member) engaged"
+          "name": "Audience members (singular: audience member) engaged",
+          "description": ""
         },
         {
           "number": 28.0,
@@ -683,5 +684,5 @@
   "englandWalesCharityRegNum": "224223",
   "uk_giftaid": true,
   "whereTags": "UK, London",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
