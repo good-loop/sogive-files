@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": " ",
-  "logo": "https://media.good-loop.com/uploads/standard/FUND_THERAPY-10128761478780560434.png#ccrop:118",
-  "id": "therapy-sessions",
-  "suggest": [
-    " "
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/fund_mental_health_workshops-7097633731471497897.png#ccrop:114",
+  "id": "mentalhealthworkshops",
+  "suggest": [],
   "status": "DRAFT"
 }
