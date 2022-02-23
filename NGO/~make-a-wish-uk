@@ -1,5 +1,5 @@
 {
-  "scotlandCharityRegNum": "SC037479 SC037479",
+  "scotlandCharityRegNum": "SC037479 ",
   "ukCompanyRegNum": "02031836",
   "projects": [
     {
@@ -254,5 +254,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
