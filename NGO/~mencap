@@ -1,0 +1,557 @@
+{
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/mencap_cover-11020854473221223365.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.83899E12,
+          "value": 1.83899E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends77/0000222377_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Emily \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends77/0000222377_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "supporting people",
+      "analyst": "Emily \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends77/0000222377_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "raising awareness changing attitudes",
+      "analyst": "Emily \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "208,847,000",
+          "currency": "GBP",
+          "value100p": 2.08847E12,
+          "value": 2.08847E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3,560,000",
+          "currency": "GBP",
+          "value100p": 3.56E10,
+          "value": 3560000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "24,100,000",
+        "currency": "GBP",
+        "value100p": 2.41E11,
+        "value": 2.41E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 5236.0,
+          "meta": {
+            "all": {
+              "notes": "Within this project, supported is provided in lots of different ways."
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) supported",
+          "description": "People with a learning disability provided with personal support including carers and assistive technology."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "190023000",
+          "currency": "GBP",
+          "value100p": 1.90023E12,
+          "value": 1.90023E8
+        }
+      ],
+      "name": "Social Care",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1315000",
+          "currency": "GBP",
+          "value100p": 1.315E10,
+          "value": 1315000.0
+        }
+      ],
+      "name": "reducing stigma and discrimination"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1431000",
+          "currency": "GBP",
+          "value100p": 1.431E10,
+          "value": 1431000.0
+        }
+      ],
+      "name": "supporting friendships and relationships"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "365000",
+          "currency": "GBP",
+          "value100p": 3.65E9,
+          "value": 365000.0
+        }
+      ],
+      "name": "improving health"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "936000",
+          "currency": "GBP",
+          "value100p": 9.36E9,
+          "value": 936000.0
+        }
+      ],
+      "name": "early intervention"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000222377_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9925763\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D222377%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d222377"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "employment"
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "description": "Mencap support people with learning disabilities by providing funding for research and campaigning for a better future. They run projects and programmes that are trialling groundbreaking work to promote inclusion as well as providing services that give people the life choices and freedoms they want. ",
+  "suggest": [
+    "Mencap",
+    "mencap"
+  ],
+  "communicationsWithCharity": "Message sent on 26th/apr/2017 via mencap website. Record kept in an email to myself (to sanjay@sogive.org)",
+  "url": "https://www.mencap.org.uk/",
+  "whyTags": "Disabilities",
+  "howTags": "direct work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 362916348,
+      "value": "36291.63483575248243968000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Mencap",
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/Mencap__Logo__Colour-1301664753845919761.png",
+  "@id": "mencap",
+  "lastModified": "2020-10-15T18:40:55Z",
+  "englandWalesCharityRegNum": "222377",
+  "summaryDescription": "Mencap work to make sure people with learning disabilities are valued and supported.",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
