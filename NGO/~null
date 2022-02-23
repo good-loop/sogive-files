@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": " ",
   "logo": "https://media.good-loop.com/uploads/standard/fund_mental_health_workshops-18107808927711908052.png#ccrop:124",
   "id": "mentalhealthworkshops",
-  "suggest": [],
-  "status": "PUBLISHED"
+  "suggest": [
+    " "
+  ],
+  "status": "MODIFIED"
 }
