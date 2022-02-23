@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Listen First Project",
-  "logo": "https://media.good-loop.com/uploads/standard/LFPLogo__Website__header-561956349209148884.png",
-  "id": "listen-first-project",
+  "name": "Narrative 4",
+  "logo": "https://media.good-loop.com/uploads/standard/narrative_4-10979319808776153982.png",
+  "id": "narrative-4",
   "suggest": [
-    "Listen First Project"
+    "Narrative 4"
   ],
   "status": "DRAFT"
 }
