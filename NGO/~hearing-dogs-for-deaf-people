@@ -153,7 +153,8 @@
         {
           "number": 182.0,
           "confidence": "high",
-          "name": "Hearing dogs trained and provided to deaf people"
+          "name": "Hearing dogs trained and provided to deaf people",
+          "description": "Hearing dogs provide company for deaf people and they "
         }
       ],
       "data-src": [
