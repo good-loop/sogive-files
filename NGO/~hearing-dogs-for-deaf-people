@@ -152,6 +152,7 @@
       "outputs": [
         {
           "number": 182.0,
+          "confidence": "high",
           "name": "Hearing dogs trained and provided to deaf people"
         }
       ],
