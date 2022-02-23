@@ -376,7 +376,7 @@
         {
           "number": 1740000.0,
           "@type": "Output",
-          "name": "Audience members (singular: audience member)",
+          "name": "Audience members (singular: member)",
           "description": ""
         },
         {
@@ -659,7 +659,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Audience members (singular: audience member)",
+    "name": "Audience members (singular: member)",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
@@ -685,5 +685,5 @@
   "englandWalesCharityRegNum": "224223",
   "uk_giftaid": true,
   "whereTags": "UK, London",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
