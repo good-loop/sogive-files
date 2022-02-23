@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Ocean Cleanup",
-  "name": "The Ocean Cleanup",
-  "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:110",
-  "id": "ocean-cleanup",
+  "unlisted": true,
+  "displayName": "Listen First Project",
+  "logo": "https://media.good-loop.com/uploads/standard/LFPLogo__Website__header-561956349209148884.png",
+  "id": "listen-first-project",
   "suggest": [
-    "The Ocean Cleanup",
-    "Ocean Cleanup"
+    "Listen First Project"
   ],
-  "url": "https://theoceancleanup.com/",
   "status": "DRAFT"
 }
