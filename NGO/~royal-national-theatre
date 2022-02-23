@@ -374,13 +374,14 @@
     {
       "outputs": [
         {
-          "number": 28.0,
-          "name": "Productions (singular: production) played",
-          "description": "This refers to the number of productions, not the amount of shows performed. At least, otherwise the average number of attendants per show is around 60,000. "
+          "number": 1740000.0,
+          "@type": "Output",
+          "name": "Audience members (singular: audience member) engaged"
         },
         {
-          "number": 1740000.0,
-          "name": "Audience members (singular: audience member) engaged"
+          "number": 28.0,
+          "@type": "Output",
+          "name": "Productions (singular: production) played"
         }
       ],
       "data-src": [
@@ -656,13 +657,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Productions (singular: production) played",
+    "name": "Audience members (singular: audience member) engaged",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 23999999999,
-      "value": "2399999.99999999971200000"
+      "value100p": 386206,
+      "value": "38.6206896551724124800000"
     }
   },
   "meta": {
@@ -682,5 +683,5 @@
   "englandWalesCharityRegNum": "224223",
   "uk_giftaid": true,
   "whereTags": "UK, London",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
