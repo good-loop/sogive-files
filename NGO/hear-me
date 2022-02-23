@@ -1,0 +1,14 @@
+{
+  "scotlandCharityRegNum": "SC044106",
+  "@type": "NGO",
+  "name": "Hear Me ",
+  "logo": "https://media.good-loop.com/uploads/standard/hear_me_app_logo-14096737279532974415.png",
+  "@id": "hear-me",
+  "suggest": [
+    "Hear Me ",
+    "hear-me"
+  ],
+  "url": "http://www.hearmecounselling.com/",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
