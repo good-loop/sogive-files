@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/LFPLogo__Website__header-561956349209148884.png",
   "id": "listen-first-project",
   "suggest": [],
   "status": "DRAFT"
