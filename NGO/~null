@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Narrative 4",
   "logo": "https://media.good-loop.com/uploads/standard/narrative_4-10979319808776153982.png",
   "id": "narrative-4",
-  "suggest": [],
+  "suggest": [
+    "Narrative 4"
+  ],
   "status": "DRAFT"
 }
