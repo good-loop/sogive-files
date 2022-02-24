@@ -1,0 +1,80 @@
+{
+  "circleCrop": 110.0,
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Amnesty__fellgood-10410803962049040907.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.\nWe are funded by members and people like you. We are independent of any political ideology, economic interest or religion. No government is beyond scrutiny. No situation is beyond hope. \nFew would have predicted when we started that torturers would become international outlaws. That most countries would abolish the death penalty. And seemingly untouchable dictators would be made to answer for their crimes.",
+  "suggest": [
+    "Amnesty International",
+    "amnesty-international"
+  ],
+  "url": "https://www.amnesty.org/en/",
+  "whyTags": "Human rights, ",
+  "howTags": "Campaigning, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Amnesty International",
+  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/AmnestyInternational-8902261514600495926.jpg",
+  "@id": "amnesty-international",
+  "lastModified": "2020-10-02T13:34:04Z",
+  "englandWalesCharityRegNum": "294230",
+  "summaryDescription": "We campaign for a world where human rights are enjoyed by all\nAmnesty International is a global movement of more than 7 million people in over 150 countries and territories who campaign to end abuses of human rights.",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "whereTags": "Global",
+  "status": "PUBLISHED"
+}
