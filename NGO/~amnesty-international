@@ -7,6 +7,7 @@
       "adjustmentComment": "",
       "donationWording": "",
       "images": "",
+      "year": 2020.0,
       "@type": "Project",
       "stories_src": "",
       "inputs": [
@@ -60,7 +61,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall null]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "noPublicDonations": {
