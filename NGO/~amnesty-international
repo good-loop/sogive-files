@@ -55,7 +55,7 @@
     "amnesty-international"
   ],
   "url": "https://www.amnesty.org/en/",
-  "whyTags": "Human rights, ",
+  "whyTags": "Human rights, Sexual violation, Slavery",
   "howTags": "Campaigning, Research",
   "simpleImpact": {
     "number": 1.0,
@@ -76,5 +76,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "Global",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
