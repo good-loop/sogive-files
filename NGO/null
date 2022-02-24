@@ -1,14 +1,14 @@
 {
   "notes": "Minimal charity created for Sawai Pharmaceutical campaign February 2022",
   "@type": "NGO",
-  "displayName": "Happy Woman",
+  "displayName": "JOICFP",
   "unlisted": true,
-  "name": "Happy Woman",
-  "logo": "https://media.good-loop.com/uploads/standard/happy-woman-logo-17487756376473525061.svg#ccrop:89",
-  "id": "happy-woman",
+  "name": "Japanese Organization for International Cooperation in Family Planning",
+  "logo": "https://media.good-loop.com/uploads/standard/joicfp-logo-15780779398567551431.svg#ccrop:86",
+  "id": "joicfp",
   "suggest": [
-    "Happy Woman",
-    "Happy Woman"
+    "Japanese Organization for International Cooperation in Family Planning",
+    "JOICFP"
   ],
   "status": "MODIFIED"
 }
