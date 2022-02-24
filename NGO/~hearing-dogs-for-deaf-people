@@ -258,7 +258,12 @@
       "isRep": true
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1769.0,
+          "name": "Enquiries responded to by the Hearing Link helpdesk"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
