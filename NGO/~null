@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "",
   "logo": "https://media.good-loop.com/uploads/standard/npo-gender-equal-noimage-5227447281518289207.svg",
   "id": "npo-gender-equal",
-  "suggest": [],
+  "suggest": [
+    ""
+  ],
   "status": "DRAFT"
 }
