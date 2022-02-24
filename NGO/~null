@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Japanese Organization for International Cooperation in Family Planning",
   "id": "joicfp",
-  "suggest": []
+  "suggest": [
+    "Japanese Organization for International Cooperation in Family Planning"
+  ],
+  "status": "DRAFT"
 }
