@@ -1,6 +1,8 @@
 {
+  "notes": "Minimal charity created for Sawai Pharmaceutical campaign February 2022",
   "@type": "NGO",
   "displayName": "JOICFP",
+  "unlisted": true,
   "name": "Japanese Organization for International Cooperation in Family Planning",
   "logo": "https://media.good-loop.com/uploads/standard/joicfp-logo-15780779398567551431.svg",
   "id": "joicfp",
@@ -8,5 +10,5 @@
     "Japanese Organization for International Cooperation in Family Planning",
     "JOICFP"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
