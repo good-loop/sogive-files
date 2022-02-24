@@ -380,7 +380,7 @@
   "@id": "christian-aid",
   "summaryDescription": "Christian Aid is an agency of 41 churches in the UK and Ireland working to combat poverty in the developing world.",
   "uptodatedraft": "probably",
-  "images": "https://www.christianaid.org.uk/sites/default/files/styles/teaser_standard_medium_x2/public/2018-12/melanie-smiling-sunflowers-burundi.jpg?h\u003d9e499333\u0026itok\u003dWqgEe1l3",
+  "images": "https://media.good-loop.com/uploads/standard/thumbnail-logo_1-6791342164646704252.jpg",
   "noPublicDonations": false,
   "impact": "more-info-needed",
   "confidence": "medium",
@@ -405,5 +405,5 @@
   "englandWalesCharityRegNum": "1105851",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
