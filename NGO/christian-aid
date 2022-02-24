@@ -1,0 +1,409 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 1.005E12,
+          "value": 1.005E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.christianaid.org.uk/Images/2013-14-christian-aid-annual-report.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.christianaid.org.uk/sites/default/files/2019-10/annual-report-1819-uk-october-2019.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10775343\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4010072"
+        }
+      ],
+      "start_raw": "2018-03-31",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "122300000",
+          "currency": "GBP",
+          "value100p": 1.223E12,
+          "value": 1.223E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "900000",
+          "currency": "GBP",
+          "value100p": 9.0E9,
+          "value": 900000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "49700000",
+          "currency": "GBP",
+          "value100p": 4.97E11,
+          "value": 4.97E7
+        }
+      ],
+      "name": "Development",
+      "start": "2018-03-31",
+      "end": "2019-04-01",
+      "end_raw": "2019-04-01",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "start_raw": "2018-03-31",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "47400000",
+          "currency": "GBP",
+          "value100p": 4.74E11,
+          "value": 4.74E7
+        }
+      ],
+      "name": "Humanitarian",
+      "start": "2018-03-31",
+      "end": "2019-04-01",
+      "end_raw": "2019-04-01"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2018-03-31",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Campaigning, advocacy and education",
+      "start": "2018-03-31",
+      "end": "2019-04-01",
+      "end_raw": "2019-04-01"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10775343\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4010072"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "112600000",
+          "currency": "GBP",
+          "value100p": 1.126E12,
+          "value": 1.126E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "800000",
+          "currency": "GBP",
+          "value100p": 8.0E9,
+          "value": 800000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "18600000",
+        "currency": "",
+        "value100p": 1.86E11,
+        "value": 1.86E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "48200000",
+          "currency": "GBP",
+          "value100p": 4.82E11,
+          "value": 4.82E7
+        }
+      ],
+      "name": "Development"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "41500000",
+          "currency": "GBP",
+          "value100p": 4.15E11,
+          "value": 4.15E7
+        }
+      ],
+      "name": "Humanitarian"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10775343\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4010072"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9300000",
+          "currency": "GBP",
+          "value100p": 9.3E10,
+          "value": 9300000.0
+        }
+      ],
+      "name": "Campaigning, advocacy, and education"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Christian Aid works with the world\u0027s poorest people to tackle the causes and consequences of poverty. Christian Aid\u0027s work is centered around their strategic change objectives: Power to change institutions; The right to essential services; Fair shares in a constrained world; Equality for all; Tackling violence, building peace. Christian Aid works with others as part of a global movement committed to ending poverty and social injustice.",
+  "recommendation": "**To assign a rating to Christian Aid under the SoGive rating methodology, we would need more information.**\n\nChristian Aid is an agency of 41 churches in the UK and Ireland working to combat poverty in the developing world.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- How much does it cost for the charity to do something\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Christian Aid does**\n\nChristian Aid’s work is divided into three categories. The first of these is development work. This includes helping marginalized people participate in markets, improving health programs, and expanding access to basic services. According to their [annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10775343\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4010072), Christian Aid spent £48,200,000 on this work between March 31st, 2019 and March 31st, 2020. They did not clearly state the number of beneficiaries for this period.\n\nThe second category is humanitarian work, which entails providing relief for disasters and emergencies around the world by supporting people who have been displaced, managing refugee camps, and providing food, water, and temporary accommodation. According to their annual report, Christian Aid spent £41,500,000 between March 31st, 2019 and March 31st, 2020. Again, they did not clearly state the number of beneficiaries for this period.\n\nThe last category is campaigning, advocacy, and education. This includes promoting issues such as climate justice, peace between Israel and Palestine, and economic justice. According to their annual report, Christian Aid spent £9,300,000 between March 31st, 2019 and March 31st, 2020. They did not clearly state the total outcome of this work for this period.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Christian Aid under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £5000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\nBased on their annual report for 2019/20, we do not have enough information about the outcomes of any of the three categories to conduct a cost-effectiveness analysis. \n\nIn the case of the first two categories, it is because Christian Aid did not clearly provide the total number of beneficiaries of these projects for this year. On their [website](https://www.christianaid.org.uk/), Christian Aid state that 1.7 million people were reached by their humanitarian programs, but as of June 2021, it is not clear what time frame this number refers to. Additionally, the numbers for some of the specific initiatives were provided in their annual report, such as the fact that they were able to reach over 22,000 people through their humanitarian program in Rakhine State. Even if we knew the portion of the humanitarian work budget that went to this specific initiative, this is still not sufficient information, because it is unclear what exactly is meant by \"reached\". In order to conduct an assessment, we need to know how much money was spent in a given period, how many people were reached in that period, and have some evidence of the average benefit provided to each of these individuals.\n\nIn the case of campaigning, advocacy, and education, the same problem exists. We do not have enough information about the impact of these campaigns to judge whether they were cost-effective or not. In order to assess this, we would need to know what progress was made on these issues compared to an estimate of what progress would have been made if the campaigns had not taken place, and therefore calculate how much impact is attributable to Christian Aid’s work.\n\nUnfortunately, this lack of information means that we are not able to conduct an evaluation for these projects at this time.\n\n**Conclusion**\n\nTo be able to rate Christian Aid, we would need more information about the impact of their work.\n\n",
+  "whyTags": "Poverty, Disaster response, International aid, Christian",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/thumbnail-logo_1-15989726689094475259.jpg",
+  "@id": "christian-aid",
+  "summaryDescription": "Christian Aid is an agency of 41 churches in the UK and Ireland working to combat poverty in the developing world.",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/standard/thumbnail-logo_1-6791342164646704252.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Christian Aid",
+    "christian-aid"
+  ],
+  "url": "https://www.christianaid.org.uk/",
+  "howTags": "Makes grants to organisations, Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Christian Aid",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1105851",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
