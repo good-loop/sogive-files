@@ -256,6 +256,37 @@
       ],
       "name": "Provision of hearing dogs ",
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "282256",
+          "currency": "GBP",
+          "value100p": 2.82256E9,
+          "value": 282256.0
+        }
+      ],
+      "name": "Supporting people affected by hearing loss "
     }
   ],
   "@type": "NGO",
