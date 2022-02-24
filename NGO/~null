@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Plan International",
   "id": "plan-international",
-  "suggest": []
+  "suggest": [
+    "Plan International"
+  ],
+  "status": "DRAFT"
 }
