@@ -1,0 +1,9 @@
+{
+  "@type": "NGO",
+  "name": "Sightsavers-Deworming",
+  "@id": "sightsavers-deworming",
+  "suggest": [
+    "Sightsavers-Deworming",
+    "sightsavers-deworming"
+  ]
+}
