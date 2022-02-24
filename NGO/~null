@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "NPO法人ジェンダーイコール",
   "name": "NPO法人ジェンダーイコール",
   "logo": "https://media.good-loop.com/uploads/standard/npo-gender-equal-noimage-5227447281518289207.svg",
   "id": "npo-gender-equal",
   "suggest": [
+    "NPO法人ジェンダーイコール",
     "NPO法人ジェンダーイコール"
   ],
   "status": "DRAFT"
