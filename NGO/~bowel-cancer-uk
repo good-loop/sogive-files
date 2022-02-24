@@ -170,8 +170,8 @@
     }
   ],
   "@type": "NGO",
-  "impact": "more-info-needed",
-  "confidence": "medium",
+  "impact": "low",
+  "confidence": "high",
   "suggest": [
     "Bowel Cancer UK",
     "bowel-cancer-uk"
