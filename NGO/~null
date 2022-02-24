@@ -1,7 +1,14 @@
 {
+  "notes": "Minimal charity created for Sawai Pharmaceutical campaign February 2022",
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/penn_tt-863930463119185389.png#ccrop:111",
-  "id": "ptt",
-  "suggest": [],
-  "status": "DRAFT"
+  "displayName": "gender\u003d",
+  "unlisted": true,
+  "name": "ジェンダーイコールNPO法人",
+  "logo": "https://media.good-loop.com/uploads/standard/npo-gender-equal-noimage-5227447281518289207.svg#ccrop:90",
+  "id": "npo-gender-equal",
+  "suggest": [
+    "ジェンダーイコールNPO法人",
+    "gender\u003d"
+  ],
+  "status": "PUBLISHED"
 }
