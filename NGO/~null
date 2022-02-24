@@ -1,6 +1,8 @@
 {
+  "notes": "Minimal Created for Sawai Pharmaceutical campaign February 2022",
   "@type": "NGO",
   "displayName": "Happy Woman",
+  "unlisted": true,
   "name": "Happy Woman",
   "id": "happy-woman",
   "suggest": [
