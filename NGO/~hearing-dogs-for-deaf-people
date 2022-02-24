@@ -262,7 +262,8 @@
         {
           "number": 1769.0,
           "confidence": "medium",
-          "name": "Enquiries responded to by the Hearing Link helpdesk"
+          "name": "Enquiries responded to by the Hearing Link helpdesk",
+          "description": "Hearing Link, "
         }
       ],
       "year": 2020.0,
