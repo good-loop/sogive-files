@@ -213,7 +213,12 @@
       "isRep": false
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 182.0,
+          "name": "Hearing dogs trained and provided to deaf people"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -265,7 +270,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Provision of hearing dogs  2020.0]"
+    "name": "Hearing dogs trained and provided to deaf people",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 387388571,
+      "value": "38738.857142857146343640"
+    }
   },
   "name": "Hearing Dogs for Deaf People",
   "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/hearing_dogs_for_deaf_people_logo-13132014918431154105.jpg",
