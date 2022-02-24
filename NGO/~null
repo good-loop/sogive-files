@@ -1,14 +1,14 @@
 {
   "notes": "Minimal charity created for Sawai Pharmaceutical campaign February 2022",
   "@type": "NGO",
-  "displayName": "gender\u003d",
+  "displayName": "Happy Woman",
   "unlisted": true,
-  "name": "NPO法人ジェンダーイコール",
-  "logo": "https://media.good-loop.com/uploads/standard/npo-gender-equal-noimage-5227447281518289207.svg#ccrop:90",
-  "id": "npo-gender-equal",
+  "name": "Happy Woman",
+  "logo": "https://media.good-loop.com/uploads/standard/happy-woman-logo-square-2517505301407809760.svg#ccrop:74",
+  "id": "happy-woman",
   "suggest": [
-    "NPO法人ジェンダーイコール",
-    "gender\u003d"
+    "Happy Woman",
+    "Happy Woman"
   ],
   "status": "MODIFIED"
 }
