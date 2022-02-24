@@ -14,13 +14,6 @@
         {
           "value100": 0.0,
           "@type": "MonetaryAmount",
-          "name": "annualCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
           "name": "fundraisingCosts",
           "currency": "GBP",
           "value": 0.0
@@ -38,6 +31,14 @@
           "name": "incomeFromBeneficiaries",
           "currency": "GBP",
           "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "288000000",
+          "currency": "GBP",
+          "value100p": 2.88E12,
+          "value": 2.88E8
         }
       ],
       "isRep": true,
