@@ -261,6 +261,7 @@
       "outputs": [
         {
           "number": 1769.0,
+          "confidence": "medium",
           "name": "Enquiries responded to by the Hearing Link helpdesk"
         }
       ],
