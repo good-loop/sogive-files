@@ -43,6 +43,11 @@
       ],
       "isRep": true,
       "ready": false,
+      "meta": {
+        "reserves": {
+          "notes": "file:///C:/Users/isobe/Downloads/FIN4047432021ENGLISH%20(2).pdf"
+        }
+      },
       "analysisComment": "",
       "name": "overall",
       "analyst": "Sanjay",
