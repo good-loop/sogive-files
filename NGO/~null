@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "JOICFP",
   "name": "Japanese Organization for International Cooperation in Family Planning",
-  "id": "joi-cfp",
+  "id": "joicfp",
   "suggest": [
-    "Japanese Organization for International Cooperation in Family Planning"
+    "Japanese Organization for International Cooperation in Family Planning",
+    "JOICFP"
   ],
   "status": "DRAFT"
 }
