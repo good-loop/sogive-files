@@ -1,0 +1,19 @@
+{
+  "circleCrop": 74.0,
+  "images": "https://media.good-loop.com/uploads/raw/Parley_image-11659090260283467418.jpeg",
+  "@type": "NGO",
+  "displayName": "Parley",
+  "description": "Parley for the Oceans addresses major threats towards our oceans, the most important ecosystem of our planet. \nWe believe the power for change lies in the hands of the consumer - given we all have a choice - and the power to shape this new consumer mindset lies in the hands of the creative industries.",
+  "suggest": [
+    "parley",
+    "Parley",
+    "parley"
+  ],
+  "url": "https://www.parley.tv/#fortheoceans",
+  "name": "parley",
+  "logo": "",
+  "@id": "parley",
+  "id": "parley",
+  "status": "PUBLISHED",
+  "usCharityRegNum": "464671330"
+}
