@@ -136,6 +136,7 @@
       "outputs": [
         {
           "number": 17600.0,
+          "confidence": "medium",
           "name": "People supported by the local branch"
         }
       ],
