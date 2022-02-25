@@ -114,6 +114,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "p39"
+        },
+        "reserves": {
+          "notes": "page 24"
         }
       },
       "name": "overall",
