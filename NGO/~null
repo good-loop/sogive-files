@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "",
   "id": "making-money-matter",
-  "suggest": []
+  "suggest": [
+    ""
+  ],
+  "status": "DRAFT"
 }
