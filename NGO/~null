@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Uefa-Foundation",
+  "name": "UEFA Foundation for Children",
   "id": "uefa-foundation",
-  "suggest": []
+  "suggest": [
+    "UEFA Foundation for Children",
+    "Uefa-Foundation"
+  ],
+  "status": "DRAFT"
 }
