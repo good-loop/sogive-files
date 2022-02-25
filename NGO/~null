@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/Making_Money_Matter-17091204719492071265.png",
   "@type": "NGO",
   "displayName": "making money matter",
   "name": "making money matter",
@@ -8,5 +9,5 @@
     "making money matter",
     "making money matter"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
