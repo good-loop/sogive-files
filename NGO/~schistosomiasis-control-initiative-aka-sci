@@ -83,7 +83,10 @@
       "data-src": [
         {
           "@type": "Citation",
-          "url": "https://static1.squarespace.com/static/5b4cc42f4611a0e9f08711ce/t/6183eddde8ad490fbb21b64f/1636036082736/SCIF_AnnualReport_20-21_web_final.pdf"
+          "url": "https://static1.squarespace.com/static/5b4cc42f4611a0e9f08711ce/t/6130c7f81e046413310b6710/1630586901243/"
+        },
+        {
+          "@type": "Citation"
         }
       ],
       "year": 2021.0,
