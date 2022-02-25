@@ -124,10 +124,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "28407",
+          "raw": "30237",
           "currency": "GBP",
-          "value100p": 2.8407E8,
-          "value": 28407.0
+          "value100p": 3.0237E8,
+          "value": 30237.0
         }
       ],
       "name": "Education"
