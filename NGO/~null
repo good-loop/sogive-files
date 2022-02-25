@@ -1,14 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Uefa-Foundation",
-  "name": "UEFA Foundation for Children",
-  "logo": "https://media.good-loop.com/uploads/standard/uefa-foundation-14841638207378711730.png#ccrop:115",
-  "description": "UEFA x Save the Children",
-  "id": "uefa-foundation",
-  "suggest": [
-    "UEFA Foundation for Children",
-    "Uefa-Foundation"
-  ],
-  "url": "https://uefafoundation.org/",
-  "status": "DRAFT"
+  "id": "making-money-matter",
+  "suggest": []
 }
