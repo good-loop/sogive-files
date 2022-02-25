@@ -77,6 +77,35 @@
       "name": "overall",
       "analyst": "Sanjay",
       "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5b4cc42f4611a0e9f08711ce/t/6183eddde8ad490fbb21b64f/1636036082736/SCIF_AnnualReport_20-21_web_final.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -127,5 +156,5 @@
   "englandWalesCharityRegNum": "1182166",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
