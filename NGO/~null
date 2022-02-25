@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
-  "name": "",
+  "displayName": "making money matter",
+  "name": "making money matter",
   "id": "making-money-matter",
   "suggest": [
-    ""
+    "making money matter",
+    "making money matter"
   ],
   "status": "DRAFT"
 }
