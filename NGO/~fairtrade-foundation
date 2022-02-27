@@ -156,10 +156,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "33486000",
+          "raw": "c",
           "currency": "GBP",
-          "value100p": 3.3486E11,
-          "value": 3.3486E7
+          "value100p": 0.0,
+          "error": {}
         },
         {
           "@type": "Money",
@@ -306,9 +306,8 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 176242,
-      "value": "17.6242105263157891212000"
+      "value100p": 0,
+      "value": "0.0000000000000000000000"
     }
   },
   "name": "Fairtrade Foundation",
