@@ -144,10 +144,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "33486",
+          "raw": "33486000",
           "currency": "GBP",
-          "value100p": 3.3486E8,
-          "value": 33486.0
+          "value100p": 3.3486E11,
+          "value": 3.3486E7
         },
         {
           "@type": "Money",
