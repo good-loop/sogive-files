@@ -178,6 +178,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "Annual Report Page 27"
+        },
+        "reserves": {
+          "notes": "Noted as \"General reserve\" in the Income Statement"
         }
       },
       "name": "overall",
