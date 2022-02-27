@@ -128,7 +128,12 @@
       "name": "Make Fairtrade Personal"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1900.0,
+          "name": "Workers with living wage and improved working conditions"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -279,7 +284,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "Workers with living wage and improved working conditions",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 176242105,
+      "value": "17624.2105263157891212000"
+    }
   },
   "name": "Fairtrade Foundation",
   "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-logo-6865310755107036103.png",
