@@ -132,7 +132,8 @@
         {
           "number": 1900000.0,
           "confidence": "high",
-          "name": "Workers with living wage and improved working conditions"
+          "name": "Workers with living wage and improved working conditions",
+          "description": "1.9 million farmers and workers are members of Fairtrade- certified producer organizations.  "
         }
       ],
       "data-src": [
