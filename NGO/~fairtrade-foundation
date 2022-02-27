@@ -131,9 +131,14 @@
       "outputs": [
         {
           "number": 1900000.0,
+          "meta": {
+            "all": {
+              "notes": "A review of more than 150 studies spanning the past five years\nshows that Fairtrade has clear impact on\n Increased incomes, well-being and resilience among farmer and worker households\nBuilding stronger, well-managed democratic organizations for small-scale producers;\nImproving decent work for workers, including labour conditions and freedom of association of workers;\nContributing to greater environment sustainability and resilience to climate change."
+            }
+          },
           "confidence": "high",
           "name": "Workers(s) with living wage and improved working conditions",
-          "description": "1.9 million farmers and workers are members of Fairtrade- certified producer organizations.   A review of more than 150 studies spanning the past five years\nshows that Fairtrade has clear impact on\n Increased incomes, well-being and resilience among farmer and worker households\nBuilding stronger, well-managed democratic organizations for small-scale producers;\nImproving decent work for workers, including labour conditions and freedom of association of workers;\nContributing to greater environment sustainability and resilience to climate change."
+          "description": "1.9 million farmers and workers are members of Fairtrade- certified producer organizations.  "
         }
       ],
       "data-src": [
