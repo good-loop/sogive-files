@@ -301,6 +301,37 @@
         }
       },
       "name": "Research"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "870000",
+          "currency": "GBP",
+          "value100p": 8.7E9,
+          "value": 870000.0
+        }
+      ],
+      "name": "Awareness and education"
     }
   ],
   "@type": "NGO",
