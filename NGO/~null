@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "make-a-wish",
   "name": "Make-A-Wish",
+  "logo": "https://media.good-loop.com/uploads/standard/make-a-wish-1-logo-svg-vector-14185452287892092769.svg",
   "id": "make-a-wish",
   "suggest": [
     "Make-A-Wish",
