@@ -185,7 +185,7 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2020.0]"
   },
-  "ready": false,
+  "ready": true,
   "name": "Bowel Cancer UK",
   "logo": "https://media.good-loop.com/uploads/raw/bowelcanceruk-6003136297433857261.png",
   "@id": "bowel-cancer-uk",
@@ -193,5 +193,5 @@
   "summaryDescription": "Bowel Cancer UK provide information and support to bowel cancer patients and their families, campaign for early diagnosis and better treatment, support and fund research into bowel cancer, and educate the public and professionals.",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
