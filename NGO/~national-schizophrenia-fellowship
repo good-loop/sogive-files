@@ -448,7 +448,10 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "673000",
+          "currency": "GBP",
+          "value100p": 6.73E9,
+          "value": 673000.0
         },
         {
           "@type": "Money",
