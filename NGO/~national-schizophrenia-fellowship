@@ -97,6 +97,9 @@
         }
       ],
       "meta": {
+        "year": {
+          "notes": ""
+        },
         "reserves": {
           "notes": "Source: Annual Report, p. 29"
         }
@@ -434,38 +437,6 @@
         }
       ],
       "name": "Crisis, Recovery and Nursing"
-    },
-    {
-      "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "raw": "426000",
-          "currency": "GBP",
-          "value100p": 4.26E9,
-          "value": 426000.0
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "raw": "673000",
-          "currency": "GBP",
-          "value100p": 6.73E9,
-          "value": 673000.0
-        },
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "raw": "30482000",
-          "currency": "GBP",
-          "value100p": 3.0482E11,
-          "value": 3.0482E7
-        }
-      ],
-      "name": "overall"
     }
   ],
   "@type": "NGO",
