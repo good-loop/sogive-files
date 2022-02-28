@@ -295,6 +295,11 @@
           "value": 3225000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Pg. 23"
+        }
+      },
       "name": "Research"
     }
   ],
