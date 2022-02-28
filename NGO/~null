@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
   "id": "asociacion-espanola-contra-el-cancer",
-  "suggest": []
+  "suggest": [
+    "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER"
+  ],
+  "status": "DRAFT"
 }
