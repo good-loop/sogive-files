@@ -268,7 +268,7 @@
     }
   },
   "name": "Stonewall",
-  "logo": "https://media.good-loop.com/uploads/standard/Stonewall__logo-5121982122517717587.png#ccrop:98",
+  "logo": "https://media.good-loop.com/uploads/standard/Stonewall__logo-5121982122517717587.png#ccrop:90",
   "@id": "stonewall",
   "lastModified": "2020-11-08T16:43:58Z",
   "englandWalesCharityRegNum": "1101255",
@@ -276,5 +276,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "UK",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
