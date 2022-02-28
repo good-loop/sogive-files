@@ -348,6 +348,7 @@
   "@type": "NGO",
   "noPublicDonations": false,
   "impact": "more-info-needed",
+  "confidence": "high",
   "suggest": [
     "Kidney Research UK",
     "kidney-research-uk"
