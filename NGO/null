@@ -1,76 +1,13 @@
 {
-  "circleCrop": 97.0,
-  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
-  "projects": [
-    {
-      "outputs": [
-        {
-          "number": 1.0,
-          "name": "tree(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "0.12",
-            "currency": "",
-            "value100p": 1200.0,
-            "value": 0.12
-          }
-        }
-      ],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "Tree Planting",
-      "isRep": true
-    }
-  ],
   "@type": "NGO",
-  "displayName": "Eden Reforestation Projects",
-  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "displayName": "make-a-wish",
+  "name": "Make-A-Wish",
+  "logo": "https://media.good-loop.com/uploads/standard/make-a-wish-1-logo-svg-vector-14185452287892092769.svg",
+  "id": "make-a-wish",
   "suggest": [
-    "Eden Reforestation Projects"
+    "Make-A-Wish",
+    "make-a-wish"
   ],
-  "url": "https://edenprojects.org/",
-  "UNSDG": "13",
-  "whyTags": "environment",
-  "simpleImpact": {
-    "number": 1.0,
-    "@type": "Output",
-    "name": "tree(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "value100p": 1200,
-      "value": "0.12",
-      "name": ""
-    }
-  },
-  "ready": true,
-  "logo": "https://media.good-loop.com/uploads/standard/eden-projects-4709504501207212447.png#ccrop:88",
-  "id": "eden-reforestation-projects",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Plant Trees. Save Lives.",
+  "url": "https://www.make-a-wish.org.uk/",
   "status": "DRAFT"
 }
