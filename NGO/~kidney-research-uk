@@ -6,7 +6,7 @@
       "adjustmentComment": "",
       "donationWording": "",
       "images": "",
-      "year": 2016.0,
+      "year": 20161.0,
       "@type": "Project",
       "stories_src": "",
       "inputs": [
@@ -77,13 +77,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 7.76611E8,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.76611E10,
           "value": 7766110.0
         },
         {
@@ -97,13 +97,13 @@
           "value": 0.0
         },
         {
-          "value100": 3.95179E7,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.95179E9,
           "value": 395179.0
         },
         {
@@ -148,13 +148,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 1.879028E8,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.879028E10,
           "value": 1879028.0
         },
         {
@@ -168,13 +168,13 @@
           "value": 0.0
         },
         {
-          "value100": 9561400.0,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.5614E8,
           "value": 95614.0
         },
         {
@@ -217,7 +217,7 @@
           "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11337039\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d252892"
         }
       ],
-      "year": 2022.0,
+      "year": 202.0,
       "@type": "Project",
       "inputs": [
         {
@@ -273,7 +273,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2022.0]"
+    "name": "No Outputs! for project Project[overall 20161.0]"
   },
   "whoTags": "",
   "meta": {
