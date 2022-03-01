@@ -1,14 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-  "name": "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-  "logo": "https://media.good-loop.com/uploads/standard/ASOCIACIN_ESPAOLA_CONTRA_EL_CNCER-3699641784076570632.png#ccrop:_ccrop:_ccrop:115",
-  "id": "asociacion-espanola-contra-el-cancer",
-  "suggest": [
-    "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-    "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER"
-  ],
-  "category": "health",
-  "url": "https://www.contraelcancer.es/es/sobre-nosotros",
-  "status": "DRAFT"
+  "id": "amn",
+  "suggest": []
 }
