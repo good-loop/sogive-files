@@ -539,7 +539,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": false
     }
   ],
   "@type": "NGO",
