@@ -306,7 +306,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "end": "2021-"
     }
   ],
   "@type": "NGO",
