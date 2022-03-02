@@ -1,14 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-  "name": "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-  "logo": "https://media.good-loop.com/uploads/standard/ASOCIACIN_ESPAOLA_CONTRA_EL_CNCER-3699641784076570632.png#ccrop:_ccrop:_ccrop:115",
-  "id": "asociacion-espanola-contra-el-cancer",
+  "displayName": "Made In America",
+  "name": "Made In America",
+  "logo": "https://media.good-loop.com/uploads/standard/iconorg-2547485567274535230.jpg",
+  "id": "madeamerica",
   "suggest": [
-    "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER",
-    "ASOCIACIÓN ESPAÑOLA CONTRA EL CÁNCER"
+    "Made In America",
+    "Made In America"
   ],
-  "category": "health",
-  "url": "https://www.contraelcancer.es/es/sobre-nosotros",
+  "url": "https://madeinamerica.org/",
   "status": "DRAFT"
 }
