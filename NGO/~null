@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Root Capital",
   "id": "root-capital",
-  "suggest": []
+  "suggest": [
+    "Root Capital"
+  ],
+  "status": "DRAFT"
 }
