@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Made In America",
-  "name": "Made In America",
-  "logo": "https://media.good-loop.com/uploads/standard/iconorg-2547485567274535230.jpg",
-  "id": "madeamerica",
-  "suggest": [
-    "Made In America",
-    "Made In America"
-  ],
-  "url": "https://madeinamerica.org/",
-  "status": "DRAFT"
+  "id": "root-capital",
+  "suggest": []
 }
