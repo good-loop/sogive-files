@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Made In America",
   "id": "madeamerica",
-  "suggest": []
+  "suggest": [
+    "Made In America"
+  ],
+  "status": "DRAFT"
 }
