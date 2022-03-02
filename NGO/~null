@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Blue Harvest ",
   "id": "blue-harvest",
-  "suggest": []
+  "suggest": [
+    "Blue Harvest "
+  ],
+  "status": "DRAFT"
 }
