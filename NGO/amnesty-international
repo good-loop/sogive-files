@@ -59,7 +59,7 @@
   "whyTags": "Human rights, Refugees, Sexual violation, Slavery, Workers’ rights",
   "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/AmnestyInternational-8902261514600495926.jpg",
   "@id": "amnesty-international",
-  "summaryDescription": "We campaign for a world where human rights are enjoyed by all\nAmnesty International is a global movement of more than 10 million people in over 150 countries and territories who campaign to end abuses of human rights.",
+  "summaryDescription": "Amnesty International is a global movement of more than 10 million people in over 150 countries and territories who campaign to end abuses of human rights.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Amnesty__fellgood-10410803962049040907.jpg",
   "noPublicDonations": false,
@@ -86,5 +86,5 @@
   "englandWalesCharityRegNum": "294230",
   "uk_giftaid": true,
   "whereTags": "Global",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
