@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Made In America",
-  "name": "Made In America",
-  "logo": "https://media.good-loop.com/uploads/standard/iconorg-2547485567274535230.jpg",
-  "id": "madeamerica",
+  "displayName": "Root Capital",
+  "logo": "https://media.good-loop.com/uploads/standard/RootCapital__Logo__Green__RGB-14892658452212155111.png#ccrop:90",
+  "id": "root-capital",
   "suggest": [
-    "Made In America",
-    "Made In America"
+    "Root Capital"
   ],
-  "url": "https://madeinamerica.org/",
+  "url": "https://rootcapital.org/",
   "status": "DRAFT"
 }
