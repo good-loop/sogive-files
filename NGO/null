@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Root Capital",
-  "logo": "https://media.good-loop.com/uploads/standard/RootCapital__Logo__Green__RGB-14892658452212155111.png#ccrop:90",
-  "id": "root-capital",
+  "displayName": "Blue Harvest ",
+  "logo": "https://media.good-loop.com/uploads/standard/Blue-Harvest-new-logo-darkbg-17875741686221090561.png#ccrop:90",
+  "id": "blue-harvest",
   "suggest": [
-    "Root Capital"
+    "Blue Harvest "
   ],
-  "url": "https://rootcapital.org/",
+  "url": "https://blueharvest.org/",
   "status": "DRAFT"
 }
