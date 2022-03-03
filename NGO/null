@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Project Hope",
-  "id": "project-hope",
+  "name": "Blood Cancer UK",
+  "id": "blood-cancer-uk",
   "suggest": [
-    "Project Hope"
+    "Blood Cancer UK"
   ],
-  "url": "https://www.projecthope.org/",
+  "englandWalesCharityRegNum": "216032",
+  "url": "https://bloodcancer.org.uk/",
   "status": "DRAFT"
 }
