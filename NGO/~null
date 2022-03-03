@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Red Cross Ukraine ",
-  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-16661364391814485943.png#ccrop:90",
-  "id": "red-cross-ukraine",
-  "suggest": [
-    "Red Cross Ukraine "
-  ],
-  "status": "DRAFT"
+  "id": "international-federation-of-red-cross-and-red-crescent-societies-",
+  "suggest": []
 }
