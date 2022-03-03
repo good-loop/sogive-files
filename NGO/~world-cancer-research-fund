@@ -265,10 +265,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "3907",
+          "raw": "3907392",
           "currency": "GBP",
-          "value100p": 3.907E7,
-          "value": 3907.0
+          "value100p": 3.907392E10,
+          "value": 3907392.0
         }
       ],
       "name": "Information \u0026 education"
