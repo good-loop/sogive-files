@@ -441,7 +441,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/National_Cancer_Research_Institute",
   "summaryDescription": "Prostate Cancer UK funds medical research and raises awareness of prostate cancer in the UK.",
   "uptodatedraft": "probably",
-  "images": "https://prostatecanceruk.org/media/2496500/kevin-webber-and-son-sitting-smiling_crop.jpg?anchor\u003dcenter\u0026mode\u003dcrop\u0026width\u003d980\u0026height\u003d551\u0026format\u003d\u0026quality\u003d90\u0026rnd\u003d131962775870000000",
+  "images": "https://media.good-loop.com/uploads/raw/2020-kevin-webber-and-son-father-family-17635488200099581255.jpg",
   "impact": "low",
   "confidence": "medium",
   "suggest": [
@@ -487,5 +487,5 @@
   "englandWalesCharityRegNum": "1005541",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
