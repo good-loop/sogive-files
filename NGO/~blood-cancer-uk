@@ -1,0 +1,9 @@
+{
+  "@type": "NGO",
+  "name": "Blood Cancer UK",
+  "@id": "blood-cancer-uk",
+  "suggest": [
+    "Blood Cancer UK",
+    "blood-cancer-uk"
+  ]
+}
