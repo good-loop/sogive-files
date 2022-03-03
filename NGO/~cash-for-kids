@@ -108,7 +108,15 @@
           "value": 9733911.0
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "3439",
+        "currency": "",
+        "value100p": 3.439E7,
+        "value": 3439.0
+      }
     }
   ],
   "@type": "NGO",
