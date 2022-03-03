@@ -1,0 +1,273 @@
+{
+  "ukCompanyRegNum": "02536180",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9160544",
+          "currency": "GBP",
+          "value100p": 9.160544E10,
+          "value": 9160544.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2017-10-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "6315857",
+        "currency": "GBP",
+        "value100p": 6.315857E10,
+        "value": 6315857.0
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.wcrf-uk.org/uk/about-us/who-we-are"
+        }
+      ],
+      "start_raw": "2017-10-01",
+      "ready": false,
+      "meta": {
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2018-09-30",
+      "end_raw": "2018-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends39/0001000739_AC_20180930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-10-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3254942",
+          "currency": "GBP",
+          "value100p": 3.254942E10,
+          "value": 3254942.0
+        }
+      ],
+      "name": "Research",
+      "start": "2017-10-01",
+      "description": "",
+      "end": "2018-09-30",
+      "end_raw": "2018-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends39/0001000739_AC_20180930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-10-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3927998",
+          "currency": "GBP",
+          "value100p": 3.927998E10,
+          "value": 3927998.0
+        }
+      ],
+      "name": "Information \u0026 education",
+      "start": "2017-10-01",
+      "description": "",
+      "end": "2018-09-30",
+      "end_raw": "2018-09-30"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "World Cancer Research Fund",
+  "description": "Around [40](https://www.wcrf-uk.org/uk/about-us/who-we-are) per cent of cancers in the UK, or 147,000 cases, could be prevented. World Cancer Research Fund supports scientific research, translates the research into easy-to-understand information, and works with governments and decision-makers to influence policy.\n\nThe charity\u0027s research involves not only laboratory projects in academic institutions but also the Continuous Update Project, which synthesizes previous research on cancer prevention. During the financial year, World Cancer Research Fund also funded the WCRF International Academy to support 34 future leaders in nutritional epidemiology and cancer prevention. Finally, the charity strives to let expert research influence policymakers to promote healthy diets and combat the issue of obesity.\n\nApart from experts and policymakers, World Cancer Research Fund also seeks to educate and inform the wider public through means such as printing publications, hosting information sessions, creating interactive online platforms, and running publicity campaigns.",
+  "recommendation": "**To evaluate World Cancer Research Fund under the SoGive rating methodology, we would need more information.**\n\nWorld Cancer Research Fund supports research on cancer prevention and survival, emphasizing the importance of diet, weight and physical activity. The charity not only funds scientific research but also strives to translate research into easy-to-understand information and work with governments and decision-makers to influence policy. The charity belongs to the [World Cancer Research Fund International](https://www.wcrf.org/), a network of research funds located in the USA, United Kingdom, Netherlands, and Hong Kong.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what World Cancer Research Fund does**\n\nBased on the information we have gathered from the 2017/18 annual report, we understand that the World Cancer Research Fund spends roughly 45% of charitable expenses on funding research and 55% on education and information. Total costs amount to £9.2 million.\n\nWe could not gather enough material from the 2017/18 annual report to perform a detailed analysis or form opinions about World Cancer Research Fund\u0027s work under the SoGive methodology. Our inability to produce an evaluation arises from a lack of comprehensive knowledge about the costs and impacts of the specific initiatives that fall under the broad categories of \"research\" and \"education and information.\" The annual report offers no complete budget breakdown of these two categories in terms of specific initiatives. This breakdown would prove especially important for \"research,\" which entails highly heterogenous programs like lab research and researcher training. Also, as presented above, the report disclosed the numeric output of some but not all of the initiatives.\n\nFurthermore, the charity seems to be spending at least 55% of charitable expenditures on influencing and awareness-raising, whose influence proves inherently difficult to assess, which we have pointed out in an earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar).\n\nWe can, however, make tentative comments on the effectiveness of the charity\u0027s research. Our earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) has tentatively suggested that peer-reviewed research may have some positive impacts. The research may prevent future humans from ever getting cancer. Nevertheless, our earlier [analysis](https://thinkingaboutcharity.blogspot.com/2019/08/is-biomedical-research-good-cause-area.html?view\u003dsidebar) on cancer research suggests that compared to other research fields in public health, cancer research seems like a very saturated field, and an additional pound donated may not yield very high marginal returns. According to [another one of our analyses](https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html), cancer research accounts for 43% of the UK\u0027s health research spending, but only 9% of the world\u0027s disease burden or 20% of the UK\u0027s disease burden. \n\n**Benchmarking**\n\nAfter a review of the work of World Cancer Research Fund under the two-question method, the next step in the SoGive process would involve comparing the fund to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. These benchmark charities should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)(AMF). However, because of a lack of information in the charity\u0027s annual report, we ended up unable to perform the comparison. \n\nHowever, the report includes some data relating to cancer research in particular which suggests that the cost per DALY (this is a technical term which is roughly the same as \"cost to create another year of healthy life\") is around £1,600.  For SoGive-recommended charities, this figure would likely be closer to around $10-$50. A SoGive-recommended charity would achieve a life saved for around £1,500, whereas Cancer Research achieves only a DALY for roughly the same cost. While there are caveats around both sets of numbers, it seems highly likely that Cancer Research does not create an impact more positive than charities like the AMF.\n\n**Conclusion**\n\nSince the impacts of World Cancer Research Fund\u0027s campaigning activities remain unclear, we cannot conclude based on the information we have currently whether the fund has a more cost-effective impact than our benchmark charities.\n\nFurther information that would enable us to form a fuller opinion of the work of the World Cancer Research Fund would include:\na) a cost breakdown of the charity\u0027s various initiatives that fall under \"research.\"\nb) an impact assessment of the charity\u0027s campaigns. How high is the level of participation of the World Cancer Research Fund UK compared to other members of the World Cancer Research Fund International, given that many of their initiatives are collaborative? What do the public and policymakers do after obtaining information from the charity? What would be the consequences of not educating the public and decision-makers? Why is this worth being done by a charity and not by the NHS?",
+  "UNSDG": "3",
+  "whyTags": "Cancer",
+  "parentCharityName": "World Cancer Research Fund International",
+  "imageCaption": "World Cancer Research Fund has launched a free [cancer prevention course](https://www.wcrf-uk.org/) for health professional.",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/WCRF-Logo-Artwork__positive__web__10-2016-5597055416491425899.png",
+  "@id": "world-cancer-research-fund",
+  "wikipedia": "https://www.wikiwand.com/en/World_Cancer_Research_Fund_UK",
+  "summaryDescription": "[World Cancer Research Fund](https://www.wcrf-uk.org/uk/about-us) supports research from around the world on cancer prevention and survival, placing an emphasis on diet, weight and physical activity.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/eLearning-492x405-1577025943314866301.jpg",
+  "stories": "World Cancer Research Fund first identified the link between diet and cancer - now a widely accepted fact.",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "WORLD CANCER RESEARCH FUND",
+    "World Cancer Research Fund",
+    "world-cancer-research-fund"
+  ],
+  "url": "https://www.wcrf-uk.org/",
+  "howTags": "Research, Campaigning, Makes grants for organizations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "ukCompanyRegNum": {
+      "source": ""
+    },
+    "images": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    },
+    "parentCharityName": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "name": {
+      "source": ""
+    },
+    "logo": {
+      "source": ""
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "englandWalesCharityRegNum": {
+      "source": ""
+    },
+    "summaryDescription": {
+      "source": ""
+    }
+  },
+  "name": "WORLD CANCER RESEARCH FUND",
+  "lastModified": "2020-08-21T15:36:30Z",
+  "category": "health",
+  "subcategory": "Medical Research",
+  "englandWalesCharityRegNum": "1000739",
+  "whereTags": "Global, United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
