@@ -206,6 +206,30 @@
         }
       ],
       "name": "Other activities"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2022-04-01"
     }
   ],
   "@type": "NGO",
@@ -229,7 +253,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "meta": {
     "uk_giftaid": {
