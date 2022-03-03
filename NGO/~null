@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Women Win",
   "id": "women-win",
-  "suggest": []
+  "suggest": [
+    "Women Win"
+  ],
+  "status": "DRAFT"
 }
