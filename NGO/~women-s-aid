@@ -215,6 +215,7 @@
         {
           "@type": "Money",
           "name": "annualCosts",
+          "raw": "6174303",
           "currency": "GBP"
         },
         {
