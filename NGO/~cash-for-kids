@@ -22,13 +22,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 1.3383725E9,
           "year": 2015.0,
           "@type": "MonetaryAmount",
           "start": "2015-01-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.3383725E11,
           "value": 1.3383725E7
         },
         {
@@ -77,6 +77,32 @@
       "analyst": "Sanjay",
       "end": "2015-12-31T00:00:00Z",
       "location": "UK"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "9733",
+          "currency": "GBP",
+          "value100p": 9.733E7,
+          "value": 9733.0
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
