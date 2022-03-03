@@ -241,8 +241,6 @@
   "englandWalesCharityRegNum": "1054154",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "suggestedDonations": [
-    {}
-  ],
+  "suggestedDonations": [],
   "status": "DRAFT"
 }
