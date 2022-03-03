@@ -1,14 +1,12 @@
 {
-  "notes": "Advancing conservation across Africa",
   "@type": "NGO",
-  "displayName": "The Tusk Trust",
-  "name": "The Tusk Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/tusk-trust-logo-12228844172154080503.png#ccrop:120",
-  "id": "tusk-trust",
+  "displayName": "The Royal Geographical Society",
+  "name": "The Royal Geographical Society (with IBG)",
+  "logo": "https://media.good-loop.com/uploads/standard/download-383820825914521816.png#ccrop:87",
+  "id": "the-royal-geographical-society",
   "suggest": [
-    "The Tusk Trust",
-    "The Tusk Trust"
+    "The Royal Geographical Society (with IBG)",
+    "The Royal Geographical Society"
   ],
-  "url": "https://www.tusk.org/",
   "status": "DRAFT"
 }
