@@ -1,0 +1,9 @@
+{
+  "@type": "NGO",
+  "name": "Project Hope",
+  "@id": "project-hope",
+  "suggest": [
+    "Project Hope",
+    "project-hope"
+  ]
+}
