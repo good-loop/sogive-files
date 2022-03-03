@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Sands",
-  "id": "sands",
+  "name": "The Lullaby Trust",
+  "id": "the-lullaby-trust",
   "suggest": [
-    "Sands"
+    "The Lullaby Trust"
   ],
-  "englandWalesCharityRegNum": "299679",
-  "url": "https://www.sands.org.uk/",
+  "englandWalesCharityRegNum": "262191",
   "status": "DRAFT"
 }
