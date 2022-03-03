@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Sands",
-  "id": "sands",
+  "displayName": "Women Win",
+  "logo": "https://media.good-loop.com/uploads/standard/WomenWinLogo0.5x-PNG-4349029021986747194.png#ccrop:80",
+  "id": "women-win",
   "suggest": [
-    "Sands"
-  ]
+    "Women Win"
+  ],
+  "url": "https://www.womenwin.org/",
+  "status": "DRAFT"
 }
