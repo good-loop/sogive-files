@@ -121,6 +121,7 @@
   ],
   "@type": "NGO",
   "noPublicDonations": false,
+  "description": "We work with grass-roots organisations that aim to make a difference to young lives, directly supporting families who often have nowhere else to go.",
   "impacts": [
     {
       "@class": "com.goodloop.data.charity.Impact",
