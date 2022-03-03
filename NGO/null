@@ -1,11 +1,14 @@
 {
+  "notes": "Central purpose: to help without discrimination those who suffer and thus contribute to peace in the world",
   "@type": "NGO",
-  "displayName": "Red Cross Ukraine ",
-  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-16661364391814485943.png#ccrop:90",
-  "id": "red-cross-ukraine",
+  "displayName": "International Federation of Red Cross and Red Crescent Movement (IFRC)",
+  "name": "International Federation of Red Cross and Red Crescent Movement",
+  "logo": "https://media.good-loop.com/uploads/standard/international-federation-of-red-cross-and-red-crescent-societies-ifrc-vector-logo-1464874625390254733.png",
+  "id": "international-federation-of-red-cross-and-red-crescent-societies-",
   "suggest": [
-    "Red Cross Ukraine "
+    "International Federation of Red Cross and Red Crescent Movement",
+    "International Federation of Red Cross and Red Crescent Movement (IFRC)"
   ],
-  "url": "",
+  "url": "https://www.ifrc.org/international-red-cross-and-red-crescent-movement",
   "status": "DRAFT"
 }
