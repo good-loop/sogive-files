@@ -226,7 +226,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "currency": "GBP"
+          "raw": "663052",
+          "currency": "GBP",
+          "value100p": 6.63052E9,
+          "value": 663052.0
         }
       ],
       "name": "overall",
