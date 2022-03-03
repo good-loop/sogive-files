@@ -210,6 +210,37 @@
         "value100p": 6.292812E10,
         "value": 6292812.0
       }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2591643",
+          "currency": "GBP",
+          "value100p": 2.591643E10,
+          "value": 2591643.0
+        }
+      ],
+      "name": "Research"
     }
   ],
   "@type": "NGO",
