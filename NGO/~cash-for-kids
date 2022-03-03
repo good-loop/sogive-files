@@ -1,5 +1,5 @@
 {
-  "scotlandCharityRegNum": "SC041421, ",
+  "scotlandCharityRegNum": "SC041421, SC003334",
   "images": "",
   "projects": [
     {
@@ -121,5 +121,6 @@
   "name": "Cash for kids",
   "@id": "cash-for-kids",
   "englandWalesCharityRegNum": "1122062",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
