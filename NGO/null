@@ -1,14 +1,14 @@
 {
-  "notes": "Central purpose: to help without discrimination those who suffer and thus contribute to peace in the world",
+  "notes": "Advancing conservation across Africa",
   "@type": "NGO",
-  "displayName": "International Federation of Red Cross and Red Crescent Movement (IFRC)",
-  "name": "International Federation of Red Cross and Red Crescent Movement",
-  "logo": "https://media.good-loop.com/uploads/standard/international-federation-of-red-cross-and-red-crescent-societies-ifrc-vector-logo-1464874625390254733.png",
-  "id": "international-federation-of-red-cross-and-red-crescent-societies-",
+  "displayName": "The Tusk Trust",
+  "name": "The Tusk Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/tusk-trust-logo-12228844172154080503.png#ccrop:120",
+  "id": "tusk-trust",
   "suggest": [
-    "International Federation of Red Cross and Red Crescent Movement",
-    "International Federation of Red Cross and Red Crescent Movement (IFRC)"
+    "The Tusk Trust",
+    "The Tusk Trust"
   ],
-  "url": "https://www.ifrc.org/international-red-cross-and-red-crescent-movement",
+  "url": "https://www.tusk.org/",
   "status": "DRAFT"
 }
