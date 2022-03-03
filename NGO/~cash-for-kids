@@ -141,7 +141,7 @@
     "cash-for-kids"
   ],
   "url": "https://cashforkids.org.uk/",
-  "whyTags": "Children",
+  "whyTags": "Children, ",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
