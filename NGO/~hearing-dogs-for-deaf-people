@@ -304,6 +304,21 @@
     "Hearing Dogs for Deaf People",
     "hearing-dogs-for-deaf-people"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "hearing-dogs-for-deaf-people",
+      "name": "Hearing dogs trained and provided to deaf people",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 387388571,
+        "value": "38738.857142857146343640"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.hearingdogs.org.uk",
   "whyTags": "health, disability, deaf",
   "howTags": "direct work",
@@ -323,7 +338,7 @@
   "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/hearing_dogs_for_deaf_people_logo-13132014918431154105.jpg",
   "@id": "hearing-dogs-for-deaf-people",
   "lastModified": "2020-10-15T18:30:37Z",
-  "summaryDescription": "Hearing Dogs for Deaf People train hearing dogs to support deaf people.",
+  "summaryDescription": "Hearing Dogs for Deaf People trains hearing dogs to support deaf people.",
   "englandWalesCharityRegNum": "293358",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
