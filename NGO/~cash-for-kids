@@ -142,6 +142,7 @@
   ],
   "url": "https://cashforkids.org.uk/",
   "whyTags": "Children, Poverty, Disability, Climate Change",
+  "howTags": "Makes grants to organizations, Campaigning ",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
