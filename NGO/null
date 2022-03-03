@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Blue Harvest ",
-  "logo": "https://media.good-loop.com/uploads/standard/Blue-Harvest-new-logo-darkbg-17875741686221090561.png#ccrop:90",
-  "id": "blue-harvest",
+  "displayName": "Red Cross Ukraine ",
+  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-16661364391814485943.png#ccrop:90",
+  "id": "red-cross-ukraine",
   "suggest": [
-    "Blue Harvest "
+    "Red Cross Ukraine "
   ],
-  "url": "https://blueharvest.org/",
+  "url": "",
   "status": "DRAFT"
 }
