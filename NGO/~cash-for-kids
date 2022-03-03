@@ -122,6 +122,7 @@
   "name": "Cash for kids",
   "@id": "cash-for-kids",
   "englandWalesCharityRegNum": "1122062",
+  "summaryDescription": "Cash for Kids supports children and young people affected by poverty, abuse, neglect, life-limiting illness and those who have additional needs.",
   "uk_giftaid": true,
   "status": "DRAFT"
 }
