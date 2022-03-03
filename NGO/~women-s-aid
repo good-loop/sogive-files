@@ -228,16 +228,16 @@
   },
   "meta": {
     "uk_giftaid": {
-      "source": ""
+      "source": "https://www.womensaid.org.uk/donate/donate-now/"
     }
   },
   "name": "Women\u0027s Aid",
   "logo": "https://media.good-loop.com/uploads/raw/1519876763682-14463717058207280619.jpg",
   "@id": "women-s-aid",
-  "lastModified": "2020-09-03T10:53:19Z",
   "wikipedia": "https://en.wikipedia.org/wiki/Women%27s_Aid",
-  "englandWalesCharityRegNum": "1054154",
+  "lastModified": "2020-09-03T10:53:19Z",
   "summaryDescription": "Women’s Aid is working towards a world where every woman\u0027s right to equality and freedom from violence is unquestioned.",
+  "englandWalesCharityRegNum": "1054154",
   "uptodatedraft": "probably",
   "whereTags": "UK",
   "uk_giftaid": true,
