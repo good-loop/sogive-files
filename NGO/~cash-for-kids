@@ -79,7 +79,12 @@
       "location": "UK"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "confidence": "low",
+          "name": "Children supported"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
