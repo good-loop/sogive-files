@@ -215,8 +215,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "00005511251",
-          "currency": "GBP"
+          "raw": "123123",
+          "currency": "GBP",
+          "value100p": 1.23123E9,
+          "value": 123123.0
         },
         {
           "@type": "Money",
@@ -275,5 +277,5 @@
   "whereTags": "UK",
   "uk_giftaid": true,
   "suggestedDonations": [],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
