@@ -83,7 +83,15 @@
         {
           "number": 548102.0,
           "confidence": "low",
-          "name": "Children supported"
+          "name": "Children supported",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "21400000",
+            "currency": "",
+            "value100p": 2.14E11,
+            "value": 2.14E7
+          }
         }
       ],
       "year": 2020.0,
