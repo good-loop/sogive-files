@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
-  "name": "The tusk Trust",
+  "displayName": "The Tusk Trust",
+  "name": "The Tusk Trust",
   "id": "tusk-trust",
   "suggest": [
-    "The tusk Trust"
+    "The Tusk Trust",
+    "The Tusk Trust"
   ],
   "status": "DRAFT"
 }
