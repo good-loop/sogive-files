@@ -241,6 +241,37 @@
         }
       ],
       "name": "Research"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3907",
+          "currency": "GBP",
+          "value100p": 3.907E7,
+          "value": 3907.0
+        }
+      ],
+      "name": "Information \u0026 education"
     }
   ],
   "@type": "NGO",
