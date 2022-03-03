@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Women Win",
-  "logo": "https://media.good-loop.com/uploads/standard/WomenWinLogo0.5x-PNG-4349029021986747194.png#ccrop:80",
-  "id": "women-win",
+  "name": "Sands",
+  "id": "sands",
   "suggest": [
-    "Women Win"
+    "Sands"
   ],
-  "url": "https://www.womenwin.org/",
+  "englandWalesCharityRegNum": "299679",
+  "url": "https://www.sands.org.uk/",
   "status": "DRAFT"
 }
