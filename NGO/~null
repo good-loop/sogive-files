@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "The Royal Geographical Society",
   "id": "the-royal-geographical-society",
-  "suggest": []
+  "suggest": [
+    "The Royal Geographical Society"
+  ],
+  "status": "DRAFT"
 }
