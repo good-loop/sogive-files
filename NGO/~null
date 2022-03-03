@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "The tusk Trust",
   "id": "tusk-trust",
-  "suggest": []
+  "suggest": [
+    "The tusk Trust"
+  ],
+  "status": "DRAFT"
 }
