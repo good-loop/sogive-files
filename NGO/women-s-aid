@@ -1,0 +1,273 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends54/0001054154_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "6,017,266",
+          "currency": "GBP",
+          "value100p": 6.017266E10,
+          "value": 6017266.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "360,051",
+          "currency": "GBP",
+          "value100p": 3.60051E9,
+          "value": 360051.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "338,839",
+        "currency": "GBP",
+        "value100p": 3.38839E9,
+        "value": 338839.0
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends54/0001054154_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,106,128",
+          "currency": "GBP",
+          "value100p": 1.106128E10,
+          "value": 1106128.0
+        }
+      ],
+      "name": "Direct Services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends54/0001054154_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "106,694",
+          "currency": "GBP",
+          "value100p": 1.06694E9,
+          "value": 106694.0
+        }
+      ],
+      "name": "Campaigning"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "439,974",
+          "currency": "GBP",
+          "value100p": 4.39974E9,
+          "value": 439974.0
+        }
+      ],
+      "name": "Training and Support for Members"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "928 032",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        }
+      ],
+      "name": "Other activities"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "00005511251",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2022-04-01",
+      "end": "2021-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "The principal activity of Women’s Aid is to promote the protection of women and children who have suffered from, or are exposed to, gender-based violence, including the preservation and protection of their mental and physical health, the relief of need and the promotion of research and education concerning gender-based violence.",
+  "recommendation": "**To evaluate Women\u0027s Aid under the SoGive rating methodology, we would need more information.**\n\nWomen’s Aid is working towards a world where every woman\u0027s right to equality and freedom from violence is unquestioned.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**Benchmarking**\n\nHaving reviewed the work of Women\u0027s Aid under the two-question method, the next step in the SoGive process would be to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation).\n\nWe could not gather enough information from the annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology.\n\nThis is because in their annual report Women\u0027s Aid lists several charitable projects and the funds they used to pursue them, but many of these projects include very different activities, each of which can have a different level of impactfulness.\n\nFor example, Women\u0027s Aid reports spending £2,693,759 (45% of their annual budget) on their main project called Change That Lasts. Their activities within this project include building awareness and reporting domestic abuse, supporting professionals, helping survivors, developing press releases, training community ambassadors and professionals, instigating conversations about domestic violence, bringing survivors together, running on online case management system (On Track), launching a new tool to help young people to identify abuse and running The National Domestic Violence Helpline in partnership with Refuge.\n\nGiven that different activities eg. running a helpline or training community ambassadors can have different impacts, the cost-effectiveness assessment of the marginal pound donated to the project cannot be delivered.\n\nWomen\u0027s Aid also engages in research, eg. they are established as holding the largest domestic abuse dataset in the UK. Our [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) on this suggests there are some tentative reasons to be positive about research, however, to assess the cost-effectiveness of Women\u0027s Aid\u0027s research activities, we would need to know what the impact of this work will be on women\u0027s wellbeing.\n\nMoreover, Women\u0027s Aid also engages in campaigning, the impact of which is hard to assess. A true analysis of the impact of campaigning needs to consider counterfactuals, such as:\n-If Women\u0027s Aid successfully persuaded the government to spend more money on women\u0027s issues, what would that money have achieved if Women\u0027s Aid had not successfully redirected the funds?\n-What would be the impact of the newly directed money?\n-How large was the influence of the Women\u0027s Aid’s campaign on possible policy changes?\n\nThis question, however, is intrinsically difficult to answer, as it nearly impossible to track all the influence that made a policymaker change a policy.\n\n**Conclusion**\n\nIt is thus not clear whether any given £1,500 donation to Women\u0027s Aid would achieve a higher impact than saving someone\u0027s live.\n\nFurther information that would enable us to form a fuller opinion of the work of Women\u0027s Aid would be a more comprehensive impact assessments, both in quantity and depth. I.e. for each costed project, not just the number of outputs achieved (e.g. number of calls received by the helpline) but also sizing of the ultimate benefits (e.g. measuring the effect of these conversations on women\u0027s wellbeing). We would also be interested in the quality of these assessments (e.g. did the studies compare against a control group, how were the controls determined, etc.)\n\n\n\n\n\n",
+  "whyTags": "Domestic violence, Helplines, Women",
+  "hideImpact": true,
+  "logo": "https://media.good-loop.com/uploads/raw/1519876763682-14463717058207280619.jpg",
+  "@id": "women-s-aid",
+  "wikipedia": "https://en.wikipedia.org/wiki/Women%27s_Aid",
+  "summaryDescription": "Women’s Aid is working towards a world where every woman\u0027s right to equality and freedom from violence is unquestioned.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-4337418941155466984.png",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Women\u0027s Aid",
+    "women-s-aid"
+  ],
+  "url": "https://www.womensaid.org.uk/",
+  "howTags": "Campaigning, Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "meta": {
+    "uk_giftaid": {
+      "source": "https://www.womensaid.org.uk/donate/donate-now/"
+    }
+  },
+  "name": "Women\u0027s Aid",
+  "lastModified": "2020-09-03T10:53:19Z",
+  "englandWalesCharityRegNum": "1054154",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "suggestedDonations": [],
+  "status": "DRAFT"
+}
