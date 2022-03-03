@@ -3,11 +3,12 @@
   "@type": "NGO",
   "displayName": "International Federation of Red Cross and Red Crescent Movement (IFRC)",
   "name": "International Federation of Red Cross and Red Crescent Movement",
+  "logo": "https://media.good-loop.com/uploads/standard/international-federation-of-red-cross-and-red-crescent-societies-ifrc-vector-logo-1464874625390254733.png",
   "id": "international-federation-of-red-cross-and-red-crescent-societies-",
   "suggest": [
     "International Federation of Red Cross and Red Crescent Movement",
     "International Federation of Red Cross and Red Crescent Movement (IFRC)"
   ],
-  "url": "",
+  "url": "https://www.ifrc.org/international-red-cross-and-red-crescent-movement",
   "status": "DRAFT"
 }
