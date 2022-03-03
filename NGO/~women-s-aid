@@ -226,6 +226,11 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2019.0]"
   },
+  "meta": {
+    "uk_giftaid": {
+      "source": ""
+    }
+  },
   "name": "Women\u0027s Aid",
   "logo": "https://media.good-loop.com/uploads/raw/1519876763682-14463717058207280619.jpg",
   "@id": "women-s-aid",
