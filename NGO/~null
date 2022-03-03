@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "International Federation of Red Cross and Red Crescent Movement ",
   "name": "International Federation of Red Cross and Red Crescent Movement",
   "id": "international-federation-of-red-cross-and-red-crescent-societies-",
   "suggest": [
-    "International Federation of Red Cross and Red Crescent Movement"
+    "International Federation of Red Cross and Red Crescent Movement",
+    "International Federation of Red Cross and Red Crescent Movement "
   ],
   "status": "DRAFT"
 }
