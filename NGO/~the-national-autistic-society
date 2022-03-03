@@ -68,10 +68,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "159",
+          "raw": "159000",
           "currency": "GBP",
-          "value100p": 1590000.0,
-          "value": 159.0
+          "value100p": 1.59E9,
+          "value": 159000.0
         },
         {
           "@type": "Money",
@@ -196,8 +196,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 41132345,
-        "value": "4113.234574959321231059004"
+        "value100p": 41062491,
+        "value": "4106.249175425480692368000"
       },
       "n": 1.0
     }
@@ -212,8 +212,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 41132345,
-      "value": "4113.234574959321231059004"
+      "value100p": 41062491,
+      "value": "4106.249175425480692368000"
     }
   },
   "meta": {
