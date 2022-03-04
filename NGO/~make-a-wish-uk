@@ -159,7 +159,12 @@
       "end_raw": "2019-08-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 702.0,
+          "name": "wishes (singular: wish) granted"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
