@@ -1,0 +1,237 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": "42800000",
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "source": "https://www.evidenceaction.org/blog-full/what-is-the-cost-of-deworming-a-2016-update"
+            }
+          },
+          "name": "Children (singular: child) treated",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "0.13",
+            "value100p": 1300.0,
+            "value": 0.13
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "raw": "5567000",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.567E10,
+          "value": 5567000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "description": "Advocates for, assists and monitors high impact government-run deworming programs",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/546f9316e4b0ced8102e4c74/t/5890fdc0b3db2ba320ea1717/1485897188514/Evidence+Action+2015+Audit+Financal+Statement.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.evidenceaction.org/dewormtheworld/#impact-deworming"
+        }
+      ],
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "source": "https://static1.squarespace.com/static/546f9316e4b0ced8102e4c74/t/5890fdc0b3db2ba320ea1717/1485897188514/Evidence+Action+2015+Audit+Financal+Statement.pdf"
+        }
+      },
+      "analysisComment": "This is the total number children treated the countries Deworm supports through there work with governments in policy and advocacy; prevalence surveying and mapping; program planning and management; public awareness and mobilization; monitoring and evaluation; training and distribution cascade; ",
+      "name": "deworm the world",
+      "analyst": "Letycia",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.givewell.org/charities/deworm-world-initiative"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "meta": {
+            "all": {
+              "notes": "This $0.69 (from GiveWell) * 0.79 (exchange rate from google) From GiveWell\u0027s site: \"We estimate that in India children are dewormed for a total of about $0.37 per child, or $0.11 per child excluding the value of teachers\u0027 and principals\u0027 time spent on the program. In Kenya, we estimate the total cost per treatment at about $0.69 per treatment or $0.49 excluding the value of teachers\u0027 and principals\u0027 time spent on the program.\n\nWe expect the cost per treatment in the countries Deworm the World has expanded to recently and may expand to in the future to be closer to Kenya\u0027s costs, but higher at first than Kenya due to additional costs associated with starting a new program. Deworm the World told us that the cost per treatment in India is unusually low.107 We note that Deworm the World\u0027s cost per child analysis from Cross River, Nigeria for 2016 was about 50% higher than its estimate for Kenya in 2015-2016.108\""
+            }
+          },
+          "name": "deworming treatment(s)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.54",
+            "currency": "GBP",
+            "value100p": 5400.0,
+            "value": 0.54
+          }
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "description": "School-based mass deworming programs leverage existing infrastructure, and result in treatment coverage of over 80% of at-risk children at a cost of less than USD 50 cents per child per year. Deworm the World is a project of Evidence Action",
+  "recommendation": "What do they do? Evidence Action\u0027s Deworm the World Initiative (evidenceaction.org/#deworm-the-world) advocates for, supports, and evaluates government-run school-based deworming programs. \n\nDoes it work? We believe that there is strong evidence that administration of deworming drugs reduces worm loads but weaker evidence on the causal relationship between reducing worm loads and improved life outcomes; we consider deworming a priority program given the possibility of strong benefits at low cost. Deworm the World sends monitors to schools during and after deworming to determine whether the programs it supports have reached a large proportion of children targeted. We have reviewed data from each of its major programs, which overall indicate strong results.\n\nWhat do you get for your dollar? Our best guess is that deworming is generally highly cost-effective. We estimate that, in Kenya, the cost per child dewormed is about $0.71 per child, or $0.50 per child excluding in-kind contributions from governments. We estimate that the cost per child treated in India is less than half of that. We expect the cost per treatment in other countries to be closer to that in Kenya than India, and may be more expensive in the early stages of a program. The number of lives significantly improved is a function of a number of difficult-to-estimate factors, which we discuss in detail in a separate report.\n\nIs there room for more funding? We believe that Deworm the World is very likely to be constrained by funding. In the next three years, we expect Deworm the World to have opportunities to spend $18.9 million more than we expect it to receive in that time. Funding beyond this level would allow Deworm the World to build its reserves and take advantage of unanticipated opportunities. (More) December 2017 update: In November 2017, we recommended that Good Ventures give $15.2 million to Evidence Action\u0027s Deworm the World Initiative (including $5.5 million to build its reserves). We also recommended that GiveWell\u0027s Board of Directors grant $0.7 million in discretionary funds. After accounting for these grants, we estimate that Deworm the World has a remaining funding gap of about $8.5 million for its deworming programs.\n\nEvidence Action\u0027s Deworm the World Initiative is recommended because of its:\n\nFocus on a program with a strong track record and excellent cost-effectiveness.\nStrong process for assessing whether the deworming programs it supports are successfully deworming children. \nStandout transparency - it has shared significant, detailed information about its programs with us.\nRoom for more funding - we believe Deworm the World will be able to use additional funds to start or maintain deworming programs.\n\nWe sourced this analysis from our trusted partner GiveWell",
+  "whyTags": "International aid, poverty, health, Water/Sanitation/Hygiene/WASH",
+  "externalAssessments": "https://www.givewell.org/charities/deworm-world-initiative",
+  "parentCharityName": "Evidence Action",
+  "ready": true,
+  "modified": true,
+  "logo": "https://www.crowdfunder.co.uk/uploads/projects/43333.jpg?v\u003d1456783401",
+  "@id": "deworm-the-world",
+  "wikipedia": "https://en.wikipedia.org/wiki/Deworm_the_World_Initiative",
+  "summaryDescription": "Evidence Action\u0027s Deworm the World advocates for, funds, provides technical assistance to, and monitors government-run deworming programs.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/DWtW-1750258871492143190.png",
+  "noPublicDonations": false,
+  "impact": "high",
+  "suggest": [
+    "      Deworm the World",
+    "deworm-the-world"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "deworm-the-world",
+      "name": "deworming treatment(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5400,
+        "value": "0.54"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.evidenceaction.org/dewormtheworld/",
+  "howTags": "Direct Work, Research",
+  "recommended": true,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "deworming treatment(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 5400,
+      "value": "0.54"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "englandWalesCharityRegNum": {
+      "notes": "Hey guys - this charity Reg is returning \"Centre For Effective Altruism\" not \"Deworm The World\" Note from SJ on 14 May 2021: Thank you, have removed that CC reg no"
+    }
+  },
+  "name": "      Deworm the World",
+  "englandWalesCharityRegNum": "1149828",
+  "whereTags": "Developing World",
+  "uk_giftaid": false,
+  "status": "DRAFT"
+}
