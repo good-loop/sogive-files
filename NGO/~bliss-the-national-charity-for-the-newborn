@@ -1189,6 +1189,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "349981",
+          "currency": "GBP",
+          "value100p": 3.49981E9,
+          "value": 349981.0
         }
       ],
       "name": "Engaging with neonatal health professionals"
