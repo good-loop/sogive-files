@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Blood Cancer UK",
-  "id": "blood-cancer-uk",
-  "suggest": [
-    "Blood Cancer UK"
-  ],
-  "englandWalesCharityRegNum": "216032",
-  "url": "https://bloodcancer.org.uk/",
-  "status": "DRAFT"
+  "id": "it-gets-better-project",
+  "suggest": []
 }
