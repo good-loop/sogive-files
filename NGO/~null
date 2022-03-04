@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "O",
   "id": "out-metrowest",
-  "suggest": []
+  "suggest": [
+    "O"
+  ],
+  "status": "DRAFT"
 }
