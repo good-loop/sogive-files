@@ -157,6 +157,35 @@
       "name": "overall",
       "end": "2019-08-31",
       "end_raw": "2019-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.make-a-wish.org.uk/live/media/filer_public/32/3b/323be9bd-6513-4f6a-bcd4-aa9632846685/make-a-wish-uk-2020-annual-accounts.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -183,6 +212,21 @@
     "Make a wish UK",
     "Make-A-Wish UK",
     "make-a-wish-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "make-a-wish-uk",
+      "name": "wishes (singular: wish) granted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 71936460,
+        "value": "7193.6460674157305413782"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.make-a-wish.org.uk/",
   "howTags": "Direct work",
