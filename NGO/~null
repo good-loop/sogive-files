@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "It Gets Better Project",
   "id": "it-gets-better-project",
-  "suggest": []
+  "suggest": [
+    "It Gets Better Project"
+  ],
+  "status": "DRAFT"
 }
