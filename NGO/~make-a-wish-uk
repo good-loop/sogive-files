@@ -162,7 +162,8 @@
       "outputs": [
         {
           "number": 702.0,
-          "name": "wishes (singular: wish) granted"
+          "name": "wishes (singular: wish) granted",
+          "description": "children with life threatening illnesses granted a wish, such as a holiday or a special day out"
         }
       ],
       "data-src": [
