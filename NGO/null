@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Blood Cancer UK",
-  "id": "blood-cancer-uk",
+  "displayName": "It Gets Better Project",
+  "logo": "https://media.good-loop.com/uploads/standard/Full-Color-Stacked-IGBP-RGB-12575494388967096085.png#ccrop:80",
+  "id": "it-gets-better-project",
   "suggest": [
-    "Blood Cancer UK"
+    "It Gets Better Project"
   ],
-  "englandWalesCharityRegNum": "216032",
-  "url": "https://bloodcancer.org.uk/",
+  "url": "https://itgetsbetter.org/",
   "status": "DRAFT"
 }
