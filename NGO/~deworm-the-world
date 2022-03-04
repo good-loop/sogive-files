@@ -184,6 +184,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Deworm_the_World_Initiative",
   "summaryDescription": "Evidence Action\u0027s Deworm the World advocates for, funds, provides technical assistance to, and monitors government-run deworming programs.",
   "uptodatedraft": "probably",
+  "usCharityRegNum": "90-0874591",
   "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/DWtW-1750258871492143190.png",
   "noPublicDonations": false,
   "impact": "high",
@@ -230,8 +231,8 @@
     }
   },
   "name": "      Deworm the World",
-  "englandWalesCharityRegNum": "1149828",
+  "englandWalesCharityRegNum": "",
   "whereTags": "Developing World",
   "uk_giftaid": false,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
