@@ -1220,6 +1220,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "200044",
+          "currency": "GBP",
+          "value100p": 2.00044E9,
+          "value": 200044.0
         }
       ],
       "name": "Campaigning for change"
