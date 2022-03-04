@@ -197,7 +197,15 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "5140092",
+        "currency": "",
+        "value100p": 5.140092E10,
+        "value": 5140092.0
+      }
     }
   ],
   "@type": "NGO",
