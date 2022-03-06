@@ -363,29 +363,12 @@
     },
     {
       "outputs": [],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
+      "data-src": [
         {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "@type": "Citation",
+          "url": "https://files.fairtrade.net/publications/Fairtrade-International-Annual-Report-2020-2021.pdf"
         }
       ],
-      "name": "Standard-setting and pricing"
-    },
-    {
-      "outputs": [],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -402,10 +385,49 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
       "name": "Monitoring and evaluation"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://files.fairtrade.net/publications/Fairtrade-International-Annual-Report-2020-2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Standard Setting and Prices"
     }
   ],
   "@type": "NGO",
