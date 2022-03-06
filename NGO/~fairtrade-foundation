@@ -337,6 +337,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9,041,220",
+          "currency": "GBP",
+          "value100p": 9.04122E10,
+          "value": 9041220.0
         }
       ],
       "name": "Operational personnel "
