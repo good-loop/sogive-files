@@ -289,6 +289,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://files.fairtrade.net/publications/Fairtrade-International-Annual-Report-2020-2021.pdf"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
