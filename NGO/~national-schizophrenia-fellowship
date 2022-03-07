@@ -522,7 +522,12 @@
       "name": "Prisons/Criminal Justice Services"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 4310.0,
+          "name": "people supported"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
