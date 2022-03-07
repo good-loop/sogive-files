@@ -424,7 +424,8 @@
           "value": 0.0
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": false
     }
   ],
   "@type": "NGO",
