@@ -560,7 +560,12 @@
       "name": "Community services"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 715.0,
+          "name": "People supported"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
