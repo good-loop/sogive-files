@@ -525,7 +525,9 @@
       "outputs": [
         {
           "number": 4310.0,
-          "name": "people supported"
+          "confidence": "high",
+          "name": "people supported",
+          "description": "Our range of community support services gave people severely affected by mental illness access to personalised help to rebuild their confidence, help them stay in or return to work, and take part in social activities they enjoy."
         }
       ],
       "year": 2021.0,
