@@ -418,10 +418,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "173,578",
+          "raw": "1,015,465",
           "currency": "GBP",
-          "value100p": 1.73578E9,
-          "value": 173578.0
+          "value100p": 1.015465E10,
+          "value": 1015465.0
         }
       ],
       "name": "Other activities"
