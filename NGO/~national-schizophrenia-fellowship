@@ -424,6 +424,11 @@
           "value": 0.0
         }
       ],
+      "meta": {
+        "reserves": {
+          "notes": "Our unrestricted reserves, which exclude designated funds, on 31 March 2021 were £7.5m (2020: £6.1m) of which £2.4m (2020: £2.9m) are fixed and intangible assets in use by the charity. The level of free reserves on 31 March 2021 was £5.1m (2020: £3.2m)"
+        }
+      },
       "name": "overall",
       "reserves": {
         "@type": "Money",
