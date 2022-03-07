@@ -441,7 +441,11 @@
       "isRep": false
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "people supported"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
