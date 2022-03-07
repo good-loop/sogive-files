@@ -520,6 +520,37 @@
         }
       ],
       "name": "Prisons/Criminal Justice Services"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3642000",
+          "currency": "GBP",
+          "value100p": 3.642E10,
+          "value": 3642000.0
+        }
+      ],
+      "name": "Community services"
     }
   ],
   "@type": "NGO",
