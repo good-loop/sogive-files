@@ -482,6 +482,37 @@
         }
       },
       "name": "Supported Housing \u0026 Floating Support Services"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2046000",
+          "currency": "GBP",
+          "value100p": 2.046E10,
+          "value": 2046000.0
+        }
+      ],
+      "name": "Prisons/Criminal Justice Services"
     }
   ],
   "@type": "NGO",
