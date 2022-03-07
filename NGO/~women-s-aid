@@ -242,7 +242,12 @@
       "end": "2021-03-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 2500.0,
+          "name": "users of survivors forum"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
