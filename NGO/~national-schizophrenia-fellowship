@@ -444,6 +444,7 @@
       "outputs": [
         {
           "number": 534.0,
+          "confidence": "high",
           "name": "people supported"
         }
       ],
