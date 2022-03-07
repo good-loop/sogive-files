@@ -425,6 +425,37 @@
         }
       ],
       "name": "Other activities"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,022,101",
+          "currency": "GBP",
+          "value100p": 1.022101E10,
+          "value": 1022101.0
+        }
+      ],
+      "name": "Change that lasts"
     }
   ],
   "@type": "NGO",
