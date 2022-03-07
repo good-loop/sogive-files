@@ -439,6 +439,39 @@
         "value": 7500000.0
       },
       "isRep": false
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "isRep": {
+          "notes": ""
+        }
+      },
+      "name": "Supported Housing \u0026 Floating Support Services"
     }
   ],
   "@type": "NGO",
