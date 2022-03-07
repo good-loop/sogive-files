@@ -486,7 +486,8 @@
     {
       "outputs": [
         {
-          "name": "p"
+          "number": 1603.0,
+          "name": "People supported"
         }
       ],
       "year": 2021.0,
