@@ -425,6 +425,14 @@
         }
       ],
       "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "7500000",
+        "currency": "",
+        "value100p": 7.5E10,
+        "value": 7500000.0
+      },
       "isRep": false
     }
   ],
