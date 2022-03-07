@@ -270,10 +270,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1,615,396",
+          "raw": "1,257,749",
           "currency": "GBP",
-          "value100p": 1.615396E10,
-          "value": 1615396.0
+          "value100p": 1.257749E10,
+          "value": 1257749.0
         }
       ],
       "name": "Direct Services"
