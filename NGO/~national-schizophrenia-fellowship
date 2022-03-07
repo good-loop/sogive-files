@@ -588,6 +588,14 @@
           "value": 893000.0
         }
       ],
+      "meta": {
+        "year": {
+          "notes": ""
+        },
+        "isRep": {
+          "notes": "No information on impact report "
+        }
+      },
       "name": "Carers’ and family support services"
     }
   ],
