@@ -344,10 +344,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "969,556",
+          "raw": "1,077,458",
           "currency": "GBP",
-          "value100p": 9.69556E9,
-          "value": 969556.0
+          "value100p": 1.077458E10,
+          "value": 1077458.0
         }
       ],
       "name": "Training and Support for members"
