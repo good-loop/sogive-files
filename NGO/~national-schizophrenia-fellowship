@@ -484,7 +484,11 @@
       "name": "Supported Housing \u0026 Floating Support Services"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "p"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
