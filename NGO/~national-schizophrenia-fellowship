@@ -487,7 +487,8 @@
       "outputs": [
         {
           "number": 1603.0,
-          "name": "People supported"
+          "name": "People supported",
+          "description": "\"We provided primary mental health services in prisons across England that are based on expertise, the preferences of prisoners, and the best available evidence. These services are provided to individuals and groups of prisoners and are aimed at those who experience less severe mental illnesses such as mild or moderate anxiety or depression.\""
         }
       ],
       "year": 2021.0,
