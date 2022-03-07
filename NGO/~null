@@ -46,10 +46,10 @@
     }
   ],
   "@type": "NGO",
-  "displayName": "Eden Reforestation",
+  "displayName": "Eden Reforestation Projects",
   "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
   "suggest": [
-    "Eden Reforestation"
+    "Eden Reforestation Projects"
   ],
   "impacts": [
     {
