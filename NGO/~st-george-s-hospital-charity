@@ -281,15 +281,17 @@
     },
     {
       "outputs": [],
-      "data-src": [
-        {
-          "@type": "Citation",
-          "url": "https://www.stgeorgeshospitalcharity.org.uk/about-us/reports-and-financial-statements"
-        }
-      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1",
+          "currency": "GBP",
+          "value100p": 10000.0,
+          "value": 1.0
+        },
         {
           "@type": "Money",
           "name": "tradingCosts",
@@ -298,24 +300,10 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "raw": "203000",
-          "currency": "GBP",
-          "value100p": 2.03E9,
-          "value": 203000.0
-        },
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "raw": "65",
-          "currency": "GBP",
-          "value100p": 650000.0,
-          "error": {},
-          "value": 65.0
+          "currency": "GBP"
         }
       ],
-      "name": "overall",
-      "start": "2020-04-01",
-      "end": "2021-03-31"
+      "name": "overall"
     }
   ],
   "@type": "NGO",
