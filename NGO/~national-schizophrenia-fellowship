@@ -2,50 +2,6 @@
   "images": "https://www.communicatemagazine.com/media/7111/capture-d-e-cran-2019-08-07-a-123729.png?anchor\u003dcenter\u0026mode\u003dcrop\u0026width\u003d856\u0026height\u003d292\u0026rnd\u003d132096516160000000",
   "projects": [
     {
-      "outputs": [],
-      "adjustmentComment": "",
-      "donationWording": "",
-      "images": "",
-      "@type": "Project",
-      "stories_src": "",
-      "inputs": [
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "annualCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "fundraisingCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "tradingCosts",
-          "currency": "GBP",
-          "value": 0.0
-        },
-        {
-          "value100": 0.0,
-          "@type": "MonetaryAmount",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP",
-          "value": 0.0
-        }
-      ],
-      "isRep": true,
-      "ready": false,
-      "analysisComment": "Mostly a campaigning organisation",
-      "name": "overall",
-      "analyst": "Sanjay",
-      "location": ""
-    },
-    {
       "outputs": [
         {
           "number": 15895.0,
@@ -437,6 +393,32 @@
         }
       ],
       "name": "Crisis, Recovery and Nursing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "30500000",
+          "currency": "GBP",
+          "value100p": 3.05E11,
+          "value": 3.05E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -456,7 +438,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall null]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "meta": {
     "noPublicDonations": {
