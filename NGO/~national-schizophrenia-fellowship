@@ -639,6 +639,7 @@
       "outputs": [
         {
           "number": 914.0,
+          "confidence": "high",
           "name": "People supported",
           "description": "\"Our 24/7 care home services provided a safe, stable environment and specialist nursing support to people facing a mental health crisis or who had left hospital after being an inpatient. Support that involves experienced and dedicated staff building up a detailed understanding of a person’s needs, including those relating to their physical health, which in many cases is neglected.\""
         }
