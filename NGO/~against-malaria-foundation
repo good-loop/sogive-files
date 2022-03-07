@@ -197,20 +197,17 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "raw": "168792938",
-          "currency": "GBP",
-          "value100p": 1.68792938E12,
-          "value": 1.68792938E8
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "currency": "GBP"
         },
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
           "currency": "GBP"
         }
       ],
