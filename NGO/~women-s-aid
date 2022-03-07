@@ -381,10 +381,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1,024,673",
+          "raw": "203,544",
           "currency": "GBP",
-          "value100p": 1.024673E10,
-          "value": 1024673.0
+          "value100p": 2.03544E9,
+          "value": 203544.0
         }
       ],
       "name": "Covid related supoort"
