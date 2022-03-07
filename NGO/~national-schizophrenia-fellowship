@@ -445,7 +445,8 @@
         {
           "number": 534.0,
           "confidence": "high",
-          "name": "people supported"
+          "name": "people supported",
+          "description": "Our supported housing services include shared living spaces where staff are on site and self-contained flats that staff regularly visit. In both environments, our trained staff worked with people living with mental illness to identify their individual goals and aspirations and the support they need to make these ambitions a reality."
         }
       ],
       "year": 2021.0,
