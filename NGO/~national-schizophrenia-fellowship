@@ -513,10 +513,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "2046000",
+          "raw": "1716000",
           "currency": "GBP",
-          "value100p": 2.046E10,
-          "value": 2046000.0
+          "value100p": 1.716E10,
+          "value": 1716000.0
         }
       ],
       "name": "Prisons/Criminal Justice Services"
