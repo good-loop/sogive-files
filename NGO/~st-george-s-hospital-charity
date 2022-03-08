@@ -627,7 +627,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "453000",
+          "currency": "GBP",
+          "value100p": 4.53E9,
+          "value": 453000.0
         }
       ],
       "name": "Staff development and welfare",
