@@ -337,6 +337,37 @@
         "value100p": 3.948E10,
         "value": 3948000.0
       }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "98000",
+          "currency": "GBP",
+          "value100p": 9.8E8,
+          "value": 98000.0
+        }
+      ],
+      "name": "Arts"
     }
   ],
   "@type": "NGO",
