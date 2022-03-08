@@ -1,4 +1,5 @@
 {
+  "images": "https://ifour-vegpower-uploads.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/01/25104158/panel-5-girl-eating-sweetcorn.jpg",
   "@type": "NGO",
   "displayName": "VegPower",
   "unlisted": true,
@@ -11,5 +12,5 @@
     "VegPower"
   ],
   "url": "https://vegpower.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
