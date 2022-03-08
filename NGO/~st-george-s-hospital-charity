@@ -411,7 +411,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "334000",
+          "currency": "GBP",
+          "value100p": 3.34E9,
+          "value": 334000.0
         }
       ],
       "name": "Capital Projects",
