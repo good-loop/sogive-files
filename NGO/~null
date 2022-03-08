@@ -2,16 +2,17 @@
   "images": "https://ifour-vegpower-uploads.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/01/25104158/panel-5-girl-eating-sweetcorn.jpg",
   "@type": "NGO",
   "displayName": "VegPower",
-  "unlisted": true,
-  "ready": false,
-  "name": "VegPower",
-  "logo": "https://media.good-loop.com/uploads/standard/vegpower-logo-16729979840483561301.svg",
   "description": "80% of our kids are not eating enough vegetables. Veg Power is on a mission to inspire kids from early years through primary school and into their teens to veggie loving habits they will keep for life and in turn share with their children.",
-  "id": "vegpower",
   "suggest": [
     "VegPower",
     "VegPower"
   ],
   "url": "https://vegpower.org.uk/",
-  "status": "MODIFIED"
+  "unlisted": true,
+  "ready": false,
+  "name": "VegPower",
+  "logo": "https://media.good-loop.com/uploads/standard/vegpower-logo-16729979840483561301.svg",
+  "id": "vegpower",
+  "category": "health",
+  "status": "DRAFT"
 }
