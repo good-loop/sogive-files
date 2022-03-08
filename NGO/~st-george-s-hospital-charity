@@ -342,6 +342,7 @@
       "outputs": [
         {
           "number": 5100.0,
+          "confidence": "low",
           "name": "Art Activity (plural:activities)"
         }
       ],
