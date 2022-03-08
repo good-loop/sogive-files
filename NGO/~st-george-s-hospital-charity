@@ -549,7 +549,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "597000",
+          "currency": "GBP",
+          "value100p": 5.97E9,
+          "value": 597000.0
         }
       ],
       "name": "Patient and family experience",
