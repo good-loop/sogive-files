@@ -325,7 +325,15 @@
       },
       "name": "overall",
       "start": "2020-04-01",
-      "end": "2021-03-31"
+      "end": "2021-03-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "3948000",
+        "currency": "",
+        "value100p": 3.948E10,
+        "value": 3948000.0
+      }
     }
   ],
   "@type": "NGO",
