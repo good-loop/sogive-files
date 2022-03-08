@@ -339,7 +339,11 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "Art Activity"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
