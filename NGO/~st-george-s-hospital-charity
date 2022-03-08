@@ -285,6 +285,9 @@
         {
           "@type": "Citation",
           "url": "https://www.stgeorgeshospitalcharity.org.uk/about-us/reports-and-financial-statements"
+        },
+        {
+          "@type": "Citation"
         }
       ],
       "year": 2021.0,
