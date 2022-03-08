@@ -352,6 +352,12 @@
           "description": "Each art activity is an experience such as creative workshops, and theatre performances that is delivered to patients."
         }
       ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.stgeorgeshospitalcharity.org.uk/about-us/reports-and-financial-statements"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
