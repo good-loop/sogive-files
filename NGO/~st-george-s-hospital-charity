@@ -347,7 +347,7 @@
               "notes": "pg. 8 lists that 5100 art activities were delivered. Unclear if this encompasses the entirety of art spending or not."
             }
           },
-          "confidence": "very-low",
+          "confidence": "low",
           "name": "Art Activity (plural:activities)"
         }
       ],
