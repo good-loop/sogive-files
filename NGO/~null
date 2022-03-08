@@ -1,6 +1,8 @@
 {
   "@type": "NGO",
   "displayName": "VegPower",
+  "unlisted": true,
+  "ready": false,
   "name": "VegPower",
   "logo": "https://media.good-loop.com/uploads/standard/vegpower-logo-16729979840483561301.svg",
   "id": "vegpower",
