@@ -342,6 +342,11 @@
       "outputs": [
         {
           "number": 5100.0,
+          "meta": {
+            "all": {
+              "notes": "While "
+            }
+          },
           "confidence": "very-low",
           "name": "Art Activity (plural:activities)"
         }
