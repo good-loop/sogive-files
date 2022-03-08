@@ -594,6 +594,11 @@
           "value": 567000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "pg. 62"
+        }
+      },
       "name": "Research",
       "start": "2020-04-01",
       "end": "2021-03-31"
