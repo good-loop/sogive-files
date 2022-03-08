@@ -379,7 +379,8 @@
           "value": 98000.0
         }
       ],
-      "name": "Arts"
+      "name": "Arts",
+      "start": "2020-04-01"
     }
   ],
   "@type": "NGO",
