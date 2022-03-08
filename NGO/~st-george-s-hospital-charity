@@ -411,12 +411,17 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "334000",
+          "raw": "33400",
           "currency": "GBP",
-          "value100p": 3.34E9,
-          "value": 334000.0
+          "value100p": 3.34E8,
+          "value": 33400.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs from pg 62."
+        }
+      },
       "name": "Capital Projects",
       "start": "2020-04-01",
       "end": "2021-03-31"
