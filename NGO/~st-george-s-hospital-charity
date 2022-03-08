@@ -311,7 +311,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "Annual costs come from page 57 of the report. Trading costs "
+          "notes": "Annual costs come from page 57 of the report. Trading costs seem to be zero since no trading expediture is "
         }
       },
       "name": "overall",
