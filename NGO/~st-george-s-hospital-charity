@@ -309,6 +309,11 @@
           "value": 4178000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs come from"
+        }
+      },
       "name": "overall",
       "start": "2020-04-01",
       "end": "2021-03-31"
