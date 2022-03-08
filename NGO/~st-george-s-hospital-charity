@@ -349,7 +349,7 @@
           },
           "confidence": "low",
           "name": "Art Activity (plural:activities)",
-          "description": "Each art activity is an experience such as creative workshops, and theatre performances that is offered to patients."
+          "description": "Each art activity is an experience such as creative workshops, and theatre performances that is delivered to patients."
         }
       ],
       "year": 2021.0,
