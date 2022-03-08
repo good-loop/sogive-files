@@ -348,7 +348,8 @@
             }
           },
           "confidence": "low",
-          "name": "Art Activity (plural:activities)"
+          "name": "Art Activity (plural:activities)",
+          "description": "Each art activity is an experience delivered to "
         }
       ],
       "year": 2021.0,
