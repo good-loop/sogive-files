@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "Disaster Emegeny ",
+  "displayName": "Disaster Emergency   ",
   "id": "disaster-emergency-committee",
   "suggest": [
-    "Disaster Emegeny "
+    "Disaster Emergency   "
   ],
   "status": "DRAFT"
 }
