@@ -1,0 +1,307 @@
+{
+  "scotlandCharityRegNum": "SC039700",
+  "ukCompanyRegNum": "02780643",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "4367331",
+          "currency": "GBP",
+          "value100p": 4.367331E10,
+          "value": 4367331.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1882216",
+        "currency": "GBP",
+        "value100p": 1.882216E10,
+        "value": 1882216.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "995213",
+          "currency": "GBP",
+          "value100p": 9.95213E9,
+          "value": 995213.0
+        }
+      ],
+      "name": "Advocacy and awareness",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "943,842",
+          "currency": "GBP",
+          "value100p": 9.43842E9,
+          "value": 943842.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "603,502",
+          "currency": "GBP",
+          "value100p": 6.03502E9,
+          "value": 603502.0
+        }
+      ],
+      "name": "Training and consultancy",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "829017",
+          "currency": "GBP",
+          "value100p": 8.29017E9,
+          "value": 829017.0
+        }
+      ],
+      "name": "Youth engagement",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "785510",
+          "currency": "GBP",
+          "value100p": 7.8551E9,
+          "value": 785510.0
+        }
+      ],
+      "name": "Parents\u0027 services",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "YoungMinds",
+  "description": "[YoungMinds](https://youngminds.org.uk/about-us/who-we-are/) provides children with mental health support, promotes innovations that help vulnerable young people, encourages the integration of mental health services, and influences policymakers and mental health practitioners to take young people\u0027s interest into consideration. [The charity](https://youngminds.org.uk/about-us/reports/our-impact-reports/) works to ensure access to mental health care for young people, provides support for parents and carers, and campaigns within schools and the mental health system.",
+  "recommendation": "**To evaluate YoungMinds under the SoGive rating methodology, we would need more information.**\n\nThis charity aims to protect young people\u0027s mental health with 4 projects: advocacy and awareness, training and consultancy, youth engagement, and parents\u0027 services.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what YoungMinds does**\n\nYoungMinds spent £4.4 million during the 2018/19 financial year.\n\nAccording to the charity\u0027s [2018/19 financial report](https://youngminds.org.uk/media/3398/youngminds-impact-and-annual-report-2018-19-combined.pdf), YoungMinds spent about 28% of charitable expenditures on advocacy and awareness. The charity successfully campaigned for the Mental Health Units (Use of Force) Act, which put limits on the use of force in mental health wards. Nevertheless, since YoungMinds runs campaigns alongside other organisations, we do not know the extent to which YoungMind\u0027s work contributed to Parliament\u0027s decision. In another example of YoungMind\u0027s campaigns, the charity calls for Parliament and the NHS to provide more robust financial and practical assistance for people suffering from mental health issues. At least an additional 345,000 young people would hopefully be covered. The charity did not report the cost of each of these initiatives, and we do not know how much progress YoungMinds made in campaigns during the financial year. We do not have a comprehensive knowledge of the number of people who would be helped by the policies mentioned in this paragraph, and we do not know whether these policies would have a long-lasting effect. We also do not know what the funding used to carry out these policies would have been spent on, had YoungMinds not conducted these campaigns. As we have pointed out in an earlier [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar), the impact of campaigns often proves difficult to assess.\n\nYoungMinds also spent about 27% of charitable expenditures on training and consultancy. Examples of initiatives that fall under this category include training programs for education professionals and mental health professionals, and an online newsletter. We do not have comprehensive numeric data on the cost breakdown and the total number of professionals helped in different ways, nor do we comprehensively know the impacts these programs have on the professionals and youngsters. \n\nFurthermore, the charity directed about 23% of charitable expenses towards youth engagement. YoungMinds created a program that helps students find their feet when moving up to secondary school. YoungMinds also encouraged young people to build on their own experiences and take part in campaigns about mental health. The charity did not report the cost of each of these initiatives, and we do not have comprehensive numeric data on the total number of youngsters helped through such programs, nor do we comprehensively know the impacts these programs have on the youth.\n\nFinally, YoungMinds used 22% of charitable expenditures on parents\u0027 services. Highlights of this project included a helpline service, a parent-to-parent listening service, expert advice sessions, and helpful online information. We do not have comprehensive numeric data on the cost of each initiative and the total number of parents helped in these numerous ways, nor do we comprehensively know the impacts these programs have on parents and children.\n\n**Benchmarking**\n\nAfter a review of the work of YoungMinds under the two-question method, the next step in the SoGive process would involve comparing YoungMinds to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. These benchmark charities should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation).\n\nHowever, because of a lack of information in the charity\u0027s annual report, we ended up unable to perform the comparison. Our inability to produce an evaluation arises largely from a lack of comprehensive numeric output for each of the charity\u0027s projects. We also do not know how the charity further divided the funding under each project.\n\n**Conclusion**\n\nWe would need more information to determine whether YoungMinds would lead to an impact as positive as saving a life for about £1,500.\n\nFurther information that would enable us to form a fuller opinion of the work of YoungMinds would include\n\na) a more comprehensive cost assessment. What are the costs of the specific initiatives that fall under the 4 categories as defined by YoungMind\u0027s projects?\n\nb) a more comprehensive impact assessment. How many young people, parents, and professionals received support from the charity during the financial year? Did the help have a long-term impact? What were the effects of the charity\u0027s campaigns in the past year? Why is this worth being done by a charity and not by the NHS? What would be the consequences if the charity did not provide its services? ",
+  "UNSDG": "3",
+  "whyTags": "Children, Mental Health",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/youngminds-logo-11513681335125578982.svg",
+  "@id": "young-minds-trust",
+  "summaryDescription": "[This charity](https://youngminds.org.uk/about-us/) seeks to promote young people\u0027s mental health.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/group-against-wall-3-opt-6992073476684871173.jpg",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Young Minds Trust",
+    "YoungMinds",
+    "young-minds-trust"
+  ],
+  "url": "https://youngminds.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
+  "name": "Young Minds Trust",
+  "lastModified": "2020-08-16T12:37:05Z",
+  "category": "health",
+  "subcategory": "Mental Health",
+  "englandWalesCharityRegNum": "1016968",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
