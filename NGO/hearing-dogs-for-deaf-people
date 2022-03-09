@@ -218,7 +218,15 @@
           "number": 182.0,
           "confidence": "high",
           "name": "Hearing dogs trained and provided to deaf people",
-          "description": "Hearing dogs provide company for deaf people and they are trained to alert their owner of doorbell, rire alarms, etc."
+          "description": "Hearing dogs provide company for deaf people and they are trained to alert their owner of doorbell, rire alarms, etc.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "48,141.37",
+            "currency": "",
+            "value100p": 4.814137E8,
+            "value": 48141.37
+          }
         }
       ],
       "data-src": [
@@ -313,9 +321,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 387388571,
-        "value": "38738.857142857146343640"
+        "value100p": 481413700,
+        "value": "48141.37",
+        "name": ""
       },
       "n": 1.0
     }
@@ -330,9 +338,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 387388571,
-      "value": "38738.857142857146343640"
+      "value100p": 481413700,
+      "value": "48141.37",
+      "name": ""
     }
   },
   "name": "Hearing Dogs for Deaf People",
@@ -344,5 +352,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "uk",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
