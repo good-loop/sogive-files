@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Ukrainian Red Cross",
-  "name": "Ukrainian Red Cross",
-  "logo": "https://media.good-loop.com/uploads/standard/640px-Ukrainian__red__cross__symbol-6647879039155920013.png",
-  "id": "ukrainian-red-cross",
+  "displayName": "Disaster Emergency Committee  ",
+  "logo": "https://media.good-loop.com/uploads/standard/dec-logo-red-558266321821838337.png#ccrop:90",
+  "id": "disaster-emergency-committee",
   "suggest": [
-    "Ukrainian Red Cross",
-    "Ukrainian Red Cross"
+    "Disaster Emergency Committee  "
   ],
+  "url": "https://www.dec.org.uk/",
   "status": "DRAFT"
 }
