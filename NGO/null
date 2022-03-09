@@ -1,19 +1,11 @@
 {
-  "images": "https://ifour-vegpower-uploads.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/01/25104158/panel-5-girl-eating-sweetcorn.jpg",
   "@type": "NGO",
-  "displayName": "VegPower",
-  "description": "80% of our kids are not eating enough vegetables. Veg Power is on a mission to inspire kids from early years through primary school and into their teens to veggie loving habits they will keep for life and in turn share with their children.",
+  "displayName": "First Book",
+  "logo": "https://media.good-loop.com/uploads/standard/First__Book__Logo__2018-18106069424983299238.png#ccrop:75",
+  "id": "first-book",
   "suggest": [
-    "VegPower",
-    "VegPower"
+    "First Book"
   ],
-  "url": "https://vegpower.org.uk/",
-  "unlisted": true,
-  "ready": false,
-  "name": "VegPower",
-  "logo": "https://media.good-loop.com/uploads/standard/vegpower-logo-16729979840483561301.svg",
-  "id": "vegpower",
-  "category": "health",
-  "subcategory": "Health and Wellbeing",
+  "url": "https://firstbook.org/",
   "status": "DRAFT"
 }
