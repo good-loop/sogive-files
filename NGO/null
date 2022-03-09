@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Disaster Emergency Committee  ",
-  "logo": "https://media.good-loop.com/uploads/standard/174-768x352-10866616533739358260.png",
-  "id": "disaster-emergency-committee",
+  "displayName": "Room To Read",
+  "name": "Room To Read",
+  "logo": "https://media.good-loop.com/uploads/standard/download-13585767307599685353.jpg",
+  "id": "roomtoread",
   "suggest": [
-    "Disaster Emergency Committee  "
+    "Room To Read",
+    "Room To Read"
   ],
-  "url": "https://www.dec.org.uk/",
+  "url": "https://www.roomtoread.org/",
   "status": "DRAFT"
 }
