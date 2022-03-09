@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Room To Read",
   "name": "Room To Read",
   "id": "roomtoread",
   "suggest": [
+    "Room To Read",
     "Room To Read"
   ],
   "status": "DRAFT"
