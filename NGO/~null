@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Ukrainian Red Cross",
   "name": "Ukrainian Red Cross",
+  "logo": "https://media.good-loop.com/uploads/standard/640px-Ukrainian__red__cross__symbol-6647879039155920013.png",
   "id": "ukrainian-red-cross",
   "suggest": [
+    "Ukrainian Red Cross",
     "Ukrainian Red Cross"
   ],
   "status": "DRAFT"
