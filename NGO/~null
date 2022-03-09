@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Ukrainian Red Cross",
   "id": "ukrainian-red-cross",
-  "suggest": []
+  "suggest": [
+    "Ukrainian Red Cross"
+  ],
+  "status": "DRAFT"
 }
