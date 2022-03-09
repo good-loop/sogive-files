@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "First Book",
+  "logo": "https://media.good-loop.com/uploads/standard/First__Book__Logo__2018-18106069424983299238.png#ccrop:75",
   "id": "first-book",
   "suggest": [
     "First Book"
