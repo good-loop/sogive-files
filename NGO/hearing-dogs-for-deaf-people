@@ -158,7 +158,15 @@
           },
           "confidence": "high",
           "name": "Hearing dogs trained and provided to deaf people",
-          "description": "Hearing dogs provide company for deaf people and they are trained to alert their owner of doorbell, rire alarms, etc."
+          "description": "Hearing dogs provide company for deaf people and they are trained to alert their owner of doorbell, fire alarms, etc.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "48000",
+            "currency": "",
+            "value100p": 4.8E8,
+            "value": 48000.0
+          }
         }
       ],
       "data-src": [
