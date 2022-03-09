@@ -1,0 +1,142 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends38/0001062638_AC_20190331_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "29546000",
+          "currency": "GBP",
+          "value100p": 2.9546E11,
+          "value": 2.9546E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": "General reserve + Expendable endowment // Edit March 2021: plus 1124000 from the first couple of months of 2020? \u003d 2534000 in total (Annual Report p.18 ff.) + on Page 30, the unrestricted funds read as follows: 4033000 (unclear which number is true...?)"
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1,410,000",
+        "currency": "GBP",
+        "value100p": 1.41E10,
+        "value": 1410000.0
+      },
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Disasters Emergency Committee",
+  "description": "Disasters Emergency Committee works currently with 14 leading UK aid charities, naming Action Against Hunger, Oxfam, Save the Children, the British Red Cross, and Islamic Relief besides others. In case of major disasters in countries without the capacity to respond, they bring their member charities together to quickly and efficiently raise funds, enabling them to rapidly scale up their operations on the ground.",
+  "whyTags": "Disaster relief",
+  "modified": true,
+  "logo": "https://media.good-loop.com/uploads/standard/174-768x352-18248771508747139059.png",
+  "@id": "disasters-emergency-committee",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disasters_Emergency_Committee",
+  "summaryDescription": "Disasters Emergency Committee (DEC) is an umbrella group of 14 UK charities, which coordinates and launches collective appeals to raise funds to provide emergency aid and rapid relief to people caught up in disasters and humanitarian crises.",
+  "uptodatedraft": "probably",
+  "images": "https://www.dec.org.uk/sites/default/files/styles/article_heroshot/public/hero/rs5854_rs101_img_9001_0.jpg?itok\u003dJahlceOE",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Disasters Emergency Committee",
+    "Disasters Emergency Committee",
+    "disasters-emergency-committee"
+  ],
+  "url": "https://www.dec.org.uk/",
+  "howTags": "Making grants to organizations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Disasters Emergency Committee",
+  "category": "international",
+  "subcategory": "Humanitarian Relief Supplies",
+  "englandWalesCharityRegNum": "1062638",
+  "whereTags": "International, Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
