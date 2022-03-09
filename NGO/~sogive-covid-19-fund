@@ -1,0 +1,24 @@
+{
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/COVID-19-7516093315340735210.jpg",
+  "notes": "sogive covid-19 fund",
+  "@type": "NGO",
+  "impact": "high",
+  "confidence": "low",
+  "description": "In particular, this will fund\n- experts in global public health, infectious disease, and emergency preparedness to protect people\u0027s health and ensure that communities are resilient to major challenges\n- support to local food banks\n- work on loneliness\n- work on homelessness\n- public health messaging in the developing world\n\nFor more information about the organisations chosen to perform this work and how the decisions were made, please see the analysis tab.",
+  "recommendation": "This fund allocates funds to the following charities:\n- Johns Hopkins Centre for Health Security\n- Trussell Trust\n- Campaign to End Loneliness\n- St Mungos\n- Development Media International\n\nThis fund has been put together based on our analysis of a large number of explicitly COVID-19 related charities and interventions.\n\nThe full 20-page analysis can be found on the SoGive blog (http://thinkingaboutcharity.blogspot.com/2020/03/the-best-places-to-donate-for-covid-19.html)\n\nIn short, the analysis considers:\n- is the work neglected?\n- will the work have other benefits, such as making us better prepared for (e.g.) a second wave of the COVID-19 pandemic, or other future pandemics\n- might the charitable work crowd out government work?\n- might extra money not help (e.g. because what\u0027s needed is more talented people, as opposed to more money)\n\nTaking into account this analysis and donor feedback, we put together the following list of charities as part of our COVID-19 response fund.\n\nIn more detail, the funds will be split in the following proportions:\n\n- Johns Hopkins Centre for Health Security: 60%\n--- Research to protect people\u0027s health from epidemics and disasters and ensure that communities are resilient to major challenges\n- Development Media International: 25%\n--- Public health messaging in the developing world, sometimes called the \"weak link\" in the fight against COVID-19\n- Trussell Trust: 5%\n--- Food banks, which can help people who might be food insecure\n- Campaign to End Loneliness: 5%\n--- A mixture of activities to tackle loneliness among people of all ages, especially the elderly\n- St Mungos: 5%\n--- St Mungos provides support around homelessness, including places for homeless people to live. COVID-19 poses a particular challenge for those who are homeless\n\nThe organisations with the smallest allocations are also the organisations where the least amount of analytical rigour has been applied; for these organisations, SoGive has performed verification due diligence, ensuring that the organisations are legitimate charities.",
+  "suggest": [
+    "SoGive COVID-19 Fund",
+    "sogive-covid-19-fund"
+  ],
+  "whyTags": "COVID-19, coronavirus",
+  "howTags": "Research, Direct work",
+  "ready": false,
+  "name": "SoGive COVID-19 Fund",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/CDC-coronavirus-image-23311-for-web-14702872916374613391.jpg",
+  "@id": "sogive-covid-19-fund",
+  "id": "sogive-covid-19-fund",
+  "summaryDescription": "In light of the current COVID-19 pandemic, this will fund research, urgently needed local relief, and public health messaging in the developing world.",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
