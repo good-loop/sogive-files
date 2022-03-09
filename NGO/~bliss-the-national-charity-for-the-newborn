@@ -1285,7 +1285,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "38623",
+          "currency": "GBP",
+          "value100p": 3.8623E8,
+          "value": 38623.0
         }
       ],
       "name": "Supporting research "
