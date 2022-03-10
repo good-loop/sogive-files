@@ -190,6 +190,35 @@
       "start": "2018-01-01",
       "end": "2018-12-31",
       "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.parkinsons.org.uk/sites/default/files/2021-08/CS3656%20Annual%20Report%20and%20Accounts%202020_FINAL%20DIGITAL.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -216,7 +245,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2018.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "name": "Parkinson\u0027s Disease Society Of The United Kingdom",
   "lastModified": "2020-08-31T12:41:42Z",
