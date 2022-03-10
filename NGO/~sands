@@ -47,6 +47,37 @@
         "value100p": 3.77467E10,
         "value": 3774670.0
       }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "580",
+          "currency": "GBP",
+          "value100p": 5800000.0,
+          "value": 580.0
+        }
+      ],
+      "name": "Keeps the helpline open for one day"
     }
   ],
   "@type": "NGO",
