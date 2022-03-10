@@ -1149,6 +1149,7 @@
       "outputs": [
         {
           "number": 807.0,
+          "confidence": "medium",
           "name": "Families supported",
           "description": "Remote emotional service via zoom (140 families);  personalised email support by the Support Officers (667 families)."
         }
