@@ -16,7 +16,10 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "2,558,662 ",
+          "currency": "GBP",
+          "value100p": 2.558662E10,
+          "value": 2558662.0
         },
         {
           "@type": "Money",
@@ -29,10 +32,7 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "2,558,662",
-          "currency": "GBP",
-          "value100p": 2.558662E10,
-          "value": 2558662.0
+          "currency": "GBP"
         }
       ],
       "name": "overall"
