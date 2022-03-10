@@ -577,10 +577,26 @@
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/battersea-13551673786793689252.jpg",
   "noPublicDonations": false,
   "impact": "low",
+  "confidence": "high",
   "suggest": [
     "Battersea dogs\u0027 and cats\u0027 home",
     "Battersea Dogs \u0026 Cats Home",
     "battersea-dogs-and-cats-home"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "battersea-dogs-and-cats-home",
+      "name": "animals (singular: animal) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 95973115,
+        "value": "9597.31155323385487555707132749140176000"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.battersea.org.uk/",
   "howTags": "Direct Work",
