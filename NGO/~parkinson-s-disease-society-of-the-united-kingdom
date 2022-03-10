@@ -1,0 +1,227 @@
+{
+  "scotlandCharityRegNum": "SC037554",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "39089000",
+          "currency": "GBP",
+          "value100p": 3.9089E11,
+          "value": 3.9089E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "312000",
+          "currency": "GBP",
+          "value100p": 3.12E9,
+          "value": 312000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10493000",
+          "currency": "GBP",
+          "value100p": 1.0493E11,
+          "value": 1.0493E7
+        }
+      ],
+      "name": "Better treatments and a cure",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5182000",
+          "currency": "GBP",
+          "value100p": 5.182E10,
+          "value": 5182000.0
+        }
+      ],
+      "name": "Quality services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15548000",
+          "currency": "GBP",
+          "value100p": 1.5548E11,
+          "value": 1.5548E7
+        }
+      ],
+      "meta": {
+        "start": {
+          "notes": ""
+        }
+      },
+      "name": "Taking control",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Parkinson\u0027s UK",
+  "description": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning. They operate across the UK and believe a cure will be found by overcoming the symptoms of Parkinson\u0027s one by one.",
+  "recommendation": "We don\u0027t have enough information to form a strong opinion about the effectiveness of the work of Parkinson\u0027s UK. There is some evidence suggesting that Parkinson\u0027s UK may not be a top-recommended charity, although this is tentative.\n\nThe charity splits its work into three areas:\n- Better treatments and a cure\n- Quality services\n- Taking Control\nTheir work is split roughly in the proportion one-third, one-sixth, one-half between those three projects respectively\n\nThey do not define what those terms mean, however it appears that the first is research, the second may be campaigning for better services, and the third is direct work to support sufferers of Parkinson\u0027s.\n\nFor research, there is some small amount of evidence that Parkinson\u0027s may be more than adequately funded already. In particular, this [analysis](https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html) suggests that neurological disorders are somewhat overfunded. This conclusion is tentative, and could be changed if there were reason to believe that the marginal next pound spend on research in neurological disorders would achieve stronger traction than other research areas. Furthermore, an analysis of different areas of neurological research areas may find that the conclusions covering neurological conditions as a whole might not apply to Parkinson\u0027s in particular. If a donor\u0027s intention were to support work relating to Parkinson\u0027s, regardless of the possibility that other work may achieve more bang for your buck, then this analysis would not apply. \n\nFor the direct work that Parkinson\u0027s UK do, we have found no information in the public domain the scale of their reach, so we have no data on their cost-effectiveness.",
+  "whyTags": "Health, Education, Dementia",
+  "imageCaption": "The Birmingham team raises £500 for parkinsons UK",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/logo-9840701543890193685.png",
+  "@id": "parkinson-s-disease-society-of-the-united-kingdom",
+  "summaryDescription": "Parkinson\u0027s support, research and awareness.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/parkinsons-640x422-7364440436289532497.png",
+  "impact": "more-info-needed",
+  "suggest": [
+    "Parkinson\u0027s Disease Society Of The United Kingdom",
+    "Parkinson\u0027s UK",
+    "parkinson-s-disease-society-of-the-united-kingdom"
+  ],
+  "url": "https://www.parkinsons.org.uk",
+  "howTags": "Campaigning, Research, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2018.0]"
+  },
+  "name": "Parkinson\u0027s Disease Society Of The United Kingdom",
+  "lastModified": "2020-08-31T12:41:42Z",
+  "englandWalesCharityRegNum": "258197",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
