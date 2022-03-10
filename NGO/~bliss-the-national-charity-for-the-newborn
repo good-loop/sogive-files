@@ -1266,6 +1266,7 @@
       "outputs": [
         {
           "number": 1.0,
+          "confidence": "low",
           "name": "Project(s)",
           "description": "Research project funded by Bliss looking at the measurement and management of pain in premature babies"
         }
