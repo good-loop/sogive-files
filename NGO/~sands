@@ -1,17 +1,18 @@
 {
   "@type": "NGO",
-  "name": "Sands",
   "description": "Sands exists to reduce the number of babies dying and to ensure that anyone affected by the death of a baby receives the best possible care and support for as long as they need it.",
-  "@id": "sands",
   "suggest": [
     "Sands",
     "sands"
   ],
+  "url": "https://www.sands.org.uk/",
+  "whyTags": "children, health, saving lives",
+  "howTags": "direct work, research, campaigning",
+  "name": "Sands",
+  "@id": "sands",
   "id": "sands",
   "englandWalesCharityRegNum": "299679",
   "summaryDescription": "Sands is the leading stillbirth and neonatal death charity in the UK. ",
-  "url": "https://www.sands.org.uk/",
-  "status": "DRAFT",
-  "whyTags": "children, health, saving lives",
-  "howTags": "direct work, research, "
+  "whereTags": "UK",
+  "status": "DRAFT"
 }
