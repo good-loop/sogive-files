@@ -369,7 +369,21 @@
       "end_raw": "2018-12-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 3114.0,
+          "confidence": "high",
+          "name": "animal(s) cared for",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "10,533",
+            "currency": "",
+            "value100p": 1.0533E8,
+            "value": 10533.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -404,6 +418,11 @@
           "value": 584000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "In this case, the income from beneficiaries comes from \"animal sales and claim fees.\""
+        }
+      },
       "name": "overall",
       "reserves": {
         "@type": "Money",
@@ -417,10 +436,10 @@
     {
       "outputs": [
         {
-          "number": 3997.0,
+          "number": 3114.0,
           "confidence": "medium",
           "name": "animals (singular: animal) helped",
-          "description": "Helping animals means reuniting them with their owner, caring for\nthem at one of their sites, or rehoming them."
+          "description": "This includes reuniting animals with their owners, rehoming, and care at one of three shelters. "
         }
       ],
       "data-src": [
@@ -435,10 +454,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "21016000",
+          "raw": "32800000",
           "currency": "GBP",
-          "value100p": 2.1016E11,
-          "value": 2.1016E7
+          "value100p": 3.28E11,
+          "value": 3.28E7
         },
         {
           "@type": "Money",
@@ -462,14 +481,91 @@
           "value": 0.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual cost includes proportionate amount of support and fundraising costs."
+        }
+      },
       "name": "Care of Dogs and Cats",
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9376000",
+          "currency": "GBP",
+          "value100p": 9.376E10,
+          "value": 9376000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Battersea has the category \"campaigning and raising awareness\" on the annual report accessible from their website, but on the report provided to the charity commission, they have only the category \"Education and Awareness.\" "
+        }
+      },
+      "name": "Campaigning and Awareness"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1406000",
+          "currency": "GBP",
+          "value100p": 1.406E10,
+          "value": 1406000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "Grant Giving and Academy"
     }
   ],
   "@type": "NGO",
   "displayName": "Battersea Dogs \u0026 Cats Home",
   "description": "They accept and help every dog and cat, regardless of their physical and mental condition. Arriving animals are checked-up, receive vaccination, worming and flea treatment. Animals are cared for by a team of veterinary surgeons, nurses and assistants.",
-  "recommendation": "Battersea Dogs \u0026 Cats Home achieves a Bronze assessment under the SoGive rating methodology.\n\nBattersea Dogs \u0026 Cats Home provides home, care and veterinary services to cats and dogs.\n\nUnder the SoGive two question method, we consider two questions:\n\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money) \n\nBased on the information we have gathered from the 2018 accounts, we understand that it may cost over £4,000 to care for one animal for a year.\n\nAll of Battersea animals are examined by a Veterinary Surgeon during their stay. Battersea employs a clinic team of 39 staff across our three sites, including eight Veterinary Surgeons, 21 Veterinary Nurses and three Veterinary Care Assistants. There is also an approved Nurse training practice which has currently seven Student Vet Nurses. This means that the c£4,000 per animal helped cost includes expensive services such as general veterinary care and surgeries.\n\nThey also run a 7 days Lost Dogs \u0026 Cats Line. Extensive efforts go into reducing stress levels of the dogs and cats. Battersea service thus includes dog grooming facilities, foster homes for most poorly or stressed animals, individual care plans for every animal or classical music played for a few hours each day.\n\nOur method compares the examined charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a human life for around £1,500.\n\nWe believe that one animal being nursed for a year is likely to be less positive an outcome better than saving 2 human lives. In particular, the fact that each animal helped may end up achieving improvements in their quality of life that are less good than a life saved, it seems likely that Battersea Dogs and Cats Home achieves outcomes that underperform SoGive\u0027s benchmark charities, even for donors who weigh an animal life as more than twice as valuable as a human life.\n\nHence we believe that Battersea Cats and Dogs Home appears, as far as we can tell from information in the public domain to be doing good work for the welfare of animals, but underperforms the SoGive benchmark charities.\n",
+  "recommendation": "**Summary**\n\n**Battersea Dogs’ and Cats’ home is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\n- Battersea Dogs’ and Cats’ home runs three animal shelters in England, campaigns for the welfare of pets, and offers grants and seminars to smaller shelters and welfare organisations.\n- Just over three-quarters of the £43.6m it spent in 2020 went to direct care of animals through its shelters, at a cost of around £10,500 per animal helped. In 2019, Battersea spent around £6,000 per animal helped.\n- Given the high proportion of funds spent on direct care, it’s unlikely that Battersea’s other activities would meaningfully improve its overall cost-effectiveness. \n- The £6,000 it takes Battersea to care for one animal, if directed to a life-saving Gold-rated charity, would be expected to save at least one human life, so we do not recommend donating to this organisation.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Battersea does - how they spend your donations**\n\nWe ought to be mindful of Battersea’s stated mission: \"We aim never to turn away a dog or cat in need of our help, ensuring they receive the best care possible no matter how long it takes to find them a place to live.\" This mindset-doing everything possible for each individual animal-necessarily runs counter to overall cost-effectiveness, so the fact that Battersea does not appear to be cost-effective is in some sense by design. \n\nIn 2020 Battersea spent £43.6m in three areas: care of animals, campaigning \u0026 raising awareness, and grant giving \u0026 The Battersea Academy. All following figures, except where noted, can be found in their 2020 [annual report](https://www.battersea.org.uk/annual-report-2020) and [financial statements](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/206394/accounts-and-annual-returns).\n\n£32.8m of this total (adjusted to include a proportionate amount of the total fundraising cost of £15.7m) was spent on direct care of animals. Battersea runs three centres in London, Berkshire, and Kent. These centres serve as shelters for animals requiring rehoming: in 2020 Battersea rehomed 2,538 animals. The centres are also veterinary facilities: 2,538 operations were performed by Battersea’s veterinary team. In total, Battersea provided direct help to 3,114 dogs and cats in 2020.\n\nBattersea spent £9.4m on campaigning and awareness, which includes both media campaigns and government relations. In the former category, for example, its \"Rescue is our favourite breed\" aimed to \"[inspire people] to think ‘rescue first’ not only when it comes to rehoming, but also if they’re faced with circumstances that mean they must relinquish their pet.\" According to Battersea’s own research, in November 2020 37% of the UK population had heard of this campaign, and their TV advert, part of their \"Rescues to the Rescue\" concept, reached 33.5 million viewers. In government relations, Battersea co-ran the All-Party Parliamentary Group on Cats (APGOCATS) along with Cats Protection and Blue Cross, which aims to promote feline welfare. \n\nFinally £1.4m was spent on grants and the Battersea Academy. Battersea provides grants to other animal welfare organisations, in the UK and internationally, totalling £450,000 in 2020. Battersea estimates that this funding indirectly helped 43,100 animals. Through the Battersea Academy it also offers seminars and training to smaller shelters and charities. In 2020 its programmes were attended by 467 people representing 146 organisations, along with 11 dog wardens from local authorities. Based on reporting from programme participants, it estimates that 6,419 animals were indirectly helped. \n\n**Cost-effectiveness analysis - how does Battersea compare to the most cost-effective charities?**\n\nAfter a review of the work of Battersea under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £5 to avert the suffering of one chicken who is living in very poor conditions) ) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\n*Direct Care*\n\nStarting with Battersea’s direct care, since it spent £32.8m on services for 3,114 animals in 2020, Battersea spent around £10,533 per animal. It’s important to note that the pandemic affected Battersea’s operations. With roughly the same expenditure on direct care in [2019](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/206394/accounts-and-annual-returns), £33m, Battersea helped 5,689 animals, or a bit under £6,000 per animal helped directly. Given that not all of Battersea’s work is in effect saving the life of an animal-for example, some of the services offered are physical therapy-it’s clear that Battersea’s work in direct care does not meet SoGive’s Gold Standard of £5,000 per human life saved. For another perspective, consider that if the £6,000 per animal were directed to a Gold-rated charity focused on farmed animal welfare, it would be expected to avert the suffering of over 1,200 chickens living in very poor conditions.  \n\n*Campaigning and Awareness*\n\nThe numbers for Battersea’s campaigning and awareness work at first appear promising. Given the reach of its advertising campaigns, in theory Battersea could be affecting at least a third of all pet owners in the UK. Its work with APGOCATS, if it bears fruit, has the chance to affect England’s entire cat population ([a paper from 2008](https://www.researchgate.net/publication/224966270_Number_of_cats_and_dogs_in_UK_welfare_organisations) estimated the cat population of the UK as a whole is roughly 10.3 million). But in order to estimate the effectiveness of these efforts, we would need more information about the effectiveness of, for instance, TV advertising on the behaviour of prospective pet owners. We would also need to know, for any legislative victory, how much responsibility we can attribute directly to Battersea (rather than the work of other organisations), which would require more granular information about the legislative process on a case-by-case basis. \n\nEven if we can’t directly estimate Battersea’s cost-effectiveness in this area, we can make comparisons with SoGive’s benchmarks and other charities which campaign for animal welfare. For instance, there is some evidence to suggest that for £10 [Compassion in World Farming](https://app.sogive.org/#charity?charityId\u003dcompassion-in-world-farming-ciwf) can help 110 animals through its campaigning (i.e. 11 animals per £). In order for Battersea to match this cost-effectiveness, its campaigns would need to help 103 million animals (£9.4 million*11 animals\u003d 103,400,000 animals), or somewhat less than 5 times the total population of the UK’s cats and dogs (according to the [study previously mentioned](https://www.researchgate.net/publication/224966270_Number_of_cats_and_dogs_in_UK_welfare_organisations), around 21 million in 2007). Indeed, given its total expenditure of £43.6m, Battersea would need to help the equivalent of 8.7 million chickens to meet SoGive’s Gold-standard (this would also depend on the extent to which the charity could alleviate suffering). We might value the suffering of cats and dogs more than chickens, such that 8.7 million is higher than the appropriate figure, but Battersea has provided no evidence that their campaigning approaches the scale needed to make their work cost-effective.  \n\n*Grants and Education*\n\nAs for Battersea’s grants and education, it makes up such a small portion of the organisation’s expenditure that it won’t factor into our overall cost-effectiveness estimate. That being said, since this assistance goes to organisations with a similar focus to Battersea, we would not expect this work to significantly outperform the two areas of activity we have already addressed.\n\nJust over three-quarters of Battersea’s expenditure from 2020 was directed to direct care. Given the uncertainties surrounding campaigning, we will base our recommendation on Battersea’s direct care work. In a normal year, 2019, Battersea spent around £6,000 per animal helped. Given that this money, were it donated instead to a SoGive Gold-rated life-saving charity, could be expected to save at least one human life, or avert the suffering of at least 1,200 chickens, we do not recommend a donation to Battersea Dogs’ and Cats’ Home. \n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nBased on the above, we rate the Battersea Dogs’ and Cats’ Home Not Recommended (firm) under the SoGive methodology. \n",
   "whyTags": "Animals",
   "UNSDG": "0",
   "ready": true,
@@ -481,10 +577,26 @@
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/battersea-13551673786793689252.jpg",
   "noPublicDonations": false,
   "impact": "low",
+  "confidence": "high",
   "suggest": [
     "Battersea dogs\u0027 and cats\u0027 home",
     "Battersea Dogs \u0026 Cats Home",
     "battersea-dogs-and-cats-home"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "battersea-dogs-and-cats-home",
+      "name": "animals (singular: animal) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 95973115,
+        "value": "9597.31155323385487555707132749140176000"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.battersea.org.uk/",
   "howTags": "Direct Work",
@@ -496,8 +608,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 98340047,
-      "value": "9834.0047384224880085827394908571952000"
+      "value100p": 95973115,
+      "value": "9597.31155323385487555707132749140176000"
     }
   },
   "whoTags": "Animals",
