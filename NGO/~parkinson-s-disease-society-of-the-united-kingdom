@@ -303,6 +303,37 @@
         }
       ],
       "name": "Better support, every day"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1654000",
+          "currency": "GBP",
+          "value100p": 1.654E10,
+          "value": 1654000.0
+        }
+      ],
+      "name": "Getting Parkinson\u0027s understood"
     }
   ],
   "@type": "NGO",
