@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "name": "Sands",
+  "description": "Sands exists to reduce the number of babies dying and to ensure that anyone affected by the death of a baby receives the best possible care and support for as long as they need it.",
   "@id": "sands",
   "suggest": [
     "Sands",
@@ -8,7 +9,7 @@
   ],
   "id": "sands",
   "englandWalesCharityRegNum": "299679",
-  "summaryDescription": "Sands is the leading stillbirth and neonatal death charity in the UK. Sands exists to reduce the number of babies dying and to ensure that anyone affected by the death of a baby receives the best possible care and support for as long as they need it.",
+  "summaryDescription": "Sands is the leading stillbirth and neonatal death charity in the UK. ",
   "url": "https://www.sands.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
