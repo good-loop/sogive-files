@@ -1146,7 +1146,11 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "Family support"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -1257,7 +1261,11 @@
       "name": "Campaigning for change"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "Project(s)"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
