@@ -1266,7 +1266,8 @@
       "outputs": [
         {
           "number": 1.0,
-          "name": "Project(s)"
+          "name": "Project(s)",
+          "description": "Project "
         }
       ],
       "data-src": [
