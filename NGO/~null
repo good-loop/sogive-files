@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "Instit",
+  "name": "Institute of Cancer Research London (ICR)",
   "id": "icr",
   "suggest": [
-    "Instit"
+    "Institute of Cancer Research London (ICR)"
   ],
   "status": "DRAFT"
 }
