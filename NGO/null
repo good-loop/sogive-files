@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Pro Natura",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_1-13306800708239066986.svg#ccrop:90",
-  "id": "pro-natura",
+  "displayName": "Oikos",
+  "logo": "https://media.good-loop.com/uploads/standard/Oikos__International-14036925275365003758.jpg#ccrop:90",
+  "id": "oikos",
   "suggest": [
-    "Pro Natura"
+    "Oikos"
   ],
-  "url": "https://www.pronatura.ch/en",
+  "url": "https://oikos-international.org/",
   "status": "DRAFT"
 }
