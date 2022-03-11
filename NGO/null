@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Oikos",
-  "logo": "https://media.good-loop.com/uploads/standard/Oikos__International-14036925275365003758.jpg#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/Oikos__International-14036925275365003758.jpg#ccrop:90_noscale",
   "id": "oikos",
   "suggest": [
     "Oikos"
   ],
   "url": "https://oikos-international.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
