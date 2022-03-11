@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "ICR London",
   "name": "Institute of Cancer Research London (ICR)",
   "id": "icr",
   "suggest": [
-    "Institute of Cancer Research London (ICR)"
+    "Institute of Cancer Research London (ICR)",
+    "ICR London"
   ],
   "status": "DRAFT"
 }
