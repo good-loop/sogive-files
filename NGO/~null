@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Room To Read",
-  "name": "Room To Read",
-  "logo": "https://media.good-loop.com/uploads/standard/download-13585767307599685353.jpg",
-  "id": "roomtoread",
-  "suggest": [
-    "Room To Read",
-    "Room To Read"
-  ],
-  "url": "https://www.roomtoread.org/",
-  "status": "DRAFT"
+  "id": "icr",
+  "suggest": []
 }
