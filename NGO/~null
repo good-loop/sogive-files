@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Oikos",
   "id": "oikos",
-  "suggest": []
+  "suggest": [
+    "Oikos"
+  ],
+  "status": "DRAFT"
 }
