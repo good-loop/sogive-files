@@ -381,7 +381,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "raw": "929460",
+          "currency": "GBP",
+          "value100p": 9.2946E9,
+          "value": 929460.0
         },
         {
           "@type": "Money",
@@ -396,10 +399,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "929,460",
-          "currency": "GBP",
-          "value100p": 9.2946E9,
-          "value": 929460.0
+          "currency": "GBP"
         }
       ],
       "name": "Youth Engagement"
