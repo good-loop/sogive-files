@@ -371,7 +371,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "1144605",
+          "currency": "GBP",
+          "value100p": 1.144605E10,
+          "value": 1144605.0
         }
       ],
       "name": "Training and Consultancy"
