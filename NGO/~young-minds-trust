@@ -282,12 +282,75 @@
     },
     {
       "outputs": [],
-      "data-src": [
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
         {
-          "@type": "Citation",
-          "url": "https://www.youngminds.org.uk/media/jiuerugu/annual-impact-reports-accounts-2020-21.pdf"
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
         }
       ],
+      "name": "Information, Advice and Campaigns"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Parents\u0027 Services"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Training and Consultancy"
+    },
+    {
+      "outputs": [],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -309,10 +372,13 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "929,460",
+          "currency": "GBP",
+          "value100p": 9.2946E9,
+          "value": 929460.0
         }
       ],
-      "name": "Parents Helpline"
+      "name": "Youth Engagement"
     }
   ],
   "@type": "NGO",
