@@ -290,14 +290,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "raw": "1,246,643",
-          "currency": "GBP",
-          "value100p": 1.246643E10,
-          "value": 1246643.0
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "currency": "GBP"
         },
@@ -313,6 +305,11 @@
           "currency": "GBP",
           "value100p": 1.246643E10,
           "value": 1246643.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
         }
       ],
       "name": "Information, Advice and Campaigns"
