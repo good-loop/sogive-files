@@ -322,6 +322,11 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
       "name": "Parents\u0027 Services"
@@ -345,6 +350,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,144,605",
+          "currency": "GBP",
+          "value100p": 1.144605E10,
+          "value": 1144605.0
         }
       ],
       "name": "Training and Consultancy"
