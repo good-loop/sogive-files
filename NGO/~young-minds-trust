@@ -266,7 +266,10 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "42",
+          "currency": "GBP",
+          "value100p": 420000.0,
+          "value": 42.0
         },
         {
           "@type": "Money",
@@ -298,6 +301,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
