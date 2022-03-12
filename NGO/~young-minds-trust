@@ -352,14 +352,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "raw": "1144605",
-          "currency": "GBP",
-          "value100p": 1.144605E10,
-          "value": 1144605.0
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "currency": "GBP"
         },
@@ -375,6 +367,11 @@
           "currency": "GBP",
           "value100p": 1.144605E10,
           "value": 1144605.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
         }
       ],
       "name": "Training and Consultancy"
