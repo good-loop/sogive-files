@@ -311,7 +311,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "raw": "749,834",
+          "currency": "GBP",
+          "value100p": 7.49834E9,
+          "value": 749834.0
         },
         {
           "@type": "Money",
@@ -326,10 +329,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "749,834",
-          "currency": "GBP",
-          "value100p": 7.49834E9,
-          "value": 749834.0
+          "currency": "GBP"
         }
       ],
       "name": "Parents\u0027 Services"
