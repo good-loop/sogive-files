@@ -191,7 +191,12 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 36.23441,
+          "name": "malaria nets (singular: net)"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -247,13 +252,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "against-malaria-foundation",
-      "name": "malaria net(s)",
+      "name": "malaria nets (singular: net)",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 41100,
-        "value": "4.11"
+        "currency": "USD",
+        "value100p": 17749644329,
+        "value": "1774964.4329795904775095"
       },
       "n": 1.0
     }
@@ -264,7 +269,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "malaria nets (singular: net)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "USD",
+      "value100p": 17749644329,
+      "value": "1774964.4329795904775095"
+    }
   },
   "meta": {
     "noPublicDonations": {
