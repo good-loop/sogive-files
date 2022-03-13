@@ -214,7 +214,8 @@
           "value": 6.4314789E7
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -263,14 +264,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "malaria net(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 41100,
-      "value": "4.11"
-    }
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "noPublicDonations": {
