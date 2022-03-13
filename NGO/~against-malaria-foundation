@@ -194,6 +194,11 @@
       "outputs": [
         {
           "number": 3.623441E7,
+          "meta": {
+            "all": {
+              "notes": "The cost per LLIN number is taken from GiveWell "
+            }
+          },
           "name": "malaria nets (singular: net)",
           "description": "This number refers to the amount of LLINs purchased by AMF. ",
           "costPerBeneficiary": {
