@@ -208,7 +208,7 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "currency": "USD"
         }
       ],
       "name": "overall"
