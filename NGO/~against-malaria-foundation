@@ -197,7 +197,10 @@
           "name": "malaria nets (singular: net)",
           "costPerBeneficiary": {
             "@type": "Money",
-            "currency": "USD"
+            "raw": "5.02",
+            "currency": "USD",
+            "value100p": 50200.0,
+            "value": 5.02
           }
         }
       ],
@@ -261,8 +264,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "USD",
-        "value100p": 0,
-        "value": "0"
+        "value100p": 50200,
+        "value": "5.02"
       },
       "n": 1.0
     }
@@ -278,8 +281,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "USD",
-      "value100p": 0,
-      "value": "0"
+      "value100p": 50200,
+      "value": "5.02"
     }
   },
   "meta": {
