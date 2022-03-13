@@ -194,7 +194,11 @@
       "outputs": [
         {
           "number": 3.623441E7,
-          "name": "malaria nets (singular: net)"
+          "name": "malaria nets (singular: net)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "currency": "USD"
+          }
         }
       ],
       "year": 2020.0,
@@ -257,8 +261,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "USD",
-        "value100p": 17749,
-        "value": "1.774964432979590284565133"
+        "value100p": 0,
+        "value": "0"
       },
       "n": 1.0
     }
@@ -274,8 +278,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "USD",
-      "value100p": 17749,
-      "value": "1.774964432979590284565133"
+      "value100p": 0,
+      "value": "0"
     }
   },
   "meta": {
