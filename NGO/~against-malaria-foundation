@@ -208,7 +208,7 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "$64,314,789",
+          "raw": "64314789",
           "currency": "USD",
           "value100p": 6.4314789E11,
           "value": 6.4314789E7
