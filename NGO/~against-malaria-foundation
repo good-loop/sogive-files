@@ -214,7 +214,7 @@
           "number": 7900000.0,
           "meta": {
             "all": {
-              "notes": ""
+              "notes": "Cost per person number is taken from GiveWell, who estimate that "
             }
           },
           "confidence": "high",
