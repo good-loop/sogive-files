@@ -212,6 +212,11 @@
         },
         {
           "number": 7900000.0,
+          "meta": {
+            "all": {
+              "notes": ""
+            }
+          },
           "confidence": "high",
           "name": "people (singular: person) protected from malaria",
           "costPerBeneficiary": {
