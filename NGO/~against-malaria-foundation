@@ -195,6 +195,7 @@
         {
           "number": 3.623441E7,
           "name": "malaria nets (singular: net)",
+          "description": "This num",
           "costPerBeneficiary": {
             "@type": "Money",
             "raw": "5.02",
