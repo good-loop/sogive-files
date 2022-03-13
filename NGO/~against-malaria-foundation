@@ -213,7 +213,14 @@
         {
           "number": 7900000.0,
           "confidence": "high",
-          "name": "people (singular: person) protected from malaria"
+          "name": "people (singular: person) protected from malaria",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "2.79",
+            "currency": "USD",
+            "value100p": 27900.0,
+            "value": 2.79
+          }
         }
       ],
       "data-src": [
