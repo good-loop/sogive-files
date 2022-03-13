@@ -209,6 +209,10 @@
             "value100p": 50200.0,
             "value": 5.02
           }
+        },
+        {
+          "number": 7900000.0,
+          "name": "people (singular: person) protected from malaria"
         }
       ],
       "data-src": [
