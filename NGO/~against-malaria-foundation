@@ -199,6 +199,7 @@
               "notes": "The cost per LLIN number is taken from GiveWell and includes costs incurred by partner organizations. "
             }
           },
+          "confidence": "high",
           "name": "malaria nets (singular: net)",
           "description": "This number refers to the amount of LLINs purchased by AMF. ",
           "costPerBeneficiary": {
