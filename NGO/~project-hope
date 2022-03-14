@@ -14,17 +14,17 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "currency": "GBP"
         },
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
           "currency": "GBP"
         }
       ],
