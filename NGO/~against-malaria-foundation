@@ -226,6 +226,13 @@
             "value100p": 27900.0,
             "value": 2.79
           }
+        },
+        {
+          "name": "lives (singular: life) saved",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "currency": "USD"
+          }
         }
       ],
       "data-src": [
