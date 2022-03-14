@@ -221,10 +221,10 @@
           "name": "people (singular: person) protected from malaria",
           "costPerBeneficiary": {
             "@type": "Money",
-            "raw": "2.79",
+            "raw": "2.14",
             "currency": "USD",
-            "value100p": 27900.0,
-            "value": 2.79
+            "value100p": 21400.0,
+            "value": 2.14
           }
         },
         {
