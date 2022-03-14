@@ -229,7 +229,7 @@
         },
         {
           "name": "lives (singular: life) saved",
-          "description": "Didn\u0027t provide an amount of lives saved because GiveWell only ",
+          "description": "Didn\u0027t provide an amount of lives saved because GiveWell only provide",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
