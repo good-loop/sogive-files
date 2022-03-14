@@ -222,7 +222,7 @@
           "costPerBeneficiary": {
             "@type": "Money",
             "raw": "2.14",
-            "currency": "USD",
+            "currency": "GBP",
             "value100p": 21400.0,
             "value": 2.14
           }
