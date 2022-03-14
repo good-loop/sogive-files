@@ -231,7 +231,7 @@
           "number": 20412.0,
           "meta": {
             "all": {
-              "notes": "GiveWell only provides a number for the cost per life saved, so I just calculated the amount of lives saved by dividing total cost by this number"
+              "notes": "GiveWell only provides a number for the cost per life saved, so I just calculated the amount of lives saved by dividing the total cost by this number"
             }
           },
           "name": "lives (singular: life) saved",
