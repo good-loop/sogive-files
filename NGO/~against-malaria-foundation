@@ -228,7 +228,7 @@
           }
         },
         {
-          "number": 20412.0,
+          "number": 20412.3,
           "meta": {
             "all": {
               "notes": "GiveWell only provides a number for the cost per life saved, so I just calculated the amount of lives saved by dividing the total costs by this number. "
