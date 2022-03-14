@@ -233,7 +233,7 @@
             "@type": "Money",
             "name": "",
             "raw": "4106",
-            "currency": "",
+            "currency": "USD",
             "value100p": 4.106E7,
             "value": 4106.0
           }
