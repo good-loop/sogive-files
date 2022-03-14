@@ -5,5 +5,9 @@
   "suggest": [
     "Project Hope",
     "project-hope"
-  ]
+  ],
+  "id": "project-hope",
+  "url": "https://www.projecthope.org/",
+  "status": "PUBLISHED",
+  "usCharityRegNum": "53-0242962"
 }
