@@ -229,11 +229,12 @@
         },
         {
           "name": "lives (singular: life) saved",
+          "description": "Didn\u0027t ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
             "raw": "3148",
-            "currency": "USD",
+            "currency": "GBP",
             "value100p": 3.148E7,
             "value": 3148.0
           }
