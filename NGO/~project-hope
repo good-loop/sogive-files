@@ -115,8 +115,9 @@
     {
       "outputs": [
         {
-          "name": "250,000",
-          "description": "women, newborns, and\nchildren under 5 reached"
+          "number": 250000.0,
+          "name": "women, newborns, and children under 5 reached",
+          "description": ""
         }
       ],
       "year": 2020.0,
