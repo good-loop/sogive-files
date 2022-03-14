@@ -2,7 +2,12 @@
   "images": "https://media.good-loop.com/uploads/raw/2020-AR-hero2-3548872572428173292.jpg",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1400000.0,
+          "name": "People reached by Project Hope"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -184,13 +189,35 @@
     "Project Hope",
     "project-hope"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "project-hope",
+      "name": "People reached by Project Hope",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 871457,
+        "value": "87.1457142857142874572000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.projecthope.org/",
   "whyTags": "Disaster relief, First Aid, Health, HIV, International aid, Saving Lives, Sexual health",
   "howTags": "Direct Work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "People reached by Project Hope",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 871457,
+      "value": "87.1457142857142874572000"
+    }
   },
   "name": "Project Hope",
   "logo": "https://media.good-loop.com/uploads/raw/Project_Hope_Logo-17345844429552957617.jpg",
