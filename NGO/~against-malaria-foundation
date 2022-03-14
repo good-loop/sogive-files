@@ -229,7 +229,7 @@
         },
         {
           "name": "lives (singular: life) saved",
-          "description": "Didn\u0027t ",
+          "description": "Didn\u0027t provide an",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
