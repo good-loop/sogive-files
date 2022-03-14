@@ -214,7 +214,7 @@
           "number": 7900000.0,
           "meta": {
             "all": {
-              "notes": "Cost per person number is taken from GiveWell, who estimate that one bednet covers 1.8 people on average. "
+              "notes": "The cost per person number is taken from GiveWell, who estimate that one bednet covers 1.8 people on average. "
             }
           },
           "confidence": "high",
