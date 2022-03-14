@@ -1,17 +1,18 @@
 {
   "@type": "NGO",
-  "name": "Project Hope",
-  "@id": "project-hope",
   "suggest": [
     "Project Hope",
     "project-hope"
   ],
+  "url": "https://www.projecthope.org/",
+  "whyTags": "Disaster relief, First Aid, Health, HIV, International aid, Saving Lives, Sexual health",
+  "howTags": "Direct Work",
+  "name": "Project Hope",
+  "logo": "https://media.good-loop.com/uploads/raw/Project_Hope_Logo-17345844429552957617.jpg",
+  "@id": "project-hope",
   "id": "project-hope",
   "summaryDescription": "Project Hope is a global health and humanitarian relief organization, committed to transforming lives and uplifting communities by empowering healthcare workers to expertly implement and teach innovative lifesaving solutions",
-  "url": "https://www.projecthope.org/",
   "whereTags": "developing world",
   "status": "DRAFT",
-  "usCharityRegNum": "53-0242962",
-  "whyTags": "Disaster relief, First Aid, Health, HIV, International aid, Saving Lives, Sexual health",
-  "howTags": "Direct Work"
+  "usCharityRegNum": "53-0242962"
 }
