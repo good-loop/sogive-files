@@ -1,5 +1,36 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/2020-AR-hero2-3548872572428173292.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.projecthope.org/wp-content/uploads/2021/08/Project_HOPE_2020_Audited_Financials-12-31-20-Final.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "suggest": [
     "Project Hope",
@@ -8,6 +39,11 @@
   "url": "https://www.projecthope.org/",
   "whyTags": "Disaster relief, First Aid, Health, HIV, International aid, Saving Lives, Sexual health",
   "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
   "name": "Project Hope",
   "logo": "https://media.good-loop.com/uploads/raw/Project_Hope_Logo-17345844429552957617.jpg",
   "@id": "project-hope",
