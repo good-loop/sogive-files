@@ -231,7 +231,7 @@
           "number": 20412.0,
           "meta": {
             "all": {
-              "notes": "Didn\u0027t provide an amount of lives saved because GiveWell only provides a number for the cost per life saved. I could divide the total costs by this number, but it wouldn\u0027t make sense given that not every net that was purchased with these funds was distributed in 2020. "
+              "notes": "GiveWell only provides a number for the cost per life saved, so I have "
             }
           },
           "name": "lives (singular: life) saved",
