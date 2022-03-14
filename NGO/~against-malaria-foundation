@@ -231,7 +231,11 @@
           "name": "lives (singular: life) saved",
           "costPerBeneficiary": {
             "@type": "Money",
-            "currency": "USD"
+            "name": "",
+            "raw": "4106",
+            "currency": "",
+            "value100p": 4.106E7,
+            "value": 4106.0
           }
         }
       ],
