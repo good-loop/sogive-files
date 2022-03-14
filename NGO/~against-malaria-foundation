@@ -204,10 +204,10 @@
           "description": "This number refers to the amount of LLINs purchased by AMF. ",
           "costPerBeneficiary": {
             "@type": "Money",
-            "raw": "5.02",
-            "currency": "USD",
-            "value100p": 50200.0,
-            "value": 5.02
+            "raw": "3.85",
+            "currency": "GBP",
+            "value100p": 38500.0,
+            "value": 3.85
           }
         },
         {
@@ -312,9 +312,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "USD",
-        "value100p": 50200,
-        "value": "5.02"
+        "currency": "GBP",
+        "value100p": 38500,
+        "value": "3.85"
       },
       "n": 1.0
     }
@@ -329,9 +329,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "USD",
-      "value100p": 50200,
-      "value": "5.02"
+      "currency": "GBP",
+      "value100p": 38500,
+      "value": "3.85"
     }
   },
   "meta": {
