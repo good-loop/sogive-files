@@ -38,6 +38,10 @@
         {
           "number": 662000.0,
           "name": "people supported by humanitarian assistance"
+        },
+        {
+          "number": 160000.0,
+          "name": "people received direct medical services"
         }
       ],
       "year": 2020.0,
@@ -84,6 +88,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
