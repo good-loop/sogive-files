@@ -34,7 +34,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 662000.0,
+          "name": "people supported by humanitarian assistance"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
