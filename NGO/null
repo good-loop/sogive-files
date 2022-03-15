@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Nuestra Tierra Conservation Project",
-  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-13622373179162389526.png",
-  "id": "nuestra-tierra-conservation-project",
+  "displayName": "American Forests",
+  "logo": "https://media.good-loop.com/uploads/standard/AF__Full-Color-Logo-1536x448-13244105527772692354.png#ccrop:90_noscale",
+  "id": "american-forests",
   "suggest": [
-    "Nuestra Tierra Conservation Project"
+    "American Forests"
   ],
-  "url": "https://www.nuestra-tierra.org/",
-  "status": "DRAFT"
+  "url": "https://www.americanforests.org/",
+  "status": "PUBLISHED"
 }
