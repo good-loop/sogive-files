@@ -36,14 +36,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "raw": "£2,496,000",
-          "currency": "GBP",
-          "value100p": 2.496E10,
-          "value": 2496000.0
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "currency": "GBP"
         },
@@ -55,6 +47,14 @@
         {
           "@type": "Money",
           "name": "projectCosts",
+          "raw": "2496000",
+          "currency": "GBP",
+          "value100p": 2.496E10,
+          "value": 2496000.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
           "currency": "GBP"
         }
       ],
