@@ -1,0 +1,21 @@
+{
+  "scotlandCharityRegNum": "SC041981",
+  "circleCrop": 95.0,
+  "@type": "NGO",
+  "displayName": "Movember Foundation",
+  "suggest": [
+    "Movember Europe",
+    "Movember Foundation",
+    "movember-europe"
+  ],
+  "url": "https://uk.movember.com/?home",
+  "name": "Movember Europe",
+  "logo": "https://as.good-loop.com/vert/movember_logo.png",
+  "@id": "movember-europe",
+  "logo_white": "https://as.good-loop.com/vert/movember_logo_white.png",
+  "summaryDescription": "Movember are the leading charity changing the face of men’s health.\n\nMental health and suicide prevention, prostate cancer and testicular cancer - Movember are taking them all on.",
+  "englandWalesCharityRegNum": "1137948",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
