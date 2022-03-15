@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC042089",
+  "parentCharityName": "The Guide Dogs for the Blind Assocation",
+  "@type": "NGO",
+  "parentCharity": "SC038979",
+  "name": "Blind Children UK",
+  "@id": "blind-children-uk",
+  "suggest": [
+    "Blind Children UK",
+    "blind-children-uk"
+  ],
+  "url": "https://www.blindchildrenuk.org",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
