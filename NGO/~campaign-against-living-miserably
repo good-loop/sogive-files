@@ -28,6 +28,37 @@
         }
       ],
       "name": "overall"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "£2,496,000",
+          "currency": "GBP",
+          "value100p": 2.496E10,
+          "value": 2496000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Helpline/Webchat Service Provision"
     }
   ],
   "@type": "NGO",
