@@ -1,0 +1,748 @@
+{
+  "images": "https://app.sogive.org/uploads/4345768482160962facebook/Muslim_photo-14721957127471440588.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 48424.0,
+          "meta": {
+            "all": {
+              "notes": "It is unclear how much support each \"beneficiary\" actually receives, and whether partner organisations are also involved. "
+            }
+          },
+          "confidence": "low",
+          "name": "student(s) receiving education",
+          "description": "This refers to students receiving education and job skills training in schools built and run by Muslim Hands. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3090242",
+          "currency": "GBP",
+          "value100p": 3.090242E10,
+          "value": 3090242.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Education",
+      "description": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "21570010",
+          "currency": "GBP",
+          "value100p": 2.157001E11,
+          "value": 2.157001E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.35 annual report"
+        },
+        "reserves": {
+          "notes": "p.36 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4120334",
+        "currency": "GBP",
+        "value100p": 4.120334E10,
+        "value": 4120334.0
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 986594.0,
+          "meta": {
+            "all": {
+              "notes": "It is unclear how much support each \"beneficiary\" actually receives, and whether partner organisations are also involved. "
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) supported in emergencies",
+          "description": "This refers to emergency medical care, food aid and shelter.  "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3266702",
+          "currency": "GBP",
+          "value100p": 3.266702E10,
+          "value": 3266702.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report "
+        }
+      },
+      "name": "Emergency",
+      "description": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 743964.0,
+          "meta": {
+            "all": {
+              "notes": "It is unclear how much support each \"beneficiary\" actually receives, and whether partner organisations are also involved. "
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) supported with food aid",
+          "description": "This refers to food aid in the UK and worldwide. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2439247",
+          "currency": "GBP",
+          "value100p": 2.439247E10,
+          "value": 2439247.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Food"
+    },
+    {
+      "outputs": [
+        {
+          "number": 282363.0,
+          "meta": {
+            "all": {
+              "notes": "It is unclear how much support each \"beneficiary\" actually receives, and whether partner organisations are also involved. "
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) supported by health services",
+          "description": "This refers to basic health units, maternal health clinics, and eye camps. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "854789",
+          "currency": "GBP",
+          "value100p": 8.54789E9,
+          "value": 854789.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Health"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1519707.0,
+          "meta": {
+            "all": {
+              "notes": "It is unclear how much support each \"beneficiary\" actually receives, and whether partner organisations are also involved. "
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) supported with access to clean water",
+          "description": "This refers to wells built by Muslim Hands to provide access to clean water. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2217370",
+          "currency": "GBP",
+          "value100p": 2.21737E10,
+          "value": 2217370.0
+        }
+      ],
+      "name": "Safe Water (WASH)"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "906564",
+          "currency": "GBP",
+          "value100p": 9.06564E9,
+          "value": 906564.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "General"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "72263",
+          "currency": "GBP",
+          "value100p": 7.2263E8,
+          "value": 72263.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Children"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20163",
+          "currency": "GBP",
+          "value100p": 2.0163E8,
+          "value": 20163.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Elderly"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "65050",
+          "currency": "GBP",
+          "value100p": 6.505E8,
+          "value": 65050.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Environment"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "123077",
+          "currency": "GBP",
+          "value100p": 1.23077E9,
+          "value": 123077.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Livelihoods"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1548184",
+          "currency": "GBP",
+          "value100p": 1.548184E10,
+          "value": 1548184.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Masjid"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1423440",
+          "currency": "GBP",
+          "value100p": 1.42344E10,
+          "value": 1423440.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Orphans "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001105056_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10451172\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1105056%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4009565"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "197559",
+          "currency": "GBP",
+          "value100p": 1.97559E9,
+          "value": 197559.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.41 annual report"
+        }
+      },
+      "name": "Shelter"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Muslim Hands",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "description": "[Muslim Hands](https://muslimhands.org.uk/) provides many services including education, shelter, food aid, medical care, and well building for clean water. Muslim Hands also preserves history by renovating masjids. ",
+  "suggest": [
+    "Muslim Hands",
+    "Muslim Hands",
+    "muslim-hands"
+  ],
+  "url": "https://muslimhands.org.uk/",
+  "whyTags": "Education, health, international aid, water, hunger, muslim",
+  "howTags": "Direct work, makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "Muslim Hands",
+  "logo": "https://app.sogive.org/uploads/4345768482160962facebook/Muslim_logo-6716825119999725722.png",
+  "@id": "muslim-hands",
+  "lastModified": "2020-11-04T11:07:48Z",
+  "wikipedia": "https://en.wikipedia.org/wiki/Muslim_Hands",
+  "englandWalesCharityRegNum": "1105056",
+  "summaryDescription": "[Muslim Hands](https://muslimhands.org.uk/) supports people in nations afflicted with poverty, natural disasters, and conflict. ",
+  "uptodatedraft": "probably",
+  "whereTags": "Developing world, United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
