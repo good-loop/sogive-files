@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "",
+  "displayName": "Amigos De La Tierra",
   "logo": "https://media.good-loop.com/uploads/standard/Image_19-3520896266130948115.png",
   "id": "amigos-de-la-tierra",
   "suggest": [
-    ""
+    "Amigos De La Tierra"
   ],
   "status": "DRAFT"
 }
