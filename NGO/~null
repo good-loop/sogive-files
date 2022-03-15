@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "American Forests",
-  "logo": "https://media.good-loop.com/uploads/standard/AF__Full-Color-Logo-1536x448-13244105527772692354.png#ccrop:90",
-  "id": "american-forests",
-  "suggest": [
-    "American Forests"
-  ],
-  "url": "https://www.americanforests.org/",
-  "status": "DRAFT"
+  "id": "nuestra-tierra-conservation-project",
+  "suggest": []
 }
