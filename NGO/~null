@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Nuestra Tierra Conservation Project",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-13622373179162389526.png",
   "id": "nuestra-tierra-conservation-project",
   "suggest": [
     "Nuestra Tierra Conservation Project"
   ],
+  "url": "https://www.nuestra-tierra.org/",
   "status": "DRAFT"
 }
