@@ -1,0 +1,15 @@
+{
+  "@type": "NGO",
+  "displayName": "Techfugees",
+  "name": "",
+  "modified": false,
+  "@id": "techfugees",
+  "suggest": [
+    "",
+    "Techfugees",
+    "techfugees"
+  ],
+  "uptodatedraft": "probably",
+  "url": "https://techfugees.com/",
+  "status": "PUBLISHED"
+}
