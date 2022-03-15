@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Amigos De La Tierra",
-  "logo": "https://media.good-loop.com/uploads/standard/Image_19-3520896266130948115.png",
-  "id": "amigos-de-la-tierra",
+  "displayName": "Secours Populaire Français",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-5300309500814829561.png#ccrop:85",
+  "id": "secours-populaire-francais",
   "suggest": [
-    "Amigos De La Tierra"
+    "Secours Populaire Français"
   ],
-  "url": "https://www.tierra.org/",
+  "url": "https://www.secourspopulaire.fr/",
   "status": "DRAFT"
 }
