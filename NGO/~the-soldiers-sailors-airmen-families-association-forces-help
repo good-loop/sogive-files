@@ -1,0 +1,395 @@
+{
+  "scotlandCharityRegNum": "SC038056",
+  "ukCompanyRegNum": "C000571",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/2renjpde/ssafa-group-consolidated-accounts-02-10-2020.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "44931000",
+          "currency": "GBP",
+          "value100p": 4.4931E11,
+          "value": 4.4931E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "119000",
+          "currency": "GBP",
+          "value100p": 1.19E9,
+          "value": 119000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 13-14, trading managed through subsidiary company, involving christmas card and merchandising"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "46845000",
+        "currency": "GBP",
+        "value100p": 4.6845E11,
+        "value": 4.6845E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 55.0,
+          "meta": {
+            "all": {
+              "notes": "accounts p.8: This is likely an overestimate. 12 children were adopted and 43 families received post-adoption services. There may be overlap between the two numbers, and some of the 12 children might end up in the same family."
+            }
+          },
+          "confidence": "low",
+          "name": "families (singular: family) helped",
+          "description": "This refers to families with new children adopted and families receiving post-adoption services.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "14128.05",
+            "currency": "GBP",
+            "value100p": 1.412805E8,
+            "value": 14128.05
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/2renjpde/ssafa-group-consolidated-accounts-02-10-2020.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "721000",
+          "currency": "GBP",
+          "value100p": 7.21E9,
+          "value": 721000.0
+        }
+      ],
+      "name": "Adoption"
+    },
+    {
+      "outputs": [
+        {
+          "number": 40000.0,
+          "meta": {
+            "all": {
+              "notes": "accounts p. 7"
+            }
+          },
+          "name": "families (singular: family) of armed service personnel supported",
+          "description": "This refers to health care and social service provided for armed service personnel and their family members for up to a year.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "361.77",
+            "currency": "GBP",
+            "value100p": 3617700.0,
+            "value": 361.77
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/2renjpde/ssafa-group-consolidated-accounts-02-10-2020.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "13427000",
+          "currency": "GBP",
+          "value100p": 1.3427E11,
+          "value": 1.3427E7
+        }
+      ],
+      "name": "Health \u0026 social care contracts",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 2080.0,
+          "meta": {
+            "all": {
+              "notes": "p. 8 of financials account"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) helped",
+          "description": "This refers to accommodations provided to families of Armed Forces personnel, most of whom receive treatments at nearby hospitals. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "1181.88",
+            "currency": "GBP",
+            "value100p": 1.18188E7,
+            "value": 1181.88
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/2renjpde/ssafa-group-consolidated-accounts-02-10-2020.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2281000",
+          "currency": "GBP",
+          "value100p": 2.281E10,
+          "value": 2281000.0
+        }
+      ],
+      "name": "Housing",
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "23757000",
+          "currency": "GBP",
+          "value100p": 2.3757E11,
+          "value": 2.3757E7
+        }
+      ],
+      "name": "SSAFA grants to clients in need"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1394000",
+          "currency": "GBP",
+          "value100p": 1.394E10,
+          "value": 1394000.0
+        }
+      ],
+      "name": "Welfare \u0026 specialist services"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "SSAFA - ssafa the armed forces charity",
+  "description": "SSAFA offers a helpline service and a mentoring service to facilitate soldiers\u0027 transition to civilian life. Hoping to benefit soldiers, veterans, and their families, the charity also provides adoption services, housing aid, domestic violence shelters, short break holidays, help with personal trauma, funding for military wives choirs, care for veterans with disabilities, support for families of veterans in prison, and healthcare for soldiers. In providing health services to enlisted British personnel, the charity works in 12 countries, and SSAFA also helps Gurkha soldiers obtain translation support, English lessons, and social recognition.",
+  "recommendation": "*SSAFA achieves a Do Not Donate rating under the SoGive rating methodology.**\n\n[SSAFA](https://www.ssafa.org.uk/media/sd5lb0op/ssafa-impact-report-2019-web.pdf) works to relieve the need and distress of the UK\u0027s Armed Forces members, veterans, and their families in order to support their independence and dignity. The charity offers health services to enlisted British personnel and their families in 12 countries, and SSAFA also helps Gurkha soldiers obtain translation support, English lessons, and social recognition. Through its helpline and mentoring services, SSAFA facilitates soldiers\u0027 transition to civilian life. The charity also helps with adoption, housing, domestic violence, holiday respites, personal trauma, military wives choirs, and disability care. Furthermore, SSAFA provides support for families of veterans in prison. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money\n\n**More about what SSAFA does**\n\nThe charity spent roughly 32% of its charitable expenditures on health and social care for Armed Forces personnel and their families. In 2019, the charity spent an average of about £360 on each family. We do not know the average number of family members involved. The charity also did not provide any information on what a typical beneficiary would receive in terms of health and social care.\n\nThe charity directed a bit more than 5% of its charitable funds towards housing. On average, it cost about £1,200 to give an Armed Forces member, a veteran, or a family member somewhere to live for up to a year. Most of these residents already have their own places of residence, but they need to live close to hospitals offering treatments for Armed Forces personnel.\n\nThe charity spent around 1% of its charitable funds on adoption services, which included pairing 12 children with adoptive parents and offering post-adoption services to 43 families. Ofsted rates the charity\u0027s adoption programmes as Outstanding. Providing adoption services for one family cost around £14,000. We do not know the number of children each family has adopted. It is also worth noting that this project accounts for a very small percentage of the charity\u0027s work and may not be representative of the charity\u0027s cost-effectiveness. \n\nIn addition, the charity spent respectively 57% and 3% of its funds on SSAFA grants to clients in need and welfare \u0026 specialist services. The charity did not make clear the number of people helped in these projects, nor do we know about what each of these projects entails. One should note, however, that in this portion of the charity\u0027s work, the charity\u0027s volunteers collaborated with other organizations like Age UK. This means that the total spending on these services may be higher than what appears on the charity\u0027s accounts. Also, some of this work, like an awareness-raising campaign for Gurkha soldiers in the UK, is directed towards the public rather than the soldiers. The charity did not provide any information on how or whether public opinion changed as a result of the charity\u0027s efforts.\n\nFinally, it is important to note that the charity has £46,845,000 of undesignated reserves at the end of 2019, more than what the charity spent during the year--£46,845,000.\n\n**Benchmarking**\nAfter a review of the work of SSAFA under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated and also provide robust evidence on the effectiveness of their work. For example, one of the SoGive Gold benchmarks is saving a life for £3,000.\n\nJust looking at the charity\u0027s expenditures, we could not gather enough information from the annual report to perform a detailed analysis or form opinions about the entirety of the charity\u0027s work under the SoGive methodology. This is because in three of the charity\u0027s projects--health and social care contracts, SSAFA grants to clients in need, and welfare \u0026 specialist services--the charity did not provide comprehensive data on the number of people helped and the extent to which a typical beneficiary is helped.  \n\nThe charity\u0027s smaller projects do allow us to perform a calculation of cost-effectiveness. If providing one resident with housing for up to a year cost £1,200, then £3,000 could pay for fewer than three years of housing. We believe that three years of housing is less positive of an impact than saving a life, especially considering that most of the residents already have housing and just had a need to live closer to hospitals.\n\nIf providing a family with adoption services cost £14,000, then the amount of money spent on one family could have achieved an outcome as good as saving 4 lives. If we assume generously that placing one child into adoption achieves an outcome as good as saving a life, then SSAFA\u0027s help for each family must achieve an outcome as good as adopting 4 children to achieve Gold standard. Adopting four children appears rather unlikely for a family. Also, most of the families helped in this project received only post-adoption services. Thus, while the adoption project is such a small portion of the charity\u0027s work and does not represent the whole charity, it seems unlikely that this project meets SoGive\u0027s Gold standard.\n\nLooking at the charity\u0027s reserves provide us with further insight into the charity\u0027s cost-effectiveness. As SSAFA already has a large amount of money for which it’s annual report does not state it has plans, it suggests they would not be able to effectively use extra donations. Therefore the charity receives a Do Not Donate rating under the SoGive rating methodology.\n\n**Conclusion**\nSSAFA receives a Do Not Donate rating under the SoGive rating methodology due to their large reserves. If the charity did not have such a large reserve, it would receive a tentative bronze rating. This would mean that if we had more information about the work of SSAFA, the charity would probably achieve a Bronze assessment under the SoGive rating methodology. When we describe a charity as Bronze-rated, we mean that the charity\u0027s work likely has a positive impact, but underperforms compared to a Silver-rated charity. Helping Armed Forces personnel and their families might do a limited amount of good. However, we assume by default that a charity does not achieve a substantial positive impact in the absence of strong evidence to the contrary. We are basing this assumption on reasons set out [here](https://thinkingaboutcharity.blogspot.com/2019/08/should-you-be-charity-sceptic.html?view\u003dsidebar). Furthermore, we are relatively confident that one of SSAFA\u0027s projects--housing--possesses lower cost-effectiveness than our benchmark charities. Given SSAFA willingness to fund programs with such low cost-effectiveness, we believe that the charity other projects will probably have less impact per pound than our benchmark charities. For tentative ratings, our rating is more prone to change in light of new information.\n\nThings that could cause this rating to change would include \na) a reduction in the charity\u0027s reserves or a more detailed plan from the charity of what they plan to do with their large reserves.\nb) the number of people helped in the following three projects: health and social care contracts, SSAFA grants to clients in need, and welfare \u0026 specialist services\nc) the extent to which a typical beneficiary is helped in the abovementioned three projects.\n",
+  "UNSDG": "0",
+  "whyTags": "Military",
+  "ready": true,
+  "logo": "https://www.ssafa.org.uk/images/ssafa-logo.svg",
+  "@id": "the-soldiers-sailors-airmen-families-association-forces-help",
+  "wikipedia": "https://en.wikipedia.org/wiki/SSAFA",
+  "summaryDescription": "[SSAFA](https://www.ssafa.org.uk/media/2renjpde/ssafa-group-consolidated-accounts-02-10-2020.pdf) provides a variety of services for the Armed Forces Community, which includes currently serving personnel, veterans young and old, and their families.",
+  "uptodatedraft": "probably",
+  "images": "https://www.ssafa.org.uk/media/gpvdlhvs/donate_main_w704.jpg?anchor\u003dcenter\u0026mode\u003dcrop\u0026width\u003d450\u0026rnd\u003d132113783389030000",
+  "niCharityRegNum": "20202001",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "The Soldiers, Sailors, Airmen \u0026 Families Association - Forces Help",
+    "SSAFA - ssafa the armed forces charity",
+    "the-soldiers-sailors-airmen-families-association-forces-help"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-soldiers-sailors-airmen-families-association-forces-help",
+      "name": "families (singular: family) of armed service personnel supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3617700,
+        "value": "361.77"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.ssafa.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "families (singular: family) of armed service personnel supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3617700,
+      "value": "361.77"
+    }
+  },
+  "name": "The Soldiers, Sailors, Airmen \u0026 Families Association - Forces Help",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "210760",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Global",
+  "status": "DRAFT"
+}
