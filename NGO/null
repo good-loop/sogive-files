@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Oikos",
-  "logo": "https://media.good-loop.com/uploads/standard/Oikos__International-14036925275365003758.jpg#ccrop:90_noscale",
-  "id": "oikos",
+  "displayName": "American Forests",
+  "logo": "https://media.good-loop.com/uploads/standard/AF__Full-Color-Logo-1536x448-13244105527772692354.png#ccrop:90",
+  "id": "american-forests",
   "suggest": [
-    "Oikos"
+    "American Forests"
   ],
-  "url": "https://oikos-international.org/",
-  "status": "PUBLISHED"
+  "url": "https://www.americanforests.org/",
+  "status": "DRAFT"
 }
