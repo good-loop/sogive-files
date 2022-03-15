@@ -3,7 +3,7 @@
   "displayName": "Techfugees",
   "name": "",
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/li9ytzfzqscenzigkmcw-7036804609269069259.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/li9ytzfzqscenzigkmcw-7036804609269069259.jpg#ccrop:75",
   "@id": "techfugees",
   "suggest": [
     "",
@@ -12,5 +12,5 @@
   ],
   "uptodatedraft": "probably",
   "url": "https://techfugees.com/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
