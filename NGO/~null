@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Secours Populaire Français",
   "id": "secours-populaire-francais",
-  "suggest": [],
+  "suggest": [
+    "Secours Populaire Français"
+  ],
   "status": "DRAFT"
 }
