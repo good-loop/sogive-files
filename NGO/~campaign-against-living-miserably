@@ -2,6 +2,34 @@
   "scotlandCharityRegNum": "SC044347",
   "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/CALM-13859279846901904474.jpeg",
   "ukCompanyRegNum": "05378928",
+  "projects": [
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "4,820,000",
+          "currency": "GBP",
+          "value100p": 4.82E10,
+          "value": 4820000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "displayName": "CALM",
   "suggest": [
@@ -12,6 +40,11 @@
   "url": "https://www.thecalmzone.net/about-calm/what-is-calm/",
   "whyTags": "Mental Health, Saving Lives",
   "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2021.0]"
+  },
   "name": "Campaign Against Living Miserably",
   "logo": "https://media.good-loop.com/uploads/raw/calm-17736825809472718654.jpg#noscale_ccrop:75",
   "@id": "campaign-against-living-miserably",
