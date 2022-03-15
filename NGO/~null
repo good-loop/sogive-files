@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Nuestra Tierra C",
   "id": "nuestra-tierra-conservation-project",
-  "suggest": []
+  "suggest": [
+    "Nuestra Tierra C"
+  ],
+  "status": "DRAFT"
 }
