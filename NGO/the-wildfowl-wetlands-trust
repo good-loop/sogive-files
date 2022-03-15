@@ -1,0 +1,16 @@
+{
+  "scotlandCharityRegNum": "SC039410",
+  "@type": "NGO",
+  "displayName": "Wildfowl \u0026 Wetlands Trust",
+  "name": "The Wildfowl \u0026 Wetlands Trust",
+  "@id": "the-wildfowl-wetlands-trust",
+  "suggest": [
+    "The Wildfowl \u0026 Wetlands Trust",
+    "Wildfowl \u0026 Wetlands Trust",
+    "the-wildfowl-wetlands-trust"
+  ],
+  "englandWalesCharityRegNum": "1030884",
+  "url": "https://www.wwt.org.uk/",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
