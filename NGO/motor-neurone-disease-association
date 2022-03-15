@@ -264,7 +264,7 @@
         {
           "number": 4000.0,
           "confidence": "high",
-          "name": "people supported",
+          "name": "people (singular: person) supported",
           "description": ""
         }
       ],
@@ -386,7 +386,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "motor-neurone-disease-association",
-      "name": "people supported",
+      "name": "people (singular: person) supported",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -402,7 +402,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people supported",
+    "name": "people (singular: person) supported",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
@@ -425,5 +425,5 @@
   "englandWalesCharityRegNum": "294354",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
