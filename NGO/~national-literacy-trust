@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC042944",
+  "@type": "NGO",
+  "displayName": "National Literacy Trust",
+  "name": "",
+  "@id": "national-literacy-trust",
+  "suggest": [
+    "",
+    "National Literacy Trust",
+    "national-literacy-trust"
+  ],
+  "url": "www.literacytrust.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
