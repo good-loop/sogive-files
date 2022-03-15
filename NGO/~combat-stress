@@ -1,0 +1,371 @@
+{
+  "scotlandCharityRegNum": "SC038828",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends02/0000206002_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 3121.0,
+          "meta": {
+            "all": {
+              "notes": "Doesn\u0027t include campaigning output."
+            }
+          },
+          "confidence": "medium",
+          "name": "veteran(s) helped",
+          "description": "This refers to veterans receiving help in a variety of ways including psychiatric assessments, 1 on 1 meetings with nurses, and advice through the Combat Stress helpline."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "14864000",
+          "currency": "GBP",
+          "value100p": 1.4864E11,
+          "value": 1.4864E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "8598000",
+        "currency": "GBP",
+        "value100p": 8.598E10,
+        "value": 8598000.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8415000",
+          "currency": "GBP",
+          "value100p": 8.415E10,
+          "value": 8415000.0
+        }
+      ],
+      "name": "Clinical services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2698000",
+          "currency": "GBP",
+          "value100p": 2.698E10,
+          "value": 2698000.0
+        }
+      ],
+      "name": "Community services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "543000",
+          "currency": "GBP",
+          "value100p": 5.43E9,
+          "value": 543000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Largest increase among charitable activities from 2018 to 2019."
+        }
+      },
+      "name": "Helpline",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "453000",
+          "currency": "GBP",
+          "value100p": 4.53E9,
+          "value": 453000.0
+        }
+      ],
+      "name": "Raising awareness and improving access"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.combatstress.org.uk/sites/default/files/Files/Combat%20Stress%20Annual%20Report%20and%20Accounts%202019%20ncs%201.1.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "313000",
+          "currency": "GBP",
+          "value100p": 3.13E9,
+          "value": 313000.0
+        }
+      ],
+      "name": "Substance misuse case management service"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Combat Stress offers therapeutic and clinical, community and residential treatment to former members of the British Armed Forces who are suffering from a range of mental health conditions; including post-traumatic stress disorder (PTSD). Combat Stress makes available treatment for all Veterans who are suffering from mental illness free of charge.",
+  "recommendation": "c\n",
+  "whyTags": "Military, veterans, mental health",
+  "UNSDG": "3",
+  "imageCaption": "Rebecca’s doctor suggested that she get in touch with Combat Stress. Shortly after calling our Helpline, she was diagnosed with PTSD",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/combat_stress-8798703350094382006.png",
+  "smallPrint": "The treatment I\u0027ve had at Combat Stress has been amazing. It helped me come to terms with the things I\u0027ve seen; it completely changed my life.\"",
+  "@id": "combat-stress",
+  "wikipedia": "https://en.wikipedia.org/wiki/Combat_Stress_(charitable_organisation)",
+  "summaryDescription": "Combat Stress is a UK charity offering therapeutic and clinical treatment to UK veterans suffering from mental health issues.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/combat_stress_cover-488900149267950851.jpg",
+  "stories": "Rebecca started having one-to-one sessions with a member of the community mental health team before she completed the six-week PTSD Intensive Treatment Programme (ITP) at Hollybush House.\n\n\"I’m so glad I did the ITP because I’ve got a lot out of it. I learnt techniques to manage my mental health problems in the long-term and as a result I take better care of myself. I also think the ITP made me feel more comfortable in speaking about my experiences, and in turn I’ve been able to express myself better at my local Peer Support meetings.\n\n\"I was planning on going back to the Army, but after the ITP I realised I wanted to focus on just living my life without having too much on my plate. So I decided to leave.\"\n\nNow Rebecca says she feels stronger than ever and enjoys helping other veterans as a Peer Support volunteer, which she does alongside her job as a social sciences lecturer.",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Combat Stress",
+    "combat-stress"
+  ],
+  "url": "https://www.combatstress.org.uk/",
+  "howTags": "Direct work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[Helpline 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Combat Stress",
+  "lastModified": "2020-10-31T14:16:10Z",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "206002",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
