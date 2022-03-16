@@ -4,6 +4,7 @@
     {
       "outputs": [
         {
+          "number": 666.0,
           "name": "Babies lives saved per year"
         }
       ],
@@ -63,8 +64,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 10783000000,
-        "value": "1078300"
+        "value100p": 16190690,
+        "value": "1619.0690690690690674500"
       },
       "n": 1.0
     }
@@ -80,8 +81,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 10783000000,
-      "value": "1078300"
+      "value100p": 16190690,
+      "value": "1619.0690690690690674500"
     }
   },
   "name": "The Lullaby Trust",
