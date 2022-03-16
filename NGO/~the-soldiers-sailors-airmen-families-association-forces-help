@@ -375,7 +375,15 @@
           "notes": "Two independent auditors prepared their financial staements, for the sake of simplicity, I always refer to the numbers given by the first auditor. However, it\u0027s worth noting that there is almost 2 million pounds of differece in total expenditures according to the two auditors, this is rather alarming to me."
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "41,900,000",
+        "currency": "",
+        "value100p": 4.19E11,
+        "value": 4.19E7
+      }
     }
   ],
   "@type": "NGO",
