@@ -1100,7 +1100,12 @@
       "end_raw": "2019-03-31"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 6224.0,
+          "name": "family-centred support"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -1341,13 +1346,35 @@
     "Bliss",
     "bliss-the-national-charity-for-the-newborn"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "bliss-the-national-charity-for-the-newborn",
+      "name": "family-centred support",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2885059,
+        "value": "288.50594473007709257212"
+      },
+      "n": 1.0
+    }
+  ],
   "communicationsWithCharity": "I contacted Bliss with some queries. Contact made via website. I sent an email to myself with the content of the email. Date of email: 24-feb-16",
   "url": "https://www.bliss.org.uk/",
   "howTags": "Direct Work, Campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "family-centred support",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2885059,
+      "value": "288.50594473007709257212"
+    }
   },
   "whoTags": "Premature babies",
   "meta": {
