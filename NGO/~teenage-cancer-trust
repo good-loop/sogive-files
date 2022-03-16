@@ -1,0 +1,327 @@
+{
+  "scotlandCharityRegNum": "SC039757",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 1.4391761E11,
+          "value": 1.4391761E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.663974E10,
+          "value": 2663974.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001062559_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Fundraising costs include costs of generating voluntary income",
+      "name": "overall",
+      "analyst": "Kevin",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001062559_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "24483269",
+          "currency": "GBP",
+          "value100p": 2.4483269E11,
+          "value": 2.4483269E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "4424697",
+          "currency": "GBP",
+          "value100p": 4.424697E10,
+          "value": 4424697.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": "18 month period"
+        },
+        "end": {
+          "notes": "Note this is 18months!"
+        },
+        "reserves": {
+          "notes": "p8"
+        }
+      },
+      "name": "overall",
+      "start": "2017-07-01",
+      "end": "2018-12-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "13,300,000",
+        "currency": "GBP",
+        "value100p": 1.33E11,
+        "value": 1.33E7
+      },
+      "end_raw": "2018-12-1"
+    },
+    {
+      "outputs": [
+        {
+          "number": 225342.0,
+          "name": "Students spoken to (singular: Student spoken to)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001062559_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3,468,897",
+          "currency": "GBP",
+          "value100p": 3.468897E10,
+          "value": 3468897.0
+        }
+      ],
+      "name": "Before diagnosis",
+      "start": "2017-07-01",
+      "end": "2018-12-01",
+      "end_raw": "2018-12-1"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001062559_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,132,926",
+          "currency": "GBP",
+          "value100p": 8.132926E10,
+          "value": 8132926.0
+        }
+      ],
+      "name": "During treatment",
+      "start": "2017-07-01",
+      "end": "2018-12-01",
+      "end_raw": "2018-12-1"
+    },
+    {
+      "outputs": [
+        {
+          "number": 640.0,
+          "meta": {
+            "all": {
+              "notes": "528+112"
+            }
+          },
+          "name": "Young people (singular: person) attended event",
+          "description": "Young person who attended After Treatment Event (e.g. Find Your Sense of Tumour; Way Forward)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001062559_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,680,629",
+          "currency": "GBP",
+          "value100p": 1.680629E10,
+          "value": 1680629.0
+        }
+      ],
+      "name": "After treatment",
+      "start": "2017-07-01",
+      "end": "2018-12-01",
+      "end_raw": "2018-12-1"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Teenage Cancer Trust",
+  "recommendation": "**Summary**\n\n**Teenage Cancer Trust is rated as More Information Needed on the SoGive ratings scale.**\n\n- Teenage Cancer Trust is a charity that provides age-appropriate care and support to young people aged 13-24 living with cancer and their families. \n- Based on their 2020 annual report, we weren’t able to calculate the expenditure per young person affected by cancer, as no data on how many people the charity reaches each year was available, or the typical impact on those reached.\n- Because of this, we do not have enough information about the charity for even a tentative recommendation\n\n**The SoGive approach** \n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what Teenage Cancer Trust does - how they spend your donations**\n\n2020 was the last year of Teenage Cancer Trust’s 2015-20 strategy. In 2020, after anticipating a fall in income due to the pandemic, the charity decided to pause its other activities and focus its expenditures on protecting existing frontline services. During this year (2020), Teenage Cancer Trust invested in hospital units and frontline staff which provide specialist care to ensure young people receive age-appropriate care and support throughout the pandemic ([annual report](https://www.teenagecancertrust.org/our-organisation/annual-report), p.6).\n\nTheir total expenditure for the year which ended on 31 December 2020 was £15m. £5m was spent on raising funds. The fundraising cost can be distributed across the charity’s four main spending areas proportionately to each category’s relative yearly expenditure size. Taking this into account, the total expenditure in 2020 can be broken up by activity as follows (all info based on annual report, p.32):\n\n£6.5m (29.3%) was spent on \"supporting young people during treatment\" which involves operating and maintaining 28 units across hospitals in the UK, funding Teenage Cancer Trust nurses, Youth Support Coordinators and Multi-Disciplinary Team Coordinators as well as developing and funding NHS support staff and nursing.\n\n£1.6m (8.0%) was spent on \"supporting young people after treatment\", which includes their virtual Find Your Sense of Tumour event, as well as developing the Teenage Cancer Trust connect platform. £3.5m (16.7%) was spent on activities before diagnosis which covers the charity’s work on raising awareness of cancer in young people. Finally, £2m (10.0%) was spent on underpinning their services which involves research, safeguarding, development, and work on policy and influencing.\n\nThe impact of Teenage Cancer Trust’s charitable activities is frequently described in both their annual reports and on their website. These statements are often accompanied by testimonies from their beneficiaries describing the positive impact this charity has had on their cancer journey. However, data on the specific number of people reached by each activity can be found neither on their annual report nor on their website. The only figure we could find on their [website](https://www.teenagecancertrust.org/about-us/how-we-raise-and-spend-money) refers to the 28 units in hospitals they run and maintain to create a home-like environment for young people with cancer in hospitals. However, there is no data on approximately how many people actually benefit from one of these units, or to what extent they typically benefit.\n\n**Cost-effectiveness analysis - how does Teenage Cancer Trust compare to the most cost-effective charities?**\n\nAfter a review of the work of Teenage Cancer Trust under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 to save one life, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nHypothetically, if we could acquire data about, for instance, how many people benefit from one Teenage Cancer Trust unit at a hospital, then we would have been able to perform a cost-effectiveness analysis of one of the charity’s activities. This data would have given us an idea and a rough calculation of how much money is spent by the charity to help one young person with cancer. We then could have compared this calculation to a Gold rated charity. To achieve a Gold ranking, Teenage Cancer Trust would need to have an impact on well-being which is at least as good as averting one year of severe depression for £200. This would have enabled us to have an idea of how effectively Teenage Cancer Trust are using their money to help their beneficiaries. Nevertheless, we would still require further information to make better-informed judgements about the charity’s impact. We would welcome more evidence and information from the charity which would help us calculate an impact number and allow us to undertake a cost-effectiveness analysis.\n\nFurther information that would enable us to better understand the Teenage Cancer Trust’s impact would be:\n\n- The number of beneficiaries reached by each specific charitable activity.\n- Information about the extent of mental and emotional help received by beneficiaries on average, and how sizable the average improvement of well-being is. This data could be gathered through surveys on mental health and quality of life throughout the course of beneficiaries’ engagement with the charity.\n- How significantly engaging with a charity specifically dedicated to young people affects the beneficiaries lives. Surveys and interviews with teenagers who have engaged with both the Teenage Cancer Trust and other non-age-specific cancer charities could help gather this information.\n- Whether the Teenage Cancer Trust is doing interventions that have been previously well-studied and proven to improve well-being, and if so, which ones and what is the evidence base?\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Conclusion**\n\nBased on the above, we rate the Teenage Cancer Trust as More Information Needed under the SoGive methodology.\n",
+  "description": "Teenage Cancer Treatment looks to support young people at all stages of their fight with cancer.\n\nBefore diagnosis, the charity helps educate young people about the disease through school presentations and talks. During treatment, Teenage Cancer Trust provides 28 specialised units across the UK to accommodate young people and with professional staff. Post-treatment, the charity organises events that young people can enjoy and meet people with shared experiences.",
+  "whyTags": "Cancer, Children",
+  "imageCaption": "Bristol Centre",
+  "modified": true,
+  "logo": "https://media.good-loop.com/uploads/standard/tct-12319608708159366186.png",
+  "@id": "teenage-cancer-trust",
+  "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Cancer_Trust",
+  "summaryDescription": "Work to \"to make sure young people\u0027s lives don\u0027t stop because they have cancer\". This is achieved by providing speacilsed teenage cancer units, as well as a range of national initiatives and advocacy.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/BristolHOC2-12387388244131521958.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Teenage Cancer Trust",
+    "Teenage Cancer Trust",
+    "teenage-cancer-trust"
+  ],
+  "url": "https://www.teenagecancertrust.org/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2015.0]"
+  },
+  "whoTags": "",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Teenage Cancer Trust",
+  "category": "health",
+  "englandWalesCharityRegNum": "1062559",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "PUBLISHED"
+}
