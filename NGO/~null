@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Versus Arthiritis ",
   "id": "versus-arthritis",
-  "suggest": []
+  "suggest": [
+    "Versus Arthiritis "
+  ],
+  "status": "DRAFT"
 }
