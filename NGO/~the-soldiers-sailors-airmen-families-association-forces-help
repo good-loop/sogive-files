@@ -364,6 +364,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Two independent auditors made "
+        }
+      },
       "name": "overall"
     }
   ],
