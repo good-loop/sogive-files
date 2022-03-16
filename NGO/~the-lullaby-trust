@@ -49,7 +49,8 @@
         "currency": "",
         "value100p": 3.681E9,
         "value": 368100.0
-      }
+      },
+      "isRep": true
     }
   ],
   "@type": "NGO",
