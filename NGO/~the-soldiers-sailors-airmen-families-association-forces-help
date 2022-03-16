@@ -408,10 +408,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "302,000",
-          "currency": "GBP",
-          "value100p": 3.02E9,
-          "value": 302000.0
+          "currency": "GBP"
         }
       ],
       "name": "Adoption"
