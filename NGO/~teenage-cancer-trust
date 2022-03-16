@@ -294,7 +294,7 @@
   "logo": "https://media.good-loop.com/uploads/standard/tct-12319608708159366186.png",
   "@id": "teenage-cancer-trust",
   "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Cancer_Trust",
-  "summaryDescription": "work to \"to make sure young people\u0027s lives don\u0027t stop because they have cancer\". This is achieved by providing speacilsed teenage cancer units, as well as a range of national initiatives and advocacy.",
+  "summaryDescription": "work \"to make sure young people\u0027s lives don\u0027t stop because they have cancer\". This is achieved by providing speacilsed teenage cancer units, as well as a range of national initiatives and advocacy.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/BristolHOC2-12387388244131521958.jpg",
   "noPublicDonations": false,
@@ -323,5 +323,5 @@
   "englandWalesCharityRegNum": "1062559",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
