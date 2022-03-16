@@ -367,6 +367,7 @@
   "description": "Alzheimer’s Research UK is working across four key areas to pursue their vision of a world free from dementia:\n1. Funding research that will transform lives\n2. Improving understanding of dementia and creating the best environment for research\n3. Accelerating progress toward breakthroughs\n4. Being the best they can be for everyone affected by dementia",
   "whyTags": "Mental Health, Research",
   "imageCaption": "AR UK Research",
+  "ready": true,
   "modified": true,
   "logo": "https://app.sogive.org/uploads/luca.f.righettigmail.comemail/ARU-11872117981588045239.png",
   "@id": "alzheimers-research-uk",
@@ -403,5 +404,5 @@
   "englandWalesCharityRegNum": "1077089",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
