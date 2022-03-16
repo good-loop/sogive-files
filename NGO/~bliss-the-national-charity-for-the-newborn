@@ -1227,7 +1227,11 @@
       "name": "Engaging with neonatal health professionals"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "Petition signatures"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
