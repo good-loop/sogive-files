@@ -1229,7 +1229,8 @@
     {
       "outputs": [
         {
-          "name": "Petition signatures"
+          "number": 5300.0,
+          "name": "Petition signature(s)"
         }
       ],
       "data-src": [
