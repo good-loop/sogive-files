@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "American Forests",
-  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
-  "id": "american-forests",
+  "displayName": "Nuestra Tierra Conservation Project",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-13622373179162389526.png#noscale",
+  "id": "nuestra-tierra-conservation-project",
   "suggest": [
-    "American Forests"
+    "Nuestra Tierra Conservation Project"
   ],
-  "url": "https://www.americanforests.org/",
+  "url": "https://www.nuestra-tierra.org/",
   "status": "PUBLISHED"
 }
