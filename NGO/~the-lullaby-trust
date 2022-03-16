@@ -2,7 +2,11 @@
   "images": "https://media.good-loop.com/uploads/raw/Safer-Sleep-Week-2018-banner-image-11328903483428870690.jpeg",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "Babies lives saved per year"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -50,13 +54,35 @@
     "The Lullaby Trust",
     "the-lullaby-trust"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-lullaby-trust",
+      "name": "Babies lives saved per year",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 10783000000,
+        "value": "1078300"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.lullabytrust.org.uk/",
   "whyTags": "Children",
   "howTags": "Direct Work, Research, Grants to Organisations, Campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "Babies lives saved per year",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 10783000000,
+      "value": "1078300"
+    }
   },
   "name": "The Lullaby Trust",
   "logo": "https://media.good-loop.com/uploads/raw/50th-anniversary-logo-website-landing-page-9653000808078453721.jpeg",
