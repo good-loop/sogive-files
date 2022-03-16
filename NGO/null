@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Versus Arthritis ",
-  "logo": "https://media.good-loop.com/uploads/standard/wNIuKlIX__400x400-38909834118382415.jpg#ccrop:90_noscale",
-  "id": "versus-arthritis",
+  "displayName": "American Forests",
+  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
+  "id": "american-forests",
   "suggest": [
-    "Versus Arthritis "
+    "American Forests"
   ],
-  "url": "https://www.versusarthritis.org/#main",
-  "status": "PUBLISHED"
+  "url": "https://www.americanforests.org/",
+  "status": "MODIFIED"
 }
