@@ -124,10 +124,25 @@
   "@type": "NGO",
   "ready": true,
   "name": "test charity1",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO-12026826946348175406.png",
   "@id": "test-charity1",
   "suggest": [
     "test charity1",
     "test-charity1"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "test-charity1",
+      "name": "test unit(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 7000000,
+        "value": "700.0"
+      },
+      "n": 1.0
+    }
   ],
   "status": "DRAFT"
 }
