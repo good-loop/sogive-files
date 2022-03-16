@@ -31,13 +31,18 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "raw": "£368,100",
-          "currency": "GBP",
-          "value100p": 3.681E9,
-          "value": 368100.0
+          "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "£368,100",
+        "currency": "",
+        "value100p": 3.681E9,
+        "value": 368100.0
+      }
     }
   ],
   "@type": "NGO",
