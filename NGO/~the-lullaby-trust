@@ -5,6 +5,7 @@
       "outputs": [
         {
           "number": 666.0,
+          "confidence": "low",
           "name": "Babies lives saved per year"
         }
       ],
