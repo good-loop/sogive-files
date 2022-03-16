@@ -384,6 +384,37 @@
         "value100p": 4.19E11,
         "value": 4.19E7
       }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "302,000",
+          "currency": "GBP",
+          "value100p": 3.02E9,
+          "value": 302000.0
+        }
+      ],
+      "name": "Adoption"
     }
   ],
   "@type": "NGO",
