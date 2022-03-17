@@ -322,7 +322,7 @@
       "outputs": [
         {
           "name": " equid(s) helped",
-          "description": "working horses, donkeys, and mules (equids)",
+          "description": "This refers to working horses, donkeys, and mules (equids)",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
