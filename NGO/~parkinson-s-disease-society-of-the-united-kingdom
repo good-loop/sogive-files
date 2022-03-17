@@ -380,7 +380,8 @@
   "summaryDescription": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/parkinsons-640x422-7364440436289532497.png",
-  "impact": "more-info-needed",
+  "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "Parkinson\u0027s Disease Society Of The United Kingdom",
     "Parkinson\u0027s UK",
@@ -398,5 +399,5 @@
   "englandWalesCharityRegNum": "258197",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
