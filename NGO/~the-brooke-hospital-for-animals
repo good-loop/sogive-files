@@ -319,7 +319,19 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "working horses, donkeys, and mules (equids) helped",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "11",
+            "currency": "",
+            "value100p": 110000.0,
+            "value": 11.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
