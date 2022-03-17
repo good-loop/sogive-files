@@ -322,7 +322,7 @@
       "outputs": [
         {
           "name": " equid(s) helped",
-          "description": "This refers to working horses, donkeys, and mules (equids) through their main activities of preventing animal welfare problems and direct intervention to help equids",
+          "description": "This refers to working horses, donkeys, and mules (equids) helped through their main activities of preventing animal welfare problems and direct intervention to help equids",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
