@@ -321,7 +321,8 @@
     {
       "outputs": [
         {
-          "name": "working horses, donkeys, and mules (equids) helped",
+          "name": " helped",
+          "description": "working horses, donkeys, and mules (equids)",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -566,5 +567,5 @@
   "englandWalesCharityRegNum": "1085760",
   "whereTags": "Africa, Asia, Latin America, Middle East, Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
