@@ -1,0 +1,403 @@
+{
+  "scotlandCharityRegNum": "SC037554",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "39089000",
+          "currency": "GBP",
+          "value100p": 3.9089E11,
+          "value": 3.9089E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "312000",
+          "currency": "GBP",
+          "value100p": 3.12E9,
+          "value": 312000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10493000",
+          "currency": "GBP",
+          "value100p": 1.0493E11,
+          "value": 1.0493E7
+        }
+      ],
+      "name": "Better treatments and a cure",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5182000",
+          "currency": "GBP",
+          "value100p": 5.182E10,
+          "value": 5182000.0
+        }
+      ],
+      "name": "Quality services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends97/0000258197_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15548000",
+          "currency": "GBP",
+          "value100p": 1.5548E11,
+          "value": 1.5548E7
+        }
+      ],
+      "meta": {
+        "start": {
+          "notes": ""
+        }
+      },
+      "name": "Taking control",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.parkinsons.org.uk/sites/default/files/2021-08/CS3656%20Annual%20Report%20and%20Accounts%202020_FINAL%20DIGITAL.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "28541000",
+          "currency": "GBP",
+          "value100p": 2.8541E11,
+          "value": 2.8541E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "406000",
+          "currency": "GBP",
+          "value100p": 4.06E9,
+          "value": 406000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": "page 43"
+        },
+        "reserves": {
+          "notes": "page 26"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "25400000",
+        "currency": "",
+        "value100p": 2.54E11,
+        "value": 2.54E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6055000",
+          "currency": "GBP",
+          "value100p": 6.055E10,
+          "value": 6055000.0
+        }
+      ],
+      "name": "Accelerating breakthroughs in research"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10895000",
+          "currency": "GBP",
+          "value100p": 1.0895E11,
+          "value": 1.0895E7
+        }
+      ],
+      "name": "Better support, every day"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1654000",
+          "currency": "GBP",
+          "value100p": 1.654E10,
+          "value": 1654000.0
+        }
+      ],
+      "name": "Getting Parkinson\u0027s understood"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2832000",
+          "currency": "GBP",
+          "value100p": 2.832E10,
+          "value": 2832000.0
+        }
+      ],
+      "name": "Transforming Parkinson\u0027s together"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Parkinson\u0027s UK",
+  "description": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning. They operate across the UK and believe a cure will be found by overcoming the symptoms of Parkinson\u0027s one by one.",
+  "recommendation": "**Summary**\n\n**Parkinson’s UK is rated as Not Recommended (tentative) on the SoGive ratings scale. **\n\n- Parkinson’s UK aims to find a cure for Parkinson’s disease, and improve life for everybody affected by Parkinson’s. They achieve this through direct support, funding and disseminating research, and public education.\n- Around [17,300 people](https://cks.nice.org.uk/topics/parkinsons-disease/background-information/prevalence/) are diagnosed with Parkinson’s every year in the UK.\n- In 2020 Parkinson’s UK reported a total annual expenditure of £28.5 million (see page 43 of their [annual report](https://www.parkinsons.org.uk/sites/default/files/2021-08/CS3656%20Annual%20Report%20and%20Accounts%202020_FINAL%20DIGITAL.pdf) \n- Given the majority of their expenditure is focused on direct support and raising awareness it seems highly unlikely that Parkinson’s UK reaches the SoGive Gold Standard for cost-effectiveness and therefore we rate them as Not Recommended (tentative), although it is possible that their research work could prove cost-effective.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Parkinson’s UK does - how they spend your donations**\n\nIn 2020, Parkinson’s UK spent their funds as follows:\n\n*Better Support, Every Day*\n\n- This program focuses on providing relief for people with Parkinson’s disease and allied conditions (referred together as Parkinson’s), assistance, support and advice for people with Parkinson’s and/or their families, dependants, friends, and carers.\n- Of spending committed to their charitable activities in 2020, 50% was committed to Better Support Every Day, so the non-project costs-adjusted expenditure was £14.3m.\n*Accelerating Breakthroughs*\n- This program focuses on promoting and supporting research into the causes, prevention, treatment and cure of Parkinsons’ and disseminating the results of those research.\n- Of spending committed to their charitable activities in 2020, 28% was committed to Accelerating Breakthroughs so the non-project costs-adjusted expenditure was £8m.\n\n*Getting Parkinson’s Understood*\n- This program focuses on advancing the education of the public and health and social care professionals on issues relating to Parkinson’s.\n- Of spending committed to their charitable activities in 2020, 8% was committed to Getting Parkinson’s Understood so the non-project costs-adjusted expenditure was £2.2m.\n\n*Transforming Parkinson’s Together* \n\n- They allocated £2.8m to Transforming Parkinson’s Together in 2020 which comes under the category of Charitable Activities, making up 10% of their total expenditure (and 13% of their charitable activity related expenditure). \n- It is unclear what this program entails in practice but they state that \"the majority of our spend under the theme of transforming Parkinson’s together is included in the Fundraising section of this report. However, we spent £2.8m on supporting our volunteers and membership\" (page 25 of their annual report). The lack of clear information provided by Parkinson’s UK as to what outcomes this expenditure has produced leads us to believe it is probably not cost-effective and we have not included it in our cost-effectiveness analysis below.\n\n**Cost-effectiveness analysis - how does Parkinson’s UK compare to the most cost-effective charities?**\n\nAfter a review of the work of the charity under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as averting one year of severe depression for £200 or £5,000 per life saved), and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here]\n(https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar), and for more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n*Better Support, Every Day*\n\nGiven their non-project costs-adjusted expenditure in 2020 on this program was £14.3m, the services Parkinson’s UK provides under this category would need to provide annual benefits equivalent to alleviating over 70,000 years (£14.3m/£200) of severe depression in order to meet the SoGive Gold Standard. Their main outputs were dealing with over 50,000 cases through the helpline and local adviser service, providing 3,400 wellbeing check-in calls, and launching a Facebook support group with 2800 members (page 14-15 of their annual report). They also provided support grants totalling £75,695 to 151 people, funded one new Parkinson nurse through their grants, ensured that 27 at-risk Parkinson’s nurse posts were retained within the NHS, and helped 9145 professionals take up virtual professional development opportunities (page 15). However it is unclear what would have happened otherwise, especially given that the Parkinon’s UK is working alongside the NHS who also provide support and services for those suffering from Parkinson’s. Whilst all of the above services are undoubtedly valuable it seems highly unlikely that combined they provide annual benefits equivalent to alleviating over 70,000 years of severe depression and therefore the activities under this program likely don’t reach the SoGive Gold Standard for cost-effectiveness.\n*Accelerating Breakthroughs*\n \nGiven their non-project costs-adjusted expenditure in 2020 on this program was £8m, the services Parkinson’s UK provides under this category would need to provide annual benefits equivalent to saving over 1500 lives in order to meet the SoGive Gold Standard (£8m/£5000). Their main outputs included the expenditure of £2.5m on two Virtual Biotech projects to trial two new drugs for Parkinson’s (page 12 of their annual report). These two drugs aim to treat hallucinations in Parkinson’s and dyskinesia (a side effect of Parkinson’s drugs that causes involuntary movements). Although both drugs being trialled will sadly only alleviate symptoms of Parkinson’s rather than cure it, it is still possible that this portion of spending will reach the SoGive Gold Standard for cost effectiveness if it has a sufficient impact on the quality of life for those affected (particularly if these drugs are adopted internationally, as Parkinson’s affects [around 7-10 million people worldwide annually](https://parkinsonsnewstoday.com/parkinsons-disease-statistics/). They have also negotiated an agreement to take control of a phase 2 drug candidate (GDNF) that may lead to a new clinical trial for a treatment that investigates the possibility of restoring the cells damaged in Parkinson\u0027s. This could be promising in terms of cost-effectiveness, especially as any medical breakthroughs have implications beyond the UK population of Parkinson’s sufferers. Other outputs included the launch of a new grants program which aims to invest in research into innovative non-drugs therapies, the continuation of the Research Support Network which consists of 5000 members, and the delivery of a research conference with over 450 people attending.\nThere is significant uncertainty in estimating the cost-effectiveness of this portion of Parkinson’s UK work due to the inherent time lag and unpredictability of research expenditure. If Parkinson’s UK provided us with information on the expected impact of the drugs they are trialling on the quality of and length of life of Parkinson’s sufferers we would be able to better evaluate this. However, SoGive [analysis of medical research funding](https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html?q\u003dcancer\u0026view\u003dsidebar) in 2017 suggests neurological diseases may be slightly overfunded when considering global disease burdens, which decreases our confidence in recommending Parkinson’s UK on the basis of their research work. We would need to update this analysis with more recent figures in order to better ascertain whether or not Parkinson’s research is likely to be cost-effective.\n\n*Getting Parkinson’s Understood*\nGiven their non-project costs-adjusted expenditure in 2020 on this program was £2.2m, the services Parkinson’s UK provides under this category would need to provide annual benefits equivalent to alleviating over 10,000 years of severe depression in order to meet the SoGive Gold Standard. Key outputs (page 17 of the annual report) under this program included ‘key internal system changes’ that enable ‘supporters have more choice, and a simpler experience for staying in touch’, getting content featured in the media every fortnight, getting over 19,000 signatures on a petition calling for mandatory Parkinson’s training for hospital staff was popularised, and getting over 54,000 people to engage with the charity for the first time via fundraising, campaigning and volunteering. The outcome of the petition for mandatory Parkinson’s training for hospital staff is unclear. Whilst Parkinson’s UK have published [some research](https://www.parkinsons.org.uk/sites/default/files/2020-09/What%20matters%20most%20report%20final%20-%20September%202020_0.pdf) on the key issues facing people affected by Parkinson’s we would further welcome an explicit theory of change outlining how these outputs of increased awareness will improve outcomes for those suffering from Parkinson’s.\n*Overall*\nOverall, due to the ancillary nature of Parkinson’s UK work alongside the NHS and the relatively low proportion of expenditure allocated to research, which is likely to be their most cost-effective program, we rate Parkinson’s UK as Not Recommended (tentative). The tentative assessment hinges on the fact that it’s possible that their research programs could be cost-effective, but we would need Parkinson\u0027s UK to publish impact evaluations of their research grants and how much sooner medical discoveries are made as a result of this. They have previously attempted something similar (see [here](https://medium.com/parkinsons-uk/making-an-impact-in-parkinsons-research-fc0834510a6e)) but this could be improved by publishing an evaluation that examines the impact of Parkinson’s UK’s research grants on the quality and length of life for Parkinson’s sufferers rather than purely number of citations; this would reflect the true value of their work better.   \nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nBased on the above, we rate Parkinson’s UK as Not Recommended (tentative) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness, and believe that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin",
+  "whyTags": "Health, Education, Dementia",
+  "imageCaption": "The Birmingham team raises £500 for parkinsons UK",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/logo-9840701543890193685.png",
+  "@id": "parkinson-s-disease-society-of-the-united-kingdom",
+  "summaryDescription": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/parkinsons-640x422-7364440436289532497.png",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Parkinson\u0027s Disease Society Of The United Kingdom",
+    "Parkinson\u0027s UK",
+    "parkinson-s-disease-society-of-the-united-kingdom"
+  ],
+  "url": "https://www.parkinsons.org.uk",
+  "howTags": "Campaigning, Research, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "name": "Parkinson\u0027s Disease Society Of The United Kingdom",
+  "lastModified": "2020-08-31T12:41:42Z",
+  "englandWalesCharityRegNum": "258197",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
