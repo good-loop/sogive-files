@@ -396,7 +396,8 @@
           "value": 4786847.0
         }
       ],
-      "name": "Direct intervention to improve equine animal welfare"
+      "name": "Direct intervention to improve equine animal welfare",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -514,7 +515,7 @@
   "images": "https://media.good-loop.com/uploads/raw/Brooke-6962579960518791199.png",
   "noPublicDonations": false,
   "impact": "more-info-needed-promising",
-  "confidence": "high",
+  "confidence": "medium",
   "suggest": [
     "The Brooke Hospital for Animals",
     "Brooke",
@@ -540,14 +541,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "animal (plural: animals) benefitting from services",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 155692,
-      "value": "15.5692464197218105879344"
-    }
+    "name": "No Outputs! for project Project[Direct intervention to improve equine animal welfare 2021.0]"
   },
   "whoTags": "Animals, Horses, Donkeys",
   "meta": {
@@ -560,5 +554,5 @@
   "englandWalesCharityRegNum": "1085760",
   "whereTags": "Africa, Asia, Latin America, Middle East, Developing World",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
