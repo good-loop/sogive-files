@@ -319,7 +319,20 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": " equid(s) helped",
+          "description": "This refers to working horses, donkeys, and mules (equids) helped through the charity\u0027s main activities of preventing animal welfare problems and direct intervention",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "11",
+            "currency": "",
+            "value100p": 110000.0,
+            "value": 11.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -362,7 +375,8 @@
         "currency": "",
         "value100p": 9.545228E10,
         "value": 9545228.0
-      }
+      },
+      "isRep": true
     },
     {
       "outputs": [],
@@ -397,7 +411,7 @@
         }
       ],
       "name": "Direct intervention to improve equine animal welfare",
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [],
@@ -525,13 +539,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-brooke-hospital-for-animals",
-      "name": "animal (plural: animals) benefitting from services",
+      "name": " equid(s) helped",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 155692,
-        "value": "15.5692464197218105879344"
+        "value100p": 110000,
+        "value": "11.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -541,7 +555,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Direct intervention to improve equine animal welfare 2021.0]"
+    "name": " equid(s) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 110000,
+      "value": "11.0",
+      "name": ""
+    }
   },
   "whoTags": "Animals, Horses, Donkeys",
   "meta": {
@@ -554,5 +575,5 @@
   "englandWalesCharityRegNum": "1085760",
   "whereTags": "Africa, Asia, Latin America, Middle East, Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
