@@ -1,12 +1,14 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-8369499657332865885.png",
   "@type": "NGO",
   "displayName": "Goodwill",
   "name": "Goodwill",
-  "logo": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-11155550884986374999.png",
-  "id": "good-will",
+  "logo": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-14158984771533475930.png#ccrop:130",
+  "id": "goodwill",
   "suggest": [
     "Goodwill",
     "Goodwill"
   ],
-  "status": "MODIFIED"
+  "url": "https://www.goodwill.org/",
+  "status": "PUBLISHED"
 }
