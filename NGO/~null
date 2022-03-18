@@ -2,10 +2,11 @@
   "@type": "NGO",
   "displayName": "Goodwill",
   "name": "Goodwill",
+  "logo": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-11155550884986374999.png",
   "id": "good-will",
   "suggest": [
     "Goodwill",
     "Goodwill"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
