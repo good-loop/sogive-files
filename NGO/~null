@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Goodwill",
+  "displayName": "GOODWILL",
   "name": "Goodwill",
   "id": "goodwill",
   "suggest": [
     "Goodwill",
-    "Goodwill"
+    "GOODWILL"
   ],
   "status": "DRAFT"
 }
