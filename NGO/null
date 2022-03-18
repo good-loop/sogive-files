@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "American Forests",
-  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
-  "id": "american-forests",
+  "displayName": "Goodwill",
+  "name": "Goodwill",
+  "logo": "https://media.good-loop.com/uploads/standard/cropped-Goodwill-Industries-International-Logo-1-4596254367781881274.jpg#ccrop:101",
+  "id": "goodwill",
   "suggest": [
-    "American Forests"
+    "Goodwill",
+    "Goodwill"
   ],
-  "url": "https://www.americanforests.org/",
-  "status": "MODIFIED"
+  "url": "https://www.goodwill.org/",
+  "status": "DRAFT"
 }
