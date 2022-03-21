@@ -1,14 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-8369499657332865885.png",
   "@type": "NGO",
-  "displayName": "Goodwill",
-  "name": "Goodwill",
-  "logo": "https://media.good-loop.com/uploads/standard/Goodwill-Logo-14158984771533475930.png#ccrop:130",
-  "id": "goodwill",
+  "unlisted": true,
+  "displayName": "KIK Network",
+  "logo": "https://media.good-loop.com/uploads/standard/sitelogo-17287120179162862552.png#ccrop:95",
+  "id": "kik-network",
   "suggest": [
-    "Goodwill",
-    "Goodwill"
+    "KIK Network"
   ],
-  "url": "https://www.goodwill.org/",
-  "status": "MODIFIED"
+  "url": "https://www.kikonet.org/",
+  "status": "DRAFT"
 }
