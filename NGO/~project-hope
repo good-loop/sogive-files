@@ -44,6 +44,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.projecthope.org/wp-content/uploads/2021/08/Project_HOPE_2020_Audited_Financials-12-31-20-Final.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
