@@ -108,7 +108,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "98126000",
+          "currency": "GBP",
+          "value100p": 9.8126E11,
+          "value": 9.8126E7
         }
       ],
       "name": "Health education and assistance"
