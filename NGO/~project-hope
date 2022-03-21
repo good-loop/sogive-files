@@ -43,43 +43,6 @@
       "name": "overall"
     },
     {
-      "outputs": [
-        {
-          "number": 662000.0,
-          "name": "people supported by humanitarian assistance"
-        },
-        {
-          "number": 160000.0,
-          "name": "people received direct medical services"
-        }
-      ],
-      "year": 2020.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "disasters and health crises"
-    },
-    {
       "outputs": [],
       "year": 2020.0,
       "@type": "Project",
@@ -102,87 +65,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "infectious diseases"
-    },
-    {
-      "outputs": [],
-      "year": 2020.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        }
-      ],
-      "name": "noncommunicable diseases"
-    },
-    {
-      "outputs": [
-        {
-          "number": 250000.0,
-          "name": "women, newborns, and children under 5 reached",
-          "description": ""
-        }
-      ],
-      "year": 2020.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "maternal, neonatal and child health"
-    },
-    {
-      "outputs": [],
-      "year": 2020.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "8393000",
+          "currency": "GBP",
+          "value100p": 8.393E10,
+          "value": 8393000.0
         }
       ],
       "name": "health policy"
