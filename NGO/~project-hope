@@ -80,7 +80,12 @@
       "name": "health policy"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 116000.0,
+          "name": "Healthcare workers trained"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -127,13 +132,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "project-hope",
-      "name": "People reached by Project Hope",
+      "name": "Healthcare workers trained",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 871457,
-        "value": "87.1457142857142874572000"
+        "value100p": 8459137,
+        "value": "845.913793103448296164000"
       },
       "n": 1.0
     }
@@ -144,7 +149,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Health education and assistance 2020.0]"
+    "name": "Healthcare workers trained",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 8459137,
+      "value": "845.913793103448296164000"
+    }
   },
   "name": "Project Hope",
   "logo": "https://media.good-loop.com/uploads/raw/Project_Hope_Logo-17345844429552957617.jpg",
