@@ -2,6 +2,7 @@
   "@type": "NGO",
   "unlisted": true,
   "displayName": "KIK Network",
+  "logo": "https://media.good-loop.com/uploads/standard/sitelogo-17287120179162862552.png",
   "id": "kik-network",
   "suggest": [
     "KIK Network"
