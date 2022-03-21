@@ -114,7 +114,8 @@
           "value": 9.8126E7
         }
       ],
-      "name": "Health education and assistance"
+      "name": "Health education and assistance",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -143,14 +144,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "People reached by Project Hope",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 871457,
-      "value": "87.1457142857142874572000"
-    }
+    "name": "No Outputs! for project Project[Health education and assistance 2020.0]"
   },
   "name": "Project Hope",
   "logo": "https://media.good-loop.com/uploads/raw/Project_Hope_Logo-17345844429552957617.jpg",
