@@ -1,0 +1,598 @@
+{
+  "scotlandCharityRegNum": "SCO47429",
+  "ukCompanyRegNum": "02944156",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9461855",
+          "currency": "GBP",
+          "value100p": 9.461855E10,
+          "value": 9461855.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "74553",
+          "currency": "GBP",
+          "value100p": 7.4553E8,
+          "value": 74553.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "2573943",
+        "currency": "GBP",
+        "value100p": 2.573943E10,
+        "value": 2573943.0
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4882187",
+          "currency": "GBP",
+          "value100p": 4.882187E10,
+          "value": 4882187.0
+        }
+      ],
+      "name": "Admiral nursing project ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "165353 ",
+          "currency": "GBP",
+          "value100p": 1.65353E9,
+          "value": 165353.0
+        }
+      ],
+      "name": "Research and publications ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "659734 ",
+          "currency": "GBP",
+          "value100p": 6.59734E9,
+          "value": 659734.0
+        }
+      ],
+      "name": "Public awareness ",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "652699",
+          "currency": "GBP",
+          "value100p": 6.52699E9,
+          "value": 652699.0
+        }
+      ],
+      "name": "Business development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001039404_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "785560",
+          "currency": "GBP",
+          "value100p": 7.8556E9,
+          "value": 785560.0
+        }
+      ],
+      "name": "Practice development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 70000.0,
+          "meta": {
+            "all": {
+              "notes": "Cost per beneficiary uses charitable spending as the annual cost, subtracted out the research costs (162,842) and the public awareness costs (656,684). Finally, divided it between the 70000 beneficiaries"
+            }
+          },
+          "name": "beneficiaries (singular: beneficiary) reached directly",
+          "description": "This means beneficiaries reached through the charity\u0027s Admiral Nurse services. Services are provided for 2 hours on average",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "74.47",
+            "currency": "",
+            "value100p": 744700.0,
+            "value": 74.47
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "8839830",
+          "currency": "GBP",
+          "value100p": 8.83983E10,
+          "value": 8839830.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "4074941",
+        "currency": "",
+        "value100p": 4.074941E10,
+        "value": 4074941.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3603509",
+          "currency": "GBP",
+          "value100p": 3.603509E10,
+          "value": 3603509.0
+        }
+      ],
+      "name": "Admiral nursing projects"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "936365",
+          "currency": "GBP",
+          "value100p": 9.36365E9,
+          "value": 936365.0
+        }
+      ],
+      "name": "Practice development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "673231",
+          "currency": "GBP",
+          "value100p": 6.73231E9,
+          "value": 673231.0
+        }
+      ],
+      "name": "Business development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 656684",
+          "currency": "GBP",
+          "value100p": 6.56684E9,
+          "value": 656684.0
+        }
+      ],
+      "name": "Public awareness"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "162842",
+          "currency": "GBP",
+          "value100p": 1.62842E9,
+          "value": 162842.0
+        }
+      ],
+      "name": "Research and publications"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Dementia UK",
+  "description": "Dementia UK helps people with dementia and their families by connecting them with nurses specialized in the disease, raising public awareness about difficulties faced by people with dementia and their family members and participating in research about dementia care.",
+  "recommendation": "**Summary**\n\n**Dementia UK is rated as Not Recommended (firm) under the SoGive rating methodology**\n\n- Dementia UK helps people with dementia and their families by connecting them with nurses specialized in the disease, raising public awareness about difficulties faced by people with dementia and their family members, and participating in research about dementia care\n- We find it unlikely that the services provided by the charity would have a comparable impact to the same amount donated to our benchmark charities. \n- For example, for the same cost as providing Admiral Nurse information and emotional support services to one individual for approximately 2 hours, a charity that meets the SoGive Gold Standard would be able to achieve an impact as good as averting over four months of severe depression \n- For this reason, Dementia UK is rated as Not Recommended\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Dementia UK does - how they spend your donations**\n\nDementia UK’s [2020 Annual Report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578545\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1039404) outlines the details of the £8.8 million that they spent during their fiscal year.\n\nDementia UK\u0027s Admiral Nursing activities constitute around 86% of their expenses on charitable activities. More specifically, they used 60% on paying for their core nursing program, 16% on providing their nurses with training, and 11% on business development (developing new services and maintaining current services). Their Admiral Nurses have a professional specialism in dementia and also expertise in the psycho-social challenges of the disease on those afflicted and their families. This category of spending also includes the costs to run their Admiral Nurse Dementia Helpline, community consultations at their clinics, and their Dementia at Work support packages where Admiral Nurses deliver resources and support services at carer workplaces.\n\nThe charity also campaigns to raise awareness about dementia on various media platforms, where they spent 11% of their charitable funds. This includes coverage in media stories, consulting services to films and TV programmes featuring a dementia storyline, and information leaflets publishing advice.\n\nFinally, Dementia UK spent about 3% of charitable funds on research that makes it more likely that patients and their families will get the support they need. This includes publishing articles on dementia and depression, university partnerships, and guidance on national dementia policy.\n\n**Cost-effectiveness analysis - how does Dementia UK compare to the most cost-effective charities?**\n\nAfter a review of the work of Dementia UK under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nIn performing our analysis, we primarily focus on their Admiral Nurse services since they make up the majority of their charitable expenditure. Dementia UK’s annual report states that their 267 Admiral Nurses across the UK supported over 70,000 people living with the effects of dementia through their services, which comes out to an estimated average cost of helping one person for £74. The Dementia UK [2020-2025 strategy document](https://www.dementiauk.org/wp-content/uploads/2020/10/strategy_live_revised.pdf) states that £33 could pay for a new Admiral Nurse for an hour. This suggests that the average person engages with a nurse for about 2 hours.\n\nOur best understanding about the impact of these services is through the charity’s surveys. The most promising results included the following:\n- 96% said the Admiral Nurse was helpful in providing them with support and advice to manage risk and prevent possible crises\n- 91% said the Helpline had made a positive difference to their confidence in their ability to cope\n- 97% said the service had the potential to reduce unplanned hospital admissions\n- 94% said the service had helped avoid crisis points for families\n\nIn order for Dementia UK to meet the SoGive Gold Standard, we would have to believe that the benefit that a person receives from approximately 2 hours with an Admiral Nurse is sufficiently large to warrant the cost, which could achieve an outcome as good as averting over four months of severe depression if donated to a charity that meets the SoGive Gold Standard. Examples of help that they provide include advice adapting homes to be more accommodating and help accessing specialty services. \n\nSince the value that Admiral Nurses bring appear to be primarily emotional support and information, rather than treating the illness itself, we find it unlikely that this would have a similar impact to averting severe depression. This holds true regardless of which service an individual receives, whether they are a caller to the helpline, someone who received a consultation in-person, or a carer who was the recipient of workplace support.\n\nEven though the marginal pound donated to the charity is likely to be used on Admiral Nursing services, they also spent 14% of funds on awareness and research. Dementia UK noted that their website had 2,170,393 visitors, and their social media platforms have a total of 181,611 likes or followers. However, this does not include everyone impacted by their stories, films, TV programmes and leaflets. Regardless, similar to the reasons stated above regarding their Admiral Nurse services, we do not know enough from publicly available information about the charity to determine whether they are cost-effective. We would also need to know the extent to which awareness of dementia and research into dementia care leads to an actual change in behaviour that either encourages someone to take precautions to avoid developing dementia or positively impacts someone suffering from the disease.\n\nA full model would also take into account counterfactuals. For example, if Dementia UK did not exist, it is likely that their Admiral Nurses would be employed elsewhere in the nursing profession, which may or may not be as impactful as dementia nursing. Additionally, we would question whether this type of work should be philanthropically funded, rather than paid for by the UK National Health Service or social care.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nDementia UK is rated as Not Recommended under the SoGive rating methodology. We are relatively confident that the charity’s primary function, providing Admiral Nurse services, possesses lower cost-effectiveness than our benchmark charities.\n",
+  "whyTags": "Dementia",
+  "UNSDG": "3",
+  "hideImpact": false,
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-5437312902632436970.jpg",
+  "@id": "dementia-uk",
+  "summaryDescription": "Dementia UK provides specialist support for people facing dementia.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-18307860150519979530.jpg",
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Dementia UK",
+    "Dementia UK",
+    "dementia-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "dementia-uk",
+      "name": "beneficiaries (singular: beneficiary) reached directly",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 744700,
+        "value": "74.47",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.dementiauk.org/",
+  "howTags": "Direct Work, Research, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "beneficiaries (singular: beneficiary) reached directly",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 744700,
+      "value": "74.47",
+      "name": ""
+    }
+  },
+  "name": "Dementia UK",
+  "lastModified": "2020-08-29T17:52:08Z",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "1039404",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
