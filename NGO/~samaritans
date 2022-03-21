@@ -480,7 +480,8 @@
           "value": 7606000.0
         }
       ],
-      "name": "Service"
+      "name": "Service",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -635,14 +636,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "mental health help sessions (singular: session)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 40000,
-      "value": "4.0"
-    }
+    "name": "No Outputs! for project Project[Service 2021.0]"
   },
   "meta": {
     "scotlandCharityRegNum": {
@@ -689,5 +683,5 @@
   "englandWalesCharityRegNum": "219432",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, Ireland",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
