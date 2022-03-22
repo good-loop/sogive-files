@@ -1,9 +1,13 @@
 {
+  "notes": "",
   "@type": "NGO",
-  "name": "She\u0027s The Fi",
-  "id": "shes-the-first",
+  "displayName": "family-fund-trust",
+  "name": "Family Fund Trust",
+  "id": "family-fund-trust",
   "suggest": [
-    "She\u0027s The Fi"
+    "Family Fund Trust",
+    "family-fund-trust"
   ],
+  "url": "https://www.familyfund.org.uk/",
   "status": "DRAFT"
 }
