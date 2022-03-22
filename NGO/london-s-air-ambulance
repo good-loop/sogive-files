@@ -1,0 +1,447 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/Helicopter-11856315256010344867.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 4251.0,
+          "meta": {
+            "all": {
+              "notes": "The charity conducted 628 helicopter missions,  908 car missions, and 2,715 PRU treatments for a total of 4,251 patients. using the charitable expenditure (£4,775,526) instead of annual cost (and subtracting out the trading cost) as the numerator, this averages out to £1,040 per patient"
+            }
+          },
+          "name": "missions (singular: mission) conducted",
+          "description": "Missions include both helicopter and car missions, including those undertaken by the Physician Response Unit",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1040",
+            "currency": "",
+            "value100p": 1.04E7,
+            "value": 1040.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9239114",
+          "currency": "GBP",
+          "value100p": 9.239114E10,
+          "value": 9239114.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "354536",
+          "currency": "GBP",
+          "value100p": 3.54536E9,
+          "value": 354536.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs: \"lottery and retail shop\" on pg. 48"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "10922454",
+        "currency": "",
+        "value100p": 1.0922454E11,
+        "value": 1.0922454E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1132925",
+          "currency": "GBP",
+          "value100p": 1.132925E10,
+          "value": 1132925.0
+        }
+      ],
+      "name": "Helicopter maintenance"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1139088",
+          "currency": "GBP",
+          "value100p": 1.139088E10,
+          "value": 1139088.0
+        }
+      ],
+      "name": "Direct helicopter costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "307712",
+          "currency": "GBP",
+          "value100p": 3.07712E9,
+          "value": 307712.0
+        }
+      ],
+      "name": "Fire-fighters cost"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "98574",
+          "currency": "GBP",
+          "value100p": 9.8574E8,
+          "value": 98574.0
+        }
+      ],
+      "name": "Vehicle leasing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "250340",
+          "currency": "GBP",
+          "value100p": 2.5034E9,
+          "value": 250340.0
+        }
+      ],
+      "name": "Direct vehicle costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "95948",
+          "currency": "GBP",
+          "value100p": 9.5948E8,
+          "value": 95948.0
+        }
+      ],
+      "name": "Consultancy fees"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "136699",
+          "currency": "GBP",
+          "value100p": 1.36699E9,
+          "value": 136699.0
+        }
+      ],
+      "name": "Institute costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "494032",
+          "currency": "GBP",
+          "value100p": 4.94032E9,
+          "value": 494032.0
+        }
+      ],
+      "name": "Other related costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1120208",
+          "currency": "GBP",
+          "value100p": 1.120208E10,
+          "value": 1120208.0
+        }
+      ],
+      "name": "Support costs"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "description": "The charity provide pre-hospital care through emergency transportation, via helicopters (during daylight hours) and rapid response cars (during night or adverse weather conditions). They also provide training, research and education in pre-hospital medicine",
+  "recommendation": "**Summary**\n\n**To assign a firm rating to London’s Air Ambulance Charity under the SoGive rating methodology, we would need more information**\n\n- London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London\n- The charity provide pre-hospital care through emergency transportation, via helicopters (during daylight hours) and rapid response cars (during night or adverse weather conditions)\n- They also provide training, research and education in pre-hospital medicine\n- We do not have enough information about benefit provided per person reached and therefore cannot form a confident opinion about London’s Air Ambulance’s cost-effectiveness\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what London’s Air Ambulance does - how they spend your donations**\n\nLondon’s Air Ambulance’s [2021 Annual Report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11386745\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d801013) outlines the details of the £9.2 million that they spent during their fiscal year.\n\nLondon’s Air Ambulance utilises both a Helicopter Emergency Medical Service (HEMS) Trauma Service and a Physician Response Unit (PRU) to treat patients, the majority of whom suffer from serious injuries such as penetrating trauma (stabbings \u0026 shootings), falls, and traffic incidents. HEMS includes their fleet of two helicopters but also includes their three rapid response cars, used after sunset and during adverse weather conditions. The PRU consists of two cars carrying advanced medication and equipment usually only found in hospitals, which treat patients without the need to admit them to emergency departments.\n\nHelicopter air ambulances have several advantages over land ambulances, including faster travel time and a wider coverage area, as long as they have an 80 feet by 80 feet area to land.\n\n**Cost-effectiveness analysis - how does London’s Air Ambulance compare to the most cost-effective charities?**\n\nAfter a review of the work of London’s Air Ambulance under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nIn the financial year ended March 31st, 2021, the charity conducted 628 helicopter missions,  908 car missions, and 2,715 PRU treatments for a total of 4,251 patients, averaging out to £1,040 per patient. The cost of maintaining helicopters is 8x that of their rapid response cars, so we expect that most of this average cost is attributed to air missions, but we do not have the exact breakdown of expenses.\n\nBecause of strict data and patient confidentiality restrictions, London’s Air Ambulance has stated that they are unable to quantify the exact impact and contribution they make to the outcome of their patients. However, they note that their PRU was able to treat 74% of patients without conveying them to an emergency department.\n\nIn order for London’s Air Ambulance to meet the SoGive Gold Standard, we would have to believe that the benefit that a patient receives from their emergency transportation is sufficiently large compared to the cost. Quantitatively, this means we would have to expect at least one life saved per five missions that would not have been saved with normal emergency services. We do not know when air ambulances are utilised as opposed to a normal emergency service, but a more in-depth analysis would explore whether an air service is needed within the boundaries of a densely populated city, where normal ambulances would likely reach patients quickly and are more flexible without needing an 80 feet by 80 feet landing area. Because of the reasons above, SoGive is unable to determine whether the helicopter service has comparable impact to a Gold Standard charity.\n\nLondon’s Air Ambulance also utilises five ground vehicles as a part of their fleet, but we are unable to determine the total cost of running this service. In a follow-up analysis, we would address these shortcomings, explore whether this type of work should be philanthropically funded and why it is not paid for by the UK National Health Service, and review the academic literature regarding whether or not air ambulances generally lead to better health outcomes for patients when compared to ground vehicles.\n\nOverall, we could not gather enough information to perform a detailed analysis or form opinions about London’s Air Ambulance’s work under the SoGive methodology.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nWe cannot conclude based on the information we currently have whether London’s Air Ambulance has a comparable cost-effectiveness to SoGive benchmark charities.\n\nFurther information that would enable us to form a fuller opinion of their work would be:\n(a) more comprehensive picture of the costs involved in their other programs\n(b) more comprehensive impact assessments, both in quantity and depth\n",
+  "suggest": [
+    "London\u0027s Air Ambulance",
+    "london-s-air-ambulance"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "london-s-air-ambulance",
+      "name": "missions (singular: mission) conducted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 10400000,
+        "value": "1040.0",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.londonsairambulance.org.uk/",
+  "whyTags": "First Aid, Research, Saving Lives",
+  "howTags": "Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "missions (singular: mission) conducted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 10400000,
+      "value": "1040.0",
+      "name": ""
+    }
+  },
+  "name": "London\u0027s Air Ambulance",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-10174190964542362292.jpg",
+  "@id": "london-s-air-ambulance",
+  "englandWalesCharityRegNum": "801013",
+  "summaryDescription": "London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London",
+  "uk_giftaid": true,
+  "whereTags": "London",
+  "status": "DRAFT"
+}
