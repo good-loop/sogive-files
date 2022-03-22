@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC016283",
+  "images": "https://media.good-loop.com/uploads/standard/BGCI-17201406814061221403.png",
+  "@type": "NGO",
+  "name": "The Botanical Society Of Scotland SCIO",
+  "logo": "https://media.good-loop.com/uploads/standard/BGCI-519642478190110588.png",
+  "@id": "the-botanical-society-of-scotland-scio",
+  "suggest": [
+    "The Botanical Society Of Scotland SCIO",
+    "the-botanical-society-of-scotland-scio"
+  ],
+  "url": "www.botanical-society-scotland.org.uk",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
