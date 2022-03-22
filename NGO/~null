@@ -1,12 +1,5 @@
 {
-  "notes": "McCain",
   "@type": "NGO",
-  "displayName": "family-fund-trust",
-  "name": "Family Fund Trust",
-  "id": "family-fund-trust",
-  "suggest": [
-    "Family Fund Trust",
-    "family-fund-trust"
-  ],
-  "status": "DRAFT"
+  "id": "shes-the-first",
+  "suggest": []
 }
