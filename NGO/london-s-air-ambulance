@@ -436,6 +436,7 @@
       "name": ""
     }
   },
+  "ready": true,
   "name": "London\u0027s Air Ambulance",
   "logo": "https://media.good-loop.com/uploads/raw/logo-10174190964542362292.jpg",
   "@id": "london-s-air-ambulance",
@@ -443,5 +444,5 @@
   "summaryDescription": "London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London",
   "uk_giftaid": true,
   "whereTags": "London",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
