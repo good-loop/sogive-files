@@ -1,0 +1,16 @@
+{
+  "scotlandCharityRegNum": "SC024843",
+  "@type": "NGO",
+  "displayName": "The Food Train",
+  "name": "Food Train",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-903217117-7863019613607436304.png#ccrop:87",
+  "@id": "food-train",
+  "suggest": [
+    "Food Train",
+    "The Food Train",
+    "food-train"
+  ],
+  "url": "www.thefoodtrain.co.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
