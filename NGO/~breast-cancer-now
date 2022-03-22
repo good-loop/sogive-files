@@ -307,8 +307,8 @@
   "images": "https://www.breastcancercare.org.uk/sites/default/files/styles/750x425/public/campaign_images/how-your-support-helps.jpg?itok\u003dlHrwycze",
   "noPublicDonations": false,
   "parentCharity": "9347608",
-  "impact": "more-info-needed",
-  "confidence": "low",
+  "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "Breast Cancer Now",
     "Breast Cancer Now",
@@ -353,5 +353,5 @@
   "englandWalesCharityRegNum": "1160558",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
