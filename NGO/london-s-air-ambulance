@@ -11,7 +11,7 @@
             }
           },
           "name": "patient(s) helped",
-          "description": "Missions include both helicopter and car missions, including those undertaken by the Physician Response Unit",
+          "description": "This includes patients treated by helicopter and car missions, including those undertaken by the Physician Response Unit",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -444,5 +444,5 @@
   "summaryDescription": "London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London",
   "uk_giftaid": true,
   "whereTags": "London",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
