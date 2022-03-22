@@ -11,7 +11,7 @@
             }
           },
           "name": "patient(s) helped",
-          "description": "Missions include both helicopter and car missions, including those undertaken by the Physician Response Unit",
+          "description": "This includes patients treated both helicopter and car missions, including those undertaken by the Physician Response Unit",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
