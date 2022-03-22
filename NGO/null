@@ -1,12 +1,14 @@
 {
+  "notes": "",
   "@type": "NGO",
-  "displayName": "She\u0027s The First",
-  "name": "She\u0027s The First",
-  "logo": "https://media.good-loop.com/uploads/standard/download_3-12321598622662816363.png",
-  "id": "shes-the-first",
+  "displayName": "family-fund-trust",
+  "name": "Family Fund Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/Family-Fund-Logo-17779794507729568351.jpg#ccrop:90",
+  "id": "family-fund-trust",
   "suggest": [
-    "She\u0027s The First",
-    "She\u0027s The First"
+    "Family Fund Trust",
+    "family-fund-trust"
   ],
+  "url": "https://www.familyfund.org.uk/",
   "status": "DRAFT"
 }
