@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "She\u0027s The Fi",
   "id": "shes-the-first",
-  "suggest": []
+  "suggest": [
+    "She\u0027s The Fi"
+  ],
+  "status": "DRAFT"
 }
