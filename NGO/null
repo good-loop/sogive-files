@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "KIK Network",
-  "logo": "https://media.good-loop.com/uploads/standard/sitelogo-17287120179162862552.png#ccrop:95",
-  "id": "kik-network",
+  "displayName": "She\u0027s The First",
+  "name": "She\u0027s The First",
+  "logo": "https://media.good-loop.com/uploads/standard/download_3-12321598622662816363.png",
+  "id": "shes-the-first",
   "suggest": [
-    "KIK Network"
+    "She\u0027s The First",
+    "She\u0027s The First"
   ],
-  "url": "https://www.kikonet.org/",
   "status": "DRAFT"
 }
