@@ -3,12 +3,12 @@
   "@type": "NGO",
   "displayName": "family-fund-trust",
   "name": "Family Fund Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/ff-logo-transparent-3453537568169423886.png#ccrop:96",
+  "logo": "https://media.good-loop.com/uploads/standard/ff-logo-transparent-3453537568169423886.png#ccrop:75",
   "id": "family-fund-trust",
   "suggest": [
     "Family Fund Trust",
     "family-fund-trust"
   ],
   "url": "https://www.familyfund.org.uk/",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
