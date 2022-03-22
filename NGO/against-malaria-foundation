@@ -201,7 +201,7 @@
           },
           "confidence": "high",
           "name": "malaria nets (singular: net)",
-          "description": "This number refers to the amount of LLINs purchased by AMF, not the amount distributed and monitored. ",
+          "description": "",
           "costPerBeneficiary": {
             "@type": "Money",
             "raw": "3.85",
@@ -356,5 +356,5 @@
   "suggestedDonations": [
     {}
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
