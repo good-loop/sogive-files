@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Direct Reli",
   "logo": "https://media.good-loop.com/uploads/standard/download_4-10493022355870264147.png",
   "id": "direct-relief",
-  "suggest": [],
+  "suggest": [
+    "Direct Reli"
+  ],
   "status": "DRAFT"
 }
