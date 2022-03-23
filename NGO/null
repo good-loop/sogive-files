@@ -1,14 +1,12 @@
 {
-  "notes": "",
   "@type": "NGO",
-  "displayName": "family-fund-trust",
-  "name": "Family Fund Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/Family-Fund-Logo-3145513983437560401.jpg#ccrop:94",
-  "id": "family-fund-trust",
+  "displayName": "Direct Relief",
+  "name": "Direct Relief",
+  "logo": "https://media.good-loop.com/uploads/standard/download_4-10493022355870264147.png",
+  "id": "direct-relief",
   "suggest": [
-    "Family Fund Trust",
-    "family-fund-trust"
+    "Direct Relief",
+    "Direct Relief"
   ],
-  "url": "https://www.familyfund.org.uk/",
   "status": "DRAFT"
 }
