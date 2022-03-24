@@ -1,12 +1,12 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/gendercool-champions-outandequal-scaled-5574381377682708002.jpg",
   "@type": "NGO",
-  "displayName": "123 Test",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/c65232d66c23b9a1924665956ede7347-6930187497853530878.jpg#ccrop:90",
-  "id": "123-test",
+  "displayName": "The Gender Cool Project",
+  "logo": "https://media.good-loop.com/uploads/standard/GenderCoolIcon-14091028468456160000.png#ccrop:70",
+  "id": "the-gender-cool-project",
   "suggest": [
-    "123 Test"
+    "The Gender Cool Project"
   ],
-  "url": "",
-  "status": "MODIFIED"
+  "url": "https://gendercool.org/",
+  "status": "DRAFT"
 }
