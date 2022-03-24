@@ -1,18 +1,23 @@
 {
-  "images": "",
+  "images": "https://media.good-loop.com/uploads/raw/surfer-plastic_1-1627486376270664103.png",
+  "circleCrop": 80.0,
   "@type": "NGO",
   "displayName": "Surfers Against Sewage",
-  "name": "surfers",
-  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
-  "@id": "surfers",
+  "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
   "suggest": [
-    "surfers",
+    "Surfers Against Sewage",
     "Surfers Against Sewage",
     "surfers"
   ],
-  "id": "surfers",
-  "summaryDescription": "We’re a community dedicated to the protection of oceans, waves, beaches and wildlife. We fight long and hard to protect what we love and we won’t stop until it’s completely clean, safe and protected for everyone, forever. From humble beginnings in Porthtowan Village Hall in 1990, we’ve stayed close to our roots and continue to be based just up the road at our St Agnes HQ where we can keep an eye on the sea. Just 20 of us work in the office full time, but it’s really thanks to people like you who support our work through membership donations, volunteering, signing petitions, buying from our shop and spreading the word that allows our impact to be widely felt.",
-  "englandWalesCharityRegNum": "1145877",
   "url": "https://www.sas.org.uk/",
+  "UNSDG": "14",
+  "name": "Surfers Against Sewage",
+  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
+  "@id": "surfers",
+  "id": "surfers",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "summaryDescription": "Surfers Against Sewage is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes and Porthtowan on the north coast of Cornwall. ",
+  "englandWalesCharityRegNum": "1145877",
   "status": "DRAFT"
 }
