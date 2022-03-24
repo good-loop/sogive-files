@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
   "displayName": "123 Test",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/c65232d66c23b9a1924665956ede7347-6930187497853530878.jpg#ccrop:90",
   "id": "123-test",
   "suggest": [
     "123 Test"
   ],
   "url": "",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
