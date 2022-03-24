@@ -1,6 +1,7 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/surfer-plastic_1-1627486376270664103.png",
   "circleCrop": 80.0,
+  "color": "#42c5e2",
   "@type": "NGO",
   "displayName": "Surfers Against Sewage",
   "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
@@ -13,6 +14,7 @@
   "UNSDG": "14",
   "name": "Surfers Against Sewage",
   "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
+  "txtColor": "#0a0a0a",
   "@id": "surfers",
   "id": "surfers",
   "category": "environment",
