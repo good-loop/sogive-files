@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "The Gender Cool Project",
   "id": "the-gender-cool-project",
-  "suggest": []
+  "suggest": [
+    "The Gender Cool Project"
+  ],
+  "status": "DRAFT"
 }
