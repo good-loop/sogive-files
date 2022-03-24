@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Nature Recovery Fund",
   "id": "nature-recovery-fund",
-  "suggest": []
+  "suggest": [
+    "Nature Recovery Fund"
+  ],
+  "status": "DRAFT"
 }
