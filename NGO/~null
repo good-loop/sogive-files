@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Nature Recovery Fund",
-  "id": "nature-recovery-fund",
-  "suggest": [
-    "Nature Recovery Fund"
-  ],
-  "url": "",
-  "status": "DRAFT"
+  "id": "the-gender-cool-project",
+  "suggest": []
 }
