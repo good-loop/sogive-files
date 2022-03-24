@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Direct Relief",
-  "name": "Direct Relief",
-  "logo": "https://media.good-loop.com/uploads/standard/Direct__Relief__logo-10659074969795560263.jpg#ccrop:98",
-  "id": "direct-relief",
+  "displayName": "123 Test",
+  "logo": "https://media.good-loop.com/uploads/standard/c65232d66c23b9a1924665956ede7347-6930187497853530878.jpg#ccrop:90",
+  "id": "123-test",
   "suggest": [
-    "Direct Relief",
-    "Direct Relief"
+    "123 Test"
   ],
+  "url": "",
   "status": "DRAFT"
 }
