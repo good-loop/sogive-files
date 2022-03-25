@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Sydney Wildlife Rescue",
-  "name": "Sydney Wildlife Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-10655515284744684464.jpg",
-  "id": "wallaby",
+  "displayName": "RED NOSE DAY",
+  "name": "RED NOSE DAY",
+  "logo": "https://media.good-loop.com/uploads/standard/RED_NOSE_DAY-9913452172227611525.jpg#ccrop:125",
+  "id": "rnd",
   "suggest": [
-    "Sydney Wildlife Rescue",
-    "Sydney Wildlife Rescue"
+    "RED NOSE DAY",
+    "RED NOSE DAY"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
