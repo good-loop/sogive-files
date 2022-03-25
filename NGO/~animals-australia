@@ -54,7 +54,7 @@
   "@type": "NGO",
   "displayName": "WWF Australia",
   "name": "WWF Australia",
-  "logo": "https://media.good-loop.com/uploads/standard/wwf_australia-16388467115145897068.png#ccrop:89",
+  "logo": "https://media.good-loop.com/uploads/standard/wwf_australia-16388467115145897068.png#ccrop:80",
   "@id": "animals-australia",
   "suggest": [
     "WWF Australia",
@@ -62,5 +62,5 @@
     "animals-australia"
   ],
   "whyTags": "Animals",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
