@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Save The Wallaby",
+  "displayName": "",
   "name": "Sydney Wildlife Rescue",
   "logo": "https://media.good-loop.com/uploads/standard/wallabies-11444167221666769493.png#ccrop:115",
   "id": "wallaby",
   "suggest": [
     "Sydney Wildlife Rescue",
-    "Save The Wallaby"
+    ""
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
