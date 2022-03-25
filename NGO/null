@@ -1,12 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/gendercool-champions-outandequal-scaled-5574381377682708002.jpg",
   "@type": "NGO",
-  "displayName": "The Gender Cool Project",
-  "logo": "https://media.good-loop.com/uploads/standard/GenderCoolIcon-14091028468456160000.png#ccrop:70",
-  "id": "the-gender-cool-project",
+  "displayName": "Save The Wallaby",
+  "name": "Save The Wallaby",
+  "logo": "https://media.good-loop.com/uploads/standard/wallabies-11444167221666769493.png#ccrop:115",
+  "id": "wallaby",
   "suggest": [
-    "The Gender Cool Project"
+    "Save The Wallaby",
+    "Save The Wallaby"
   ],
-  "url": "https://gendercool.org/",
   "status": "DRAFT"
 }
