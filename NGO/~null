@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Save The Wallaby",
   "name": "Save The Wallaby",
   "id": "wallaby",
   "suggest": [
+    "Save The Wallaby",
     "Save The Wallaby"
   ],
   "status": "DRAFT"
