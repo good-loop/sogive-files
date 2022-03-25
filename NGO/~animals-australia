@@ -52,9 +52,11 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "WWF Australia",
   "name": "WWF Australia",
   "@id": "animals-australia",
   "suggest": [
+    "WWF Australia",
     "WWF Australia",
     "animals-australia"
   ],
