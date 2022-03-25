@@ -1102,8 +1102,8 @@
     {
       "outputs": [
         {
-          "number": 6224.0,
-          "name": "family-centred support",
+          "number": "",
+          "name": "",
           "description": "emotional support, positive changes using a tool to promote units to self-audit and become more family-centred;  campaigning; funding research"
         }
       ],
@@ -1351,13 +1351,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "bliss-the-national-charity-for-the-newborn",
-      "name": "family-centred support",
+      "name": "",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 2885059,
-        "value": "288.50594473007709257212"
+        "value100p": 17956610000,
+        "value": "1795661"
       },
       "n": 1.0
     }
@@ -1368,13 +1368,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "family-centred support",
+    "name": "",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 2885059,
-      "value": "288.50594473007709257212"
+      "value100p": 17956610000,
+      "value": "1795661"
     }
   },
   "whoTags": "Premature babies",
