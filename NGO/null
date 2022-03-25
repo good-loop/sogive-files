@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Save The Wallaby",
-  "name": "Save The Wallaby",
-  "logo": "https://media.good-loop.com/uploads/standard/wallabies-11444167221666769493.png#ccrop:115",
-  "id": "wallaby",
+  "displayName": "Australian Conservation Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/download_30-13976947173752004486.png",
+  "id": "australian-conservation-foundation",
   "suggest": [
-    "Save The Wallaby",
-    "Save The Wallaby"
+    "Australian Conservation Foundation"
   ],
-  "status": "DRAFT"
+  "url": "https://www.acf.org.au/",
+  "status": "MODIFIED"
 }
