@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Australian Conservation Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/download_30-13976947173752004486.png",
-  "id": "australian-conservation-foundation",
+  "displayName": "Sydney Wildlife Rescue",
+  "name": "Sydney Wildlife Rescue",
+  "logo": "https://media.good-loop.com/uploads/standard/download_2-10655515284744684464.jpg",
+  "id": "wallaby",
   "suggest": [
-    "Australian Conservation Foundation"
+    "Sydney Wildlife Rescue",
+    "Sydney Wildlife Rescue"
   ],
-  "url": "https://www.acf.org.au/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
