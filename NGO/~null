@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Sydney Wildlife Rescue",
-  "name": "Sydney Wildlife Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-10655515284744684464.jpg",
-  "id": "wallaby",
+  "displayName": "Gurls Talk",
+  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.pnga",
+  "id": "gurls-talk",
   "suggest": [
-    "Sydney Wildlife Rescue",
-    "Sydney Wildlife Rescue"
+    "Gurls Talk"
   ],
-  "status": "DRAFT"
+  "url": "https://www.gurlstalk.com/",
+  "status": "PUBLISHED"
 }
