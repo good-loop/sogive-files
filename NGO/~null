@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
   "displayName": "St Mungo\u0027s Homelessness Charity",
-  "name": "St Mungo\u0027s",
+  "unlisted": true,
+  "name": "St Mungo\u0027s Homelessness Charity",
   "id": "st-mungos-homelessness",
   "suggest": [
-    "St Mungo\u0027s",
+    "St Mungo\u0027s Homelessness Charity",
     "St Mungo\u0027s Homelessness Charity"
   ],
+  "url": "",
   "status": "DRAFT"
 }
