@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Gurls Talk",
-  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
-  "id": "gurls-talk",
-  "suggest": [
-    "Gurls Talk"
-  ],
-  "url": "https://www.gurlstalk.com/",
-  "status": "MODIFIED"
+  "id": "st-mungos-homelessness",
+  "suggest": []
 }
