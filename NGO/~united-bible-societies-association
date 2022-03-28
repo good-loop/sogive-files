@@ -312,7 +312,7 @@
   "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/UBS__logo__std__colour-CMYK__onwhite-14882974509108176318.jpg",
   "@id": "united-bible-societies-association",
   "wikipedia": "https://en.wikipedia.org/wiki/United_Bible_Societies",
-  "summaryDescription": "The United Bible Societies Association (UBS) objective is \"to promote, in the interests of the public benefit, the widest possible effective distribution and use of the Bible or any parts thereof throughout the world, including the translation into any language or languages, printing and publication of the Bible or any part of the Bible\".",
+  "summaryDescription": "The United Bible Societies Association\u0027s (UBS) objective is \"to promote, in the interests of the public benefit, the widest possible effective distribution and use of the Bible or any parts thereof throughout the world, including the translation into any language or languages, printing and publication of the Bible or any part of the Bible\".",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/Who-we-are1-13225186646657563381.jpg",
   "noPublicDonations": false,
@@ -347,5 +347,5 @@
   "englandWalesCharityRegNum": "800058",
   "whereTags": "Global",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
