@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "St Mungo\u0027s Homelessness Charity",
+  "name": "St Mungo\u0027s",
   "id": "st-mungos-homelessness",
-  "suggest": []
+  "suggest": [
+    "St Mungo\u0027s",
+    "St Mungo\u0027s Homelessness Charity"
+  ],
+  "status": "DRAFT"
 }
