@@ -1,0 +1,133 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/siblingstogether-6407397405214840593.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 183.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "children (singular: child) supported",
+          "start": "2014-12-01T00:00:00Z",
+          "description": "This refers to children supported to spend more time with a sibling, despite being in care and living separately from each other",
+          "end": "2015-11-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-12-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-11-30T00:00:00Z",
+          "value100p": 2.45487E9,
+          "value": 245487.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-12-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-11-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-12-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-11-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3112000.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-12-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-11-30T00:00:00Z",
+          "value": 31120.0
+        }
+      ],
+      "start": "2014-12-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends78/0001137278_AC_20151130_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "I allowed the contributions from local authority to adjust the cost per beneficiary ratio because the local authority does have a direct responsibility and vested interest in looked-after children. (I was actually quite surprised that so little money came from them)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-11-30T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Siblings Together",
+    "siblings-together"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "siblings-together",
+      "name": "children (singular: child) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 11714043,
+        "value": "1171.40437158469947698"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Care/fostering/adoption",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 11714043,
+      "value": "1171.40437158469947698"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Siblings Together",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/siblings-10361199463325191971.png",
+  "@id": "siblings-together",
+  "summaryDescription": "Siblings Together aim to help young people in care initiate and continue to have contact with their siblings, helping them to develop strong family bonds",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
