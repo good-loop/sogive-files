@@ -1,0 +1,114 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/createarts-14676070526196100130.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2151.0,
+          "@type": "Output",
+          "name": "people (singular: person) doing arts activities",
+          "description": "This refers to people from disadvantaged backgrounds (including children in areas of deprivation, vulnerable older people, offenders, sex workers, and homeless people) supported to take part in arts workshops and activities",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 7.19776E9,
+          "value": 719776.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends33/0001099733_AC_20160331_E_C.PDF"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Income from charitable activities is not \"from charitable activities\" as per SoGive definition",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Create Arts",
+    "create-arts"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "create-arts",
+      "name": "people (singular: person) doing arts activities",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3346238,
+        "value": "334.62389586238957256288"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Arts, prison, disabilities",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) doing arts activities",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3346238,
+      "value": "334.62389586238957256288"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Create Arts",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/cropped-cropped-CREATE-ARTS-CHARITY-1-14764515271979703719.png",
+  "@id": "create-arts",
+  "summaryDescription": "Create uses the creative arts to transform lives. Priority beneficiary groups are: carers, children in hospital, older people, people with disabilities \u0026 prisoners.",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
