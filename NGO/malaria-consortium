@@ -1,0 +1,453 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1112330.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: This data was found from financial account statements attached and recommended with GiveWell"
+            }
+          },
+          "confidence": "medium",
+          "name": "number of children reached",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.214762E8,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 1214762.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://files.givewell.org/files/DWDA%202009/Malaria%20Consortium/Cost_analysis_SMC_project_Katsina_Nigeria.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "seasonal malarial chemoprevention",
+      "analyst": "Shivani",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "http://www.malariaconsortium.org/resources/photo-library",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.662E10,
+          "value": 4662000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.16E9,
+          "value": 116000.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends76/0001099776_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Kevin",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "name": " children (singular: child) receiving SMC malaria treatment",
+          "description": "SMC (Seasonal Malaria Chemoprevention) focuses on 4 cycles of treatment (1 cycle\u003d 3 doses of the chemotherapeutic drug) along the 4 months when malaria is most prevalent. This refers to the cost required to complete all 4 cycles of treatment for the target cohort.",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "7.5",
+            "value100p": 75000.0,
+            "value": 7.5
+          }
+        },
+        {
+          "name": "death(s) averted for children aged under 5",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "3601.27",
+            "value100p": 3.60127E7,
+            "value": 3601.27
+          }
+        }
+      ],
+      "adjustmentComment": "We couldn\u0027t find the information we need from Malaria Consortium\u0027s own accounts and notes. Therefore, data taken from GiveWell.",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "12647000",
+          "value100p": 1.2647E11,
+          "value": 1.2647E7
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "description": "Seasonal malaria chemoprevention (SMC) involves giving children under the age of 5 full malaria treatment courses intermittently during the malaria season",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://docs.google.com/spreadsheets/d/1TZ-9eP0et9eYPRj2il4l1UCGS3xmqWarucW5UKQCBIU/edit#gid\u003d1537947274"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://docs.google.com/spreadsheets/d/1eERpxG-RQnoxFTy8wi_QsBA9awR4WBW7VuxqIZl3vQg/edit#gid\u003d928829444"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/cost-effectiveness-models"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Data re cost to treat one child (impact 1): Taken from Source 1 (Sheet: SMC, row 19 of https://docs.google.com/spreadsheets/d/1TZ-9eP0et9eYPRj2il4l1UCGS3xmqWarucW5UKQCBIU/edit#gid\u003d1537947274) describes the cost involved in providing all 4 cycles of the treatment plan to children aged under 5. Data re cost to avert the death of an under 5 child: Taken from Source 1 (Sheet: SMC, row 41 - SoGive calculated the median of the values in that row); this row describes the cost involved in averting one death in the cohort population by providing them with all 4 cycles of treatment. GiveWell\u0027s analysis also refers to \"developmental benefits\" -- i.e. the idea that children receiving SMC (treatment against malaria) will develop better through their childhood and therefore earn more in later life, however we have not included the quantification of this in SoGive\u0027s database",
+      "name": "seasonal malarial chemoprevention",
+      "analyst": "Shivani",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.malariaconsortium.org/media-downloads/861/Trustees%E2%80%99%20Report%20and%20Financial%20Statements%20For%20the%20Year%20to%2031%20March%202016"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "05836000",
+          "value": 5836000.0
+        }
+      ],
+      "name": "Guide policies"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.malariaconsortium.org/media-downloads/861/Trustees%E2%80%99%20Report%20and%20Financial%20Statements%20For%20the%20Year%20to%2031%20March%202016"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "10390000",
+          "value": 1.039E7
+        }
+      ],
+      "name": "Vector Control"
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "9788000",
+          "value": 9788000.0
+        }
+      ],
+      "name": "Case management"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.malariaconsortium.org/media-downloads/861/Trustees%E2%80%99%20Report%20and%20Financial%20Statements%20For%20the%20Year%20to%2031%20March%202016"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "2434000",
+          "value": 2434000.0
+        }
+      ],
+      "name": "Health systems"
+    }
+  ],
+  "@type": "NGO",
+  "whyTags": "Health, Children",
+  "ready": false,
+  "modified": true,
+  "logo": "http://www.malariaconsortium.org/website-2013/images_template/malaria_consortium_logo.png",
+  "@id": "malaria-consortium",
+  "wikipedia": "https://en.wikipedia.org/wiki/Malaria_Consortium",
+  "summaryDescription": "Malaria Consortium specialises in the prevention, treatment, and control of malaria and other communicable diseases in Africa and Asia",
+  "uptodatedraft": "probably",
+  "images": "http://www.malariaconsortium.org/gallery-image/width-1280/06290147-68-5g8a6417.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "suggest": [
+    "Malaria Consortium",
+    "malaria-consortium"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "malaria-consortium",
+      "name": " children (singular: child) receiving SMC malaria treatment",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 75000,
+        "value": "7.5"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "http://www.malariaconsortium.org/",
+  "howTags": "Direct Work",
+  "recommended": true,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": " children (singular: child) receiving SMC malaria treatment",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 75000,
+      "value": "7.5"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Malaria Consortium",
+  "englandWalesCharityRegNum": "1099776",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
