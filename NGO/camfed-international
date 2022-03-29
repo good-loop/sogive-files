@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 108000.0,
+          "@type": "Output",
+          "name": "girl(s) educated",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 3.1294351E11,
+          "value": 3.1294351E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://camfed.org/media/uploads/files/Camfed_2013_Annual_Report.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Camfed",
+  "whyTags": "Education",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/camfed-6392329377792052261.jpg",
+  "@id": "camfed-international",
+  "wikipedia": "https://en.wikipedia.org/wiki/Camfed",
+  "summaryDescription": "Camfed is dedicated to eradicating poverty in Africa through the education of females and the empowerment of young women.",
+  "uptodatedraft": "probably",
+  "images": "",
+  "noPublicDonations": false,
+  "suggest": [
+    "Camfed international",
+    "Camfed",
+    "camfed-international"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "camfed-international",
+      "name": "girl(s) educated",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2897625,
+        "value": "289.762509259259251145909"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://camfed.org/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "girl(s) educated",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2897625,
+      "value": "289.762509259259251145909"
+    }
+  },
+  "whoTags": "Women",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Camfed international",
+  "englandWalesCharityRegNum": "1029161",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
