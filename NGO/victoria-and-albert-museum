@@ -151,7 +151,7 @@
   "@id": "victoria-and-albert-museum",
   "id": "victoria-and-albert-museum",
   "wikipedia": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
-  "summaryDescription": "The Victoria and Albert Museum (V\u0026A) mission is \"to be recognised as the world’s leading museum of art, design and performance, and to enrich people’s lives by promoting research, knowledge and enjoyment of the designed world to the widest possible audience\".",
+  "summaryDescription": "The Victoria and Albert Museum\u0027s (V\u0026A) mission is \"to be recognised as the world’s leading museum of art, design and performance, and to enrich people’s lives by promoting research, knowledge and enjoyment of the designed world to the widest possible audience\".",
   "noPublicDonations": false,
   "impact": "low",
   "confidence": "high",
@@ -209,5 +209,5 @@
   "category": "arts culture humanities",
   "subcategory": "Museums",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
