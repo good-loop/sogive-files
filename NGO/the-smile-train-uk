@@ -1,0 +1,673 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 128013.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-07-01T00:00:00Z",
+          "end": "2014-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.25967866E10,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 1.25967866E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.smiletrain.org/assets/pdfs/2014-annual-report.pdf"
+        },
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends48/0001114748_AC_20140630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Interestingly, the accounts state that the surgery \"can\" cost as little as $250. However. taking the crude approach of total cost divided by number of beneficiaries indicates an average cost in excess of $1000. Admittedly, this cost includes other things such as supporting doctors overseas, providing training and writing free articles. It would be good to know a cost breakdown for this, but this level of info is not available in the annual report. Perhaps need to contact charity to get more info about this?",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.07968646E12,
+          "value": 2.07968646E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/Smile%20Train%20Annual%20Report%2C%20FY15%2C%20Final.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/about/financials"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 100000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "surgeries (singular: surgery) performed",
+          "start": "2014-07-01T00:00:00Z",
+          "description": "Smile Train provides corrective surgery for children with cleft lips and palates",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Smile%20train%20Osawa.PNG?raw\u003dtrue",
+      "stories": "At six years old, Osawa Owiti already faced more than his fair share of hardships. Born in a remote village in Tanzania, he was the only child his fellow villagers had known to be born with a cleft. Even relatives treated Osawa differently. He became painfully shy and never laughed, so to not draw attention to his cleft lip.\r\nHis mother was also subject to tremendous criticism, unjustly blamed by her in-laws for Osawa\u0027s cleft. The family of six, including his father and three siblings, persevered, remaining close despite the stigma surrounding Osawa.\r\nThanks to Smile Train donors and the skilled surgeons at Comprehensive Community Based Rehabilitation Hospital in Tanzania, Osawa received the life changing cleft surgery that he so desperately needed.\nAfter the surgery Osawa\u0027s mother stated, \"My husband and I are forever grateful to Smile Train and its supporters for giving Osawa not just a new smile, but a fresh start at a life with opportunities.\"",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "2015 accounts, p4: https://www.smiletrain.org/sites/default/files/Smile%20Train%20Annual%20Report%2C%20FY15%2C%20Final.pdf",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 1.90057941E12,
+          "value": 1.90057941E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/Smile%20Train%20Annual%20Report%2C%20FY15%2C%20Final.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy15_0.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "treatment",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.822996E10,
+          "value": 2822996.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/Smile%20Train%20Annual%20Report%2C%20FY15%2C%20Final.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy15_0.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "training",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 1.5087709E11,
+          "value": 1.5087709E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/Smile%20Train%20Annual%20Report%2C%20FY15%2C%20Final.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy15_0.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "public education",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "118511430",
+          "currency": "GBP",
+          "value100p": 1.1851143E12,
+          "value": 1.1851143E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.4 audit report. \nExchange rate $1 to 0.76pounds. "
+        },
+        "reserves": {
+          "notes": "p.3 audit report. \nExchange rate $1 to 0.76pounds. "
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "24043857",
+        "currency": "GBP",
+        "value100p": 2.4043857E11,
+        "value": 2.4043857E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 110000.0,
+          "meta": {
+            "all": {
+              "notes": "p.4 annual report"
+            }
+          },
+          "confidence": "medium",
+          "name": "cleft surgeries (singular: surgery) performed ",
+          "description": "This refers to corrective surgery for children with cleft lips and palates. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/smile_train_fy19_annual_report.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "61281066",
+          "currency": "GBP",
+          "value100p": 6.1281066E11,
+          "value": 6.1281066E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.4 audit report. \nExchange rate $1 to 0.76pounds. "
+        },
+        "isRep": {
+          "notes": "Over 80% of costs. "
+        }
+      },
+      "name": "Treatment ",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1346972",
+          "currency": "GBP",
+          "value100p": 1.346972E10,
+          "value": 1346972.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.4 audit report. \nExchange rate $1 to 0.76pounds. "
+        }
+      },
+      "name": "Training"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.smiletrain.org/sites/default/files/financial-audit-fy19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "18452179",
+          "currency": "GBP",
+          "value100p": 1.8452179E11,
+          "value": 1.8452179E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.4 audit report. \nExchange rate $1 to 0.76pounds. "
+        }
+      },
+      "name": "Public Education"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "SmileTrain",
+  "description": "[Smile Train](https://www.smiletrain.org/our-cause) performs corrective surgery on children with cleft lip and palate. Smile Train also provides post-surgery services such as speech therapy and nutrition services, provides training for cleft surgeons, and raises awareness through public service announcements. ",
+  "whyTags": "Health",
+  "ready": false,
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Smile_train_logo14.png?raw\u003dtrue",
+  "@id": "the-smile-train-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Smile_Train",
+  "summaryDescription": "[Smile Train](https://www.smiletrain.org/our-cause) works in countries around the world to tackle cleft lip and palate.  ",
+  "uptodatedraft": "probably",
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Smile%20train%20Osawa.PNG?raw\u003dtrue",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "The Smile Train UK",
+    "SmileTrain",
+    "the-smile-train-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-smile-train-uk",
+      "name": "cleft surgeries (singular: surgery) performed ",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5571006,
+        "value": "557.100600000000005571006"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.smiletrain.org/our-cause",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "cleft surgeries (singular: surgery) performed ",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 5571006,
+      "value": "557.100600000000005571006"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "The Smile Train UK",
+  "lastModified": "2020-11-14T13:55:30Z",
+  "englandWalesCharityRegNum": "1114748",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
