@@ -1,14 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "St Mungo\u0027s Homelessness Charity",
-  "unlisted": true,
-  "name": "St Mungo\u0027s Homelessness Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/StMsSquare-7857014941162709078.png",
-  "id": "st-mungos-homelessness",
-  "suggest": [
-    "St Mungo\u0027s Homelessness Charity",
-    "St Mungo\u0027s Homelessness Charity"
-  ],
-  "url": "https://www.mungos.org/",
-  "status": "DRAFT"
+  "id": "true-colours-united",
+  "suggest": []
 }
