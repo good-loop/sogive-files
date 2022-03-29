@@ -485,7 +485,7 @@
   "logo": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs-8666677042428446531.png",
   "@id": "the-national-deaf-children-s-society",
   "wikipedia": "https://en.wikipedia.org/wiki/National_Deaf_Children%27s_Society",
-  "summaryDescription": "The National Deaf Children\u0027s Society (NDCS) objective is to further the education and relieve the needs of deaf children.",
+  "summaryDescription": "The National Deaf Children\u0027s Society\u0027s (NDCS) objective is to further the education and relieve the needs of deaf children.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs__37635100589-4012061159743912612.jpg",
   "impact": "low",
@@ -516,5 +516,5 @@
   "englandWalesCharityRegNum": "1016532",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, Developing World, South Asia, East Africa, Latin America",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
