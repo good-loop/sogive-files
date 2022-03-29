@@ -1,0 +1,136 @@
+{
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/we%20care%20solar%20image.PNG?raw\u003dtrue",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 256000.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Self audited. Data is not terribly comprhensive or detailed. "
+            }
+          },
+          "confidence": "low",
+          "name": "birth(s)",
+          "start": "2014-01-01T00:00:00Z",
+          "description": "This refers to births provided in a safe and environmentally friendly way",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve provided XXXX safe births. ",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/we%20care%20solar%20image.PNG?raw\u003dtrue",
+      "stories": "\"For everything you do, you need light\" explained Ugandan midwife Esther Madudu. \"You need to wash, clean and disinfect ... and there\u0027s no light. You postpone what you\u0027re doing. If you have a cervical tear, you must postpone until tomorrow. It is so painful to postpone the procedure until tomorrow.\" Without reliable electricity, midwives struggle to provide life-saving care by kerosene lanterns and flashlights. Doctors rush to finish emergency c/sections before they lose power. Health providers live in fear of nighttime deliveries, knowing they may not be able to treat complications if the sun is down\"",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "https://issuu.com/laurastachel/docs/we_care_solar_annual_report_2014",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 1.915881E10,
+          "value": 1915881.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.58876E7,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 158876.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "https://issuu.com/laurastachel/docs/we_care_solar_annual_report_2014"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "It is unclear if their \u0027solar suitcase\u0027 is actually providing a huge benefit to the beneficiaries and further who these beneficiaries are. For example, the solar suitcase provides light during childbirth. How necessary is this, and how are they measuring their beneficiaries with the \u0027light provided\u0027? In the instance where someone gives birth during the day, the light provided is not needed, is this still a beneficiary?",
+      "name": "overall",
+      "analyst": "Robbie \u0026 Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "we-care-solar",
+      "name": "birth(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 68633,
+        "value": "6.86330078125"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "We care solar",
+    "we-care-solar"
+  ],
+  "whyTags": "Energy, Technology, Health",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "birth(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 68633,
+      "value": "6.86330078125"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "We care solar",
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/we-care-solar-logo.jpg?raw\u003dtrue",
+  "@id": "we-care-solar",
+  "summaryDescription": "We Care Solar promotes safe childbirth in developing countries using \"Solar suitcases\"",
+  "englandWalesCharityRegNum": "NA",
+  "uk_giftaid": false,
+  "status": "PUBLISHED"
+}
