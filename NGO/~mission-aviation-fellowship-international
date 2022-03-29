@@ -33,15 +33,7 @@
           "notes": "page 18"
         }
       },
-      "name": "overall",
-      "reserves": {
-        "@type": "Money",
-        "name": "",
-        "raw": "3447000",
-        "currency": "",
-        "value100p": 3.447E10,
-        "value": 3447000.0
-      }
+      "name": "overall"
     }
   ],
   "@type": "NGO",
