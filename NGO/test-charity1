@@ -6,9 +6,8 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 10000000,
-      "value": "1000.0"
+      "value100p": 7000000,
+      "value": "700.0"
     }
   },
   "projects": [
@@ -25,12 +24,18 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "currency": "GBP"
+          "raw": "500",
+          "currency": "GBP",
+          "value100p": 5000000.0,
+          "value": 500.0
         },
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "1000",
+          "currency": "GBP",
+          "value100p": 1.0E7,
+          "value": 1000.0
         },
         {
           "@type": "Money",
@@ -42,15 +47,102 @@
         }
       ],
       "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5.0,
+          "name": "test unit1"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1000",
+          "currency": "GBP",
+          "value100p": 1.0E7,
+          "value": 1000.0
+        }
+      ],
+      "name": "Project1"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5.0,
+          "name": "test unit2"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1750",
+          "currency": "GBP",
+          "value100p": 1.75E7,
+          "value": 1750.0
+        }
+      ],
+      "name": "Project2"
     }
   ],
   "@type": "NGO",
-  "ready": true,
+  "ready": false,
   "name": "test charity1",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO-12026826946348175406.png",
   "@id": "test-charity1",
   "suggest": [
     "test charity1",
     "test-charity1"
   ],
-  "status": "MODIFIED"
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "test-charity1",
+      "name": "test unit(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 7000000,
+        "value": "700.0"
+      },
+      "n": 1.0
+    }
+  ],
+  "status": "DRAFT"
 }
