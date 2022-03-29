@@ -1,0 +1,203 @@
+{
+  "circleCrop": 100.0,
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/Apnalaya_pic-5967806144607051742.png",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.apnalaya.org/pdf/Annual_Report_2016_2017.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "592168.65",
+          "currency": "GBP",
+          "value100p": 5.9216865E9,
+          "value": 592168.65
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Costs converted from Rupees to GBP using google"
+        }
+      },
+      "name": "overall",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 787.0,
+          "meta": {
+            "all": {
+              "notes": "787 \u003d 549 + 238; these numbers come from p14 of the accounts"
+            }
+          },
+          "name": "individual(s) provided with training/support",
+          "description": "This refers to skills-based training around improving livelihoods"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.apnalaya.org/pdf/Annual_Report_2016_2017.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "306703.05",
+          "currency": "GBP",
+          "value100p": 3.0670305E9,
+          "value": 306703.05
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Costs converted from INR to GBP using google"
+        }
+      },
+      "name": "Educational",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 11266.0,
+          "name": "beneficiaries (singular: beneficiary) helped",
+          "description": "The beneficiaries helped within the Health and Disability work include children, as well as pregnant women and lactating mothers. "
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "109663.87",
+          "currency": "GBP",
+          "value100p": 1.0966387E9,
+          "value": 109663.87
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Costs converted from INR to GBP using google"
+        }
+      },
+      "name": "Medical Relief",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "description": "Apnalaya means Our Space in English.\n\nApnalaya is a non-profit organization founded in 1973. \n\nApnalaya works with marginalized people living in slums. in Mumbai.\n\nAreas of work include health. Apnalaya works in a slum in Mumbai where the life expectancy is 31 years and infant mortality rate is 66 per 1000. The health work includes work on infant health, pregnant women, lactating mothers, and anaemia.\n\nApnalaya runs skills based training in the slum. They observed that many studies have shown that children benefit directly if their mothers are\nable to earn, so they have focused attention on helping women, who traditionally are kept in the home, to earn at least a supplementary income.\n\nApnalaya also runs a community based disability programme, a disaster risk reduction programme, and a citizenship programme.\n",
+  "suggest": [
+    "Apnalaya",
+    "apnalaya"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "apnalaya",
+      "name": "beneficiaries (singular: beneficiary) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 97340,
+        "value": "9.7340555654180715591711"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://apnalaya.org/",
+  "whyTags": "Health, education, international aid, ",
+  "howTags": "research, direct work, campaigning ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "beneficiaries (singular: beneficiary) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 97340,
+      "value": "9.7340555654180715591711"
+    }
+  },
+  "ready": false,
+  "name": "Apnalaya",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/Apnalaya_logo-7084904885665291189.png",
+  "@id": "apnalaya",
+  "summaryDescription": "Apnalaya, Our Space in English, works in India on health and education.",
+  "uptodatedraft": "probably",
+  "whereTags": "Developing world, India, Mumbai",
+  "status": "PUBLISHED"
+}
