@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "meta": {
+            "all": {
+              "notes": "Source: https://thejoshuatree.org.uk/how-you-can-help/donations/"
+            }
+          },
+          "name": "Support Session(s)",
+          "description": "",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "60",
+            "currency": "GBP",
+            "value100p": 600000.0,
+            "value": 60.0
+          }
+        },
+        {
+          "meta": {
+            "all": {
+              "notes": "Source: https://thejoshuatree.org.uk/how-you-can-help/donations/"
+            }
+          },
+          "confidence": "low",
+          "name": "Support Session(s) for All Service Users",
+          "description": "A  Saturday Support Session for all families supported by The Joshua Tree. \n",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "200",
+            "currency": "GBP",
+            "value100p": 2000000.0,
+            "value": 200.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends00/0001114000_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "245,778",
+          "currency": "GBP",
+          "value100p": 2.45778E9,
+          "value": 245778.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "confidence": "high",
+  "description": "The Joshua Tree supports families across the North West and North Wales affected by childhood cancers. The services are tailored to suit the family\u0027s specific needs, by means of emotional, academic and practical support, such as counselling, art and play therapy, health and well-being advice, support in and around the home and educational tutoring where required to help ensure that life remains as normal as possible during an incredibly traumatic time.",
+  "recommendation": "A family support service providing support for the whole family, including emotional, educational, and practical support and fitness and wellbeing.\n\nJoshua Tree is building a support centre.",
+  "suggest": [
+    "Joshua Tree",
+    "joshua-tree"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "joshua-tree",
+      "name": "Support Session(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 600000,
+        "value": "60.0"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://thejoshuatree.org.uk/",
+  "whyTags": "\"Children\", \"Cancer\", \"Support, \"Families\", \"Health\"",
+  "howTags": "\"Direct Work\"",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Support Session(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 600000,
+      "value": "60.0"
+    }
+  },
+  "ready": false,
+  "name": "Joshua Tree",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/ems.lindkvistgmail.comemail/Joshua_Tree-4176684181098771907.jpg",
+  "@id": "joshua-tree",
+  "englandWalesCharityRegNum": "1114000",
+  "summaryDescription": "The Joshua Tree is a Cheshire based Children\u0027s Cancer Charity. ",
+  "uptodatedraft": "probably",
+  "whereTags": "\"Cheshire\", \"North West Wales\", \"North Wales\", \"UK\"",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
