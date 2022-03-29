@@ -1,0 +1,126 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 12.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "philanthropist(s) doing a workshop",
+          "start": "2014-07-01T00:00:00Z",
+          "description": "The Philanthropy Workshop educates philanthropists in the frameworks, skills and methods for strategic philanthropy, and graduates form part of a network.",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 2.05223E9,
+          "value": 205223.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0001093927_AC_20150630_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "The accounts state that the three week workshop is the primary activity of the charity, and that 12 philanthropists underwent this. I tried looking at note 6 of the accounts which provides more information about the programme spend, but the breakdown provided simply restated the total amount of programme spend, so there was no further information, so I couldn\u0027t check that the figures aligned with this claim. Income from charitable expenditure was zero this year, but was c ?100k the previous year; I couldn\u0027t find any explanation about why this was, I\u0027m guessing it\u0027s because they used to charge for the course, and then decided not to",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-philanthropy-workshop-formally-the-institute-for-philanthropy",
+      "name": "philanthropist(s) doing a workshop",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 171019166,
+        "value": "17101.91666666666598259"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "The Philanthropy Workshop (formally The institute for philanthropy)",
+    "the-philanthropy-workshop-formally-the-institute-for-philanthropy"
+  ],
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "philanthropist(s) doing a workshop",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 171019166,
+      "value": "17101.91666666666598259"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "The Philanthropy Workshop (formally The institute for philanthropy)",
+  "@id": "the-philanthropy-workshop-formally-the-institute-for-philanthropy",
+  "summaryDescription": "The Philanthropy Workshop provides strategic philanthropy education and networking.",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
