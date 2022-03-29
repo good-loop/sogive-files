@@ -1,0 +1,141 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 29078.0,
+          "meta": {
+            "all": {
+              "notes": "Breakdown of persons helped:\n- Employment skills taught: 22,400\n- Helped mental health \u0026 wellbeing 1898\n- Social enterprises helped 280 adults with learning difficulties, diabilities\n- 4,500 pupils over 8 academies"
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) helped",
+          "description": "People helped is predominantly helping upskill unemployed and vulnerable individuals."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends85/0000287785_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "93955000",
+          "currency": "GBP",
+          "value100p": 9.3955E11,
+          "value": 9.3955E7
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "there is reference to social enterprises in note 1 page 27."
+        }
+      },
+      "name": "overall",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.shawtrust.org.uk/content/uploads/2020/09/Shaw-Trust-Accounts-2018-19-final-for-Board-of-Trustees-signing-26-June-2020-at-5th-August-2020.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "224799000",
+          "currency": "GBP",
+          "value100p": 2.24799E12,
+          "value": 2.24799E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "\"Total Resources Expended from p.22 of the financial statements\""
+        }
+      },
+      "name": "overall",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "description": "Shaw Trust is a national charity helping people, enter work, gain an education, develop their career, improve their wellbeing and rebuild their lives. Shaw Trust, incorporating Shaw Education Trust, Prospects and Ixion, also operates charitable social enterprises, retail shops and academies.",
+  "recommendation": "**Under the SoGive two question method, we need more information to evaluate The Shaw Trust**\n\nThe Shaw Trust is responsible for a collection of charities in the United Kingdom, historically known for job-training programs; it has received many government grants supporting its work. The Shaw Trust’s various entities aim to help people enter work, gain an education, develop their career, improve their wellbeing and rebuild their lives. Its programs include a multi-academy trust, and several social enterprises for children and disadvantaged adults. The Shaw Trust is the parent entity for the Shaw Educational Trust, Forth Sector, Ixion Holdings, the Prospects Group, CDG-WISE Ability Limited, and the Disabled Living Foundation.\n\n Under the SoGive two question method, we consider the following questions:\nHow much does it cost for the charity to do something? Or, what does it cost for The Shaw Trust to provide a service?\nWhat is the thing (or, what does the beneficiary get for the donor\u0027s money)? \n\n**Costs**\nIn 2019, the collective entities of The Shaw Trust had an expenditure of around 230 million pounds. However, it is unclear how these expenditures were divided amongst the daughter charities of The Shaw Trust. Due to the different commercial statuses of The Shaw Trusts’ daughter organisations, not all have their own financial statements, making it difficult to determine this by any other means than the statements of the trust overall.\n\n**Benchmarking**\nTo receive a Gold ranking, a charity must demonstrate that it is highly impactful not just overall, but per pound donated (e.g. averting one year of severe depression for £100 or £30 to double someone’s consumption for a year). In the case of The Shaw Trust, the activities and costs of each of the trust’s daughter entities is unclear, making it difficult to assess the organisation overall. \n\nIn order to evaluate the Shaw Trust, we would need to know the marginal impact of additional donations to the organisation. In other words, how will this money be spent? In this case: how donations are distributed among the trust’s entities, and what they each would do with the funding. Answering this question would help us to respond to both questions of the SoGive two question method, by giving both the costs and benefits of the trust. To be convinced that the Shaw Trust meets the SoGive gold standard benchmarks, we would need to know the costs and impacts for every daughter entity, and how donations to the trust are allocated among the entities. \n\n**Conclusions**\nUnder the SoGive two question method we would need more information to evaluate the Shaw Trust. Specifically, we would need to know the impact of each of the charity’s subsidiaries, their costs, and how additional funding to the Shaw Trust is allotted among them.\n\nHowever, of the subsidiaries which SoGive has found sufficient information to review (the Shaw Education Trust and Forth Sector as of December 2020), both appear to be bronze performing charities. Therefore, it seems plausible that the total activities of the Shaw Trust are also comparable to SoGive’s bronze standard for charity performance, but we would need more information to be certain of this.\n",
+  "whyTags": "education, children",
+  "ready": false,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/raw/Shaw-Trust-reveals-2000x848-8247318010266970788.jpg",
+  "@id": "shaw-trust",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shaw_Trust",
+  "summaryDescription": "Shaw Trust is a charity in the UK which helps disabled and disadvantaged people into employment and independent living. ",
+  "uptodatedraft": "probably",
+  "images": "https://www.accessibility-services.co.uk/wp-content/uploads/2017/09/shaw-trust-accessibilty-services-team-960x548.jpg",
+  "confidence": "low",
+  "impact": "low",
+  "suggest": [
+    "Shaw Trust",
+    "shaw-trust"
+  ],
+  "url": "https://www.shawtrust.org.uk/",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "confidence": {
+      "notes": "not all of it\u0027s sub-entities can be evaluated, so it\u0027s difficult to evaluate it with confidence"
+    }
+  },
+  "name": "Shaw Trust",
+  "lastModified": "2020-12-09T17:22:06Z",
+  "englandWalesCharityRegNum": "287785",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
