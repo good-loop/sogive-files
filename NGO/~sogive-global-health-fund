@@ -1,0 +1,17 @@
+{
+  "@type": "NGO",
+  "ready": false,
+  "impact": "more-info-needed",
+  "name": "SoGive Global Health Fund",
+  "modified": false,
+  "@id": "sogive-global-health-fund",
+  "suggest": [
+    "SoGive Global Health Fund",
+    "sogive-global-health-fund"
+  ],
+  "summaryDescription": "Care about health or the poor people in the world? Why not allow SoGive\u0027s analysts work out the best choices in this area. Using our own analysis and those of trusted partners, we will find the best bang for your buck to achieve the most good in the world, and report back on your impact.",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED",
+  "whyTags": "Global Health, health, international aid, international development",
+  "recommended": false
+}
