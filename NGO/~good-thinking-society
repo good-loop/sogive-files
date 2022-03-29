@@ -1,0 +1,523 @@
+{
+  "circleCrop": 175.0,
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 29070.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "low",
+          "name": "Amount of grant funds awarded",
+          "description": "Grants are awarded to UK based institutions and individuals, particularly in the field of education, that further the charity\u0027s objectives.",
+          "end": "2016-04-05T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-04-05T00:00:00Z",
+          "value100p": 8.5373E8,
+          "value": 85373.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-04-05T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-04-05T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-04-05T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-06",
+      "reserves": {
+        "@type": "Money",
+        "raw": "60204",
+        "currency": "GBP",
+        "value100p": 6.0204E8,
+        "value": 60204.0
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20160405_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-04-06",
+      "ready": false,
+      "analysisComment": "The cost per beneficiary figure 1 is based on the total amount of charitable activities allocated for grants on page 9 in the financial report.",
+      "name": "overall",
+      "analyst": "Letycia",
+      "end": "2016-04-05T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Campaigning "
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Top-Top Set Maths"
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Who Wants to Be a Mathematician"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-06",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "163,007",
+          "currency": "GBP",
+          "value100p": 1.63007E9,
+          "value": 163007.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-06",
+      "end": "2019-04-05",
+      "reserves": {
+        "@type": "Money",
+        "raw": "29,857",
+        "currency": "GBP",
+        "value100p": 2.9857E8,
+        "value": 29857.0
+      },
+      "end_raw": "2019-04-05"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "57,733",
+          "currency": "GBP",
+          "value100p": 5.7733E8,
+          "value": 57733.0
+        }
+      ],
+      "name": "Research and education activities"
+    },
+    {
+      "outputs": [
+        {
+          "number": 13.0,
+          "name": "school(s) running Top-Top Set Maths",
+          "description": "The project encourages schools to create a \"top-top\" set to cater for the top ~7.5% of students in maths"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "94000",
+          "currency": "GBP",
+          "value100p": 9.4E8,
+          "value": 94000.0
+        }
+      ],
+      "name": "Top-top set maths",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5000",
+          "currency": "GBP",
+          "value100p": 5.0E7,
+          "value": 5000.0
+        }
+      ],
+      "name": "Undergraduate Ambassadors"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2250",
+          "currency": "GBP",
+          "value100p": 2.25E7,
+          "value": 2250.0
+        }
+      ],
+      "name": "DrFrostMaths"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends04/0001147404_AC_20190405_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "789",
+          "currency": "GBP",
+          "value100p": 7890000.0,
+          "value": 789.0
+        }
+      ],
+      "name": "Other"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Good Thinking",
+  "description": "They aim to encourage curiosity and promote rational thinking through pro-science and pro-evidence means. ",
+  "recommendation": "**To evaluate the effectiveness of Good Thinking Society, we would need more information.**\n\nGood Thinking aims to encourage curiosity and promote rational thinking through pro-science and pro-evidence means.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\nBased on information we have gathered from the 2019 accounts, we understand that in 2019, Good Thinking awarded grants worth £102,039 to individuals and institutions (schools, universities) for them to run projects developed by Good Thinking.\n\n**More about the Good Thinking Society\u0027s work**\n\nThe projects are:\n\nThe Top-Top Set Maths Project, which now runs in thirteen schools, with plans to extend further in the future. Grants are made to the schools to cover the additional costs of running the project. A national competition called the\nJunior Maths Challenge is used to measure the impact of the programme. If the programme is successful, the participating schools should see an increase in students receiving certificates. The charity gives a standardised score to each year group by assigning points for each certificate divided by the size of the year group. Three of the schools have been running Top-Top sets for almost three years so this year they have received the first set of data from Year 9 students entering the UKMT intermediate Maths Challenge. The Year 9 Top-Top Set students doubled the number of certificates received by students who are two years older than them.\n\nUndergraduate Ambassadors provides the framework for a degree course module awarding academic credit to science, technology, engineering and maths undergraduates working with teachers in local schools.\n\nDrFrostMaths is a free online maths platform providing teaching resources to schools, with a particular provision for more able students. It also includes an online homework platform with a large bank of questions allowing students to practise independently and teachers to set and monitor work.\n\nGood Thinking also provides support to students competing in the international competition Who Wants To Be A Mathematician by contributing towards travelling expenses.\n\n**Benchmarking**\n\nWe then compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500.\n\nThe impact of the work of Good Thinking is difficult to quantify, however, we expected a clearer articulation of the charity\u0027s \"Theory of Change\" (i.e. in what ways does it expect to the world to be better as a result of its work). The most robust self-assessments of a charity\u0027s impact resemble a scientific theory, in which the charity applies scientific and skeptical thinking to improve their work. We expected that the Good Thinking Society would have embraced this concept when assessing themselves. If they have done so, we have not found evidence of this in the public domain.\n",
+  "whyTags": "Health",
+  "ready": false,
+  "modified": false,
+  "logo": "https://goodthinkingsociety.org/wp-content/uploads/2012/06/thinker-blue-graphene1.png",
+  "@id": "good-thinking-society",
+  "wikipedia": "https://en.wikipedia.org/wiki/Good_Thinking_Society",
+  "summaryDescription": "The Good Thinking Society is a nonprofit organisation promoting scientific scepticism established by Simon Singh in September 2012.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/plaque-simon-14637633362426530007.jpg",
+  "stories": "Good Thinking are extremely concerned about fundraising appeals designed to raise money for seriously ill people to receive alternative therapies that are not considered mainstream and are typically not backed by robust evidence. They seek to assess the evidence for the therapy ,and examine the potential risks. ",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Good thinking Society",
+    "Good Thinking",
+    "good-thinking-society"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "good-thinking-society",
+      "name": "school(s) running Top-Top Set Maths",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 72307692,
+        "value": "7230.76923076923142000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://goodthinkingsociety.org/",
+  "howTags": "Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "school(s) running Top-Top Set Maths",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 72307692,
+      "value": "7230.76923076923142000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "name": {
+      "notes": "capital T on thinking"
+    }
+  },
+  "name": "Good thinking Society",
+  "englandWalesCharityRegNum": "1147404",
+  "whereTags": "United Kingdom,",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
