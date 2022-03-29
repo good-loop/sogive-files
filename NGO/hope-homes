@@ -1,0 +1,461 @@
+{
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Hope%20and%20homes%20-%20Ada.PNG",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 11414.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "Story and images on p4 of http://www.hopeandhomes.co.uk/assets/downloads/Annual%20Reviews/Annual_Review_2014_spreads.pdf",
+      "stories": "Story and images on p4 of http://www.hopeandhomes.co.uk/assets/downloads/Annual%20Reviews/Annual_Review_2014_spreads.pdf",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 7.728419E8,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 7728419.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.hopeandhomes.org/wp-content/uploads/2016/11/AR_2014_DIGITALversion_pages.pdf"
+        },
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0001089490_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The review has 11414 children and family members supported to stay together.",
+      "name": "overall",
+      "analyst": "Georgia",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 197289.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 8.282069E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 8282069.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0001089490_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Cost per ben not very meaningful on this row, since it adds up children helped directly with those helped indirectly. To provide more explanatino of what the numbers refer to, here\u0027s a quote from the accounts: \"During the year, we directly benefited 17,860 children through our prevention work and a further 1,429 by developing the services which enabled them to be successfully placed in family-based care. We had also trained 3,576 professionals and volunteers in 2015 whom we estimated would each go on to benefit a further 50 children, giving an indirect beneficiary estimate of 178,000\"",
+      "name": "overall",
+      "analyst": "Georgia \u0026 Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 17860.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve enabled XXX1 children to be cared for by a family by preventing the child from going into an institution, and Hope and Homes believes being in a family environment is significantly better for the child\u0027s welfare.",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 6.469178E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 6469178.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0001089490_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Cost allocation between the activities not available, so I\u0027ve made a guess that the amount of cost is split in proportion to the people directly worked with. This is just a guess. To provide more explanation of what the numbers refer to, here\u0027s a Quote from the accounts: \"During the year, we directly benefited 17,860 children through our prevention work \u003c...\u003e\"",
+      "name": "prevention work",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1429.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: The Hope \u0026 Homes accounts didn\u0027t quite have enough data for us to quantify the impact, so we had to make some assumptions about the activities conducted and how the cost base splits between different activities."
+            }
+          },
+          "confidence": "very-low",
+          "name": "children (singular: child) provided with care",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "This refers to children placed in family-based care rather than in an institution",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve enabled XXX1 children to be placed in family-based care rather than in an institution, which Hope and Homes believes is significantly better for the child\u0027s welfare.",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Hope%20and%20homes%20-%20Ada.PNG",
+      "stories": "At the beginning of last year, Ada lived in Bjelave, an orphanage in Sarajevo. Now, thanks to your donations she has a real home and a family who love her.",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "Source: http://www.hopeandhomes.org/ - scroll down to second page",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.17607E9,
+          "value": 517607.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0001089490_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Cost allocation between the activities not available, so I\u0027ve made a guess that the amount of cost is split in proportion to the people directly worked with. This is just a guess. To provide more explanation of what the numbers refer to, here\u0027s a Quote from the accounts: \"During the year, we directly benefited \u003c...\u003e and a further 1,429 by developing the services which enabled them to be successfully placed in family-based care.\"",
+      "name": "placing children in family based care",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 3576.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 178000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 36200.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 362.0
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve enabled XXX1 professionals and volunteers to be trained, which is estimated to lead to XXX2 children being better helped because those professionals and volunteers have a better understanding of the value of family-based care.",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.295284E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 1295284.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends90/0001089490_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Cost allocation between the activities not available, so I\u0027ve made a guess that the amount of cost is split in proportion to the people directly worked with. This is just a guess. To provide more explanation of what the numbers refer to, here\u0027s a Quote from the accounts: \"During the year, we \u003c...\u003e We had also trained 3,576 professionals and volunteers in 2015 whom we estimated would each go on to benefit a further 50 children, giving an indirect beneficiary estimate of 178,000\"",
+      "name": "providing training for professionals and volunteers",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "hope-homes",
+      "name": "children (singular: child) provided with care",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3622162,
+        "value": "362.2162351294611262992"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Hope \u0026 homes",
+    "hope-homes"
+  ],
+  "whyTags": "Children, International Aid",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) provided with care",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3622162,
+      "value": "362.2162351294611262992"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Hope \u0026 homes",
+  "logo": "http://www.hopeandhomes.org/wp-content/themes/hhc/img/logo.png",
+  "@id": "hope-homes",
+  "englandWalesCharityRegNum": "1089490",
+  "summaryDescription": "Hope and homes works to promote family-based rather than institutional care for children by closing down institutions and moving the children to family-based care, educating professionals, and lobbying governments.",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
