@@ -29,6 +29,9 @@
         }
       ],
       "meta": {
+        "inputs_meta": {
+          "notes": "page 25"
+        },
         "reserves": {
           "notes": "page 18; converted using 31 December 2020 exchange rate on page 20"
         }
