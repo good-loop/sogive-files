@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Banfield Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/banfield-17011006467346946575.png#ccrop:93",
-  "id": "banfield-foundation",
-  "suggest": [
-    "Banfield Foundation"
-  ],
-  "status": "DRAFT"
+  "id": "stem-for-her",
+  "suggest": []
 }
