@@ -75,7 +75,7 @@
   "description": "TREE AID was established in 1987 by a group of foresters in response to the famine in Africa brought to public attention by Band Aid and Live Aid. Its aim was to provide a long-term solution to the challenges of poverty and environmental decline once the emergency relief efforts ended. TREE AID\u0027s founders - inspired by the Chipko and Greenbelt movement in India and Kenya respectively - believed that community forestry could ensure that people in rural Africa\u0027s drylands were less vulnerable to drought and famine in future. Drawing on the ideas of thinkers and practitioners such as E F Schumacher and Robert Chambers, TREE AID\u0027s work is informed by the notion that small-scale development, appropriate to local culture and environment that puts poor people\u0027s needs first, is essential to the success and sustainability of any intervention to alleviate poverty. This thinking still informs the charity\u0027s work today.\n\nTREE AID has offices in Bristol, UK, in Ouagadougou, Burkina Faso, in Mali, in Ethiopia and in Ghana. It currently has programmes running in Burkina Faso, Ethiopia, Ghana, Mali and Niger. ",
   "recommendation": "Planting trees will help with the growing issue of deforestation and the resulting impacts on the environment. £3.66 seems like a reasonable cost to plant a single tree. However, there is question of whether the countries/communities in which the trees planted would have happened without an intervention. It is also not possible to break down the total impact of spending by project or country. ",
   "whyTags": "Climate change, Trees",
-  "ready": true,
+  "ready": false,
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/standard/tree-aid-logo-801904986909553785.png#ccrop:122",
   "@id": "tree-aid",
@@ -89,6 +89,21 @@
   "suggest": [
     "Tree Aid",
     "tree-aid"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "tree-aid",
+      "name": "Tree(s) Planted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 36633,
+        "value": "3.6633340"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.treeaid.org.uk/",
   "howTags": "Campaigning",
