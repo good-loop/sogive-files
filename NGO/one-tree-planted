@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "confidence": "low",
+          "name": "tree(s)",
+          "description": "$1 \u003d 1 tree, claimed by the charity:\n\nHow do you plant one tree for $1?\nTree costs vary based on region and partner. Here is a quick and easy cost breakdown of how we get one tree planted in an average region:\n\n$.50 -.85 for one tree sapling to be grown at a nursery\n$.20 - $.30 per tree to be planted\n$.08 - $.20 per tree average with transport costs, material costs\n$.10 - $.22 ongoing maintenance of trees\n$.12 - $.15 operating costs\n$.03 - $.05 credit card processing fees, transaction costs\n",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.8",
+            "currency": "GBP",
+            "value100p": 8000.0,
+            "value": 0.8
+          }
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "color": "#000000",
+  "@type": "NGO",
+  "suggest": [
+    "One Tree Planted",
+    "one-tree-planted"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "one-tree-planted",
+      "name": "tree(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 8000,
+        "value": "0.8"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://onetreeplanted.org/",
+  "whyTags": "environment, trees",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "tree(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 8000,
+      "value": "0.8"
+    }
+  },
+  "ready": false,
+  "name": "One Tree Planted",
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/otp-logo-long-greenpng-1519919839601-1643719818145597720.png#ccrop:95_noscale",
+  "@id": "one-tree-planted",
+  "logo_white": "https://app.sogive.org/uploads/danielgood-loop.comemail/OTP__H__BW1982203114__410x-10101933543715514499.png",
+  "summaryDescription": "As an environmental charity, we\u0027re on a mission to make it simple for anyone to help the environment by planting trees!",
+  "uptodatedraft": "probably",
+  "status": "DRAFT",
+  "usCharityRegNum": "46-4664562"
+}
