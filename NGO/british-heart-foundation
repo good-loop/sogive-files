@@ -447,7 +447,7 @@
   "description": "The research funded by the British Heart Foundation covers a broad range of heart and cardiovascular conditions, including heart attacks, angina and coronary heart disease, high blood pressure, stroke and diabetes. A sizable minority of BHF\u0027s work is on preventative work such as providing training on CPR in schools, community groups and workplaces, and also making defibrillators more widely available. BHF has also identified a link between exposure to air pollution and risk of stroke and circulatory disease. BHF furthermore has one of the largest networks of charity shops.",
   "recommendation": "Any opinions we have on British Heart Foundation (BHF) are necessarily tentative, given the shortage of data on BHF\u0027s impact (or indeed the impact of most research charities). However we tentatively assign Silver status to BHF.\n\nIt seems likely that its impact will (probably) outperform that of Cancer Research UK and other cancer research charities as well as the bulk of charities doing direct work, but underperform that of the SoGive recommended charities. Hence the silver status.\n\nFor more on that, see [this post](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html) which sets out our (tentative) view that most research outperforms most direct work, but underperforms the highest impact giving options.\n\nSee also [this post](http://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html) which compares different biomedical research donation areas and suggests that if you are going to donate to biomedical research, then BHF is probably one of the better choices.",
   "whyTags": "Health",
-  "ready": true,
+  "ready": false,
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-5513067594268715697.png#ccrop:70",
   "@id": "british-heart-foundation",
@@ -461,6 +461,21 @@
     "British Heart Foundation",
     "British Heart Foundation (BHF)",
     "british-heart-foundation"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "british-heart-foundation",
+      "name": "researcher(s) working for a day",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5000000,
+        "value": "500.0"
+      },
+      "n": 1.0
+    }
   ],
   "communicationsWithCharity": "Email sent on 7th March 2017 from sogive email address",
   "url": "https://www.bhf.org.uk/",
