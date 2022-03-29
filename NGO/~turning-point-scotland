@@ -1,0 +1,748 @@
+{
+  "scotlandCharityRegNum": "SC028827",
+  "ukCompanyRegNum": "SC194639",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "27782948",
+          "currency": "GBP",
+          "value100p": 2.7782948E11,
+          "value": 2.7782948E7
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2015-04-01",
+      "end": "2016-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "3279776",
+          "currency": "GBP",
+          "value100p": 3.279776E10,
+          "value": 3279776.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "2954468",
+          "value100p": 2.954468E10,
+          "value": 2954468.0
+        }
+      ],
+      "name": "Substance Misuse"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "3087591",
+          "currency": "GBP",
+          "value100p": 3.087591E10,
+          "value": 3087591.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "2781345",
+          "value100p": 2.781345E10,
+          "value": 2781345.0
+        }
+      ],
+      "name": "Homelessness"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "1568172",
+          "currency": "GBP",
+          "value100p": 1.568172E10,
+          "value": 1568172.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "1412632",
+          "value100p": 1.412632E10,
+          "value": 1412632.0
+        }
+      ],
+      "name": "Mental Health"
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "name": "people (singular: person) helped"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "14284678",
+          "currency": "GBP",
+          "value100p": 1.4284678E11,
+          "value": 1.4284678E7
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "12867837",
+          "value100p": 1.2867837E11,
+          "value": 1.2867837E7
+        }
+      ],
+      "name": "Learning Disability"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "3222364",
+          "currency": "GBP",
+          "value100p": 3.222364E10,
+          "value": 3222364.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "2902750",
+          "value100p": 2.90275E10,
+          "value": 2902750.0
+        }
+      ],
+      "name": "Criminal Justice"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "89321",
+          "currency": "GBP",
+          "value100p": 8.9321E8,
+          "value": 89321.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "80462",
+          "value100p": 8.0462E8,
+          "value": 80462.0
+        }
+      ],
+      "name": "Housing Management"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/downloadfile.aspx?id\u003d106035\u0026type\u003d5\u0026charityid\u003dSC028827\u0026arid\u003d205079"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "1727824",
+          "currency": "GBP",
+          "value100p": 1.727824E10,
+          "value": 1727824.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "1556448",
+          "value100p": 1.556448E10,
+          "value": 1556448.0
+        }
+      ],
+      "name": "Housing Support"
+    },
+    {
+      "outputs": [
+        {
+          "number": 7687.0,
+          "name": "people (singular: person) helped",
+          "description": "Help can be related to substance misuse, homelessness, mental health, learning disabilities, criminal justice, and housing."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "33808644",
+          "currency": "GBP",
+          "value100p": 3.3808644E11,
+          "value": 3.3808644E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "5366681",
+        "currency": "GBP",
+        "value100p": 5.366681E10,
+        "value": 5366681.0
+      },
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3241188",
+          "currency": "GBP",
+          "value100p": 3.241188E10,
+          "value": 3241188.0
+        }
+      ],
+      "name": "Substance misuse",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8093603",
+          "currency": "GBP",
+          "value100p": 8.093603E10,
+          "value": 8093603.0
+        }
+      ],
+      "name": "Homelessness",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1282727",
+          "currency": "GBP",
+          "value100p": 1.282727E10,
+          "value": 1282727.0
+        }
+      ],
+      "name": "Mental health",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "17563342",
+          "currency": "GBP",
+          "value100p": 1.7563342E11,
+          "value": 1.7563342E7
+        }
+      ],
+      "name": "Learning disability",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://beta.companieshouse.gov.uk/company/SC194639/filing-history/MzI0NTQwMTY2MWFkaXF6a2N4/document?format\u003dpdf\u0026download\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3627784",
+          "currency": "GBP",
+          "value100p": 3.627784E10,
+          "value": 3627784.0
+        }
+      ],
+      "name": "Criminal justice",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Turning Point Scotland",
+  "description": "Turning Point Scotland helps with learning disabilities, substance misuse, mental health, criminal justice, and homelessness. The charity [tailors](https://www.turningpointscotland.com/about-us/) its services to each individual served.",
+  "recommendation": "**Turning Point Scotland achieves a Bronze assessment under the SoGive rating methodology.**\n\nTurning Point Scotland serves people who are at risk of becoming isolated in society. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something?\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)?\n\n**More about what Turning Point Scotland does**\n\nTurning Point Scotland spent roughly £34 million in the 2018/19 financial year.\n\nThe charity spends 52% of charitable expenditures on helping with learning disabilities. The [tailored help](https://www.turningpointscotland.com/what-we-do/learning-disability/) can take 24 hours a day or just a short time.\n\nTurning Point Scotland directed 24% of charitable expenses towards homelessness. The charity provides [transitional housing](https://www.turningpointscotland.com/wp-content/uploads/2019/10/Annual-report-FINAL-1.pdf) for people.\n\nThe charity used 10% of charitable expenditures on reducing substance misuse. Turning Point Scotland practices a philosophy of [harm reduction](https://www.turningpointscotland.com/what-we-do/substance-misuse/), reducing the negative consequences of substance misuse through safer use, managed use and abstinence. \n\nTurning Point Scotland spends another 10% of charitable funds on improving the justice system. The charity makes interventions at the time of arrest, also providing a women-only service in and out of prison.\n\nFinally, the charity spends 4% of charitable expenses on mental health issues. For people suffering from mental issues, [the charity](https://www.turningpointscotland.com/what-we-do/mental-health/) can arrange employment opportunities, provide living housing support, organize therapeutic gatherings, and help maintain tenancies.\n\nBased on the information we have gathered from the 2018/19 accounts, we understand that on average, helping one person would cost about £4,400. \n\n**Benchmarking**\n\nAfter a review of the work of Turning Point Scotland under the two-question method, the next step in the SoGive process involves comparing the organization to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. A benchmark charity should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation) (AMF).\n\nIf helping one person would cost about £4,400, then with the same amount of money, a benchmark charity would have achieved an outcome as good as saving about 3 lives. We see providing one person with help related to learning disabilities, homelessness, substance misuse, legal advocacy, or mental health as a less positive outcome than saving 3 lives. \n\n**Conclusion**\n\nWe conclude by giving Turning Point Scotland a Bronze rating under the SoGive two-question method.\n\nFor reference, when we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Silver-rated charity (i.e. achieves less positive impact per pound donated than a Silver-rated charity)\n",
+  "whyTags": "Social Service",
+  "UNSDG": "0",
+  "ready": false,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/turningpointlogo-13299788506425466141.png",
+  "@id": "turning-point-scotland",
+  "wikipedia": "",
+  "summaryDescription": "[Turning Point Scotland](https://www.turningpointscotland.com/what-we-do/) provides a wide range of services to people who tend to become isolated in society.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/turning_point-795168802539122349.jpg",
+  "stories": "Quote from beneficiary in Inverclyde:\n\"TPS has changed my whole life for the better, I feel that I have been strengthened by all the support from the staff at Turning point, I am very happy and able to do more than I did before, I am a member of the Connects committee which I enjoy because I was bored before, I have also met new friends, I am happy to be helping with the conference etc.\n\nI have been invited to Kilmarnock to meet one of my new friends; my key worker will help me to arrange this.\n\nI am also able to take part in the service user conference and have learned new skills such as cake decorating, drumming in the music workshop and I have also done quite a lot of public speaking.\n\nI have been on holiday several times with TPS; this is in small groups rather than the larger group I used to go with.\n\nSince Turning point took over I feel much more confident and love to go to all  social activities arranged (TAG, Voice of Inverclyde, steering group) I never want to give this up!",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Turning Point Scotland",
+    "Turning Point Scotland",
+    "turning-point-scotland"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "turning-point-scotland",
+      "name": "people (singular: person) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 43981584,
+        "value": "4398.15844933003746895860"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.turningpointscotland.com/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 43981584,
+      "value": "4398.15844933003746895860"
+    }
+  },
+  "name": "Turning Point Scotland",
+  "lastModified": "2020-08-21T16:16:02Z",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "uk_giftaid": true,
+  "whereTags": "Scotland",
+  "status": "DRAFT"
+}
