@@ -1,0 +1,115 @@
+{
+  "images": "http://www.fsdp.co.uk/wp-content/uploads/2016/12/what-image.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": "15",
+          "meta": {
+            "all": {
+              "notes": "Source: 15 scholarships mentioned on p4"
+            }
+          },
+          "name": "scholarship(s) awarded",
+          "description": "The process of awarding a scholarship involves flying training, ground school, accommodation and food."
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "167869",
+          "currency": "GBP",
+          "value100p": 1.67869E9,
+          "value": 167869.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "I wanted to check whether there was some income from beneficiaries, because I thought that the participants might pay the charity for something, however this appears not to be the case, and the financials in the accounts show that the income comes entirely from donations and investments."
+        }
+      },
+      "name": "overall",
+      "start": "2015-03-01",
+      "end": "2016-02-29",
+      "isRep": true
+    }
+  ],
+  "stories": "DANIEL PELLING\n\nSPONSORED BY THE ROYAL AIR FORCE CHARITABLE TRUST (IN MEMORY OF AIR COMMODORE DAVID BYWATER) AND TRAINING WITH GRYPHON AERO CLUB AT COTSWOLD AIRPORT\n\nWhilst on detachment in Italy in 2000 Daniel was hit by a car which resulted in a spinal injury leaving him paralysed from the armpits down. His friends and family helped him come to terms with his disability but he always regrets missing out on an opportunity to be a passenger in the Harrier.\n\nWith a keen interest in aviation and engineering, Daniel had joined the RAF aged 17 and, after training joined a Harrier GR7 squadron at RAF Cottesmore. He spent part of his time on HMS Illustrious during the British military intervention in Sierra Leone.\n\n?Being awarded a flying scholarship would way more than top my missed opportunity. I never thought I would be able to learn to fly as I am in a wheelchair. Who knows where it could lead? I could be the first paralysed commercial pilot!?",
+  "@type": "NGO",
+  "description": "\nThe aim of a scholarship is to both challenge and inspire; building up confidence, self-esteem and future aspirations. \n\nThere is no specified target or standard of achievement; what is accomplished will depend on an individual?s flying ability and any limitations arising from a particular disability, whether physical, mental or fatigue related. The number of scholarships, and their type, will vary each year, as it depends on the charity\u0027s financial position. The costs of flying training, ground school, accommodation and food are all covered, however scholars are responsible for their own travel costs and it is essential that they have their own vehicle to get to and from the flying school.\n\nScholarships commence with a scholar?s seminar near the end of May, during which scholars are introduced to their instructors and scholar training partner(s).\n\nFlying training is undertaken at flying schools in the UK between May and October, and will be of three or four-weeks duration. Training includes up to 25 hours flying tuition in either a PA-28 or a Microlight aircraft and associated ground school.\n\nFSDP scholars currently undertake their flying training in the UK at Gryphon Aero Club or Bristol Aero Club at Cotswold Airport Kemble, or Shadow Aviation at Old Sarum. ?In all cases accommodation is provided near to the Flying School. Scholars usually go in groups of two or three, so it is important to emphasise that the ability and willingness to interact with people who they may have only met briefly during the selection process is vital.\n\nScholars are presented with a scholarship certificate at a special ceremony at the Royal International Air Tattoo (RIAT) in the July of the year they are awarded their scholarship, and will be invited back to RIAT the following year to be awarded their ?pilot?s wings?. \n\nThe scholarship does not end with learning to fly. Scholars will become part of the FSDP family and will be invited to our family events including the annual Presentation Ceremony. FSDP has an active Facebook community and scholars are encouraged to become part of it.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "flying-scholarships-for-disabled-people",
+      "name": "scholarship(s) awarded",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 111912666,
+        "value": "11191.26666666666722623"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Flying Scholarships for Disabled People",
+    "flying-scholarships-for-disabled-people"
+  ],
+  "url": "http://www.fsdp.co.uk/",
+  "whyTags": "Disabilities",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "scholarship(s) awarded",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 111912666,
+      "value": "11191.26666666666722623"
+    }
+  },
+  "meta": {
+    "stories": {
+      "source": "http://www.fsdp.co.uk/scholarships/"
+    },
+    "description": {
+      "source": "http://www.fsdp.co.uk/scholarships/"
+    }
+  },
+  "ready": false,
+  "name": "Flying Scholarships for Disabled People",
+  "modified": false,
+  "logo": "http://www.fsdp.co.uk/wp-content/uploads/2016/12/main-logo.jpg",
+  "@id": "flying-scholarships-for-disabled-people",
+  "wikipedia": "https://en.wikipedia.org/wiki/Flying_Scholarships_for_Disabled_People",
+  "englandWalesCharityRegNum": "1148914",
+  "summaryDescription": "Flying Scholarships for Disabled People (FSDP) aims to build the confidence and self-esteem of disabled people by providing them with aviation experiences",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
