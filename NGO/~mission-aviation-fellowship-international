@@ -124,10 +124,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "32408000",
+          "raw": "25",
           "currency": "GBP",
-          "value100p": 3.2408E11,
-          "value": 3.2408E7
+          "value100p": 250000.0,
+          "value": 25.0
         }
       ],
       "meta": {
@@ -188,8 +188,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 8573544,
-        "value": "857.354497354497386048000"
+        "value100p": 6,
+        "value": "0.000661375661375661400"
       },
       "n": 1.0
     }
@@ -205,8 +205,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 8573544,
-      "value": "857.354497354497386048000"
+      "value100p": 6,
+      "value": "0.000661375661375661400"
     }
   },
   "name": "Mission Aviation Fellowship International",
