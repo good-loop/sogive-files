@@ -1,12 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "True-Colors-united",
-  "name": "True Colors United",
-  "logo": "https://media.good-loop.com/uploads/standard/TCU-FiscalNote-Case-Study-3.22.51-PM-300x300-4002549863944328205.png",
-  "id": "true-colours-united",
-  "suggest": [
-    "True Colors United",
-    "True-Colors-united"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/download-5715588116848766837.png#ccrop:152",
+  "id": "the-lee-initiative",
+  "suggest": [],
   "status": "DRAFT"
 }
