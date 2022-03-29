@@ -1,0 +1,251 @@
+{
+  "scotlandCharityRegNum": "SC037790",
+  "images": "https://meningitisnow.ams3.cdn.digitaloceanspaces.com/media/images/DSC_0631_1.2e16d0ba.fill-600x450.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803016_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "913168",
+          "currency": "GBP",
+          "value100p": 9.13168E9,
+          "value": 913168.0
+        }
+      ],
+      "name": "Communication and awareness"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Community Support"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2600.0,
+          "name": "people (singular: person) supported on the helpline"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803016_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "349972",
+          "currency": "GBP",
+          "value100p": 3.49972E9,
+          "value": 349972.0
+        }
+      ],
+      "name": "Helpline and support services",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Research"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803016_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2632442",
+          "currency": "GBP",
+          "value100p": 2.632442E10,
+          "value": 2632442.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "5961",
+          "currency": "GBP",
+          "value100p": 5.961E7,
+          "value": 5961.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Meningitis constitutes just under 1% of global DALYs (a measure of combined disease and mortality burden) (source: IHME)\n\nMeningitis Now splits its work in the following areas:\nCommunication and awareness: c 50%\nCommunity support: c 25%\nHelpline and support services: c 20%\nResearch: c 5%\n\nMeningitis Now was formed as the merger of Meningitis UK and Meningitis Trust in 2013.",
+  "recommendation": "Meningitis Now splits its work in the following areas:\nCommunication and awareness: c 50%\nCommunity support: c 25%\nHelpline and support services: c 20%\nResearch: c 5%\n\nWe aim to apply the SoGive two-question method to understand each area. We have not been able to find data in the public domain for any of those project except for the helpline project.\n\nThe helpline project appears to provide support at a cost of just over £100 per person helped. This appears to be within the same ballpark as many other helplines we have seen in the SoGive database. The lowest cost per call that we have seen is for Samaritans, which benefits from a heavily volunteer-led workforce, and spends only around £4 per call. The Meningitis Now helpline employs nurses, which will largely account for the difference in cost. The decision to employ nurses increases the cost by a factor of \u003e20. It is unclear whether that decision increases the benefit to service users by a similar factor.",
+  "suggest": [
+    "Meningitis Now",
+    "meningitis-now"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "meningitis-now",
+      "name": "people (singular: person) supported on the helpline",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1346046,
+        "value": "134.6046153846153792312"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "www.meningitisnow.org",
+  "whyTags": "Meningitis, Health",
+  "howTags": "research, direct work, campaigning ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) supported on the helpline",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1346046,
+      "value": "134.6046153846153792312"
+    }
+  },
+  "ready": false,
+  "name": "Meningitis Now",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/Meningitis_now_logo-1830756285575799512.png",
+  "@id": "meningitis-now",
+  "summaryDescription": "Meningitis Now is a charity whose vision is a future where no one in the UK loses their life to meningitis and everyone affected gets the support they need to rebuild their lives.",
+  "englandWalesCharityRegNum": "803016",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "whereTags": "UK",
+  "status": "PUBLISHED"
+}
