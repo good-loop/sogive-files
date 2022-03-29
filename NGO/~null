@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Equal ",
   "logo": "https://media.good-loop.com/uploads/standard/download_5-6228441910482626114.png",
   "id": "equal-justice-initiative",
-  "suggest": [],
+  "suggest": [
+    "Equal "
+  ],
   "status": "DRAFT"
 }
