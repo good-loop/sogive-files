@@ -1,0 +1,131 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1.2348004E7,
+          "name": "Trees",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://d2zd6ny1q7rvh6.cloudfront.net/cc197015-bedf-4ceb-b8b6-2865f5a17673/b02dfb0ebc5c4ac3b1bf8307c8fb94a8?response-content-disposition\u003dinline%3B%20filename%2A%3DUTF-8%27%272018-Impact-Report-spreads.pdf\u0026response-content-type\u003dapplication%2Fpdf\u0026Expires\u003d1567865705\u0026Signature\u003dBv6Bfk4jZl-u2Xb-ucW6graDJMrKWjZRtUw~FaF2OxLQ5h5EGX6RZYQG8GvJbiYJERpjWX4zhwMeoOEAG8Ym5JKdso0F137jDRNQQaw-jav~MSTZE3DoXVYfL82bgUEjo6rN-q2lUn7BSIObv4q7re-ldK0oI6pEyGxEUlVeZX86k4SC0UXETrnUdIoSjsKyNR5LBYKhXGIeo~v6tViQH0K2-dOHSo1JBEW-c12J5WSp13t5amxPviuFzB53jjlI4WbRMFmY35BwzX1WblyTjEweeypEQKUB~m0dFdBxx-YapbC4kTrZxQoMm0ug076qpcgK0L7cxObXqXIG2bWhEg__\u0026Key-Pair-Id\u003dAPKAI33AGAEAYCXFBDTA"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1,640,580.98",
+          "currency": "GBP",
+          "value100p": 1.64058098E10,
+          "value": 1640580.98
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "",
+          "currency": "GBP",
+          "value100p": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.3808643E7,
+          "name": "Trees"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Mission: To improve the livelihoods of impoverished farmers by revitalizing degraded lands.",
+  "suggest": [
+    "Trees for the Future",
+    "trees-for-the-future"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "trees-for-the-future",
+      "name": "Trees",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1328,
+        "value": "0.1328620382695049288525532"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://trees.org",
+  "howTags": "trees",
+  "whyTags": "Climate change, environment ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Trees",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1328,
+      "value": "0.1328620382695049288525532"
+    }
+  },
+  "ready": false,
+  "name": "Trees for the Future",
+  "modified": false,
+  "logo": "https://trees.org/app/uploads/2017/10/TFF-Horizontal-027e40.png",
+  "@id": "trees-for-the-future",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED",
+  "usCharityRegNum": "52-1644869"
+}
