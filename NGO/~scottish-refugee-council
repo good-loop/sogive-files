@@ -249,7 +249,7 @@
   "recommendation": "We assign Scottish Refugee Council a rating of Bronze.\n\nScottish Refugee Council has three main areas of charitable activity: Refugee \u0026 Asylum Services, Refugee Integration, and Policy \u0026 Advocacy, according to our review of the 2018-19 accounts. \n\nAs per the SoGive methodology, we consider two questions: how much does it cost the charity to do its work, and what is the work, or what does the beneficiary get for your money.\n\nIn the case of the Scottish Refugee Council, it costs them around £3000 to help one person, and the helped received is Destitute asylum seekers supported with advice, advocacy and support to explore their options.\n\nAs a benchmark, we could compare with cost-effective interventions in the developing world such as malaria nets, which would likely deliver an outcome as good as a life saved for around £1,500 or so. In other words, for the same money, we could help one person through the Scottish Refugee Council, and for each person there would be uncertain outcomes, but it\u0027s unlikely that each of them would receive life-changingly positive outcomes; or for the save money achieve two life-saved-equivalent outcomes.\n\nOn balance we believe that supporting refugees in Scotland is a positive outcome, but for each pound donated there are other options which achieve more good",
   "whyTags": "Refugees",
   "imageCaption": "Building a better future with refugees in Scotland.",
-  "ready": true,
+  "ready": false,
   "modified": true,
   "logo": "https://app.sogive.org/uploads/3083406641670385facebook/srclogosmall-15743965170181639552.jpg#ccrop:102",
   "@id": "scottish-refugee-council",
@@ -261,6 +261,21 @@
   "suggest": [
     "Scottish Refugee Council",
     "scottish-refugee-council"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "scottish-refugee-council",
+      "name": "destitute asylum seeker(s) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 30723682,
+        "value": "3072.3682539682537224645079365079303632"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.scottishrefugeecouncil.org.uk",
   "simpleImpact": {
