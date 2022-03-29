@@ -1,0 +1,142 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/artboxlondon-4585419263278132809.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 100.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "session(s) delivered",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 50.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) with learning disabilities getting a chance to do art",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 33178.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 331.78
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.2121E8,
+          "value": 52121.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.8943E8,
+          "value": 18943.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends74/0001148174_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "No analysis of the extent to which participating in art sessions really enhances the lives of people with learning disabilities",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Artbox London",
+    "artbox-london"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "artbox-london",
+      "name": "session(s) delivered",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3317800,
+        "value": "331.78"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Education, Arts, Disabilities",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "session(s) delivered",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3317800,
+      "value": "331.78"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Artbox London",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/static1.squarespace-16949643511459512036.png",
+  "@id": "artbox-london",
+  "summaryDescription": "Artbox London work with people with learning disabilities to create, exhibit and sell their artwork. Profits from sales of original art are split 50:50 with the artists.",
+  "whereTags": "London, United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
