@@ -1,0 +1,146 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 777.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "youth(s) helped",
+          "start": "2013-04-01T00:00:00Z",
+          "description": "Sport 4 Life UK helps create a better future for young people aged 12 to 25 by improving their employability and key life skills, through our sports-themed personal development programmes",
+          "end": "2014-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 9089.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "youth(s) attending (but not necessarily meaningfully engaging in) sport-themed personal development, educational, or employability programmes",
+          "start": "2013-04-01T00:00:00Z",
+          "end": "2014-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 37481.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 374.81
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value100p": 2.91226E9,
+          "value": 291226.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends22/0001115222_AC_20140630_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "777 beneficiaries comes from http://sport4life.org.uk/wp-content/uploads/2014/12/S4LAnnualReport-2013-14_000.pdf",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Sport 4 life UK",
+    "sport-4-life-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sport-4-life-uk",
+      "name": "youth(s) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3748082,
+        "value": "374.808236808236807862"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "http://sport4life.org.uk/",
+  "whyTags": "Sport, NEET",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "youth(s) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3748082,
+      "value": "374.808236808236807862"
+    }
+  },
+  "whoTags": "Young people",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Sport 4 life UK",
+  "logo": "http://sport4life.org.uk/wp-content/uploads/2017/01/sport4life-logo.png",
+  "modified": false,
+  "@id": "sport-4-life-uk",
+  "summaryDescription": "Sport 4 Life UK is proud to create better futures for young people  (aged 12 to 29) by improving their employability and key life skills, through our sports-themed personal development programmes. ",
+  "englandWalesCharityRegNum": "1115222",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
