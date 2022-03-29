@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Stem For Her",
   "id": "stem-for-her",
-  "suggest": []
+  "suggest": [
+    "Stem For Her"
+  ],
+  "status": "DRAFT"
 }
