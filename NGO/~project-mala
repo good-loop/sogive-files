@@ -1,0 +1,134 @@
+{
+  "images": "https://projectmala.org.uk/images/school/primary-child-01.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1200.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "children (singular: child) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to children helped to get an education, who therefore hopefully don\u0027t have to work as carpet weavers",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "An adjustment has been applied in this calculation - the number of people reached has been divided into the costs as shown in this set of accounts. However this is just for the UK entity, and we know that 80% of the cost is covered by the UK entity, and the remainder is fundraised in India, so we then divided by 80% to get the final figure",
+      "donationWording": "Your donation enabled XXX children to get an education, and therefore hopefully not have to make carpets!",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Project%20mala%20image.PNG",
+      "stories": "Project Mala seeks out working children in remote villages of eastern Uttar Pradesh, India and gives them quality education in four R\u0027s reading, writing, arithmetic and respect.  Respect for others and the environment as well as self-respect in personal hygiene good manners.",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "http://www.projectmala.org.uk/gb/about-us/introduction/project-mala",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.11812E9,
+          "value": 211812.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends53/0000801953_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Project Mala",
+    "project-mala"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "project-mala",
+      "name": "children (singular: child) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1765100,
+        "value": "176.5100000000000141208"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://projectmala.org.uk/",
+  "whyTags": "Education, Child Labour, International aid, poverty, Children",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1765100,
+      "value": "176.5100000000000141208"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Project Mala",
+  "logo": "https://pbs.twimg.com/profile_images/1286285327947243520/r4qfNyO8_400x400.png",
+  "modified": false,
+  "@id": "project-mala",
+  "summaryDescription": "Project Mala seeks out working children in remote villages of eastern Uttar Pradesh, India and gives them quality education in four R\u0027s reading, writing, arithmetic and respect. ",
+  "englandWalesCharityRegNum": "801953",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
