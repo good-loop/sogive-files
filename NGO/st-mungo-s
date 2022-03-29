@@ -1,0 +1,226 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/stmungos-15102496788908247421.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 25000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "low",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 7.2139E9,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 7.2139E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 6.5225E9,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 6.5225E7
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends85/0001149085_AC_20150331_E_C.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://blog.mungos.org/about-2/"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Income from charitable activities: ?45m of that is clearly rent from social housing, for the rest it\u0027s itemised in note 2, but not a lot of info is given about each item, so it\u0027s hard to be too sure about it, but it looks like it\u0027s probably OK so I\u0027ve left it in there. Website states \"We support 25,000 people a year who are homeless or at risk\" and \"We provide a bed and support to more than 2,500 people a night\". Cost per beneficiary is low compared to some comparable charities because of the social housing model where people pay rent.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 25000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Confidence is lower in this number, because the numbers don\u0027t come from a consistent source. The cost figures are from the 2015-16 accounts, the total number of people helped comes from the website. "
+            }
+          },
+          "confidence": "low",
+          "name": "homeless/at-risk people (singular: person) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "The help is a mixture of different types of help: Emergency, hostel and supportive housing projects, Advice services, Specialist physical and mental health services, Skills and work services",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 8.8595E11,
+          "value": 8.8595E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 2.661E9,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 2.661E7
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends85/0001149085_AC_20160331_E_C.pdf"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://blog.mungos.org/about-2/"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Confidence is lower in this number, because the numbers don\u0027t come from a consistent source. The cost figures are from the 2015-16 accounts, the total number of people helped comes from the website. Our methodology allows us to offset the overall cost when the beneficiaries have part-funded the work. This is the case here, however some of the funding also comes from the government\u0027s \"Supporting People\" programme. This has not been given credit as something reducing the overall cost shouldered by donors, as we treat government funders as a funder like any other.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "St Mungo\u0027s",
+    "st-mungo-s"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "st-mungo-s",
+      "name": "homeless/at-risk people (singular: person) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 24794000,
+        "value": "2479.400000"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Homelessness",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "homeless/at-risk people (singular: person) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 24794000,
+      "value": "2479.400000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "St Mungo\u0027s",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/jobs.theguardian-6554174038718100875.jpg",
+  "@id": "st-mungo-s",
+  "englandWalesCharityRegNum": "1149085",
+  "summaryDescription": "St Mungo\u0027s helps people recover from the issues that create homelessness by providing specialised accommodation services among other things",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
