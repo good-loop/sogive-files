@@ -1,0 +1,213 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 4860138.0,
+          "meta": {
+            "all": {
+              "notes": "2019/2020 annual report (p. 2)."
+            }
+          },
+          "confidence": "medium",
+          "name": "visit(s)"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "103343000",
+          "currency": "GBP",
+          "value100p": 1.03343E12,
+          "value": 1.03343E8
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "14010000",
+          "currency": "GBP",
+          "value100p": 1.401E11,
+          "value": 1.401E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "9855000",
+          "currency": "GBP",
+          "value100p": 9.855E10,
+          "value": 9855000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019/2020 annual report (p. 38). \"Annual costs\" \u003d (\"Total expenditure\" for \"2020 Total funds\"). \"Trading costs\" \u003d (\"Trading costs\" for \"2020 Total funds\"). \"Income from Beneficiaries\" \u003d (\"Admissions \u0026 exhibition fees\" for \"2020 Total funds\")."
+        },
+        "reserves": {
+          "notes": "2019/2020 annual report (p. 42). \"Reserves\" \u003d (\"General funds\" for \"Museum 2020\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "2785000",
+        "currency": "",
+        "value100p": 2.785E10,
+        "value": 2785000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "62670000",
+          "currency": "GBP",
+          "value100p": 6.267E11,
+          "value": 6.267E7
+        }
+      ],
+      "name": "Collections \u0026 Learning",
+      "start": "2019-04-01",
+      "end": "2020-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14450000",
+          "currency": "GBP",
+          "value100p": 1.445E11,
+          "value": 1.445E7
+        }
+      ],
+      "name": "Exhibitions",
+      "start": "2019-04-01",
+      "end": "2020-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Victoria and Albert Museum",
+  "description": "\"The V\u0026A is the world’s leading museum of art and design, housing a permanent collection of over 2.3 million objects that span over 5,000 years of human creativity. The Museum holds many of the UK\u0027s national collections and houses some of the greatest resources for the study of architecture, furniture, fashion, textiles, photography, sculpture, painting, jewellery, glass, ceramics, book arts, Asian art and design, theatre and performance\".",
+  "recommendation": "**Summary**\n\n**The Victoria and Albert Museum is rated as Not Recommended (Firm) on the SoGive ratings scale.**\n\n- The Victoria and Albert Museum’s (V\u0026A) mission is \"to be recognised as the world’s leading museum of art, design and performance, and to enrich people’s lives by promoting research, knowledge and enjoyment of the designed world to the widest possible audience\".\n- Based on its 2019/2020 annual report, we believe the average cost to the charity per visit to the V\u0026A was about £16.\n- For this cost, a Gold-rated organisation could be expected to avert about 1 month of severe depression. While there may be positive impacts on well-being from visiting the V\u0026A museums, and less tangible cultural benefits, we do not believe these are as good as averting 1 month of severe depression.\n- For this reason, it is very likely that a donation to the V\u0026A will achieve less positive impact than the same amount of money given to a Gold-rated organisation, and we therefore do not recommend donating to the V\u0026A at the current time.\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what the V\u0026A does - how they spend your donations**\n\nThe V\u0026A describes itself as \" the world’s leading museum of art and design, housing a permanent collection of over 2.3 million objects that span over 5,000 years of human creativity. The Museum holds many of the UK\u0027s national collections and houses some of the greatest resources for the study of architecture, furniture, fashion, textiles, photography, sculpture, painting, jewellery, glass, ceramics, book arts, Asian art and design, theatre and performance\" ([V\u0026A About Us](https://www.vam.ac.uk/info/about-us)). The V\u0026A’s total expenditure of £103M for the year ending 31 March 2020 was allocated as follows ([2019/2020 annual report](https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf), p. 50):\n- Charitable activities (75%):\n\t- Collections \u0026 Learning (61%).\n\t- Exhibitions (14%).\n- Raising funds (23%).\n- Loss on associate (2.1%).\n\nBased on the financial information provided on the [2019/2020 annual report](https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf) (p. 38), the cost of the charitable activities to the V\u0026A was £79.5M. This was estimated by subtracting the \"trading cost\" (£14.0M) and \"income from beneficiaries\" (£9.9M) from the total expenditure (£103M). The \"trading costs\" entailed roughly 60% of the expenditure on raising funds, and the \"income from beneficiaries\" includes admissions and exhibition fees.\n\nDuring the year ending 31 March 2020, 4.08M people visited the V\u0026A’s two museums in South Kensington and Bethnal Green, and ten exhibitions that toured to 13 different museums were seen by almost 779k people ([2019/2020 annual report](https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf), pp. 2 and 3), totalling 4.86M visits.\n\n\n**Cost-effectiveness analysis - how does the V\u0026A compare to the most cost-effective charities?**\n\nAfter a review of the work of the V\u0026A under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nThe cost-effectiveness can be estimated based on the cost of the charitable activities to the V\u0026A of £79.5M, and the 4.86M visits to its two museums. These imply an average cost per visit of £16.\n\nFor the above cost to match the SoGive Gold Standard of £200 to avert one year of severe depression, the average impact per visitor would have to be an improvement in well-being equivalent to averting about 1 month of severe depression (£16.35 / £200 * 12 \u003d 0.98). While there may be positive impacts on well-being from visiting the V\u0026A museums, and less tangible cultural benefits, we do not believe these achieve an outcome as good as averting 1 month of severe depression.\n\nEven assuming the overall impact of the V\u0026A is 10 times as large due to the indirect effect of the charitable activities, the average impact per visitor would have to be an improvement in well-being equivalent to averting about 3 days of severe depression (£1.635 / £200 * 365.25 \u003d 3.0). Moreover, there are many museums and experiences to be enjoyed in London. As a result, most of the visitors could have done something similarly good (if not quite as good) if they had not visited the V\u0026A museums, thus the marginal benefit of a visit to the V\u0026A is likely to be fairly small. Finally, if faced with a reduction in donations, we might reasonably expect the V\u0026A to simply slightly increase their ticket price or spend slightly less on exhibitions - they are not fully dependent on donations to fund their activities.\n\nFor these reasons, it is highly likely that a donation to the V\u0026A will achieve less positive impact than the same amount of money given to a Gold-rated organisation.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Conclusion**\n\nBased on the above, we rate the Victoria and Albert Museum as Not Recommended (Firm) under the SoGive methodology. \n \n\n",
+  "whyTags": "Arts",
+  "ready": true,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Victoria_and_Albert_Museum_Logo.svg/1200px-Victoria_and_Albert_Museum_Logo.svg.png",
+  "@id": "victoria-and-albert-museum",
+  "id": "victoria-and-albert-museum",
+  "wikipedia": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
+  "summaryDescription": "The Victoria and Albert Museum (V\u0026A) mission is \"to be recognised as the world’s leading museum of art, design and performance, and to enrich people’s lives by promoting research, knowledge and enjoyment of the designed world to the widest possible audience\".",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Victoria and Albert Museum",
+    "Victoria and Albert Museum",
+    "victoria-and-albert-museum"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "victoria-and-albert-museum",
+      "name": "visit(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 163530,
+        "value": "16.3530335969883980790000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.vam.ac.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "visit(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 163530,
+      "value": "16.3530335969883980790000"
+    }
+  },
+  "meta": {
+    "description": {
+      "source": "https://www.vam.ac.uk/info/about-us"
+    },
+    "englandWalesCharityRegNum": {
+      "notes": "The Victoria and Albert Museum is an exempt charity. This means it is not registered with, or regulated by, the Charity Commission, so does not have a Charity Commission number. Instead, it is Department for Culture, Media and Sport. Annual reports can be found on the V\u0026A website."
+    },
+    "summaryDescription": {
+      "notes": "2019/2020 annual report (p. 2).",
+      "source": "https://vanda-production-assets.s3.amazonaws.com/2020/10/15/09/03/52/b7a4469d-b6b1-4920-a59e-26c4f75a79d8/VARPT2009-200929-signatures%20FINAL%20Full%20PDF.pdf"
+    },
+    "uk_giftaid": {
+      "notes": "See \"Gift Aid on your donation\".",
+      "source": "https://www.vam.ac.uk/info/join-support"
+    }
+  },
+  "name": "Victoria and Albert Museum",
+  "category": "arts culture humanities",
+  "subcategory": "Museums",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
