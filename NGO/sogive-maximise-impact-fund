@@ -1,0 +1,18 @@
+{
+  "@type": "NGO",
+  "noPublicDonations": true,
+  "description": "To donate to the Managed Fund, please contact SoGive or your IFA.",
+  "suggest": [
+    "SoGive Maximise Impact Fund",
+    "sogive-maximise-impact-fund"
+  ],
+  "recommended": false,
+  "ready": false,
+  "name": "SoGive Maximise Impact Fund",
+  "modified": false,
+  "@id": "sogive-maximise-impact-fund",
+  "summaryDescription": "Care about doing good in the world? Why not allow SoGive\u0027s analysts work out the best charities to donate to. Using our own analysis and those of trusted partners, we will find the best bang for your buck to achieve the most good in the world, and report back on your impact.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
