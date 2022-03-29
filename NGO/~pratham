@@ -1,0 +1,743 @@
+{
+  "circleCrop": 110.0,
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 807500.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Information about the financials in the public domain is somewhat scant. In particular, the expenditure is not broken down between different projects, so we have to use a total expenditure figure, which actually also includes the costs of (for example) funding ASER, a massive nationally representative study of households to assess child literacy and numeracy."
+            }
+          },
+          "confidence": "low",
+          "name": "children (singular: child) helped",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "value100": 1.5800888E9,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 1.5800888E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.pratham.org/templates/pratham/images/Pratham_Education_Foundation_Annual_Report_2014-15_DRAFT.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Income from charitable activities, trading costs and fundraising costs are given as zero in this database, but actually we don\u0027t know - it\u0027s not stated in the accounts. Not obvious how to account for ASER in cost per ben calcs. If we tihnk that ASER has enough media attention that Pratham is unlikely to cut it, then we simply treat it as a \"core\" activity, and therefore a marginal extra donation won\u0027t influence it. If, on the other hand, programmes such as Read India have some scalability, then extra donations may lead to more literacy.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 430000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.pratham.org/templates/pratham/images/Pratham_Education_Foundation_Annual_Report_2014-15_DRAFT.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "read india",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 365000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.pratham.org/templates/pratham/images/Pratham_Education_Foundation_Annual_Report_2014-15_DRAFT.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Urban learning centres for kids in slums",
+      "name": "urban program",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.pratham.org/templates/pratham/images/Pratham_Education_Foundation_Annual_Report_2014-15_DRAFT.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "National study of educational levels in India",
+      "name": "aser",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 12500.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.pratham.org/templates/pratham/images/Pratham_Education_Foundation_Annual_Report_2014-15_DRAFT.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "vocational training",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value100p": 2.336E11,
+          "value": 2.336E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2017.0,
+          "@type": "Citation",
+          "url": "Email from Pratham"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2017-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 640928.0,
+          "year": 2017.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Figures about the number of children reached and the cost figures were provided in an email, and it wasn\u0027t entirely clear that the figures were provided on a like-for-like basis. We suspect that the costs cover slightly more than those outputs, however the mismatch is probably not too large."
+            }
+          },
+          "confidence": "low",
+          "name": "children (singular: child) reached",
+          "start": "2016-04-01T00:00:00Z",
+          "description": "This refers to children reached via Pratham\u0027s direct work with children, such as Read India, in which children are helped with basic numeracy and literacy in learning camps.",
+          "end": "2017-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value100p": 1.2766512E11,
+          "value": 1.2766512E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2017.0,
+          "@type": "Citation",
+          "url": "Email from Pratham"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "educational programmes",
+      "analyst": "Sanjay",
+      "end": "2017-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value100p": 6.247442E10,
+          "value": 6247442.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2017.0,
+          "@type": "Citation",
+          "url": "Email from Pratham"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "vocational training",
+      "analyst": "Sanjay",
+      "end": "2017-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value100p": 2.444651E10,
+          "value": 2444651.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2017.0,
+          "@type": "Citation",
+          "url": "Email from Pratham"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "aser national survey",
+      "analyst": "Sanjay",
+      "end": "2017-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "Your donation provided XXX1 children with an improved education, well done!",
+      "images": "http://www.pratham.org/templates/pratham/images/cs_big.jpg",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "http://www.pratham.org/impact/case-studies",
+      "inputs": [
+        {
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value100p": 1.901395E10,
+          "value": 1901395.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2017.0,
+          "start": "2016-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2017-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2017.0,
+          "@type": "Citation",
+          "url": "Email from Pratham"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "digital initiatives",
+      "analyst": "Sanjay",
+      "end": "2017-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "recommendation": "Pratham is a major developing world education charity, renowned for its focus on evidence-based work. It operates in India. Its programmes include summer camps to improve the educational standards of children and their work is characterised by a strong attention to checking the impact of their activities and adapting accordingly. They also conduct the ASER study, a highly influential survey of the standard of education in India.\n",
+  "whyTags": "Education, International aid, poverty",
+  "hideImpact": false,
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/anon/Pratham_logo-8875277930135437675.png",
+  "modified": false,
+  "@id": "pratham",
+  "summaryDescription": "Pratham is an innovative evidence-oriented charity improving the quality of education in India",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/danielgood-loop.comemail/1554821886585-17114521439509801614.jpeg",
+  "noPublicDonations": false,
+  "suggest": [
+    "Pratham",
+    "pratham"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "pratham",
+      "name": "children (singular: child) reached",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 199187,
+        "value": "19.9187927505117569576448"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://pratham.org.uk/",
+  "howTags": "Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 199187,
+      "value": "19.9187927505117569576448"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Pratham",
+  "englandWalesCharityRegNum": "1099386",
+  "whereTags": "India",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
