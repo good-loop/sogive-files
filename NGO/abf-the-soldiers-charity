@@ -324,7 +324,8 @@
         "currency": "",
         "value100p": 3.2107928E11,
         "value": 3.2107928E7
-      }
+      },
+      "isRep": true
     },
     {
       "outputs": [],
@@ -451,13 +452,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "abf-the-soldiers-charity",
-      "name": "members of the army family supported",
+      "name": "members (singular: member) of the army supported",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 533786,
-        "value": "53.378671428571425902495"
+        "value100p": 1757981,
+        "value": "175.798183333333336849297"
       },
       "n": 1.0
     }
@@ -467,13 +468,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "members of the army family supported",
+    "name": "members (singular: member) of the army supported",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 533786,
-      "value": "53.378671428571425902495"
+      "value100p": 1757981,
+      "value": "175.798183333333336849297"
     }
   },
   "meta": {
@@ -487,5 +488,5 @@
   "englandWalesCharityRegNum": "1146420",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
