@@ -1,0 +1,120 @@
+{
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Fistula%20F%20Annet%20Jane%201.PNG?raw\u003dtrue",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5076.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "women (singular: woman) treated for fistulas",
+          "description": "An obstetric fistula is a hole between the vagina and rectum or bladder that can be caused by prolonged obstructed labor, leaving a woman incontinent of urine or feces or both.",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Fistula%20F%20Annet%20Jane%201.PNG?raw\u003dtrue",
+      "stories": "Annet Jane was only 14 when she became pregnant with her first and only child. Her water broke at night, and she planned to labour at home until the next morning, when she and her husband would borrow a bicycle for the 18-mile trip to the nearest hospital. Tragically, she lost the baby. The prolonged labour also left her with a fistula (a hole between the vagina and rectum or bladder). Twenty-three years later, through a fistula clinic at our partner clinic at Fistula Foundation\u0027s partner site CoRSU Rehabilitation Hospital in Uganda, Annet Jane was finally able to receive treatment. \"I am happy that for the first time in my life I am completely dry,\" she says. \"I can freely speak in public without anyone belittling me.\"",
+      "@type": "Project",
+      "stories_src": "p20 of 2015 annual report http://online.fliphtml5.com/jhcn/ivfz/#p\u003d20",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 6.564707E10,
+          "value": 6564707.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://online.fliphtml5.com/jhcn/ivfz/#p\u003d4"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.fistulafoundation.org/pdf/AuditedStatement2015.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Fistula Foundation",
+    "fistula-foundation"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "fistula-foundation",
+      "name": "women (singular: woman) treated for fistulas",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 12932834,
+        "value": "1293.28349093774635756438"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Health, international aid",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "women (singular: woman) treated for fistulas",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 12932834,
+      "value": "1293.28349093774635756438"
+    }
+  },
+  "whoTags": "Women",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Fistula Foundation",
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Fistula%20F%20logo%201.png?raw\u003dtrue",
+  "@id": "fistula-foundation",
+  "lastModified": "2020-09-26T07:46:04Z",
+  "summaryDescription": "Obstetric fistula is a preventable childbirth injury that devastates the lives of mothers. Fistula Foundation funds fistula treatment in Africa and Asia.",
+  "whereTags": "Developing World",
+  "uk_giftaid": false,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
