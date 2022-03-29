@@ -395,7 +395,7 @@
   ],
   "@type": "NGO",
   "whyTags": "Health, Children",
-  "ready": true,
+  "ready": false,
   "modified": true,
   "logo": "http://www.malariaconsortium.org/website-2013/images_template/malaria_consortium_logo.png",
   "@id": "malaria-consortium",
@@ -409,13 +409,35 @@
     "Malaria Consortium",
     "malaria-consortium"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "malaria-consortium",
+      "name": " children (singular: child) receiving SMC malaria treatment",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 75000,
+        "value": "7.5"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "http://www.malariaconsortium.org/",
   "howTags": "Direct Work",
   "recommended": true,
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2016.0]"
+    "name": " children (singular: child) receiving SMC malaria treatment",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 75000,
+      "value": "7.5"
+    }
   },
   "whoTags": "Children",
   "meta": {
