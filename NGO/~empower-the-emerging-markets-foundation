@@ -1,0 +1,149 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 55000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: It\u0027s not clear whether there are some costs missing (i.e. the true cost of reaching those beneficiaries might involve some costs from partner organisations, perhaps)"
+            }
+          },
+          "confidence": "low",
+          "name": "young people (singular: person) directly impacted",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "Of the young people directly impacted, many (almost half) were supported to increase their capacity to protect their health. Empower also helped young people to increase their life skills such critical thinking, problem solving, teamwork, or their self-confidence",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 149000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: It\u0027s not clear whether there are some costs missing (i.e. the true cost of reaching those beneficiaries might involve some costs from partner organisations, perhaps)"
+            }
+          },
+          "confidence": "low",
+          "name": "lives (singular: life) touched",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.643884E10,
+          "value": 4643884.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://empowerweb.org//assets/uploads/reports/EMpower-Annual-Review-2015_20-FINAL-MAY-13.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "EMPOWER - THE EMERGING MARKETS FOUNDATION",
+    "empower-the-emerging-markets-foundation"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "empower-the-emerging-markets-foundation",
+      "name": "young people (singular: person) directly impacted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 844342,
+        "value": "84.434254545454546298888"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Youth, Children, international aid",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "young people (singular: person) directly impacted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 844342,
+      "value": "84.434254545454546298888"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "EMPOWER - THE EMERGING MARKETS FOUNDATION",
+  "@id": "empower-the-emerging-markets-foundation",
+  "summaryDescription": "Empower supports local organizations in emerging market countries that provide at-risk youth with the tools and resources they need to lead healthy, productive lives.",
+  "englandWalesCharityRegNum": "1118916",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
