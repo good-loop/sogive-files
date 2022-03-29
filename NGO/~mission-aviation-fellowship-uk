@@ -1,0 +1,18 @@
+{
+  "scotlandCharityRegNum": "SC039107",
+  "@type": "NGO",
+  "displayName": "MAF UK",
+  "name": "Mission Aviation Fellowship UK",
+  "modified": true,
+  "@id": "mission-aviation-fellowship-uk",
+  "suggest": [
+    "Mission Aviation Fellowship UK",
+    "MAF UK",
+    "mission-aviation-fellowship-uk"
+  ],
+  "englandWalesCharityRegNum": "1064598",
+  "url": "https://www.maf-uk.org/",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
