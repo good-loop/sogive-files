@@ -1,0 +1,141 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/straighttalking-9839699348265418239.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5580.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "pupil(s) receiving talks",
+          "start": "2013-08-01T00:00:00Z",
+          "description": "pupils in London schools receiving talks about teenage pregnancy from people who themselves have been teen parents",
+          "end": "2014-07-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 36.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "youth(s) who became parents as teenagers provided with employment",
+          "start": "2013-08-01T00:00:00Z",
+          "end": "2014-07-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2013-08-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-07-31T00:00:00Z",
+          "value100p": 2.20883E9,
+          "value": 220883.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-08-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-07-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-08-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-07-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-08-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-07-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-08-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.straighttalking.org/pdfs/Accounts-Year-Ended-31-July-2014.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-07-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Straight talking",
+  "noPublicDonations": false,
+  "suggest": [
+    "Straight talking peer education",
+    "Straight talking",
+    "straight-talking-peer-education"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "straight-talking-peer-education",
+      "name": "pupil(s) receiving talks",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 395847,
+        "value": "39.58476702508960590894"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Teenage pregnancy",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "pupil(s) receiving talks",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 395847,
+      "value": "39.58476702508960590894"
+    }
+  },
+  "whoTags": "Young people",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Straight talking peer education",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/67606208__-576417778712__o-17737454872609421373.png",
+  "@id": "straight-talking-peer-education",
+  "summaryDescription": "UK charity hiring teen parents to raise the awareness of problems with teen pregnancy",
+  "englandWalesCharityRegNum": "1101726",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
