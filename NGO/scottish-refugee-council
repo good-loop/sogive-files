@@ -1,0 +1,300 @@
+{
+  "scotlandCharityRegNum": "SC008639",
+  "ukCompanyRegNum": "SC145067",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1417.0,
+          "meta": {
+            "all": {
+              "notes": "Cost numbers come from the accounts. Number of people reached comes from the homepage of the website https://www.scottishrefugeecouncil.org.uk/, which says \"This year we helped 1417 people feel more at home in Scotland\""
+            }
+          },
+          "name": "people (singular: person) helped",
+          "description": "This refers to people helped to feel more at home in Scotland"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/PH6GadUX_7B8QSGoLVCe5fgjaG_V7ewvTQ6ngBVXjxE/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3N6KFW75U%2F20200321%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20200321T221108Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjECUaCWV1LXdlc3QtMiJHMEUCIQDvGNkh6KCDCH6Eg1OVCP%2BlIPSIFsPLNzD%2B6IWeVcHoqgIgCR9FEWmoAPyTcKVhItzdoV9HK0Wz9VqIOZulVJti62YqtAMIHRACGgw0NDkyMjkwMzI4MjIiDJ3yktt3p%2Bgf6Drq%2BCqRA6UfKUhVQond9bq9xeSqgcUUS%2BbfVhV4PowuBlLr5CxztCivBJUtkXWWVg6GIrLO6v3U%2FtMINhAj0k06eVL9YjG8St8OUf0IixcVejRrwprTHNfK79inrItxar1AGoAayQW%2FPdudIClpq4hsrboX1aVeojXQT2HcTsyvppweCeyVrEaBhYcqBySC1tRo8ijfvCIYU%2FTLL3Fx4HDZiykXlZ9n0UF6dIHX8bwdZ2jJQReXV904E8iGyVxym6B4MORt%2BkCyLnmuNU%2Bt2VNSupFh0uwXlpHZ4H73r0rXIaw4hTxAQQ8KSkjRixPssHFgjUpNFiWvf425NR8wugkpb%2FCTTHQceXfEY8usdw5aXCgLOEXMVOh1JQOxZbHG3SydoY7Yqyub9yelbSr2jV1Og89tI%2BfEYfx9VEYJ86%2FN5%2Bcgr00JlMBySJJ9tS%2BV9DFAUHOSiCReb%2FC5plxNhkPsixaiJ3fyecq5qDK7pKiMFBBu0zem4og%2BCUf1aYLrHTbN%2BvW4GvHnWD45FWWfXwkMLV1ECqdnMNjw2fMFOusBt8W2HQPTwK3jVB7QtflDz1aPu%2ByNjnr5ES9ipEuAT%2FnNxAFn9CI35raqmRTJ%2BcjKmPT3caZSBdlmvqZi4gwma%2FHVFoTcVXX16YAjUljP1L56EOQmRLJhvrANGDjwr%2BygoxJ1rYLLXmuM0nt17PL4%2BXwy%2FpfRf0TaRFij37DyjIEt%2BAeAWrpY%2FBGHdRl1jCXkXv5V0JLLlrxi5tpMYL0njmqVhxOVhU1rxKjY9909t2fsLkAopt%2BhXcarYUv7R036wnq%2BNFYjj7wpHg%2FrltjlovftfRWERIVNTmyRWlwFcd%2BCWATZK783MlqonA%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d042b9e0fc74532a049812fb43588abb962abd8d53ae1635fe6fbdeb51822fdf6"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2508771",
+          "currency": "GBP",
+          "value100p": 2.508771E10,
+          "value": 2508771.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1262746",
+        "currency": "GBP",
+        "value100p": 1.262746E10,
+        "value": 1262746.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 420.0,
+          "confidence": "medium",
+          "name": "destitute asylum seeker(s) supported",
+          "description": "Destitute asylum seekers supported with advice, advocacy and support to explore their options"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/PH6GadUX_7B8QSGoLVCe5fgjaG_V7ewvTQ6ngBVXjxE/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3N6KFW75U%2F20200321%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20200321T221108Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjECUaCWV1LXdlc3QtMiJHMEUCIQDvGNkh6KCDCH6Eg1OVCP%2BlIPSIFsPLNzD%2B6IWeVcHoqgIgCR9FEWmoAPyTcKVhItzdoV9HK0Wz9VqIOZulVJti62YqtAMIHRACGgw0NDkyMjkwMzI4MjIiDJ3yktt3p%2Bgf6Drq%2BCqRA6UfKUhVQond9bq9xeSqgcUUS%2BbfVhV4PowuBlLr5CxztCivBJUtkXWWVg6GIrLO6v3U%2FtMINhAj0k06eVL9YjG8St8OUf0IixcVejRrwprTHNfK79inrItxar1AGoAayQW%2FPdudIClpq4hsrboX1aVeojXQT2HcTsyvppweCeyVrEaBhYcqBySC1tRo8ijfvCIYU%2FTLL3Fx4HDZiykXlZ9n0UF6dIHX8bwdZ2jJQReXV904E8iGyVxym6B4MORt%2BkCyLnmuNU%2Bt2VNSupFh0uwXlpHZ4H73r0rXIaw4hTxAQQ8KSkjRixPssHFgjUpNFiWvf425NR8wugkpb%2FCTTHQceXfEY8usdw5aXCgLOEXMVOh1JQOxZbHG3SydoY7Yqyub9yelbSr2jV1Og89tI%2BfEYfx9VEYJ86%2FN5%2Bcgr00JlMBySJJ9tS%2BV9DFAUHOSiCReb%2FC5plxNhkPsixaiJ3fyecq5qDK7pKiMFBBu0zem4og%2BCUf1aYLrHTbN%2BvW4GvHnWD45FWWfXwkMLV1ECqdnMNjw2fMFOusBt8W2HQPTwK3jVB7QtflDz1aPu%2ByNjnr5ES9ipEuAT%2FnNxAFn9CI35raqmRTJ%2BcjKmPT3caZSBdlmvqZi4gwma%2FHVFoTcVXX16YAjUljP1L56EOQmRLJhvrANGDjwr%2BygoxJ1rYLLXmuM0nt17PL4%2BXwy%2FpfRf0TaRFij37DyjIEt%2BAeAWrpY%2FBGHdRl1jCXkXv5V0JLLlrxi5tpMYL0njmqVhxOVhU1rxKjY9909t2fsLkAopt%2BhXcarYUv7R036wnq%2BNFYjj7wpHg%2FrltjlovftfRWERIVNTmyRWlwFcd%2BCWATZK783MlqonA%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d042b9e0fc74532a049812fb43588abb962abd8d53ae1635fe6fbdeb51822fdf6"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2508771",
+          "currency": "GBP",
+          "value100p": 2.508771E10,
+          "value": 2508771.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1362413",
+          "currency": "GBP",
+          "value100p": 1.362413E10,
+          "value": 1362413.0
+        }
+      ],
+      "name": "Refugee \u0026 Asylum Services",
+      "start": "2018-04-01",
+      "description": "Scottish Refugee Council Directors\u0027 Report and Financial Statements For the Year Ended 31 March 2019",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/PH6GadUX_7B8QSGoLVCe5fgjaG_V7ewvTQ6ngBVXjxE/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3N6KFW75U%2F20200321%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20200321T221108Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjECUaCWV1LXdlc3QtMiJHMEUCIQDvGNkh6KCDCH6Eg1OVCP%2BlIPSIFsPLNzD%2B6IWeVcHoqgIgCR9FEWmoAPyTcKVhItzdoV9HK0Wz9VqIOZulVJti62YqtAMIHRACGgw0NDkyMjkwMzI4MjIiDJ3yktt3p%2Bgf6Drq%2BCqRA6UfKUhVQond9bq9xeSqgcUUS%2BbfVhV4PowuBlLr5CxztCivBJUtkXWWVg6GIrLO6v3U%2FtMINhAj0k06eVL9YjG8St8OUf0IixcVejRrwprTHNfK79inrItxar1AGoAayQW%2FPdudIClpq4hsrboX1aVeojXQT2HcTsyvppweCeyVrEaBhYcqBySC1tRo8ijfvCIYU%2FTLL3Fx4HDZiykXlZ9n0UF6dIHX8bwdZ2jJQReXV904E8iGyVxym6B4MORt%2BkCyLnmuNU%2Bt2VNSupFh0uwXlpHZ4H73r0rXIaw4hTxAQQ8KSkjRixPssHFgjUpNFiWvf425NR8wugkpb%2FCTTHQceXfEY8usdw5aXCgLOEXMVOh1JQOxZbHG3SydoY7Yqyub9yelbSr2jV1Og89tI%2BfEYfx9VEYJ86%2FN5%2Bcgr00JlMBySJJ9tS%2BV9DFAUHOSiCReb%2FC5plxNhkPsixaiJ3fyecq5qDK7pKiMFBBu0zem4og%2BCUf1aYLrHTbN%2BvW4GvHnWD45FWWfXwkMLV1ECqdnMNjw2fMFOusBt8W2HQPTwK3jVB7QtflDz1aPu%2ByNjnr5ES9ipEuAT%2FnNxAFn9CI35raqmRTJ%2BcjKmPT3caZSBdlmvqZi4gwma%2FHVFoTcVXX16YAjUljP1L56EOQmRLJhvrANGDjwr%2BygoxJ1rYLLXmuM0nt17PL4%2BXwy%2FpfRf0TaRFij37DyjIEt%2BAeAWrpY%2FBGHdRl1jCXkXv5V0JLLlrxi5tpMYL0njmqVhxOVhU1rxKjY9909t2fsLkAopt%2BhXcarYUv7R036wnq%2BNFYjj7wpHg%2FrltjlovftfRWERIVNTmyRWlwFcd%2BCWATZK783MlqonA%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d042b9e0fc74532a049812fb43588abb962abd8d53ae1635fe6fbdeb51822fdf6"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2508771",
+          "currency": "GBP",
+          "value100p": 2.508771E10,
+          "value": 2508771.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "830689",
+          "currency": "GBP",
+          "value100p": 8.30689E9,
+          "value": 830689.0
+        }
+      ],
+      "name": "Refugee Integration",
+      "start": "2018-04-01",
+      "description": "Works with government and wide range of public, voluntary and community organisation to deliver Scotland\u0027s New Scots national refugee integration strategy -  vision or a welcoming Scotland where refugees and asylum seekers are able to rebuild their lives from the day they arrive.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/PH6GadUX_7B8QSGoLVCe5fgjaG_V7ewvTQ6ngBVXjxE/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3N6KFW75U%2F20200321%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20200321T221108Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjECUaCWV1LXdlc3QtMiJHMEUCIQDvGNkh6KCDCH6Eg1OVCP%2BlIPSIFsPLNzD%2B6IWeVcHoqgIgCR9FEWmoAPyTcKVhItzdoV9HK0Wz9VqIOZulVJti62YqtAMIHRACGgw0NDkyMjkwMzI4MjIiDJ3yktt3p%2Bgf6Drq%2BCqRA6UfKUhVQond9bq9xeSqgcUUS%2BbfVhV4PowuBlLr5CxztCivBJUtkXWWVg6GIrLO6v3U%2FtMINhAj0k06eVL9YjG8St8OUf0IixcVejRrwprTHNfK79inrItxar1AGoAayQW%2FPdudIClpq4hsrboX1aVeojXQT2HcTsyvppweCeyVrEaBhYcqBySC1tRo8ijfvCIYU%2FTLL3Fx4HDZiykXlZ9n0UF6dIHX8bwdZ2jJQReXV904E8iGyVxym6B4MORt%2BkCyLnmuNU%2Bt2VNSupFh0uwXlpHZ4H73r0rXIaw4hTxAQQ8KSkjRixPssHFgjUpNFiWvf425NR8wugkpb%2FCTTHQceXfEY8usdw5aXCgLOEXMVOh1JQOxZbHG3SydoY7Yqyub9yelbSr2jV1Og89tI%2BfEYfx9VEYJ86%2FN5%2Bcgr00JlMBySJJ9tS%2BV9DFAUHOSiCReb%2FC5plxNhkPsixaiJ3fyecq5qDK7pKiMFBBu0zem4og%2BCUf1aYLrHTbN%2BvW4GvHnWD45FWWfXwkMLV1ECqdnMNjw2fMFOusBt8W2HQPTwK3jVB7QtflDz1aPu%2ByNjnr5ES9ipEuAT%2FnNxAFn9CI35raqmRTJ%2BcjKmPT3caZSBdlmvqZi4gwma%2FHVFoTcVXX16YAjUljP1L56EOQmRLJhvrANGDjwr%2BygoxJ1rYLLXmuM0nt17PL4%2BXwy%2FpfRf0TaRFij37DyjIEt%2BAeAWrpY%2FBGHdRl1jCXkXv5V0JLLlrxi5tpMYL0njmqVhxOVhU1rxKjY9909t2fsLkAopt%2BhXcarYUv7R036wnq%2BNFYjj7wpHg%2FrltjlovftfRWERIVNTmyRWlwFcd%2BCWATZK783MlqonA%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d042b9e0fc74532a049812fb43588abb962abd8d53ae1635fe6fbdeb51822fdf6"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2508771",
+          "currency": "GBP",
+          "value100p": 2.508771E10,
+          "value": 2508771.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "315669",
+          "currency": "GBP",
+          "value100p": 3.15669E9,
+          "value": 315669.0
+        }
+      ],
+      "name": "Policy \u0026 Advocacy",
+      "start": "2018-04-01",
+      "description": "In house policy team works to influence decision making around asylum and refugee issues, seek to reform UK\u0027s asylum system to become more fair, efficient and humane.",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "\nThe charity was formed in Edinburgh in 1985 but moved to Glasgow in 1999 as the city became one of the main dispersal areas for refugees. Its remit has expanded over time in response to growing demand for its services and is now the leading charity for refugees in Scotland.\n\nIn 2011 the organisation celebrated the 60th anniversary of the Refugee Convention. In recognition of the international convention that underpins the Scottish Refugee Council\u0027s work, the charity produced a short film, Courage: 60 years of the UN Refugee Convention. Launched during Refugee Week 2011, the film has received international recognition.[2]\nHistory\nScottish Refugee Council was established in 1985 in response to a growing need for assistance for refugees in Scotland. It was set up with the help of the British Refugee Council (now Refugee Council) and London-based Refugee Action and was operated by a small team of staff and volunteers. The organisation was originally based in Edinburgh where demand was greatest. In its early stages it primarily worked with refugees from Chile and Vietnam, helping with asylum claims, understanding the welfare system and getting access to housing and education.[3]\n\nDuring the 1990s the Scottish Refugee Council expanded because of international events and a need for more comprehensive refugee services. One major new development during this time was the 1993 establishment of a reception centre for Bosnians who faced persecution and ethnic cleansing in Serbian concentration camps. In 1999, in response to the escalating crisis in Kosovo, the Scottish Refugee Council worked with the Refugee Action, UNHCR and other partners to set up reception centres as part of a humanitarian evacuation programme.[4] The Scottish Refugee Council was at the forefront in helping these refugees settle and integrate into Scottish society. In 2000 the focus changed from resettlement to helping people return safely or make claims for asylum.\n\nThe Immigration and Asylum Act (1999) established Glasgow as one of the largest refugee dispersal centres in the UK.[5] This led to a significant increase in the number of people seeking asylum in Scotland. Following this change, the Scottish Refugee Council faced a 20-fold increase in the size of its client base. At this time it was necessary for the organisation to relocate to Glasgow. When its Glasgow-based advice centre was opened in 1999 it delivered 250 advice sessions per week. By 2001 this had grown to 150 sessions per day.[6] The centre was located within the Cadogan Square complex in Glasgow city centre for 14 years. In December 2017, Scottish Refugee Council moved offices to 6th Floor, Portland House, 17 Renfield Street, G2 5AH.\n\nWith the dispersal system came challenges to integration and racial tension. One tragic result of this was the fatal stabbing of Firsat Yildiz, a young Turkish Kurd who had recently been dispersed to Glasgow.[7] Following this the Scottish Refugee Council helped to establish the Refugee Integration Forum[8] to lead a community approach to improving the lives of refugees and asylum seekers.\n\nSabir Zazai was appointed as Chief Executive of Scottish Refugee Council in September 2017. Sabir arrived in the UK as an asylum seeker in 1999, fleeing the conflict in Afghanistan. He was dispersed to Coventry, where he lived and got involved in local community initiatives. From 2014, Sabir led the Coventry Refugee and Migrant Centre, a charity that once assisted Sabir through his own journey as a refugee. Prior to this, he managed the Migration Impact Fund in Coventry and led a major improving financial capability programme with Coventry Citizens Advice Bureau.\n\nSabir has a wealth of knowledge in refugee integration that is informed by his personal experiences of going through the asylum system and his research and campaigning background in this area. His policy and research work in refugee integration focuses on community cohesion management, integration and social relations. In 2010, Sabir graduated from Coventry University with a degree in Human Resource Management and in 2013, he was awarded an MA in Community Cohesion Management. He contributes to a number of organisations through his trusteeship; he is currently Chair of City of Sanctuary UK and a Visiting Practice Fellow of the Centre for Trust Peace and Social Relations at Coventry University. Until recently he served as a Council Member of Coventry Cathedral, advising the Bishop of Coventry on interfaith and refugee issues.\n\nPrinciples\nIn 1995, on the 10th anniversary of its founding, Nelson Mandela became a patron of the Scottish Refugee Council. He said:\n\n\"I am delighted to be associated with the Scottish Refugee Council\u0027s aims of protection and resettlement of refugees in Scotland and I wish you every success in achieving these aims.\"[9]\n\nScottish Refugee Council States its vision as: \"a Scotland in which all people seeking refugee protection are welcome. It is a place where women, children and men are protected, find safety and support, have their human rights and dignity respected and are able to achieve their full potential.\"\n\nIts mission is to increase public understanding of refugees and campaign for an end to discrimination, racism and prejudice. Part of this involves supporting refugees\u0027 integration and inclusion, ensuring refugee voices are heeded. It also lobbies for the rights of refugees and people seeking asylum and for changes in legislation and policies. It exists to ensure that refugees and people seeking asylum have access to quality advice services, information and support and to provide these services as an efficient organisation, ensuring quality and value for money.[10]\n\nWork\nThere are three main areas in which Scottish Refugee Council works to help refugees and people seeking asylum in Scotland.\n\nService provision\nScottish Refugee Council provides a number of direct services to refugees and asylum seekers. It helps refugees deal with issues of integration, housing and finances through its Refugee Integration Service. It also assists families with children aged 0-8 years who have recently entered the asylum system through its Family Keywork Service.\n\nCampaigning and influencing\nScottish Refugee Council is also actively involved in campaigning and influencing public policy. In conjunction with bodies such as the Refugee Council, Scottish Refugee Council influences policy at Westminster and the Scottish Parliament. To inform its policy work the organisation regularly conducts research, co-ordinating both in-house projects and collaborating with leading researchers in the field of asylum. The charity also focuses on working with the media to broaden public understanding of the issues facing refugees.\n\nCommunity and partnership\nNetworking and partnership-building is also important to Scottish Refugee Council. It works closely with other refugee agencies in the UK, including the Refugee Council, the Refugee Survival Trust, and Scottish Detainee Visitors. It also has international links with UNHCR and is part of the European Council on Refugees and Exiles (ECRE). Scottish Refugee Council also plays a part in community development, supporting refugee community organisations in Scotland, helping refugees tell their stories to the media, and involving them in policy discussions with politicians and service providers. It is a member of the Asylum Support Partnership along with the Refugee Council England, the Welsh Refugee Council, Refugee Action, Northern Refugee Centre, and the North of England Refugee Service.\n\nRefugee Festival Scotland\nOne of the organisation\u0027s primary calendar events is Refugee Festival Scotland. The event, co-ordinated by Scottish Refugee Council and coincides with World Refugee Day, is the Scottish version of an annual UK wide programme of events for Refugee Week which celebrates the contribution of refugees to the UK.[11] During Refugee Festival Scotland, hundreds of events exploring refugee experiences take place across Scotland. These range from small community and school activities to art exhibitions, political debates, film festivals, music festivals and sports events.[12]\n\nRefugee Festival Scotland took place in 2017 on Tuesday 20 June - Sunday 2 July.\n\nFunding cuts\nThe work of Scottish Refugee Council was affected following funding cuts introduced by the UK Border Agency in 2011. Funding to the One Stop Service, which provides advice to asylum seekers and refugees, was cut by 62%, while the grant for the organisation\u0027s work in orientation and support services was cut by 50%.[13] Overall Scottish Refugee Council entered 2011/12 financial year with 30% less funding.[14] This led to a major restructure of the organisation and its services in order to secure the future of the charity.\n\nIn its response to the funding reductions, John Wilkes, Chief Executive Officer of the Scottish Refugee Council issued a statement saying:\n\n\"Savage cuts to the refugee charity sector will force people who have already fled torture, conflict and persecution in their own countries to suffer even further while seeking safety in the UK.\"[15]",
+  "recommendation": "We assign Scottish Refugee Council a rating of Bronze.\n\nScottish Refugee Council has three main areas of charitable activity: Refugee \u0026 Asylum Services, Refugee Integration, and Policy \u0026 Advocacy, according to our review of the 2018-19 accounts. \n\nAs per the SoGive methodology, we consider two questions: how much does it cost the charity to do its work, and what is the work, or what does the beneficiary get for your money.\n\nIn the case of the Scottish Refugee Council, it costs them around £3000 to help one person, and the helped received is Destitute asylum seekers supported with advice, advocacy and support to explore their options.\n\nAs a benchmark, we could compare with cost-effective interventions in the developing world such as malaria nets, which would likely deliver an outcome as good as a life saved for around £1,500 or so. In other words, for the same money, we could help one person through the Scottish Refugee Council, and for each person there would be uncertain outcomes, but it\u0027s unlikely that each of them would receive life-changingly positive outcomes; or for the save money achieve two life-saved-equivalent outcomes.\n\nOn balance we believe that supporting refugees in Scotland is a positive outcome, but for each pound donated there are other options which achieve more good",
+  "whyTags": "Refugees",
+  "imageCaption": "Building a better future with refugees in Scotland.",
+  "ready": false,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/3083406641670385facebook/srclogosmall-15743965170181639552.jpg#ccrop:102",
+  "@id": "scottish-refugee-council",
+  "wikipedia": "https://en.wikipedia.org/wiki/Scottish_Refugee_Council",
+  "summaryDescription": "The Scottish Refugee Council is a registered charity that provides advice and services to asylum seekers and refugees. The objective of the organisation is \u0027building a better future with refugees in Scotland\u0027.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/card-fundraising-resources-15015446974292061792.png",
+  "impact": "low",
+  "suggest": [
+    "Scottish Refugee Council",
+    "scottish-refugee-council"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "scottish-refugee-council",
+      "name": "destitute asylum seeker(s) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 30723682,
+        "value": "3072.3682539682537224645079365079303632"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.scottishrefugeecouncil.org.uk",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "destitute asylum seeker(s) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 30723682,
+      "value": "3072.3682539682537224645079365079303632"
+    }
+  },
+  "name": "Scottish Refugee Council",
+  "lastModified": "2020-08-17T23:27:55Z",
+  "category": "human services",
+  "subcategory": "Shelter and Crisis Services",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom (Scotland)",
+  "status": "DRAFT"
+}
