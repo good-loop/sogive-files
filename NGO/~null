@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Boys-and-girls-club-america",
+  "name": "Boys \u0026 Girls Club America",
   "id": "boys-and-girls-club-america",
-  "suggest": []
+  "suggest": [
+    "Boys \u0026 Girls Club America",
+    "Boys-and-girls-club-america"
+  ],
+  "status": "DRAFT"
 }
