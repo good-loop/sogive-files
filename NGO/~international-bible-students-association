@@ -1,0 +1,314 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0000216647_AC_20180831_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-09-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "22833356",
+          "currency": "GBP",
+          "value100p": 2.2833356E11,
+          "value": 2.2833356E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-09-01",
+      "end": "2018-08-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1663206",
+        "currency": "GBP",
+        "value100p": 1.663206E10,
+        "value": 1663206.0
+      },
+      "end_raw": "2018-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0000216647_AC_20180831_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4114912",
+          "currency": "GBP",
+          "value100p": 4.114912E10,
+          "value": 4114912.0
+        }
+      ],
+      "name": "Provision of literature for Bible education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0000216647_AC_20180831_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1484296",
+          "currency": "GBP",
+          "value100p": 1.484296E10,
+          "value": 1484296.0
+        }
+      ],
+      "name": "Provision of conventions for Bible education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0000216647_AC_20180831_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10912813",
+          "currency": "GBP",
+          "value100p": 1.0912813E11,
+          "value": 1.0912813E7
+        }
+      ],
+      "name": "Donations and aid"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends47/0000216647_AC_20180831_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6321335",
+          "currency": "GBP",
+          "value100p": 6.321335E10,
+          "value": 6321335.0
+        }
+      ],
+      "name": "Caring for members ofthe Order"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/216647/accounts-and-annual-returns"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "72515000",
+          "currency": "GBP",
+          "value100p": 7.2515E11,
+          "value": 7.2515E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "157935000",
+        "currency": "",
+        "value100p": 1.57935E12,
+        "value": 1.57935E8
+      }
+    }
+  ],
+  "@type": "NGO",
+  "description": "IBSA maintains close ties with Watch Tower Bible and Tract Society of Britain, which is also a UK charity and which we have analysed separately.",
+  "recommendation": "**International Bible Students Association is rated as Too Rich on the SoGive ratings scale.**\n\nInternational Bible Students Association is a UK charity that is closely tied to the worldwide network of Jehovah’s Witnesses (JW) organisations. The charity promotes Christian religion as practiced by JW.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- How much does it cost for the charity to do something\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n\n**More about what International Bible Students Association does**\n\nInternational Bible Students Association (IBSA) is a charity that promotes Christian religion as practiced by Jehovah\u0027s Witnesses. According to their [annual report](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/216647/accounts-and-annual-returns) (p. 1), they perform charitable activities including funding other entities in the worldwide JW network, providing serviced facilities for religious activity such as bible education, and paying expenses for and taking care of living arrangements of full-time servants of JW (members of the Order).\n\nThere is a website [internationalbiblestudents.com](https://www.internationalbiblestudents.com/) that claims to represent the International Bible Students Association, but it does not show a link to any legal entity and has not been used as a basis for this analysis.\n\nIBSA maintains close ties (AR p. 5) with Watch Tower Bible and Tract Society of Britain (WBTS), which is also a UK charity and which we have [analysed separately](https://app.sogive.org/#charity?charityId\u003dwatch-tower-bible-and-tract-society-of-britain).\n\nIn the last reporting period 2019/20 ending August 2020, IBSA had unusually high income of £68m, up from £27m in the previous period. This was due to a one-off effect of selling property in North London after moving facilities to Chelmsford in January 2020 (AR p. 3). The regular income of about £30m is from donations and legacies, £24.5m of which is in cash (AR p. 15). \n\nIn the reporting period 2019/20 ending on 31 August, IBSA spent a total of £72.5m on donor-funded charitable activities (AR p. 10). The major activities were as follows:\n- The majority of spending (£61m and 84%) went to other JW organisations as grants or donations. This includes £57.5m for WBTS. \n- Caring for members of the Order and providing serviced facilities consumed £11m, i.e. most of the remaining of spending. \n- Only 1% of spending went to direct provision of conventions for bible education and facilities to produce bible based literature.\n\n\n**Cost-effectiveness analysis**\n\nWe have not been able to gather enough information to perform a cost-effectiveness assessment for IBSA. As shown above, most of the spending is handed to other organisations in the JW network without transparent accounting. In addition, it is not clear if and how IBSA manages usage and impact of their grants. They only note that these go to organisations with similar aims and that they obtain reports to confirm the money was properly used (AR p. 2).\n\nIBSA has close ties with [WBTS](https://app.sogive.org/#charity?charityId\u003dwatch-tower-bible-and-tract-society-of-britain), and in both cases our assessment is largely based on the amount of reserves that the charities have. As of August 2020, IBSA had £158m in unrestricted and undesignated reserves. Excluding the effect of the property sales in 2020, this is more than 5 times their spending in previous years. In other words, they could continue their previous activities for several years without receiving any further donations. This is way over SoGive’s [benchmark](https://thinkingaboutcharity.blogspot.com/2018/01/which-charities-are-too-rich.html) and does not reflect a strong commitment to using donor’s valuable contributions effectively and quickly.\n\n**Conclusion**\n\nBased on the above, we rate International Bible Students Association as Too Rich under the SoGive methodology. This means:\n- We believe that the charity already has lots of money, so a donation will likely have minimal impact for some time\n- A charity which we deem too rich will likely have enough money that even if all other funding sources dried up, they could fund their full activities for another 18 months, and there are no mitigating factors, such as planned activities, their own reserves policy, and our judgement about the risks they are exposed to\n",
+  "whyTags": "Christian",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/photodram1-766654783864399586.jpg",
+  "@id": "international-bible-students-association",
+  "summaryDescription": "International Bible Students Association is a UK charity that is closely tied to the worldwide network of Jehova’s Witnesses (JW) organisations. The charity promotes Christian religion as practiced by JW.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/cd3df1629dc6b492b9a329b19c8035a6-5347487933294909681.jpg",
+  "noPublicDonations": false,
+  "impact": "too-rich",
+  "confidence": "high",
+  "suggest": [
+    "International Bible Students Association",
+    "international-bible-students-association"
+  ],
+  "url": "https://internationalbiblestudents.com/",
+  "howTags": "Makes grants to organisations, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "International Bible Students Association",
+  "category": "religion",
+  "subcategory": "Religious Media and Broadcasting",
+  "englandWalesCharityRegNum": "216647",
+  "whereTags": "Worldwide",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
