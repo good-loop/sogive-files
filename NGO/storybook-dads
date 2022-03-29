@@ -1,0 +1,148 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/storybookdads-4877338503314282634.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5686.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "Disc(s) produced",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 17700.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "prisoner(s) and their families (singular: family) beniftted",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 3070.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 30.7
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "Storybook Dads themselves have calculated a cost of ?29.45 per prisoner, however the figures are calculated from the numbers in the same report, it comes to something just over ?30",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value100p": 1.74533E9,
+          "value": 174533.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends08/0001101208_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "There is also the figure 17700 of beneficiaries reached, which we assumed the the combined number of prisoners and their families",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Storybook Dads",
+    "storybook-dads"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "storybook-dads",
+      "name": "Disc(s) produced",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 306952,
+        "value": "30.69521632078789950451"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Prisons, crime",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Disc(s) produced",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 306952,
+      "value": "30.69521632078789950451"
+    }
+  },
+  "whoTags": "Offenders, Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Storybook Dads",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/Storybook__Dads__logo-4445553434085749927.png",
+  "@id": "storybook-dads",
+  "summaryDescription": "Storybook Dads helps maintain the vital emotional bond between parent and child by enabling parents to make bedtime story CDs, DVDs and other educational gifts for their children",
+  "englandWalesCharityRegNum": "1101208",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
