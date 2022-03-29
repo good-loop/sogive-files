@@ -1,0 +1,212 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/switchbackinitiative-10424216715645152059.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 51.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 3.48331E7,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 348331.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends00/0001125100_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "51 trainees is mentioned on p7. Could argue that this should just be the 36 trainees who \"fully engaged\" with the programme mentioned on p4",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 60.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "ex-offender(s) trained",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "Switchback provides ex-offenders with intensive training to help rehabilitate them in order to reduce reoffending rates",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.43236E9,
+          "value": 343236.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends00/0001125100_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Switchback",
+  "noPublicDonations": false,
+  "suggest": [
+    "The Switchback Initiative",
+    "Switchback",
+    "the-switchback-initiative"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-switchback-initiative",
+      "name": "ex-offender(s) trained",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 57205999,
+        "value": "5720.599999999999771176"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Prisons, crime",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "ex-offender(s) trained",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 57205999,
+      "value": "5720.599999999999771176"
+    }
+  },
+  "whoTags": "Offenders",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "The Switchback Initiative",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/logo-9533601900859077487.png",
+  "@id": "the-switchback-initiative",
+  "summaryDescription": "Switchback is a charity which provides an intensive rehabilitation programme for ex-offenders",
+  "englandWalesCharityRegNum": "1125100",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
