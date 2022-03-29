@@ -1,0 +1,663 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1.02530814E8,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "NTD Treatment(s)",
+          "start": "2014-01-01T00:00:00Z",
+          "description": "Using NTD treatments as a proxy for the overall impact of the charity, since this dominates",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 1.85041E12,
+          "value": 1.85041E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends44/0000207544_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "See separate tab for a table which breaks down the different beneficiaries. I excluded those who were educated/trained, although these are (in fact) good outcomes too",
+      "name": "overall",
+      "analyst": "Costi",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.42352062E8,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "NTD Treatment(s)",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.96864E12,
+          "value": 1.96864E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends44/0000207544_AC_20151231_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.givewell.org/charities/sightsavers"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Costi",
+      "end": "2015-12-31T00:00:00Z",
+      "location": "developing countries"
+    },
+    {
+      "outputs": [
+        {
+          "number": 334156.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "operation(s) performed",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "These operations include cataract, glaucoma surgery, diabetic retinopathy, trichiasis and other general eye operations",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You covered eye surgery for XXX (x/67) people in developing countries",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.0767273E11,
+          "value": 4.0767273E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends44/0000207544_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "eye care",
+      "analyst": "Costi",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.41998557E8,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Some uncertainty about whether the money will actually fund mectizan tablets (as opposed to, say, eye care or education, which would also be good uses of the money)"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) treated for \"NTDs\" (tropical diseases)",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "Certain types of parasites in the developing world can lead to various health problems, including the disease onchocerciasis, which can lead to blindness. Sightsavers distributes cost-effective treatments for these",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Sightsavers%20-%20Evans.PNG?raw\u003dtrue",
+      "stories": "Over one billion people are affected by neglected tropical diseases (NTDs). These include blinding trachoma, river blindness (onchocerciasis), lymphatic filariasis (also called elephantiasis), schistosomiasis (also called bilharzia) and soil transmitted helminthiasis (a variety of intestinal worms).",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "Sightsavers has been tackling Neglected Tropical Diseases (NTDs) since 2011. Their work in this area not only tackles blindness but also has other health benefits, and is so cost-effective that even a small donation will likely improve the lives of many people.",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.48239641E12,
+          "value": 1.48239641E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends44/0000207544_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Mectizan tablets donated by Merck",
+      "name": "neglected tropical diseases deworming",
+      "analyst": "Costi",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 19349.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) supported in education",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 7.857085E10,
+          "value": 7857085.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends44/0000207544_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education",
+      "analyst": "Costi",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10367141\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d207544"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "33,181,000",
+          "currency": "GBP",
+          "value100p": 3.3181E11,
+          "value": 3.3181E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "13,449,000",
+        "currency": "",
+        "value100p": 1.3449E11,
+        "value": 1.3449E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.154242E7,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "People examined",
+          "description": "Eye health examinations were conducted. Further interventions were conducted when needed, including the performance of 473,373 operations, and dispensing 493,186 pairs of spectacles. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1.27",
+            "currency": "",
+            "value100p": 12700.0,
+            "value": 1.27
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10367141\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d207544"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14630000",
+          "currency": "GBP",
+          "value100p": 1.463E11,
+          "value": 1.463E7
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Eye health"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.4259139E8,
+          "meta": {
+            "all": {
+              "notes": "Some uncertainty regarding the gift in kind drugs - some of those drugs may also be used for eye health, rather than NTDs. "
+            }
+          },
+          "confidence": "medium",
+          "name": "Neglected tropic disease (NTD) treatments",
+          "description": "Treatment of five debilitating diseases (either parasitic or bacterial infections), known as NTDs. Prevalent in rural regions, lower SES urban areas, and conflict zones, they are a major cause of preventable blindness.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1.99",
+            "currency": "",
+            "value100p": 19900.0,
+            "value": 1.99
+          }
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "283888000",
+          "currency": "GBP",
+          "value100p": 2.83888E12,
+          "value": 2.83888E8
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Neglected tropical diseases",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 34462.0,
+          "confidence": "medium",
+          "name": "people with disabilities provided with training/educational support",
+          "description": "Educational support for vision-impaired children, and training for people with disabilities",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "336.46",
+            "currency": "",
+            "value100p": 3364600.0,
+            "value": 336.46
+          }
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11595000",
+          "currency": "GBP",
+          "value100p": 1.1595E11,
+          "value": 1.1595E7
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Education/inclusion"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Sightsavers",
+  "recommendation": "Sightsavers achieves a Gold rating under the SoGive rating methodology. This is largely based on the analysis of GiveWell, a summary of which we provide below.\n\nThe analysis is based specifically on one part (deworming) of the Sightsavers work.\n\nWhat do they do? Sightsavers (https://www.sightsavers.org/) is a large organization with multiple program areas that focuses on preventing avoidable blindness and supporting people with impaired vision. We have only reviewed Sightsavers\u0027 work to prevent and treat neglected tropical diseases (NTDs), and, more specifically, advocating for, funding, and monitoring programs that treat schistosomiasis and soil-transmitted helminthiasis (STH) (\"deworming\"); our recommendation is just for Sightsavers\u0027 work on deworming.\n\nDoes it work? We believe that there is strong evidence that administration of deworming drugs reduces worm loads but weaker evidence on the causal relationship between reducing worm loads and improved life outcomes; we consider deworming a priority program given the possibility of strong benefits at low cost. Sightsavers has shared surveys for some of its past NTD programs that measure whether these programs have reached a large proportion of children targeted. These studies have generally found moderately positive results, but have some methodological limitations. We have seen very limited results from Sightsavers\u0027 deworming programs specifically. For GiveWell-supported programs, Sightsavers has told us it will conduct coverage surveys for each mass drug administration (MDA); we have reviewed one of those surveys to date.\n\nWhat do you get for your dollar? Our best guess is that deworming is generally highly cost-effective. We estimate that children are dewormed for a total of around $1.19 per child in Sightsavers-supported programs. This figure relies on several difficult-to-estimate inputs including how to account for (a) donated drugs and (b) in-kind contributions from governments with which Sightsavers works. Excluding drugs and government contributions, we estimate that Sightsavers\u0027 cost per treatment is $0.55. The number of lives significantly improved is a function of a number of difficult-to-estimate factors, which we discuss in detail in a separate report.\n\nIs there room for more funding? We believe that Sightsavers\u0027 deworming work is likely to be constrained by funding next year. Sightsavers has provided details of deworming programs that it could fund with additional funding of up to about $6.4 million in 2018 and 2019. Sightsavers appears to have limited prospects for funding these programs from other sources. We believe it is likely that Sightsavers could absorb funding beyond this amount to extend programs to 2020 and/or seek out additional opportunities to fund deworming programs. (More) December 2017 update: In November 2017, we recommended that Good Ventures give $2.5 million to Sightsavers\u0027 deworming program, reducing its room for more funding for 2018 and 2019 to about $3.9 million.\n\nSightsavers\u0027 deworming program is recommended because of:\n\nThe strong track record and excellent cost-effectiveness of deworming. (More)\nSightsavers\u0027 moderately strong process for assessing whether the MDA programs it supports are successfully reaching their intended recipients. (More)\nStandout transparency - it has shared significant, detailed information about its programs with us.\nRoom for more funding - it can use additional funds to scale up its work on deworming.\nMajor open questions include:\n\nSightsavers has a limited track record of implementing deworming programs. Deworming has not been a focus or major priority for Sightsavers, which may impact how well programs are carried out.\n\nThe monitoring we have seen from Sightsavers is primarily from programs that do not treat for schistosomiasis or STH but which are implemented in similar fashion to deworming programs. This monitoring has some methodological limitations. While we expect monitoring from all programs that have been funded with donations due to GiveWell\u0027s recommendation (\"GiveWell-directed\" funding), we currently believe that Sightsavers has a fairly limited track record of producing the type of monitoring we find most useful for understanding program performance.\n\nSightsavers is a large organization with significant unrestricted funding and fundraising capacity. (Sightsavers spends considerably more on fundraising than other charities we recommend-about 28% of overall funding and 48% of unrestricted funding, excluding gifts in kind.) It is possible that GiveWell-directed funds will cause Sightsavers to allocate less of its unrestricted funding or fundraising capacity to deworming than it otherwise would have. Sightsavers does not appear to have allocated large amounts of unrestricted funding to deworming in the past and told us that it has limited sources of restricted funding for deworming.\n\nWe sourced this analysis from our trusted partner GiveWell",
+  "description": "Sightsavers protects sight, and advocates for disability rights, through a portfolio of charitable activities. This entails treating (and preventing) eye conditions and neglected tropical diseases. Sightsavers also provides relevant education, and works closely with disabled people\u0027s organisations (DPOs) to create greater levels of social inclusion. ",
+  "whyTags": "Blindness, health, International aid, Poverty",
+  "externalAssessments": "http://www.givewell.org/charities/sightsavers",
+  "ready": false,
+  "logo": "https://www.sightsavers.org/wp-content/themes/sightsavers/assets/images/icons/sightsavers-logo.svg",
+  "modified": true,
+  "@id": "royal-commonwealth-society-for-the-blind",
+  "summaryDescription": "Sightsavers is a UK-based international charity which fights avoidable blindness and promotes equal opportunities for visually impaired people.",
+  "uptodatedraft": "probably",
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Sightsavers%20-%20Evans.PNG?raw\u003dtrue",
+  "noPublicDonations": false,
+  "impact": "high",
+  "suggest": [
+    "Royal Commonwealth Society for the Blind",
+    "Sightsavers",
+    "royal-commonwealth-society-for-the-blind"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "royal-commonwealth-society-for-the-blind",
+      "name": "Neglected tropic disease (NTD) treatments",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 19900,
+        "value": "1.99",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.sightsavers.org/",
+  "howTags": "Direct Work",
+  "recommended": true,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Neglected tropic disease (NTD) treatments",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 19900,
+      "value": "1.99",
+      "name": ""
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "name": {
+      "notes": "This is an old name. Need to either change it, or ensure it doesn\u0027t display."
+    }
+  },
+  "name": "Royal Commonwealth Society for the Blind",
+  "englandWalesCharityRegNum": "207544",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
