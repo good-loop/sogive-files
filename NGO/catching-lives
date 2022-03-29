@@ -1,0 +1,212 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/catchinglives-6327053371905979400.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 11819.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Data quantifying the total amount of impact not available in the accounts or on the website, so we contacted the charity and they provided the information. The information provided stated that the footfall in 2015 (calendar year) was 11819, and in 2016 it was 13,701. There is a slight inconsistency here - the financials used in the calculation refer to 2015-16, whereas the impact used (footfall) is based on 2015 only."
+            }
+          },
+          "confidence": "low",
+          "name": "visit(s) to the service",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This captures the visits to the Canterbury Open Centre where people can receive basic services such as nutritious meals, showers laundry, clothing and a postal address; health services providing access to the Mental Health Outreach Service etc; social and emotional support offering a listening ear; advice, advocacy and referral, giving housing and benefits advice, amongst others; work, learning and meaningful activities engaging in recreational and community activities, literacy and numeracy support, and other services. One visit is typically not sufficient to fully meet a beneficiary\u0027s needs.",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.847E9,
+          "value": 284700.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends68/0001014868_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Data quantifying the total amount of impact not available in the accounts or on the website, so we contacted the charity and they provided the information. The information provided stated that the footfall in 2015 (calendar year) was 11819, and in 2016 it was 13,701. There is a slight inconsistency here - the financials used in the calculation refer to 2015-16, whereas the impact used (footfall) is based on 2015 only.",
+      "name": "overall",
+      "analyst": "Shivani \u0026 Nicolas \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 443.0,
+          "meta": {
+            "all": {
+              "notes": "The annual report and accounts didn\u0027t state the number of clients helped, only the footfall. However the website stated the footfall and the number of clients. This meant we could check the footfall numbers against the footfall numbers in the accounts and know that the numbers are on a consistent basis. A screenshot of this is stored in the cost per beneficiary spreadsheet"
+            }
+          },
+          "name": "client(s) helped"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "394,658",
+          "currency": "GBP",
+          "value100p": 3.94658E9,
+          "value": 394658.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "45,603",
+          "currency": "GBP",
+          "value100p": 4.5603E8,
+          "value": 45603.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "382,737",
+        "currency": "GBP",
+        "value100p": 3.82737E9,
+        "value": 382737.0
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends68/0001014868_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs \u003d income from a charity shop. Costs are lilkely to be similar. (AR p.12)"
+        }
+      },
+      "name": "overall",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "recommendation": "**To evaluate Catching Lives under the SoGive rating methodology, we would need more information.**\n\nCatching Lives is an independent charity aimed at supporting the rough sleepers, homeless and vulnerably housed in Canterbury and East Kent.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Catching Lives does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology.\n\nCatching Lives works towards ending the harm caused to individuals, families and the community, by homelessness, rough sleeping and insecure housing. They do this by offering immediate respite in Canterbury - the Canterbury Open Centre.\n\nAt the Centre, homeless clients have access to:\nFood; washing machines, detergent and dryers for clients to do their laundry; access to a supply of donated clothes; toilets and showers; storage for clients\u0027 belongings; use of centre as a postal address (essential for claiming benefits, looking for work, or registering with a GP); telephone, computer and internet access; Mental Health Outreach Service (2 onsite workers who can support clients); nurse and podiatrist drop-in (and help with registering with a local GP); Forward Trust drop-in (support for clients who are experiencing drug or alcohol misuse) and Needle Exchange; Advocacy and Advice, for example on homelessness, housing options and accessing work, training or welfare benefits; signposting to all manner of specialist agencies such as organisations supporting victims of domestic abuse or those who have served in the armed forces.\n\nThey are also monitoring the number of rough sleepers in the area.\n\nIn 2018/19, the Centre was visited 11,006 times. Based on the information from the March 2019 Annual Report, we understand that it may cost around £35 to serve one homeless client at the centre once. However, this figure does not inform us about the cost of different services offered at the Canterbury Open Centre.\n\nMore usefully, we understand from the charity\u0027s website that they helped 443 clients that year. This tells us that it cost them around £800 per client helped.\n\n**Benchmarking**\n\nHaving reviewed the work of Catching Lives under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\n**Conclusion**\n\nFurther information that would enable us to form a fuller opinion of the work of Catching Lives would be:\n(a) more comprehensive picture of the costs involved in delivering their work\n(b) more comprehensive impact assessments, both in quantity and depth",
+  "description": "At the Centre, homeless clients have access to:\n\nFood; washing machines, detergent and dryers for clients to do their laundry; access to a supply of donated clothes; toilets and showers; storage for clients\u0027 belongings; use of centre as a postal Address (essential for claiming benefits, looking for work, or registering with a GP); telephone, computer and internet access; Mental Health Outreach Service (2 onsite workers who can support clients); nurse and podiatrist drop-in (and help with registering with a local GP); Forward Trust drop-in (support for clients who are experiencing drug or alcohol misuse) and Needle Exchange; Advocacy and Advice, for example on homelessness, housing options and accessing work, training or welfare benefits; signposting to all manner of specialist agencies such as organisations supporting victims of domestic abuse or those who have served in the armed forces.",
+  "suggest": [
+    "Catching Lives",
+    "catching-lives"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "catching-lives",
+      "name": "client(s) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 7879345,
+        "value": "787.934537246049607820"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.catchinglives.org/",
+  "whyTags": "Homelessness",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "client(s) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 7879345,
+      "value": "787.934537246049607820"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Catching Lives",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/310957__290266717652737__813558840__n-13533927833523574397.jpg",
+  "@id": "catching-lives",
+  "summaryDescription": "Small homelessness charity providing essential services for homeless people in Canterbury and East Kent.",
+  "englandWalesCharityRegNum": "1014868",
+  "whereTags": "Canterbury, Kent, United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
