@@ -1,0 +1,133 @@
+{
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Halo%20trust%20-%20image.jpg?raw\u003dtrue",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 8.8351048E7,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "metre(s) squared made safe from mines",
+          "start": "2014-04-01T00:00:00Z",
+          "description": "Halo Trust makes land safe from landmines and unexploded ordnance, as well as other activities such as destroying small arms",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You cleared XXXX metres squared from landmines or other ordnance, well done!",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Halo%20trust%20-%20image.jpg?raw\u003dtrue",
+      "stories": "Halo Trust creates safe and secure environments in war torn communities by clearing landmines, managing stockpiles of weapons and destroying unexploded ordnance.These children are harvesting mushrooms in a field that used to be heavily fined.",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "https://www.halotrust.org/",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 2.7607E11,
+          "value": 2.7607E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends13/0001001813_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "halo-trust",
+      "name": "metre(s) squared made safe from mines",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3124,
+        "value": "0.312469411794639969143000"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Halo Trust",
+    "halo-trust"
+  ],
+  "whyTags": "Land Mines",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "metre(s) squared made safe from mines",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3124,
+      "value": "0.312469411794639969143000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Halo Trust",
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Halo%20trust%20logo.jpg?raw\u003dtrue",
+  "@id": "halo-trust",
+  "summaryDescription": "The UK-based HALO Trust is one of the world\u0027s largest mine clearance organisations",
+  "englandWalesCharityRegNum": "1001813",
+  "whereTags": "Afghanistan, Angola, Mozambique, Zimbabwe, Somaliland, Somalia, Ivory Coast, Central African Republic, Cambodia, Laos, Myanmar, Sri Lanka, West Bank, Armenia, Nagorno Karabakh, Georgia, Kosovo, Colombia",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
