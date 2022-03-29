@@ -1,0 +1,362 @@
+{
+  "images": "https://app.sogive.org/uploads/anon/therapy-3362233806932084621.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 580.0,
+          "confidence": "very-low",
+          "name": "children (singular: child) reached"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "9736807",
+          "currency": "GBP",
+          "value100p": 9.736807E10,
+          "value": 9736807.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "6996489",
+          "currency": "GBP",
+          "value100p": 6.996489E10,
+          "value": 6996489.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 23.0,
+          "name": "Children (singular: child) housed"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "152408",
+          "currency": "GBP",
+          "value100p": 1.52408E9,
+          "value": 152408.0
+        }
+      ],
+      "name": "Children\u0027s Homes",
+      "start": "2017-01-01",
+      "description": "Loving and supportive family life for vulnerable and neglected children.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 19.0,
+          "name": "Children (singular: child) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "293916",
+          "currency": "GBP",
+          "value100p": 2.93916E9,
+          "value": 293916.0
+        }
+      ],
+      "name": "Complex Needs",
+      "start": "2017-01-01",
+      "description": "Support \u0026 care for adults with learning disabilities to live a fulfilled life within a community.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 260.0,
+          "name": "Children (singular: child) supported",
+          "description": "Community-based education and social \nsupport programme for families."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "86739",
+          "currency": "GBP",
+          "value100p": 8.6739E8,
+          "value": 86739.0
+        }
+      ],
+      "name": "Tackling Poverty through Education",
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 237.0,
+          "name": "children (singular: child) reached"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "301754",
+          "currency": "GBP",
+          "value100p": 3.01754E9,
+          "value": 301754.0
+        }
+      ],
+      "name": "Recovery Centres",
+      "start": "2017-01-01",
+      "description": "Providing physiotherapy, specialist education and speech and sensory therapy for children with disabilities.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 41.0,
+          "name": "Young adult(s) mentored"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://faracharity.org/downloads/Annual%20Report%202017.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends49/0001139349_AC_20171231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "147158",
+          "currency": "GBP",
+          "value100p": 1.47158E9,
+          "value": 147158.0
+        }
+      ],
+      "name": "Child Care Programme",
+      "start": "2017-01-01",
+      "description": "Prevention of homelessness through life skills mentoring and support towards independent living for young adults.",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "description": "Their mission is to transform the lives of marginalised children and young people from Romania\u0027s poorest communities. They prevent homelessness and help heal abuse and trauma by finding a loving family, providing therapy and access to education and training. They aim to give security and love to those who need it most - fulfilling lives, rebuilding futures, spreading hope. \n\nTheir programmes include:-\n- hostels: support for independent living, life skills mentoring for young adults\n- homes for life: support \u0026 care for adults with intellectual disabilities to live a fulfilled life in a home run as a family\n- family homes: loving and supportive family-style living for vulnerable and neglected children\n- therapy centres: specialised care for children with wide-ranging disabilities\n- tackling poverty: community-based education and social support programmes, tackling poverty through education\n",
+  "recommendation": "This may be a suitable charity for you if you are especially passionate about providing Romanian children and young adults with certain types of support. \n\nFara\u0027s mission is to transform the lives of marginalised children and young people from Romania\u0027s poorest communities. They prevent homelessness and help heal abuse and trauma by finding a loving family, providing therapy and access to education and training. They aim to give security and love to those who need it most - fulfilling lives, rebuilding futures, spreading hope. \n\nTheir programmes include:-\n- hostels: support for independent living, life skills mentoring for young adults\n- homes for life: support \u0026 care for adults with intellectual disabilities to live a fulfilled life in a home run as a family\n- family homes: loving and supportive family-style living for vulnerable and neglected children\n- therapy centres: specialised care for children with wide-ranging disabilities\n- tackling poverty: community-based education and social support programmes, tackling poverty through education\n\nSince this charity has a high cost per child reached, if you would like to support any child-related cause, your donation could have a higher impact per pound donated with charities like Deworm the World and Project Healthy Children.",
+  "suggest": [
+    "Fara",
+    "fara"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "fara",
+      "name": "children (singular: child) reached",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 47246862,
+        "value": "4724.6862068965515634986"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://faracharity.org/home.php",
+  "whyTags": "Children, International aid \u0026 poverty",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 47246862,
+      "value": "4724.6862068965515634986"
+    }
+  },
+  "ready": false,
+  "name": "Fara",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/anon/garalogo-8187891566829199322.png",
+  "@id": "fara",
+  "englandWalesCharityRegNum": "1139349",
+  "summaryDescription": "FARA Charity supports vulnerable and disadvantaged children and young people in Romania. ",
+  "uptodatedraft": "probably",
+  "whereTags": "Romania",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
