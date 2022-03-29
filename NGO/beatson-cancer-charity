@@ -1,0 +1,102 @@
+{
+  "scotlandCharityRegNum": "SC044442",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "meta": {
+            "all": {
+              "notes": "Calibrated to be the same as Cancer Research UK"
+            }
+          },
+          "confidence": "low",
+          "name": "cancer researcher(s) employed for a day",
+          "description": "This refers to researchers employed to understand cancer. The cost includes all overheads.",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "500",
+            "value100p": 5000000.0,
+            "value": 500.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.oscr.org.uk/charities/search-scottish-charity-register/charity-details?number\u003dSC044442"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "suggest": [
+    "Beatson Cancer Charity",
+    "beatson-cancer-charity"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "beatson-cancer-charity",
+      "name": "cancer researcher(s) employed for a day",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5000000,
+        "value": "500.0"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.beatsoncancercharity.org",
+  "whyTags": "Cancer, health",
+  "howTags": "research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "cancer researcher(s) employed for a day",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 5000000,
+      "value": "500.0"
+    }
+  },
+  "ready": false,
+  "meta": {
+    "logo": {
+      "notes": "Tried to add in a link to https://imgur.com/a/3ROpF, but it didn\u0027t work"
+    }
+  },
+  "name": "Beatson Cancer Charity",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/anon/beatson-cancer-charity-2450785283189666366.png",
+  "@id": "beatson-cancer-charity",
+  "uk_giftaid": true,
+  "whereTags": "",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
