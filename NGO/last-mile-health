@@ -1,0 +1,160 @@
+{
+  "images": "http://lastmilehealth.org/wp-content/uploads/2015/07/25369251445_1327c5c756_o-1920x1283.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 31000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Self audited. Data is not terribly comprhensive or detailed. "
+            }
+          },
+          "confidence": "medium",
+          "name": "patient visit(s)",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 13838.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Self audited. Data is not terribly comprhensive or detailed. "
+            }
+          },
+          "confidence": "medium",
+          "name": "case(s) of fever, diarrhea, or pneumonia among children (singular: child) treated",
+          "start": "2014-07-01T00:00:00Z",
+          "end": "2015-06-30T00:00:00Z",
+          "costPerOutput": {
+            "value100": 15800.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 158.0
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve provided health to XXXX people.",
+      "images": "http://lastmilehealth.org/wp-content/uploads/2015/07/25369251445_1327c5c756_o-1920x1283.jpg",
+      "stories": "Over one billion people worldwide lack access to healthcare because they live too far from a health facility (World Health Organization, 2010). This problem is particularly acute in remote Liberia, where people living in communities furthest from the reach of the health system must walk for hours and across great distances to reach the nearest clinic. The impact of lack of access to care on health outcomes can be devastating: Liberia has among the highest maternal and child mortality rates in the world. Professionalized Community Health Workers (CHWs) are uniquely positioned to overcome this access gap. As the first point of contact to the health system, CHWs are trained to meet their community\u0027s specific health needs while simultaneously serving as a critical link between the community and the broader health system",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "https://www.dropbox.com/s/jy0nfrs4t3jy45h/LMH_1415AR_FINAL_11-16.pdf?dl\u003d0",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 4.899109E10,
+          "value": 4899109.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.dropbox.com/s/jy0nfrs4t3jy45h/LMH_1415AR_FINAL_11-16.pdf?dl\u003d0"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.dropbox.com/s/vi61njvzng20f39/2015%20Audited%20Financial%20Statements.pdf?dl\u003d0"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "The accounts mention non-cash contributions in the revenue section (mostly medical supplies) - it\u0027s not clear from the accounts whether the spend is purely cash spend, or whether it includes the expenditure of non-cash resources. If so, to establish whether this should be counted within the costs, we should work out how much of an opportunity cost it is for the donor - i.e. would the provider of those medical supplies have otherwise been able to sell those supplies profitably? If so, then they should be included as part of the cost, but if they were supplies that otherwise would have gone to waste, then they should not be included in the cost (although presumably in that case they shouldn\u0027t be used at all, I would have thought) This would alter the ratio by about 10-15%, which is not material enough to worry about. Income from charitable activities assumed to be zero, although I couldn\u0027t find anything to say this explicitly. However the model focuses on poor people in remote communities, so I\u0027m guessing they\u0027re not charged",
+      "name": "overall",
+      "analyst": "Robbie \u0026 Sanjay",
+      "end": "2015-06-30T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "last-mile-health",
+      "name": "patient visit(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1580357,
+        "value": "158.035774193548395630706"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Last mile health",
+    "last-mile-health"
+  ],
+  "whyTags": "Health, international aid",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "patient visit(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1580357,
+      "value": "158.035774193548395630706"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Last mile health",
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/last%20mile%20health%20logo.png?raw\u003dtrue",
+  "@id": "last-mile-health",
+  "summaryDescription": "Over one billion people globally lack access to healthcare because they live too far from a doctor or clinic. Last Mile Health ensures access to quality primary health care by training community health workers",
+  "uk_giftaid": false,
+  "status": "MODIFIED"
+}
