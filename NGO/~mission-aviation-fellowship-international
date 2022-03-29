@@ -1,18 +1,20 @@
 {
   "@type": "NGO",
   "displayName": "Mission Aviation Fellowship International",
-  "name": "Mission Aviation Fellowship International",
-  "@id": "mission-aviation-fellowship-international",
   "suggest": [
     "Mission Aviation Fellowship International",
     "Mission Aviation Fellowship International",
     "mission-aviation-fellowship-international"
   ],
+  "url": "https://mafint.org/",
+  "howTags": "Direct Work, Makes Grants to Organisations",
+  "whyTags": "Christian, Disaster relief, Education, Health, Infrastructure, International aid",
+  "name": "Mission Aviation Fellowship International",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-1657494532338254236.svg",
+  "@id": "mission-aviation-fellowship-international",
   "englandWalesCharityRegNum": "1058226",
   "summaryDescription": "Mission Aviation Fellowship international (MAF international) is a Christian organisation that provides subsidised aviation services in remote parts of the world.",
-  "url": "https://mafint.org/",
   "uk_giftaid": true,
   "whereTags": "developing world",
-  "status": "DRAFT",
-  "howTags": "Direct Work, Makes Grants to Organisations"
+  "status": "DRAFT"
 }
