@@ -177,7 +177,7 @@
   "whyTags": "International aid, poverty, health, Water/Sanitation/Hygiene/WASH",
   "externalAssessments": "https://www.givewell.org/charities/deworm-world-initiative",
   "parentCharityName": "Evidence Action",
-  "ready": true,
+  "ready": false,
   "modified": true,
   "logo": "https://www.crowdfunder.co.uk/uploads/projects/43333.jpg?v\u003d1456783401",
   "@id": "deworm-the-world",
