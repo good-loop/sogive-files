@@ -1,0 +1,82 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "Website says that they can support a child for ?240 per year (see http://www.orissa.org.uk/ last checked on 31/may/2017); previously this figure was ?180. Interestingly the figures both happen to coincide with a round number of pounds per month. We assume this is because the charity is doing a periodic calculation of the cost and then updating the figures (and presumably not anything suspicious). There doesn\u0027t appear to be any quantification of the number of beneficiaries in the accounts (http://apps.charitycommission.gov.uk/Accounts/Ends35/0001074935_AC_20141231_E_C.pdf) so we are reliant on the charity\u0027s own calcs in this case.",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.orissa.org.uk/"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Friends of the Children of Orissa (FOCO)",
+    "friends-of-the-children-of-orissa-foco"
+  ],
+  "howTags": "Direct Work",
+  "whyTags": "Children",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Friends of the Children of Orissa (FOCO)",
+  "modified": false,
+  "@id": "friends-of-the-children-of-orissa-foco",
+  "summaryDescription": "Friends of the Children of Orissa is a UK registered charity supporting an Indian organisation (PUSS) running a school to educate children who might otherwise have suffered unfortunate circumstances such as leprosy, sexworking, or begging.",
+  "whereTags": "India, Orissa",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
