@@ -61,6 +61,7 @@
   "@type": "NGO",
   "displayName": "MAF UK",
   "impact": "more-info-needed",
+  "confidence": "medium",
   "suggest": [
     "Mission Aviation Fellowship UK",
     "MAF UK",
