@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 311.0,
+          "confidence": "low",
+          "name": "Child assessment(s)",
+          "description": "Average across various different assesments"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber\u003d1057635\u0026SubsidiaryNumber\u003d0"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://beta.charitycommission.gov.uk/charity-details?regid\u003d1057635\u0026subid\u003d0"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "545375",
+          "currency": "GBP",
+          "value100p": 5.45375E9,
+          "value": 545375.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "156215",
+          "currency": "GBP",
+          "value100p": 1.56215E9,
+          "value": 156215.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "National charity supporting, disabilities, developmental conditions and learning difficulties. The charity delivers assessments and developmental therapy to young children and young people ages 6 months -25 years and training to parents and professionals. The charity also supports neurological and genetic conditions including Autism spectrum disorder (ASD), ADHD, Cerebral palsy, Global Developmental Delay(GDD), Down\u0027s syndrome, Sensory processing difficulties and many others.",
+  "recommendation": "Bibic\u0027s accounts indicate that a focus for their work is assessments. Further information would be required to better assess how these assessments positively impact on the lives of beneficiaries",
+  "whyTags": "Health, learning difficulties, children",
+  "imageCaption": "It\u0027s the perfect way to make a lasting difference to children who need bibic\u0027s help.",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/naireen.imtiazyahoo.comemail/logo-9121462091322067475.png",
+  "@id": "bibic",
+  "summaryDescription": "UK charity supporting children and young people to help them achieve their true potential. Empowering parents and carers with strategies and skills.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/naireen.imtiazyahoo.comemail/mia-1-226x300-6599451119036570915.jpg",
+  "impact": "low",
+  "suggest": [
+    "Bibic",
+    "bibic"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "bibic",
+      "name": "Child assessment(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 12513183,
+        "value": "1251.318327974276459760"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://bibic.org.uk/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Child assessment(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 12513183,
+      "value": "1251.318327974276459760"
+    }
+  },
+  "meta": {
+    "imageCaption": {
+      "notes": "\"Mia has brain damage, cerebral palsy and epilepsy..."
+    }
+  },
+  "name": "Bibic",
+  "englandWalesCharityRegNum": "1057635",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "MODIFIED"
+}
