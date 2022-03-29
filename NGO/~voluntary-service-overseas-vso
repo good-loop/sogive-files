@@ -1,0 +1,406 @@
+{
+  "scotlandCharityRegNum": "SCO39117 ",
+  "ukCompanyRegNum": "703509",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 131585.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: High confidence that the first level (cost per volunteer sent) is sound, however no checks done on the process of collecting data about the ultimate number of beneficiaries; in particular we have no asked VSO whether they have included any measures to ensure that the way that they gather data about the number of beneficiaries is consistent across projects/jurisdictions."
+            }
+          },
+          "confidence": "medium",
+          "name": "volunteer(s)",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "VSO supports volunteers to travel to support a charity in the developing world",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 2176000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: High confidence that the first level (cost per volunteer sent) is sound, however no checks done on the process of collecting data about the ultimate number of beneficiaries; in particular we have no asked VSO whether they have included any measures to ensure that the way that they gather data about the number of beneficiaries is consistent across projects/jurisdictions."
+            }
+          },
+          "confidence": "medium",
+          "name": "beneficiaries (singular: beneficiary) helped as a result of volunteers\u0027 work",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 55742.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 557.42
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "Your donation enabled XX1 volunteers to conduct projects in the developing world, helping XX2 people to be lifted out of poverty",
+      "images": "https://www.vsointernational.org/sites/default/files/styles/wysiwyg_default/public/Pupil%20Alex%20in%20Malawi_Unlocking%20Talent.jpg?itok\u003dn8KHVS3m",
+      "stories": "Education volunteer, Fred van den Brug, is supporting a project that uses technology to tackle some of Malawi\u0027s biggest education problems. Fred explains: Take teaching Mathematics. Lots of teaching is done \u0027outside under a tree\u0027, since there are not sufficient classrooms. It is quite common for the teacher to write an exercise on the chalkboard and children try to work out the solution and write it down in their exercise book...And then the waiting starts.\"The children line up to show their results to the teacher, which takes an incredibly long time. The teacher checks all results one by one, which means it might take up to half an hour just to check if each child has written down the right answer. Fred is working on a project called \u003ca href src\u003d\"https://www.vsointernational.org/fighting-poverty/improving-education/accelerating-learning-through-tablet-technology\"\u003e\u0027Unlocking Talent Through Technology,\u0027\u003c/a\u003e in which iPads are being used to give children direct feedback on their learning. The \u0027digital teacher\u0027 immediately responds on any result that the child has found for his/her exercise. The project is currently reaching almost 25,000 children, and now has funding to roll out further and reach 55,000 children.",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "https://www.vsointernational.org/news/blog/using-technology-to-improve-education-in-malawi",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.335E11,
+          "value": 7.335E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends57/0000313757_AC_20160331_E_C.pdf"
+        },
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/AnnualReport.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Based on the data available in the report, it would be possible to split out cost according to the different thematic areas (education, health, participation, secure livelihoods) but I\u0027ve assumed that this will show no material difference",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 4700.0,
+          "confidence": "medium",
+          "name": "volunteer(s) supported",
+          "description": "This refers to a volunteer that VSO supports to carry out charitable work."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/VSOannual%20report1819.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "64092000",
+          "currency": "GBP",
+          "value100p": 6.4092E11,
+          "value": 6.4092E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "14185000",
+        "currency": "GBP",
+        "value100p": 1.4185E11,
+        "value": 1.4185E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/VSOannual%20report1819.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21355000",
+          "currency": "GBP",
+          "value100p": 2.1355E11,
+          "value": 2.1355E7
+        }
+      ],
+      "name": "Inclusive Education"
+    },
+    {
+      "outputs": [
+        {
+          "number": 175000.0,
+          "confidence": "medium",
+          "name": "people (singular: person) reached",
+          "description": "This refers to mothers, babies and young people who were reached by one of VSO\u0027s health programmes."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/VSOannual%20report1819.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6172000",
+          "currency": "GBP",
+          "value100p": 6.172E10,
+          "value": 6172000.0
+        }
+      ],
+      "name": "Health"
+    },
+    {
+      "outputs": [
+        {
+          "number": 115000.0,
+          "confidence": "medium",
+          "name": "people (singular: person) supported",
+          "description": "This refers to people who have been supported by one of VSO\u0027s livelihoods programmes, such as by receiving career advice."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/VSOannual%20report1819.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14620000",
+          "currency": "GBP",
+          "value100p": 1.462E11,
+          "value": 1.462E7
+        }
+      ],
+      "name": "Resilient livelihoods"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.vsointernational.org/sites/default/files/VSOannual%20report1819.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8937000",
+          "currency": "GBP",
+          "value100p": 8.937E10,
+          "value": 8937000.0
+        }
+      ],
+      "name": "Core approaches"
+    }
+  ],
+  "@type": "NGO",
+  "description": "VSO volunteers work to create inclusive, resilient and accountable communities. The majority of VSO volunteers volunteer in their home country,  VSO volunteers develop new, creative ideas for solving poverty\nfrom within communities themselves, build the confidence and ability of communities to take ownership of change, and reach out to the most remote and excluded people.",
+  "whyTags": "International aid, poverty",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/logo-vso-1706604682405066457.svg",
+  "@id": "voluntary-service-overseas-vso",
+  "summaryDescription": "VSO offers volunteers the chance to work to fight poverty in the developing world.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/vso_cover_image-7604689958956246156.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Voluntary Service Overseas (VSO)",
+    "voluntary-service-overseas-vso"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "voluntary-service-overseas-vso",
+      "name": "volunteer(s) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 136365957,
+        "value": "13636.5957446808503820000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.vsointernational.org/",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "volunteer(s) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 136365957,
+      "value": "13636.5957446808503820000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Voluntary Service Overseas (VSO)",
+  "lastModified": "2020-11-13T15:14:10Z",
+  "englandWalesCharityRegNum": "313757",
+  "uk_giftaid": true,
+  "whereTags": "developing world",
+  "status": "PUBLISHED"
+}
