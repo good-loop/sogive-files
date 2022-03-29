@@ -1,0 +1,259 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 563.0,
+          "name": "People benefitted",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "",
+            "currency": "GBP",
+            "value100p": 0.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends14/0001003014_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": " 496,761",
+          "currency": "GBP",
+          "value100p": 4.96761E9,
+          "value": 496761.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "652",
+          "currency": "GBP",
+          "value100p": 6520000.0,
+          "value": 652.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 943.0,
+          "meta": {
+            "all": {
+              "notes": "Arranged 943 grocery deliveries to people\u0027s homes, representing 30,492 meals. "
+            }
+          },
+          "name": "Grocery Deliveries (singular: Delivery)",
+          "description": "This refers to deliveries of nutritious food to people with HIV"
+        },
+        {
+          "number": 30492.0,
+          "name": "Meal(s)",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends14/0001003014_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "175,536",
+          "currency": "GBP",
+          "value100p": 1.75536E9,
+          "value": 175536.0
+        }
+      ],
+      "name": "Food Delivery Services",
+      "start": "2016-04-01",
+      "description": "",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends14/0001003014_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "157,662",
+          "currency": "GBP",
+          "value100p": 1.57662E9,
+          "value": 157662.0
+        }
+      ],
+      "name": "Education \u0026 Outreach",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends14/0001003014_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "49,018",
+          "currency": "GBP",
+          "value100p": 4.9018E8,
+          "value": 49018.0
+        }
+      ],
+      "name": "Kitchen Services",
+      "start": "2016-04-01",
+      "description": "",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "The Food Chain",
+  "description": "The Food Chain deliver meals and groceries, offer cookery and nutrition classes and communal eating opportunities to people living with HIV in London and their dependants.",
+  "recommendation": "The Food Chain provides access to a variety of nutritional support for people in London affected by HIV who might otherwise be unable to access the nutrition needed to manage their illness and lead healthy, independent lives.",
+  "whyTags": "hunger, HIV, nutrition, food, cookery",
+  "imageCaption": "Eduardo",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/anon/thefoodchain-7264404402925422629.png",
+  "@id": "the-food-chain",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Food_Chain",
+  "summaryDescription": "The Food Chain exists to ensure people living with HIV in London can access the nutrition they need. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/anon/FOODCHAIN____1366129874__Eduardo-5717354397382066178.jpg",
+  "stories": "\"I don\u0027t have enough words of praise for The Food Chain. It gave me a helping hand that pulled me out of misery.\"\n\n\"In 2007 I was diagnosed as HIV positive. I\u0027ve had a very difficult time health-wise as I had pneumonia 3 years in a row.\n\n\"Last year was a very hard time as I had nowhere to live and no job, and I wasn\u0027t very knowledgeable about benefits.\n\n\"I was really struggling - my stress levels were high and my immune system almost non-existent. I was spending months staying with friends and was eating whatever I managed to get, like sandwiches and leftovers. I needed help. The nurse at hospital mentioned The Food Chain and what it does and I said \u0027that sounds brilliant\u0027 - I\u0027d never heard of it before.\n\n\"As I had stomach and bowel problems, The Food Chain provided me with different options for my diet and sent me recipes that really worked for me.\n\n\"The Food Chain was a lovely experience right from the very beginning - the positive energy of all the staff comes through with every phone call.\n\n\"I started to recover and feel stronger, and have gained weight. I\u0027ve started working again; my life has turned around.\n\n\"It was a blessing to have grocery services like The Food Chain. It comes every week and you can ask for what you want and it gets delivered - who else does that? There are no services like this where I come from, and I didn\u0027t expect this kind of help when things got difficult.\n\n\"I don\u0027t have enough words of praise for the Food Chain. It gave me a helping hand that pulled me out of misery. It said \u0027here is food\u0027 when I was hungry.\"",
+  "suggest": [
+    "The Food Chain",
+    "The Food Chain",
+    "the-food-chain"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-food-chain",
+      "name": "Grocery Deliveries (singular: Delivery)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1861463,
+        "value": "186.1463414634146555904"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "http://www.foodchain.org.uk/",
+  "howTags": "Direct work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Grocery Deliveries (singular: Delivery)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1861463,
+      "value": "186.1463414634146555904"
+    }
+  },
+  "meta": {
+    "recommendation": {
+      "source": "http://www.foodchain.org.uk/"
+    }
+  },
+  "name": "The Food Chain",
+  "englandWalesCharityRegNum": "1003014",
+  "whereTags": "London, United Kingdom, Europe",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
