@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": "8",
+          "name": "teacher(s) sponsored",
+          "description": "Organisation sponsors teachers and also development manager and PT programme director in Nepal. These are annual costs."
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "82977",
+          "currency": "GBP",
+          "value100p": 8.2977E8,
+          "value": 82977.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2016-01-01",
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2016-01-01"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Classrooms in the Clouds",
+  "description": "Classrooms in the Clouds exists to support children\u0027s education in the remote villages of Nepal. It does this by building schools, supporting the employment and professional development of teachers.",
+  "whyTags": "Education, international aid",
+  "ready": false,
+  "modified": false,
+  "logo": "https://images.justgiving.com/image/9e5c1dbc-f093-4521-84af-13f04a1c33f4.jpg?template\u003dsize200x200",
+  "@id": "classrooms-in-the-clouds-treasurers-account",
+  "summaryDescription": "Classrooms in the Clouds is an NGO that exists to support children\u0027s education in the remote villages of Nepal.",
+  "uptodatedraft": "probably",
+  "images": "",
+  "noPublicDonations": false,
+  "suggest": [
+    "CLASSROOMS IN THE CLOUDS TREASURERS ACCOUNT",
+    "Classrooms in the Clouds",
+    "classrooms-in-the-clouds-treasurers-account"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "classrooms-in-the-clouds-treasurers-account",
+      "name": "teacher(s) sponsored",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 103721250,
+        "value": "10372.125"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.classroomsintheclouds.org/index.php",
+  "howTags": "DIrect work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "teacher(s) sponsored",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 103721250,
+      "value": "10372.125"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "logo": {
+      "source": ""
+    },
+    "location": {
+      "source": "https://www.classroomsintheclouds.org/images/PDFs/CitC_Overview_2016-2.compressed.pdf"
+    },
+    "englandWalesCharityRegNum": {
+      "source": "http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityFramework.aspx?RegisteredCharityNumber\u003d1170522\u0026SubsidiaryNumber\u003d0"
+    }
+  },
+  "name": "CLASSROOMS IN THE CLOUDS TREASURERS ACCOUNT",
+  "location": "Nepal",
+  "englandWalesCharityRegNum": " 1170522",
+  "whereTags": "Nepal",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
