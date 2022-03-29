@@ -1,0 +1,118 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "confidence": "medium",
+          "name": "Passport for homeless individual",
+          "description": "The processing of a passport for a homeless person to provide them the first step in securing their legal identity required to obtain a job.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "85.50",
+            "currency": "GBP",
+            "value100p": 855000.0,
+            "value": 85.5
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends26/0001117726_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-03-31",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "5621",
+          "currency": "GBP",
+          "value100p": 5.621E7,
+          "value": 5621.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "",
+          "currency": "GBP",
+          "value100p": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Greater change specific info on page 27 of 29. Only income (£6096) and expenditure (£5621) provided. The remaining balance is the source of the £475 in the section below (reserves +note under overall cost per beneficiary)"
+        }
+      },
+      "name": "overall",
+      "start": "2017-03-31",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Greater Change is a project under the parent charity Aspire Oxfordshire",
+  "whyTags": "poverty, homelessness",
+  "imageCaption": "Homeless person in London",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/10101530321497487facebook/Greater_Change_Logo-1841675825735576014.jpg",
+  "@id": "greater-change",
+  "summaryDescription": "Greater Change is a donation platform that enables cashless giving directly to a homelessness charity while restricting that donation to focus on an individual homeless person. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/10101530321497487facebook/Great_Change_Photo-6129071071707396566.png",
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Greater Change",
+    "greater-change"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "greater-change",
+      "name": "Passport for homeless individual",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 855000,
+        "value": "85.5"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.greaterchange.co.uk/",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Passport for homeless individual",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 855000,
+      "value": "85.5"
+    }
+  },
+  "meta": {
+    "name": {
+      "notes": "Greater Change appears to be a project under parent company Aspire Oxfordshire. This project seems to provide restricted funds to provide passports to the homeless."
+    }
+  },
+  "name": "Greater Change",
+  "englandWalesCharityRegNum": "1117726",
+  "whereTags": "UK",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
