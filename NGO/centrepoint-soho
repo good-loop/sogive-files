@@ -1,0 +1,634 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 8465.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-04-01T00:00:00Z",
+          "end": "2014-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value100p": 1.8345E11,
+          "value": 1.8345E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://centrepoint.org.uk/media/972766/financial_statement_final_version_october_2014.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends11/0000292411_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 14405.0,
+          "meta": {
+            "all": {
+              "notes": "p. 38 for the number of people supported"
+            }
+          },
+          "name": "people (singular: person) supported",
+          "description": "This refers to young people supported through any of Centrepoint\u0027s services."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38890000",
+          "currency": "GBP",
+          "value100p": 3.889E11,
+          "value": 3.889E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "6572000",
+          "currency": "GBP",
+          "value100p": 6.572E10,
+          "value": 6572000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure (28,264k charitable + 10,626k raising funds), p.58 for rent and charges"
+        },
+        "reserves": {
+          "notes": "p48 of financial statement"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "3512000",
+        "currency": "",
+        "value100p": 3.512E10,
+        "value": 3512000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1465.0,
+          "meta": {
+            "all": {
+              "notes": "they report a few different numbers for the number of beds they provide. Have taken the largest number - p.23 of financial statement"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) in supported housing",
+          "description": "This refers to young people housed in supported accommodation. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "6572000",
+          "currency": "GBP",
+          "value100p": 6.572E10,
+          "value": 6572000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21589000",
+          "currency": "GBP",
+          "value100p": 2.1589E11,
+          "value": 2.1589E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure, p.58 for rent and charges. have not included govt grants here, just the rent and charges "
+        }
+      },
+      "name": "Housing and Lifeskills",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2116000",
+          "currency": "GBP",
+          "value100p": 2.116E10,
+          "value": 2116000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Skills and Employment"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5205.0,
+          "meta": {
+            "all": {
+              "notes": "p. 22 of financial statement for number of people"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) supported via Centrepoint\u0027s helpline",
+          "description": "This refers to young people supported through Centrepoint\u0027s helpline which aims to prevent youth homelessness. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1829000",
+          "currency": "GBP",
+          "value100p": 1.829E10,
+          "value": 1829000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Prevention"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1200.0,
+          "meta": {
+            "all": {
+              "notes": "Low confidence as not clear if there are other health services which fall under this category."
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) helped through health services",
+          "description": "This refers to young people supported through Centrepoint\u0027s therapeutic and mental health services."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1220000",
+          "currency": "GBP",
+          "value100p": 1.22E10,
+          "value": 1220000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Health"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "999000",
+          "currency": "GBP",
+          "value100p": 9.99E9,
+          "value": 999000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Engagement"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "355000",
+          "currency": "GBP",
+          "value100p": 3.55E9,
+          "value": 355000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Policy and Influence"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "156000",
+          "currency": "GBP",
+          "value100p": 1.56E9,
+          "value": 156000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.47 for expenditure"
+        }
+      },
+      "name": "Collaboration"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Centrepoint",
+  "description": "Centrepoint provides homeless young people with accommodation, health support and life skills in order to get them back into education, training and employment. Centrepoint is the UK\u0027s leading youth homelessness charity - together with their partners, they support over 14,000 young people every year.",
+  "recommendation": "**Centrepoint Soho achieves a Bronze assessment under the SoGive rating methodology.**\nCentrepoint Soho exists to give homeless young people a future, regardless of their background or start in life. As the UK’s leading charity for homeless young people, it has a vision is to end youth homelessness. Centrepoint support more than 14,000 homeless 16-25-year-olds into a home and a job every year, working directly in London, Manchester, Yorkshire and the North East of England, and are partners with other organisations across the UK. Centrepoint works in partnership with local authorities through contractual relationships and also influences government policy with the overall aim of ending youth homelessness.\nUnder the Sogive method\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n \n**More about what Centrepoint Soho does**\nThe Centrepoint approach is focused on three themes - safety and security; inspiration, enablement and motivation; and independent living.\n \nFirst, Centrepoint offers young people safety and security from homelessness. The range of services offered include crisis management and advice to prevent homelessness, the provision of a safe place to stay including support for complex needs, and floating support. Second, the charity enables, inspires, and motivates young people by offering the following services: emotional wellbeing and nutrition (dietetics), skills for life including engagement, mentoring and coaching, legal support, finance skills, and healthy relationships, and skills for work including functional skills, vocational skills, bursaries, and into work and into further education programmes. Finally, the charity supports young people to live independently once they are able to do so through the provision of the following services: the Centrepoint apprenticeship house, subsidised rent in Centrepoint starter homes, and connecting young people with the private rental sector and public sector housing. \n \nCentrepoint Soho provides Value for Money Metrics as set out in the Regulator of Social Housing’s Value for Money Standard. The headline social housing cost per unit reported by Centrepoint Soho for the 2019-2020 year is £26,630, which is over seven times the median for social housing providers reported for the 2018-2019 year at £3,690. However, the charity reports that its higher cost per unit reflects the supported housing and the level of support they provide to the young people in their care. The cost per unit they report is similar to that of comparable homelessness organisations.\n \nCentrepoint reports total expenditure for the 2020 financial year of £38.9 million, and income from beneficiaries of £6.6 million in the form of rent and charges. Centrepoint worked with more than 14,405 young people across the UK during 2019-20. We estimate a cost to donors of around £2,200 for Centrepoint to work with one person based on these reported numbers. \n \nCentrepoint reports income and expenditure under each of the following areas of focus: collaboration, engagement, health, housing and lifeskills, policy and influence, prevention, and skills and employment. Almost 70% of Centrepoint Soho’s expenditure net of income from beneficiaries is directed towards housing and lifeskills. Centrepoint provides over 1,000 bed spaces for homeless young people - keeping them safe and providing a base for them to start rebuilding their lives. At the end of the financial year, the charity reported having capacity for 1,465 young people in supported housing. This includes 798 bed spaces in London and 667 bed spaces in regions outside of London, including Barnsley, Bradford, Manchester and Sunderland. Based on these reported figures, we estimate that it costs donors around £15,000 to house one young person for one year.  \nIf you would like to learn more about the projects of Centrepoint Soho, you can check out [their annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0000292411_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10779451\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d292411).\n \n**Cost-effectiveness analysis**\nAfter a review of the work of the Centrepoint Soho under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as averting one year of severe depression for £100 or saving a life for £3,000) and also provide robust evidence on the effectiveness of their work.\n \nBased on the annual report, we understand that it costs Centrepoint around £2,200 to work with one person, or around £15,000 to house one young person for one year. For this reason, it is likely that a donation to Centrepoint Soho will achieve less positive impact than the same amount of money given to a Gold-rated organisation.\n \nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here]()\n",
+  "whyTags": "Homelessness",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/centrepoint____400x400-5684668053883045746-12638898818774202130.jpg#ccrop:110",
+  "@id": "centrepoint-soho",
+  "summaryDescription": "Centrepoint Soho works to give homeless young people a future, regardless of their background or start in life. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Centrepoint__feelgood-5344638632925428133.png",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Centrepoint Soho",
+    "Centrepoint",
+    "centrepoint-soho"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "centrepoint-soho",
+      "name": "people (singular: person) in supported housing",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 102505119,
+        "value": "10250.5119453924914317000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://centrepoint.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) in supported housing",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 102505119,
+      "value": "10250.5119453924914317000"
+    }
+  },
+  "whoTags": "Young people",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Centrepoint Soho",
+  "logo_white": "https://as.good-loop.com/uploads/anon/centrepoint__400x400-7412698800116786485.jpg",
+  "lastModified": "2020-12-08T13:56:36Z",
+  "englandWalesCharityRegNum": "292411",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
