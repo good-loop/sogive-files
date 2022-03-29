@@ -29,7 +29,20 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "meta": {
+        "reserves": {
+          "notes": "page 35"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "7547000",
+        "currency": "",
+        "value100p": 7.547E10,
+        "value": 7547000.0
+      }
     }
   ],
   "@type": "NGO",
