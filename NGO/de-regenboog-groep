@@ -1,0 +1,17 @@
+{
+  "@type": "NGO",
+  "ready": false,
+  "name": "De Regenboog Groep",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/de.regenboog.logo-2678713267584323856-7283372159240019540.jpg",
+  "description": "The Regenboog Groep wants Amsterdam to be a place where everyone feels at home. Whether you have mental health problems, are homeless, use drugs or are in debt. We encourage everyone to get the best out of themselves.",
+  "id": "de-regenboog-groep",
+  "suggest": [
+    "De Regenboog Groep",
+    "de-regenboog-groep"
+  ],
+  "@id": "de-regenboog-groep",
+  "lastModified": "2020-09-07T13:23:18Z",
+  "summaryDescription": "De Regenboog Groep support Amsterdammers in social poverty. We do this with voluntary buddies and buddies, drop-in centers, social work, reintegration and much more.",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
