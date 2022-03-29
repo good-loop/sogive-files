@@ -9,7 +9,8 @@
           "name": "unique passenger(s) transported"
         },
         {
-          "number": 1096.0,
+          "number": 1096785.0,
+          "confidence": "medium",
           "name": "kilogram(s) of unique cargo transported"
         }
       ],
