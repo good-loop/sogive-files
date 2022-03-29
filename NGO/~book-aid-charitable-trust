@@ -1,0 +1,135 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 800000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Unclear about the nature of the book sales mentioned in the accounts -- it may be the work is partly self-sustaining, but this is not clear from the info in the public domain. This might change our assessment of the numbesr"
+            }
+          },
+          "confidence": "low",
+          "name": "book(s) sent",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "Book Aid Charitable Trust selects suitable books and then transports them in twenty foot containers to Nigeria, India, Kenya, Zimbabwe",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.75179E9,
+          "value": 175179.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends84/0001039484_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "The accounts refer to ?92,203 worth of book sales. It is not defined or explained what these are or where they come from, however it may be appropriate to exclude this from the overall spend, if it means that the activity is partly self-funding. This would roughly halve the cost from 20ish pence per book to about 10 pence per book. This is a surprisingly low cost -- the accounts refer to a nominal cost of 5p per book, but this is not defined; i.e. we don\u0027t know what they mean by \"nominal cost\" (and haven\u0027t asked)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "book-aid-charitable-trust",
+      "name": "book(s) sent",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2189,
+        "value": "0.21897375"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Book aid charitable trust",
+    "book-aid-charitable-trust"
+  ],
+  "whyTags": "international aid, education, Christian",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "book(s) sent",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2189,
+      "value": "0.21897375"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Book aid charitable trust",
+  "@id": "book-aid-charitable-trust",
+  "summaryDescription": "Book Aid Charitable Trust collects and ships secondhand Christian books to areas of need around the world.",
+  "englandWalesCharityRegNum": "1039484",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
