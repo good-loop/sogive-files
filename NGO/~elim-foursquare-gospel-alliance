@@ -1,0 +1,649 @@
+{
+  "scotlandCharityRegNum": "SC037754",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-09-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "66,293,479",
+          "currency": "GBP",
+          "value100p": 6.6293479E11,
+          "value": 6.6293479E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "783,366",
+          "currency": "GBP",
+          "value100p": 7.83366E9,
+          "value": 783366.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2018-09-01",
+      "end": "2017-08-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "30,678,757",
+        "currency": "GBP",
+        "value100p": 3.0678757E11,
+        "value": 3.0678757E7
+      },
+      "end_raw": "2017-08-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9,090,963",
+          "currency": "GBP",
+          "value100p": 9.090963E10,
+          "value": 9090963.0
+        }
+      ],
+      "name": "UK Events and ministry programs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3,261,274",
+          "currency": "GBP",
+          "value100p": 3.261274E10,
+          "value": 3261274.0
+        }
+      ],
+      "name": "UK ancillary and community programs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,835,919",
+          "currency": "GBP",
+          "value100p": 1.835919E10,
+          "value": 1835919.0
+        }
+      ],
+      "name": "Overseas ministry"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "299,898",
+          "currency": "GBP",
+          "value100p": 2.99898E9,
+          "value": 299898.0
+        }
+      ],
+      "name": "Training and develpoment"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,764,897",
+          "currency": "GBP",
+          "value100p": 8.764897E10,
+          "value": 8764897.0
+        }
+      ],
+      "name": "Premises costs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends49/0000251549_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,885,181",
+          "currency": "GBP",
+          "value100p": 1.885181E10,
+          "value": 1885181.0
+        }
+      ],
+      "name": "Grants made"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "62,948,822",
+          "currency": "GBP",
+          "value100p": 6.2948822E11,
+          "value": 6.2948822E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "678,543",
+          "currency": "GBP",
+          "value100p": 6.78543E9,
+          "value": 678543.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "739699",
+          "currency": "GBP",
+          "value100p": 7.39699E9,
+          "value": 739699.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "trading costs \u003d \"cost of raising funds\", p26 (AKA p28 of entire pdf) \n\nincome from charitable activities \u003d income from beneficiaries. also on p26 "
+        },
+        "reserves": {
+          "notes": "p27; under \"general reserves\""
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "31621053",
+        "currency": "",
+        "value100p": 3.1621053E11,
+        "value": 3.1621053E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5150876.86",
+          "currency": "GBP",
+          "value100p": 5.15087686E10,
+          "value": 5150876.86
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p15"
+        }
+      },
+      "name": "UK Events and ministry programs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2687972.62",
+          "currency": "GBP",
+          "value100p": 2.68797262E10,
+          "value": 2687972.62
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p15"
+        }
+      },
+      "name": "UK ancillary and community programs"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1544876.00",
+          "currency": "GBP",
+          "value100p": 1.544876E10,
+          "value": 1544876.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p15"
+        }
+      },
+      "name": "Overseas ministry"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "246248.20",
+          "currency": "GBP",
+          "value100p": 2.462482E9,
+          "value": 246248.2
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p15"
+        }
+      },
+      "name": "Training and development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2293789.79",
+          "currency": "GBP",
+          "value100p": 2.29378979E10,
+          "value": 2293789.79
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p15"
+        }
+      },
+      "name": "Grants Made"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Elim Pentecostal Church",
+  "description": "Elim foursquare Gospel Alliance spreads the word of Christ by engaging in evangelism, supporting churches all over the world, training students and ministers, organising religious activities, delivering interactive workshops in schools and distributing content about religion online.",
+  "recommendation": "**To evaluate the Elim Foursquare Gospel Alliance under the SoGive rating methodology, we would need more information.**\n\nElim Foursquare Gospel Alliance is a charity dedicated to spreading Christianity all over the world.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n - how much does it cost for the charity to do something\n-  what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what the Elim Foursquare Gospel Alliance does**\n\nElim Foursquare Gospel Alliance (henceforth referred to as EFGA) spreads the word of Christ by engaging in evangelism, supporting churches all over the world, training students and ministers, organising religious activities, delivering interactive workshops in schools and distributing content about religion online.\n\nTo this end, in the 2019/2020 financial year, EFGA spent a total of £61.7m. EFGA states that \"94% of total income is applied towards our charitable objective to spread the Good News of Jesus in word and deed\" (ie. ≈ £58m). EFGA then lists a large number of categories, and enumerates the funds allocated to each. The majority of their costs were expended upon the continued operation of their churches, which resulted in the expenditure of £33.7m on personnel costs (around 58% of total charitable expenditure), £7.8m (around 13%) on premises costs, £4.9m (8%) on utilities, equipment, office and administration costs. Additionally, £5.15m (9%) was spent on UK events and ministry programs. EFGA also spent £2.7m (5%) on UK ancillary and community programs, £1.5m (3%) on overseas ministry, £246k (0.4%) on training and development, and £2.3m (4%) on grants made. Literature and materials cost a further £179k (≈ 0.3%) ([Consolidated Financial Statements](https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459), p15).  \n\nMany of these categories appear to span a broad variety of activities. For example, UK events and ministry programs involve several different projects, assuming that the [2019 Annual Review](https://www.elim.org.uk/Publisher/File.aspx?id\u003d262952) is a reasonable representation of the programs being run in the 2019/2020 financial year. These projects likely included regional conferences (held overseas), youth events, evangelism, and more ([Consolidated Financial Statements](https://www.elim.org.uk/Publisher/File.aspx?id\u003d290459), p33). As such, the output and impact of different types of activities within the same category is likely to vary. This is further complicated by the fact that EFGA does not report impact figures that correspond directly to each of their listed categories. This means the impact and cost of each type of category and activity is largely unclear.\n\nEFGA has not made a 2020 Annual Review available yet (as of July 2021), so we are using the 2019 figures in this report. EFGA has led 20,000 people in live worship, reached 500,000 with Elim Sound (worship leaders using music to spread the word of God), led 6,000 in online prayer (via the Engage prayer event), and served 10,000 children each week, via education, healthcare, and feeding programmes run by Elim Global members ([2019 Annual Review](https://www.elim.org.uk/Publisher/File.aspx?id\u003d262952), p2). \n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of EFGA under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. \n\nAs noted above, the key issue preventing cost-effectiveness analysis is the lack of impact figures that are directly attributable to any given expenditure category. EFGA splits up its charitable expenditure into categories, rather than projects, and so working out the underlying projects requires some degree of guesswork. Moreover, not all of the underlying projects have clearly defined output figures, and so any attempts at cost-effectiveness analysis are hindered by: \nProbable differences in cost-effectiveness of projects that are grouped under the same category. For example, premises costs apply to a variety of different property holdings. Given that different activities occur in different properties, it is reasonable to assume that each property is associated with a different cost-effectiveness\nLack of information about the specific impact arising from each project \n\nFurther information that would enable us to form a fuller opinion of EFGA’ work would be:\n- a more comprehensive picture of the costs involved in delivering their work (eg. the cost of any particular project)\n-  more comprehensive impact assessments, both in quantity and depth (the extent to which people in need have been helped, eg. with regards to training, how much training has been provided, or with respect to their events, what benefits were gained by attendees?)\n- a more comprehensive picture about the number of people benefiting from each of their projects\n\nAt the present, it is not clear what the benefit of an additional pound donated to EFGA is. Nevertheless, given that the projects which are noted are largely to do with spiritual enrichment (with the notable exception of ancillary and community programs, which improve material quality of life, but still only composes ≈ 4.6% of total charitable expenditure), it is unlikely that donating £200 to EFGA would be able to achieve an impact on wellbeing equivalent to averting a year of severe depression. Thus, we believe - though cannot yet show - that EFGA likely underperforms the Gold standard benchmark, though we are open to reconsidering this in light of new evidence. \n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nBased on the above, we rate the Elim Foursquare Gospel Alliance as More Information Needed under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We have no indication of cost-effectiveness, or we do not judge those indications to be promising\n",
+  "whyTags": "Christian",
+  "parentCharityName": "Elim foursquare Gospel Alliance",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-12409526618479539530.png",
+  "@id": "elim-foursquare-gospel-alliance",
+  "summaryDescription": "Elim Foursquare Gospel Alliance is a charity dedicated to spreading Christianity all over the world.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-5549111797508339467.jpg",
+  "parentCharity": "251549",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Elim Foursquare Gospel Alliance",
+    "Elim Pentecostal Church",
+    "elim-foursquare-gospel-alliance"
+  ],
+  "url": "https://www.elim.org.uk/",
+  "howTags": "Direct Work, Makes grants",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "scotlandCharityRegNum": {
+      "notes": "This number brings out a fishing company on OSCR, but this is what they have on their website too."
+    },
+    "parentCharity": {
+      "notes": "The analysis is based on this charity."
+    }
+  },
+  "name": "Elim Foursquare Gospel Alliance",
+  "lastModified": "2020-08-15T19:26:00Z",
+  "englandWalesCharityRegNum": "251549",
+  "uk_giftaid": true,
+  "whereTags": "International, United Kingdom",
+  "status": "PUBLISHED"
+}
