@@ -157,6 +157,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2075000",
+          "currency": "GBP",
+          "value100p": 2.075E10,
+          "value": 2075000.0
         }
       ],
       "name": "Grants"
