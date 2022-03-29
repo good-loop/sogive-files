@@ -1,0 +1,382 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "You enabled access to XXXX solar lights, well done!",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 6.027655E8,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 6027655.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.875317E8,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 3875317.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 624443.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "solar light(s) sold",
+          "start": "2014-04-01T00:00:00Z",
+          "description": "Solar lamps are sold at market rates, in order not to distort the market. Funds sent to Solar Aid support the marketing costs to kickstart the market",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 3900000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "people (singular: person) with better access to clean, safe light ",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 428.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 4.28
+          },
+          "order": 1.0
+        },
+        {
+          "number": 1.32E8,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "$ saved for families",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 69.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 0.69
+          },
+          "order": 2.0
+        },
+        {
+          "number": 7.75E8,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "hour(s) of extra study for someone in school",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 2.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 0.02
+          },
+          "order": 3.0
+        },
+        {
+          "number": 2200000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "people (singular: person) experiencing improved health",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 4.0
+        },
+        {
+          "number": 330000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Plenty of information provided, and it seems to align with independently conducted calcs, as far as they can be checked"
+            }
+          },
+          "confidence": "high",
+          "name": "tonne(s) of CO2 averted",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 121.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 1.21
+          },
+          "order": 5.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You enabled access to XXXX solar lights, well done!",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Solar%20Aid%20-%20Eco%20study%20-%20Kenya%2C%20Corrie%20Wingate.jpg?raw\u003dtrue",
+      "stories": "\"The children are studying for longer because they are reading in a friendly environment free from toxic flames and they don\u0027t complain of eye irritations so they study for longer.\" John Kukuni in Kenya",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "Email from Solar Aid",
+      "inputs": [
+        {
+          "value100": 6.326794E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 6326794.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.654481E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 3654481.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.solar-aid.org/assets/Uploads/Impact-week-2015/SolarAid-IMPACT-REPORT-2015.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends60/0001115960_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Good to compare with the social impact calculator that solar aid has - http://www.solar-aid.org/online-impact-calculator/",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 173366.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "solar light(s) sold",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Solar lamps are sold at market rates, in order not to distort the market. Funds sent to Solar Aid support the marketing costs to kickstart the market",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "Solar aid exited from two countries (Kenya and Tanzania) within the most recent financial year (2015-16). There were costs to this exit, which are reflected within the figures we use. SoGive judged that it would be overly pessimistic to calculate the cost per solar lamp based solely on the 2015-16 financial year, since this would essentially bake in an assumption that further exit costs will be incurred next year too, which we don\u0027t know to be true. However, under our understanding of Solar Aid\u0027s philosophy, they are happy for solar lamps to be adopted within a country, and they don\u0027t mind if this is via the success of local providers or whether it\u0027s Solar Aid\u0027s own company (Sunny Money) which takes lion\u0027s share of the market. Therefore we are calculating the cost per solar lamp based on the last 2 years: Apr 2014 - Mar 2016. This implicitly bakes in some chance that more costs may be incurred for leaving other countries.",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.14698E10,
+          "value": 3146980.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.21408E8,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1214080.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends60/0001115960_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "Solar Aid is a charity which exists to promote the sale of solar lamps in sub Saharan Africa.",
+  "suggest": [
+    "Solar Aid",
+    "solar-aid"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "solar-aid",
+      "name": "solar light(s) sold",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 111492,
+        "value": "11.149244949990194839500"
+      },
+      "n": 1.0
+    }
+  ],
+  "communicationsWithCharity": "Multiple meetings and emails",
+  "url": "https://solar-aid.org/",
+  "whyTags": "Energy, climate change, environment, health, education",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "solar light(s) sold",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 111492,
+      "value": "11.149244949990194839500"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Solar Aid",
+  "logo": "https://solar-aid.org/wp-content/uploads/2016/10/solar-aid-default-logo.png#ccrop:80",
+  "modified": false,
+  "@id": "solar-aid",
+  "summaryDescription": "Solar Aid combats poverty and climate change by promoting the sale of solar lamps in Sub-Saharan Africa. Solar Aid aims to eliminate the kerosene lamp, which is a source of greenhouse gases and health problems",
+  "englandWalesCharityRegNum": "1115960",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
