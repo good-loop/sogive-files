@@ -124,7 +124,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "32408000",
+          "currency": "GBP",
+          "value100p": 3.2408E11,
+          "value": 3.2408E7
         }
       ],
       "name": "Charitable Activities"
