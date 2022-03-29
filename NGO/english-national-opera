@@ -1,0 +1,115 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/eno-3027840369028291745.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 195000.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: ENO has outputs other than people seeing its performances live at the Coliseum. For example they also do stuff on the radio or cinema screenings. This costing has assumed that the cost of getting performances viewed on the cinema or braodcast on the radio is relatively low, but we dn\u0027t have data on that, and if that\u0027s not the case then this would be a misleading costing"
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) seeing the opera",
+          "description": "This refers to people getting a subsidised ticket to see the opera at the Coliseum near Covent Garden",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 3.8096E11,
+          "value": 3.8096E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value100p": 1.6712E11,
+          "value": 1.6712E7
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends10/0000257210_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "The annual report and accounts also refers to 640,000 people who heard opera on BBC radio 3. I have not included these in the calculation. The logic for saying that the opera-goers are beneficiaries is that they would not have been able to see the opera live at the ENO without the subsidy that comes from the charitable donations. However for the opera on the radio, listeners do still have the opportunity to listen to the opera on the radio, even if the ENO had not done this work. Admittedly, they might not have gotten to hear that particular production of that particular opera, but this starts to seem like splitting hairs.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "English National Opera",
+    "english-national-opera"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "english-national-opera",
+      "name": "people (singular: person) seeing the opera",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1096615,
+        "value": "109.661538461538457152000"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Arts",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) seeing the opera",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1096615,
+      "value": "109.661538461538457152000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "English National Opera",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/ENO__LOGO__ENO-RED-cmyk-2018699348772987917.png",
+  "@id": "english-national-opera",
+  "summaryDescription": "Britain\u0027s only full-time repertory opera company, based at the Coliseum located near Covent Garden. Also a charity",
+  "englandWalesCharityRegNum": "257210",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
