@@ -1,0 +1,1670 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 20650.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-10-01T00:00:00Z",
+          "end": "2014-09-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.152E10,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-09-30T00:00:00Z",
+          "value": 1.152E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-09-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-10-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20140930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The number of direct beneficiaries is perhaps not complete, the report mentions the opening of several dropin centres, but no indication of the number of people who use these. A large proportion of the counted beneficiaries (18,500) are people getting a \"much-needed break\", with no indication of said beneficiaries having more need for a much-needed break than you or I do. The outreach services to over 1100 vulnerable beneficiaries such as homeless/prison leavers sounds useful, but only because they are working with those vulnerable groups, and another charity that focuses on the homeless or prison leavers could presumably do just as well. What\u0027s more, it would be bizarre for the outreach workers to go to a group of people and help some, but not others who are not vets. ",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.43053E10,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 1.43053E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 2.9774487E11,
+          "value": 2.9774487E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "care services",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 5.355384E10,
+          "value": 5355384.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "personnel recovery centres",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 6.4451036E11,
+          "value": 6.4451036E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "community welfare services",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 1.2043914E11,
+          "value": 1.2043914E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "membership services",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 1.105143E10,
+          "value": 1105143.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "comradeship",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 1.7064E11,
+          "value": 1.7064E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "communication and campaigning",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value100p": 1.3259035E11,
+          "value": 1.3259035E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends79/0000219279_AC_20150930_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "remembrance and ceremonial",
+      "analyst": "Sanjay",
+      "end": "2015-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 1.46857E12,
+          "value": 1.46857E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 753.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "resident(s) supported",
+          "start": "2015-10-01T00:00:00Z",
+          "end": "2016-09-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 3.5150987E11,
+          "value": 3.5150987E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "care services",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 2.065006E10,
+          "value": 2065006.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "personnel recovery centres",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 6.4447075E11,
+          "value": 6.4447075E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "community welfare services",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 1.3325361E11,
+          "value": 1.3325361E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "membership services",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 1.152624E10,
+          "value": 1152624.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "comradeship",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 1.6250111E11,
+          "value": 1.6250111E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "communication and campaigning",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value100p": 1.4465838E11,
+          "value": 1.4465838E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-10-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-09-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-10-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://media.britishlegion.org.uk/Media/9244/the-royal-british-legion-annual-report-accounts-2016.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "remembrance and ceremonial",
+      "analyst": "Sanjay",
+      "end": "2016-09-30T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 34751000 ",
+          "currency": "GBP",
+          "value100p": 3.4751E11,
+          "value": 3.4751E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Care"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 2496000 ",
+          "currency": "GBP",
+          "value100p": 2.496E10,
+          "value": 2496000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Personnel Recovery Centres",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 104975.0,
+          "confidence": "medium",
+          "name": "people (singular: person) given face-to-face support in a Pop In Centre",
+          "description": "p.13 of 2019 annual report"
+        },
+        {
+          "number": 183298.0,
+          "confidence": "medium",
+          "name": "enquiries (singular: enquiry) made to helpline ",
+          "description": "p.13 of 2019 annual report"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 63724000 ",
+          "currency": "GBP",
+          "value100p": 6.3724E11,
+          "value": 6.3724E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Community Welfare",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9018000 ",
+          "currency": "GBP",
+          "value100p": 9.018E10,
+          "value": 9018000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Membership"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 595000 ",
+          "currency": "GBP",
+          "value100p": 5.95E9,
+          "value": 595000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Comradeship"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 12806000 ",
+          "currency": "GBP",
+          "value100p": 1.2806E11,
+          "value": 1.2806E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Communications and campaigning"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 14802000 ",
+          "currency": "GBP",
+          "value100p": 1.4802E11,
+          "value": 1.4802E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.52 of 2019 annual report"
+        }
+      },
+      "name": "Remembrance and ceremonial"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf?sfvrsn\u003d7e2d93b4_0"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "181683000 ",
+          "currency": "GBP",
+          "value100p": 1.81683E12,
+          "value": 1.81683E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "14,300,000",
+          "currency": "GBP",
+          "value100p": 1.43E11,
+          "value": 1.43E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "21549000",
+          "currency": "GBP",
+          "value100p": 2.1549E11,
+          "value": 2.1549E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs taken from \"Total Expenditure\" under 2019, p.52. Trading costs are from \"Lotteries and trading\" on p.6.  Income from beneficiaries is membership subscriptions + fees charged to care home residents, p.60."
+        },
+        "reserves": {
+          "notes": "p.77, also see p.7 and p.43 of 2019 annual report"
+        }
+      },
+      "name": "overall",
+      "start": "2018-10-01",
+      "end": "2019-09-30",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "66687000",
+        "currency": "",
+        "value100p": 6.6687E11,
+        "value": 6.6687E7
+      },
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "description": "The Royal British Legion (RBL) is a British charity providing financial, social, and emotional support to members and veterans of the British Armed Forces, their families, and dependants. Main charitable activities include community welfare and care, including providing grants to individuals and other organisations, as well as funding residential care homes. Other charitable activities include holding remembrance and ceremonial events, and communications and campaigning. ",
+  "recommendation": "**To assign a rating to the Royal British Legion under the SoGive rating methodology, we would need more information**\n\nThe Royal British Legion (RBL) is a British charity providing financial, social, and emotional support to members and veterans of the British Armed Forces, their families, and dependants.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what The Royal British Legion does**\n\nThe Royal British Legion (RBL) is a British charity providing financial, social, and emotional support to members and veterans of the British Armed Forces, their families, and dependants. \n\nTheir [2019 annual report](https://storage.rblcdn.co.uk/sitefinity/docs/default-source/quick-link-docs/rbl-annual-report-2019.pdf), covering the year to 30 September 2019, shows that their main charitable activities include community welfare (£63.7m) and care activities (£34.75m). These two activities respectively make up 46% and 25% of total direct spending on charitable activities. Other activities include remembrance and ceremonial (£14.8m), communications and campaigning (£12.8m), and membership (£9m). There are also relatively small amounts spent on personnel recovery centres and comradeship activities. Breakdown of spending on charitable activities can be found on page 62 of the annual report.\n\nTheir community welfare activities include £12.7m in grants to other organisations, which they claim has helped more than 30,000 people (p.14). It also includes £15.9m in grants to individuals, some of which includes £4.9m to support 1,300 veterans who acquired hearing loss or tinnitus during service (p.10), as well as funding around 1,200 new carers for people living with dementia (p.14). Community welfare also includes £31.7m in information, advice and support. This appears to fund the community support initiative, which reached around 4000 people in 2019 to provide assistance to those who are socially isolated (p.10), as well as the 180,000 enquiries made to their helpline (p.13), and 105,000 visitors to their pop-in centres (p.13), which provide face-to-face support.\n\nTheir care activities include £28.6m spent on residential care homes, and £6.2m on welfare break centres. However, no information is provided in the 2019 annual report as to how many people benefit from these services, nor the extent to which they benefit.\n\nRBL’s remembrance and ceremonial activities in 2019 included events to mark the 75th anniversary of D-Day, such as carrying 255 veterans and their families across the channel to Normandy on a chartered ship (p.14). It also included £3.6m for their National Memorial Arboretum, which had around 340,000 visitors (p.15).\n\nCommunications and campaigning activities included providing recommendations to the UK government on how to improve services and support for veterans, as well as working with councils to reduce homelessness among the Armed Force community.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of The Royal British Legion under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-Standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as saving a life for £5000, or averting one year of severe depression for £200), and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nBased on the Royal British Legion’s 2019 annual report, we are unable to come to a conclusion regarding the cost-effectiveness of their work.\n\nThis is because their 2019 annual report provides only limited information on the two main groups of charitable activities - community welfare and care - which combined make up over 70% of total direct spending on charitable activities. Indeed, there is no indication as to how many people even use the services that are classed under care activities. While there are some relevant numbers relating to community welfare activities, these are still very limited and give no indication of the extent to which users of these services actually benefited. If future reports provide this information, we may be able to form a fuller opinion of the charity’s work.\n\n**Conclusion**\n\nBased on the above, we would need more information to assign a rating to the Royal British Legion under the SoGive rating methodology.\n",
+  "UNSDG": "0",
+  "whyTags": "Military, Community",
+  "ready": true,
+  "logo": "https://app.sogive.org/uploads/violetbuxwal.comemail/Screenshot_2020-11-13_at_15.13.56-15964291478460240951.png",
+  "@id": "royal-british-legion",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Royal_British_Legion",
+  "summaryDescription": "The Royal British Legion (RBL) is a British charity providing financial, social, and emotional support to members and veterans of the British Armed Forces, their families, and dependants.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/violetbuxwal.comemail/Screenshot_2020-11-13_at_15.14.22-17374188240249632212.png",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "suggest": [
+    "Royal British Legion",
+    "royal-british-legion"
+  ],
+  "communicationsWithCharity": "Email sent from sanjay@sogive.org on 18-may-2017. They replied the next day to suggest looking at the annual report and accounts. Have sent a reply back saying that we\u0027ve already looked in the annual report and accounts.",
+  "url": "https://www.britishlegion.org.uk/",
+  "howTags": "Direct Work, Campaigning, Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) given face-to-face support in a Pop In Centre",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 6070397,
+      "value": "607.039771374136769828000"
+    }
+  },
+  "whoTags": "Military/veterans",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Royal British Legion",
+  "lastModified": "2020-11-18T17:10:36Z",
+  "category": "community development",
+  "subcategory": "Community Foundations",
+  "englandWalesCharityRegNum": "219279",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
