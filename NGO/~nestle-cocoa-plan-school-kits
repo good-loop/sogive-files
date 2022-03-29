@@ -1,0 +1,21 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/school_kits-3352511531345866313.jpeg",
+  "@type": "NGO",
+  "parentCharity": "nestle-cocoa-plan",
+  "noPublicDonations": true,
+  "description": "While primary school is free in cocoa-growing communities of Côte d\u0027Ivoire, some of Nestlé Cocoa Plan farmers struggle to pay for the books and school supplies for their children. Thanks to you, Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** will provide school kits so that more children can go to school. School kits contain exercise books, notebooks, pens, a ruler, an eraser, chalk and a slate.",
+  "suggest": [
+    "nestle-cocoa-plan-school-kits",
+    "nestle-cocoa-plan-school-kits"
+  ],
+  "ready": false,
+  "name": "nestle-cocoa-plan-school-kits",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/InternationalCocoaInitiative-15074470081283589841.jpg",
+  "@id": "nestle-cocoa-plan-school-kits",
+  "lastModified": "2020-09-04T15:21:13Z",
+  "summaryDescription": "Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** will provide school kits so that more children can go to school.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": false,
+  "status": "DRAFT"
+}
