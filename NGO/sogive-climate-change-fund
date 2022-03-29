@@ -1,0 +1,16 @@
+{
+  "@type": "NGO",
+  "ready": false,
+  "name": "SoGive climate change fund",
+  "modified": false,
+  "@id": "sogive-climate-change-fund",
+  "suggest": [
+    "SoGive climate change fund",
+    "sogive-climate-change-fund"
+  ],
+  "summaryDescription": "Care about climate change? Why not allow SoGive\u0027s analysts work out the best choices in this area. Using our own analysis and those of trusted partners, we will find the best bang for your buck to achieve the most good in the world, and report back on your impact.",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED",
+  "whyTags": "Climate Change, Global Warming",
+  "recommended": false
+}
