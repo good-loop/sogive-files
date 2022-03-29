@@ -130,6 +130,11 @@
           "value": 3.2408E7
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "page 17"
+        }
+      },
       "name": "Charitable Activities"
     },
     {
