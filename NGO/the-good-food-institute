@@ -1,0 +1,102 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "3509306.20",
+          "currency": "GBP",
+          "value100p": 3.5093062E10,
+          "value": 3509306.2
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.gfi.org/pdfviewer.php?prefix\u003dhttp://www.gfi.org/images/uploads/2018/04/GFI-YIR-2017-\u0026pages\u003d12\u0026pagewidth\u003d1000\u0026pdf\u003dfiles/GFI-YIR-2017.pdf\u0026title\u003dYear%2520In%2520Review%25202017\u0026donateUrl\u003dhttps://gfi.org/donate\u0026url\u003dhttps://bit.ly/2rHkmlA\u0026tweet\u003dCheck%2520out%2520GFI%25E2%2580%2599s%2520progress%2520on%2520the%2520road%2520to%2520the%2520good%2520food%2520future%2520in%2520our%25202017%2520Year%2520in%2520Review%2520h%252Ft%2520%2540GoodFoodInst\u0026hashtags\u003dNonprofit,ProgressReport"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "The Good Food Institute",
+  "description": "GFI\u0027s team of scientists, innovators and business analysts, and policy experts is harnessing the power of food innovation and markets to shift the current system from the products of industrialized animal agriculture to plant-based and clean meat alternatives.\n\nGFI is working towards a world where affordable, delicious food is also good for people and the planet. GFI has staff in the U.S., India, Brazil, Israel, Asia-Pacific, with plans to expand into Europe in early 2019.\n\nGFI\u0027s work transcends borders: GFI works with researchers, entrepreneurs, and established food companies (many of which are multinational), regardless of their geographic location. to effect maximum transformation of the global food system",
+  "recommendation": "The Good Food Institute (GFI) is working to transform the animal agriculture industry by promoting the development of competitive alternatives to animal-based meat, dairy, and eggs. GFI seeks out entrepreneurs and scientists to join or form startups in the plant-based and cultured meat (i.e., meat grown in a culture without animal slaughter) market sectors. They provide business, legal, scientific, and strategic guidance for plant-based and cellular product companies. They also engage in regulatory and statutory policy work to level the playing field for plant-based and cellular products in the consumer market. GFI builds relationships with food processing companies (e.g., Tyson, ADM), chain restaurants, grocery stores, and foodservice companies to improve and promote cultured and plant-based alternatives to animal products. Finally, GFI works with grant-making institutions, corporations, and governments to mobilize resources for research in plant-based and cultured meat.\n\nDeveloping cost-competitive methods of creating meat could be incredibly impactful over the long term, not only because it will avoid the suffering and deaths of billions of farmed animals, but also because the efficiencies generated could have enormous sustainability benefits with regard to climate change and the ability to feed a growing population, among other things.\n\nFor the write-up, we have leaned heavily on the work done by Animal Charity Evaluators, see https://animalcharityevaluators.org/charity-review/the-good-food-institute for more",
+  "nextAction": "DRAFT",
+  "whyTags": "Food, animals, environment, health, poverty",
+  "externalAssessments": "https://animalcharityevaluators.org/charity-review/the-good-food-institute/#comprehensive-review",
+  "imageCaption": "Plant-based and cell-based meat, dairy, and eggs are breakthrough solutions to the myriad global problems associated with industrial methods of raising animals for food. ",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/10213087435325196facebook/GFI-logomark-Good-Done-Great-2058337530085834018.jpg",
+  "smallPrint": "GFI is powered entirely by philanthropy. Gifts and grants power GFI\u0027s programs and mission impact!",
+  "@id": "the-good-food-institute",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Good_Food_Institute",
+  "summaryDescription": "The Good Food Institute (GFI) is a global think tank, incubator, and an accelerator for the fields of plant-based and cell-based meat, eggs, and dairy.",
+  "uptodatedraft": "probably",
+  "usCharityRegNum": "81-0840578",
+  "images": "http://www.gfi.org/images/uploads/2016/01/fork-new.png",
+  "stories": "\"GFI\u0027s team has been available to Memphis Meats for strategic brainstorming, communications support, and more from the time of our launch. GFI is a key visionary in the clean meat movement and their team has shown unwavering support for us. Memphis Meats is actively validating the once-fanciful prospect of producing clean meat without animal slaughter or suffering, and we are pleased to have GFI with us on this remarkable journey.\" Uma Valeti, MD, CEO and Co-Founder, Memphis Meats.",
+  "impact": "more-info-needed",
+  "suggest": [
+    "The Good Food Institute",
+    "The Good Food Institute",
+    "the-good-food-institute"
+  ],
+  "url": "https://www.gfi.org",
+  "communicationsWithCharity": "Sign up here for bi-weekly newsletter updates from The Good Food Institute here: https://www.gfi.org/e-newsletter",
+  "howTags": "Research, Direct work",
+  "recommended": false,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2017.0]"
+  },
+  "meta": {
+    "stories": {
+      "source": "https://www.gfi.org/files/GFI-YIR-2016.pdf"
+    },
+    "description": {
+      "source": "https://www.gfi.org/what"
+    }
+  },
+  "name": "The Good Food Institute",
+  "whereTags": "U.S., India, Brazil, Israel, Asia-Pacific, Europe",
+  "status": "MODIFIED"
+}
