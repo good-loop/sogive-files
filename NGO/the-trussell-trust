@@ -84,7 +84,7 @@
   "displayName": "THE TRUSSELL TRUST",
   "description": "The Trussell Trust operates 3 food banks and supports a network of 428 more. These food banks take referrals from local agencies such as children\u0027s centres, housing associations, advice charities and mental health teams. They provide those in need with boxes containing three days of emergency food and other essential home supplies. Boxes are carefully designed to provide a balanced supply of food for any household size.",
   "whyTags": "Hunger, Poverty",
-  "ready": true,
+  "ready": false,
   "logo": "https://media.good-loop.com/uploads/standard/trussell-trust-logo-500px-14510382039771531099.jpg#ccrop:90",
   "modified": false,
   "@id": "the-trussell-trust",
@@ -96,6 +96,21 @@
     "THE TRUSSELL TRUST",
     "THE TRUSSELL TRUST",
     "the-trussell-trust"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-trussell-trust",
+      "name": "three day emergency food supplies (singular: supply)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 260100,
+        "value": "26.01"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.trusselltrust.org/",
   "howTags": "Direct Work",
@@ -122,5 +137,5 @@
   "englandWalesCharityRegNum": "1110522",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
