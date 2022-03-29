@@ -1,0 +1,105 @@
+{
+  "circleCrop": 110.0,
+  "images": "https://app.sogive.org/uploads/anon/cfrn_frog-2651669301322684230.png",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "name": "tonne(s) of CO2eq averted",
+          "description": "A donation to CfRN will avert a tonne of CO2e for $0.12, with a plausible range of $0.02 - $0.72.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.10",
+            "currency": "GBP",
+            "value100p": 1000.0,
+            "value": 0.1
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "medium",
+  "description": "The Rainforest Coalition aims to bring together both developing and industrialized nations for the purpose of creating community-driven, environmentally sustainable economic growth.\n\nThe primary strategy of the Coalition is to bring about the reform of international frameworks, both legal and economic, to correct market failures that result in unsustainable outcomes, and to create economic incentives for the preservation of areas of high biodiversity and endemism worldwide. The Coalition supports the Forests Now Declaration calling for changes in the Kyoto Protocol and other international carbon markets to include land use and forestry.\n\nThe Coalition has been instrumental in the establishment of the World Bank\u0027s Forest Carbon Partnership Facility and the United Nations\u0027 UN-REDD program. Further, based upon these efforts by the Coalition, various industrialized countries (including Norway, the UK, Germany, France, Japan, Australia, Finland, and others) have currently pledged around US$3.0 billion for capacity building and incentives to reduce rates of deforestation in participating developing countries.",
+  "recommendation": "The Coalition for Rainforest Nations (CfRN) is an intergovernmental organisation of more than 50 rainforest nations which works to promote environmental sustainability while creating opportunities for economic advancement within tropically forested developing countries. It was founded in 2004 by the Prime Minister of Papua New Guinea and the President of Costa Rica. CfRN participating countries collaborate voluntarily in jointly developed initiatives led by the CfRN Secretariat headquartered in New York. \n\nWe believe that CfRN has had an extremely large positive impact on climate change by playing a pivotal role in establishing a global agreement on deforestation in UN climate change treaties. Beginning in 2005, CfRN launched and championed a mechanism known as Reducing Emissions from Deforestation and Forest Degradation (REDD+) in the United Nations Framework Convention on Climate Change (UNFCCC). Under REDD+, developing countries are provided with results-based compensation for preventing deforestation and degradation, and for conserving and enhancing carbon stocks. \n\nThanks in large part to CfRN, REDD+ was enshrined in Article 5 of the 2015 Paris Agreement. Forestry is the only sector with its own article. Having helped to establish REDD+ in global climate agreements, CfRN now focuses on consolidating and implementing REDD+, and on increasing public and private funding for REDD+. According to our cost-effectiveness model, a donation to CfRN will avert a tonne of CO2e for $0.12, with a plausible range of $0.02 - $0.72. Equivalently, a $100 donation to CfRN would avert ~857 tonnes of CO2e with a range of ~138 tonnes to ~4,600 tonnes. These estimates are highly uncertain. For context, the average person in the UK causes the emission of around 10 tonnes of CO2 per year, and it is generally considered to be difficult to avert a tonne of CO2e for less than $2. Overall, CfRN is a unique donation opportunity because of its status as an intergovernmental organisation and its ability to leverage international forestry policy. \n\nWe have sourced this evaluation from Founders Pledge. See here for more: https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf\n",
+  "suggest": [
+    "Coalition for Rainforest Nations",
+    "coalition-for-rainforest-nations"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "coalition-for-rainforest-nations",
+      "name": "tonne(s) of CO2eq averted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1000,
+        "value": "0.1"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.rainforestcoalition.org/",
+  "whyTags": "Conservation, climate change",
+  "howTags": "Campaigning",
+  "recommended": false,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "tonne(s) of CO2eq averted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1000,
+      "value": "0.1"
+    }
+  },
+  "ready": false,
+  "meta": {
+    "recommendation": {
+      "source": "https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf"
+    },
+    "recommended": {
+      "notes": "Works on a high priority intervention - deforestation prevention.\n\no Has an extremely strong track record - CfRN has had a large effect on global\nforestry prevention.\n\no Can leverage very large amounts of money for forestry protection.\n\no Supports a policy, REDD+, which we believe to be among the best ways to\nreduce deforestation.\n\no Given its position at the UNFCCC, we would be very surprised if there were\nanother charity better placed to prevent deforestation as cost-effectively as\nCfRN. ",
+      "source": ""
+    }
+  },
+  "name": "Coalition for Rainforest Nations",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/anon/Cfrn_logo-7658522147945456723.png",
+  "@id": "coalition-for-rainforest-nations",
+  "wikipedia": "https://en.wikipedia.org/wiki/Coalition_for_Rainforest_Nations",
+  "summaryDescription": "The Coalition for Rainforest Nations (CfRN) is an intergovernmental organisation of more than\n50 rainforest nations which works to promote environmental sustainability while creating\nopportunities for economic advancement within tropically forested developing countries",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
