@@ -1,0 +1,1348 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2519832.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular:person) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Overall across all projects (Rough Estimate - does not take into account benefit impact of hospital trusts supported, local Age UKs supported, MPs, government consultations)",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.62436E12,
+          "value": 1.62436E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.5805E11,
+          "value": 7.5805E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Approximate average across all projects where data available on number of people impacted",
+      "name": "overall",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 5900000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "older persons (singular:person) advised",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Advice provided on the phone through Age UK Advice, online through the Age UK website, through guides and factsheets that are available in Age UK shops, GP surgeries and other places, and face-to-face through local Age UKs",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.4390265E11,
+          "value": 3.4390265E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.6049115E11,
+          "value": 1.6049115E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "information and advice",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.3767364E11,
+          "value": 1.3767364E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 6.4249E8,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 6424900.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "health and care",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 11832.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people receiving wellbeing services",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Wellbeing services include services such as fitness classes, befriending services, and workshops that help older people get online, as well as a Gifted Housing Scheme",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "stories": "92-year-old Joseph from Sandwell, near Birmingham, was referred to Age UK by a local community officer after his wife of 64 years died. Even though Joseph felt he didn\u0027t need any help, Age UK refused to give up on him. Someone from Age UK Sandwell went to meet Joseph and see how he was. Although his general mental and emotional wellbeing was clearly very low, Joseph didn\u0027t really want anyone to come and visit. Age UK then arranged for a friendship scheme coordinator to visit Joseph twice more and eventually persuaded him to give befriending a try. Derek started to visit Joseph and they hit it off almost immediately, finding lots of common topics to chat about. He now visits Joseph every week for at least 2 hours and they\u0027ve been able to go on trips together occasionally, too - such as the National Memorial arboretum. Age UK Sandwell also arranged for Joseph to visit the local lunch club and he\u0027s made some new friends in the  area. Plus, he\u0027s started gardening again, with a little kickstart from Age UK Sandwell\u0027s gardeners who helped clear the undergrowth - this has also lead to trips to the local garden centre with Derek. Joseph doesn\u0027t really like admitting that he was lonely - he\u0027s a proud man who fought in WW2 and is highly decorated. He says now that he was too embarrassed to admit he needed help and friends and is extremely grateful to Age UK Sandwell who \u0027refused to give up on him\u0027.",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "http://www.ageuk.org.uk/health-wellbeing/loneliness/your-loneliness-stories/",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.9499075E11,
+          "value": 1.9499075E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.099752E10,
+          "value": 9099752.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Done as average cost for all beneficiaries in project",
+      "name": "wellbeing",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 154.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "local Age UKs supported",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 1500000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people visited local Age UK websites",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.2431949E11,
+          "value": 4.2431949E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.9801977E9,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1.9801977E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "supporting the network",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 3.5E7,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular:person) reached",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.8618511E11,
+          "value": 1.8618511E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 8.688814E8,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 8688814.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigning and research",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 808000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular:person) helped",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "helped with access to health services",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 1700000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "peoples\u0027 pension scheme coverage increased",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 1300.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 13.0
+          },
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.3728836E11,
+          "value": 3.3728836E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.5740442E9,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1.5740442E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Done as average cost for all beneficiaries in project",
+      "name": "international",
+      "analyst": "Sarah \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "129,058,000",
+          "currency": "GBP",
+          "value100p": 1.29058E12,
+          "value": 1.29058E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "4,232,000",
+          "currency": "GBP",
+          "value100p": 4.232E10,
+          "value": 4232000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "38,874,000",
+        "currency": "GBP",
+        "value100p": 3.8874E11,
+        "value": 3.8874E7
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "111,000",
+          "currency": "GBP",
+          "value100p": 1.11E9,
+          "value": 111000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,678,000",
+          "currency": "GBP",
+          "value100p": 8.678E10,
+          "value": 8678000.0
+        }
+      ],
+      "name": "Campaign and research "
+    },
+    {
+      "outputs": [
+        {
+          "number": 200476.0,
+          "name": "information given to people (singular: person)",
+          "description": "Answering to calls and emails from older people and their families."
+        },
+        {
+          "number": 234000.0,
+          "meta": {
+            "all": {
+              "notes": "identified an average of £4,142 of unclaimed benefits per person, per year"
+            }
+          },
+          "name": "people (singular: person) finding out what benefits they are entitled to",
+          "description": "Using an online benefit calculator"
+        },
+        {
+          "number": 1400.0,
+          "meta": {
+            "all": {
+              "notes": "82% of them receiving a home visit"
+            }
+          },
+          "name": "people (singular: person) given advice",
+          "description": "Old people are given person-centred information and advice sessions"
+        },
+        {
+          "number": 30000.0,
+          "name": "one-on-one support received",
+          "description": "Support received for difficult challenges including loneliness, money worries and unmet care needs"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "120,000",
+          "currency": "GBP",
+          "value100p": 1.2E9,
+          "value": 120000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9,322,000",
+          "currency": "GBP",
+          "value100p": 9.322E10,
+          "value": 9322000.0
+        }
+      ],
+      "name": "Information and advice "
+    },
+    {
+      "outputs": [
+        {
+          "number": 70.0,
+          "meta": {
+            "all": {
+              "notes": "average of 8% increase in mental wellbeing"
+            }
+          },
+          "name": "older people (singular: person) supported",
+          "description": "old people attended structured group activities that aim to maintain cognition and improve wellbeing"
+        },
+        {
+          "number": 2422.0,
+          "name": "older people (singular: person) supported",
+          "description": "transport from hospital and ensuring that appropriate care was in place when people got home"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "852,000",
+          "currency": "GBP",
+          "value100p": 8.52E9,
+          "value": 852000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,239,000",
+          "currency": "GBP",
+          "value100p": 2.239E10,
+          "value": 2239000.0
+        }
+      ],
+      "name": "Health and care "
+    },
+    {
+      "outputs": [
+        {
+          "number": 21886.0,
+          "name": "older veteran(s) helped",
+          "description": "Veterans are given information, advice and support they need, this includes benefits advice, lunch clubs and day trips"
+        },
+        {
+          "number": 21886.0,
+          "name": "older people (singular: person) supported",
+          "description": "people supported to stay warm and well in winter"
+        },
+        {
+          "number": 101.0,
+          "name": "volunteer(s) trained",
+          "description": "volunteers to deliver physical activity sessions"
+        },
+        {
+          "number": 293.0,
+          "name": "digital champion volunteer(s) recruited",
+          "description": "to help people develop basic digital skills"
+        },
+        {
+          "number": 18247.0,
+          "meta": {
+            "all": {
+              "notes": "no further info on p.45"
+            }
+          },
+          "name": "family and carer helped"
+        },
+        {
+          "number": 9630.0,
+          "name": "older people (singular: person) supported",
+          "description": "supporting people in high digital exclusion areas to get online or develop their basic digital skills"
+        },
+        {
+          "number": 60.0,
+          "name": "physical activity session(s) delivered",
+          "description": "delivered by volunteers"
+        },
+        {
+          "number": 3606.0,
+          "name": "home(s) visited",
+          "description": "Homes visited to carry out energy checks "
+        },
+        {
+          "name": "benefit check(s) delivered",
+          "description": "identifying £56.9 million in unclaimed benefits",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "30,717 ",
+            "currency": "GBP",
+            "value100p": 3.0717E8,
+            "value": 30717.0
+          }
+        },
+        {
+          "number": 1000.0,
+          "name": "telephone friendship(s) supported",
+          "description": "People can talk to volunteers on the phone."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "772,000",
+          "currency": "GBP",
+          "value100p": 7.72E9,
+          "value": 772000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11,453,000",
+          "currency": "GBP",
+          "value100p": 1.1453E11,
+          "value": 1.1453E7
+        }
+      ],
+      "name": "Wellbeing"
+    },
+    {
+      "outputs": [
+        {
+          "number": 95.0,
+          "meta": {
+            "all": {
+              "notes": "In 2018/19, the Age UK network received £13.6 million in funding from Age UK."
+            }
+          },
+          "name": "Gave financial governance and management support given to local age UK partner(s)"
+        },
+        {
+          "number": 86.0,
+          "name": "supported local and national partner(s) to be externally assessed"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2,317,000",
+          "currency": "GBP",
+          "value100p": 2.317E10,
+          "value": 2317000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12,767,000",
+          "currency": "GBP",
+          "value100p": 1.2767E11,
+          "value": 1.2767E7
+        }
+      ],
+      "name": "Support the network "
+    },
+    {
+      "outputs": [
+        {
+          "number": 1000000.0,
+          "name": "people (singular: person) helped to receive social pension",
+          "description": "ppl. helped to social pension, not direct financial aid"
+        },
+        {
+          "number": 900000.0,
+          "name": "people (singular: person) able to access existing health care",
+          "description": "not providing but helping to access"
+        },
+        {
+          "number": 15000.0,
+          "name": "older people’s association(s) helped",
+          "description": "associations were helped provide social pensions, health services and other entitlements"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends67/0001128267_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "60,000",
+          "currency": "GBP",
+          "value100p": 6.0E8,
+          "value": 60000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12,967,000 ",
+          "currency": "GBP",
+          "value100p": 1.2967E11,
+          "value": 1.2967E7
+        }
+      ],
+      "name": "International"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "136353000",
+          "currency": "GBP",
+          "value100p": 1.36353E12,
+          "value": 1.36353E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "42401000",
+          "currency": "GBP",
+          "value100p": 4.2401E11,
+          "value": 4.2401E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2484000",
+          "currency": "GBP",
+          "value100p": 2.484E10,
+          "value": 2484000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 94 charity shops, Independent Living Solutions. https://www.ageuk.org.uk/products/mobility-and-independence-at-home/"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "12231000",
+        "currency": "",
+        "value100p": 1.2231E11,
+        "value": 1.2231E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14054000",
+          "currency": "GBP",
+          "value100p": 1.4054E11,
+          "value": 1.4054E7
+        }
+      ],
+      "name": "Campaigning and research"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7728000",
+          "currency": "GBP",
+          "value100p": 7.728E10,
+          "value": 7728000.0
+        }
+      ],
+      "name": "Information and advice"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3665000",
+          "currency": "GBP",
+          "value100p": 3.665E10,
+          "value": 3665000.0
+        }
+      ],
+      "name": "Health and care"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12090000",
+          "currency": "GBP",
+          "value100p": 1.209E11,
+          "value": 1.209E7
+        }
+      ],
+      "name": "Wellbeing"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11621000",
+          "currency": "GBP",
+          "value100p": 1.1621E11,
+          "value": 1.1621E7
+        }
+      ],
+      "name": "Support the Network"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14452000",
+          "currency": "GBP",
+          "value100p": 1.4452E11,
+          "value": 1.4452E7
+        }
+      ],
+      "name": "International"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Age UK",
+  "description": "Age UK aims to help old people by engaging in campaigning and research, providing information and advice, improving healthcare services and delivering wellbeing programmes. Age UK collaborates with partners around the world, especially the independent local branches of the Age UK Network.",
+  "recommendation": "**To assign a firm rating to Age UK under the SoGive rating methodology, we would need more information.**\n\nAge UK is a charity serving old people in the United Kingdom and around the world.\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n**More about What Age UK Does**\n\nAge UK aims to help old people by engaging in campaigning and research, providing information and advice, improving healthcare services, and delivering wellbeing programmes. Age UK collaborates with partners around the world, especially the independent local branches of the Age UK Network.\n\nAs calculated using the charity’s annual report, Age UK spent about £91 million during the 2019/20 financial year ([Annual Report](https://www.ageuk.org.uk/globalassets/age-uk/documents/annual-reports-and-reviews/age-uk-annual-report-1920.pdf) p. 94-5). The report stated that the £91 million was used for 6 purposes.\n\nAbout 23% of the expenditures or £21 million was directed towards international programs (Annual Report p. 95). An example of work that falls under this category is the provision of walking sticks, wheelchairs, and psychosocial support for elderly Burundian refugees in Tanzania (Annual Report p. 49). Another example is the provision of aid to immobile old people in Malawi after Cyclone Idai (Annual Report p. 48). The annual report contains no information about the number of people helped by these international programs. Nor do we know the extent to which a typical beneficiary is helped.\n\nFor the following 5 projects, about £70 million was spent on providing aid to \"millions of people\" in the UK (Annual Report p. 12).\n\nAbout 22% of the expenditures or £20 million was directed towards campaigning and research (Annual Report p. 95). The charity draws on research to explain to decision-makers the challenges that older people face, suggesting possible solutions (Annual Report p. 23). The annual report does not provide information on how much funding is spent on different projects, and it is not always clear how many people these campaigns could eventually help. One example in which the charity does provide some information on the number of people helped is the \"We are Undefeatable\" campaign, which uses multiple forms of mass media to encourage people with long-term health conditions to take up physical activities (Annual Report p. 25). The charity reached 93% of their target audience of 19 million people (Annual Report p. 25). In a survey of those reached by the campaign, 57% of the respondents said they have indeed included physical activities in their routines (Annual Report p. 25). However, it is unclear whether the survey respondents constitute a representative sample of the people reached by the charity, or whether the campaign actually resulted in an increase in physical activity. In another campaign, Age UK mobilized more than 100 MPs to pledge to be Age Champions, but it is unclear whether becoming Age Champions actually causes MPs to work on more policies that serve old people (Annual Report p. 24). Finally, the charity campaigned against the BBC’s decision to scrap the Free TV licence for people over 75 years old, but the decision was implemented despite the charity’s efforts (Annual Report p. 24). In addition, the charity provides insufficient information about whether progress has been accelerated as a result of the charity’s own efforts. In the \"We are Undefeatable\" campaign, Age UK is acting as part of the Richmond Group of Charities, a collaboration of leading health and social care organisations in the voluntary sector (Annual Report p. 23). It is unclear whether the campaign would achieve similar results even if Age UK did not participate. To learn more about how SoGive approaches campaigns, see [this blog here](http://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?view\u003dsidebar).\n\nAbout 19% of the expenditures or £17 million was directed towards \"wellbeing\" (Annual Report p. 95). This project provides the elderly with services like day trips (Annual Report p. 38), computer training (Annual Report p. 39), emotional support, and financial guidance (Annual Report p. 40).  We do not have data on the total number of people helped by this £17 million. We also do not know the extent to which Age UK contributes to these programs as it is collaborating with other organisations, for example with SSAFA (the Armed Forces charity, the Soldiers, Sailors, Airmen and Families Association) as it provides day trips for veterans (Annual Report p. 38).\n\nAbout 18% of the expenditures or £17 million was directed towards supporting the Age UK Network (Annual Report p. 95). In addition to Age UK, the network includes Age Scotland, Age NI, and Age Cymru, plus 130 local partners (Annual Report p. 43). The annual report provides no information on the number of additional people helped by this £17 million or the amount of additional benefit derived from this £17 million for a typical beneficiary.\n\nAbout 12% of the expenditures or £12 million was directed towards information and advice (Annual Report p. 95). This project reached 7 million people directly, online, and over the phone, helping the elderly with everything from managing money troubles to finding a care home (Annual Report p. 7). The annual report provides no measurement, however, of how Age UK’s information impacts a typical beneficiary.\n\nFinally, about 5% of Age UK’s charitable expenditures or about £6 million was dedicated towards health and care (Annual Report p. 95). The charity is currently shifting away from providing person-centered integrated care to supporting local Age UKs in providing services that range from foot care to Dementia Maintenance Cognitive Stimulation Therapy. It is unclear from the charity’s annual report how many people benefit from this £6 million, and it is also not clear how a typical beneficiary of a local Age branch would be impacted by Age UK’s additional funding.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Age UK under the two-question method, the next step in the SoGive process would involve comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert 1 year of severe depression) and also provide robust evidence on the effectiveness of their work. For more information on how we define our rankings, click [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar)\n\nWe could not gather enough information from the annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology. This is mainly because the report did not contain sufficient details on the degree to which each elderly person benefits from the charity’s service. It is also largely unclear how many people the charity helped in total.\n\nThe charity claims that its UK-based projects help millions of people every year. Therefore, we might very crudely estimate the total number of elderly people helped to be about 10 million. This is unlikely to be a severe underestimation of the total number of people helped, as the total number of British citizens over the age of 65 is about [12.3 million](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/overviewoftheukpopulation/january2021). If the charity spent £91 million pounds helping roughly 10 million people, then Age UK spends roughly an average of £10 on helping one person. This means that for the charity to reach the SoGive Gold standard, the charity must be able to achieve an outcome as good as saving a life by helping a few hundred elderly people, or to achieve an outcome as good as averting a year of severe depression by helping a few dozen elderly people. \n\nThe programs on information and advice provide more precise insights into the charity’s cost-effectiveness. If Age UK spends about £12 million reaching 7 million people, then the charity spends one or two pounds on reaching a typical beneficiary. This means that for the charity to reach the SoGive Gold standard, Age UK must be able to achieve an outcome as good as saving a life by providing advice and information to about 3,000 people, or able to achieve an outcome as good as averting a year of severe depression by providing advice and information to about 120 people. \n\nAge UK’s annual report does not provide sufficient information for us to determine whether this is the case.\n\nFurther information that would enable us to form a fuller opinion of the work of the charity would include:\n\n- An assessment of the average amount of benefit received by elderly people reached by the charity. \n\n- The cost of the charity’s awareness-raising campaigns, the potential impacts of the campaigns’ policy goals, and the degree to which the charity accelerates the ratification and implementation of such policies.\n\n- A more precise count of the number of people helped in each project\n\n**Conclusion**\n\nTo be able to rate Age UK, we would need more information about the impact of their work.\n",
+  "whyTags": "Elderly",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/anon/Age_uk_logo-7790778917638315897.png",
+  "@id": "age-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Age_UK",
+  "summaryDescription": "Age UK is a charity serving old people in the United Kingdom and around the world.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/anon/Age_uk_image-2327037425792078532.png",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "AGE UK",
+    "Age UK",
+    "age-uk"
+  ],
+  "url": "https://www.ageuk.org.uk/",
+  "howTags": "Direct work, Campaigning, Research, Grants",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "AGE UK",
+  "lastModified": "2020-10-16T16:34:02Z",
+  "englandWalesCharityRegNum": "1128267",
+  "uk_giftaid": true,
+  "whereTags": "Developing World, United Kingdom",
+  "status": "PUBLISHED"
+}
