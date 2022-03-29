@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "equal-justice-initiative",
-  "name": "Equal justice initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/eji-2019-social2x-2732257182315197061.jpg#ccrop:175",
-  "id": "equal-justice-initiative",
-  "suggest": [
-    "Equal justice initiative",
-    "equal-justice-initiative"
-  ],
-  "status": "DRAFT"
+  "id": "boys-and-girls-club-america",
+  "suggest": []
 }
