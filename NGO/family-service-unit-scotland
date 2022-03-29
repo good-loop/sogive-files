@@ -1,0 +1,271 @@
+{
+  "scotlandCharityRegNum": "SC037181",
+  "images": "https://app.sogive.org/uploads/frederic.guillaumegmail.comemail/family-on-beach-377-11208834292420994120.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 603.0,
+          "name": "Families (singular: Family) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://circle.scot/wp-content/uploads/2018/12/Circle-AnnualReview-2017-18FINAL.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "1561822",
+          "currency": "GBP",
+          "value100p": 1.561822E10,
+          "value": 1561822.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "113425",
+        "currency": "GBP",
+        "value100p": 1.13425E9,
+        "value": 113425.0
+      },
+      "end_raw": "2018-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://circle.scot/wp-content/uploads/2018/08/Circle-2017-18-Annual-Report-Accounts-SIGNED.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "231039",
+          "currency": "GBP",
+          "value100p": 2.31039E9,
+          "value": 231039.0
+        }
+      ],
+      "name": "Support for families and kinship carers",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://circle.scot/wp-content/uploads/2018/08/Circle-2017-18-Annual-Report-Accounts-SIGNED.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "756370",
+          "currency": "GBP",
+          "value100p": 7.5637E9,
+          "value": 756370.0
+        }
+      ],
+      "name": "Support for families with children affected by substance abuse",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31",
+      "isRep": false
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://circle.scot/wp-content/uploads/2018/08/Circle-2017-18-Annual-Report-Accounts-SIGNED.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "350139",
+          "currency": "GBP",
+          "value100p": 3.50139E9,
+          "value": 350139.0
+        }
+      ],
+      "name": "Support for families with children affected by parental imprisonment",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "125085",
+          "currency": "GBP",
+          "value100p": 1.25085E9,
+          "value": 125085.0
+        }
+      ],
+      "name": "Developmental Activities",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Circle Supporting Families in Scotland",
+  "description": "The objects of the charity as stated in the Memorandum of Association are:\n\n- To provide help, support and protection to children, families and individuals who are in conditions of poverty, vulnerability or distress or who are otherwise in need by reason of their personal, social or economic circumstances; and\n- To advance education, policy and practice in health and social services through study of conditions that affect children and families and through dissemination of the knowledge gained through that study and the experience of service provision.\n\nThe charity has the general aim of promoting the social inclusion of families with children marginalised by poverty and discrimination. The charity\u0027s purpose is to improve the lives of children by strengthening families.\n\nOur objectives are:\n- To protect and promote the best interests of children\n- To support marginalised families with children to develop a self-supporting and effective family life\n- To provide holistic and preventative services\n- To establish locally based, effective, accessible and flexible services\n- To work in partnership with other agencies to promote integrated services\n- To support student learning and post qualifying learning and development\n- To develop and disseminate good practice to influence policy and practice\n\nTo do this we provide preventative family support services that are strengths based and solution focussed. Currently we have projects which focus on:\n- Families with children affected by parental drug and alcohol use\n- Families with children affected by parental imprisonment\n- Families with children at risk of school exclusion\n- Families with very young children and who need additional support\n- Fathers in their role as parents\n\nThe strategies employed to achieve the charity\u0027s objectives are:\n- To provide preventative and intensive family support services.\n- Family support - to strengthen the ability of children and families to manage the threat, process and consequences of personal challenges and to help develop and strengthen the skills and resourcefulness of families in caring for their children.\n- Work with schools - to improve the educational opportunities of children, prevent school exclusion and improve the relationship between families and schools.\n- Early years work - to promote the best possible start in life.\n- Student learning - to support the development of the future social care workforce through providing student placements.\n- Workforce development - through continuous professional development and the dissemination of good practice.",
+  "suggest": [
+    "Family Service Unit Scotland",
+    "Circle Supporting Families in Scotland",
+    "family-service-unit-scotland"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "family-service-unit-scotland",
+      "name": "Families (singular: Family) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 25900862,
+        "value": "2590.086235489220701122"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.circlescotland.org",
+  "whyTags": "poverty, families, children, addiction, imprisonment, teen pregnancy",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Families (singular: Family) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 25900862,
+      "value": "2590.086235489220701122"
+    }
+  },
+  "meta": {
+    "description": {
+      "notes": "from Annual Report 2018"
+    }
+  },
+  "ready": false,
+  "name": "Family Service Unit Scotland",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/frederic.guillaumegmail.comemail/circle-logo__03-12586950453825224867.jpg",
+  "@id": "family-service-unit-scotland",
+  "summaryDescription": "Circle is a Scottish charity working at the heart of deprived communities across central Scotland. Their aim is to support the most disadvantaged children and families to improve their lives, promote their healthy development and reach their potential.",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "whereTags": "Central Scotland, Scotland, UK, Europe",
+  "status": "MODIFIED"
+}
