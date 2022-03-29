@@ -5,6 +5,7 @@
       "outputs": [
         {
           "number": 37800.0,
+          "confidence": "medium",
           "name": "unique passengers transported"
         }
       ],
