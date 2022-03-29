@@ -1,0 +1,767 @@
+{
+  "scotlandCharityRegNum": "SC042541",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "5,069,336",
+          "currency": "GBP",
+          "value100p": 5.069336E10,
+          "value": 5069336.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "raw": "",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "raw": "341,036",
+          "currency": "GBP",
+          "value100p": 3.41036E9,
+          "value": 341036.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2015-10-01",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [
+        {
+          "number": "67000",
+          "name": "member(s) supported"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1598026",
+          "currency": "GBP",
+          "value100p": 1.598026E10,
+          "value": 1598026.0
+        }
+      ],
+      "name": "Membership services",
+      "start": "2015-10-01",
+      "description": "Provide benefits and cover to members who believe cycling is a way of life. Currently have around 67000 members.",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "740385",
+          "currency": "GBP",
+          "value": 740385.0
+        }
+      ],
+      "name": "Education and cycle training",
+      "start": "2015-10-01",
+      "description": "1000+ rider leaders have been trained to support group rides. ",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1026788",
+          "currency": "GBP",
+          "value": 1026788.0
+        }
+      ],
+      "name": "Cycling development",
+      "start": "2015-10-01",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "168466",
+          "currency": "GBP",
+          "value": 168466.0
+        }
+      ],
+      "name": "Health and wellbeing projects",
+      "start": "2015-10-01",
+      "description": "3 projects under this category:\n\n- Inclusive cycling\n- Bike2Work\n- Health Rides and Access to bikes",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "83457",
+          "currency": "GBP",
+          "value": 83457.0
+        }
+      ],
+      "name": "Youth projects",
+      "start": "2015-10-01",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1165494",
+          "currency": "GBP",
+          "value": 1165494.0
+        }
+      ],
+      "name": "Cycling holidays",
+      "start": "2015-10-01",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20160930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-10-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "286720",
+          "currency": "GBP",
+          "value100p": 2.8672E9,
+          "value": 286720.0
+        }
+      ],
+      "name": "Campaigning",
+      "start": "2015-10-01",
+      "description": "Several campaigns have taken place to represent the views of the cycling public.",
+      "end": "2016-09-30",
+      "end_raw": "2016-09-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-10-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "4,371,553",
+          "currency": "GBP",
+          "value100p": 4.371553E10,
+          "value": 4371553.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "328538",
+          "currency": "GBP",
+          "value100p": 3.28538E9,
+          "value": 328538.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2488505",
+          "currency": "GBP",
+          "value100p": 2.488505E10,
+          "value": 2488505.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-10-01",
+      "end": "2018-09-30",
+      "reserves": {
+        "@type": "Money",
+        "raw": "5,275,230",
+        "currency": "GBP",
+        "value100p": 5.27523E10,
+        "value": 5275230.0
+      },
+      "end_raw": "2018-09-30"
+    },
+    {
+      "outputs": [
+        {
+          "number": 66000.0,
+          "name": "members accommodated",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,067,692",
+          "currency": "GBP",
+          "value100p": 2.067692E10,
+          "value": 2067692.0
+        }
+      ],
+      "name": "Membership services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "235,643",
+          "currency": "GBP",
+          "value100p": 2.35643E9,
+          "value": 235643.0
+        }
+      ],
+      "name": "Health and wellbeing projects"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "94,293",
+          "currency": "GBP",
+          "value100p": 9.4293E8,
+          "value": 94293.0
+        }
+      ],
+      "name": "Youth projects"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "156,232",
+          "currency": "GBP",
+          "value100p": 1.56232E9,
+          "value": 156232.0
+        }
+      ],
+      "name": "Education and cycling training"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "473,158",
+          "currency": "GBP",
+          "value100p": 4.73158E9,
+          "value": 473158.0
+        }
+      ],
+      "name": "Campaigning"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,340,545",
+          "currency": "GBP",
+          "value100p": 1.340545E10,
+          "value": 1340545.0
+        }
+      ],
+      "name": "Cycling development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends07/0001147607_AC_20180930_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,356,698",
+          "currency": "GBP",
+          "value100p": 1.356698E10,
+          "value": 1356698.0
+        }
+      ],
+      "name": "Cycling holidays"
+    }
+  ],
+  "@type": "NGO",
+  "description": "They have championed the cause of cycling for almost 140 years. They promote all forms of cycling, protect the interests of existing and would-be cyclists, and inspire people of all ages, backgrounds and abilities to discover the joys of cycling. Cycling UK works at a national and local level to lobby for cyclists\u0027 needs and wants, provides services to members, and organises local groups for local activism and those interested in recreational cycling.\n\nAn example of their work is that in 2017/18, Cycling UK member groups put on 14 Challenge Rides. These are longer distance group-cycling events varying from 50 to 200km for cyclists of any age and experience.\n\nAn example of their campaigning work is that Cycling UK raised more than £17,000 to fund a virtual reality film and headsets for police forces across the UK to help educate drivers on how to safely pass a cyclist.",
+  "recommendation": "**To evaluate Cycling UK under the SoGive rating methodology, we would need more information.**\n\nCycling UK \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Cycling UK does**\n \nWe could not gather enough information from the 2019 annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology.\n\nThis is because in their annual report, Cycling UK does not allocate their expenditure to individual projects, only to areas of impact (membership services, health and wellbeing projects, youth projects, education and cycling training, campaigning, cycling development, cycling holidays).\n\nHowever, this is understandable, because Cycling UK mostly works in cooperation with other entities, such as charities, companies and community cycle clubs.\n\nCycling UK is the largest UK organisation for cyclists. Its members can ask for advice and support with issues concerning cycling, and the charity helps people organise their cycling trips in groups. Cycling UK campaigns for better conditions for cycling in the UK, works with local authorities and represents the interests of bicycle users in the media. \n\nAn example of their work is that in 2017/18, Cycling UK member groups put on 14 Challenge Rides. These are longer distance group-cycling events varying from 50 to 200km for cyclists of any age and experience.\n\nAn example of their campaigning work is that Cycling UK raised more than £17,000 to fund a virtual reality film and headsets for police forces across the UK to help educate drivers on how to safely pass a cyclist.\nFurthermore, when Highways England proposed banning cyclists on the A63 near Hull, Cycling UK \"mobilised 10,000 people\" to write letters of objection. Cycling UK claims that as a result, the plans were dropped and cycling along that section of the road continues. \n\nCycling UK also organises the so-called Big Bike Revival programme, a series of events whose aim is to return unused and nonfunctional bikes to full working condition, while giving people the training, confidence and encouragement to start or return to cycling.\n\n**Conclusion**\n\nFurther information that would enable us to form a fuller opinion of the work of Cycling UK would be:\n(a) more comprehensive picture of the costs involved in delivering their work\n(b) more comprehensive impact assessments, both in quantity and depth\n\nTo expand on those points, we have a picture of some of the projects that Cycling UK works on, such as Health and Wellbeing or Youth. However we don\u0027t have a full picture of what the charity\u0027s intended Theory of Change is for those projects (i.e. what are the intended immediate effects of the charity\u0027s work, and what are the ultimate, long-term benefits of the work). We also don\u0027t have a quantification of those. We do have the cost of each of those projects though, but this is not enough.\n\nPart of their work is campaigning, which is difficult to assess in general because it involves complex counterfactuals (i.e. it\u0027s hard to know what would have happened if the campaigning hadn\u0027t been done)",
+  "whyTags": "Health, Safety",
+  "imageCaption": "Walsall Arboretum Community Cycling Club before the theft",
+  "ready": false,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/cyclinglogo-7425751325379934403.png",
+  "@id": "cycling-uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cycling_UK",
+  "summaryDescription": "Cycling UK wants people of all ages, backgrounds and abilities to be able to cycle safely, easily and enjoyably.",
+  "uptodatedraft": "probably",
+  "images": "https://www.cyclinguk.org/sites/default/files/styles/colorbox_gallery/public/media/2018/01/p1100380.jpg?itok\u003dqILh_zuy\u0026timestamp\u003d1515072565",
+  "stories": "Walsall Arboretum Community Cycle Club, a group affiliated to national cycling charity Cycling UK, was put on hold in November, after all 11 of the group?s new bicycles were stolen from a locked compound. The bikes were just a few weeks old, and had been chosen especially for new or unconfident cyclists. The group?s participants, many of them elderly women, were devastated by the news.\n\nNo one has been arrested in connection with the crime, but following a media campaign by Cycling UK, the local community responded with great generosity to replace the bikes in the weeks before Christmas.\n\nDate: Thursday, 4 January 2018\n",
+  "impact": "more-info-needed",
+  "suggest": [
+    "Cycling UK",
+    "cycling-uk"
+  ],
+  "url": "https://www.cyclinguk.org/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2018.0]"
+  },
+  "name": "Cycling UK",
+  "lastModified": "2020-11-06T20:14:45Z",
+  "englandWalesCharityRegNum": "1147607 ",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
