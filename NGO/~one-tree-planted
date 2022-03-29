@@ -48,6 +48,21 @@
     "One Tree Planted",
     "one-tree-planted"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "one-tree-planted",
+      "name": "tree(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 8000,
+        "value": "0.8"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://onetreeplanted.org/",
   "whyTags": "environment, trees",
   "simpleImpact": {
@@ -62,7 +77,7 @@
       "value": "0.8"
     }
   },
-  "ready": true,
+  "ready": false,
   "name": "One Tree Planted",
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/standard/otp-logo-long-greenpng-1519919839601-1643719818145597720.png#ccrop:95_noscale",
@@ -70,6 +85,6 @@
   "logo_white": "https://app.sogive.org/uploads/danielgood-loop.comemail/OTP__H__BW1982203114__410x-10101933543715514499.png",
   "summaryDescription": "As an environmental charity, we\u0027re on a mission to make it simple for anyone to help the environment by planting trees!",
   "uptodatedraft": "probably",
-  "status": "MODIFIED",
+  "status": "DRAFT",
   "usCharityRegNum": "46-4664562"
 }
