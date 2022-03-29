@@ -1,0 +1,72 @@
+{
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/Bible__society__image-5218609268054868346.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0000232759_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "17886000",
+          "currency": "GBP",
+          "value100p": 1.7886E11,
+          "value": 1.7886E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "6051000",
+          "currency": "GBP",
+          "value100p": 6.051E10,
+          "value": 6051000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "recommendation": "\nWe do not have an opinion on the impactfulness of this charity. After our review of this charity\u0027s accounts, we do not believe that the accounts provide enough information for us to have a clear understanding of how this charity has been using donors\u0027 funds.\n\nTo expand on this further....\n\nIn the 2017-18 accounts, the British and Foreign Bible Society separates out four projects:\n- Making the Bible available\n- Making the Bible accessible\n- Demonstrating the Bible\u0027s credibility\n- Educating the public\nTheir resources are split between those projects in roughly this proportion: 60%, 20%, 15%, 5% respectively\n\nA bit more than half of the 60% is spent on publishing costs (presumably for publishing bibles) which is then recouped by selling the bibles at cost. So in essence as a funder you are not materially enabling this work, since it\u0027s self-funding. The remainder of the 60% is mostly spent on grants overseas. It\u0027s not clear how those grants are spent.\n\nMost of the funds from donors are spent therefore, on the other three projects: Making the Bible accessible, Demonstrating the Bible\u0027s credibility, and Educating the public. The accounts do not include much clarification of what those projects actually involve.\n\nSo in short, having reviewed the accounts, we struggle to articulate what will happen with your money.\n",
+  "suggest": [
+    "British and Foreign Bible Society",
+    "british-and-foreign-bible-society"
+  ],
+  "url": "https://www.biblesociety.org.uk",
+  "whyTags": "Christianity",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2018.0]"
+  },
+  "ready": false,
+  "name": "British and Foreign Bible Society",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/Logo__British__and__Foreign__Bible__Society-5730564534943311901.svg",
+  "@id": "british-and-foreign-bible-society",
+  "englandWalesCharityRegNum": "232759",
+  "summaryDescription": "Working in over 200 countries, Bible Society is a charity on a global mission to bring the Bible to life for every man, woman and child.",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
