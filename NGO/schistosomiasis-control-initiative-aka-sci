@@ -1,0 +1,197 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2.1537898E7,
+          "@type": "Output",
+          "name": "people (singular: person) treated",
+          "description": "This refers to people - largely children - receiving treatment for schistosomiasis (a tropical disease) via schools-based treatments",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "0.76",
+            "value100p": 7600.0,
+            "value": 0.76
+          },
+          "order": 0.0
+        },
+        {
+          "meta": {
+            "all": {
+              "notes": "Source is p160 of Miguel \u0026 Kremer 2004 (http://cega.berkeley.edu/assets/cega_research_projects/1/Identifying-Impacts-on-Education-and-Health-in-the-Presence-of-Treatment-Externalities.pdf) Note that this has not been"
+            }
+          },
+          "confidence": "low",
+          "name": "additional year(s) of school participation",
+          "description": "Extra time spent in school because of the fact that  child is not suffering from worms",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "2.45",
+            "currency": "GBP",
+            "value100p": 24500.0,
+            "value": 2.45
+          }
+        }
+      ],
+      "adjustmentComment": "SoGive figure for cost per tablet distributed agrees with Givewell, and disagrees with SCI - SCI claims it costs ?1 to cover 3 people, Givewell argues it costs $1.19 (or ?0.76). The difference is because of the cost of the drugs and the government support. The drugs are donated by the drugs firm and have value for them. Hence if the drugs company stopped donating the drugs, someone would have to donate money to make up for the fact that the drugs company doesn\u0027t donate. Similarly for the government support, we consider this to be an input that has been donated by the government.",
+      "donationWording": "",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/SCI%20image.PNG?raw\u003dtrue",
+      "stories": "Schistosomiasis (or Bilharzia) is a parasitic disease that blights the lives of millions. The Schistosomiasis control initiative uses a cost-effective school-based method to distribute cheap treatments to millions of people - mostly children. Apart from the health benefits of not suffering from a parasitic infection of the gut, treatment for Schistosomiasis also makes its beneficiaries significantly (c 20%) richer in later life",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 7.042847E10,
+          "value": 7042847.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.givewell.org/charities/schistosomiasis-control-initiative"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Note that there is no link to a set of accounts. At an open evening held in 2015 Alan Fenwick stated that annual accounts would be available. I haven\u0027t worked out where to find these on the internet, but I emailed Alan directly and he sent me some which I have stored in my own drive. However he then stated this was not the final version and asked me not to use them. I have not requested a more up to date version since.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5b4cc42f4611a0e9f08711ce/t/6130c7f81e046413310b6710/1630586901243/"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9001798",
+          "currency": "GBP",
+          "value100p": 9.001798E10,
+          "value": 9001798.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p39"
+        },
+        "reserves": {
+          "notes": "page 27.\nNote they have 14m of designated funds from Imperial College"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "5582941 ",
+        "currency": "",
+        "value100p": 5.582941E10,
+        "value": 5582941.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Schistosomiasis Control Initiative (SCI)",
+  "recommendation": "What do they do? SCI (imperial.ac.uk/schistosomiasis-control-initiative) works with governments in sub-Saharan Africa to create or scale up programs that treat schistosomiasis and soil-transmitted helminthiasis (STH) (\"deworming\"). SCI\u0027s role has primarily been to identify country recipients, provide funding to governments for government-implemented programs, provide advisory support, and conduct monitoring and evaluation on the process and outcomes of the programs. (More)\n\nDoes it work? We believe that there is strong evidence that administration of deworming drugs reduces worm loads but weaker evidence on the causal relationship between reducing worm loads and improved life outcomes; we consider deworming a priority program given the possibility of strong benefits at low cost. SCI has conducted studies to monitor a non-random sample of about 40% of the treatments it has funded to determine whether its programs have reached a large proportion of children targeted. These studies have generally found moderately positive results, but have some methodological limitations. (More)\n\nWhat do you get for your dollar? Our best guess is that deworming is generally highly cost-effective. We estimate that children are dewormed for a total of around $1.09 per child in SCI-supported programs. This figure relies on several difficult-to-estimate inputs including how to account for (a) donated drugs and (b) in-kind contributions from governments with which SCI works. Excluding drugs and government contributions, we estimate that SCI\u0027s cost per treatment is $0.42. The number of lives significantly improved by deworming is also a function of a number of difficult-to-estimate factors, which we discuss in detail in a separate report. (More)\n\nIs there room for more funding? We estimate that SCI could productively use roughly $30 million more than it expects to receive to deliver treatments to school-aged children over the next three years. It could use almost three times this amount if it were to follow World Health Organization guidelines, which recommend treating adults in certain circumstances. We are not recommending funding to treat adults because we have not seen sufficient evidence on the impact of treating adults. (More)\n\nSCI is recommended because of its:\n\nFocus on a program with a strong track record and excellent cost-effectiveness. (More)\nTrack record - SCI has repeatedly demonstrated success at starting and expanding national deworming programs.\nStandout transparency - it has shared significant, detailed information about its programs with us.\nRoom for more funding - we believe SCI will be able to use additional funds to deliver additional treatments. (More)\nMajor open questions:\n\nThe evidence we have seen on SCI\u0027s track record of reaching those it has targeted for treatment is fairly limited. SCI has conducted studies to monitor (a non-random sample of) about 40% of the treatments it has funded, to determine whether its programs have reached a large proportion of children targeted. We are somewhat uncertain about the results we have seen because of the methodological limitations of the studies.\nSCI may use additional funding to, in part, treat adults in areas with moderate or high risk of schistosomiasis infection, as part of a strategy to stop transmission of the parasite. While this strategy has the potential to be cost-effective by decreasing infection rates in children over the long-term, we have not seen sufficient evidence to support it and do not currently believe it meets our criteria for evidence and cost-effectiveness.\nAlthough our understanding of SCI\u0027s financial position and spending has improved, we have remaining concerns about SCI\u0027s use of an accounting system ill-suited to its needs. We also learned in 2016 that SCI made two substantial financial errors that impacted funding from GiveWell-influenced donors and our room for more funding analysis in 2015. \n\nWe sourced this analysis from our trusted partner GiveWell",
+  "whyTags": "Health, NTDs, International aid",
+  "externalAssessments": "http://www.givewell.org/charities/schistosomiasis-control-initiative",
+  "ready": false,
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/SCI-logo-1.jpg?raw\u003dtrue",
+  "modified": true,
+  "@id": "schistosomiasis-control-initiative-aka-sci",
+  "wikipedia": "https://en.wikipedia.org/wiki/Schistosomiasis_Control_Initiative",
+  "summaryDescription": "Schistosomiasis Control Initiative has a cost-effective scalable programme to treat people (mostly children) suffering from Schistosomiasis (otherwise known as Bilharzia) and other worm diseases in several countries, mostly in Africa ",
+  "uptodatedraft": "probably",
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/SCI%20image.PNG?raw\u003dtrue",
+  "noPublicDonations": false,
+  "impact": "high",
+  "suggest": [
+    "Schistosomiasis Control Initiative (aka SCI)",
+    "Schistosomiasis Control Initiative (SCI)",
+    "schistosomiasis-control-initiative-aka-sci"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "schistosomiasis-control-initiative-aka-sci",
+      "name": "people (singular: person) treated",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 7600,
+        "value": "0.76"
+      },
+      "n": 1.0
+    }
+  ],
+  "communicationsWithCharity": "Multiple meetings and discussions",
+  "url": "https://schistosomiasiscontrolinitiative.org/",
+  "howTags": "Direct Work",
+  "recommended": true,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) treated",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 7600,
+      "value": "0.76"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "englandWalesCharityRegNum": {
+      "notes": "This is for hte SCI Foundation; this was created in 2019. Prior to that SCI was part of Imperial College"
+    }
+  },
+  "name": "Schistosomiasis Control Initiative (aka SCI)",
+  "englandWalesCharityRegNum": "1182166",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
