@@ -1,0 +1,22 @@
+{
+  "circleCrop": 110.0,
+  "images": "https://media.good-loop.com/uploads/raw/solar_mobile_charger-16886751087453598082.jpeg",
+  "@type": "NGO",
+  "parentCharity": "nestle-cocoa-plan",
+  "noPublicDonations": true,
+  "description": "Poverty affects many cocoa-growing households. This is why Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** have united forces to increase and diversify cocoa-growing women\u0027s incomes. At the same time, the initiative is addressing the lack of an electric grid in large parts of rural Côte d\u0027Ivoire. Thanks to you, we will help women earn an additional income by equipping them with a small solar charging station which they can then use to charge mobile phones for a fee.",
+  "suggest": [
+    "nestle-cocoa-plan-solar-chargers",
+    "nestle-cocoa-plan-solar-chargers"
+  ],
+  "ready": false,
+  "name": "nestle-cocoa-plan-solar-chargers",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/CocoaPlanModded-3421377527371412792.png",
+  "@id": "nestle-cocoa-plan-solar-chargers",
+  "lastModified": "2020-09-04T15:18:34Z",
+  "summaryDescription": "Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** have united forces to increase and diversify women\u0027s income, while at the same time addressing the lack of electric grid in large parts of rural Côte d\u0027Ivoire.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": false,
+  "status": "DRAFT"
+}
