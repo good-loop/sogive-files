@@ -66,6 +66,21 @@
     "The Turing Trust",
     "the-turing-trust"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-turing-trust",
+      "name": "people (singular: person) taught digital skills from donated computers",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 57800,
+        "value": "5.78"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "www.turingtrust.co.uk",
   "whyTags": "education",
   "howTags": "direct work",
@@ -81,7 +96,7 @@
       "value": "5.78"
     }
   },
-  "ready": true,
+  "ready": false,
   "name": "The Turing Trust",
   "modified": false,
   "logo": "https://app.sogive.org/uploads/10101530321497487facebook/Turing_Trust-5742973618326953979.jpg",
