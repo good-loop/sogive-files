@@ -72,15 +72,25 @@
       "outputs": [
         {
           "number": 37800.0,
+          "meta": {
+            "all": {
+              "notes": "page 3"
+            }
+          },
           "confidence": "medium",
           "name": "unique passenger(s) transported",
-          "description": "page 3"
+          "description": ""
         },
         {
           "number": 1096785.0,
+          "meta": {
+            "all": {
+              "notes": "page 3"
+            }
+          },
           "confidence": "medium",
           "name": "kilogram(s) of unique cargo transported",
-          "description": "page 3"
+          "description": ""
         }
       ],
       "year": 2020.0,
