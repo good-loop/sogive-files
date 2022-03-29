@@ -1,0 +1,111 @@
+{
+  "scotlandCharityRegNum": "SC040096",
+  "images": "https://www.firefighterscharity.org.uk/wp-content/uploads/2018/01/OLD_NEW_HP3_edited-4.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5107.0,
+          "name": "individual(s) supported",
+          "description": "Individuals supported refers to current and former firefighters benefitting from rehabilitation, nursing and health services."
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "7633071",
+          "currency": "GBP",
+          "value100p": 7.633071E10,
+          "value": 7633071.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "502167",
+          "currency": "GBP",
+          "value": 502167.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "173342",
+          "currency": "GBP",
+          "value": 173342.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs assumed to be 502167 (Note 3). Note 5 indicates a number of 1.3 million, however we suspect that this includes fundraising costs. Income from beneficiaries may be incorrect (overestimated) due to lack of information."
+        }
+      },
+      "name": "overall",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "28724066",
+        "currency": "GBP",
+        "value": 2.8724066E7
+      },
+      "end_raw": "2017-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "description": "Firefighters Charity aims to provide services that enhance quality of life for serving and retired firefighters, fire service support staff and their dependants through a range of support programmes including physical rehabilitation, psychological services, recuperation and a confidential helpline which provides impartial guidance and support on a wide range of concerns.",
+  "recommendation": "We think they don\u0027t have a funding gap. They have 28 million pounds in reserves which we believe has been misleadingly designated. We don\u0027t have much information on how much the people have been helped.",
+  "suggest": [
+    "The Fire Fighters Charity",
+    "the-fire-fighters-charity"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-fire-fighters-charity",
+      "name": "individual(s) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 13623579,
+        "value": "1362.35794008224003763258"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.firefighterscharity.org.uk",
+  "whyTags": "firefighters",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "individual(s) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 13623579,
+      "value": "1362.35794008224003763258"
+    }
+  },
+  "imageCaption": "Firefighters throughout history",
+  "ready": false,
+  "name": "The Fire Fighters Charity",
+  "modified": false,
+  "logo": "https://www.firefighterscharity.org.uk/assets/images/logo.png",
+  "@id": "the-fire-fighters-charity",
+  "englandWalesCharityRegNum": "1093387",
+  "summaryDescription": "Whether injured, ill or in need of psychological support Firefighters Charity exist to support the everyday heroes of the UK fire community.",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "MODIFIED"
+}
