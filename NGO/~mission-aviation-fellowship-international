@@ -6,7 +6,7 @@
         {
           "number": 37800.0,
           "confidence": "medium",
-          "name": "unique passengers transported"
+          "name": "unique passenger(s) transported"
         }
       ],
       "data-src": [
@@ -75,7 +75,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "mission-aviation-fellowship-international",
-      "name": "unique passengers transported",
+      "name": "unique passenger(s) transported",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -92,7 +92,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "unique passengers transported",
+    "name": "unique passenger(s) transported",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
