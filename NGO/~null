@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "equal-justice-initiative",
   "name": "Equal justice initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/download_5-6228441910482626114.png",
+  "logo": "https://media.good-loop.com/uploads/standard/eji-2019-social2x-2732257182315197061.jpg",
   "id": "equal-justice-initiative",
   "suggest": [
-    "Equal justice initiative"
+    "Equal justice initiative",
+    "equal-justice-initiative"
   ],
   "status": "DRAFT"
 }
