@@ -1,0 +1,272 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/anthonynolan-5906894494870295023.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1259.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 4.5625E11,
+          "value": 4.5625E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 6.07E7,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 607000.0
+        },
+        {
+          "value100": 3.34E7,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 334000.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803716_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The accounts state that donor provision generates ?34m of revenue, however it seems that this is simply the government providing money for the service - essentially this is a grant that happens to be dependent on the number of donors provided. This is therefore not a genuinely intrinsically self-sustaining element of income. I have given credit to the ?334k of research revenue though.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1259.0,
+          "@type": "Output",
+          "name": "patient(s) given the chance of life",
+          "description": "This refers to patients given the chance of life through the provision of stem cells",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 4.0625409E11,
+          "value": 4.0625409E7
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 5.40485E7,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 540485.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803716_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "donor provision",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 2.468122E10,
+          "value": 2468122.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 2923800.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 29238.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803716_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education and awareness",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 2.531469E10,
+          "value": 2531469.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 162200.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 1622.0
+        },
+        {
+          "value100": 3.34E7,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 334000.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends16/0000803716_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "research",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "very-low",
+  "suggest": [
+    "Anthony Nolan Trust",
+    "anthony-nolan-trust"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "anthony-nolan-trust",
+      "name": "patient(s) given the chance of life",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 318387005,
+        "value": "31838.7005559968191278828"
+      },
+      "n": 1.0
+    }
+  ],
+  "communicationsWithCharity": "Query sent on 2/Mar/16 via website about how mortality and morbidity rates vary between those who receive the intervention and those who don\u0027t",
+  "whyTags": "Health",
+  "howTags": "Direct Work, research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "patient(s) given the chance of life",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 318387005,
+      "value": "31838.7005559968191278828"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Anthony Nolan Trust",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/AN__logo.jpeg-15560332610923015542.jpg",
+  "@id": "anthony-nolan-trust",
+  "summaryDescription": "Anthony Nolan Trust provides stem cell or bone marrow transplants for people with blood cancer, which can save lives",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
