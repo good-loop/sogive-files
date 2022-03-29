@@ -11,11 +11,11 @@
   "url": "https://lovetheoceans.org/",
   "ready": true,
   "name": "Love the Oceans",
-  "logo": "https://media.good-loop.com/uploads/standard/Logoname-5950773496283629902.png",
+  "logo": "https://media.good-loop.com/uploads/standard/Logoname-5950773496283629902.png#ccrop:80",
   "@id": "love-the-oceans",
   "id": "love-the-oceans",
   "englandWalesCharityRegNum": "1184402 ",
   "summaryDescription": "Love The Oceans is working to protect and study the diverse ocean life found in Jangamo Bay, Mozambique, including many species of sharks, rays and the famous humpback whales. We use research, education and diving to drive action towards a more sustainable future. Our ultimate goal is to establish a Marine Protected Area for the Inhambane Province in Mozambique, achieving higher biodiversity whilst protecting endangered species. ",
   "whereTags": "Jangamo Bay, Mozambique, Africa",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
