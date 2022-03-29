@@ -2,7 +2,12 @@
   "images": "https://media.good-loop.com/uploads/raw/BNG-3189143838807982000.jpg",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 37800.0,
+          "name": "unique passengers transported"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -65,13 +70,35 @@
     "Mission Aviation Fellowship International",
     "mission-aviation-fellowship-international"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "mission-aviation-fellowship-international",
+      "name": "unique passengers transported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5360688,
+        "value": "536.068888888888908616224"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://mafint.org/",
   "howTags": "Direct Work, Makes Grants to Organisations",
   "whyTags": "Christian, Disaster relief, Education, Health, Infrastructure, International aid",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "unique passengers transported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 5360688,
+      "value": "536.068888888888908616224"
+    }
   },
   "name": "Mission Aviation Fellowship International",
   "logo": "https://media.good-loop.com/uploads/raw/logo-1657494532338254236.svg",
