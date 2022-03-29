@@ -1,0 +1,133 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/mousetrap-17813579907628137193.jpg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 16717.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "trip(s) to the theatre",
+          "start": "2014-09-01T00:00:00Z",
+          "description": "This refers to trips to the theatre for young people. For many of these young people it is the first time ever in a theatre",
+          "end": "2015-08-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value100p": 9.25243E9,
+          "value": 925243.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 2.07034E7,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 207034.0
+        }
+      ],
+      "start": "2014-09-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends34/0001053434_AC_20150831_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "The 16717 figure refers to the number of children who have seen a theatre production. The annual report also mentions that 4000 adults saw a production as well, however I have not inlcuded this as it seems to be an incidental by-product rather than part of the aims of the charity",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-08-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Mousetrap Theatre",
+    "mousetrap-theatre"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "mousetrap-theatre",
+      "name": "trip(s) to the theatre",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 429627,
+        "value": "42.962792367051505441764"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Arts",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "trip(s) to the theatre",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 429627,
+      "value": "42.962792367051505441764"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Mousetrap Theatre",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/Mouse_Trap_Theatre-8183637120215402488.jpg",
+  "@id": "mousetrap-theatre",
+  "summaryDescription": "Mousetrap theatre projects is a theatre education charity that aims to bring the magic of theatre to young people, especially those with limited resources or a disability",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
