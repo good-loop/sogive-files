@@ -8,6 +8,7 @@
     "mission-aviation-fellowship-uk"
   ],
   "url": "https://www.maf-uk.org/",
+  "howTags": "Direct Work",
   "name": "Mission Aviation Fellowship UK",
   "modified": true,
   "@id": "mission-aviation-fellowship-uk",
@@ -15,5 +16,5 @@
   "summaryDescription": "Mission Aviation Fellowship UK (MAF UK) is a Christian organisation that provides subsidised aviation services in remote parts of the world.",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
