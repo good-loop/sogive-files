@@ -1,0 +1,126 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2200.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "pupils (singular: pupil) receiving subsidised education",
+          "start": "2014-09-01T00:00:00Z",
+          "end": "2015-08-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value100p": 2.6137E11,
+          "value": 2.6137E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value100p": 1.9E8,
+          "value": 19000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "24308000",
+          "currency": "GBP",
+          "value100p": 2.4308E11,
+          "value": 2.4308E7
+        }
+      ],
+      "start": "2014-09-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends03/0001110703_AC_20150831_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-08-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Bolton School",
+    "bolton-school"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "bolton-school",
+      "name": "pupils (singular: pupil) receiving subsidised education",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 8227272,
+        "value": "822.72727272727273550000"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "Education",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "pupils (singular: pupil) receiving subsidised education",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 8227272,
+      "value": "822.72727272727273550000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Bolton School",
+  "@id": "bolton-school",
+  "lastModified": "2020-12-16T11:54:36Z",
+  "summaryDescription": "Bolton School is an independent day school in Bolton, Greater Manchester. It comprises a co-educational nursery, co-educational infant school, single sex junior schools and single sex senior schools including sixth forms",
+  "englandWalesCharityRegNum": "1110703",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
