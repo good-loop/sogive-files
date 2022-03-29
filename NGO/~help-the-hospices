@@ -1,0 +1,71 @@
+{
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/hospiceuk-10581343571498454055.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends51/0001014851_AC_20160331_E_C.pdf"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "value100": 5.596E8,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "5596000",
+          "currency": "GBP",
+          "value": 5596000.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2015-04-01",
+      "end": "2016-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Hospice UK",
+  "description": "Our work supports the development of hospice care in the UK and internationally. By supporting hospice professionals, championing the voice of hospice care and promoting clinical excellence, we help hospice care providers to deliver the highest quality of care to people with life-limiting or terminal conditions and their families.",
+  "nextAction": "Finish collecting information for charity profile ",
+  "suggest": [
+    "Help The Hospices",
+    "Hospice UK",
+    "help-the-hospices"
+  ],
+  "url": "https://www.hospiceuk.org",
+  "howTags": "Research, Training, Advocacy, Campaigning ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2016.0]"
+  },
+  "ready": false,
+  "name": "Help The Hospices",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/logo-13103951059588587950.png",
+  "@id": "help-the-hospices",
+  "englandWalesCharityRegNum": "1014851",
+  "summaryDescription": "We are the national charity for hospice care in the UK. We believe everyone should receive the best care at the end of life, no matter who they are.",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
