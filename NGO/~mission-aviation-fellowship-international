@@ -28,6 +28,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "reserves": {
+          "notes": "page 18"
+        }
+      },
       "name": "overall",
       "reserves": {
         "@type": "Money",
