@@ -12,7 +12,7 @@
   ],
   "whyTags": "COVID-19, coronavirus",
   "howTags": "Research, Direct work",
-  "ready": true,
+  "ready": false,
   "name": "SoGive COVID-19 Fund",
   "modified": true,
   "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/CDC-coronavirus-image-23311-for-web-14702872916374613391.jpg",
@@ -20,5 +20,5 @@
   "id": "sogive-covid-19-fund",
   "summaryDescription": "In light of the current COVID-19 pandemic, this will fund research, urgently needed local relief, and public health messaging in the developing world.",
   "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
