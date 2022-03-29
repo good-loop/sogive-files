@@ -1,0 +1,287 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 43348.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.711325E8,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 1711325.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.basicneeds.org/download/basicneeds_annual_accounts/Annual%20Audited%20Accounts%202014.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "In addition to the 43,000 people included in the ratio calculated here, there were a further 35,721 carers helped, as well as 144,349 family members. It was not clear whether the family members received direct interventions specifically for them, or whether the benefits to them are judged to have accrued simply because work was done for the depressed/mentally suffering individual. For this reason, those individuals have received zero credit in this analysis. Furthermore, Basic Needs does influencing work as well, and the ratio (unfairly) includes the costs of this in there as well.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 37387.0,
+          "name": "people (singular: person) reached",
+          "description": "People reached refers to the number of people directly affected by a mental illness.  "
+        },
+        {
+          "number": "",
+          "name": "people(singular: person) reached"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.basicneeds.org/basicneeds-annual-report-2015/"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0001079599_AC_20151231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2015-01-01",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "value100": 1.409623E8,
+          "name": "annualCosts",
+          "raw": "1409623",
+          "currency": "GBP",
+          "value": 1409623.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "value100": 5749700.0,
+          "name": "tradingCosts",
+          "raw": "57497",
+          "currency": "GBP",
+          "value": 57497.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs not stated in the accounts. Hence, the trading income was used an approximation for trading costs. "
+        }
+      },
+      "name": "overall",
+      "start": "2015-01-01",
+      "end": "2015-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 42792.0,
+          "meta": {
+            "all": {
+              "notes": ""
+            }
+          },
+          "name": "people helped",
+          "description": "People reached refers to the number of people directly affected by a mental illness.  "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "www.basicneeds.org/basicneeds-annual-report-2016/"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "1,200,001",
+          "currency": "GBP",
+          "value100p": 1.200001E10,
+          "value": 1200001.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "31800",
+          "currency": "GBP",
+          "value100p": 3.18E8,
+          "value": 31800.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2016-01-01",
+      "end": "2016-12-31"
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Capacity building"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends99/0001079599_AC_20190630_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "566,887",
+          "currency": "GBP",
+          "value100p": 5.66887E9,
+          "value": 566887.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "reserves": {
+        "@type": "Money",
+        "raw": "710,845",
+        "currency": "GBP",
+        "value100p": 7.10845E9,
+        "value": 710845.0
+      },
+      "end_raw": "2019-06-30"
+    }
+  ],
+  "@type": "NGO",
+  "description": "BasicNeeds provides medication and psychosocial support in partnership with local governments and Ministries of Health, builds the capacity of existing health professionals and services, encourages people to be members of self-help groups and creates livelihoods opportunities to support their on-going recovery. BasicNeeds also works to reduce stigma by helping the broader community understand what mental illness is.",
+  "recommendation": "**To evaluate BasicNeeds under the SoGive rating methodology, we would need more information.**\n\nBasicNeeds is a global mental health organization, working to improve the lives of people living with mental illness and or epilepsy. It was merged into the Christian disability charity CBM UK in 2017.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\nWe could not evaluate the work of BasicNeeds because it was merged into  CBM UK in July 2017.\n\nMore information on this can be found here:\nhttps://www.thirdsector.co.uk/basicneeds-merged-christian-disability-charity/management/article/1440733\n\nIf you are interested in our cost-effectiveness analysis of CBM UK, please visit: -link-\n\n**On the current work of BasicNeeds**\n\nIn their annual report BasicNeeds reports on two charitable activities. In Ghana they are working to improve maternal mental health and child health by helping them to access peer-support and medical treatment. \n\nThis programme is now being managed by CBM UK and will continue until 2021.\n\n**The plans of BasicNeeds for the future**\n\nIn April 2019, CBM International launched its much-anticipated Community Mental Health Initiative, within which the BasicNeeds Model forms an integral part. This five-year initiative, which was devised and developed in conjunction with BasicNeeds, will see mental health become one of the major focuses of CBM, alongside its work in eye health and disability inclusion.\n\nThe initiative sets out four priorities: \n1. To strengthen and amplify the voice of people affected by mental health problems. \n2. To support their full participation in community life.\n3. To work with governments and other providers to build accessible, quality and person centered health and other systems. \n4. To properly integrate mental health into other areas of work like humanitarian response, community based inclusive development (CBID) and physical health care.\n\nFor more information, see: \nwww.cbmuk.org.uk/blog/building-15-years-learning-growingempowering-mental-health-cbm/\n",
+  "nextAction": "For obtaining further information in regards to splitting costs among mental health sufferers, their carers and their family members, and their trading costs Basic Needs would need to be contacted.",
+  "whyTags": "Mental health, depression, epilepsy",
+  "ready": false,
+  "logo": "https://app.sogive.org/uploads/sanjaysogive.orgemail/bnlogo-4554367849024320756.png",
+  "modified": true,
+  "@id": "basic-needs",
+  "wikipedia": "https://en.wikipedia.org/wiki/BasicNeeds",
+  "summaryDescription": "BasicNeeds is a global mental health organization, working to improve the lives of people living with mental illness and or epilepsy. It was merged into the Christian disability charity CBM UK in July 2017",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-11258776225981308433.jpg",
+  "stories": "Rashmi\u0027s story: Sri Lanka\n\nRashmi (name changed), aged fourteen, lives in a remote farming village in Batticaloa in the Eastern province of Sri Lanka with her sister, grandparents and great grandmother.  Rashmi\u0027s father is dead and her mother works as a housemaid in Saudi Arabia. The grandparents take care of the children.  Rashmi\u0027s parents were child soldiers in Sri Lanka\u0027s long-running civil war. Her mother was eighteen and father twenty when they got married; her mother had already been a child soldier for two years by then, trained in combat.  Rashmi was born during the war. Her mother was mostly at home but her father wasn\u0027t; he worked in the intelligence, was wounded, became an alcoholic and soon realized that he was suffering from Post-Traumatic Stress Disorders (PTSD).  When drunk he was violent, which was deeply disturbing to his young children; they felt scared and helpless.  He was eventually beaten up and killed by a jealous rival in 2013.\n\nRashmi developed behavioural problems herself, with uncontrollable anger issues; she once beat up two girls brutally, and stabbed her uncle with a broken bottle.  Children from the Children\u0027s Club at Rashmi\u0027s school complained about her and she was referred to a doctor for counselling.  She needed a carer who understood her and had patience to work with her; she needed a system to which she could relate and where she could express herself. At the end of 2013 Rashmi joined the Children\u0027s Club based in her school and it changed her life.\n\n\"Before I joined the club, I was very aggressive. I even quarreled with my sister and grandmother. If someone was only a little rude I started to fight with them, and most times it ended with me hurting them.\"  When she first joined the Club her participation was poor and she was frequently angry and aggressive towards others when confronted. Step by step, with involvement in the Club activities, learning from the training sessions organized by the BasicNeeds project, she learned how to avoid conflict, and she also learned leadership skills.  \"Now I\u0027m the Head Prefect of the school.\"  Rashmi is proud of her achievement. \"I have the key to the school\u0027s class rooms.  So I have to be there before the teacher comes, every morning. I have the responsibility of ringing the school bell.\" Rashmi\u0027s journey from bad girl to President of the Children\u0027s Club is also reflected in her schoolwork: \"I was first in the class in last term\u0027s examinations\". In her communications with others, she inspires children to take part, become engaged, support each other and organize non-competitive events where everyone\u0027s talents can shine.\n\nRecently at an ?open dialogue? session for teachers, students, and parents organized by the BasicNeeds project, Rashmi expressed her view on the issue of children being marginalized by teachers, and said: ?Teachers only treat those students who are good at studying well, but I think they should treat us all in the same way.?   It was a bold thing to say but, surprisingly, she was praised for saying this.  This shows how very far teachers, students and parents have come, under the positive influence and training of this innovative project, towards creating a supportive environment where all children can thrive and fulfill their potential.\n\nAnd what of the future?  ?I want to be educated. I?d like to be a mathematics teacher. Then I can take up a job and take care of my sister, mother and grandparents?, Rashmi says, thinking far ahead. ?I want to help the children and the people of my area.?",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Basic Needs",
+    "basic-needs"
+  ],
+  "url": "http://www.basicneeds.org/",
+  "communicationsWithCharity": "Sanjay in communication with CEO as at 5th January 2018. Call/meeting arranged for w/c 5th/feb/2018",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Basic Needs",
+  "lastModified": "2020-11-06T20:13:45Z",
+  "category": "international",
+  "subcategory": "International Development",
+  "englandWalesCharityRegNum": "1079599",
+  "whereTags": "Developing World, CHINA, GHANA, INDIA, KENYA, LAOS, NEPAL, SRI LANKA TANZANIA, UGANDA, UNITED STATES OF AMERICA",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
