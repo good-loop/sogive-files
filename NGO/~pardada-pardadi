@@ -1,0 +1,110 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "confidence": "low",
+          "name": "girl(s) educated",
+          "description": "This refers to girls being provided with an education in the village of Anoopshahr, Uttar Pradesh, India",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "300",
+            "value100p": 3000000.0,
+            "value": 300.0
+          }
+        }
+      ],
+      "adjustmentComment": "We have not been able to source a set of accounts for this charity, however we have made a visit to the site of the school. Based on information provided by the team (and not independently audited) the cost of educating one girl in the school comes to 25,000 rupees, and this is the source of the cost shown here",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "Suparna mentioned the figure at a TFN event, and the founder Sam Singh has given the figure as Rs 25,000, which would come to ?250-?500 depending on the exchange rate",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "pardada-pardadi",
+      "name": "girl(s) educated",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 3000000,
+        "value": "300.0"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Pardada Pardadi",
+    "pardada-pardadi"
+  ],
+  "communicationsWithCharity": "Email sent to Suparna opn 11th Feb 2016 to request accounts",
+  "whyTags": "Education, Children, women",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "girl(s) educated",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 3000000,
+      "value": "300.0"
+    }
+  },
+  "whoTags": "",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "Pardada Pardadi",
+  "modified": false,
+  "@id": "pardada-pardadi",
+  "whereTags": "India, Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
