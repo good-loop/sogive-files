@@ -1,0 +1,173 @@
+{
+  "images": "http://imgur.com/a/vNslX",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1100.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "",
+              "source": ""
+            }
+          },
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 1.352202E10,
+          "value": 1352202.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01",
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": "",
+      "end": "2014-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": "1200",
+          "meta": {
+            "all": {
+              "notes": "The number of breaks used in this calculation is 1,200, which is actually the planned number, since the actual number wasn\u0027t stated in the accounts. The website (https://www.chicks.org.uk/donate-now/) says \"Whilst our breaks are always free for the child and their family, each child place costs ?924\""
+            }
+          },
+          "name": "respite break(s)",
+          "description": "This refers to breaks for children from typically impoverished families in Moorland in Devon, Coastal in Cornwall or Daleside in Derbyshire.",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "924",
+            "value100p": 9240000.0,
+            "value": 924.0
+          }
+        }
+      ],
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "1006234",
+          "currency": "GBP",
+          "value100p": 1.006234E10,
+          "value": 1006234.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2015-01-01",
+      "end": "2015-12-31",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "The following is information from CHICKS\u0027s website about how the breaks work:\nIf you\u0027re coming on a CHICKS break, you\u0027ll be staying at one of our three retreats: Moorland in Devon, Coastal in Cornwall or Daleside in Derbyshire. \nWho will I be staying with?\nOn each break, there are 8 boys and 8 girls. The breaks are divided into age groups, so you\u0027ll be with people who are a similar (or the same) age as you. There will also be three break leaders, who are CHICKS staff, and up to six adult volunteers. \nWhat will I be doing?\nOn the breaks, you\u0027ll have the chance to try lots of different activities, like horse riding, body boarding or rock climbing. You\u0027ll also spend lots of time enjoying the outdoors, with visits to the beach and the beautiful countryside surrounding our retreats. \nEach week at CHICKS is different, depending on the group and the weather! As well as all the activities, a week\u0027s break might include a trip to an adventure park or the chance to learn new skills - for example, on a bush craft session. \nDon\u0027t worry though - nobody will force you to take part in anything you don\u0027t want to! But all the staff and volunteers are there to encourage you to try something new and have fun at the same time.\n\nThe breaks also make the most of the facilities we have at our retreats: play barns, with table tennis, pool tables and table football; sports barns with space to run around and play games; and arts \u0026 crafts barns with space to get creative.",
+  "nextAction": "Need to beef out the stories -- maybe with the story of Eddie that\u0027s in the accounts",
+  "suggest": [
+    "CHICKS (Country Holidays for Inner City Kids)",
+    "chicks-country-holidays-for-inner-city-kids"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "chicks-country-holidays-for-inner-city-kids",
+      "name": "respite break(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 9240000,
+        "value": "924.0"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.chicks.org.uk/",
+  "whyTags": "Children",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "respite break(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 9240000,
+      "value": "924.0"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "source": "https://www.chicks.org.uk/children-and-parents/"
+    }
+  },
+  "ready": false,
+  "name": "CHICKS (Country Holidays for Inner City Kids)",
+  "modified": false,
+  "logo": "https://www.chicks.org.uk/images/logo.png",
+  "@id": "chicks-country-holidays-for-inner-city-kids",
+  "englandWalesCharityRegNum": "1080953",
+  "summaryDescription": "CHICKS (Country Holidays for Inner City Kids) provides free, week long respite breaks for disadvantaged children in the UK",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
