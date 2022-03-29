@@ -1,0 +1,18 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/earthwatch-767-460-17707272222594659351.jpeg",
+  "@type": "NGO",
+  "displayName": "Earthwatch",
+  "ready": false,
+  "name": "earth-watch",
+  "logo": "https://media.good-loop.com/uploads/raw/p08wtk3f-895270118996831768.jpeg",
+  "@id": "earth-watch",
+  "suggest": [
+    "earth-watch",
+    "Earthwatch",
+    "earth-watch"
+  ],
+  "id": "earth-watch",
+  "summaryDescription": "Earthwatch is a worldwide non-profit organization unlocking the potential in people and the environment. Since 1971, Earthwatch has connected volunteers and partners with scientists undertaking vital field research around the globe.",
+  "url": "https://earthwatch.org/",
+  "status": "PUBLISHED"
+}
