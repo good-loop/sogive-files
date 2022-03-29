@@ -1,0 +1,318 @@
+{
+  "scotlandCharityRegNum": "SC038649",
+  "images": "https://app.sogive.org/uploads/anon/Parent_counselling_Place2be-4856107710683409826.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "94000",
+          "currency": "GBP",
+          "value100p": 9.4E8,
+          "value": 94000.0
+        }
+      ],
+      "name": "Esmse Fairhairn Foundation",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 116000.0,
+          "name": "young people (singular: person) reached"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "13763000",
+          "currency": "GBP",
+          "value100p": 1.3763E11,
+          "value": 1.3763E7
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "1065000",
+          "currency": "GBP",
+          "value100p": 1.065E10,
+          "value": 1065000.0
+        }
+      ],
+      "name": "overall",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends56/0001040756_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "227000",
+          "currency": "GBP",
+          "value100p": 2.27E9,
+          "value": 227000.0
+        }
+      ],
+      "name": "Comic Relief / The Royal Foundation",
+      "start": "2016-04-01",
+      "description": "The project supports families affected by substance misuse.",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends56/0001040756_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "125000",
+          "currency": "GBP",
+          "value100p": 1.25E9,
+          "value": 125000.0
+        }
+      ],
+      "name": "Impetus - PEF",
+      "start": "2016-04-01",
+      "description": "To develop work in secondary schools",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "51000",
+          "currency": "GBP",
+          "value100p": 5.1E8,
+          "value": 51000.0
+        }
+      ],
+      "name": "Paul Hamiyn Foundation",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "81000",
+          "currency": "GBP",
+          "value100p": 8.1E8,
+          "value": 81000.0
+        }
+      ],
+      "name": "Talented Teacher Programme",
+      "start": "2016-04-01",
+      "description": "Grant in support of the Talented Teacher Programme to enhance Newly Qualified Teachers\u0027 ability to support children\u0027s emotional well-being and improve the effectiveness of their teaching.",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-04-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "99000",
+          "currency": "GBP",
+          "value100p": 9.9E8,
+          "value": 99000.0
+        }
+      ],
+      "name": "Future Awards Ceremonies",
+      "start": "2016-04-01",
+      "end": "2017-03-31",
+      "end_raw": "2017-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Place2Be provides children\u0027s mental health services in 286 primary and secondary schools, reaching a total school population of 129,000 pupils, helping them to cope with wide-ranging and often complex social issues including bullying, bereavement, domestic violence, family breakdown, neglect and trauma and last year 232 schools took part in in-depth training programmes.",
+  "recommendation": "Place2be appears, based on SoGive\u0027s high-level review, to be better than the average charity at assessing its impact. For many charities the level of impact assessment is extremely light-touch. More info on that can be found here: \n https://www.place2be.org.uk/impact-evidence.aspx\n\nWe do not have enough information to perform a high-level cost-effectiveness assessment on their work. Donors with a particular interest in tackling mental health issues in children may wish to consider this charity.\n\nPlace2Be provides children\u0027s mental health services in 286 primary and secondary schools, reaching a total school population of 129,000 pupils, helping them to cope with wide-ranging and often complex social issues including bullying, bereavement, domestic violence, family breakdown, neglect and trauma and last year 232 schools took part in in-depth training programmes.\n\nDonors interested in supporting children may also be interested in charities like Deworm the World and Project Healthy Children. Those interested in tackling mental health conditions may also be interested in Strong Minds or Basic Needs.",
+  "suggest": [
+    "Place2Be",
+    "place2be"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "place2be",
+      "name": "young people (singular: person) reached",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1094655,
+        "value": "109.465517241379312972000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "www.place2be.org.uk",
+  "whyTags": "Children, mental health",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "young people (singular: person) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1094655,
+      "value": "109.465517241379312972000"
+    }
+  },
+  "ready": false,
+  "name": "Place2Be",
+  "modified": false,
+  "logo": "data:image/jpeg;base64,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\u003d\u003d",
+  "@id": "place2be",
+  "summaryDescription": "Place2Be provides emotional and therapeutic services in primary and secondary schools.",
+  "englandWalesCharityRegNum": "1040756",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "whereTags": "UK",
+  "status": "PUBLISHED"
+}
