@@ -1,0 +1,281 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "name": "children (singular: child) dewormed",
+          "costPerBeneficiary": {
+            "value100": 124.0,
+            "@type": "MonetaryAmount",
+            "raw": "1.24",
+            "value": 1.24
+          }
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends74/0001122574_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Cl?odhna",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1244114.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Quote from the website: \"For the first two rounds of MDA of the END Fund-supported program in Angola (October-November 2013 and November 2014), we estimate that the cost per deworming treatment was $1.55.45 A few notes on this estimate:\n\nWe have not examined the inputs into this estimate as closely as we have for our other top charities.\nThe estimate excludes the Angolan government\u0027s costs and the value of donated drugs and teachers\u0027 time administering the drugs. We have included these costs in our cost per treatment estimates for SCI and Deworm the World.\nIt is our understanding that the costs include program start-up costs, so it is possible that cost per treatment will fall in the future.\nWe are unsure if the past cost per treatment of the deworming program in Angola is representative of the END Fund\u0027s other work.\"\n?1.24 is derived as $1.55 * exchange rate of 0.8"
+            }
+          },
+          "confidence": "medium",
+          "name": "treatment(s) for deworming delivered",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "1.24",
+            "value100p": 12400.0,
+            "value": 1.24
+          },
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "We are unable to find estimates of END fund\u0027s cost to deworm one child, however, we GiveWell has estimated this as $1.55 specifically in Angola, and notes that this may include some startup costs, i.e. it may come down in the future.",
+      "donationWording": "You have helped provide XXXX deworming treatments",
+      "images": "http://www.end.org/images/default-source/default-album/big-homeimage003.jpg?sfvrsn\u003d0",
+      "stories": "\"Participating in a mass drug distribution makes me very happy, as people don\u0027t always have money to buy medicines.\" Salime Kone. Salima\u0027s dedication and commitment to her community is ensuring that the drugs are distributed effectively and safely. She has already helped thousands of people in Bamako, Mali. Deworming is considered by many to be a top health intervention because of its cost effectiveness",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "http://www.end.org/ourimpact",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.givewell.org/charities/end-fund"
+        },
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.end.org/docs/default-source/financials/fy2015-signed-us-audit.pdf?sfvrsn\u003d2"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "GiveWell\u0027s estimate of END Fund\u0027s partner MENTOR deworming programme in Angola. Cannot directly infer cost/ per ben. for other END Fund partner deworming programmes",
+      "name": "deworming",
+      "analyst": "Cl?odhna",
+      "end": "2014-12-31T00:00:00Z",
+      "location": "African continent, India, Yemen"
+    },
+    {
+      "outputs": [
+        {
+          "meta": {
+            "all": {
+              "notes": "Quote from the website: \"For the first two rounds of MDA of the END Fund-supported program in Angola (October-November 2013 and November 2014), we estimate that the cost per deworming treatment was $1.55.45 A few notes on this estimate:\n\nWe have not examined the inputs into this estimate as closely as we have for our other top charities.\nThe estimate excludes the Angolan government\u0027s costs and the value of donated drugs and teachers\u0027 time administering the drugs. We have included these costs in our cost per treatment estimates for SCI and Deworm the World.\nIt is our understanding that the costs include program start-up costs, so it is possible that cost per treatment will fall in the future.\nWe are unsure if the past cost per treatment of the deworming program in Angola is representative of the END Fund\u0027s other work.\"\n?1.24 is derived as $1.55 * exchange rate of 0.8",
+              "source": "https://www.givewell.org/charities/end-fund"
+            }
+          },
+          "name": "people (singular: person) dewormed",
+          "description": "This refers to people being treated for neglected tropical diseases (NTDs) such as worms.",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "1.24",
+            "value": 1.24
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends74/0001122574_AC_20161231_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.givewell.org/charities/end-fund"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2016-01-01",
+      "end": "2016-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "recommendation": "What do they do? The END Fund (end.org) manages grants, provides technical assistance, and raises funding for controlling and eliminating neglected tropical diseases (NTDs). We have only reviewed its programs that treat schistosomiasis and soil-transmitted helminthiasis (STH) (\"deworming\"); our recommendation is just for this part of the END Fund\u0027s work. (More)\n\nDoes it work? We believe that there is strong evidence that administration of deworming drugs reduces worm loads but weaker evidence on the causal relationship between reducing worm loads and improved life outcomes; we consider deworming a priority program given the possibility of strong benefits at low cost. In 2016, the END Fund began requiring that surveys be conducted to determine whether its programs have reached a large proportion of children targeted; we have seen coverage surveys for (a non-random sample of) 35% of its 2016 deworming grant portfolio. These studies have some methodological limitations. (More)\n\nWhat do you get for your dollar? Our best guess is that deworming is generally highly cost-effective. We estimate that it costs donors who give to the END Fund, specifically to support deworming, $0.94 per deworming treatment delivered. This figure relies on several difficult-to-estimate inputs, including how to account for (a) donated drugs and (b) in-kind contributions from governments, as well as (c) an adjustment for fungibility-that is, based on experience, we expect the END Fund to reallocate a portion of its unrestricted funding to non-deworming NTD work in response to receiving funding designated for schistosomiasis and STH. Excluding donated drugs and in-kind contributions, the cost per treatment figure is $0.55. (More)\n\nIs there room for more funding? We believe the END Fund could substantially increase its deworming grant-making with additional funds. We roughly estimate that there is a gap of $18 million between the amount of funding the END Fund will have available for grants for deworming and the amount of funding it would need to make all of the potential grants it has identified. (More)\n\nThe END Fund\u0027s deworming program is recommended because:\n\nWe consider deworming a priority program given the possibility of strong benefits at very low cost. (More)\nWe believe the END Fund is able to absorb additional funds to start and scale-up deworming programs. (More)\nStandout transparency - it has shared significant, detailed information about its programs with us.\nMajor open questions include:\n\nWhether the END Fund will generate high-quality evidence that the programs it supports are reaching a high proportion of children targeted. (More)\nHow much the END Fund will raise (or would have been able to raise) for its priorities from other funders. The END Fund\u0027s revenue comes primarily from a fairly small number of large donations, which makes it more difficult to project. We have less confidence in our projection of the END Fund\u0027s revenue than we do for our other top charities. (More)\nWhat effect will fungibility have on the cost-effectiveness of giving to the END Fund for deworming specifically? In other words, what portion of donations made to the END Fund on GiveWell\u0027s recommendation (\"GiveWell-directed\" funds) will be used to increase grant-making for deworming, rather than displacing funding from deworming to other NTDs? To date, we estimate that this effect has been relatively small but we have fairly low confidence in this assessment because it\u0027s difficult to assess how much of the END Fund\u0027s funding would have gone to support deworming in the absence of GiveWell-directed funding.\n\nWe sourced this analysis from our trusted partner GiveWell",
+  "nextAction": "Still some uncertainties outstanding here, especially around the relationship between the UK and US entities; in particular is the total spend by fund equal to the sum of the spends by the two organisations, or has some money passed between the two?",
+  "whyTags": "Health, NTDs",
+  "externalAssessments": "http://www.givewell.org/charities/end-fund#funding",
+  "ready": false,
+  "logo": "https://pbs.twimg.com/profile_images/2265449598/TheENDFund_Roundel-01.png",
+  "modified": true,
+  "@id": "end-fund",
+  "wikipedia": "",
+  "summaryDescription": "The END Fund manages grants, provides technical assistance, and raises funding for controlling and eliminating neglected tropical diseases, including deworming. ",
+  "uptodatedraft": "probably",
+  "usCharityRegNum": "27-3941186",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/ENDfund-13100811972952862954.jpg",
+  "noPublicDonations": false,
+  "impact": "high",
+  "suggest": [
+    "END fund",
+    "end-fund"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "end-fund",
+      "name": "treatment(s) for deworming delivered",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 12400,
+        "value": "1.24"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "http://www.end.org",
+  "recommended": true,
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "treatment(s) for deworming delivered",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 12400,
+      "value": "1.24"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "END fund",
+  "englandWalesCharityRegNum": "1122574",
+  "uk_giftaid": true,
+  "whereTags": "Developing World",
+  "status": "DRAFT"
+}
