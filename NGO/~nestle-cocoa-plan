@@ -1,0 +1,20 @@
+{
+  "@type": "NGO",
+  "displayName": "Nestle Cocoa Plan",
+  "noPublicDonations": true,
+  "suggest": [
+    "nestle-cocoa-plan",
+    "Nestle Cocoa Plan",
+    "nestle-cocoa-plan"
+  ],
+  "url": "https://www.nestlecocoaplan.com/",
+  "ready": false,
+  "name": "nestle-cocoa-plan",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/logo_1-11517404600593095699.svg",
+  "@id": "nestle-cocoa-plan",
+  "lastModified": "2020-08-18T12:28:00Z",
+  "uptodatedraft": "probably",
+  "uk_giftaid": false,
+  "status": "MODIFIED"
+}
