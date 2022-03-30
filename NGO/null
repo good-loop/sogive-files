@@ -1,13 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "#HalfTheStory",
-  "name": "#HalfTheStory",
-  "logo": "https://media.good-loop.com/uploads/standard/HalfTheStory-4594910264473144257.jpeg",
-  "id": "half-the-story",
-  "suggest": [
-    "#HalfTheStory",
-    "#HalfTheStory"
-  ],
-  "url": "https://halfthestoryproject.com/",
+  "logo": "https://media.good-loop.com/uploads/standard/1582950036817-8474980631826196559.jpg",
+  "id": "i-fund-women",
+  "suggest": [],
   "status": "DRAFT"
 }
