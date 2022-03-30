@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "#Half",
+  "name": "#HalfTheStory",
   "id": "half-the-story",
   "suggest": [
-    "#Half"
+    "#HalfTheStory"
   ],
   "status": "DRAFT"
 }
