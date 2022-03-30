@@ -1,7 +1,12 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/1582950036817-8474980631826196559.jpg#ccrop:107",
-  "id": "i-fund-women",
-  "suggest": [],
+  "displayName": "Yosemite Conservancy",
+  "name": "Yosemite Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/YC_LOGO-10263687226787191188.png#ccrop:80",
+  "id": "yosemite-conservancy",
+  "suggest": [
+    "Yosemite Conservancy",
+    "Yosemite Conservancy"
+  ],
   "status": "DRAFT"
 }
