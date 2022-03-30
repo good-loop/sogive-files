@@ -1,6 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Habitat for Humanity",
+  "name": "Habitat for Humanity",
   "id": "habits-for-humanity",
-  "suggest": [],
+  "suggest": [
+    "Habitat for Humanity",
+    "Habitat for Humanity"
+  ],
   "status": "DRAFT"
 }
