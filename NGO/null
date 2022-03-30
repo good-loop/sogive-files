@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Yosemite Conservancy",
-  "name": "Yosemite Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/YC_LOGO-10263687226787191188.png#ccrop:73",
-  "id": "yosemite-conservancy",
+  "displayName": "Habitat for Humanity",
+  "name": "Habitat for Humanity ",
+  "logo": "https://media.good-loop.com/uploads/standard/habitat__for__humanity__logo-2352878040520621788.jpg#ccrop:103",
+  "id": "habits-for-humanity",
   "suggest": [
-    "Yosemite Conservancy",
-    "Yosemite Conservancy"
+    "Habitat for Humanity ",
+    "Habitat for Humanity"
   ],
   "status": "DRAFT"
 }
