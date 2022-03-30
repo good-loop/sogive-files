@@ -1,20 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Spinal Research",
-  "recommendation": "Spinal Research specialises in an area which appears, based on the data available, to be somewhat underfunded. We have no data on the extent to which it may be more or less tractable than other areas of research, so for the purposes of an initial analysis we assume that these areas are equally tractable.\n\nThe source for the data on neglectedness can be found in this SoGive analysis piece: https://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html\n",
+  "displayName": "#HalfTheStory",
+  "name": "#HalfTheStory",
+  "logo": "https://media.good-loop.com/uploads/standard/HalfTheStory-4594910264473144257.jpeg",
+  "id": "half-the-story",
   "suggest": [
-    "International Spinal Research Trust",
-    "Spinal Research"
+    "#HalfTheStory",
+    "#HalfTheStory"
   ],
-  "url": "https://www.spinal-research.org/",
-  "whyTags": "Health",
-  "howTags": "Research, Funding",
-  "ready": false,
-  "name": "International Spinal Research Trust",
-  "modified": false,
-  "id": "international-spinal-research-trust",
-  "englandWalesCharityRegNum": "1151015",
-  "summaryDescription": "Spinal Research funds medical research for effective treatments for paralysis caused by spinal cord injury.",
-  "uptodatedraft": "probably",
-  "status": "PUBLISHED"
+  "url": "https://halfthestoryproject.com/",
+  "status": "DRAFT"
 }
