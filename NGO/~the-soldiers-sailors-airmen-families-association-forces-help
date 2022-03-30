@@ -448,7 +448,8 @@
           "value": 2.0182E7
         }
       ],
-      "name": "Grants to clients in need"
+      "name": "Grants to clients in need",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -492,14 +493,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "families (singular: family) of armed service personnel supported",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 3617700,
-      "value": "361.77"
-    }
+    "name": "No Outputs! for project Project[Grants to clients in need 2020.0]"
   },
   "name": "The Soldiers, Sailors, Airmen \u0026 Families Association - Forces Help",
   "category": "human services",
