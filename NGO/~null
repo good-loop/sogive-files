@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Yosemite Conservancy",
   "id": "yosemite-conservancy",
-  "suggest": []
+  "suggest": [
+    "Yosemite Conservancy"
+  ],
+  "status": "DRAFT"
 }
