@@ -474,10 +474,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "712",
+          "raw": "7125000",
           "currency": "GBP",
-          "value100p": 7120000.0,
-          "value": 712.0
+          "value100p": 7.125E10,
+          "value": 7125000.0
         }
       ],
       "name": "Health and social care"
