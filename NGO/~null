@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Children Are US Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/children_are_us-18079520482184188102.png",
-  "id": "children-are-us",
-  "suggest": [
-    "Children Are US Foundation"
-  ],
-  "url": "https://www.c-are-us.org.tw/english/about",
-  "status": "DRAFT"
+  "id": "womens-sports-foundation",
+  "suggest": []
 }
