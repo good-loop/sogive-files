@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Athlete Ally",
-  "logo": "https://media.good-loop.com/uploads/standard/AthleteAlly__Logo-5109664916252223114.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/AthleteAlly__Logo-5109664916252223114.jpg#ccrop:95",
   "id": "athlete-ally",
   "suggest": [
     "Athlete Ally"
   ],
   "url": "https://www.athleteally.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
