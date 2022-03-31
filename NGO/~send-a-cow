@@ -1,0 +1,128 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 7653.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-07-01T00:00:00Z",
+          "end": "2014-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 5.878044E8,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 5878044.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 100400.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-06-30T00:00:00Z",
+          "value": 1004.0
+        }
+      ],
+      "start": "2013-07-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000299717_AC_20140630_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "P3 of the annual report says \"We worked with 17,250 households, approximately 120,000 people, in developing sustainable farming households. Of these, 7,653 households began their training programme, with 1,620 households graduated.\" I have ignored the figure about the people \"worked with\" who didn\u0027t start the training programme, but have assumed that those who started the training programme will have got some benefit out of it, and therefore there should be some credit for that. The 1620 households are the ones for whom there is the most benefit. Bizarrely the cost doesn\u0027t seem to have been given as a separate line item, so I had to add up the fundraising costs, the costs of charitable activities and governance costs. Note that some of the costs go on other capmaigning costs and other activities, which haven\u0027t been given relevant credit here.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-06-30T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Send A Cow",
+  "noPublicDonations": false,
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "send-a-cow",
+      "name": "",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 7679393,
+        "value": "767.93937018162803994880"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Send A Cow",
+    "Send A Cow",
+    "send-a-cow"
+  ],
+  "communicationsWithCharity": "Email sent on 22/feb/16",
+  "whyTags": "International aid, poverty",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 7679393,
+      "value": "767.93937018162803994880"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Send A Cow",
+  "@id": "send-a-cow",
+  "whereTags": "Developing World",
+  "uk_giftaid": true
+}
