@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Children are ",
   "id": "children-are-us",
-  "suggest": []
+  "suggest": [
+    "Children are "
+  ],
+  "status": "DRAFT"
 }
