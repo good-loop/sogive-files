@@ -311,7 +311,7 @@
     {
       "outputs": [
         {
-          "name": "",
+          "name": "year(s) of healthy life ",
           "description": "This refers to the cost per DALY averted",
           "costPerBeneficiary": {
             "@type": "Money",
