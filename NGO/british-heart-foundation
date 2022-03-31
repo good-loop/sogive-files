@@ -309,7 +309,20 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "year(s) of healthy life gained",
+          "description": "This refers to the cost per DALY averted",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1700",
+            "currency": "",
+            "value100p": 1.7E7,
+            "value": 1700.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
