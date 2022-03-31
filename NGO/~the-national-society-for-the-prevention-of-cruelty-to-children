@@ -1,0 +1,1105 @@
+{
+  "scotlandCharityRegNum": "SC037717",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 311697.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "children (singular: child) and young people (singular: person) reached",
+          "start": "2013-04-01T00:00:00Z",
+          "end": "2014-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value100p": 1.253E12,
+          "value": 1.253E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2014.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Total activities include (a) services for children and families (included in the count of beneficiaries) (b) Childline (c) Child protection advice and awareness (d) child protection consultancy",
+      "name": "overall",
+      "analyst": "Sanjay - Nele",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.264E12,
+          "value": 1.264E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.38E10,
+          "value": 5380000.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.269E10,
+          "value": 4269000.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Income from beneficiaries/similar relates purely to child protection consultancy (see note 5, p77) since it seems to pay for itself (i.e. the revenue from child protection consultancy on p77 is roughly equal to the cost of that consultancy work, as set out on p68.",
+      "name": "overall",
+      "analyst": "Nele \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.0541163E11,
+          "value": 6.0541163E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.576831E10,
+          "value": 2576831.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.044701E10,
+          "value": 2044701.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "services for children and families",
+      "analyst": "Nele \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1065958.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "children (singular: child) helped or informed",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "This refers to either providing a child with a counselling session on Childline or hearing from the NSPCC via a school assembly",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.7170214E11,
+          "value": 2.7170214E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.156454E10,
+          "value": 1156454.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.1764E9,
+          "value": 917640.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "childline and the schools service",
+      "analyst": "Nele \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.3352927E11,
+          "value": 3.3352927E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.41961E10,
+          "value": 1419610.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.126453E10,
+          "value": 1126453.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "child protection advice and awareness",
+      "analyst": "Nele \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.335696E10,
+          "value": 5335696.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.27105E9,
+          "value": 227105.0
+        },
+        {
+          "year": 2016.0,
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.80206E9,
+          "value": 180206.0
+        },
+        {
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "child protection consultancy",
+      "analyst": "Nele \u0026 Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "meta": {
+            "all": {
+              "notes": "Probably an underestimate as based on a \"public facing\" figure from the NSPCC, but is comparable to similar figures from other charities."
+            }
+          },
+          "confidence": "low",
+          "name": "answered calls (singular: call) to the NSPCC helpline.",
+          "description": "This figure is based on internal NSPCC estimates and likely does not include the cost of training volunteers. Approximately 50% of the calls answered result in referrals to external agencies.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "5",
+            "currency": "GBP",
+            "value100p": 50000.0,
+            "value": 5.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/what-we-do/about-us/organisation-structure/how-your-money-is-spent/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "NSPCC helpline",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "meta": {
+            "all": {
+              "notes": "£70 is calculated as £115m (total spend in 2018-19) * 3 / 5 m\n\nThis is because the 2018-19 accounts say \"In 2016, we set\nourselves an ambition\nto make 5 million\nchildren safer in five\nyears. We\u0027re proud to\nreport that we have\nreached this ambition\nin just three years.\"\n"
+            }
+          },
+          "confidence": "low",
+          "name": "children (singular: child) made safer",
+          "description": "NSPCC\u0027s accounts refer to children being made safer without defining precisely what is meant by this.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "70",
+            "currency": "GBP",
+            "value100p": 700000.0,
+            "value": 70.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "114560000",
+          "currency": "GBP",
+          "value100p": 1.1456E12,
+          "value": 1.1456E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "4773000",
+          "currency": "GBP",
+          "value100p": 4.773E10,
+          "value": 4773000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "For income from beneficiaries, there is a reference to contracts and fees in note 4, however this appears to be essentially another form of donation, and therefore note to be treated as income from beneficiaries."
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "40,004,000",
+          "currency": "GBP",
+          "value100p": 4.0004E11,
+          "value": 4.0004E7
+        }
+      ],
+      "name": "Services for children and families",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "confidence": "low",
+          "name": "call(s) to the NSPCC helpline answered",
+          "description": "The £5 per call is based on the NSPCC\u0027s own figures. We have not been able to verify that this has been calculated in a way which is consistent with the SoGive methodology, e.g. including overheads",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "5",
+            "currency": "GBP",
+            "value100p": 50000.0,
+            "value": 5.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20190331_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/what-we-do/about-us/organisation-structure/how-your-money-is-spent/"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20148000",
+          "currency": "GBP",
+          "value100p": 2.0148E11,
+          "value": 2.0148E7
+        }
+      ],
+      "name": "Childline and the schools service",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "24525000",
+          "currency": "GBP",
+          "value100p": 2.4525E11,
+          "value": 2.4525E7
+        }
+      ],
+      "name": "Child protection advice and awareness",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends01/0000216401_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5068000",
+          "currency": "GBP",
+          "value100p": 5.068E10,
+          "value": 5068000.0
+        }
+      ],
+      "name": "Child protection consultancy",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2000000.0,
+          "meta": {
+            "all": {
+              "notes": "p. 6"
+            }
+          },
+          "confidence": "medium",
+          "name": "children (singular: child) reached",
+          "description": "This figure includes not only children directly helped but also children who simply attended one of the charity\u0027s events."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "111314000",
+          "currency": "GBP",
+          "value100p": 1.11314E12,
+          "value": 1.11314E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1423000",
+          "currency": "GBP",
+          "value100p": 1.423E10,
+          "value": 1423000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "trading cost: p. 87"
+        },
+        "reserves": {
+          "notes": "89: general-pension"
+        }
+      },
+      "name": "overall",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "52990000",
+        "currency": "",
+        "value100p": 5.299E11,
+        "value": 5.299E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "39051000",
+          "currency": "GBP",
+          "value100p": 3.9051E11,
+          "value": 3.9051E7
+        }
+      ],
+      "name": "Services for Children and Families",
+      "start": "2019-04-01",
+      "end": "2020-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 240000.0,
+          "meta": {
+            "all": {
+              "notes": "report p. 102",
+              "source": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20; https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/"
+            }
+          },
+          "confidence": "low",
+          "name": "children (singular: child) helped through Childline",
+          "description": "Averaging about 40 minutes in terms of length and focusing on directly interacting with children, Childline can be counseling sessions online or over the phone. Provided by the charity itself, £4 is likely an underestimate as it may not include overheads. 240,000 may be an overestimate however, as it really represent the number of calls rather than the number of children helped.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "4",
+            "currency": "",
+            "value100p": 40000.0,
+            "value": 4.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21560000",
+          "currency": "GBP",
+          "value100p": 2.156E11,
+          "value": 2.156E7
+        }
+      ],
+      "name": "Childline and the Schools Service"
+    },
+    {
+      "outputs": [
+        {
+          "number": 69000.0,
+          "meta": {
+            "all": {
+              "source": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20; https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/"
+            }
+          },
+          "confidence": "low",
+          "name": "helpline contacts (singular: contact) responded to",
+          "description": "This helpline focuses on providing advice to caregivers, and each call helps on average 1.2 children. Provided by the charity itself, £5 is likely an underestimate as it may not include overheads.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "5",
+            "currency": "",
+            "value100p": 50000.0,
+            "value": 5.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21122000",
+          "currency": "GBP",
+          "value100p": 2.1122E11,
+          "value": 2.1122E7
+        }
+      ],
+      "name": "Child Protection Advice and Awareness",
+      "start": "2019-04-01",
+      "end": "2020-03-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5048000",
+          "currency": "GBP",
+          "value100p": 5.048E10,
+          "value": 5048000.0
+        }
+      ],
+      "name": "Child Protection Consultancy",
+      "start": "2019-04-01",
+      "end": "2020-03-31"
+    }
+  ],
+  "color": "#108633",
+  "@type": "NGO",
+  "displayName": "NSPCC",
+  "recommendation": "**To assign a firm rating to the NSPCC under the SoGive rating methodology, we would need more information.**\n\nThe National Society for the Prevention of Cruelty to Children focuses on protecting children in the UK and the Channel Islands ([Annual Report](https://www.nspcc.org.uk/globalassets/documents/annual-reports/nspcc-annual-report-2019-20) p. 4). \nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about What the NSPCC Does**\n\nStriving to adapt to the constantly changing needs of children, the NSPCC organises staff members and over 6,000 volunteers to prevent child abuse (Annual Report p. 6). The charity conducts school visits, provides therapeutic services, operates national helplines, campaigns for change, supports family members, and shares information with other organisations. \n\nAs calculated using the charity’s annual report, the NSPCC spent about £110 million, including overheads (Annual Report p. 74, 98), to reach more than 2 million children during the 2019/20 financial year. The report stated that the £107 million was used for 4 purposes.\n\nAbout 45% of the expenditures or £49 million was directed towards \"services for children and families\" (Annual Report p. 88). One program that falls under this category is Lighthouse, a service that brings together preventive, therapeutic, and assessment services provided by other organisations, allowing children to access medical advocacy, social care, and police support all in one place. Lighthouse helped 363 children during the first year of its operation from 2018 to 2019, but the charity’s report provided no numeric output that describes the total impact of all programs that fall under \"children and families\" (Annual Report p. 28).\n\nAbout 25% of the expenditures or £27 million was directed towards \"Childline and schools service\"(Annual Report p. 89). Childline refers to roughly 240,000 counselling sessions, each of which is about 40 minutes long on average (Annual Report p. 102), provided to children at a cost of at least [£4 per child](https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/). Schools service refers to the \"Speak Out. Stay Safe.\" program, which entails assemblies and workshops held within schools that teach students about different types of abuse. Through this program, the charity’s volunteers spoke to about 1.6 million children during the financial year (Annual Report p. 23).\n\nAbout 24% of the expenditures or £27 million was directed towards \"child protection advice and awareness\" (Annual Report p. 88). While we do not have data on the total number of children helped by the £26 million, one of the programs in this category is a helpline that responded to almost 69,000 calls during the financial year (Annual Report p. 26), helping about 80,000 children (Annual Report p. 51) at a cost of at least [£5 per call]((https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/)). In about 45% of these calls, the NSPCC did not offer direct help but referred the caller to an external organisation.\n\nThe £27 million also pays for the charity’s awareness raising campaigns. One example campaign is \"Look Say Sing Play\", a program that encourages parents to have high quality interactions with their babies to promote healthy brain development (Annual Report p. 14). Another example involves a campaign against Facebook’s end-to-end encryption of messages, which makes it more difficult for people to identify online child abusers (Annual Report p. 34). Progress has been made in areas related to the NSPCC’s campaigns. The UK government has published an Online Harms White Paper that plans for future legislation that prevents children from online sexual abuse and places a statutory duty of care on websites themselves (Annual Report p. 6). \n\nHowever, much remains unknown to us about the NSPCC’s campaigns. Firstly, the charity’s report does not include the amount of money spent on any or all of the campaigns. Secondly, the charity did not provide any information on the number of children who might benefit from successful campaigns and the extent of such benefit. Let us take the Online Harms White Paper as an example. How many abuses would be averted had websites taken up the statutory duty as outlined in the Online Harms White Paper? How might one measure the psychological impacts of such abuses? Thirdly, we do not know the extent to which the NSPCC contributes to progress made in its areas of interest. The annual report claims that authors of the Online Harms White Paper listened to the charity’s call, but would the legislators have produced the Online Harms White Paper without the NSPCC’s campaign (Annual Report p. 33)? How much more campaigning would it take to translate the white paper into enforced law? To learn more about how SoGive approaches campaigns, see [this blog here](http://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?view\u003dsidebar).\n\nFinally, about 6% of the NSPCC’s charitable expenditures or about £6 million was dedicated towards \"child protection consultancy\" (Annual Report p. 88). The NSPCC provides guidance to individuals and other organisations so that they can better help protect children. Examples of activities under this category include the maintenance of the NSPCC Learning Website, which had 1.8 million visitors during the financial year (Annual Report p. 26). There are also face-to-face training courses that reached more than 7,000 individuals (Annual Report p. 26). However, the charity’s annual report provided no numeric data on the total impact of all programs that fall under \"child protection consultancy.\"\n\nIf you would like to learn more about the NSPCC’s projects, you can check their [website](https://www.nspcc.org.uk/about-us/organisation-structure/how-your-money-is-spent/) which sets out how donations are spent.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of the NSPCC under the two-question method, the next step in the SoGive process would involve comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £200 to avert 1 year of severe depression) and also provide robust evidence on the effectiveness of their work. For more information on how we define our rankings, click [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar)\n\nWhile the NSPCC emphasises in its report the importance of cost-effectiveness and evidence-based methods, we could not gather enough information from the annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology. This is mainly because the report did not contain sufficient details on the degree to which each child benefits from the charity’s service.\n\nSince the charity spent about £107 million to reach roughly 2 million children, reaching each child costs about £50 on average. We do not know the extent to which the charity impacts each child, but such impact would need to be as good as averting 3 months of severe depression for the charity to perform at SoGive’s Gold standard. There are reasons to believe that the NSPCC’s impact would be quite significant, as the charity states in its report that preventing child abuse may help prevent suffering that last a lifetime. However, other facts suggest that NSPCC’s impact may be somewhat limited, especially considering the fact that in its Lighthouse, helpline, and NSPCC Learning programs, the charity often works in conjunction with other organisations by directing children towards them or by providing other organisations with advice. It is possible that the children may find other ways to get largely similar services from those other organisations even without the help of the NSPCC. At the end of the day, we would need more concrete information about the charity’s impact on individuals to provide a full assessment.\n\nAdditional information is provided by the charity’s online description of how donors’ money is spent, which states that helping a child through Childline costs about £4 on average and that a call through the charity’s other helpline costs about £5 on average. On average, this latter helpline supports about 1.2 children per call, as adults may call the number to try to help multiple children. Thus, on average it costs about £4 to help one child through the charity’s two helplines, which appears in line with other volunteer-staffed helplines at other charities which focus on the developed world. This number may be an underestimate, however, considering that the NSPCC might not have included overheads in its calculation.\n\nAssuming that the 240,000 counseling sessions during the 2019/20 financial year each cost £4, and that there are no overheads, then there would be about £26 million remaining under \"Childline and schools service\" to be directed towards assemblies and workshops with 1.6 million schoolchildren, who participated in the \"Speak Out. Stay Safe.\" program. Since one of the aims of this program is to help children who may not realise that what’s happening to them is wrong, we might assume that whichever school the NSPCC’s volunteers visit, all students at that school would attend the event. Then, considering the NSPCC’s [own estimate](https://www.nspcc.org.uk/globalassets/documents/strategy/our-impact.pdf) that 1 in 5 children suffer from abuse or neglect, we might assume that about 0.32 million schoolchildren received significant help from the \"Speak Out. Stay Safe.\" program. Viewed in this light, helping one child would cost about £80. The help must be as good as averting roughly 5 months of severe depression for the charity to perform at SoGive’s Gold standard.\n\nFurther information that would enable us to form a fuller opinion of the work of the charity would include:\n\n- An assessment of the average amount of benefit received by children reached by the charity. How does this benefit compare to three or more months of severe depression averted? \n\n- The cost of the charity’s awareness-raising campaigns, the potential impacts of the campaigns’ policy goals, and the degree to which the charity accelerates the ratification and implementation of such policies.\n\n**Conclusion**\n\nTo be able to rate the NSPCC, we would need more information about the impact of their work.\n",
+  "description": "The National Society for the Prevention of Cruelty to Children focuses on protecting children today and preventing abuse tomorrow in the UK and the Channel Islands.\n\nWhether you’re a parent or carer looking for advice, you’re worried about a child, or if you’re a professional in need of information and guidance, you can contact them any day, online or over the phone.\n\nIt’s just one of the ways the NSPCC protects children and prevents abuse. Thank you for your support.",
+  "whyTags": "Children",
+  "UNSDG": "0",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/NSPCC__official__logo-8580840245037848753.svg#ccrop:90",
+  "@id": "the-national-society-for-the-prevention-of-cruelty-to-children",
+  "wikipedia": "https://en.wikipedia.org/wiki/National_Society_for_the_Prevention_of_Cruelty_to_Children",
+  "summaryDescription": "The National Society for the Prevention of Cruelty to Children focuses on protecting children in the UK and the Channel Islands.",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/standard/helpline_image750x459px_1_2-130199716920600824.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "suggest": [
+    "The National Society for the Prevention of Cruelty to Children",
+    "NSPCC",
+    "the-national-society-for-the-prevention-of-cruelty-to-children"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-national-society-for-the-prevention-of-cruelty-to-children",
+      "name": "children (singular: child) reached",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 549455,
+        "value": "54.94550000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.nspcc.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) reached",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 549455,
+      "value": "54.94550000"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "The National Society for the Prevention of Cruelty to Children",
+  "category": "human services",
+  "subcategory": "Children\u0027s and Family Services",
+  "englandWalesCharityRegNum": "216401",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Channel Islands",
+  "status": "PUBLISHED"
+}
