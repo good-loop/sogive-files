@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "International Animal Rescue",
   "id": "international-animal-rescue",
-  "suggest": []
+  "suggest": [
+    "International Animal Rescue"
+  ],
+  "status": "DRAFT"
 }
