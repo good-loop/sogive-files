@@ -309,7 +309,19 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "loss of year(s) of health prevented",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1700",
+            "currency": "",
+            "value100p": 1.7E7,
+            "value": 1700.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -502,5 +514,5 @@
   "englandWalesCharityRegNum": "225971",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
