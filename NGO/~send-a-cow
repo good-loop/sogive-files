@@ -102,6 +102,7 @@
     "send-a-cow"
   ],
   "communicationsWithCharity": "Email sent on 22/feb/16",
+  "url": "https://sendacow.org/",
   "whyTags": "International aid, poverty",
   "howTags": "Direct Work",
   "simpleImpact": {
@@ -124,5 +125,6 @@
   "name": "Send A Cow",
   "@id": "send-a-cow",
   "whereTags": "Developing World",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
