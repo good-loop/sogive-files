@@ -312,6 +312,7 @@
       "outputs": [
         {
           "name": "loss of year(s) of health prevented",
+          "description": "This refers to the cost per DALY averted",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
@@ -514,5 +515,5 @@
   "englandWalesCharityRegNum": "225971",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
