@@ -1,12 +1,8 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/HHOW__LogoStacked-11744055403823550540.jpg",
   "@type": "NGO",
-  "displayName": "Habitat for Humanity",
-  "name": "Habitat for Humanity ",
-  "logo": "https://media.good-loop.com/uploads/standard/habitat__for__humanity__logo-2352878040520621788.jpg#ccrop:103",
-  "id": "habits-for-humanity",
-  "suggest": [
-    "Habitat for Humanity ",
-    "Habitat for Humanity"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/HHOW__LogoStacked-8844968976464662324.jpg#ccrop:118",
+  "id": "hyundai-hope-on-wheels",
+  "suggest": [],
   "status": "DRAFT"
 }
