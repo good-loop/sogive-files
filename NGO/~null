@@ -1,13 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Mental-Health-UK-About-Us-Banner__2021-1704x536-1-15579374485917240115.jpg",
   "@type": "NGO",
-  "displayName": "Mental Health UK",
-  "logo": "https://media.good-loop.com/uploads/standard/MHUK__Logo-Master-RGB-uc-9316841649857642670.svg#ccrop:65",
-  "description": "Mental Health UK brings together the heritage and experience of four charities from across the country who’ve been supporting people with their mental health for nearly 50 years.\n\nWith their local service delivery and national expertise in supporting people whose lives are affected by mental health problems, they have been able to mark a significant footprint in the areas that deeply challenge our mental health and stability.\n\nThey provide support and services for some of the biggest societal challenges that pose a threat to people’s mental health, including money problems, navigating through the system to get the right support, understanding mental health, loneliness and isolation, and resilience in young people.",
-  "id": "mental-health-uk",
-  "suggest": [
-    "Mental Health UK"
-  ],
-  "url": "https://mentalhealth-uk.org/",
-  "status": "DRAFT"
+  "id": "international-animal-rescue",
+  "suggest": []
 }
