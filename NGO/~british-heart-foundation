@@ -455,8 +455,8 @@
   "uptodatedraft": "probably",
   "images": "https://media.good-loop.com/uploads/raw/bhf-3571690302142809668.jpeg",
   "noPublicDonations": false,
-  "impact": "medium",
-  "confidence": "low",
+  "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "British Heart Foundation",
     "British Heart Foundation (BHF)",
@@ -502,5 +502,5 @@
   "englandWalesCharityRegNum": "225971",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
