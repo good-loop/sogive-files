@@ -367,7 +367,8 @@
         "currency": "",
         "value100p": 3.8E11,
         "value": 3.8E7
-      }
+      },
+      "isRep": true
     },
     {
       "outputs": [],
@@ -479,13 +480,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "british-heart-foundation",
-      "name": "researcher(s) working for a day",
+      "name": "year(s) of healthy life gained",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 5000000,
-        "value": "500.0"
+        "value100p": 17000000,
+        "value": "1700.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -496,13 +497,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "researcher(s) working for a day",
+    "name": "year(s) of healthy life gained",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 5000000,
-      "value": "500.0"
+      "value100p": 17000000,
+      "value": "1700.0",
+      "name": ""
     }
   },
   "meta": {
@@ -515,5 +516,5 @@
   "englandWalesCharityRegNum": "225971",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
