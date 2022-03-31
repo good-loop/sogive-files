@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Athlete Ally",
   "id": "athlete-ally",
-  "suggest": []
+  "suggest": [
+    "Athlete Ally"
+  ],
+  "status": "DRAFT"
 }
