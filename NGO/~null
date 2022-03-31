@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Athlete Ally",
+  "logo": "https://media.good-loop.com/uploads/standard/AthleteAlly__Logo-5109664916252223114.jpg",
   "id": "athlete-ally",
   "suggest": [
     "Athlete Ally"
