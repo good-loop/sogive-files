@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Womens Sports Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/wsf__logo__black-6294176976200280162.svg#ccrop:95",
-  "id": "womens-sports-foundation",
+  "displayName": "Athlete Ally",
+  "logo": "https://media.good-loop.com/uploads/standard/AthleteAlly__Logo-5109664916252223114.jpg",
+  "id": "athlete-ally",
   "suggest": [
-    "Womens Sports Foundation"
+    "Athlete Ally"
   ],
-  "url": "https://www.womenssportsfoundation.org/",
+  "url": "https://www.athleteally.org/",
   "status": "DRAFT"
 }
