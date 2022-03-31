@@ -1,11 +1,12 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/Mental-Health-UK-About-Us-Banner__2021-1704x536-1-15579374485917240115.jpg",
   "@type": "NGO",
-  "displayName": "Athlete Ally",
-  "logo": "https://media.good-loop.com/uploads/standard/AthleteAlly__Logo-5109664916252223114.jpg#ccrop:95",
-  "id": "athlete-ally",
+  "displayName": "Mental Health UK",
+  "logo": "https://media.good-loop.com/uploads/standard/MHUK__Logo-Master-RGB-uc-9316841649857642670.svg#ccrop:65",
+  "id": "mental-health-uk",
   "suggest": [
-    "Athlete Ally"
+    "Mental Health UK"
   ],
-  "url": "https://www.athleteally.org/",
+  "url": "https://mentalhealth-uk.org/",
   "status": "PUBLISHED"
 }
