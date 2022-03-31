@@ -201,9 +201,11 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Rewilding Britain",
   "noPublicDonations": false,
   "suggest": [
     "REWILDING BRITAIN",
+    "Rewilding Britain",
     "rewilding-britain"
   ],
   "url": "https://www.rewildingbritain.org.uk/",
@@ -223,5 +225,6 @@
   "summaryDescription": "We want to make the world a better place by restoring wild nature and building a rewilding movement across Britain.",
   "englandWalesCharityRegNum": "1159373",
   "whereTags": "United Kingdom",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
