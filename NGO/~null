@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "unlisted": true,
+  "displayName": "Youth Mentoring",
   "id": "youth-mentoring",
-  "suggest": []
+  "suggest": [
+    "Youth Mentoring"
+  ],
+  "status": "DRAFT"
 }
