@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "United by 22",
-  "logo": "https://media.good-loop.com/uploads/standard/o0OIjC__p__400x400-16629361098034183755.jpg",
-  "id": "united-by-22-",
+  "displayName": "Swimming Classes",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Add_a_subheading_2-12471892913506876963.png",
+  "id": "swimming-classes",
   "suggest": [
-    "United by 22"
+    "Swimming Classes"
   ],
-  "url": "",
   "status": "DRAFT"
 }
