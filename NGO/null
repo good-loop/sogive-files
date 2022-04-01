@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Swimming Classes",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Add_a_subheading_2-12471892913506876963.png",
-  "id": "swimming-classes",
+  "displayName": "Youth Mentoring",
+  "logo": "https://media.good-loop.com/uploads/standard/Add_a_subheading_1-3017076167208095909.png",
+  "id": "youth-mentoring",
   "suggest": [
-    "Swimming Classes"
+    "Youth Mentoring"
   ],
   "status": "DRAFT"
 }
