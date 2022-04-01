@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Canadian centre for gender and sexual diversity",
-  "logo": "https://media.good-loop.com/uploads/standard/ccgsd__logo.eng__-6622820159679556234.png#ccrop:103",
-  "id": "ccgsd",
+  "displayName": "United by 22",
+  "logo": "https://media.good-loop.com/uploads/standard/o0OIjC__p__400x400-16629361098034183755.jpg",
+  "id": "united-by-22-",
   "suggest": [
-    "Canadian centre for gender and sexual diversity"
+    "United by 22"
   ],
+  "url": "",
   "status": "DRAFT"
 }
