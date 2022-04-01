@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Swimming Classes",
   "id": "swimming-classes",
-  "suggest": []
+  "suggest": [
+    "Swimming Classes"
+  ],
+  "status": "DRAFT"
 }
