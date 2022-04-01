@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Swimming Classes",
-  "unlisted": true,
-  "id": "swimming-classes",
-  "suggest": [
-    "Swimming Classes"
-  ],
-  "status": "DRAFT"
+  "id": "youth-mentoring",
+  "suggest": []
 }
