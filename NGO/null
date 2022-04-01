@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Build a playground",
   "unlisted": true,
-  "displayName": "Youth Mentoring",
-  "logo": "https://media.good-loop.com/uploads/standard/Add_a_subheading_1-3017076167208095909.png",
-  "id": "youth-mentoring",
+  "logo": "https://media.good-loop.com/uploads/standard/Add_a_subheading-9244447310614997060.png",
+  "id": "build-a-playground",
   "suggest": [
-    "Youth Mentoring"
+    "Build a playground"
   ],
   "status": "DRAFT"
 }
