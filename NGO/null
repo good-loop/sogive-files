@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "International Animal Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/International-Animal-Rescue__logo-11408808067690410031.png#ccrop:90",
-  "id": "international-animal-rescue",
+  "name": "Canadian centre for gender and sexual diversity",
+  "logo": "https://media.good-loop.com/uploads/standard/ccgsd__logo.eng__-6622820159679556234.png#ccrop:103",
+  "id": "ccgsd",
   "suggest": [
-    "International Animal Rescue"
+    "Canadian centre for gender and sexual diversity"
   ],
-  "url": "https://www.internationalanimalrescue.org/",
   "status": "DRAFT"
 }
