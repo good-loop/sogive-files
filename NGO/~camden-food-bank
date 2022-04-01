@@ -1,7 +1,7 @@
 {
   "@type": "NGO",
   "parentCharity": "the-trussell-trust",
-  "description": "We don’t think anyone in our community should have to face going hungry. fThat’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis. We are part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.",
+  "description": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis. We are part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.",
   "suggest": [
     "camden-food-bank",
     "camden-food-bank"
@@ -14,5 +14,5 @@
   "id": "camden-food-bank",
   "summaryDescription": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis.",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
