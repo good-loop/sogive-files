@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "canadian centre for gender and sexual diversity",
   "id": "ccgsd",
-  "suggest": []
+  "suggest": [
+    "canadian centre for gender and sexual diversity"
+  ],
+  "status": "DRAFT"
 }
