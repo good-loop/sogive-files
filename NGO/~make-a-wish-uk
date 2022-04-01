@@ -179,10 +179,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "7244477",
+          "raw": "8416,379",
           "currency": "GBP",
-          "value100p": 7.244477E10,
-          "value": 7244477.0
+          "value100p": 8.416379E10,
+          "value": 8416379.0
         },
         {
           "@type": "Money",
@@ -217,7 +217,7 @@
   "UNSDG": "3",
   "parentCharityName": "Make-A-Wish International",
   "imageCaption": "Micaela working hard in the hotel kitchen",
-  "ready": true,
+  "ready": false,
   "modified": true,
   "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/Make-a-wish__logo-1409670304387012127.jpg#ccrop:115",
   "@id": "make-a-wish-uk",
@@ -319,5 +319,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
