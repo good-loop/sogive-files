@@ -97,6 +97,7 @@
   ],
   "@type": "NGO",
   "displayName": "CALM",
+  "confidence": "high",
   "suggest": [
     "Campaign Against Living Miserably",
     "CALM",
