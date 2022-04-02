@@ -64,7 +64,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "Helpline/Webchat Service Provision"
+      "name": "Helpline/Webchat Service Provision",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -116,7 +117,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "No Outputs! for project Project[Helpline/Webchat Service Provision 2021.0]"
   },
   "name": "Campaign Against Living Miserably",
   "logo": "https://media.good-loop.com/uploads/raw/calm-17736825809472718654.jpg#noscale_ccrop:75",
