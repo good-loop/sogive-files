@@ -664,6 +664,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5276839",
+          "currency": "GBP",
+          "value100p": 5.276839E10,
+          "value": 5276839.0
         }
       ],
       "name": "Research into Treatment"
@@ -686,6 +694,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
