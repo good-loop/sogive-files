@@ -699,7 +699,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "2712907",
+          "currency": "GBP",
+          "value100p": 2.712907E10,
+          "value": 2712907.0
         }
       ],
       "name": "Welfare"
