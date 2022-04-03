@@ -646,7 +646,12 @@
       "name": "Research into Prevention \u0026 Causes"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": ". "
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
