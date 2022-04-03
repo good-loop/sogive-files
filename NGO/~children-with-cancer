@@ -1,0 +1,655 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2017.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "15,719,396",
+          "currency": "GBP",
+          "value100p": 1.5719396E11,
+          "value": 1.5719396E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "raw": "867,174",
+          "currency": "GBP",
+          "value100p": 8.67174E9,
+          "value": 867174.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "start": "2017-01-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "9,544,308",
+        "currency": "GBP",
+        "value100p": 9.544308E10,
+        "value": 9544308.0
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20171231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-01-01",
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs were unavailable, so Income from \u0027Other trading activities\u0027 has been added to the Trading Costs field",
+          "source": ""
+        }
+      },
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": "",
+      "end": "2017-12-31",
+      "end_raw": "2017-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20171231_E_C.pdf"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "1,823,243 ",
+          "currency": "GBP",
+          "value100p": 1.823243E10,
+          "value": 1823243.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p53",
+          "source": ""
+        }
+      },
+      "name": "Research into Prevention  \u0026 Causes",
+      "description": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20171231_E_C.pdf"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "6,087,471",
+          "currency": "GBP",
+          "value100p": 6.087471E10,
+          "value": 6087471.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p53"
+        }
+      },
+      "name": "Research into Treatment",
+      "description": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20171231_E_C.pdf"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "2,934,555 ",
+          "currency": "GBP",
+          "value100p": 2.934555E10,
+          "value": 2934555.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p53"
+        }
+      },
+      "name": "Welfare",
+      "description": "",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20171231_E_C.pdf"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "2,267,276 ",
+          "currency": "GBP",
+          "value100p": 2.267276E10,
+          "value": 2267276.0
+        }
+      ],
+      "name": "Education",
+      "description": "p54"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "16057127",
+          "currency": "GBP",
+          "value100p": 1.6057127E11,
+          "value": 1.6057127E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1,137,671",
+          "currency": "GBP",
+          "value100p": 1.137671E10,
+          "value": 1137671.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Richard Call: Taken trading costs from \"income from other trading activities\". Check this with Sanjay"
+        },
+        "reserves": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "9,107,144",
+        "currency": "GBP",
+        "value100p": 9.107144E10,
+        "value": 9107144.0
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.0,
+          "meta": {
+            "all": {
+              "notes": "This does not just seem to be their work, but also other charities"
+            }
+          },
+          "name": "Patient and family homes (singular: Patient and family home)",
+          "description": "New homes built to to help fund patient family accommodation close to hospitals"
+        },
+        {
+          "number": 60.0,
+          "meta": {
+            "all": {
+              "notes": "Taken 120,000 grant / 60\n\nNot done directly but through a partner charity Lifelites"
+            }
+          },
+          "name": "Hospices supported",
+          "description": "Support hospices through providing assistive technology, maintenance, and training",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "2,000",
+            "currency": "GBP",
+            "value100p": 2.0E7,
+            "value": 2000.0
+          }
+        },
+        {
+          "number": 1.0,
+          "meta": {
+            "all": {
+              "notes": ""
+            }
+          },
+          "name": "MRI Scanner",
+          "description": "A very accurate way of assessing brain tumours",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "750000",
+            "currency": "GBP",
+            "value100p": 7.5E9,
+            "value": 750000.0
+          }
+        },
+        {
+          "number": 1287.0,
+          "meta": {
+            "all": {
+              "notes": "taken mode number. These are not given directly but through a partner charity CLIC"
+            }
+          },
+          "name": "Family grants (singular: family grant)",
+          "description": "These grants fund financial hardship that families face following a cancer diagnosis",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "250",
+            "currency": "GBP",
+            "value100p": 2500000.0,
+            "value": 250.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4942223",
+          "currency": "GBP",
+          "value100p": 4.942223E10,
+          "value": 4942223.0
+        }
+      ],
+      "meta": {
+        "description": {
+          "notes": "p60"
+        }
+      },
+      "name": "Welfare 2018",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 717.0,
+          "name": "Articles (singular: article) ",
+          "description": "Print and online articles"
+        },
+        {
+          "number": 201655.0,
+          "name": "Organic website sessions (singular: organic website session)",
+          "description": "Clicks to website via non-paid listing"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3054769",
+          "currency": "GBP",
+          "value100p": 3.054769E10,
+          "value": 3054769.0
+        }
+      ],
+      "meta": {
+        "description": {
+          "notes": "p60. Have used total numbers, but can also subtract support/governance and grants to isolate \"activities undertaken directly\""
+        }
+      },
+      "name": "Education",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1502502",
+          "currency": "GBP",
+          "value100p": 1.502502E10,
+          "value": 1502502.0
+        }
+      ],
+      "meta": {
+        "description": {
+          "notes": "p60"
+        }
+      },
+      "name": "Research in Prevention \u0026 Causes",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends05/0000298405_AC_20181231_E_C.PDF"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3176171",
+          "currency": "GBP",
+          "value100p": 3.176171E10,
+          "value": 3176171.0
+        }
+      ],
+      "meta": {
+        "description": {
+          "notes": "p60"
+        }
+      },
+      "name": "Research into Treatment",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15342172",
+          "currency": "GBP",
+          "value100p": 1.5342172E11,
+          "value": 1.5342172E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Children with Cancer",
+  "description": "Research\n- Fund more than 60 research projects at centres of excellence around the UK, including on prevention and treatment\n\nWelfare:\n- Fund patient family accommodation, helping families to live close to the hospitals/hospices where their child is being treated\n- Offer free events for families affected by cancer\n- Fund equipment (e.g. MRI Scanner) that helps children diagnosed with cancer\n\nEducation\n- Run awareness campaigns, such as Childhood Cancer Awareness Month; and Brain Tumour\n- Provide online resources as well as articles\n- Advocate Parliament for greater funding and legislation",
+  "recommendation": "**To evaluate Children with Cancer under the SoGive rating methodology, we would need more information.**\n\nChildren with Cancer invests in specialist research to treat and prevent cancer in children, as well as providing support to keep families together after a cancer diagnosis. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Children with Cancer does**\n\nBased on the information we have gathered from the 2018 accounts, Children with Cancer spent £4.9m on \"Welfare\" charitable activities. This was largely given as grants to partner charities to build homes, allowing families to live closer to hospitals where children are receiving treatment, and provide hospices with assistive technology. \n\nChildren with Cancer also spent £4.7m on \"Research\", both in preventing and treating cancer in children. This is done both directly and through research awards. Lastly, the charity also raises awareness of childhood cancer, advocating Parliament and writing educational articles.\n\n**Benchmarking**\n\nHaving reviewed Children with Cancer\u0027s work under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nHowever, there is not information to provide a clear benchmarking for Children with Cancer. Whilst the 2018 annual report gives a detailed cost breakdown of charitable activities, it does not state how many people from this.\n\nLooking at \"Welfare\", which constitutes just under 40% of charitable expenditure, it is unknown how many families are supported by homes or how many children benefited from assistive technology. Additionally, many of these projects were financially supported by Children with Cancer but implemented by partner charities. It could hence be that other charities also contributed funds to these projects.\n\nMoreover, \"Research\" projects are inherently difficult to assess, as they may result in a significant improvement of children with cancer\u0027s wellbeing. Our [analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) on this suggests there are some tentative reasons to be positive about research.  However, quantifying the exact cost per beneficiary does not appear feasible.\n\nEducation and advocacy is also harder to assess; a true analysis of the impact of campaigning needs to consider counterfactuals. E.g. if Cancer with Children successfully persuaded the government to spend more money to combat childhood cancer, what would that money have achieved if funds had not been redirected? Such details are not known.\n\n**Conclusion**\n\nIt is thus not clear what the marginal benefit of the marginal pound donated to Cancer with Children. This is because there is not much information on the final impact of \"Welfare\" projects and because quantifying research and education activities are inherently difficult to do. \n\nFurther information that would enable us to form a fuller opinion of the work of Cancer with Children would include comprehensive impact assessments, both in quantity and depth.",
+  "whyTags": "Cancer, Children, Health",
+  "parentCharityName": "Children With Cancer UK",
+  "imageCaption": "Inauguration with Diana, Princess of Wales",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/anon/logo-2-7061331550074897380.svg",
+  "@id": "children-with-cancer",
+  "wikipedia": "https://en.wikipedia.org/wiki/Children_with_Cancer_UK",
+  "summaryDescription": "The charity\u0027s main aims are to understand what causes children to develop cancer, to develop improved treatments and to provide care for affected children and their families.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/anon/Diana-Jason-Tree-1974957789091627253.jpg",
+  "noPublicDonations": false,
+  "confidence": "medium",
+  "impact": "more-info-needed",
+  "suggest": [
+    "Children with cancer",
+    "Children with Cancer",
+    "children-with-cancer"
+  ],
+  "url": "https://www.childrenwithcancer.org.uk/",
+  "howTags": "Research, Grants, Awareness",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[Welfare 2017.0]"
+  },
+  "whoTags": "",
+  "meta": {
+    "stories": {
+      "notes": "The 2017 accounts contain several stories, however they don\u0027t actually seem to reference the charity at all -- if anything, it looks a bit like the charity is trying to take credit for the work done by the NHS."
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "impact": {
+      "notes": ""
+    }
+  },
+  "name": "Children with cancer",
+  "category": "health",
+  "subcategory": "Treatment and Prevention",
+  "englandWalesCharityRegNum": "298405",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "PUBLISHED"
+}
