@@ -803,7 +803,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "currency": "GBP"
+          "raw": "2643000",
+          "currency": "GBP",
+          "value100p": 2.643E10,
+          "value": 2643000.0
         },
         {
           "@type": "Money",
@@ -871,5 +874,5 @@
   "englandWalesCharityRegNum": "1082947",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
