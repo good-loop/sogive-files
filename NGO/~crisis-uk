@@ -1029,7 +1029,8 @@
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/crisis-1373620202745460138.jpg",
   "noPublicDonations": false,
-  "impact": "more-info-needed",
+  "impact": "low",
+  "confidence": "high",
   "suggest": [
     "Crisis UK",
     "Crisis",
