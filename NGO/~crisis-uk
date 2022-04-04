@@ -780,6 +780,35 @@
         }
       ],
       "name": "Social enterprise"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.crisis.org.uk/media/246733/cri0459_2020-21-annual-report_v13_for-pdf.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -801,18 +830,33 @@
     "Crisis",
     "crisis-uk"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "crisis-uk",
+      "name": "people (singular: person) helped at Christmas",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5381581,
+        "value": "538.15819995360704160000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.crisis.org.uk/",
   "howTags": "Direct Work, campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "",
+    "name": "people (singular: person) helped at Christmas",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 16102075,
-      "value": "1610.20751542344351504000"
+      "value100p": 5381581,
+      "value": "538.15819995360704160000"
     }
   },
   "meta": {
@@ -824,5 +868,5 @@
   "englandWalesCharityRegNum": "1082947",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
