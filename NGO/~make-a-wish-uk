@@ -211,6 +211,35 @@
         "value": 5140092.0
       },
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Wishes granted",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -258,14 +287,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "wishes granted",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 119891438,
-      "value": "11989.1438746438754735234"
-    }
+    "name": "No Outputs! for project Project[Wishes granted 2020.0]"
   },
   "whoTags": "Children",
   "meta": {
@@ -323,5 +345,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
