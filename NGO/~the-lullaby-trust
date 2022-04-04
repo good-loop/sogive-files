@@ -5,7 +5,7 @@
       "outputs": [
         {
           "number": 666.0,
-          "confidence": "very-low",
+          "confidence": "low",
           "name": "Babies lives saved per year",
           "description": "The Lullaby Trust claims that their work has resulted in saving the lives of 20,000 babies since 1991."
         }
