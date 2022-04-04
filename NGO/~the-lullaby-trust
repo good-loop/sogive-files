@@ -51,6 +51,37 @@
         "value": 368100.0
       },
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "93000",
+          "currency": "GBP",
+          "value100p": 9.3E8,
+          "value": 93000.0
+        }
+      ],
+      "name": "Care of Next Infant programme"
     }
   ],
   "@type": "NGO",
