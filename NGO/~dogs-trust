@@ -705,6 +705,9 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/186300thm__givingupyourdog-5438959750266144297.jpg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
   "whereTags": "United Kingdom",
