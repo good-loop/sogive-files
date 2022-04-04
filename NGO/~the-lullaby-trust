@@ -56,6 +56,11 @@
       "outputs": [
         {
           "number": 451.0,
+          "meta": {
+            "all": {
+              "notes": "pg. "
+            }
+          },
           "confidence": "high",
           "name": "Babies supported",
           "description": "In their annual report The Lullaby Trust state that 451 babies (and 871 families) were supported through the project."
