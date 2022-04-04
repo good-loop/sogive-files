@@ -3,7 +3,9 @@
   "images": "https://media.good-loop.com/uploads/raw/600x200-3727022380717813771.jpeg",
   "color": "#88aa55",
   "@type": "NGO",
+  "displayName": "Project Seagrass",
   "suggest": [
+    "Project Seagrass",
     "Project Seagrass",
     "project-seagrass"
   ],
@@ -18,5 +20,5 @@
   "subcategory": "Environmental Protection and Conservation",
   "englandWalesCharityRegNum": "1162824",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
