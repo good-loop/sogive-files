@@ -1,13 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Coram Beanstalk",
-  "name": "Coram Beanstalk",
-  "logo": "https://media.good-loop.com/uploads/standard/imageedit__97__9057011613-1834465192951335974.png",
-  "id": "coram-beanstalk",
-  "suggest": [
-    "Coram Beanstalk",
-    "Coram Beanstalk"
-  ],
-  "url": "https://www.beanstalkcharity.org.uk/",
+  "logo": "https://media.good-loop.com/uploads/standard/IWD-logo-portaiteps-9502123069249475218.png",
+  "id": "iwd",
+  "suggest": [],
   "status": "DRAFT"
 }
