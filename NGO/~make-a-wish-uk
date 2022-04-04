@@ -229,6 +229,12 @@
           }
         }
       ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://assets.make-a-wish.org.uk/live/media/filer_public/32/3b/323be9bd-6513-4f6a-bcd4-aa9632846685/make-a-wish-uk-2020-annual-accounts.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -270,7 +276,7 @@
   "imageCaption": "Micaela working hard in the hotel kitchen",
   "ready": false,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/Make-a-wish__logo-1409670304387012127.jpg#ccrop:115",
+  "logo": "https://media.good-loop.com/uploads/raw/make_a_wish-16370189613665191384.jpg",
   "@id": "make-a-wish-uk",
   "wikipedia": "https://en.wikipedia.org/wiki/Make-A-Wish_Foundation_UK",
   "summaryDescription": "Make-A-Wish UK grants what it considers as life-altering wishes for children with critical illnesses.",
@@ -370,5 +376,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
