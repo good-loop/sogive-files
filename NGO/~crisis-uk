@@ -814,6 +814,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "reserves": {
+          "notes": "p 124"
+        }
+      },
       "name": "overall"
     }
   ],
