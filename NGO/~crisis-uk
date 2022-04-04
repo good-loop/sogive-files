@@ -983,6 +983,37 @@
         }
       ],
       "name": "Volunteering"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "914000",
+          "currency": "GBP",
+          "value100p": 9.14E9,
+          "value": 914000.0
+        }
+      ],
+      "name": "Social enterprise"
     }
   ],
   "@type": "NGO",
