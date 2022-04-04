@@ -920,7 +920,8 @@
           "value": 2.2746E7
         }
       ],
-      "name": "Education, employment, health \u0026 wellbeing"
+      "name": "Education, employment, health \u0026 wellbeing",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -1056,14 +1057,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people (singular: person) helped at Christmas",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 5381581,
-      "value": "538.15819995360704160000"
-    }
+    "name": "No Outputs! for project Project[Education, employment, health \u0026 wellbeing 2021.0]"
   },
   "meta": {
     "noPublicDonations": {
@@ -1074,5 +1068,5 @@
   "englandWalesCharityRegNum": "1082947",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
