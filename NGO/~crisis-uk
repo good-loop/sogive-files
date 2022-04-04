@@ -819,7 +819,15 @@
           "notes": "p 124"
         }
       },
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "25400000",
+        "currency": "",
+        "value100p": 2.54E11,
+        "value": 2.54E7
+      }
     }
   ],
   "@type": "NGO",
