@@ -53,7 +53,12 @@
       "isRep": true
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 871.0,
+          "name": "Families supported"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
