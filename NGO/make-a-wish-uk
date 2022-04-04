@@ -206,7 +206,8 @@
         "currency": "",
         "value100p": 5.140092E10,
         "value": 5140092.0
-      }
+      },
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -238,13 +239,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "make-a-wish-uk",
-      "name": "wishes (singular: wish) granted",
+      "name": "wishes granted",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 71936460,
-        "value": "7193.6460674157305413782"
+        "value100p": 119891438,
+        "value": "11989.1438746438754735234"
       },
       "n": 1.0
     }
@@ -254,13 +255,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "wishes (singular: wish) granted",
+    "name": "wishes granted",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 71936460,
-      "value": "7193.6460674157305413782"
+      "value100p": 119891438,
+      "value": "11989.1438746438754735234"
     }
   },
   "whoTags": "Children",
