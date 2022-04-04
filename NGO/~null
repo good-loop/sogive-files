@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Coram Beanstalk",
   "name": "Coram Beanstalk",
   "id": "coram-beanstalk",
   "suggest": [
+    "Coram Beanstalk",
     "Coram Beanstalk"
   ],
   "url": "https://www.beanstalkcharity.org.uk/",
