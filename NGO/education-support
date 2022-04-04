@@ -340,6 +340,7 @@
   "UNSDG": "3",
   "whyTags": "Mental health, helplines, workers\u0027 rights, Education",
   "imageCaption": "Helping staff in education",
+  "headerImage": "https://media.good-loop.com/uploads/standard/__bak2734-10646085238928874202.jpg",
   "logo": "https://app.sogive.org/uploads/4345768482160962facebook/Education_Support-17499301429939588310.png",
   "@id": "education-support",
   "id": "education-support",
@@ -366,6 +367,16 @@
   "category": "human services",
   "subcategory": "Social Services",
   "englandWalesCharityRegNum": "1161436",
+  "imageList": [
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/__bak1990-5539238260055452517.jpg",
+      "@type": "ImageObject"
+    },
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/__bak2199-3820248930539455047.jpg",
+      "@type": "ImageObject"
+    }
+  ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
   "status": "DRAFT"
