@@ -218,15 +218,7 @@
           "number": 702.0,
           "confidence": "medium",
           "name": "Wishes granted",
-          "description": "Wishes granted to children with severe illnesses",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "11,989.14",
-            "currency": "",
-            "value100p": 1.198914E8,
-            "value": 11989.14
-          }
+          "description": "Wishes granted to children with severe illnesses"
         }
       ],
       "year": 2020.0,
@@ -293,9 +285,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "value100p": 119891400,
-        "value": "11989.14",
-        "name": ""
+        "currency": "GBP",
+        "value100p": 71980883,
+        "value": "7198.0883190883195864268"
       },
       "n": 1.0
     }
@@ -309,9 +301,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 119891400,
-      "value": "11989.14",
-      "name": ""
+      "currency": "GBP",
+      "value100p": 71980883,
+      "value": "7198.0883190883195864268"
     }
   },
   "whoTags": "Children",
