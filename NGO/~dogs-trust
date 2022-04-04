@@ -701,7 +701,12 @@
   "name": "Dogs Trust",
   "lastModified": "2020-11-18T06:10:26Z",
   "englandWalesCharityRegNum": "227523",
+  "imageList": [
+    {
+      "@type": "ImageObject"
+    }
+  ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
