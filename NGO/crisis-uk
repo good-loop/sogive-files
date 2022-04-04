@@ -780,11 +780,245 @@
         }
       ],
       "name": "Social enterprise"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.crisis.org.uk/media/246733/cri0459_2020-21-annual-report_v13_for-pdf.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "58748000",
+          "currency": "GBP",
+          "value100p": 5.8748E11,
+          "value": 5.8748E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2643000",
+          "currency": "GBP",
+          "value100p": 2.643E10,
+          "value": 2643000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "p 124"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "25400000",
+        "currency": "",
+        "value100p": 2.54E11,
+        "value": 2.54E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2724000",
+          "currency": "GBP",
+          "value100p": 2.724E10,
+          "value": 2724000.0
+        }
+      ],
+      "name": "Christmas"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3232000",
+          "currency": "GBP",
+          "value100p": 3.232E10,
+          "value": 3232000.0
+        }
+      ],
+      "name": "Campaigning \u0026 Influencing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "22746000",
+          "currency": "GBP",
+          "value100p": 2.2746E11,
+          "value": 2.2746E7
+        }
+      ],
+      "name": "Education, employment, health \u0026 wellbeing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6115000",
+          "currency": "GBP",
+          "value100p": 6.115E10,
+          "value": 6115000.0
+        }
+      ],
+      "name": "Housing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "384000",
+          "currency": "GBP",
+          "value100p": 3.84E9,
+          "value": 384000.0
+        }
+      ],
+      "name": "Volunteering"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "914000",
+          "currency": "GBP",
+          "value100p": 9.14E9,
+          "value": 914000.0
+        }
+      ],
+      "name": "Social enterprise"
     }
   ],
   "@type": "NGO",
   "displayName": "Crisis",
-  "recommendation": "**To evaluate Crisis under the SoGive rating methodology, we would need more information.**\n\nCrisis works with homeless people to help them better their situation, with government and authorities to influence and plan homelessness policies and with other entities to provide training in homelessness work.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Crisis does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis or form opinions about their work under the SoGive methodology.\n\nIn their annual report, Crisis describes their achievements under five strategic goals. However, it does not allocate their expenditure to individual projects, only to areas of work (Housing; Employment; Volunteering; Christmas; Campaigning and influencing; Education, health and wellbeing; Social enterprise). Several areas are covered under each of their Strategic Goals, which makes it impossible for us to form a clear picture of the effectiveness of Crisis\u0027 work.\n\n\nAs per the 2019 Annual Report, Crisis operates under 5 Strategic Goals.\n\nSTRATEGY GOAL 1: Ensure that the policy changes needed to end homelessness are adopted\n\nUnder this goal, they have launched three new campaigns:\n• Cover the Cost - to restore Local Housing Allowance rates to cover the cost of rents across Great Britain and prevent thousands of people from becoming homeless.\n• Scrap the Act - to abolish the Vagrancy Act, which criminalises people just for sleeping rough and begging in England and Wales.\n• A Safe Home - to ensure everyone fleeing domestic abuse in England is guaranteed a safe home from their council. \nThese are not the only instances of their campaigning work, there will be more under further Strategic Goals. Campaigning work is generally difficult to evaluate - it is not really clear what is the sum of motivations for legislators\u0027 decisions. If the campaigns listed were or will be successful, for example, that a law is changed as wished, it is not clear that only Crisis should be credited with the success.\n\nFurthermore, their Best Practice team has helped Highland Council in Scotland to make better use of the private rented sector as a route out of homelessness. They have provided tenancy training in Conwy in Wales and have developed a proposal for a Housing First project in Torbay, England.\nThis is an example of the training and consultancy work of Crisis.\n\nThey \u0027celebrated with our 1,123 members who achieved 2,383 qualifications between them.\u0027 We understand Crisis provides homeless people with training for various professions. These people then go on to gain a qualification.\n\nSTRATEGY GOAL 2: Ensure that governments in England, Scotland and Wales adopt national plans for ending homelessness\n\nUnder this goal, Crisis worked with the Scottish Government to publish its plan for ending homelessness. They chaired the Scottish Government\u0027s Homelessness and Rough Sleeping Action Group (HARSAG). This brought together experts from local government, the charity sector, academia, housing providers, legal specialists and others. \nThey started talks with the Welsh Government to discuss and offer our support for the adoption of a similar approach in Wales. Furthermore, they continued to advocate for a comprehensive strategy to end homelessness in Westminster. As noted before, these activities are difficult to assess with the information provided.\n\nThey also \"supported 473 people into external education.\"\n\nSTRATEGY GOAL 3: Demonstrate that homelessness can be ended in local areas\n\nUnder this goal, Crisis supported 665 people into employment. and gave their support to five local authorities in implementing the Homelessness Reduction Act 2017. This involved developing tools and training and holding events and conferences to promote understanding of the Act and our expertise in supporting its implementation.\nCrisis further established and chaired homelessness forums in Brent and Coventry to help local authorities improve their housing services for homeless people from first contact to ending homelessness for good.\nThey trained 131 individuals in catering, hospitality and sales through retail and café training programmes.\n\nSTRATEGY GOAL 4 End the homelessness of more people through our direct services\n\nThey set up a Single Homelessness Prevention Service in Brent and fostered links with a hospital in Birmingham to reduce the risk of patients being discharged into homelessness.\nProvided a Renting Ready programme to help Housing Association tenants at risk of homelessness because of poverty and lack of confidence in living independently.\nRan a pilot homelessness prevention project for people using food banks in Oxford.\n\nCrisis also welcomed 11,259 people to their year-round services. We understand this means providing a service in one of Crisis Skylight Centres. The services are [described](https://www.crisis.org.uk/get-help/services/how-crisis-can-help-you/) as: \n• learning, education and skills training\n• finding work and applying for jobs\n• finding a home and settling in well\n• looking after your health and wellbeing\n• volunteering and meeting new people.\n\nSTRATEGY GOAL 5 End homelessness for more people who are excluded from help or who have complex needs\n\nHelped 726 people improve their relationships and social networks.\nLed a partnership of eight London-based migrant and homelessness organisations to support people to apply for European Union Settled Status.\n,In cooperation with the local authority, Crisis helped migrant homeless people in Croydon to get paid work.\n\nThey also supported the Doncaster Complex Lives Alliance which involves a wide range of partners including the NHS and Doncaster Council. It works with people with complex issues including homelessness, rough sleeping,\n\n**Benchmarking**\n\nHaving reviewed the work of Crisis under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nDespite being unable to perform a detailed analysis based on the information available in the public domain (annual report, website), Crisis provides a cost per benefit figure of their own: It should cost £28.87 to secure one place at one of their Centres during Christmas. For this amount, one person should access 3 hot meals, health checks and treatment from a range of healthcare professionals, advice on housing, employment and benefits, a bed for the night, if needed, a chance to shower, freshen up and get clean clothes.\nIt should also provide \"a way out of homelessness for good through Crisis\u0027 year-round training, education and support..\" It is not clear whether Crisis means that the £28.87 figure should cover the cost for the whole year or that the figure should provide one space at the Centre, thus showing a homeless person the opportunity of their year-long services. The latter seems more probable to us.\nOverall, it seems that for less than £30, one homeless person gets a day like one of a person with home. One person accessing the abovementioned Crisis services for 50 days would cost about the same as saving a person\u0027s life by a benchmark charity.\n\n**Conclusion**\n\nFurther information that would enable us to form a fuller opinion of the work of Crisis would be:\n(a) more comprehensive picture of the costs involved in delivering their work\n(b) more comprehensive impact assessments, both in quantity and depth",
+  "recommendation": "**Summary**\n\n**Crisis is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\n- Crisis aims to help people out of homelessness and campaign for the changes needed to solve it altogether. They do this through education, training and support with housing, employment and health, carrying out research into the causes and consequences of homelessness and campaigning for the changes needed to end homelessness permanently.\n- In 2020/21 £35.2m, over 60% of Crisis\u0027 total spending, (page 135 of their [annual report](https://www.crisis.org.uk/media/246733/cri0459_2020-21-annual-report_v13_for-pdf.pdf) was on \u0027Education, employment, health \u0026 wellbeing\u0027, where they reported ending 1820 individuals’ homelessness sustainably in that year (page 6 of their annual report). This gives a rough estimate of circa £19,400 per individual whose homelessness was ended (£35.3m/1820). For this money, a Gold Standard rated charity would be expected to achieve an outcome as good as saving over 7,000 lives, or averting over 175,000 years of severe depression. However this doesn\u0027t consider the important campaigning and research work Crisis also carries out, and the services Crisis provides to individuals whose homelesseness they are not able to sustainably end. \n- Overall we think Crisis is unlikely to come close to the SoGive Gold Standard. However, deeper analysis could explore whether some of its subareas (ie. campaigning and research and policy) represent high-impact per pound opportunities.\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Crisis does - how they spend your donations**\n\nIn 2020/21 Crisis spent their funds as follows:\n\n*Education, employment, health \u0026 wellbeing*\n\n- Of spending committed to their charitable activities in 2020/21, 63% was committed to education, employment, health \u0026 wellbeing, so the non-project costs-adjusted expenditure was £35.3m.\n- This program likely includes (amongst other things) the funding for their Crisis Skylight centres, of which they have 11 across the UK. At Skylight centres individuals who are homeless or at risk of becoming homeless can access case workers who will try to help resolve their homelessness, health and wellbeing services (e.g. counselling or opticians), and educational/training services for free. In 2020/21 8,946 individuals accessed services at Crisis Skylight centres (page 46 of their annual report).\n- This may also include the grants of £3.2 million Crisis gave to local organisations tackling homelessness during the pandemic (page 18 of their annual report), although it is not entirely clear which budget line this comes under. For more detail on examples of where these grants went and what they did look at page 56 of their annual report. \n\n*Housing*\n\n- Of spending committed to their charitable activities in 2020/21, 17% was committed to housing, so the non-project costs-adjusted expenditure was £9.5m.\n- This portion of funding probably includes (amongst other things) the set up and funding of the Newcastle-wide Housing First service which started taking referrals in March 2021, and which aims to run for 3 years. Over these 3 years Crisis expects to help between 40 and 80 people into private and socially rented homes and get them the support they need to maintain their health, wellbeing and tenancies. \n\n*Campaigning \u0026 Influencing*\n\n- Of spending committed to their charitable activities in 2020/21, 9% was committed to campaigning and influencing, so the non-project costs-adjusted expenditure was £5m.\nOutputs included:\n- Campaigning for Housing First to become an integral part of UK policy, including running an inquiry into Housing First via the All-Party Parliamentary Group (APPG) for Ending Homelessness.\n- Alongside 75 other organisations, campaigning against new immigration rules that target non-UK nationals sleeping rough for deportation, with over 44,500 people signing their petition, although this campaign ultimately failed and the rules still came into force. \n \n*Christmas*\n\n- Of spending committed to their charitable activities in 2020/21, 8% was committed to Christmas, so the non-project costs-adjusted expenditure was £4.2m.\n- Due to the covid-19 pandemic Crisis’ Christmas activities were unable to be executed as usual but they typically involve the provision of warm meals, shelter, support and companionship at Christmas to those experiencing homelessness, and introducing guests to Crisis’ year-round training, education and support to leave homelessness behind for good.  Instead at Christmas 2020 they offered 475 people who would otherwise be rough sleeping somewhere safe to stay in hotel accommodation (page 43) and also gave 2,004 people a Crisis wellbeing pack (including Christmas cards with supporter messages, information and advice, toiletries, phone credit, face masks, creative activities, sweet treats, socks, gloves and other clothing). \n \n*Social Enterprise*\n\n- Of spending committed to their charitable activities in 2020/21, 3% was committed to social enterprise, so the non-project costs-adjusted expenditure was £1.4m.\n- This likely includes expenditure on the launch of The Venture Studio from Crisis (page 90) which enables Crisis members to start their own businesses and end their homelessness sustainably, the running of a ‘Hackathon’ in collaboration with Deen Developers - a London based tech company dedicated to solving society’s problems creatively, and award of Changing Lives grants ranging from £250 to £5,000 to 44 members which support members to access tools and equipment, start training, and pursue qualifications needed to achieve their ambitions. \n \n*Volunteers*\n\n- Of spending committed to their charitable activities in 2020/21, 1% was committed to volunteers, so the non-project costs-adjusted expenditure was £600,000.\n- Volunteers support Crisis’ online ‘e-commerce’ shops, physical shops, and cafes across a variety of locations, as well as being crucial to the typical Crisis at Christmas program. \n\n**Cost-effectiveness analysis - how does Crisis compare to the most cost-effective charities?**\n\nAfter a review of Crisis’ work under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold rating, a charity has to achieve a high impact per pound donated (such as averting one year of severe depression for £200, or £5,000 per life saved), and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nWhilst allocating outputs from Crisis’ work to specific expenditures on their financial statements is challenging due to a lack of transparency with regards to the costs of Crisis’ different programs, some key figures from their annual report can provide some insight. \n\n*Education, employment, health \u0026 wellbeing*\n\n- The non-project costs-adjusted expenditure on education, employment, health \u0026 wellbeing was £35.3m in 2020/21. Their main reported output in this category was their claim that they provided life-changing help to 8946 people, presumably through their Crisis Skylight Centres, (page 6 of their annual report), of which they helped 1820 individuals to end their homlessness sustainably. This suggests a cost of around £3950 per person helped (although the definition of helped in this context merely means used one of Crisis’ services),  if we only consider the impact only to be for those people whose homelessness was ended sustainably then this gives a cost of around £19,400 per individual whose homelessness was ended. Compared to our benchmark of £5,000 per life saved, whilst still valuable, this program does not reach the SoGive Gold Standard for cost-effectiveness.  For this money, a Gold Standard rated charity would be expected to achieve an outcome as good as saving over 7,000 lives, or averting over 175,000 years of severe depression\n\n*Housing*\n\n- The non-project costs-adjusted expenditure on housing was £9.5m in 2020/21. Considering that the Newcastle-wide Housing First service is expected to help between 40 and 80 individuals in their first 3 years, on the basis of direct housing provision alone it would not be deemed cost-effective. However it is plausible that there are further impacts of trialling and proving the success of the Housing First model for the many thousands of other homeless individuals in the UK; this is discussed further below within the campaigning \u0026 influencing section. \n\n*Campaigning \u0026 Influencing*\n\n- The non-project costs-adjusted expenditure on campaigning and influencing was £5m in 2020/21. Given the long-term nature of the campaigning work Crisis is doing it’s possible that this arm of their programs could be cost-effective, especially given there are currently around 160,000 households experiencing homelessness in the UK at any one time (source [here](https://www.crisis.org.uk/ending-homelessness/the-plan-to-end-homelessness-full-version/background/chapter-5-projecting-homelessness/), note that the definition of homeless includes sofa-surfing and staying in hostels as well as rough sleeping). However, one of their core focuses is seeing a national roll-out of the Housing First approach to ending homelessness, and this seems to be gaining traction as the preferred approach to homelessness in other countries (including Australia, Canada, Denmark, Finland, France, and the US) so it’s difficult to estimate how much sooner Crisis may be bringing about its implementation (and benefits) through their campaigning work. Whilst they do publish their campaigning successes fairly transparently [here](https://www.crisis.org.uk/get-involved/campaign/campaign-successes/) and set out clear agendas for what they hope to achieve with their campaigning efforts, greater information on both the costs involved with different campaigns and the level to which Crisis works with partner organisations would enable us it make a fuller assessment of their campaigning work. We would also need to develop a greater understanding of the UK government’s plans to end homelessness and what would happen otherwise if Crisis didn’t exist, as a fair amount of their work is in conjunction with other key homelessness nonprofits e.g. Shelter, and local and national governments. For more information on how we would conduct cost-effectiveness analysis of their lobbying and campaigning work if they provided more data on outputs under our 3 question method please click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?q\u003dresearch\u0026view\u003dsidebar).\n\n\n*Christmas*\n\nCrisis also claim that it costs them £29.06 to provide someone with the services they offer at Christmas, stating that \"the cost includes the organisation (such as finding the hotels), transport costs, insurance costs, the cost of facilities as well as the costs of food, clothing and accommodation\" (see [here](https://www.crisis.org.uk/crisis-at-christmas/crisis-at-christmas-2021-why-2906/)). This could be cost-effective given the wide range of services they offer homeless individuals as a part of their Christmas package, although given Christmas spending only makes up 8% of their charitable expenditure, this alone wouldn’t be enough to rate Crisis as a whole charity as cost-effective. See an overview of their Christmas services in 2021 [here](https://www.crisis.org.uk/get-involved/philanthropy/christmas-report-2021/).\n\nOverall, Crisis’s most high-expenditure area of focus (namely education, employment, health \u0026 wellbeing) is unlikely to come close to the SoGive Gold Standard. However, Crisis’s campaigning and research work could be promising - for a relatively smaller amount of money (around £5m), Crisis appears to be driving legislative change that may impact the thousands of homeless individuals in the UK in positive ways. \nFurther information on (i) the extent to which Crisis (as opposed to other housing-focused groups, or pre-existing political sentiment) is driving the changes, (ii) specific impacts that this legislation is having, as well as (iii) the number of people impacted, could allow us to come to more specific conclusions about the cost-efficacy of such campaigns. \n\nFor more information on how we define our Gold, Silver, and Bronze ratings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n**Conclusion**\n\nBased on the above, we rate Crisis as Not Recommended (tentative) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness, and believe that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin",
   "description": "Crisis has five main goals:\n1. Ensure that the policy changes needed to end homelessness are adopted\n2. Ensure that governments in England, Scotland and Wales adopt national plans for ending homelessness\n3. Demonstrate that homelessness can be ended in local areas\n4. End the homelessness of more people through their direct services\n5. End homelessness for more people who are excluded from help or who have complex needs\n\nThey try to achieve these by campaigning, training of workers, a consultancy with governments and local authorities, providing basic services such as food and shelter for homeless people in their Skylight Centres\n",
   "whyTags": "Homelessness",
   "ready": true,
@@ -795,24 +1029,40 @@
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/crisis-1373620202745460138.jpg",
   "noPublicDonations": false,
-  "impact": "more-info-needed",
+  "impact": "low",
+  "confidence": "high",
   "suggest": [
     "Crisis UK",
     "Crisis",
     "crisis-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "crisis-uk",
+      "name": "people (singular: person) helped at Christmas",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 5381581,
+        "value": "538.15819995360704160000"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.crisis.org.uk/",
   "howTags": "Direct Work, campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "",
+    "name": "people (singular: person) helped at Christmas",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 16102075,
-      "value": "1610.20751542344351504000"
+      "value100p": 5381581,
+      "value": "538.15819995360704160000"
     }
   },
   "meta": {
@@ -824,5 +1074,5 @@
   "englandWalesCharityRegNum": "1082947",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
