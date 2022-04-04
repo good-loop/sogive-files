@@ -270,7 +270,7 @@
   "imageCaption": "Micaela working hard in the hotel kitchen",
   "ready": false,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/Make-a-wish__logo-1409670304387012127.jpg#ccrop:115",
+  "logo": "https://media.good-loop.com/uploads/raw/make_a_wish-16370189613665191384.jpg",
   "@id": "make-a-wish-uk",
   "wikipedia": "https://en.wikipedia.org/wiki/Make-A-Wish_Foundation_UK",
   "summaryDescription": "Make-A-Wish UK grants what it considers as life-altering wishes for children with critical illnesses.",
@@ -370,5 +370,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
