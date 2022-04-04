@@ -921,6 +921,37 @@
         }
       ],
       "name": "Education, employment, health \u0026 wellbeing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6115000",
+          "currency": "GBP",
+          "value100p": 6.115E10,
+          "value": 6115000.0
+        }
+      ],
+      "name": "Housing"
     }
   ],
   "@type": "NGO",
