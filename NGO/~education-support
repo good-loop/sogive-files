@@ -1,0 +1,373 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/about-us/faqs"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "3827533",
+          "currency": "GBP",
+          "value100p": 3.827533E10,
+          "value": 3827533.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Schools and further education organisations pay for services such as counselling, surveys, and resilience training. See FAQs. \n\nSee p.33 annual report for figures.  - we considered including th e 1 million figure about income from b.,but we didnt because donors of this charity probably value education outcomes therefore schools being a funder probably counts as high opportunity cost"
+        },
+        "reserves": {
+          "notes": "p. 35 annual report "
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "3608429",
+        "currency": "GBP",
+        "value100p": 3.608429E10,
+        "value": 3608429.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/node/49"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "627854",
+          "currency": "GBP",
+          "value100p": 6.27854E9,
+          "value": 627854.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.33 annual report"
+        },
+        "description": {
+          "notes": "See website reference"
+        },
+        "isRep": {
+          "notes": "Costliest project. "
+        }
+      },
+      "name": "Counselling and mental health service advice ",
+      "description": "A helpline to provide counselling or coaching, as well as an Employee Assistance Program (EAP), which provides face-to-face counselling support, legal and financial advice, and other information services such as online Cognitive Behavioural Therapy. ",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 342193.0,
+          "confidence": "medium",
+          "name": "Pound(s) granted to education staff",
+          "description": "This refers to financial grants to educators suffering from financial emergencies such as ill health. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "587203",
+          "currency": "GBP",
+          "value100p": 5.87203E9,
+          "value": 587203.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.33 annual report"
+        }
+      },
+      "name": "Financial Support Services",
+      "description": "Financial grants to educators suffering from financial emergencies such as ill health. "
+    },
+    {
+      "outputs": [
+        {
+          "number": 35.0,
+          "meta": {
+            "all": {
+              "notes": "p.14 annual report - slightly unclear whether this was for 2019 only"
+            }
+          },
+          "confidence": "low",
+          "name": "Personal and professional development group(s) facilitated",
+          "description": "This refers to school leader peer-to-peer personal and professional development groups. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "269070",
+          "currency": "GBP",
+          "value100p": 2.6907E9,
+          "value": 269070.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 33 annual report "
+        }
+      },
+      "name": "Training \u0026 Organisation Development",
+      "description": "Training for organisations such as schools to support their staff better. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "392228",
+          "currency": "GBP",
+          "value100p": 3.92228E9,
+          "value": 392228.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 33 annual report"
+        }
+      },
+      "name": "Communications, Policy \u0026 Research",
+      "description": "Education Support shares evidence on best practice and works with policymakers and regulators to provide staff support."
+    },
+    {
+      "outputs": [
+        {
+          "number": 393196.0,
+          "confidence": "medium",
+          "name": "Visit(s) made to the Education Support Partnership website",
+          "description": "This refers to visits to the website providing online information services for education staff. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.educationsupport.org.uk/sites/default/files/annual_accounts_2018-19.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "138304",
+          "currency": "GBP",
+          "value100p": 1.38304E9,
+          "value": 138304.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.33 annual report"
+        }
+      },
+      "name": "Information Services",
+      "description": "Online information services on wellbeing and mental health for education staff. "
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Education Support",
+  "description": "[Education Support](https://www.educationsupport.org.uk/) provides counselling, mental health advice, and financial grants to educators suffering from financial emergencies such as ill health. They offer training for organisations such as schools to support their staff better, and online information services for staff. Education Support also shares evidence on best practice and works with policymakers and regulators to provide staff support. ",
+  "UNSDG": "3",
+  "whyTags": "Mental health, helplines, workers\u0027 rights, Education",
+  "imageCaption": "Helping staff in education",
+  "headerImage": "https://media.good-loop.com/uploads/standard/__bak2734-10646085238928874202.jpg",
+  "logo": "https://app.sogive.org/uploads/4345768482160962facebook/Education_Support-17499301429939588310.png",
+  "@id": "education-support",
+  "id": "education-support",
+  "wikipedia": "https://en.wikipedia.org/wiki/Education_Support",
+  "summaryDescription": "[Education Support](https://www.educationsupport.org.uk/) aims to improve the mental health, wellbeing and development prospects of education staff in schools and further education. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/4345768482160962facebook/Education_Support_photo-11721352267605126157.png",
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Education Support",
+    "Education Support",
+    "education-support"
+  ],
+  "url": "https://www.educationsupport.org.uk/",
+  "howTags": "Direct work, campaigning, research ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[Counselling and mental health service advice  2019.0]"
+  },
+  "name": "Education Support",
+  "lastModified": "2020-10-26T20:20:10Z",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "1161436",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
