@@ -210,7 +210,7 @@
         "value100p": 5.140092E10,
         "value": 5140092.0
       },
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [
@@ -370,5 +370,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
