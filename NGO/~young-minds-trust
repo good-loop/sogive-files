@@ -280,7 +280,20 @@
           "value": 5005672.0
         }
       ],
+      "meta": {
+        "reserves": {
+          "notes": "page 10"
+        }
+      },
       "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "2800000",
+        "currency": "",
+        "value100p": 2.8E10,
+        "value": 2800000.0
+      },
       "isRep": false
     },
     {
