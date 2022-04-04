@@ -890,6 +890,37 @@
         }
       ],
       "name": "Campaigning \u0026 Influencing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "22746000",
+          "currency": "GBP",
+          "value100p": 2.2746E11,
+          "value": 2.2746E7
+        }
+      ],
+      "name": "Education, employment, health \u0026 wellbeing"
     }
   ],
   "@type": "NGO",
