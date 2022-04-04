@@ -210,7 +210,7 @@
         "value100p": 5.140092E10,
         "value": 5140092.0
       },
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [
@@ -218,7 +218,15 @@
           "number": 702.0,
           "confidence": "medium",
           "name": "Wishes granted",
-          "description": "Wishes granted to children with severe illnesses"
+          "description": "Wishes granted to children with severe illnesses",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "11,989.14",
+            "currency": "",
+            "value100p": 1.198914E8,
+            "value": 11989.14
+          }
         }
       ],
       "year": 2020.0,
@@ -249,7 +257,7 @@
         }
       ],
       "name": "Wishes granted",
-      "isRep": true
+      "isRep": false
     }
   ],
   "@type": "NGO",
@@ -281,13 +289,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "make-a-wish-uk",
-      "name": "Wishes granted",
+      "name": "wishes (singular: wish) granted",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 71980883,
-        "value": "7198.0883190883195864268"
+        "value100p": 71936460,
+        "value": "7193.6460674157305413782"
       },
       "n": 1.0
     }
@@ -297,13 +305,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Wishes granted",
+    "name": "wishes (singular: wish) granted",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 71980883,
-      "value": "7198.0883190883195864268"
+      "value100p": 71936460,
+      "value": "7193.6460674157305413782"
     }
   },
   "whoTags": "Children",
@@ -362,5 +370,5 @@
   "englandWalesCharityRegNum": "295672",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
