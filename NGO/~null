@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Build a playground",
-  "unlisted": true,
-  "id": "build-a-playground",
-  "suggest": [
-    "Build a playground"
-  ],
-  "status": "DRAFT"
+  "id": "freedom-4-girls",
+  "suggest": []
 }
