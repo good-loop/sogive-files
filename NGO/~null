@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Freedom 4 Girls",
   "id": "freedom-4-girls",
-  "suggest": []
+  "suggest": [
+    "Freedom 4 Girls"
+  ],
+  "status": "DRAFT"
 }
