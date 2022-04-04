@@ -1,6 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "united nations Environment Programme",
+  "name": "united nations Environment Programme",
   "id": "united-nations-enviromental-program",
-  "suggest": [],
+  "suggest": [
+    "united nations Environment Programme",
+    "united nations Environment Programme"
+  ],
   "status": "DRAFT"
 }
