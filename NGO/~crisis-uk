@@ -828,6 +828,37 @@
         "value100p": 2.54E11,
         "value": 2.54E7
       }
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2724000",
+          "currency": "GBP",
+          "value100p": 2.724E10,
+          "value": 2724000.0
+        }
+      ],
+      "name": "Christmas"
     }
   ],
   "@type": "NGO",
