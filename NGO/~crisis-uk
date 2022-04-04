@@ -952,6 +952,37 @@
         }
       ],
       "name": "Housing"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "384000",
+          "currency": "GBP",
+          "value100p": 3.84E9,
+          "value": 384000.0
+        }
+      ],
+      "name": "Volunteering"
     }
   ],
   "@type": "NGO",
