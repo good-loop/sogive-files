@@ -165,6 +165,9 @@
           "confidence": "medium",
           "name": "wishes granted",
           "description": "children with life threatening illnesses granted a wish, such as a holiday or a special day out"
+        },
+        {
+          "name": ""
         }
       ],
       "data-src": [
@@ -208,6 +211,44 @@
         "value": 5140092.0
       },
       "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 702.0,
+          "confidence": "medium",
+          "name": "Wishes granted"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5053058",
+          "currency": "GBP",
+          "value100p": 5.053058E10,
+          "value": 5053058.0
+        }
+      ],
+      "name": "Wishes granted",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -239,13 +280,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "make-a-wish-uk",
-      "name": "wishes granted",
+      "name": "Wishes granted",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 119891438,
-        "value": "11989.1438746438754735234"
+        "value100p": 71980883,
+        "value": "7198.0883190883195864268"
       },
       "n": 1.0
     }
@@ -255,13 +296,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "wishes granted",
+    "name": "Wishes granted",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 119891438,
-      "value": "11989.1438746438754735234"
+      "value100p": 71980883,
+      "value": "7198.0883190883195864268"
     }
   },
   "whoTags": "Children",
