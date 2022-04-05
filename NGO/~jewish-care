@@ -382,7 +382,15 @@
             }
           },
           "confidence": "medium",
-          "name": "people (singular: person) supported for one week"
+          "name": "people (singular: person) supported for one week",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "51",
+            "currency": "",
+            "value100p": 510000.0,
+            "value": 51.0
+          }
         }
       ],
       "data-src": [
@@ -726,9 +734,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 26390000,
-        "value": "2639.00000"
+        "value100p": 510000,
+        "value": "51.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -742,9 +750,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 26390000,
-      "value": "2639.00000"
+      "value100p": 510000,
+      "value": "51.0",
+      "name": ""
     }
   },
   "meta": {
