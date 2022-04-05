@@ -1,7 +1,13 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/IWD-logo-portaiteps-9502123069249475218.png#ccrop:77",
-  "id": "iwd",
-  "suggest": [],
-  "status": "PUBLISHED"
+  "displayName": "Korean Red Cross",
+  "name": "Korean Red Cross",
+  "logo": "https://media.good-loop.com/uploads/standard/korean-red-cross-en-1-17650557682063187989.svg",
+  "id": "korean-red-cross",
+  "suggest": [
+    "Korean Red Cross",
+    "Korean Red Cross"
+  ],
+  "url": "https://www.redcross.or.kr/eng/eng_main/main.do",
+  "status": "DRAFT"
 }
