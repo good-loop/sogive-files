@@ -1392,10 +1392,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "6",
+          "raw": "6921000",
           "currency": "GBP",
-          "value100p": 60000.0,
-          "value": 6.0
+          "value100p": 6.921E10,
+          "value": 6921000.0
         }
       ],
       "name": "Living well with MS"
