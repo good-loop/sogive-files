@@ -896,7 +896,7 @@
         {
           "number": 1820.0,
           "confidence": "medium",
-          "name": "Ending an individual\u0027s homeslessness sustainably"
+          "name": "individual\u0027s homeslessness ended sustainably"
         }
       ],
       "year": 2021.0,
@@ -1047,7 +1047,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "crisis-uk",
-      "name": "Ending an individual\u0027s homeslessness sustainably",
+      "name": "individual\u0027s homeslessness ended sustainably",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -1063,7 +1063,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Ending an individual\u0027s homeslessness sustainably",
+    "name": "individual\u0027s homeslessness ended sustainably",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
