@@ -1398,7 +1398,8 @@
           "value": 6921000.0
         }
       ],
-      "name": "Living well with MS"
+      "name": "Living well with MS",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -1507,14 +1508,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": " confidential piece(s) of advice provided",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 34205555,
-      "value": "3420.5555555555558292000"
-    }
+    "name": "No Outputs! for project Project[Living well with MS 2020.0]"
   },
   "meta": {
     "noPublicDonations": {
