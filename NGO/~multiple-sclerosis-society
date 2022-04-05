@@ -1486,7 +1486,7 @@
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/harlingraaol.comemail/ms_society_cover-1191824372626468126.jpg",
   "noPublicDonations": false,
-  "impact": "more-info-needed",
+  "impact": "low",
   "confidence": "medium",
   "suggest": [
     "Multiple Sclerosis Society",
@@ -1533,5 +1533,5 @@
   "englandWalesCharityRegNum": "1139257",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
