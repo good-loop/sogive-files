@@ -274,7 +274,7 @@
   "UNSDG": "3",
   "parentCharityName": "Make-A-Wish International",
   "imageCaption": "Micaela working hard in the hotel kitchen",
-  "ready": false,
+  "ready": true,
   "modified": true,
   "logo": "https://media.good-loop.com/uploads/raw/make_a_wish-16370189613665191384.jpg",
   "@id": "make-a-wish-uk",
