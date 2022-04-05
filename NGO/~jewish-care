@@ -382,7 +382,7 @@
             }
           },
           "confidence": "medium",
-          "name": "people (singular: person) supported"
+          "name": "people (singular: person) supported for one week"
         }
       ],
       "data-src": [
@@ -718,12 +718,27 @@
     "Jewish Care",
     "jewish-care"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "jewish-care",
+      "name": "people (singular: person) supported for one week",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 26390000,
+        "value": "2639.00000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.jewishcare.org/",
   "howTags": "Direct Work ",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people (singular: person) supported",
+    "name": "people (singular: person) supported for one week",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
