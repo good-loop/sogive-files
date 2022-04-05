@@ -1,0 +1,1351 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 40844.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-04-01T00:00:00Z",
+          "end": "2014-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.5E10,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 1.5E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2013-2014-marie-curie.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Can be split into multiple projects: hospices nurses, helpers, campainign  http://apps.charitycommission.gov.uk/Accounts/Ends94/0000207994_AC_20150331_E_C.pdf has enough info for that",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 40712.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Everything from cc"
+            }
+          },
+          "confidence": "medium",
+          "name": "",
+          "start": "2014-04-01T00:00:00Z",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.65023E10,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 1.65023E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.546E9,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 1.546E7
+        },
+        {
+          "value100": 4.378E9,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 4.378E7
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "The income from charitable activities is largely from the NHS or department of health. This could be viewed as being like grant funding, which would not be treated as income from charitable activities here; on balance it\u0027s probably the case that the NHS is so heavily required to fund cancer treatments that if it weren\u0027t outsourced to a charity they would have to do it themselves. Hence treated as income from charitable activities",
+      "name": "overall",
+      "analyst": "Lotti, Saulius",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 51383.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "Resource(s) provided",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.65335E12,
+          "value": 1.65335E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.6084E11,
+          "value": 1.6084E7
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 4.1904E11,
+          "value": 4.1904E7
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "The income from charitable activities relates to income from the NHS or department of health. This could be viewed as being like grant funding, which would not be treated as income from charitable activities here; on balance it\u0027s probably the case that the NHS is so heavily required to fund cancer treatments that if it weren\u0027t outsourced to a charity they would have to do it themselves. Hence treated as income from charitable activities. There are other income items in the accounts which are labelled as income from charitable activities, which largely seem to be grants, so I have treated these as grants here (i.e. not treated as income from charitable activities in this database)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 31755.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular: person) nursed",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Marie Curie provides nursing to terminally ill people. Around a third of the cost is covered by the NHS; this cost refers to the remaining two thirds of the amount required to fund this work.",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 2176.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "nurse(s) working with terminally ill patients",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 131161.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 1311.61
+          },
+          "order": 1.0
+        },
+        {
+          "number": 249569.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "visits to a terminally ill patient from a nurse",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 1914075.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 19140.75
+          },
+          "order": 2.0
+        },
+        {
+          "number": 1200000.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "costPerOutput": {
+            "value100": 16689.0,
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": 166.89
+          },
+          "order": 3.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You enabled XXX1 sufferers of terminal illness to be cared for by Marie Curie nurses",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Marie%20Curie%20-%20Aisha.PNG?raw\u003dtrue",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "p11 of https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/impact-report-201516.pdf",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.1780158E11,
+          "value": 7.1780158E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.982865E10,
+          "value": 6982865.0
+        },
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.3147E11,
+          "value": 2.3147E7
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "31,755 people cared for / 2,176 nursing staff / 1.2 million hours of care provided in total",
+      "name": "nurses",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 8638.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "people (singular: person) cared for in a hospice",
+          "start": "2015-04-01T00:00:00Z",
+          "description": "Marie Curie provides hospice care for terminally ill people. Around a quarter of the cost is covered by the NHS; this cost refers to the remaining three quarters of the amount required to fund this work.",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.2017935E11,
+          "value": 7.2017935E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 7.005997E8,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 7005997.0
+        },
+        {
+          "value100": 1.8757E9,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1.8757E7
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "8,638 people cared for",
+      "name": "hospices",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 979.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "household(s) supported",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.521474E10,
+          "value": 1521474.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.48011E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 148011.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "979 households supported",
+      "name": "helpers",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9936.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "call(s) to support line",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.222033E10,
+          "value": 3222033.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 3.13444E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 313444.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "9936 calls to support line",
+      "name": "info and support",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 75.0,
+          "year": 2016.0,
+          "@type": "Output",
+          "name": "Research paper(s) published ",
+          "start": "2015-04-01T00:00:00Z",
+          "end": "2016-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 7.059579E10,
+          "value": 7059579.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 6.86765E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 686765.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "75 research papers published in peer-reviewed journals",
+      "name": "research",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.733821E10,
+          "value": 9733821.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 9.46919E7,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 946919.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/vision-and-strategic-plan/annual-report-2015-16.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "policy info and awareness",
+      "analyst": "Sanjay",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends94/0000207994_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "152740000",
+          "currency": "GBP",
+          "value100p": 1.5274E12,
+          "value": 1.5274E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "15424000",
+          "currency": "GBP",
+          "value100p": 1.5424E11,
+          "value": 1.5424E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "48891000",
+        "currency": "GBP",
+        "value100p": 4.8891E11,
+        "value": 4.8891E7
+      },
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 33920.0,
+          "name": "Patients (singular: patient) nursed",
+          "description": "The sufferers of terminal conditions treated at home by Nurses part funded by Marie Curie."
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "46098000",
+          "currency": "GBP",
+          "value100p": 4.6098E11,
+          "value": 4.6098E7
+        }
+      ],
+      "name": "Nurses",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 8220.0,
+          "name": "Patients treated",
+          "description": "Patients treated in hospice care"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends94/0000207994_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "49000000",
+          "currency": "GBP",
+          "value100p": 4.9E11,
+          "value": 4.9E7
+        }
+      ],
+      "name": "Hospices",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 7999.0,
+          "name": "support vists",
+          "description": "One family visited by Marie Curie Helper Service"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "541000",
+          "currency": "GBP",
+          "value100p": 5.41E9,
+          "value": 541000.0
+        }
+      ],
+      "name": "Helper Service",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 11369.0,
+          "name": "Interactions",
+          "description": "Enquiries via phone or web chat."
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1335000",
+          "currency": "GBP",
+          "value100p": 1.335E10,
+          "value": 1335000.0
+        }
+      ],
+      "name": "Information and Support",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2763000",
+          "currency": "GBP",
+          "value100p": 2.763E10,
+          "value": 2763000.0
+        }
+      ],
+      "name": "Research and Development",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends94/0000207994_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3639000",
+          "currency": "GBP",
+          "value100p": 3.639E10,
+          "value": 3639000.0
+        }
+      ],
+      "name": "Policy and Awareness",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/plans-reports-and-policies/previous-reports/annual-reports/annual-report-and-accounts-2019-20-final.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "18140000",
+          "currency": "GBP",
+          "value100p": 1.814E11,
+          "value": 1.814E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "157006000",
+          "currency": "GBP",
+          "value100p": 1.57006E12,
+          "value": 1.57006E8
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p. 68 of annual report (35 in the PDF)"
+        },
+        "reserves": {
+          "notes": "Annual report p. 70\nGeneral plus designated funds"
+        }
+      },
+      "name": "overall",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "94733000",
+        "currency": "",
+        "value100p": 9.4733E11,
+        "value": 9.4733E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 35999.0,
+          "meta": {
+            "all": {
+              "notes": "Annual report p. 6"
+            }
+          },
+          "name": "People (singular: person) cared for"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/plans-reports-and-policies/previous-reports/annual-reports/annual-report-and-accounts-2019-20-final.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "60622671",
+          "currency": "GBP",
+          "value100p": 6.0622671E11,
+          "value": 6.0622671E7
+        }
+      ],
+      "name": "Nurses",
+      "start": "2019-04-01",
+      "description": "[Marie Curie Nurses] (https://www.mariecurie.org.uk/help/nursing-services) generally provide one-to-one nursing care and support overnight in private homes. In some areas, care for shorter time periods, daytime care, or crisis support is also offered.",
+      "end": "2020-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 8781.0,
+          "meta": {
+            "all": {
+              "notes": "Annual report p. 6"
+            }
+          },
+          "name": "People (singular: person) cared for"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "68,313,707",
+          "currency": "GBP",
+          "value100p": 6.8313707E11,
+          "value": 6.8313707E7
+        }
+      ],
+      "name": "Hospices"
+    },
+    {
+      "outputs": [
+        {
+          "number": 44780.0,
+          "meta": {
+            "all": {
+              "notes": "AR p.6"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) cared for",
+          "description": "Number of people cared for through nursing or hospices combined"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/plans-reports-and-policies/previous-reports/annual-reports/annual-report-and-accounts-2019-20-final.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "128936378",
+          "currency": "GBP",
+          "value100p": 1.28936378E12,
+          "value": 1.28936378E8
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Sum of attributable costs for nurses and hospices. These make up 92.8% of charitable spending, and the project costs are 92.8% of donor-funded expenditure on charitable activities. "
+        }
+      },
+      "name": "Nurses and Hospices (Joint view)",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Marie Curie",
+  "recommendation": "**Marie Curie is rated as Not Recommended (Firm) on the SoGive ratings scale.**\n\nMarie Curie provides care and support for people living with any terminal illness and their families, mainly through hospices and nurses.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\nHow much does it cost for the charity to do something\nWhat benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n\n**More about what Marie Curie does**\n\nMarie Curie (formerly Marie Curie Cancer Care) seeks to improve the quality of life for terminally ill patients, including cancer patients, and to support their family and loved ones during dying, death and bereavement.\n\nIn the 2019/20 financial year, Marie Curie spent a total of about £139m on donor-funded charitable activities, according to their [annual report ](https://www.mariecurie.org.uk/globalassets/media/documents/who-we-are/plans-reports-and-policies/previous-reports/annual-reports/annual-report-and-accounts-2019-20-final.pdf)(AR). \n\nOver 90% of Marie Curie’s spending goes into two areas: Nurses and hospices. \n\n[Marie Curie Nurses](https://www.mariecurie.org.uk/help/nursing-services) generally provide one-to-one nursing care and overnight support in private homes. In some areas, care for shorter time periods, daytime care, or crisis support is also offered.\n\nNine hospices in England, Scotland, Wales and Northern Ireland are run by Marie Curie, which is the largest UK provider of hospice care outside the NHS. The hospices provide specialised care to dying patients in a friendly and welcoming environment (annual report, p. 22).\n\nMarie Curie works in [partnership with the NHS](https://www.mariecurie.org.uk/professionals/working-in-partnership). The NHS funds about 55% of the nursing services and 35% of the work in the hospices (annual report, p. 6).\n\nMarie Curie also provides the following further services, which together amount to less than 8% of their total expenditure on charitable activities.\n\nHelper volunteers provide services from gardening in hospices to running errands for patients. Marie Curie estimates that 9,000 volunteers supported their work in 2019/20 (annual report, p. 45).\n\nPublic information and support is provided through phone Support Line, email, web chat, and social media. In 2019/20, Marie Curie responded to 15,708 enquiries (annual report, p. 26).\n\nResearch related to end of life care in the UK is funded by Marie Curie, including how to improve palliative treatment and out-of-hours-care (annual report, p. 34).\n\nMarie Curie also works on policy and campaigning as well as public awareness. \n\n\n**Cost-effectiveness analysis**\n\nTo review the work of Marie Curie under the two-question method, we analyse the costs per output and compare this to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work.\n\nMarie Curie reports that they cared for 44,780 people in the financial year 2019/20. This includes 35,999 terminally ill patients cared for by nurses and 8,781 people in hospices (annual report, p. 6).\n\nTo estimate the cost per person, we first calculate the portion of the £139m expenditure on donor-funded charitable activities that goes into hospices and nursing, which is 92.8% or £129m. We derive a cost of £2,879 for caring for one person for one year. We compare this to the Gold Standard benchmark of £200 for averting severe depression for one year. The cost of care for Marie Curie is significantly higher than the benchmark. This implies that for the cost of Marie Curie providing care for one person, we could have otherwise provided benefits equivalent to averting severe depression for 14 people for one year. \n\nLooking at the two main areas of activity individually, we find the following based on information from the annual report:\n- In nursing care, £60.6m attributable spending was used to care for 35,999 people in 2019/20, so the cost per person is about £1,684.\n- In hospice care, £68.3m was used to care for 8,781 people in 2019/20, so the cost per person is about £7,780.\n\nData is also available for Marie Curie’s information and support services. In 2019/20, these reached 15,708 people via conversations on the phone and the web (annual report, p. 6). With attributable spending of about £2m, this results in a cost per person of £128. Although this is lower than the Gold Standard, we believe the positive impact of one conversation is likely much lower than the equivalent of averting severe depression for a full year.\n\nWe have not considered in detail the other activities of Marie Curie as they amount to less than 6% of their spending. In addition, the tangible outcomes of these activities are harder to assess and Marie Curie themselves do not provide detailed impact reports. \n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nBased on the above, we rate Marie Curie as Not Recommended (Firm) under the SoGive methodology. This means:\n- We have some indication of cost-effectiveness, and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "whyTags": "Health, Cancer, Elderly",
+  "UNSDG": "3",
+  "imageCaption": "Home nursing",
+  "ready": true,
+  "logo": "https://www.mariecurie.org.uk/globalassets/media/images/media-centre/media-resources-for-image-listing/marie-curie-logo.png?\u0026w\u003d1154\u0026h\u003d1471",
+  "modified": true,
+  "@id": "marie-curie-formerly-marie-curie-cancer-care",
+  "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie_(charity)",
+  "summaryDescription": "Marie Curie provides care and support for people living with any terminal illness and their families, mainly through hospices and nurses.",
+  "uptodatedraft": "probably",
+  "images": "https://www.mariecurie.org.uk/globalassets/media/images/media-centre/media-resources-for-image-listing/home-nursing-2.jpg?\u0026w\u003d750\u0026h\u003d440",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Marie Curie (formerly Marie Curie Cancer care)",
+    "Marie Curie",
+    "marie-curie-formerly-marie-curie-cancer-care"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "marie-curie-formerly-marie-curie-cancer-care",
+      "name": "People (singular: person) cared for",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 16840098,
+        "value": "1684.009861385038456257165"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.mariecurie.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "People (singular: person) cared for",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 16840098,
+      "value": "1684.009861385038456257165"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Marie Curie (formerly Marie Curie Cancer care)",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "207994",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
