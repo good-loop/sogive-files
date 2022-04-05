@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Korean Red Cross",
   "name": "Korean Red Cross",
   "id": "korean-red-cross",
   "suggest": [
+    "Korean Red Cross",
     "Korean Red Cross"
   ],
   "status": "DRAFT"
