@@ -1485,7 +1485,7 @@
   "@id": "multiple-sclerosis-society",
   "summaryDescription": "The MS Society promotes research into treatments for MS and supports people affected by MS.",
   "uptodatedraft": "probably",
-  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/ms_society_cover-1191824372626468126.jpg",
+  "images": "https://media.good-loop.com/uploads/raw/hero-banner-large2-optim-8628263666478650441.jpg",
   "noPublicDonations": false,
   "impact": "low",
   "confidence": "medium",
@@ -1534,5 +1534,5 @@
   "englandWalesCharityRegNum": "1139257",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
