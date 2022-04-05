@@ -49,7 +49,14 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 472.0,
+          "confidence": "medium",
+          "name": "Active rescues",
+          "description": "Prevention of one suicide by a caller to their helpline"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -137,13 +144,35 @@
     "CALM",
     "campaign-against-living-miserably"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "campaign-against-living-miserably",
+      "name": "Active rescues",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 102118644,
+        "value": "10211.864406779660254237288135593216000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.thecalmzone.net/about-calm/what-is-calm/",
   "whyTags": "Mental Health, Saving Lives",
   "howTags": "Direct Work, Campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Helpline/Webchat Service Provision 2021.0]"
+    "name": "Active rescues",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 102118644,
+      "value": "10211.864406779660254237288135593216000"
+    }
   },
   "name": "Campaign Against Living Miserably",
   "logo": "https://media.good-loop.com/uploads/raw/calm-17736825809472718654.jpg#noscale_ccrop:75",
@@ -153,5 +182,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "United Kingdom",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
