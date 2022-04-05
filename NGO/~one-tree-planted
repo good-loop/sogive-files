@@ -82,11 +82,11 @@
   "ready": false,
   "name": "One Tree Planted",
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/otp-logo-long-greenpng-1519919839601-1643719818145597720.png#ccrop:95_noscale",
+  "logo": "https://media.good-loop.com/uploads/standard/otp-logo-long-greenpng-1519919839601-1643719818145597720.png#ccrop:95_",
   "@id": "one-tree-planted",
   "logo_white": "https://app.sogive.org/uploads/danielgood-loop.comemail/OTP__H__BW1982203114__410x-10101933543715514499.png",
   "summaryDescription": "As an environmental charity, we\u0027re on a mission to make it simple for anyone to help the environment by planting trees!",
   "uptodatedraft": "probably",
-  "status": "PUBLISHED",
+  "status": "MODIFIED",
   "usCharityRegNum": "46-4664562"
 }
