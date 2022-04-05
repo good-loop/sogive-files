@@ -257,14 +257,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "tradingCosts",
-          "raw": "935,130",
-          "currency": "GBP",
-          "value100p": 9.3513E9,
-          "value": 935130.0
-        },
-        {
-          "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "raw": "421,807",
           "currency": "GBP",
@@ -278,6 +270,11 @@
           "currency": "GBP",
           "value100p": 5.005672E10,
           "value": 5005672.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
         }
       ],
       "meta": {
