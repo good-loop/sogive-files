@@ -1477,7 +1477,7 @@
   ],
   "color": "#e35205",
   "@type": "NGO",
-  "recommendation": "**Multiple Sclerosis Society achieves a bronze assessment under the SoGive rating methodology.**\n\n\nMultiple Sclerosis Society has multiple goals: effective treatments; responsive care and support; preventing MS; quality information; strong community, independent lives; supporting families and carers, and; greater certainty about the future.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money\n\n**More about what Multiple Sclerosis Society does**\n\n\n\n\n**Benchmarking**\n\nAfter a review of the work of the Multiple Sclerosis Society under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as being able to save a life for £3000) and also provide robust evidence on the effectiveness of their work.\n\nBased on the annual report, we understand that it costs _ £_ to… For this reason, it is likely that a donation to _ will achieve less positive impact than the same amount of money given to a Gold-rated organization.\n\n\n\nwe focus on the strong community, independent lives goal, which saw a greater increase in expenditure between 2017 and 2018.",
+  "recommendation": "",
   "description": "The MS Society funds and promotes research to develop new treatments and services for people with MS and to understand the causes of MS. They provide support to people affected by MS, seek to raise awareness and understanding, and improve care and support. ",
   "whyTags": "Health, disability",
   "logo": "https://as.good-loop.com/vert/ms_society_logo.png",
@@ -1533,5 +1533,5 @@
   "englandWalesCharityRegNum": "1139257",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
