@@ -1456,6 +1456,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3285000",
+          "currency": "GBP",
+          "value100p": 3.285E10,
+          "value": 3285000.0
         }
       ],
       "name": "Effective treatments and preventing MS"
