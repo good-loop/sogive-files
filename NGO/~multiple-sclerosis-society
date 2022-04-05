@@ -1402,6 +1402,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mssociety.org.uk/sites/default/files/2021-06/MS%20Society%202020%20Annual%20Report%20and%20Accounts%20SIGNED.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -1419,6 +1425,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6215000",
+          "currency": "GBP",
+          "value100p": 6.215E10,
+          "value": 6215000.0
         }
       ],
       "name": "Connected communities, powerful voices"
