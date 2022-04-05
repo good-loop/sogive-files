@@ -1370,7 +1370,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 29800.0,
+          "name": "People (singular: Person) reached through the MS Helpline or a volunteer group"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -1491,13 +1496,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "multiple-sclerosis-society",
-      "name": " confidential piece(s) of advice provided",
+      "name": "People (singular: Person) reached through the MS Helpline or a volunteer group",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 34205555,
-        "value": "3420.5555555555558292000"
+        "value100p": 2322483,
+        "value": "232.24832214765099417000"
       },
       "n": 1.0
     }
@@ -1508,7 +1513,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Living well with MS 2020.0]"
+    "name": "People (singular: Person) reached through the MS Helpline or a volunteer group",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2322483,
+      "value": "232.24832214765099417000"
+    }
   },
   "meta": {
     "noPublicDonations": {
