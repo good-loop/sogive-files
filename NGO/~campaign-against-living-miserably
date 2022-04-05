@@ -52,7 +52,9 @@
       "outputs": [
         {
           "number": 472.0,
-          "name": "Active rescues"
+          "confidence": "medium",
+          "name": "Active rescues",
+          "description": "Prevention of one suicide by a caller to their helpline"
         }
       ],
       "data-src": [
@@ -180,5 +182,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "United Kingdom",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
