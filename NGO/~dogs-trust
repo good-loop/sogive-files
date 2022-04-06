@@ -654,7 +654,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Dogs_Trust",
   "summaryDescription": "Dogs Trust, formerly known as the National Canine Defence League, is an animal welfare charity and humane society in the United Kingdom which specialises in the well-being of dogs.",
   "uptodatedraft": "probably",
-  "images": "https://media.good-loop.com/uploads/standard/0__FvPuppyCam15JPG-2010232643347609407.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/v800__sam3-3132902669773307209.jpeg",
   "noPublicDonations": false,
   "impact": "low",
   "confidence": "high",
@@ -714,5 +714,5 @@
   ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
