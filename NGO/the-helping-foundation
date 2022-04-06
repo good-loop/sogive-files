@@ -1,0 +1,296 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "13,588,468",
+          "currency": "GBP",
+          "value100p": 1.3588468E11,
+          "value": 1.3588468E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01",
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2015-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15,780,725",
+          "currency": "GBP",
+          "value100p": 1.5780725E11,
+          "value": 1.5780725E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "309,516,557",
+        "currency": "GBP",
+        "value100p": 3.09516557E12,
+        "value": 3.09516557E8
+      },
+      "end_raw": "2018-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,753,177",
+          "currency": "GBP",
+          "value100p": 8.753177E10,
+          "value": 8753177.0
+        }
+      ],
+      "name": "Charitable grants to institutions"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,007",
+          "currency": "GBP",
+          "value100p": 2.007E7,
+          "value": 2007.0
+        }
+      ],
+      "name": "Mikvah"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "13391211",
+          "currency": "GBP",
+          "value100p": 1.3391211E11,
+          "value": 1.3391211E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 8). \u003d (\"Total resources expended\" for \"Unrestricted funds 2019\")."
+        },
+        "reserves": {
+          "notes": "2019 annual report (p. 8). \"Reserves\" \u003d (\"Fund balances at 31 December 2019\" for \"Unrestricted funds 2019\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-01-01",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "338495116",
+        "currency": "",
+        "value100p": 3.38495116E12,
+        "value": 3.38495116E8
+      },
+      "end": "2019-12-31",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "The Helping Foundation",
+  "description": "The  objects  of  the  charity  are  the  advancement  of  education  according  to  the  tenets  of  the  Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in  the Jewish Community. ",
+  "recommendation": "**Summary**\n\n**The Helping Foundation is rated as Too Rich (Firm) on the SoGive ratings scale.**\n\n- The Helping Foundation’s (THF) aims and objectives are \"the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\".\n- Further information about the impact of THF’s charitable activities would be needed in order to estimate its cost-effectiveness.\n- Nevertheless, for the charity’s 2019 total expenditure of £13.4M, a Gold-rated organisation would be expected to save about 3k lives. \n- In addition, we estimate that THF has a level of reserves (£338M) which means they could fully fund their current level of activities for roughly 25 years, even if they received no further donations.\n- This is significantly longer than the 18 month threshold above which charities are rated as Too Rich.\n- For these reasons, it is very likely that a donation to THF will achieve less positive impact than the same amount of money given to a Gold-rated organisation.\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what THF does - how they spend your donations**\n\nThe Helping Foundation’s (THF) aims and objectives are \"the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\" ([2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677), p. 1).\n\nThe total expenditure of £13.4M for 2019 was allocated as follows ([2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677), pp. 2 and 8):\n- Charitable activities (68%):\n\t- Charitable grants to institutions (67%):\n\t\t- Lehachzikom (22%). This charity’s objectives are \"the advancement of the orthodox Jewish faith, the relief of poverty and the relief of sickness, poor health and old age, in particular but not limited to people living in Israel\" ([respective 2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11119355\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5111876), p. 1).\n- British friends of Ezrat Yisrael Kiryat Sefer (17%). This charity’s objectives are \"the relief of financial hardship, either generally or individually, of people living in Israel by making grants of money for providing or paying for items, services or facilities\" ([respective 2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10976684\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4050388), p. 3).\n- RNH Synagogue \u0026 College Limited (7.8%). This charity’s objectives are the \"relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community; the advancement of the Orthodox Jewish religion; the advancement of education according to the tenets of the Orthodox Jewish religion; to promote any charitable purpose for the benefit of the Jewish community; the upkeep of a place of worship and to provide food and meals for the needy\" ([respective 2019/2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10724892\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4038170), p. 3).\n- Other institutions (53%). \"Available on request from the charity\u0027s head office\".\n\t- Support and governance costs (0.4%).\n- Property holding costs (32%).\n\nTHF mentions that the charitable grants are intended to  contribute towards the charity’s objectives, but information about the supported activities and their impact could not be found. Furthermore, the 3 organisations to which THF gave grants also aim to reach their objectives via making grants, but their impact could not be found in the respective annual reports.\n\n\n**Cost-effectiveness analysis - how does THF compare to the most cost-effective charities?**\n\nAfter a review of the work of THF under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nA description of the impact of THF’s charitable grants could not be found, and would be needed to estimate the charity’s cost-effectiveness. Information that would enable us to form a fuller opinion about THF would be:\n- Description of the activities supported by the grants and their impact, such as the total number of beneficiaries, and information about how large was the average benefit.\n- Assessment of the need for additional funding of the supported organisations. For example, these organisations might have been able to get some funds from other actors if they had not been supported by THF.\n- Further details about the institutions which received charitable grants. 53% of THF’s total expenditure was given to unspecified institutions.\n\nAs noted, given the lack of evidence of impact provided by THF, we are unable to estimate the charity’s cost-effectiveness. However, for the charity’s 2019 total expenditure of £13.4M, a Gold-rated organisation would be expected to save about 3k lives (\u003d £13.4M / £5k). Therefore, in order to receive a Gold rating, THF would have to achieve a similar impact, whether in terms of the number of lives saved, or other outcomes such as improvements in well-being.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Reserves**\n\nTHF is rated as Too Rich (Firm) under the SoGive methodology. Given the total unrestricted funds of £338M carried forward on 31 December 2019, and the total expenditure of £13.4M for 2019 ([2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677), p. 8), we estimate that THF has a level of reserves which means they could fully fund their current level of activities for roughly 25 years, even if they received no further donations. This is significantly longer than the 18 month threshold above which charities are rated as Too Rich.\n\nUnlike in previous years, we note that the charity reported a relatively [small amount of income from donations in 2019, and zero in 2020](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4008677/financial-history). This suggests the charity is not currently seeking public donations. However, if they do seek donations again in the future we would recommend that potential donors consider whether the charity has adequately detailed how they intend to use their substantial level of unrestricted funds.\n\n\n**Conclusion**\n\nBased on the above, we rate The Helping Foundation as Too Rich (Firm) under the SoGive methodology. ",
+  "whyTags": "Judaism, Religion, Education",
+  "ready": true,
+  "modified": true,
+  "@id": "the-helping-foundation",
+  "summaryDescription": "\"The charity\u0027s aims and objectives are the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\".",
+  "uptodatedraft": "probably",
+  "images": "",
+  "stories": "",
+  "impact": "too-rich",
+  "confidence": "high",
+  "noPublicDonations": true,
+  "suggest": [
+    "THE HELPING FOUNDATION",
+    "The Helping Foundation",
+    "the-helping-foundation"
+  ],
+  "url": "",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "name": {
+      "notes": ""
+    },
+    "logo": {
+      "notes": "Not found as of 23-10-2021."
+    },
+    "englandWalesCharityRegNum": {
+      "source": "http://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20151231_E_C.pdf"
+    },
+    "summaryDescription": {
+      "notes": "2019 annual report (p. 1).",
+      "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677"
+    },
+    "url": {
+      "notes": "Not found as of 23-10-2021."
+    }
+  },
+  "whoTags": "",
+  "name": "THE HELPING FOUNDATION",
+  "location": "",
+  "englandWalesCharityRegNum": "1104484",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
