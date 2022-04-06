@@ -339,7 +339,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 651308.0,
+          "name": ""
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
