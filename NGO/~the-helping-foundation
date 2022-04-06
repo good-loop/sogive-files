@@ -1,0 +1,296 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "13,588,468",
+          "currency": "GBP",
+          "value100p": 1.3588468E11,
+          "value": 1.3588468E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01",
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2015-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15,780,725",
+          "currency": "GBP",
+          "value100p": 1.5780725E11,
+          "value": 1.5780725E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "309,516,557",
+        "currency": "GBP",
+        "value100p": 3.09516557E12,
+        "value": 3.09516557E8
+      },
+      "end_raw": "2018-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,753,177",
+          "currency": "GBP",
+          "value100p": 8.753177E10,
+          "value": 8753177.0
+        }
+      ],
+      "name": "Charitable grants to institutions"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20181231_E_C.pdf"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,007",
+          "currency": "GBP",
+          "value100p": 2.007E7,
+          "value": 2007.0
+        }
+      ],
+      "name": "Mikvah"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "13391211",
+          "currency": "GBP",
+          "value100p": 1.3391211E11,
+          "value": 1.3391211E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 8). \u003d (\"Total resources expended\" for \"Unrestricted funds 2019\")."
+        },
+        "reserves": {
+          "notes": "2019 annual report (p. 8). \"Reserves\" \u003d (\"Fund balances at 31 December 2019\" for \"Unrestricted funds 2019\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-01-01",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "338495116",
+        "currency": "",
+        "value100p": 3.38495116E12,
+        "value": 3.38495116E8
+      },
+      "end": "2019-12-31",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "The Helping Foundation",
+  "description": "The  objects  of  the  charity  are  the  advancement  of  education  according  to  the  tenets  of  the  Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in  the Jewish Community. ",
+  "recommendation": "",
+  "whyTags": "Judaism, Religion, Education",
+  "ready": true,
+  "modified": true,
+  "@id": "the-helping-foundation",
+  "summaryDescription": "\"The charity\u0027s aims and objectives are the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\".",
+  "uptodatedraft": "probably",
+  "images": "",
+  "stories": "",
+  "impact": "too-rich",
+  "confidence": "high",
+  "noPublicDonations": true,
+  "suggest": [
+    "THE HELPING FOUNDATION",
+    "The Helping Foundation",
+    "the-helping-foundation"
+  ],
+  "url": "",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "name": {
+      "notes": ""
+    },
+    "logo": {
+      "notes": "Not found as of 23-10-2021."
+    },
+    "englandWalesCharityRegNum": {
+      "source": "http://apps.charitycommission.gov.uk/Accounts/Ends84/0001104484_AC_20151231_E_C.pdf"
+    },
+    "summaryDescription": {
+      "notes": "2019 annual report (p. 1).",
+      "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10540660\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4008677"
+    },
+    "url": {
+      "notes": "Not found as of 23-10-2021."
+    }
+  },
+  "whoTags": "",
+  "name": "THE HELPING FOUNDATION",
+  "location": "",
+  "englandWalesCharityRegNum": "1104484",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
