@@ -1,13 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Korean Red Cross",
-  "name": "Korean Red Cross",
-  "logo": "https://media.good-loop.com/uploads/standard/korean-red-cross-en-1-17650557682063187989.svg",
-  "id": "korean-red-cross",
-  "suggest": [
-    "Korean Red Cross",
-    "Korean Red Cross"
-  ],
-  "url": "https://www.redcross.or.kr/eng/eng_main/main.do",
+  "logo": "https://media.good-loop.com/uploads/standard/trees-greenville-logo-12377662318957459491.png#ccrop:99",
+  "id": "trees-upstate",
+  "suggest": [],
   "status": "DRAFT"
 }
