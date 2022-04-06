@@ -249,7 +249,7 @@
   "ready": true,
   "modified": true,
   "@id": "the-helping-foundation",
-  "summaryDescription": "The charity describes its \"The charity\u0027s aims and objectives are the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\".",
+  "summaryDescription": "The charity describes it\"The charity\u0027s aims and objectives are the advancement of education according to the tenets of the Orthodox Jewish Faith; the advancement of the Orthodox Jewish Religion and the relief of poverty amongst the elderly or persons in need, hardship or distress in the Jewish Community\".",
   "uptodatedraft": "probably",
   "images": "",
   "stories": "",
@@ -292,5 +292,5 @@
   "englandWalesCharityRegNum": "1104484",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
