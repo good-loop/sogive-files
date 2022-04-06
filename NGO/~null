@@ -1,7 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Black Minds Matter",
+  "name": "Black Minds Matter",
   "logo": "https://media.good-loop.com/uploads/raw/fund-mental-health-workshops-6224880400944149057.svg",
   "id": "mental-health-workshop",
-  "suggest": [],
+  "suggest": [
+    "Black Minds Matter",
+    "Black Minds Matter"
+  ],
   "status": "DRAFT"
 }
