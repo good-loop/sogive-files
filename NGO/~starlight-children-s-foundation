@@ -367,7 +367,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "1732003",
+          "currency": "GBP",
+          "value100p": 1.732003E10,
+          "value": 1732003.0
         }
       ],
       "name": "Provision of children’s services"
