@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Dress for Success",
   "logo": "https://media.good-loop.com/uploads/standard/wk0121-about-us-corporate-responsibility-dress-for-success-logo-3962854122076005754.png#ccrop:89",
   "id": "dress-for-success",
-  "suggest": [],
+  "suggest": [
+    "Dress for Success"
+  ],
   "status": "DRAFT"
 }
