@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Ability Net",
   "id": "abilty-net",
-  "suggest": []
+  "suggest": [
+    "Ability Net"
+  ],
+  "url": "https://abilitynet.org.uk/",
+  "status": "DRAFT"
 }
