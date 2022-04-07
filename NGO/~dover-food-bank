@@ -3,16 +3,16 @@
   "parentCharity": "the-trussell-trust",
   "description": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis. We are part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.",
   "suggest": [
-    "dover-food-bank ",
+    "dover-food-bank",
     "dover-food-bank"
   ],
   "url": "https://dover.foodbank.org.uk/",
-  "name": "dover-food-bank ",
+  "name": "dover-food-bank",
   "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/dover.food.bank-13128168148304859393-17109757349647106766.jpg",
   "@id": "dover-food-bank",
   "lastModified": "2020-08-28T14:11:07Z",
   "id": "dover-food-bank",
   "summaryDescription": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis.",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
