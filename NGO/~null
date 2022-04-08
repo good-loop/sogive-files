@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "tell-japan",
   "id": "tell-japan",
-  "suggest": []
+  "suggest": [
+    "tell-japan"
+  ],
+  "status": "DRAFT"
 }
