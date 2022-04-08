@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Ever Forward Club",
   "name": "Ever Forward Club",
   "id": "everforward",
   "suggest": [
+    "Ever Forward Club",
     "Ever Forward Club"
   ],
   "status": "DRAFT"
