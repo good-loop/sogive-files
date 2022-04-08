@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Re:Coded",
   "name": "Re:Coded",
   "id": "re-coded",
   "suggest": [
+    "Re:Coded",
     "Re:Coded"
   ],
   "status": "DRAFT"
