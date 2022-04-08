@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
   "displayName": "Re:Coded",
-  "name": "Re:Coded",
+  "name": "Re-Coded",
   "logo": "https://media.good-loop.com/uploads/standard/recoded-11699522798006052843.png",
   "id": "re-coded",
   "suggest": [
-    "Re:Coded",
+    "Re-Coded",
     "Re:Coded"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
