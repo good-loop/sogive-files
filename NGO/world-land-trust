@@ -59,11 +59,11 @@
   },
   "noPublicDonations": false,
   "name": "World land trust",
-  "logo": "https://media.good-loop.com/uploads/standard/header-ceo-post-317735542412117304.jpg#ccrop:130",
+  "logo": "https://media.good-loop.com/uploads/standard/WorldLandTrust-1049156717337338582.jpg#ccrop:103",
   "@id": "world-land-trust",
   "suggest": [
     "World land trust",
     "world-land-trust"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
