@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Dave Thomas Foundation ",
+  "displayName": "Dave Thomas Foundation for Adoption",
   "logo": "https://media.good-loop.com/uploads/standard/DTFA-Logo__NEWtag__rgb-1-3262130818262733691.png#ccrop:85",
   "id": "dave-thomas-foundation-for-adoption",
   "suggest": [
-    "Dave Thomas Foundation "
+    "Dave Thomas Foundation for Adoption"
   ],
   "status": "DRAFT"
 }
