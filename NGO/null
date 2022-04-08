@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Tell Japan",
-  "name": "tell-japan",
-  "logo": "https://media.good-loop.com/uploads/standard/tell_japan-14577148106061967801.png#ccrop:142",
-  "id": "tell-japan",
+  "displayName": "Ever Forward Club",
+  "name": "Ever Forward Club",
+  "logo": "https://media.good-loop.com/uploads/standard/everforward-3217573151775866055.png#ccrop:98",
+  "id": "everforward",
   "suggest": [
-    "tell-japan",
-    "Tell Japan"
+    "Ever Forward Club",
+    "Ever Forward Club"
   ],
   "status": "DRAFT"
 }
