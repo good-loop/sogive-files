@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Re:Coded",
   "id": "re-coded",
-  "suggest": []
+  "suggest": [
+    "Re:Coded"
+  ],
+  "status": "DRAFT"
 }
