@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Re:Coded",
-  "name": "Re-Coded",
-  "logo": "https://media.good-loop.com/uploads/standard/recoded-11699522798006052843.png",
-  "id": "re-coded",
+  "displayName": "Tell Japan",
+  "name": "tell-japan",
+  "logo": "https://media.good-loop.com/uploads/standard/tell_japan-14577148106061967801.png#ccrop:142",
+  "id": "tell-japan",
   "suggest": [
-    "Re-Coded",
-    "Re:Coded"
+    "tell-japan",
+    "Tell Japan"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
