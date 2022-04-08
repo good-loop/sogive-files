@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Ever Forward Club",
-  "name": "Ever Forward Club",
-  "logo": "https://media.good-loop.com/uploads/standard/everforward-3217573151775866055.png#ccrop:98",
-  "id": "everforward",
-  "suggest": [
-    "Ever Forward Club",
-    "Ever Forward Club"
-  ],
-  "status": "DRAFT"
+  "id": "dave-thomas-foundation-for-adoption",
+  "suggest": []
 }
