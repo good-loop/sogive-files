@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Ever Forward Club",
-  "name": "Ever Forward Club",
-  "logo": "https://media.good-loop.com/uploads/standard/everforward-3217573151775866055.png#ccrop:98",
-  "id": "everforward",
+  "displayName": "Dave Thomas Foundation for Adoption",
+  "name": "Dave Thomas Foundation for Adoption",
+  "logo": "https://media.good-loop.com/uploads/standard/DTFA-Logo__NEWtag__rgb-1-3262130818262733691.png#ccrop:85",
+  "id": "dave-thomas-foundation-for-adoption",
   "suggest": [
-    "Ever Forward Club",
-    "Ever Forward Club"
+    "Dave Thomas Foundation for Adoption",
+    "Dave Thomas Foundation for Adoption"
   ],
+  "url": "https://www.davethomasfoundation.org/",
   "status": "DRAFT"
 }
