@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Tell Japan",
   "name": "tell-japan",
   "id": "tell-japan",
   "suggest": [
-    "tell-japan"
+    "tell-japan",
+    "Tell Japan"
   ],
   "status": "DRAFT"
 }
