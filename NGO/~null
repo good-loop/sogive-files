@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Everforward",
   "id": "everforward",
-  "suggest": []
+  "suggest": [
+    "Everforward"
+  ],
+  "status": "DRAFT"
 }
