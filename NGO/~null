@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Ability Net",
-  "name": "Ability Net",
-  "logo": "https://media.good-loop.com/uploads/standard/AbilityNet-Logo-Large-13603167448674220257.png",
-  "id": "abilty-net",
-  "suggest": [
-    "Ability Net",
-    "Ability Net"
-  ],
-  "url": "https://abilitynet.org.uk/",
-  "status": "DRAFT"
+  "id": "re-coded",
+  "suggest": []
 }
