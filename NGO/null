@@ -1,7 +1,13 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/Sustainable__Apparel__Coalition__Logo-10130023617090489555.jpg#ccrop:105",
-  "id": "sustainable-apparel-coalition",
-  "suggest": [],
+  "displayName": "Freedom4Girls",
+  "name": "Freedom4Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png",
+  "id": "freedom4girls",
+  "suggest": [
+    "Freedom4Girls",
+    "Freedom4Girls"
+  ],
+  "url": "https://www.freedom4girls.co.uk/",
   "status": "DRAFT"
 }
