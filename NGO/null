@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Dave Thomas Foundation for Adoption",
-  "name": "Dave Thomas Foundation for Adoption",
-  "logo": "https://media.good-loop.com/uploads/standard/DTFA-Logo__NEWtag__rgb-1-3262130818262733691.png#ccrop:85",
-  "id": "dave-thomas-foundation-for-adoption",
+  "displayName": "ART UK",
+  "logo": "https://media.good-loop.com/uploads/standard/ArtUK-9473773167009401615.png#ccrop:95",
+  "id": "art-uk",
   "suggest": [
-    "Dave Thomas Foundation for Adoption",
-    "Dave Thomas Foundation for Adoption"
+    "ART UK"
   ],
-  "url": "https://www.davethomasfoundation.org/",
+  "url": "https://artuk.org/",
   "status": "DRAFT"
 }
