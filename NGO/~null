@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "ART UK",
   "id": "art-uk",
-  "suggest": [],
+  "suggest": [
+    "ART UK"
+  ],
   "status": "DRAFT"
 }
