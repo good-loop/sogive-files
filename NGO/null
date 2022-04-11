@@ -1,12 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "The Dance Company",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/images-4670418529292938148.png#ccrop:70",
-  "id": "the-dance-company",
-  "suggest": [
-    "The Dance Company"
-  ],
-  "url": "https://www.the-dancecompany.com/",
+  "logo": "https://media.good-loop.com/uploads/standard/Sustainable__Apparel__Coalition__Logo-10130023617090489555.jpg#ccrop:105",
+  "id": "sustainable-apparel-coalition",
+  "suggest": [],
   "status": "DRAFT"
 }
