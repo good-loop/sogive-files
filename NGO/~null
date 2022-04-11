@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "The Dance Company",
+  "unlisted": true,
   "id": "the-dance-company",
   "suggest": [
     "The Dance Company"
