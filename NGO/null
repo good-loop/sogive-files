@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "logo": "https://media.good-loop.com/uploads/standard/21731396__10155213288709081__7204735019382001549__o-1631633461944760191.png",
-  "id": "chashama",
+  "displayName": "The Dance Company",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/images-4670418529292938148.png#ccrop:70",
+  "id": "the-dance-company",
   "suggest": [
-    "ChaShaMa"
+    "The Dance Company"
   ],
-  "url": "https://chashama.org/",
+  "url": "https://www.the-dancecompany.com/",
   "status": "DRAFT"
 }
