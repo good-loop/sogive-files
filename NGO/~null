@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "ART UK",
-  "logo": "https://media.good-loop.com/uploads/standard/ArtUK-9473773167009401615.png#ccrop:95",
-  "id": "art-uk",
-  "suggest": [
-    "ART UK"
-  ],
-  "url": "https://artuk.org/",
-  "status": "DRAFT"
+  "id": "chashama",
+  "suggest": []
 }
