@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Freedom4Girls",
   "name": "Freedom4Girls",
   "id": "freedom4girls",
   "suggest": [
+    "Freedom4Girls",
     "Freedom4Girls"
   ],
+  "url": "https://www.freedom4girls.co.uk/",
   "status": "DRAFT"
 }
