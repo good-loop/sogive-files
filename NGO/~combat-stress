@@ -363,7 +363,7 @@
     {
       "outputs": [
         {
-          "number": 11.0,
+          "number": 1000.0,
           "name": "Calls taken"
         }
       ],
