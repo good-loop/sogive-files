@@ -1,7 +1,11 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/center__on__colfax__email__logo-13830741049571603639.png#ccrop:91",
-  "id": "centre-on-colfax",
-  "suggest": [],
+  "displayName": "This Girl Can",
+  "logo": "https://media.good-loop.com/uploads/standard/medium-6500195668157050675.png#ccrop:90",
+  "id": "this-girl-can",
+  "suggest": [
+    "This Girl Can"
+  ],
+  "url": "https://www.thisgirlcan.co.uk/",
   "status": "DRAFT"
 }
