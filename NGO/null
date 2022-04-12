@@ -1,13 +1,14 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
   "@type": "NGO",
-  "displayName": "Freedom4Girls",
-  "name": "Freedom4Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png#ccrop:95",
-  "id": "freedom4girls",
+  "displayName": "Help Musicians UK",
+  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
+  "id": "help-musicians",
   "suggest": [
-    "Freedom4Girls",
-    "Freedom4Girls"
+    "Help Musicians UK"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
-  "status": "DRAFT"
+  "category": "human services",
+  "subcategory": "Social Services",
+  "url": "https://www.helpmusicians.org.uk/",
+  "status": "MODIFIED"
 }
