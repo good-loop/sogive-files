@@ -8,8 +8,9 @@
   "suggest": [
     "Help Musicians UK"
   ],
-  "category": "human services",
+  "category": "arts culture humanities",
   "subcategory": "Social Services",
+  "summaryDescription": "We help at times of crisis, but also at times of opportunity, giving people the extra support they need at a crucial stage that could make or break their career. ",
   "url": "https://www.helpmusicians.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
