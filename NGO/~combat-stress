@@ -441,10 +441,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "101",
+          "raw": "10100000",
           "currency": "GBP",
-          "value100p": 1010000.0,
-          "value": 101.0
+          "value100p": 1.01E11,
+          "value": 1.01E7
         }
       ],
       "name": "Clinical services"
