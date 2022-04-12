@@ -3,7 +3,7 @@
   "@type": "NGO",
   "displayName": "Help Musicians UK",
   "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
-  "description": "Help Musicians is an independent UK charity for professional musicians of all genres, from starting out through to retirement.\n\nWe help at times of crisis, but also at times of opportunity, giving people the extra support they need at a crucial stage that could make or break their career. ",
+  "description": "Help Musicians is an independent UK charity for professional musicians of all genres, from starting out through to retirement.",
   "id": "help-musicians",
   "suggest": [
     "Help Musicians UK"
@@ -11,5 +11,5 @@
   "category": "human services",
   "subcategory": "Social Services",
   "url": "https://www.helpmusicians.org.uk/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
