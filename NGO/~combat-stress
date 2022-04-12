@@ -389,7 +389,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "316,000",
+          "currency": "GBP",
+          "value100p": 3.16E9,
+          "value": 316000.0
         }
       ],
       "name": "Helpline"
