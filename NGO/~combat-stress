@@ -361,7 +361,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 11.0,
+          "name": "Calls taken"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
