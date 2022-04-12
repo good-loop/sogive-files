@@ -1,16 +1,13 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/umsf-logo-5596035992758170407.jpeg#ccrop:90",
   "@type": "NGO",
-  "displayName": "Help Musicians UK",
-  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
-  "description": "Help Musicians is an independent UK charity for professional musicians of all genres, from starting out through to retirement.",
-  "id": "help-musicians",
+  "displayName": "Universal Music UK Sound Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/umsf-logo-5596035992758170407.jpeg#ccrop:90",
+  "id": "universal-music-uk-sound-foundation",
   "suggest": [
-    "Help Musicians UK"
+    "Universal Music UK Sound Foundation"
   ],
   "category": "arts culture humanities",
-  "subcategory": "Performing Arts",
-  "summaryDescription": "We help at times of crisis, but also at times of opportunity, giving people the extra support they need at a crucial stage that could make or break their career. ",
-  "url": "https://www.helpmusicians.org.uk/",
-  "status": "MODIFIED"
+  "url": "https://www.umuksoundfoundation.com/",
+  "status": "DRAFT"
 }
