@@ -483,7 +483,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "510000",
+          "currency": "GBP",
+          "value100p": 5.1E9,
+          "value": 510000.0
         }
       ],
       "name": "Raising awareness and improving access"
