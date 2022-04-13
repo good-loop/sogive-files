@@ -369,6 +369,7 @@
       "outputs": [
         {
           "number": 8900.0,
+          "confidence": "high",
           "name": "Veterans called"
         }
       ],
