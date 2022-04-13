@@ -370,7 +370,8 @@
         {
           "number": 8900.0,
           "confidence": "high",
-          "name": "Veterans called"
+          "name": "Veterans called",
+          "description": "In 2021, Combat Stress reported that 8,900 veterans had received support through their helpline."
         }
       ],
       "data-src": [
