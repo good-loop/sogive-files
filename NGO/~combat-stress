@@ -417,7 +417,12 @@
       "name": "Helpline"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 4900.0,
+          "name": "Veterans supported"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
