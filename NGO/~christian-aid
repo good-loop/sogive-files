@@ -376,7 +376,7 @@
   "whyTags": "Poverty, Disaster response, International aid, Christian",
   "ready": true,
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/CA__logo__Red__RGB__CLIP__DOWN-6317981185146934933.png",
+  "logo": "https://media.good-loop.com/uploads/standard/CA__logo__Red__RGB__CLIP__DOWN-6317981185146934933.png#ccrop:120",
   "@id": "christian-aid",
   "summaryDescription": "Christian Aid is an agency of 41 churches in the UK and Ireland working to combat poverty in the developing world.",
   "uptodatedraft": "probably",
@@ -405,5 +405,5 @@
   "englandWalesCharityRegNum": "1105851",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
