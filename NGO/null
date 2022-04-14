@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Girls on the Run",
-  "name": "girls on the run",
-  "logo": "https://media.good-loop.com/uploads/standard/girls-on-the-run-logo-clipart-15784269300552170752.png",
-  "id": "b",
+  "displayName": "Achilles International",
+  "name": "Achilles International",
+  "logo": "https://media.good-loop.com/uploads/standard/achilles-logo-2025980071436366019.png#ccrop:108",
+  "id": "achilles-international",
   "suggest": [
-    "girls on the run",
-    "Girls on the Run"
+    "Achilles International",
+    "Achilles International"
   ],
-  "url": "https://www.girlsontherun.org/",
+  "url": "https://www.achillesinternational.org/",
   "status": "DRAFT"
 }
