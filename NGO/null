@@ -1,18 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/umsf-5127392149378192854.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/Mental-Health-UK-About-Us-Banner__2021-1704x536-1-15579374485917240115.jpg",
   "@type": "NGO",
-  "displayName": "Universal Music UK Sound Foundation",
-  "description": "Universal Music UK Sound Foundation is an independent music education charity, established in 1997 to celebrate the centenary of EMI Records and now generously supported by Universal Music. The Foundation’s aim is to improve access to music education in the UK \u0026 Ireland.",
+  "displayName": "Mental Health UK",
+  "logo": "https://media.good-loop.com/uploads/standard/MHUK__Logo-Master-RGB-uc-9316841649857642670.svg#ccrop:65",
+  "description": "Mental Health UK brings together the heritage and experience of four charities from across the country who’ve been supporting people with their mental health for nearly 50 years.\n\nWith their local service delivery and national expertise in supporting people whose lives are affected by mental health problems, they have been able to mark a significant footprint in the areas that deeply challenge our mental health and stability.\n\nThey provide support and services for some of the biggest societal challenges that pose a threat to people’s mental health, including money problems, navigating through the system to get the right support, understanding mental health, loneliness and isolation, and resilience in young people.",
+  "id": "mental-health-uk",
   "suggest": [
-    "Universal Music UK Sound Foundation",
-    "Universal Music UK Sound Foundation"
+    "Mental Health UK"
   ],
-  "url": "https://www.umuksoundfoundation.com/",
-  "headerImage": "https://media.good-loop.com/uploads/standard/umsf-5127392149378192854.jpg",
-  "name": "Universal Music UK Sound Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/umsf-logo-5596035992758170407.jpeg#ccrop:90",
-  "id": "universal-music-uk-sound-foundation",
-  "category": "arts culture humanities",
-  "subcategory": "Performing Arts",
-  "status": "DRAFT"
+  "englandWalesCharityRegNum": "1170815",
+  "url": "https://mentalhealth-uk.org/",
+  "status": "PUBLISHED"
 }
