@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Bodies endangered",
   "id": "b",
-  "suggest": []
+  "suggest": [
+    "Bodies endangered"
+  ],
+  "status": "DRAFT"
 }
