@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Achilles International",
   "name": "Achilles International",
   "id": "achilles-international",
   "suggest": [
+    "Achilles International",
     "Achilles International"
   ],
   "status": "DRAFT"
