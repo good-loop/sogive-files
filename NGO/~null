@@ -1,7 +1,5 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/interpride-4133555789620166643.png#ccrop:135",
-  "id": "interpride",
-  "suggest": [],
-  "status": "DRAFT"
+  "id": "special-effect",
+  "suggest": []
 }
