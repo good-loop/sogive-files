@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Special Effect",
+  "name": "Special Effect",
   "id": "special-effect",
-  "suggest": []
+  "suggest": [
+    "Special Effect",
+    "Special Effect"
+  ],
+  "status": "DRAFT"
 }
