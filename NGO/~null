@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Bodies endangered",
+  "displayName": "Girls on the Run",
+  "name": "girls on the run",
   "id": "b",
   "suggest": [
-    "Bodies endangered"
+    "girls on the run",
+    "Girls on the Run"
   ],
   "status": "DRAFT"
 }
