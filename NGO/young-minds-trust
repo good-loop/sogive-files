@@ -452,7 +452,7 @@
   "modified": true,
   "logo": "https://app.sogive.org/uploads/2646944015572784facebook/youngminds-logo-11513681335125578982.svg",
   "@id": "young-minds-trust",
-  "summaryDescription": "YoungMinds seeks to promote young people\u0027s mental health. They work to ensure access to mental health care for young people, provide support for parents and carers, and campaigns within schools and the mental health system.",
+  "summaryDescription": "YoungMinds seeks to promote young people\u0027s mental health. They work to ensure access to mental health care for young people, provide support for parents and carers, and campaign within schools and the mental health system.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/group-against-wall-3-opt-6992073476684871173.jpg",
   "impact": "more-info-needed",
@@ -476,5 +476,5 @@
   "englandWalesCharityRegNum": "1016968",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
