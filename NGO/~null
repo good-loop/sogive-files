@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Girls on the Run",
   "name": "girls on the run",
-  "logo": "https://media.good-loop.com/uploads/standard/girlsontherun-9179114386446021984.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/girlsontherun-9179114386446021984.jpg#ccrop:117",
   "id": "b",
   "suggest": [
     "girls on the run",
     "Girls on the Run"
   ],
   "url": "https://www.girlsontherun.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
