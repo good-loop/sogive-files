@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Girls on the Run",
-  "name": "girls on the run",
-  "logo": "https://media.good-loop.com/uploads/standard/girls-on-the-run-logo-clipart-15784269300552170752.png",
-  "id": "b",
-  "suggest": [
-    "girls on the run",
-    "Girls on the Run"
-  ],
-  "url": "https://www.girlsontherun.org/",
-  "status": "DRAFT"
+  "id": "achilles-international",
+  "suggest": []
 }
