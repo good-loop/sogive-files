@@ -1,16 +1,17 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/umsf-5127392149378192854.jpg",
   "@type": "NGO",
-  "displayName": "Help Musicians UK",
-  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
-  "description": "For 100 years, Help Musicians has been providing help, support and opportunities to empower musicians at all stages of their lives.\n\nWe’re an independent charity which aims to make a meaningful difference to the lives of musicians, offering a wide spectrum of support which includes: Health \u0026 Welfare services, Creative development funding, ground-breaking research, a mental health helpline for the entire music industry and an incredibly popular hearing health scheme which aims to prevent hearing problems that would otherwise bring musicians’ careers to an untimely end.",
-  "id": "help-musicians",
+  "displayName": "Universal Music UK Sound Foundation",
+  "name": "Universal Music UK Sound Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/umsf-logo-5596035992758170407.jpeg#ccrop:90",
+  "description": "Universal Music UK Sound Foundation is an independent music education charity, established in 1997 to celebrate the centenary of EMI Records and now generously supported by Universal Music. The Foundation’s aim is to improve access to music education in the UK \u0026 Ireland.",
+  "id": "universal-music-uk-sound-foundation",
   "suggest": [
-    "Help Musicians UK"
+    "Universal Music UK Sound Foundation",
+    "Universal Music UK Sound Foundation"
   ],
   "category": "arts culture humanities",
   "subcategory": "Performing Arts",
-  "summaryDescription": "",
-  "url": "https://www.helpmusicians.org.uk/",
-  "status": "DRAFT"
+  "url": "https://www.umuksoundfoundation.com/",
+  "status": "MODIFIED"
 }
