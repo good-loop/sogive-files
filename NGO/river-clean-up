@@ -1,0 +1,16 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/RivercleanupBA_sep2020_1-18434864768453734526.jpg",
+  "@type": "NGO",
+  "displayName": "River Cleanup",
+  "name": "River-Clean-Up",
+  "logo": "https://media.good-loop.com/uploads/standard/river-clean-up-300x294-2377391772701462350.png#ccrop:80",
+  "@id": "river-clean-up",
+  "suggest": [
+    "River-Clean-Up",
+    "River Cleanup",
+    "river-clean-up"
+  ],
+  "id": "river-clean-up",
+  "summaryDescription": "River Cleanup is an organization which works towards cleaning up and educating people around the issue of waste as every year, about 8 billion kgs of plastic waste ends up in our seas and oceans, and 80% of that waste ends up there via rivers. River Cleanup has already triggered awareness in 100,000 people worldwide of this plastic problem and actively invests in smart technology to catch floating waste. Levi Strauss \u0026 Co. Europe has partnered with River Cleanup around some employee teambuilding cleanup combined with an information session on how to reduce the use of single-use items in 2020.",
+  "status": "MODIFIED"
+}
