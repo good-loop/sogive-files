@@ -1,11 +1,13 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/my__good__loop__pantene__black__minds__matter__02-10563787546857309667.png",
   "@type": "NGO",
-  "name": " ",
-  "logo": "https://media.good-loop.com/uploads/standard/fund-therapy-sessions-7643935420076147464-15042359494279518315.svg",
-  "id": "therapy-sessions",
+  "displayName": "Climate Action Now",
+  "name": "Climate Action Now - Lisa Blair Sails the World",
+  "logo": "https://media.good-loop.com/uploads/standard/can_lisa_blair-7134116964580482238.png",
+  "id": "climate-action-now",
   "suggest": [
-    " "
+    "Climate Action Now - Lisa Blair Sails the World",
+    "Climate Action Now"
   ],
+  "url": "https://www.canva.com/partnerships/lisa-blair/",
   "status": "DRAFT"
 }
