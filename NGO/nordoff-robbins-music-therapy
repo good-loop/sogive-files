@@ -9,7 +9,7 @@
     "nordoff-robbins-music-therapy"
   ],
   "url": "https://www.nordoff-robbins.org.uk/",
-  "headerImage": "https://media.good-loop.com/uploads/standard/Music__therapy__Banner__Image-765x482-8691583132936127090.jpg",
+  "headerImage": "https://media.good-loop.com/uploads/standard/nrlogoog-14781504525526201034.png",
   "unlisted": true,
   "ready": false,
   "name": "Nordoff Robbins ",
@@ -19,5 +19,5 @@
   "category": "health",
   "subcategory": "Patient and Family Support",
   "summaryDescription": "",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
