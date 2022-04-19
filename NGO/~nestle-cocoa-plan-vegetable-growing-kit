@@ -1,0 +1,38 @@
+{
+  "circleCrop": 150.0,
+  "images": "https://media.good-loop.com/uploads/raw/02__female-cocoa-farmers-11846313618656666234.jpeg",
+  "projects": [],
+  "@type": "NGO",
+  "displayName": "Nestle Cocoa Plan: Vegetable Growing Kit",
+  "parentCharity": "nestle-cocoa-plan",
+  "noPublicDonations": true,
+  "description": "Poverty affects many cocoa-growing households in Côte d\u0027Ivoire. Over-reliance on cocoa makes some farmers vulnerable to global market price fluctuations. In order to increase and help diversify their income, Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** engage women in vegetable growing. The funds are used to equip them with skills, tools, seedlings, and fertilizers in order to grow and sell plantains, rice, and/or peppers. Thanks for helping us make this possible!",
+  "suggest": [
+    "nestle-cocoa-plan:vegetable-growing-kit",
+    "Nestle Cocoa Plan: Vegetable Growing Kit",
+    "nestle-cocoa-plan-vegetable-growing-kit"
+  ],
+  "url": "https://www.nestlecocoaplan.com/page/2",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "kits",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 6190000,
+      "value": "619.0"
+    }
+  },
+  "ready": false,
+  "name": "nestle-cocoa-plan:vegetable-growing-kit",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/ICI__Icon-2278285678010483904.png",
+  "@id": "nestle-cocoa-plan-vegetable-growing-kit",
+  "lastModified": "2020-10-02T12:59:41Z",
+  "summaryDescription": "Nestlé and the ***[International Cocoa Initiative](https://cocoainitiative.org/)*** engage women in vegetable growing. The funds are used to equip them with skills, tools, seedlings, and fertilizers in order to grow and sell plantains, rice, and/or peppers.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
