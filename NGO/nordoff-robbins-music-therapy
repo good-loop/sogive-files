@@ -1,5 +1,6 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/Nordoff-Robbins-10778745869787766013.jpg",
+  "color": "",
   "@type": "NGO",
   "displayName": "Nordoff Robbins",
   "description": "As the UK’s largest music therapy charity, we use music to enrich the lives of people with life-limiting illness, disabilities or feelings of isolation. We are dedicated to investigating the impact that music therapy can have for those affected by life-limiting illness, isolation or disability.",
@@ -9,7 +10,7 @@
     "nordoff-robbins-music-therapy"
   ],
   "url": "https://www.nordoff-robbins.org.uk",
-  "headerImage": "https://media.good-loop.com/uploads/standard/Nordoff-Robbins-12383908214954375202.jpg",
+  "headerImage": "",
   "unlisted": true,
   "ready": false,
   "name": "Nordoff Robbins ",
