@@ -1,5 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Music__therapy__Banner__Image-765x482-1408409056920523864.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/nrlogoog-1270377376831413223.png",
   "@type": "NGO",
   "displayName": "Nordoff Robbins",
   "description": "As the UK’s largest music therapy charity, we use music to enrich the lives of people with life-limiting illness, disabilities or feelings of isolation. We are dedicated to investigating the impact that music therapy can have for those affected by life-limiting illness, isolation or disability.",
@@ -19,5 +19,5 @@
   "category": "health",
   "subcategory": "Patient and Family Support",
   "summaryDescription": "",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
