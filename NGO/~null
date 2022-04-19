@@ -1,14 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/girlsontherun-14169865280119366036.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/my__good__loop__pantene__black__minds__matter__01-9760669583304443564.png",
   "@type": "NGO",
-  "displayName": "Girls on the Run",
-  "name": "girls on the run",
-  "logo": "https://media.good-loop.com/uploads/standard/girlsontherun-9179114386446021984.jpg#ccrop:117",
-  "id": "b",
+  "displayName": "Black Minds Matter",
+  "name": "Black Minds Matter",
+  "logo": "https://media.good-loop.com/uploads/raw/fund-mental-health-workshops-6224880400944149057.svg",
+  "id": "mental-health-workshop",
   "suggest": [
-    "girls on the run",
-    "Girls on the Run"
+    "Black Minds Matter",
+    "Black Minds Matter"
   ],
-  "url": "https://www.girlsontherun.org/",
+  "url": "https://blackmindsmatter.co.uk/",
   "status": "PUBLISHED"
 }
