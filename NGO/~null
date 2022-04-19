@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Climate Action Now - Lisa Blair Sails the World",
   "name": "Climate Action Now - Lisa Blair Sails the World",
   "id": "climate-action-now",
   "suggest": [
+    "Climate Action Now - Lisa Blair Sails the World",
     "Climate Action Now - Lisa Blair Sails the World"
   ],
   "status": "DRAFT"
