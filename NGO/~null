@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Ellen M",
   "id": "ellen-mcarthur-foundation",
-  "suggest": []
+  "suggest": [
+    "Ellen M"
+  ],
+  "status": "DRAFT"
 }
