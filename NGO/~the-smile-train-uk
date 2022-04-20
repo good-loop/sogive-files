@@ -654,7 +654,12 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 15102.0,
+          "name": "Surgery"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
