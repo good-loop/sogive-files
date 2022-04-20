@@ -637,7 +637,15 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "1.261,385",
+        "currency": "",
+        "value100p": 12614.0,
+        "value": 1.261385
+      }
     }
   ],
   "@type": "NGO",
@@ -698,5 +706,5 @@
   "englandWalesCharityRegNum": "1114748",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
