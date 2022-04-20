@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "https://www.fairybricks.org/",
   "id": "fairy-bricks",
-  "suggest": []
+  "suggest": [
+    "https://www.fairybricks.org/"
+  ],
+  "status": "DRAFT"
 }
