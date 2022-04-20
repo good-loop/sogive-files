@@ -1,5 +1,5 @@
 {
-  "notes": "LEGO ",
+  "notes": "LEGO Build To Give partner",
   "@type": "NGO",
   "displayName": "In Kind Direct",
   "name": "In Kind Direct",
@@ -8,5 +8,6 @@
     "In Kind Direct",
     "In Kind Direct"
   ],
+  "url": "https://www.inkinddirect.org/",
   "status": "DRAFT"
 }
