@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Fairy Bricks",
   "name": "Fairy Bricks",
   "id": "fairy-bricks",
   "suggest": [
+    "Fairy Bricks",
     "Fairy Bricks"
   ],
   "status": "DRAFT"
