@@ -1,4 +1,5 @@
 {
+  "notes": "LEGO charity partner",
   "@type": "NGO",
   "displayName": "Fairy Bricks",
   "name": "Fairy Bricks",
@@ -7,5 +8,6 @@
     "Fairy Bricks",
     "Fairy Bricks"
   ],
+  "url": "https://www.fairybricks.org/",
   "status": "DRAFT"
 }
