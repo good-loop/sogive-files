@@ -1,14 +1,13 @@
 {
-  "notes": "LEGO Build To Give partner",
+  "images": "https://media.good-loop.com/uploads/standard/nba__900x600logo__609800-7533886477998772794.png",
   "@type": "NGO",
-  "displayName": "In Kind Direct",
-  "name": "In Kind Direct",
-  "logo": "https://media.good-loop.com/uploads/standard/imageedit__105__3631655540-3717046393660002990.png#ccrop:85",
-  "id": "in-kind-direct",
+  "displayName": "The National Brain Appeal",
+  "logo": "https://media.good-loop.com/uploads/standard/national-brain-appeal-logo-15571612859182782791.jpeg#ccrop:90",
+  "description": "The National Brain Appeal raises funds to advance treatment and research at The National Hospital for Neurology \u0026 Neurosurgery and the UCL Queen Square Institute of Neurology - together known as ‘Queen Square’",
+  "id": "the-national-brain-appeal",
   "suggest": [
-    "In Kind Direct",
-    "In Kind Direct"
+    "The National Brain Appeal"
   ],
-  "url": "https://www.inkinddirect.org/",
-  "status": "DRAFT"
+  "url": "https://www.nationalbrainappeal.org/",
+  "status": "MODIFIED"
 }
