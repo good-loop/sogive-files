@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "In Kind Direct",
+  "name": "In Kind Direct",
   "id": "in-kind-direct",
-  "suggest": []
+  "suggest": [
+    "In Kind Direct",
+    "In Kind Direct"
+  ],
+  "status": "DRAFT"
 }
