@@ -1,14 +1,14 @@
 {
   "notes": "LEGO Build To Give partner",
   "@type": "NGO",
-  "displayName": "Fairy Bricks",
-  "name": "Fairy Bricks",
-  "logo": "https://media.good-loop.com/uploads/standard/imageedit__103__9744210923-13149381866191503658.png",
-  "id": "fairy-bricks",
+  "displayName": "In Kind Direct",
+  "name": "In Kind Direct",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__105__3631655540-3717046393660002990.png",
+  "id": "in-kind-direct",
   "suggest": [
-    "Fairy Bricks",
-    "Fairy Bricks"
+    "In Kind Direct",
+    "In Kind Direct"
   ],
-  "url": "https://www.fairybricks.org/",
+  "url": "https://www.inkinddirect.org/",
   "status": "DRAFT"
 }
