@@ -15,11 +15,11 @@
   "unlisted": false,
   "ready": false,
   "name": "Nordoff Robbins",
-  "logo": "https://media.good-loop.com/uploads/standard/Nordoff-Robbins-9297424363330233711.jpg",
+  "logo": "https://media.good-loop.com/uploads/raw/nr-logo-5613516354627531159.svg#ccrop:85",
   "@id": "nordoff-robbins-music-therapy",
   "id": "nordoff-robbins-music-therapy",
   "category": "health",
   "subcategory": "Patient and Family Support",
   "summaryDescription": "",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
