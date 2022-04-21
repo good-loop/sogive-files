@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Alzheimers Association ",
   "id": "alzheimers-association",
-  "suggest": []
+  "suggest": [
+    "Alzheimers Association "
+  ],
+  "status": "DRAFT"
 }
