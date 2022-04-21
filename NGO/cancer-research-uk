@@ -1,0 +1,309 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 3996.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: The cost shown is based on CR UK funding 4000 researchers for a cost of ?600m, minus some deductions to get to ?400m. It is not clear whether this is right, for example, those 4000 researchers might include some who are partfunded by other organisations, or it may be that there are 4000 \"inhouse\" cruk researchers, but CRUK also funds some researchers who work externally, and some of the cruk funds are also partfunding some other researchers outside of the 4000 mentioned in the accounts. When I contacted CRUK for clarity on this, they were unable to clarify the situation. The cost has been overriden with the same number divided by 250 (estimated number of working days in a year) since it seems more meaningful to convert the figure into a smaller number that\u0027s more accessible. I then rounded the number from ?527.1 to ?500 to avoid a sense of spurious accuracy"
+            }
+          },
+          "confidence": "low",
+          "name": "researcher(s) employed for a day",
+          "start": "2014-04-01T00:00:00Z",
+          "description": "This refers to researchers employed to understand cancer. The cost includes all overheads.",
+          "end": "2015-03-31T00:00:00Z",
+          "costPerBeneficiary": {
+            "@type": "MonetaryAmount",
+            "raw": "500",
+            "value100p": 5000000.0,
+            "value": 500.0
+          },
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "funded XXXX hours/days/weeks of cancer research",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 6.024E12,
+          "value": 6.024E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 7.32E11,
+          "value": 7.32E7
+        },
+        {
+          "year": 2015.0,
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 2.1E10,
+          "value": 2100000.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends64/0001089464_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Currently using the comment in the accounts that say that it employs more than 4000 researchers. This seems to result in a slightly high cost per researcher though, although it might be right. I have asked C R UK about this, and they have not been able to answer the question, so I will stick with this figure. The ?2.1m of income from charitable activities is for cancer information and policy outreach. There is a further ?87m for \"research\", however I\u0027m inclined to think this is probably not income from charitable activites under the sogive definition",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10772176\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3987102"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cancerresearchuk.org/sites/default/files/cruk_ar20_interactive.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "703000000",
+          "currency": "GBP",
+          "value100p": 7.03E12,
+          "value": 7.03E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "98200000",
+          "currency": "GBP",
+          "value100p": 9.82E11,
+          "value": 9.82E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "\n\nAR p. 65, unrestricted funds\nAR p. 19: Cancer Research UK claims that they saved the reserves for implementing the new operating model. Generally, they do not want to extend reserves of more than 3 months of gross expenditure, which would be around £150 million - the Trustees are supposed to take steps to ensure that."
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "234200000",
+        "currency": "",
+        "value100p": 2.342E12,
+        "value": 2.342E8
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 279505.0,
+          "confidence": "medium",
+          "name": "years (singular: year) of life saved",
+          "description": "See editorial, estimate of cost effectiveness for cancer research"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10772176\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3987102"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "447209000",
+          "currency": "GBP",
+          "value100p": 4.47209E12,
+          "value": 4.47209E8
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "AR p. 64"
+        }
+      },
+      "name": "Cancer Research",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10772176\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3987102"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "40291000",
+          "currency": "GBP",
+          "value100p": 4.0291E11,
+          "value": 4.0291E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "AR p. 64"
+        }
+      },
+      "name": "Cancer information and policy outreach"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Cancer Research UK",
+  "description": "Cancer Research UK is a charity funding cancer research in England, Wales and Scotland as well as worldwide with a vision to cure all forms of cancer. They have a history going back over 100 years and aim to increase 10-year cancer survival rates from 50% in 2010 to 75% by 2030. They also provide information about cancer to the general public and influence health policy through campaigning.",
+  "recommendation": "**Summary**\n\n**Cancer Research UK is rated as Not Recommended (tentative) on the SoGive ratings scale.**\n- Cancer Research UK is the largest funder of cancer research in the UK and among the top funders of such research worldwide. It is also one of the largest UK charities by expenditure on charitable activities (\u003e£500m in 2019).\n- Cancer is the world’s second-largest cause of death, after cardiovascular diseases. Relative to the burden of other diseases, cancer already receives a high amount of funding worldwide and in the UK. \n- Medical research in general and cancer research specifically have been shown to have large benefits to society, both by saving lives directly and in economic terms.\n- Based on available research, we estimate the cost per life saved by cancer research to be at least ten times higher than that of more targeted interventions implemented by charities that achieve the SoGive Gold Standard. Therefore, we rate Cancer Research UK as Not Recommended (tentative).\n- There are large remaining uncertainties in our cost-effectiveness estimate, including questions around spill-over effects between medical fields, other countries benefiting from cancer research in the UK, and diminishing returns of cancer research over time. \n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Cancer Research UK does - how they spend your donations**\n\nCancer Research UK is a charity funding cancer research in England, Wales and Scotland as well as worldwide, with a vision to cure all forms of cancer. They have a history going back over 100 years and aim to increase 10-year cancer survival rates from 50% in 2010 to 75% by 2030. They also provide information about cancer to the general public and influence health policy through campaigning.\nCancer is the world’s second-largest cause of death, after cardiovascular diseases. According to the [Global Burden of Disease Study](https://vizhub.healthdata.org/gbd-compare/#) 2019, cancer amounts to 1 in 3 deaths in the UK and 1 in 6 deaths worldwide.\nIn the financial year 2019/20, Cancer Research UK spent £455m on cancer research according to their [annual report](https://www.cancerresearchuk.org/sites/default/files/cruk_ar20_interactive.pdf) (AR, p. 21). Research funding is their main expenditure on charitable activities (92%), with the rest going towards cancer information and policy outreach (AR p. 70).\nTheir research costs can be broken down as follows (AR p. 21):\n- Biomedical research (19%): Understanding the fundamental biology of cancer \n- Research relevant to all types of cancer (18%) \n- Cancer-specific research (45%): About three quarters of this is spent among the top-8 funded cancer types: breast, lung, bowel, pancreatic, leukaemia, prostate, brain, and oesophageal cancer (in this order). The rest is spent on researching more than 100 other types of cancer.\n- Research administration and support costs (9%): For example, this covers grant selection and infrastructure such as IT.\n- Revenue shares (9%): Share of royalties that the charity earns from sales of intellectual property built up through its research and then passes on to other organisations. This income from cancer research forms about 18% of the charity’s overall income (AR, p. 70).\nIn addition to their research funding, Cancer Research UK spent £42m on cancer information and policy outreach in 2019/20. For example, their \"About Cancer\u0027\u0027 website had 35 million views from people seeking information. They also run a moderated online forum with around 5,500 posts monthly.\n\n**Share of overall health-related research in the UK and worldwide**\n\nThe [UK Health Research Analysis 2018](https://hrcsonline.net/reports/analysis-reports/uk-health-research-analysis-2018/) helps to put this into perspective. Looking only at direct research that is specifically cancer-relevant, they calculated £483m total public and charity funding for cancer research in the UK in 2018, out of which Cancer Research UK was by far the largest contributor with £219m (45%), followed by the Medical Research Council (11%) and the Wellcome Trust (10%). Note that these figures are lower compared to the £455m above because they do not include basic biological research, administration and support, and revenue shares. \nAccording to the same report, out of £2.56bn overall public and charity direct spending on health-related research, cancer is the specific health category with the largest funding (19%), followed by infection (14%) and neurological diseases (10%). A large share of the spending (24%) is on general health research, which also includes funds by Cancer Research UK.\nOverall, the UK Health Research Analysis estimates the total UK health research expenditure in 2018 as £8.67bn. This additionally includes £1.4bn in indirect funding, such as for research institutes and other infrastructure, and about £4bn in private sector R\u0026D, mainly by pharmaceutical companies.\nWe estimate current global spending on cancer research to be in the region of £20-30bn, depending on which expenditures are included.\nRelative to the burden of other diseases, cancer receives a high amount of funding. This is shown in this [blog post](http://thinkingaboutcharity.blogspot.com/2017/08/donating-to-medical-research-heres-why.html), which analyses data on different biomedical research areas. \n\n**Benefits of cancer research**\n\nUnderstanding the overall benefits of biomedical research is an active research field in itself. And there are numerous studies of the positive effects of cancer research specifically. \nFor example, a recent [study by Lichtenberg](https://voxeu.org/article/impact-biomedical-innovation-cancer-mortality) finds that \"new drugs launched in 36 countries during 2006-2010 reduced the number of disability-adjusted life years lost to cancer in 2015 in those countries by about 8.7%\". Looking back further, he calculates that if there had been no new drug launches during 1982-2010, there would have been an additional 26 million disability-adjusted life years (DALYs) lost in 2015 in those 36 countries. The DALY is a measure of the burden of disease. One DALY represents the loss of the equivalent of one year of full health (See [this WHO page](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) for more details). \nCancer Research UK estimates in their [facts and figures](https://www.cancerresearchuk.org/health-professional/cancer-statistics/mortality/all-cancers-combined#heading-One) that 832,000 cancer deaths were avoided in the UK between the 1980s and 2016 because of improvements in cancer research worldwide. \nA [study by Glover et al](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-99) in 2014 finds an overall internal rate of return of 10%, from an estimated total of £15bn in cancer-related research from 1970 to 2009 in the UK, with smoking reduction being a major source of improvements. This means that one pound spent on such research yields an economic benefit equivalent to 10p paid out in perpetuity. In another study, they conclude comparable results for research in cardiovascular diseases and mental health.\nThese findings align with [this post](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html) which concludes that the impact of medical research is variable, but potentially high.\n\n**Cost-effectiveness analysis - how does Cancer Research UK compare to the most cost-effective charities?**\n\nAfter a review of the work of Cancer Research UK under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as saving someone’s life for £5,000, which is similar to saving one quality-adjusted life year for £100-200) and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our rankings, click [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar)\n\nOne issue with estimating the cost-effectiveness of Cancer Research UK is that the potential benefit of research is infinite, because in theory it could benefit humanity forever. Realistically, though, research becomes obsolete because of two reasons: \n- First, there is a degree of duplication so that eventually, the same results would have been arrived at regardless of any specific research. \n- Second, our environment changes and makes research results irrelevant. Examples include a cancer vaccine that makes certain types of treatment improvements obsolete or a new disease that crowds out other diseases as a cause of death.\n\nTherefore, we estimate the lives saved through cancer research over a limited period of years in which this research stays relevant.\n\nAs the basis for our estimate, we choose the study by Glover et al. mentioned above. However, their results are in line with findings from other estimates and studies that we know of ([Lichtenberg](https://voxeu.org/article/impact-biomedical-innovation-cancer-mortality) 2019, [Joshi](https://thinkingaboutcharity.blogspot.com/2019/08/is-biomedical-research-good-cause-area.html) 2019, [Karnofsky](https://www.openphilanthropy.org/blog/returns-life-sciences-funding) 2014). Glover et al. find that for the UK, \"expressed in 2011/12 prices, total expenditure on cancer-related research from 1970 to 2009 was £15bn. Over the period 1991-2010, the interventions included in the study produced 5.9m quality-adjusted life years (QALYs)\", implying a cost of about £2,500 per QALY gained. [One QALY is equivalent to one year of life in perfect health](https://en.wikipedia.org/wiki/Quality-adjusted_life_year), so this is saying that every £2,500 spent on cancer research will, on average, result in one extra year of healthy life.\n\nThis figure does not include the potential benefit of those 40 years of research for the next 20 years from 2011 to 2030. We estimate an additional 3.5m QALYs will be saved during this time and with this the cost per QALY drops to about £1,600. However, this is still around 10x  less cost-effective than our benchmark of £100-200 per QALY saved.\nWe conclude that the benefits of cancer research are well established, but that the estimated cost per life saved is likely to be at least one order of magnitude higher (i.e. at least 10 times higher) than that of more targeted interventions implemented by charities that achieve the SoGive Gold Standard.\nThere are large remaining uncertainties in our estimates of cost effectiveness, including the following:\n- The cost we calculated does not account for lives saved worldwide through research undertaken in the UK. We estimate this could lower costs per life saved by a factor of between 5 and 20. Conversely, the benefit of research completed outside the UK to patients in the UK is already excluded in the analysis by Glover et al.\n- Topics relevant to cancer - cell biology, genetics, the immune system - are also relevant to understanding other diseases, so cancer research may have ‘spillover’ effects which benefit treatments of other diseases. However, by the same logic, some of the improvements in cancer treatments are likely due to research that was originally funded for other (non-cancer) purposes. \n- There are strong indicators that cancer research shows diminishing returns. This [study](https://web.stanford.edu/~chadj/IdeaPF.pdf) from 2020 finds that the effectiveness of cancer research has declined by a factor of 8 between 1985 and 2006 (p. 24). \n\n**Conclusion**\n\nBased on the above, we rate Cancer Research UK as Not Recommended (tentative) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective, and/or\n- We do have some indication of cost-effectiveness, and believe that the charity’s cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "whyTags": "Cancer, Health",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/cancer-research-uk-logo-vector-9875106092719643323.png#ccrop:90",
+  "@id": "cancer-research-uk",
+  "summaryDescription": "Cancer Research UK is the largest funder of cancer research in the UK and among the top funders of such research worldwide.",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/raw/1__2hO4ZJvYY9xrCUqcIfsZoQ-7957036313561483287.jpeg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Cancer research UK",
+    "Cancer Research UK",
+    "cancer-research-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "cancer-research-uk",
+      "name": "years (singular: year) of life saved",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 16000035,
+        "value": "1600.0035777535286301993000"
+      },
+      "n": 1.0
+    }
+  ],
+  "communicationsWithCharity": "Request sent via website on 25 Jan 2016 asking for a conversation to talk about how they look at impact. Site says they will reply in 5 days. Reply sent on 15th Feb (while I was travelling, so I didn\u0027t see it for a while). The response included several paragraphs, but not one referred to how they assess impact, and I infer that they do not do this. Response email sent on 6th Mar asking about how to compare costs with number of researchers. The people I spoke with demonstrated themselves to be poorly equipped to deal with these questions.",
+  "url": "https://www.cancerresearchuk.org/",
+  "howTags": "Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "years (singular: year) of life saved",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 16000035,
+      "value": "1600.0035777535286301993000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Cancer research UK",
+  "lastModified": "2020-10-15T16:42:17Z",
+  "englandWalesCharityRegNum": "1089464",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
