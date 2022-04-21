@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Alzheimer\u0027s Association ",
   "name": " Alzheimer\u0027s Association ",
-  "logo": "https://media.good-loop.com/uploads/standard/0b732965-68d5-4fa0-b7a0-e69ee7eeb2a5-14422308486720900897.png#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/0b732965-68d5-4fa0-b7a0-e69ee7eeb2a5-14422308486720900897.png#ccrop:90_noscale",
   "id": "alzheimers-association",
   "suggest": [
     " Alzheimer\u0027s Association ",
     "Alzheimer\u0027s Association "
   ],
   "url": "https://www.alz.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
