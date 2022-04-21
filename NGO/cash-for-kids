@@ -1,0 +1,186 @@
+{
+  "scotlandCharityRegNum": "SC041421, SC003334",
+  "images": "",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 413000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.3383725E11,
+          "value": 1.3383725E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends62/0001122062_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "No of beneficiaries \u003d 413000 according to accounts, but strangely the website says ?more than 300,000? (http://www.cashforkids.uk.com/mission/ ) In a literal sense these are not inconsistent, but it does seem a bit odd. I suspect it?s nothing to worry about",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": "UK"
+    },
+    {
+      "outputs": [
+        {
+          "number": 548102.0,
+          "confidence": "low",
+          "name": "Children supported",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "214000000",
+            "currency": "",
+            "value100p": 2.14E12,
+            "value": 2.14E8
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "12020239",
+          "currency": "GBP",
+          "value100p": 1.2020239E11,
+          "value": 1.2020239E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3191930",
+          "currency": "GBP",
+          "value100p": 3.19193E10,
+          "value": 3191930.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "9733911",
+          "currency": "GBP",
+          "value100p": 9.733911E10,
+          "value": 9733911.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "3439627",
+        "currency": "",
+        "value100p": 3.439627E10,
+        "value": 3439627.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "Cash for Kids works with grass-roots organisations that aim to make a difference to young lives, directly supporting families who often have nowhere else to go.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "cash-for-kids",
+      "name": "",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 324061,
+        "value": "32.406113801452787647025"
+      },
+      "n": 1.0
+    }
+  ],
+  "suggest": [
+    "Cash for kids",
+    "cash-for-kids"
+  ],
+  "url": "https://cashforkids.org.uk/",
+  "whyTags": "Children, Poverty, Disability, Climate Change",
+  "howTags": "Makes grants to organizations, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 324061,
+      "value": "32.406113801452787647025"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Cash for kids",
+  "logo": "https://media.good-loop.com/uploads/raw/Cash-for-Kids-8524936875409258943.png",
+  "@id": "cash-for-kids",
+  "englandWalesCharityRegNum": "1122062",
+  "summaryDescription": "Cash for Kids supports children and young people affected by poverty, abuse, neglect, life-limiting illness and those who have additional needs.",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
