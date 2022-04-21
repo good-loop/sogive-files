@@ -2,14 +2,14 @@
   "images": "https://media.good-loop.com/uploads/standard/nba__900x600logo__609800-7533886477998772794.png",
   "@type": "NGO",
   "displayName": "The National Brain Appeal",
-  "name": " The National Brain Appeal",
+  "name": "The National Brain Appeal",
   "logo": "https://media.good-loop.com/uploads/standard/national-brain-appeal-logo-15571612859182782791.jpeg#ccrop:90",
   "description": "The National Brain Appeal raises funds to advance treatment and research at The National Hospital for Neurology \u0026 Neurosurgery and the UCL Queen Square Institute of Neurology - together known as ‘Queen Square’",
   "id": "the-national-brain-appeal",
   "suggest": [
-    " The National Brain Appeal",
+    "The National Brain Appeal",
     "The National Brain Appeal"
   ],
   "url": "https://www.nationalbrainappeal.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
