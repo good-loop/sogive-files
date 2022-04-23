@@ -473,7 +473,12 @@
       "name": "Education"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 270000.0,
+          "name": "people helped"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
