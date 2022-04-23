@@ -357,14 +357,6 @@
       "inputs": [
         {
           "@type": "Money",
-          "name": "annualCosts",
-          "raw": "1256241",
-          "currency": "GBP",
-          "value100p": 1.256241E10,
-          "value": 1256241.0
-        },
-        {
-          "@type": "Money",
           "name": "tradingCosts",
           "raw": "0",
           "currency": "GBP",
@@ -374,6 +366,14 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
           "raw": "0",
           "currency": "GBP",
           "value100p": 0.0,
@@ -425,5 +425,5 @@
   "englandWalesCharityRegNum": "1069204",
   "uk_giftaid": true,
   "whereTags": "Developing world",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
