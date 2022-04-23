@@ -431,7 +431,12 @@
       "name": "Family strengthening programs"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 199000.0,
+          "name": "children and young people educated"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
