@@ -391,7 +391,8 @@
     {
       "outputs": [
         {
-          "name": "eople helped"
+          "number": 315000.0,
+          "name": "People helped"
         }
       ],
       "data-src": [
