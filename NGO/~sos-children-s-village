@@ -535,7 +535,7 @@
     {
       "outputs": [
         {
-          "name": "66,000 children is provided a home"
+          "name": "children cared for"
         }
       ],
       "data-src": [
@@ -601,7 +601,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "sos-children-s-village",
-      "name": "66,000 children is provided a home",
+      "name": "children cared for",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -618,7 +618,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "66,000 children is provided a home",
+    "name": "children cared for",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
