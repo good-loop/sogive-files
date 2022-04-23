@@ -420,41 +420,6 @@
           "currency": "GBP"
         }
       ],
-      "name": "Care and accommodation to children",
-      "isRep": true
-    },
-    {
-      "outputs": [],
-      "data-src": [
-        {
-          "@type": "Citation",
-          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
-        }
-      ],
-      "year": 2020.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
       "name": "Family strengthening programs"
     },
     {
@@ -558,6 +523,40 @@
         }
       ],
       "name": "Emergency response"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Care and accommodation for children"
     }
   ],
   "@type": "NGO",
@@ -587,7 +586,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Care and accommodation to children 2020.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "ready": {
