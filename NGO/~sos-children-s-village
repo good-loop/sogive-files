@@ -417,7 +417,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "138000000",
+          "currency": "GBP",
+          "value100p": 1.38E12,
+          "value": 1.38E8
         }
       ],
       "name": "Family strengthening programs"
@@ -525,7 +528,11 @@
       "name": "Emergency response"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "66,000 children is provided a home"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -585,12 +592,36 @@
     "SOS Children\u0027s Villages",
     "sos-children-s-village"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sos-children-s-village",
+      "name": "66,000 children is provided a home",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 6750000000000,
+        "value": "675000000",
+        "name": "projectCosts"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.soschildrensvillages.org.uk",
   "howTags": "Direct Work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Care and accommodation for children 2020.0]"
+    "name": "66,000 children is provided a home",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 6750000000000,
+      "value": "675000000",
+      "name": "projectCosts"
+    }
   },
   "meta": {
     "ready": {
