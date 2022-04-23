@@ -420,7 +420,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "Care and accommodation to children"
+      "name": "Care and accommodation to children",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -586,7 +587,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "No Outputs! for project Project[Care and accommodation to children 2020.0]"
   },
   "meta": {
     "ready": {
