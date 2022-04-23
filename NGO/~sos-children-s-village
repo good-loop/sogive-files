@@ -366,12 +366,18 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "currency": "GBP"
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
         },
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
         }
       ],
       "name": "overall"
@@ -419,5 +425,5 @@
   "englandWalesCharityRegNum": "1069204",
   "uk_giftaid": true,
   "whereTags": "Developing world",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
