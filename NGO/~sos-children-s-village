@@ -515,7 +515,12 @@
       "name": "Healthcare"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 240000.0,
+          "name": "people helped"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
