@@ -543,7 +543,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "13000000",
+          "currency": "GBP",
+          "value100p": 1.3E11,
+          "value": 1.3E7
         }
       ],
       "name": "Emergency response"
