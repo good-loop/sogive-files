@@ -553,10 +553,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "675",
+          "raw": "675000000",
           "currency": "GBP",
-          "value100p": 6750000.0,
-          "value": 675.0
+          "value100p": 6.75E12,
+          "value": 6.75E8
         }
       ],
       "name": "Care and accommodation for children",
