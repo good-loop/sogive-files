@@ -535,6 +535,7 @@
     {
       "outputs": [
         {
+          "number": 66000.0,
           "name": "children provided a home"
         }
       ],
@@ -606,9 +607,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 6750000000000,
-        "value": "675000000",
-        "name": "projectCosts"
+        "value100p": 102272727,
+        "value": "10227.272727272726925000000"
       },
       "n": 1.0
     }
@@ -623,9 +623,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 6750000000000,
-      "value": "675000000",
-      "name": "projectCosts"
+      "value100p": 102272727,
+      "value": "10227.272727272726925000000"
     }
   },
   "meta": {
