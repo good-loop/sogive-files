@@ -349,6 +349,32 @@
         }
       ],
       "name": "Emergency Response"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1256241",
+          "currency": "GBP",
+          "value100p": 1.256241E10,
+          "value": 1256241.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -378,7 +404,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2018.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "meta": {
     "ready": {
@@ -393,5 +419,5 @@
   "englandWalesCharityRegNum": "1069204",
   "uk_giftaid": true,
   "whereTags": "Developing world",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
