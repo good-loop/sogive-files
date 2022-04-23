@@ -459,7 +459,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "children and young people ",
+          "raw": "children and young people educated",
           "currency": "GBP",
           "value100p": 0.0,
           "error": {}
