@@ -389,7 +389,11 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "eople helped"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
