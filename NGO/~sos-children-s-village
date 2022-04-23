@@ -520,6 +520,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -536,6 +542,11 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
           "currency": "GBP"
         }
       ],
