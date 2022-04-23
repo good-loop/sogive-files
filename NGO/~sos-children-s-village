@@ -501,7 +501,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "14000000",
+          "currency": "GBP",
+          "value100p": 1.4E11,
+          "value": 1.4E7
         }
       ],
       "name": "Healthcare"
