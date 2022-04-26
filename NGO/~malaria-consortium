@@ -419,7 +419,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -459,14 +460,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": " children (singular: child) receiving SMC malaria treatment",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 75000,
-      "value": "7.5"
-    }
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "whoTags": "Children",
   "meta": {
@@ -478,5 +472,5 @@
   "englandWalesCharityRegNum": "1099776",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
