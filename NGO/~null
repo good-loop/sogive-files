@@ -1,18 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
   "@type": "NGO",
-  "displayName": "Help Musicians UK",
-  "description": "For 100 years, Help Musicians has been providing help, support and opportunities to empower musicians at all stages of their lives.\n\nWe’re an independent charity which aims to make a meaningful difference to the lives of musicians, offering a wide spectrum of support which includes: Health \u0026 Welfare services, Creative development funding, ground-breaking research, a mental health helpline for the entire music industry and an incredibly popular hearing health scheme which aims to prevent hearing problems that would otherwise bring musicians’ careers to an untimely end.",
-  "suggest": [
-    "Help Musicians UK"
-  ],
-  "url": "https://www.helpmusicians.org.uk/",
-  "whyTags": "arts culture humanities",
-  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
-  "id": "help-musicians",
-  "category": "arts culture humanities",
-  "subcategory": "Performing Arts",
-  "summaryDescription": "",
-  "englandWalesCharityRegNum": "228089",
-  "status": "PUBLISHED"
+  "id": "the-garden-of-dreams-foundation",
+  "suggest": []
 }
