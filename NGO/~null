@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Garden of Dreams Foundation",
   "id": "the-garden-of-dreams-foundation",
-  "suggest": []
+  "suggest": [
+    "Garden of Dreams Foundation"
+  ],
+  "status": "DRAFT"
 }
