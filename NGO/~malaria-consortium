@@ -424,7 +424,7 @@
       "n": 1.0
     }
   ],
-  "url": "http://www.malariaconsortium.org/",
+  "url": "https://www.malariaconsortium.org/",
   "howTags": "Direct Work",
   "recommended": true,
   "simpleImpact": {
@@ -449,5 +449,5 @@
   "englandWalesCharityRegNum": "1099776",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
