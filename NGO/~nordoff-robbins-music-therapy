@@ -16,6 +16,11 @@
   "headerImage": "https://media.good-loop.com/uploads/standard/Music__therapy__Banner__Image-765x482-9737239858550155308.jpg#noscale",
   "unlisted": false,
   "ready": false,
+  "meta": {
+    "englandWalesCharityRegNum": {
+      "notes": "https://register-of-charities.charitycommission.gov.uk/charity-details/?regid\u003d280960\u0026subid\u003d0"
+    }
+  },
   "name": "Nordoff Robbins",
   "logo": "https://media.good-loop.com/uploads/raw/nr-logo-5613516354627531159.svg#ccrop:85",
   "@id": "nordoff-robbins-music-therapy",
