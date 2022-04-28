@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Garden of Dreams Foundation",
-  "name": "Garden of Dreams Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/god-1216064789473727510.png#ccrop:66",
-  "id": "the-garden-of-dreams-foundation",
-  "suggest": [
-    "Garden of Dreams Foundation",
-    "Garden of Dreams Foundation"
-  ],
-  "url": "",
-  "status": "DRAFT"
+  "id": "native-forest-restoration-trust",
+  "suggest": []
 }
