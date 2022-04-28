@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Native Forest Restoration Trust",
   "id": "native-forest-restoration-trust",
-  "suggest": []
+  "suggest": [
+    "Native Forest Restoration Trust"
+  ],
+  "status": "DRAFT"
 }
