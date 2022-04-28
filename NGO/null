@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Garden of Dreams Foundation",
-  "name": "Garden of Dreams Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/god-1216064789473727510.png#ccrop:66",
-  "id": "the-garden-of-dreams-foundation",
+  "displayName": "Native Forest Restoration Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/nfrtlogo__sidetypo__01-5784420233606838695.png#ccrop:90",
+  "id": "native-forest-restoration-trust",
   "suggest": [
-    "Garden of Dreams Foundation",
-    "Garden of Dreams Foundation"
+    "Native Forest Restoration Trust"
   ],
-  "url": "",
+  "url": "https://www.nfrt.org.nz/",
   "status": "DRAFT"
 }
