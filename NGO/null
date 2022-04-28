@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/UxPxbvoI__400x400-2832348669882937848.png#ccrop:105",
-  "id": "crisis-text-line",
-  "suggest": [],
+  "name": "The JED Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/3709764924182054425__mq-11545277055659432626.jpg#ccrop:112",
+  "id": "jed",
+  "suggest": [
+    "The JED Foundation"
+  ],
   "status": "DRAFT"
 }
