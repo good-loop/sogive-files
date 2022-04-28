@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "name": "The JED Foundation",
-  "id": "jed",
-  "suggest": [
-    "The JED Foundation"
-  ],
-  "status": "DRAFT"
+  "id": "national-alliance-mental-health",
+  "suggest": []
 }
