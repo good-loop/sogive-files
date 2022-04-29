@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Swiss Cetacean Society",
   "id": "swiss-cetacean-society",
-  "suggest": []
+  "suggest": [
+    "Swiss Cetacean Society"
+  ],
+  "status": "DRAFT"
 }
