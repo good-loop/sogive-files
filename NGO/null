@@ -7,7 +7,7 @@
     "Universal Music UK Sound Foundation",
     "Universal Music UK Sound Foundation"
   ],
-  "url": "https://www.umuksoundfoundation.com/",
+  "url": "https://www.umuksoundfoundation.com",
   "whyTags": "arts culture humanities",
   "headerImage": "https://media.good-loop.com/uploads/standard/UU82-9112856095519289187.jpg",
   "meta": {
@@ -21,5 +21,5 @@
   "category": "arts culture humanities",
   "subcategory": "Performing Arts",
   "englandWalesCharityRegNum": "1104027",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
