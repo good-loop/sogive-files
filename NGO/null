@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": "The JED Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/3709764924182054425__mq-11545277055659432626.jpg#ccrop:112",
-  "id": "jed",
-  "suggest": [
-    "The JED Foundation"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/DG-Horizontal-Logo-2021-e1610072572325-13795188649769986044.png#ccrop:91",
+  "id": "delivering-good",
+  "suggest": [],
   "status": "DRAFT"
 }
