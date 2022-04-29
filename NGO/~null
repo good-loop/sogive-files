@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/DG-Horizontal-Logo-2021-e1610072572325-13795188649769986044.png#ccrop:96",
   "id": "delivering-good",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
