@@ -1,7 +1,25 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/UU82-7582076865583283558.jpg",
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/DG-Horizontal-Logo-2021-e1610072572325-13795188649769986044.png#ccrop:96",
-  "id": "delivering-good",
-  "suggest": [],
-  "status": "DRAFT"
+  "displayName": "Universal Music UK Sound Foundation",
+  "description": "Universal Music UK Sound Foundation is an independent music education charity, established in 1997 to celebrate the centenary of EMI Records and now generously supported by Universal Music. The Foundation’s aim is to improve access to music education in the UK \u0026 Ireland.",
+  "suggest": [
+    "Universal Music UK Sound Foundation",
+    "Universal Music UK Sound Foundation"
+  ],
+  "url": "https://www.umuksoundfoundation.com/",
+  "whyTags": "arts culture humanities",
+  "headerImage": "https://media.good-loop.com/uploads/standard/umsf-5127392149378192854.jpg",
+  "meta": {
+    "englandWalesCharityRegNum": {
+      "notes": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/3077184/charity-overview"
+    }
+  },
+  "name": "Universal Music UK Sound Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/umsf-logo-5596035992758170407.jpeg#ccrop:90",
+  "id": "universal-music-uk-sound-foundation",
+  "category": "arts culture humanities",
+  "subcategory": "Performing Arts",
+  "englandWalesCharityRegNum": "1104027",
+  "status": "PUBLISHED"
 }
