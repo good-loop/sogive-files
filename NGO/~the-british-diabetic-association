@@ -854,6 +854,7 @@
   "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/Diabetes-UK-runner-resize-226577642632093666.jpg",
   "noPublicDonations": false,
   "impact": "low",
+  "confidence": "medium",
   "suggest": [
     "The British Diabetic Association",
     "Diabetes UK",
