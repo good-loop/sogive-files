@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/ford-foundation-logo-16897373389924178369.png#ccrop:120",
   "id": "ford-foundation",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
