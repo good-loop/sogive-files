@@ -1,11 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Swiss Cetacean Society",
-  "logo": "https://media.good-loop.com/uploads/standard/b854db__5efac0951cb14ac39fb9b37bcfac22f0__mv2-15023183245887790689.png#ccrop:95",
-  "id": "swiss-cetacean-society",
-  "suggest": [
-    "Swiss Cetacean Society"
-  ],
-  "url": "https://en.swisscetaceansociety.org/",
-  "status": "PUBLISHED"
+  "logo": "https://media.good-loop.com/uploads/standard/ford-foundation-logo-16897373389924178369.png#ccrop:120",
+  "id": "ford-foundation",
+  "suggest": [],
+  "status": "DRAFT"
 }
