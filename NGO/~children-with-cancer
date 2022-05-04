@@ -684,7 +684,8 @@
           "value": 5276839.0
         }
       ],
-      "name": "Research into Treatment"
+      "name": "Research into Treatment",
+      "isRep": true
     },
     {
       "outputs": [
@@ -781,12 +782,36 @@
     "Children with Cancer",
     "children-with-cancer"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "children-with-cancer",
+      "name": ". ",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 52768390000,
+        "value": "5276839",
+        "name": "projectCosts"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.childrenwithcancer.org.uk/",
   "howTags": "Research, Grants, Awareness",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Welfare 2017.0]"
+    "name": ". ",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 52768390000,
+      "value": "5276839",
+      "name": "projectCosts"
+    }
   },
   "whoTags": "",
   "meta": {
