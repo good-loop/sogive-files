@@ -80,6 +80,7 @@
       "value": "1.0"
     }
   },
+  "headerImage": "https://media.good-loop.com/uploads/standard/CATF__Home__SocialImage__1-9498622225639021753.jpg",
   "ready": false,
   "name": "Clean Air Task Force",
   "modified": true,
@@ -87,5 +88,5 @@
   "@id": "clean-air-task-force",
   "summaryDescription": "Clean Air Task Force (CATF) tackles climate change, researching and pushing for the changes in technologies and policies needed to get to zero-emissions at an affordable cost.",
   "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
