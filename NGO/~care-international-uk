@@ -263,6 +263,37 @@
         }
       ],
       "name": "Humanitarian aid"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "17262000",
+          "currency": "GBP",
+          "value100p": 1.7262E11,
+          "value": 1.7262E7
+        }
+      ],
+      "name": "Development aid"
     }
   ],
   "color": "#f9781c",
