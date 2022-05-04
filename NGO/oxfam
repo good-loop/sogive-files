@@ -572,6 +572,7 @@
   "whyTags": "International aid, Poverty, Disaster response",
   "UNSDG": "1",
   "imageCaption": "s",
+  "headerImage": "https://media.good-loop.com/uploads/standard/Our-work-page-banner-16394223251580150789.png",
   "ready": true,
   "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Oxfam%20logo.png?raw\u003dtrue#ccrop:75",
   "modified": true,
@@ -587,6 +588,21 @@
   "suggest": [
     "Oxfam",
     "oxfam"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "oxfam",
+      "name": "people (singular: person) given potentially life-saving assistance",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 160000,
+        "value": "16.0",
+        "name": ""
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.oxfam.org.uk/",
   "howTags": "Direct Work, Campaigning",
