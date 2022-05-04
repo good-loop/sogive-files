@@ -657,7 +657,9 @@
           "name": ". "
         },
         {
+          "confidence": "medium",
           "name": "years (singular: year) of healthy life saved",
+          "description": "This is based on SoGive\u0027s research into the cost-effectiveness of ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
