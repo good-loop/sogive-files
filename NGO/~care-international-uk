@@ -294,6 +294,37 @@
         }
       ],
       "name": "Development aid"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "618000",
+          "currency": "GBP",
+          "value100p": 6.18E9,
+          "value": 618000.0
+        }
+      ],
+      "name": "Advocacy"
     }
   ],
   "color": "#f9781c",
