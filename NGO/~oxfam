@@ -572,7 +572,7 @@
   "whyTags": "International aid, Poverty, Disaster response",
   "UNSDG": "1",
   "imageCaption": "s",
-  "headerImage": "https://media.good-loop.com/uploads/standard/Our-work-page-banner-8202765944933236008.png",
+  "headerImage": "",
   "ready": true,
   "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Oxfam%20logo.png?raw\u003dtrue#ccrop:75",
   "modified": true,
@@ -638,5 +638,5 @@
   "englandWalesCharityRegNum": "202918",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
