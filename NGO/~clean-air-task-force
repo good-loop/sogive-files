@@ -86,6 +86,7 @@
   "modified": true,
   "logo": "https://app.sogive.org/uploads/anon/CATF_logo-6779620696483837886.jpg",
   "@id": "clean-air-task-force",
+  "category": "environment",
   "summaryDescription": "Clean Air Task Force (CATF) tackles climate change, researching and pushing for the changes in technologies and policies needed to get to zero-emissions at an affordable cost.",
   "uptodatedraft": "probably",
   "status": "PUBLISHED"
