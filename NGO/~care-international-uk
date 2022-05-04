@@ -1,0 +1,291 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 5.58E7,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: This is a high-level estimate, averaging out the effect of lots of projects"
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) helped",
+          "start": "2014-07-01T00:00:00Z",
+          "description": "Care helps people through fighting poverty or disaster relief",
+          "end": "2015-06-30T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You helped XXXX people through development and humanitarian relief programmes. Well done!",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "annualCosts",
+          "raw": "728028549",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 7.28028549E12,
+          "value": 7.28028549E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2014-07-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-06-30T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-07-01",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends06/0000292506_AC_20180630_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.careinternational.org.uk/who-we-are/our-impact"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.care-international.org/annual-report/2017/en/"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "ready": false,
+      "meta": {
+        "inputs_meta": {
+          "notes": "Figures come from Care International Confederation Annual Report.\n\nFigures reported in Euros and converted to GBP at the rate of:\n1 GBP \u003d 1.11427 EUR\n\nTrading costs are likely not zero, but are only provided for the UK arm. "
+        }
+      },
+      "analysisComment": "International accounts used as UK arm seems to fundraise for centralised body that implements programmes. Cites global accounts in Euros, so exchange rate applied",
+      "name": "overall",
+      "analyst": "Chris \u0026 Sanjay",
+      "location": "",
+      "end": "2018-06-30",
+      "end_raw": "2018-06-30"
+    },
+    {
+      "outputs": [
+        {
+          "number": 9900000.0,
+          "confidence": "low",
+          "name": "people (singular: person) helped",
+          "description": "This refers to helping disaster or crisis-affected people with life-saving humanitarian assistance."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends06/0000292506_AC_20180630_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.careinternational.org.uk/who-we-are/our-impact"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.care-international.org/annual-report/2017/en/"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "269126332",
+          "currency": "GBP",
+          "value100p": 2.69126332E12,
+          "value": 2.69126332E8
+        }
+      ],
+      "name": "Humanitarian Response",
+      "start": "2017-07-01",
+      "end": "2018-06-30",
+      "end_raw": "2018-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.care-international.org/annual-report/2017/en/"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "357986124",
+          "currency": "GBP",
+          "value100p": 3.57986124E12,
+          "value": 3.57986124E8
+        }
+      ],
+      "name": "Development",
+      "start": "2017-07-01",
+      "end": "2018-06-30",
+      "end_raw": "2018-06-30"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "71117000",
+          "currency": "GBP",
+          "value100p": 7.1117E11,
+          "value": 7.1117E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "color": "#f9781c",
+  "@type": "NGO",
+  "displayName": "Care",
+  "whyTags": "International aid, Poverty, Disaster response",
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/care-logo.png",
+  "modified": false,
+  "@id": "care-international-uk",
+  "summaryDescription": "CARE is a humanitarian organization providing disaster relief and fighting poverty around the world",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/justinbartongmail.comemail/OG-image-M-1680708662x630-2-15052604206016271345.jpg",
+  "noPublicDonations": false,
+  "suggest": [
+    "Care international UK",
+    "Care",
+    "care-international-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "care-international-uk",
+      "name": "people (singular: person) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 130471,
+        "value": "13.047106612903225863858882"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.careinternational.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 130471,
+      "value": "13.047106612903225863858882"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Care international UK",
+  "lastModified": "2020-10-28T13:10:26Z",
+  "englandWalesCharityRegNum": "292506",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
