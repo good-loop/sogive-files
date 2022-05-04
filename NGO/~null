@@ -1,7 +1,12 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_2-18429486619567214464.png",
-  "id": "square-one",
-  "suggest": [],
-  "status": "DRAFT"
+  "displayName": "Freedom 4 Girls",
+  "logo": "",
+  "id": "freedom-4-girls",
+  "suggest": [
+    "Freedom 4 Girls"
+  ],
+  "url": "https://www.freedom4girls.co.uk/",
+  "status": "PUBLISHED"
 }
