@@ -256,10 +256,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "49",
+          "raw": "49251000",
           "currency": "GBP",
-          "value100p": 490000.0,
-          "value": 49.0
+          "value100p": 4.9251E11,
+          "value": 4.9251E7
         }
       ],
       "name": "Humanitarian aid"
