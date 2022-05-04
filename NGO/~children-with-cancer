@@ -655,6 +655,17 @@
         {
           "number": 1.0,
           "name": ". "
+        },
+        {
+          "name": "years (singular: year) of healthy life saved",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1600",
+            "currency": "",
+            "value100p": 1.6E7,
+            "value": 1600.0
+          }
         }
       ],
       "year": 2020.0,
