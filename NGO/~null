@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Boys and Girls Clubs of Central Mississippi",
   "name": "Boys and Girls Clubs of Central Mississippi",
   "id": "boyscs",
   "suggest": [
+    "Boys and Girls Clubs of Central Mississippi",
     "Boys and Girls Clubs of Central Mississippi"
   ],
   "status": "DRAFT"
