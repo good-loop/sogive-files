@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Conservation Volunteers New Zealand",
   "id": "conservation-volunteers-new-zealand",
-  "suggest": [],
+  "suggest": [
+    "Conservation Volunteers New Zealand"
+  ],
   "url": "https://conservationvolunteers.co.nz/",
   "status": "DRAFT"
 }
