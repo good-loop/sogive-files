@@ -1,13 +1,12 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@type": "NGO",
-  "displayName": "Boys and Girls Clubs of Central Mississippi",
-  "name": "Boys and Girls Clubs of Central Mississippi",
-  "logo": "https://media.good-loop.com/uploads/standard/BGClub-240x161-8882175558115184202.jpg#ccrop:92",
-  "id": "boyscs",
+  "displayName": "Freedom 4 Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/F4G__logo-11855096790868961101.png#ccrop:95",
+  "id": "freedom-4-girls",
   "suggest": [
-    "Boys and Girls Clubs of Central Mississippi",
-    "Boys and Girls Clubs of Central Mississippi"
+    "Freedom 4 Girls"
   ],
-  "url": "http://www.bgccm.org/",
-  "status": "MODIFIED"
+  "url": "https://www.freedom4girls.co.uk/",
+  "status": "DRAFT"
 }
