@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Marl",
   "name": "Marlborough Falcon Conservation Trust",
   "id": "marlborough-falcon-conservation-trust",
   "suggest": [
-    "Marlborough Falcon Conservation Trust"
+    "Marlborough Falcon Conservation Trust",
+    "Marl"
   ],
   "status": "DRAFT"
 }
