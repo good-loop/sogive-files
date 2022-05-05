@@ -1,13 +1,14 @@
 {
+  "notes": "NZ Stoneleigh Charity",
   "@type": "NGO",
-  "displayName": "Conservation Volunteers New Zealand",
-  "name": "Conservation Volunteers New Zealand",
-  "logo": "https://media.good-loop.com/uploads/standard/CVNZ-Transparent-2-15725864528416661229.png",
-  "id": "conservation-volunteers-new-zealand",
+  "displayName": "Marlborough Falcon Conservation Trust",
+  "name": "Marlborough Falcon Conservation Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/MCFT__logo__2-14239758435446313228.png#ccrop:88",
+  "id": "marlborough-falcon-conservation-trust",
   "suggest": [
-    "Conservation Volunteers New Zealand",
-    "Conservation Volunteers New Zealand"
+    "Marlborough Falcon Conservation Trust",
+    "Marlborough Falcon Conservation Trust"
   ],
-  "url": "https://conservationvolunteers.co.nz/",
+  "url": "https://www.mfct.org.nz/",
   "status": "DRAFT"
 }
