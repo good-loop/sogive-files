@@ -3,12 +3,12 @@
   "@type": "NGO",
   "displayName": "Marlborough Falcon Conservation Trust",
   "name": "Marlborough Falcon Conservation Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/MCFT__logo__2-14239758435446313228.png",
+  "logo": "https://media.good-loop.com/uploads/standard/MCFT__logo__2-14239758435446313228.png#ccrop:85",
   "id": "marlborough-falcon-conservation-trust",
   "suggest": [
     "Marlborough Falcon Conservation Trust",
     "Marlborough Falcon Conservation Trust"
   ],
   "url": "https://www.mfct.org.nz/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
