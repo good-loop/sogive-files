@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Boys and Girls Clubs of Central Mississippi",
   "name": "Boys and Girls Clubs of Central Mississippi",
-  "logo": "https://media.good-loop.com/uploads/standard/BGClub-240x161-8882175558115184202.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/BGClub-240x161-8882175558115184202.jpg#ccrop:92",
   "id": "boyscs",
   "suggest": [
     "Boys and Girls Clubs of Central Mississippi",
     "Boys and Girls Clubs of Central Mississippi"
   ],
   "url": "http://www.bgccm.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
