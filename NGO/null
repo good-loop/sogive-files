@@ -1,12 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
+  "notes": "NZ Stoneleigh Charity",
   "@type": "NGO",
-  "displayName": "Freedom 4 Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_4-6362543252037087894.png#ccrop:110",
-  "id": "freedom-4-girls",
+  "displayName": "Marlborough Falcon Conservation Trust",
+  "name": "Marlborough Falcon Conservation Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/MFCT__logo-10575394172521796395.png",
+  "id": "marlborough-falcon-conservation-trust",
   "suggest": [
-    "Freedom 4 Girls"
+    "Marlborough Falcon Conservation Trust",
+    "Marlborough Falcon Conservation Trust"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
+  "url": "https://www.mfct.org.nz/",
   "status": "DRAFT"
 }
