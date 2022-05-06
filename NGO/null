@@ -1,12 +1,11 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@type": "NGO",
-  "displayName": "Freedom 4 Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/F4G__logo-11855096790868961101.png#ccrop:95",
-  "id": "freedom-4-girls",
+  "displayName": "ChaShaMa",
+  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
+  "id": "chashama",
   "suggest": [
-    "Freedom 4 Girls"
+    "ChaShaMa"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
-  "status": "DRAFT"
+  "url": "https://chashama.org/",
+  "status": "MODIFIED"
 }
