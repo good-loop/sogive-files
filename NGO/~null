@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
-  "id": "chashama",
-  "suggest": [
-    "ChaShaMa"
-  ],
-  "url": "https://chashama.org/",
-  "status": "PUBLISHED"
+  "id": "duty-to-care",
+  "suggest": []
 }
