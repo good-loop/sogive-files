@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Duty to Care ",
-  "id": "duty-to-care",
-  "suggest": [
-    "Duty to Care "
-  ],
-  "status": "DRAFT"
+  "id": "fondation-le-refuge",
+  "suggest": []
 }
