@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Fondation Le Refuge",
   "id": "fondation-le-refuge",
-  "suggest": []
+  "suggest": [
+    "Fondation Le Refuge"
+  ],
+  "status": "DRAFT"
 }
