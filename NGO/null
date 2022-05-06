@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
-  "id": "chashama",
+  "displayName": "Fondation Le Refuge",
+  "logo": "https://media.good-loop.com/uploads/standard/arton13579-11840469160991017586.png#ccrop:95",
+  "id": "fondation-le-refuge",
   "suggest": [
-    "ChaShaMa"
+    "Fondation Le Refuge"
   ],
-  "url": "https://chashama.org/",
-  "status": "MODIFIED"
+  "url": "https://le-refuge.org/",
+  "status": "DRAFT"
 }
