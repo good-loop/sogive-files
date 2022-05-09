@@ -620,6 +620,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.malariaconsortium.org/media-downloads/1494/Trustees%E2%80%99%20report%20and%20financial%20statements%20for%20the%20year%20to%2031%20March%202021"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
@@ -637,8 +643,21 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15062000",
+          "currency": "GBP",
+          "value100p": 1.5062E11,
+          "value": 1.5062E7
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Found on page 30 of the annual report for 2021."
+        }
+      },
       "name": "Health Systems"
     }
   ],
