@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Girls Gotta Run",
   "name": "Girls Gotta Run",
   "id": "girls-gotta-run",
   "suggest": [
+    "Girls Gotta Run",
     "Girls Gotta Run"
   ],
   "status": "DRAFT"
