@@ -509,7 +509,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "32056000",
+          "currency": "GBP",
+          "value100p": 3.2056E11,
+          "value": 3.2056E7
         }
       ],
       "name": "Preventitive Treatment"
