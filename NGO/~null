@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "british-gas-energy-trust",
+  "name": "British Gas Energy Trust",
   "id": "british-gas-energy-trust",
-  "suggest": []
+  "suggest": [
+    "British Gas Energy Trust",
+    "british-gas-energy-trust"
+  ],
+  "status": "DRAFT"
 }
