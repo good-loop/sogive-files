@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Elephant Conservation",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/Elephant_Conservation-6999964944099782708.svg",
   "id": "elephant-conservation",
   "suggest": [
