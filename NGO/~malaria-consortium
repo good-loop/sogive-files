@@ -605,7 +605,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "13298000",
+          "currency": "GBP",
+          "value100p": 1.3298E11,
+          "value": 1.3298E7
         }
       ],
       "name": "Case Management"
