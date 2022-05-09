@@ -515,6 +515,11 @@
           "value": 3.2056E7
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Found on page 30 of the annual report for 2021."
+        }
+      },
       "name": "Preventitive Treatment"
     },
     {
