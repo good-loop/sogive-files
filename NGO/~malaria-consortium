@@ -569,6 +569,11 @@
           "value": 5949000.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Found on page 30 of the annual report for 2021."
+        }
+      },
       "name": "Vector Control"
     },
     {
