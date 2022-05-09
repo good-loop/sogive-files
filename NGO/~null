@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Bird Conservation",
   "id": "bird-conservation",
-  "suggest": []
+  "suggest": [
+    "Bird Conservation"
+  ],
+  "status": "DRAFT"
 }
