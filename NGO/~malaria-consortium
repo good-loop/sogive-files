@@ -431,6 +431,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "pg. 24 of the 2021 Annual Report"
+        },
+        "reserves": {
+          "notes": "pg. "
         }
       },
       "name": "overall",
