@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Bird Conservation",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Elephant_Conservation_2-3390084302315997805.svg",
-  "id": "bird-conservation",
+  "displayName": "Girls Gotta Run",
+  "name": "Girls Gotta Run",
+  "logo": "https://media.good-loop.com/uploads/standard/girls_gotta_run-7088973878600783628.png#ccrop:96",
+  "id": "girls-gotta-run",
   "suggest": [
-    "Bird Conservation"
+    "Girls Gotta Run",
+    "Girls Gotta Run"
   ],
-  "url": "https://www.chesterzoo.org/our-zoo/animals/?search\u003d\u0026animal_group\u003dbirds\u0026sortby\u003d",
+  "url": "https://www.girlsgottarun.org/",
   "status": "DRAFT"
 }
