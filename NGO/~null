@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Fondation Le Refuge",
-  "logo": "https://media.good-loop.com/uploads/standard/arton13579-11840469160991017586.png#ccrop:90",
-  "id": "fondation-le-refuge",
-  "suggest": [
-    "Fondation Le Refuge"
-  ],
-  "url": "https://le-refuge.org/",
-  "status": "MODIFIED"
+  "id": "british-gas-energy-trust",
+  "suggest": []
 }
