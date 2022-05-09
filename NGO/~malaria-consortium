@@ -488,6 +488,12 @@
     },
     {
       "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.malariaconsortium.org/media-downloads/1494/Trustees%E2%80%99%20report%20and%20financial%20statements%20for%20the%20year%20to%2031%20March%202021"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
