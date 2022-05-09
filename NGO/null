@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Rhino Conservation",
+  "displayName": "Bird Conservation",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Elephant_Conservation_1-2296643110533592919.svg",
-  "id": "rhino-conservation",
+  "logo": "https://media.good-loop.com/uploads/standard/Elephant_Conservation_2-3390084302315997805.svg",
+  "id": "bird-conservation",
   "suggest": [
-    "Rhino Conservation"
+    "Bird Conservation"
   ],
-  "url": "https://www.chesterzoo.org/our-zoo/animals/greater-one-horned-rhino/",
+  "url": "https://www.chesterzoo.org/our-zoo/animals/?search\u003d\u0026animal_group\u003dbirds\u0026sortby\u003d",
   "status": "DRAFT"
 }
