@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "SOS Homophobie",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__SOS__homophobie__2018-13814614147197260403.png#ccrop:90",
-  "id": "sos-homophobie",
-  "suggest": [
-    "SOS Homophobie"
-  ],
-  "url": "https://www.sos-homophobie.org/",
-  "status": "DRAFT"
+  "id": "elephant-conservation",
+  "suggest": []
 }
