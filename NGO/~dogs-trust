@@ -712,10 +712,11 @@
       "@type": "ImageObject"
     },
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/th_3-18075321362024350141.jpeg",
       "@type": "ImageObject"
     }
   ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
