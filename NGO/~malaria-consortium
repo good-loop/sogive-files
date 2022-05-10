@@ -23,10 +23,10 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 1.214762E8,
           "@type": "MonetaryAmount",
           "name": "annualCosts",
           "currency": "GBP",
+          "value100p": 1.214762E10,
           "value": 1214762.0
         },
         {
@@ -390,6 +390,7 @@
           "@type": "MonetaryAmount",
           "name": "projectCosts",
           "raw": "2434000",
+          "value100p": 2.434E10,
           "value": 2434000.0
         }
       ],
@@ -661,7 +662,12 @@
       "name": "Health Systems"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.2568449E7,
+          "name": "Children (singular: Child) Provided with SMC"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
