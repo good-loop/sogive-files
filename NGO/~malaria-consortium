@@ -665,6 +665,11 @@
       "outputs": [
         {
           "number": 1.2568449E7,
+          "meta": {
+            "all": {
+              "notes": "Found in page 11 of the 2020 "
+            }
+          },
           "name": "Children (singular: Child) Provided with SMC"
         }
       ],
