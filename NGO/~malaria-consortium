@@ -672,7 +672,7 @@
           },
           "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC",
-          "description": "This does not account for how many months or days of SMC are provided, only "
+          "description": "This measures whether a child is provided with "
         }
       ],
       "data-src": [
