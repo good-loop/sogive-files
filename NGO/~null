@@ -1,13 +1,15 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/YSI-John-Jamieson-550-15168196449293000589.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/BNG__140507__THE__AsItFades06-7351956274780899323.jpg",
   "@type": "NGO",
-  "displayName": "ART UK",
-  "logo": "https://media.good-loop.com/uploads/standard/ArtUK-9473773167009401615.png#ccrop:95",
-  "description": "Art UK, the online home for art from every\npublic collection in the UK. Previously called Public Catalogue \nFoundation, they are a not-for-profit organisation working\nwith 3,000 public collections, the BBC and other partner \norganisations to showcase the art the UK owns. Much of\nthis art is not on public view and is now shown online for\nthe first time.\n\nArt UK already features 200,000 oil paintings from museums,\nuniversities, hospitals and other civic buildings across the\ncountry. They are now expanding the project to include\nthe UK’s sculptures and as many other artworks as they can.\nThere are many ways to contribute to the project, but above\nall Art UK is for everyone who wants to see art, visit art and\ndiscover the stories behind the art.",
-  "id": "art-uk",
+  "displayName": "The Dance Company",
+  "unlisted": true,
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/images-4670418529292938148.png#ccrop:70",
+  "description": "The Human Expression (T.H.E) Dance Company was founded in 2008 by Artistic Director Kuik Swee Boon. Rooted firmly in Singapore yet universal in its perspective, T.H.E\u0027s contemporary dance works reveal the body as a medium for exploring and celebrating the human condition.\n\nDance artists at T.H.E are immersed in the Company\u0027s signature methodology, HollowBody, which guides them to access their deeper instincts and impulses through movement. The Company\u0027s movement vocabulary is distinct in its intensely personal aesthetics, yet thrilling in its diversity.\n\nT.H.E has performed at many major festivals, including the Singapore Arts Festival, Esplanade’s da:ns festival and Huayi - Chinese Festival of Arts, SIDance Festival and Seoul Performing Arts Festival in South Korea, Beijing and Guangdong Dance Festival in China, Niigata International Dance Festival in Japan, Les Hivernales Festival in Avignon, France, as well as Italy’s Oriente Occidente Festival in Rovereto, Inteatro Festival in Ancona, Cross Festival in Verbania, and Fabbrica Europa in Florence.\n\nBased on its vision of contemporary dance as a medium for nurturing human potential, T.H.E has also initiated numerous platforms like its semi-professional wing, T.H.E Second Company, as well as cont·act Contemporary Dance Festival to engage young artists and the wider public.",
+  "id": "the-dance-company",
   "suggest": [
-    "ART UK"
+    "The Dance Company"
   ],
-  "url": "https://artuk.org/",
-  "status": "DRAFT"
+  "url": "https://www.the-dancecompany.com/",
+  "status": "PUBLISHED"
 }
