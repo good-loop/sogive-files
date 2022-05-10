@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
   "@type": "NGO",
   "displayName": "ChaShaMa",
   "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
@@ -8,5 +9,5 @@
     "ChaShaMa"
   ],
   "url": "https://chashama.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
