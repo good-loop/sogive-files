@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "The Travel Foundfation",
   "id": "the-travel-foundation",
-  "suggest": []
+  "suggest": [
+    "The Travel Foundfation"
+  ],
+  "status": "DRAFT"
 }
