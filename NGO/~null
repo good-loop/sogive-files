@@ -1,13 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
-  "description": "Chashama helps create a more diverse, equitable, and inclusive world by partnering with property owners to transform unused real estate. These spaces are used for artists, small businesses, and for free community-centric art classes. ",
-  "id": "chashama",
-  "suggest": [
-    "ChaShaMa"
-  ],
-  "url": "https://chashama.org/",
-  "status": "MODIFIED"
+  "id": "the-travel-foundation",
+  "suggest": []
 }
