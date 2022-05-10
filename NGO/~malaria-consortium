@@ -671,7 +671,8 @@
             }
           },
           "confidence": "medium",
-          "name": "Children (singular: Child) Provided with SMC"
+          "name": "Children (singular: Child) Provided with SMC",
+          "description": "This does not account for how many "
         }
       ],
       "data-src": [
