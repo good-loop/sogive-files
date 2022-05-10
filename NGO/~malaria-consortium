@@ -672,7 +672,7 @@
           },
           "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC",
-          "description": "This measures how many children were targeted, which"
+          "description": "This measures whether a child is provided with prophylactic SMC treatment and does not measure how many doses or months they receive it."
         }
       ],
       "data-src": [
