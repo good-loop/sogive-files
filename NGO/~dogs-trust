@@ -710,9 +710,12 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/Dogs-Trust-Pic-15286723547296456447.jpeg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
