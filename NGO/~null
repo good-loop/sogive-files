@@ -1,7 +1,9 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/download_13-14339681721862601151.png#ccrop:99",
-  "id": "hands-on-banking",
-  "suggest": [],
+  "displayName": "Sustainable Travel International",
+  "id": "sustainable-travel-international",
+  "suggest": [
+    "Sustainable Travel International"
+  ],
   "status": "DRAFT"
 }
