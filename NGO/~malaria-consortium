@@ -670,6 +670,7 @@
               "notes": "Found in page 11 of the 2020 SMC quantitative report."
             }
           },
+          "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC"
         }
       ],
