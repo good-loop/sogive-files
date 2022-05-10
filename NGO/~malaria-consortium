@@ -672,7 +672,7 @@
           },
           "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC",
-          "description": "This statistic uses how many children were targeted, "
+          "description": "This measures how many children were targeted, which"
         }
       ],
       "data-src": [
