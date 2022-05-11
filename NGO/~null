@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Little Princess Trust",
   "id": "little-princess-trust",
-  "suggest": []
+  "suggest": [
+    "Little Princess Trust"
+  ],
+  "status": "DRAFT"
 }
