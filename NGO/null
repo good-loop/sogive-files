@@ -1,7 +1,14 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/100-BM-New-Logo-k-871--17304707304153051331.png#ccrop:94",
-  "id": "100-black-men-of-america",
-  "suggest": [],
+  "displayName": "Cool Earth",
+  "name": "Cool Earth",
+  "logo": "https://media.good-loop.com/uploads/standard/Coolearth__logo-18250161521111825764.svg#ccrop:70",
+  "description": "Cool Earth is a UK-based international NGO that protects endangered rainforest in order to combat global warming, protect ecosystems and to provide employment for local people.",
+  "id": "cool-earth",
+  "suggest": [
+    "Cool Earth",
+    "Cool Earth"
+  ],
+  "url": "https://www.coolearth.org/",
   "status": "DRAFT"
 }
