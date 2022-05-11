@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Cool Earth",
   "name": "Cool Earth",
   "id": "cool-earth",
   "suggest": [
+    "Cool Earth",
     "Cool Earth"
   ],
   "status": "DRAFT"
