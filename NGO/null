@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Cancer Hair Care",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-main-7204383367647783392.png",
-  "id": "cancer-hair-care",
+  "displayName": "Beauty Banks",
+  "logo": "https://media.good-loop.com/uploads/standard/beauty-banks-358787569251505587.png#ccrop:95",
+  "id": "beauty-banks",
   "suggest": [
-    "Cancer Hair Care"
+    "Beauty Banks"
   ],
-  "url": "https://www.cancerhaircare.co.uk/",
+  "url": "https://www.beautybanks.org.uk/",
   "status": "DRAFT"
 }
