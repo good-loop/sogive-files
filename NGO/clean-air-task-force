@@ -44,10 +44,12 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Clean Air Task Force",
   "impact": "more-info-needed",
   "description": "The Clean Air Task Force (CATF) is a US-based non-government organisation which works to reduce climate and non-climate pollutants through research and analysis, public advocacy leadership, and partnership with the private sector. It was founded in 1996 with the aim of enacting federal policy reducing the air pollution caused by American coal-fired power plants.\n\nThis campaign has been highly successful and has been a contributing factor to the retirement of a large portion of the US coal fleet. They have conceived and co-led numerous other successful campaigns, helping to establish CO2 controls on the US power sector; regulations of diesel emissions; regulations of shipping emissions; and regulations of methane emissions from oil and gas production. ",
   "recommendation": "The Clean Air Task Force (CATF) is a US-based non-government organisation which works to reduce climate and non-climate pollutants through research and analysis, public advocacy leadership, and partnership with the private sector. It was founded in 1996 with the aim of enacting federal policy reducing the air pollution caused by American coal-fired power plants. This campaign has been highly successful and has been a contributing factor to the retirement of a large portion of the US coal fleet. They have conceived and co-led numerous other successful campaigns, helping to establish CO2 controls on the US power sector; regulations of diesel emissions; regulations of shipping emissions; and regulations of methane emissions from oil and gas production. \n\nCATF\u0027s role in the environmental NGO ecosystem has often been to focus on sources of emissions that are neglected by other environmental NGOs, to conceive and design pragmatic campaigns to target those emissions, and to crowd in support from philanthropists and other larger environmental NGOs. CATF also produces high quality research, which is well regarded among the philanthropists, scientists, policy experts, and government bureaucrats that we have spoken to. \nWe have evaluated three of CATF\u0027s past projects: 1. Power Plant Campaign and Clear the Air: non-climate pollutants (1996 - 2006). 2. The Methane Partners Campaign (2000 - present). 3. Campaign for tax incentives for carbon capture and storage (2009 - present) \nFor all of these successful projects, CATF played a catalytic role in campaign conception, and in leading the campaigns. We believe that via their past work since their formation, CATF produced large benefits for human health, and averted a tonne of CO2e for $1.26 with a confidence interval of $0.35- $4.40. Equivalently, for $100, CATF averted 79 tonnes of CO2e (22-283 tonnes). \n\nCATF\u0027s current primary focus is on scaling up the rapid deployment of the low carbon technologies required for deep decarbonisation, with a particular focus on technologies that are important but neglected by environmental NGOs and governments. Given CATF\u0027s focus areas, outstanding track record and organisational strength, we think it is likely that a donation to them would produce benefits on the order of $1 per tonne of CO2e. Equivalently, a $100 donation would avert between 100 tonnes of CO2e. Overall, CATF is an outstanding organisation, which has shown the ability to achieve outsized impact on a relatively small budget.\n\nThis assessment is from Founders Pledge. More information can be found here: https://founderspledge.com/research/fp-climate-change.\n",
   "suggest": [
+    "Clean Air Task Force",
     "Clean Air Task Force",
     "clean-air-task-force"
   ],
@@ -84,9 +86,11 @@
   "ready": false,
   "name": "Clean Air Task Force",
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/anon/CATF_logo-6779620696483837886.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/6842577-logo-12450949537374336627.png#ccrop:115",
   "@id": "clean-air-task-force",
+  "category": "environment",
+  "subcategory": "Climate Action",
   "summaryDescription": "Clean Air Task Force (CATF) tackles climate change, researching and pushing for the changes in technologies and policies needed to get to zero-emissions at an affordable cost.",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
