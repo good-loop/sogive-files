@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "The James Dyson Foundation ",
-  "logo": "https://media.good-loop.com/uploads/standard/james-dyson-foundation-1157030780151530773.jpg#ccrop:95",
-  "id": "the-james-dyson-foundation",
-  "suggest": [
-    "The James Dyson Foundation "
-  ],
-  "url": "https://www.jamesdysonfoundation.co.uk/",
-  "status": "DRAFT"
+  "id": "national-deaf-childrens-society",
+  "suggest": []
 }
