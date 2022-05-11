@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "National Deaf Children\u0027s Society",
   "id": "national-deaf-childrens-society",
-  "suggest": []
+  "suggest": [
+    "National Deaf Children\u0027s Society"
+  ],
+  "status": "DRAFT"
 }
