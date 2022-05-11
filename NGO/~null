@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Call of Duty Endowment",
   "id": "call-of-duty-endowment",
-  "suggest": []
+  "suggest": [
+    "Call of Duty Endowment"
+  ],
+  "status": "DRAFT"
 }
