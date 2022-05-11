@@ -1,12 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Cool Earth",
-  "name": "Cool Earth",
-  "id": "cool-earth",
-  "suggest": [
-    "Cool Earth",
-    "Cool Earth"
-  ],
-  "url": "",
+  "logo": "https://media.good-loop.com/uploads/standard/download_14-1643648525489331267.png",
+  "id": "black-girls-code",
+  "suggest": [],
   "status": "DRAFT"
 }
