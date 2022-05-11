@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Grocery Aid",
+  "name": "Grocery Aid",
   "id": "grocery-aid",
-  "suggest": []
+  "suggest": [
+    "Grocery Aid",
+    "Grocery Aid"
+  ],
+  "status": "DRAFT"
 }
