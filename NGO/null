@@ -1,14 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Cool Earth",
-  "name": "Cool Earth",
-  "logo": "https://media.good-loop.com/uploads/standard/Coolearth__logo-18250161521111825764.svg#ccrop:70",
-  "description": "Cool Earth is a UK-based international NGO that protects endangered rainforest in order to combat global warming, protect ecosystems and to provide employment for local people.",
-  "id": "cool-earth",
+  "unlisted": true,
+  "displayName": "The James Dyson Foundation ",
+  "logo": "https://media.good-loop.com/uploads/standard/james-dyson-foundation-1157030780151530773.jpg#ccrop:95",
+  "id": "the-james-dyson-foundation",
   "suggest": [
-    "Cool Earth",
-    "Cool Earth"
+    "The James Dyson Foundation "
   ],
-  "url": "https://www.coolearth.org/",
+  "url": "https://www.jamesdysonfoundation.co.uk/",
   "status": "DRAFT"
 }
