@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Sustainable Travel International",
-  "logo": "https://media.good-loop.com/uploads/standard/STI-Logo-Web-400x75-7926755943667316625.png#ccrop:95",
-  "id": "sustainable-travel-international",
+  "displayName": "Grocery Aid",
+  "name": "Grocery Aid",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__118__9710179806-38775133571233751.png#ccrop:97",
+  "id": "grocery-aid",
   "suggest": [
-    "Sustainable Travel International"
+    "Grocery Aid",
+    "Grocery Aid"
   ],
-  "url": "https://sustainabletravel.org/",
+  "url": "https://www.groceryaid.org.uk/",
   "status": "DRAFT"
 }
