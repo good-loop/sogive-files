@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Call of Duty Endowment",
-  "name": "Call of Duty Endowment",
-  "logo": "https://media.good-loop.com/uploads/standard/CODE__Logo__Coin-15575120634639269254.jpg",
-  "id": "call-of-duty-endowment",
+  "displayName": "National Deaf Children\u0027s Society",
+  "logo": "https://media.good-loop.com/uploads/standard/1630409842NDCS-Logo-Reversed-A4ExclZone-14356122896595193988.png",
+  "id": "national-deaf-childrens-society",
   "suggest": [
-    "Call of Duty Endowment",
-    "Call of Duty Endowment"
+    "National Deaf Children\u0027s Society"
   ],
-  "url": "https://www.callofdutyendowment.org/",
-  "status": "DRAFT"
+  "url": "https://www.ndcs.org.uk/",
+  "status": "PUBLISHED"
 }
