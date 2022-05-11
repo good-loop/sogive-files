@@ -1,7 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Cancer Hair Care",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-main-7204383367647783392.png",
   "id": "cancer-hair-care",
-  "suggest": [],
+  "suggest": [
+    "Cancer Hair Care"
+  ],
   "url": "https://www.cancerhaircare.co.uk/",
   "status": "DRAFT"
 }
