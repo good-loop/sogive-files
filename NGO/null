@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Little Princess Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/littleprincess-logo-13689871671043673090.png#ccrop:90",
-  "id": "little-princess-trust",
+  "displayName": "Cancer Hair Care",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-main-7204383367647783392.png",
+  "id": "cancer-hair-care",
   "suggest": [
-    "Little Princess Trust"
+    "Cancer Hair Care"
   ],
-  "url": "https://www.littleprincesses.org.uk/",
+  "url": "https://www.cancerhaircare.co.uk/",
   "status": "DRAFT"
 }
