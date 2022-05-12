@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "National Urban League",
-  "name": "National Urban League",
-  "logo": "https://media.good-loop.com/uploads/standard/NUL__Logo__Standalone-13542221786280147286.png#ccrop:94",
-  "id": "nationalurban",
-  "suggest": [
-    "National Urban League",
-    "National Urban League"
-  ],
-  "url": "https://nul.org/",
-  "status": "PUBLISHED"
+  "id": "global-giving",
+  "suggest": []
 }
