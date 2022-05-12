@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "National Urban League",
   "id": "nationalurban",
-  "suggest": []
+  "suggest": [
+    "National Urban League"
+  ],
+  "status": "DRAFT"
 }
