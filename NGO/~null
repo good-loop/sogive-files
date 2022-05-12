@@ -1,5 +1,12 @@
 {
   "@type": "NGO",
-  "id": "national-lgbt-chamber-of-commerce",
-  "suggest": []
+  "displayName": "National Urban League",
+  "name": "National Urban League",
+  "logo": "https://media.good-loop.com/uploads/standard/NUL__Logo__Standalone-13542221786280147286.png",
+  "id": "nationalurban",
+  "suggest": [
+    "National Urban League",
+    "National Urban League"
+  ],
+  "status": "DRAFT"
 }
