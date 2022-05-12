@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "National Urban League",
   "name": "National Urban League",
   "id": "nationalurban",
   "suggest": [
+    "National Urban League",
     "National Urban League"
   ],
   "status": "DRAFT"
