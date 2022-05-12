@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "National Urban League",
-  "name": "National Urban League",
-  "id": "nationalurban",
-  "suggest": [
-    "National Urban League",
-    "National Urban League"
-  ],
-  "status": "DRAFT"
+  "id": "national-lgbt-chamber-of-commerce",
+  "suggest": []
 }
