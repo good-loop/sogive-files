@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Global Giving",
   "id": "global-giving",
-  "suggest": []
+  "suggest": [
+    "Global Giving"
+  ],
+  "status": "DRAFT"
 }
