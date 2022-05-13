@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Sierra Club",
+  "name": "Sierra Club inspiring outdoors",
   "id": "sierra-club",
-  "suggest": []
+  "suggest": [
+    "Sierra Club inspiring outdoors",
+    "Sierra Club"
+  ],
+  "status": "DRAFT"
 }
