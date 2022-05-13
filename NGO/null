@@ -1,7 +1,11 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/download_16-14540494298079540495.png#ccrop:102",
-  "id": "rainbow-railroad",
-  "suggest": [],
+  "displayName": "International Animal Rescue",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-10278092580379973684.svg",
+  "id": "international-animal-rescue",
+  "suggest": [
+    "International Animal Rescue"
+  ],
+  "url": "https://www.internationalanimalrescue.org/",
   "status": "DRAFT"
 }
