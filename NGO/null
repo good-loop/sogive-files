@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "International Animal Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-10278092580379973684.svg",
-  "id": "international-animal-rescue",
+  "displayName": "Harlem Junior Tennis \u0026 Education Program",
+  "name": "Harlem Junior Tennis \u0026 Education Program",
+  "logo": "https://media.good-loop.com/uploads/standard/hjtep-13343437318844301817.jpg#ccrop:97",
+  "id": "harlem-junior-tennis-and-education-program",
   "suggest": [
-    "International Animal Rescue"
+    "Harlem Junior Tennis \u0026 Education Program",
+    "Harlem Junior Tennis \u0026 Education Program"
   ],
-  "url": "https://www.internationalanimalrescue.org/",
+  "url": "https://hjtep.org/",
   "status": "DRAFT"
 }
