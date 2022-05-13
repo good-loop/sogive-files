@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Climbing for Change",
-  "name": "Climbing for Change",
-  "logo": "https://media.good-loop.com/uploads/standard/c4ch-102938990790380226.png#ccrop:104",
-  "id": "climbing-for-change",
+  "displayName": "Sierra Club",
+  "name": "Sierra Club inspiring outdoors",
+  "logo": "https://media.good-loop.com/uploads/standard/SC-ICO-Logo-Horiz-Green-425785551447621550.png#ccrop:122",
+  "id": "sierra-club",
   "suggest": [
-    "Climbing for Change",
-    "Climbing for Change"
+    "Sierra Club inspiring outdoors",
+    "Sierra Club"
   ],
-  "url": "https://climbing4change.org/",
+  "url": "https://www.sierraclub.org/",
   "status": "DRAFT"
 }
