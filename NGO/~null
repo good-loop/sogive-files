@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/2135__rainbow-railroad-homepage-hero-3669623318771513390.jpg",
   "id": "rainbow-railroad",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
