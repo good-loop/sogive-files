@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Climbing for Change",
   "name": "Climbing for Change",
   "id": "climbing-for-change",
   "suggest": [
+    "Climbing for Change",
     "Climbing for Change"
   ],
+  "url": "",
   "status": "DRAFT"
 }
