@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Harlem Junior Tennis \u0026 Education Program",
   "id": "harlem-junior-tennis-and-education-program",
-  "suggest": []
+  "suggest": [
+    "Harlem Junior Tennis \u0026 Education Program"
+  ],
+  "status": "DRAFT"
 }
