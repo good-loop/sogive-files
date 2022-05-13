@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Harlem Junior Tennis \u0026 Education Program",
-  "name": "Harlem Junior Tennis \u0026 Education Program",
-  "logo": "https://media.good-loop.com/uploads/standard/hjtep-13343437318844301817.jpg#ccrop:97",
-  "id": "harlem-junior-tennis-and-education-program",
+  "displayName": "Climbing for Change",
+  "name": "Climbing for Change",
+  "logo": "https://media.good-loop.com/uploads/standard/c4ch-102938990790380226.png#ccrop:104",
+  "id": "climbing-for-change",
   "suggest": [
-    "Harlem Junior Tennis \u0026 Education Program",
-    "Harlem Junior Tennis \u0026 Education Program"
+    "Climbing for Change",
+    "Climbing for Change"
   ],
-  "url": "https://hjtep.org/",
+  "url": "https://climbing4change.org/",
   "status": "DRAFT"
 }
