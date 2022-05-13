@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Climbing for Change",
   "id": "climbing-for-change",
-  "suggest": []
+  "suggest": [
+    "Climbing for Change"
+  ],
+  "status": "DRAFT"
 }
