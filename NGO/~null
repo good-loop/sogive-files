@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "International Animal Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-10278092580379973684.svg",
-  "id": "international-animal-rescue",
-  "suggest": [
-    "International Animal Rescue"
-  ],
-  "url": "https://www.internationalanimalrescue.org/",
-  "status": "MODIFIED"
+  "id": "harlem-junior-tennis-and-education-program",
+  "suggest": []
 }
