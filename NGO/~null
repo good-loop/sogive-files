@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "name": "The Burt\u0027s Bees Greater Good Foundation",
   "id": "the-burt-s-bees-greater-good-foundation",
-  "suggest": [],
+  "suggest": [
+    "The Burt\u0027s Bees Greater Good Foundation"
+  ],
   "status": "DRAFT"
 }
