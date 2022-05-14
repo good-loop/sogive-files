@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Sierra Club",
-  "name": "Sierra Club inspiring outdoors",
-  "logo": "https://media.good-loop.com/uploads/standard/SC-ICO-Logo-Horiz-Green-425785551447621550.png#ccrop:122",
-  "id": "sierra-club",
+  "name": "The Burt\u0027s Bees Greater Good Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood-foundation-10358519401824813883.png",
+  "id": "the-burt-s-bees-greater-good-foundation",
   "suggest": [
-    "Sierra Club inspiring outdoors",
-    "Sierra Club"
+    "The Burt\u0027s Bees Greater Good Foundation"
   ],
-  "url": "https://www.sierraclub.org/",
   "status": "DRAFT"
 }
