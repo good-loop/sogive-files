@@ -262,7 +262,8 @@
           "value": 4.9251E7
         }
       ],
-      "name": "Humanitarian aid"
+      "name": "Humanitarian aid",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -364,14 +365,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "people (singular: person) helped",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 130471,
-      "value": "13.047106612903225863858882"
-    }
+    "name": "No Outputs! for project Project[Humanitarian aid 2020.0]"
   },
   "meta": {
     "noPublicDonations": {
