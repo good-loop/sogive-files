@@ -1,5 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "United We Dream",
+  "name": "United We Dream",
+  "logo": "https://unitedwedream.org/",
   "id": "unitedwedream",
-  "suggest": []
+  "suggest": [
+    "United We Dream",
+    "United We Dream"
+  ],
+  "status": "DRAFT"
 }
