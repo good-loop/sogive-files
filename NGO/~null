@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "United We Dream",
-  "name": "United We Dream",
-  "logo": "https://media.good-loop.com/uploads/standard/download_31-2910925433797640963.png",
-  "id": "unitedwedream",
-  "suggest": [
-    "United We Dream",
-    "United We Dream"
-  ],
-  "url": "https://unitedwedream.org/",
-  "status": "MODIFIED"
+  "id": "give-one",
+  "suggest": []
 }
