@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Give One",
+  "unlisted": true,
   "id": "give-one",
   "suggest": [
     "Give One"
