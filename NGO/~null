@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "The Burt\u0027s Bees Greater Good Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood-foundation-10358519401824813883.png",
-  "id": "the-burt-s-bees-greater-good-foundation",
-  "suggest": [
-    "The Burt\u0027s Bees Greater Good Foundation"
-  ],
-  "status": "DRAFT"
+  "id": "define",
+  "suggest": []
 }
