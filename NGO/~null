@@ -1,7 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Define American",
+  "name": "Define American",
   "id": "define",
-  "suggest": [],
+  "suggest": [
+    "Define American",
+    "Define American"
+  ],
   "url": "https://defineamerican.com/",
   "status": "DRAFT"
 }
