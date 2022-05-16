@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
   "id": "define",
-  "suggest": []
+  "suggest": [],
+  "url": "https://defineamerican.com/",
+  "status": "DRAFT"
 }
