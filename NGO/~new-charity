@@ -1,0 +1,11 @@
+{
+  "@type": "NGO",
+  "name": "new-charity",
+  "@id": "new-charity",
+  "suggest": [
+    "new-charity",
+    "new-charity"
+  ],
+  "category": "animals",
+  "status": "DRAFT"
+}
