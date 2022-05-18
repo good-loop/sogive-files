@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Eliud Kipchoge Foundation",
   "id": "eliud-kipchoge-foundation",
-  "suggest": []
+  "suggest": [
+    "Eliud Kipchoge Foundation"
+  ],
+  "status": "DRAFT"
 }
