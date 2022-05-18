@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Eliud Kipchoge Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/Eliud-logo-GB-3177482709778982958.png#ccrop:95",
-  "id": "eliud-kipchoge-foundation",
-  "suggest": [
-    "Eliud Kipchoge Foundation"
-  ],
-  "url": "https://www.eliudkipchogefoundation.org/",
-  "status": "DRAFT"
+  "id": "crest--centre-for-responsible-travel--",
+  "suggest": []
 }
