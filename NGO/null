@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Give One",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/giveone_logo-17832070692806225898.png#ccrop:95",
-  "id": "give-one",
+  "displayName": "Eliud Kipchoge Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Eliud-logo-GB-3177482709778982958.png#ccrop:95",
+  "id": "eliud-kipchoge-foundation",
   "suggest": [
-    "Give One"
+    "Eliud Kipchoge Foundation"
   ],
-  "url": "https://www.giveone.com/",
+  "url": "https://www.eliudkipchogefoundation.org/",
   "status": "DRAFT"
 }
