@@ -1,10 +1,14 @@
 {
+  "notes": "",
   "@type": "NGO",
-  "name": "CREST (Centre For Responsible Travel) ",
-  "logo": "https://media.good-loop.com/uploads/standard/crest-logo-white-12565647455995572309.jpg",
-  "id": "crest--centre-for-responsible-travel--",
+  "displayName": "family-fund-trust",
+  "name": "Family Fund Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/FF__Group__Logo__RGB__Portrait__Whiteout-8052298529347834103.png",
+  "id": "family-fund-trust",
   "suggest": [
-    "CREST (Centre For Responsible Travel) "
+    "Family Fund Trust",
+    "family-fund-trust"
   ],
-  "status": "DRAFT"
+  "url": "https://www.familyfund.org.uk/",
+  "status": "MODIFIED"
 }
