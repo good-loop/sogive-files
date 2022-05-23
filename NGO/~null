@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Arrival Education",
   "name": "Arrival Education",
   "id": "arrival-education",
   "suggest": [
+    "Arrival Education",
     "Arrival Education"
   ],
+  "url": "https://www.arrivaleducation.com/",
   "status": "DRAFT"
 }
