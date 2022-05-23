@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Arrival Education",
   "id": "arrival-education",
-  "suggest": []
+  "suggest": [
+    "Arrival Education"
+  ],
+  "status": "DRAFT"
 }
