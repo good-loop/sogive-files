@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Eliud Kipchoge Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/Eliud-logo-GB-3177482709778982958.png#ccrop:90",
-  "id": "eliud-kipchoge-foundation",
+  "displayName": "Arrival Education",
+  "name": "Arrival Education",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__125__9008369475-14387373219265736121.png#ccrop:90",
+  "id": "arrival-education",
   "suggest": [
-    "Eliud Kipchoge Foundation"
+    "Arrival Education",
+    "Arrival Education"
   ],
-  "url": "https://www.eliudkipchogefoundation.org/",
-  "status": "MODIFIED"
+  "url": "https://www.arrivaleducation.com/",
+  "status": "DRAFT"
 }
