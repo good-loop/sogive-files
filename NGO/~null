@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Mercy Corp",
   "id": "mercy-corp",
-  "suggest": []
+  "suggest": [
+    "Mercy Corp"
+  ],
+  "status": "DRAFT"
 }
