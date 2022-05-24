@@ -122,10 +122,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1,584",
+          "raw": "1584000",
           "currency": "GBP",
-          "value100p": 1.584E7,
-          "value": 1584.0
+          "value100p": 1.584E10,
+          "value": 1584000.0
         }
       ],
       "name": "Tackle Inequality"
