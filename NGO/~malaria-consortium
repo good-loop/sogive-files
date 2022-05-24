@@ -522,52 +522,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "32056000",
+          "raw": "5979000",
           "currency": "GBP",
-          "value100p": 3.2056E11,
-          "value": 3.2056E7
-        }
-      ],
-      "meta": {
-        "inputs_meta": {
-          "notes": "Found on page 30 of the annual report for 2021."
-        }
-      },
-      "name": "Preventitive Treatment"
-    },
-    {
-      "outputs": [],
-      "data-src": [
-        {
-          "@type": "Citation",
-          "url": "https://www.malariaconsortium.org/media-downloads/1494/Trustees%E2%80%99%20report%20and%20financial%20statements%20for%20the%20year%20to%2031%20March%202021"
-        }
-      ],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "raw": "5949000",
-          "currency": "GBP",
-          "value100p": 5.949E10,
-          "value": 5949000.0
+          "value100p": 5.979E10,
+          "value": 5979000.0
         }
       ],
       "meta": {
