@@ -196,7 +196,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "1845000",
+          "currency": "GBP",
+          "value100p": 1.845E10,
+          "value": 1845000.0
         }
       ],
       "name": "Empower a Strong Hospice Sector"
