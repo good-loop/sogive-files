@@ -672,7 +672,7 @@
           },
           "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC",
-          "description": "",
+          "description": "The estimated cost of delivering four monthly SMC cycles ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
