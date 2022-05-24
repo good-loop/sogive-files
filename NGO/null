@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Arrival Education",
-  "name": "Arrival Education",
-  "logo": "https://media.good-loop.com/uploads/standard/imageedit__125__9008369475-14387373219265736121.png#ccrop:90",
-  "id": "arrival-education",
+  "displayName": "Bounce Cinema",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/Bounce_Cinema_Film_Fund-1234075920823363839.png#ccrop:80",
+  "id": "bounce-cinema",
   "suggest": [
-    "Arrival Education",
-    "Arrival Education"
+    "",
+    "Bounce Cinema"
   ],
-  "url": "https://www.arrivaleducation.com/",
+  "url": "https://www.bouncecinema.com/",
   "status": "DRAFT"
 }
