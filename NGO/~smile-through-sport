@@ -2,11 +2,14 @@
   "@type": "NGO",
   "displayName": "SMILE Through Sport",
   "name": "smile-through-sport",
+  "description": "Founded by Paralympic athlete Stephen Miller in 2013, SMILE Through Sport provides events, sessions and activities which disabled people can participate it. The charity supports other organisations and individuals, by providing awareness and sport training courses.",
   "@id": "smile-through-sport",
   "suggest": [
     "smile-through-sport",
     "SMILE Through Sport",
     "smile-through-sport"
   ],
+  "wikipedia": "",
+  "url": "",
   "status": "DRAFT"
 }
