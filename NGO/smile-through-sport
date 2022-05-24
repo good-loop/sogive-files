@@ -1,18 +1,27 @@
 {
   "circleCrop": 81.0,
+  "images": "https://media.good-loop.com/uploads/standard/learn-to-smile-2833323225014937539.jpg",
+  "color": "#dabc45",
   "@type": "NGO",
   "displayName": "SMILE Through Sport",
-  "name": "smile-through-sport",
   "description": "Founded by Paralympic athlete Stephen Miller in 2013, SMILE Through Sport provides events, sessions and activities which disabled people can participate it. The charity supports other organisations and individuals, by providing awareness and sport training courses.",
-  "logo": "https://media.good-loop.com/uploads/raw/Smileonwhite_1-11897212155822113846.jpg",
   "suggest": [
     "smile-through-sport",
     "SMILE Through Sport",
     "smile-through-sport"
   ],
+  "url": "https://smilethroughsport.com",
+  "headerImage": "https://media.good-loop.com/uploads/standard/smile-5757446259622328886.jpg",
+  "name": "smile-through-sport",
+  "logo": "https://media.good-loop.com/uploads/raw/Smileonwhite_1-11897212155822113846.jpg",
   "@id": "smile-through-sport",
   "wikipedia": "",
   "summaryDescription": "Smile Through Sport was founded to provide the opportunity for disabled people of all ages across the North East to access high quality sport and physical activity.",
-  "url": "https://smilethroughsport.com/what-we-do/",
+  "imageList": [
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/SMILEAthletics-17885964257206138123.jpg",
+      "@type": "ImageObject"
+    }
+  ],
   "status": "DRAFT"
 }
