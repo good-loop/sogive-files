@@ -742,10 +742,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "Found on page 30 of the annual report for 2021.",
-          "currency": "GBP",
-          "value100p": 0.0,
-          "error": {}
+          "currency": "GBP"
         }
       ],
       "name": "Preventative Treatment"
