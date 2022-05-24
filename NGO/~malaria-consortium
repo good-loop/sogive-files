@@ -667,7 +667,7 @@
           "number": 1.2568449E7,
           "meta": {
             "all": {
-              "notes": "Found in the Lancet report. The 1.58 number would "
+              "notes": "Found in the Lancet report. The 1.58 number diverges from 3.63 as they represent different "
             }
           },
           "confidence": "medium",
