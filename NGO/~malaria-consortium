@@ -672,7 +672,18 @@
           },
           "confidence": "medium",
           "name": "Children (singular: Child) Provided with SMC",
-          "description": "This measures whether a child is provided with prophylactic SMC treatment and does not measure how many doses or months they receive it."
+          "description": "This measures whether a child is provided with prophylactic SMC treatment and does not measure how many doses or months they receive it.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "3.63",
+            "currency": "",
+            "value100p": 36300.0,
+            "value": 3.63
+          }
+        },
+        {
+          "name": "Death Averted"
         }
       ],
       "data-src": [
