@@ -67,6 +67,37 @@
         }
       ],
       "name": "overall"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1162000",
+          "currency": "GBP",
+          "value100p": 1.162E10,
+          "value": 1162000.0
+        }
+      ],
+      "name": "Extend our Reach"
     }
   ],
   "@type": "NGO",
