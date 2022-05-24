@@ -129,6 +129,37 @@
         }
       ],
       "name": "Tackle Inequality"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "668000",
+          "currency": "GBP",
+          "value100p": 6.68E9,
+          "value": 668000.0
+        }
+      ],
+      "name": "Work with Communities"
     }
   ],
   "@type": "NGO",
