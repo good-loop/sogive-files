@@ -1,6 +1,7 @@
 {
   "scotlandCharityRegNum": "SC041112",
   "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/hospiceuk-10581343571498454055.jpg",
+  "ukCompanyRegNum": "2751549",
   "projects": [
     {
       "outputs": [],
@@ -68,5 +69,5 @@
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
   "uptodatedraft": "probably",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
