@@ -1,0 +1,761 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 9.2712E11,
+          "value": 9.2712E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 1.434E10,
+          "value": 1434000.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 8.0E7,
+          "value": 8000.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 87000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular: person) with Alzheimers helped",
+          "start": "2014-04-01T00:00:00Z",
+          "description": "This refers to people with Alzheimers being helped through one-to-one support and group-based services",
+          "end": "2015-03-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 6.1775662E11,
+          "value": 6.1775662E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 9.555E9,
+          "value": 955500.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 5.331E7,
+          "value": 5331.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "meeting needs",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 8.015726E10,
+          "value": 8015726.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.23981E7,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 123981.0
+        },
+        {
+          "value100": 69200.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 692.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "sharing information",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 1.1023139E11,
+          "value": 1.1023139E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.70498E7,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 170498.0
+        },
+        {
+          "value100": 95100.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 951.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "advancing research",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value100p": 1.1897472E11,
+          "value": 1.1897472E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 1.84021E7,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 184021.0
+        },
+        {
+          "value100": 102700.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-03-31T00:00:00Z",
+          "value": 1027.0
+        }
+      ],
+      "start": "2014-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "inspiring change",
+      "analyst": "Sanjay",
+      "end": "2015-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "117237000 ",
+          "currency": "GBP",
+          "value100p": 1.17237E12,
+          "value": 1.17237E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3667000",
+          "currency": "GBP",
+          "value100p": 3.667E10,
+          "value": 3667000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "26441000",
+          "currency": "GBP",
+          "value100p": 2.6441E11,
+          "value": 2.6441E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Trading costs not found, the number is from Other trading activities income."
+        }
+      },
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 218000.0,
+          "name": "people (singular: person) with Alzheimer\u0027s supported",
+          "description": "Supported means by direct work in Local services, Dementia Connect, National Helpline and Talking Point"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "49332000",
+          "currency": "GBP",
+          "value100p": 4.9332E11,
+          "value": 4.9332E7
+        }
+      ],
+      "name": "New Deal on Support"
+    },
+    {
+      "outputs": [
+        {
+          "number": 950.0,
+          "name": "researchers (singular:researcher) funded"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12088000",
+          "currency": "GBP",
+          "value100p": 1.2088E11,
+          "value": 1.2088E7
+        }
+      ],
+      "name": "New Deal on Research"
+    },
+    {
+      "outputs": [
+        {
+          "number": 183000.0,
+          "name": "New Dementia Friends (singular:friend) enrolled",
+          "description": "According to AS, Dementia Friends are\nall raising awareness locally and reducing stigma in public places,\norganisations and government. Almost 30,000 Dementia Friends were\nactive in volunteering, campaigning and fundraising in support of AS\u0027s work. \nThe funds also go to events such as Dementia Week, to efforts to inlude more people with dementia into the workforce or to influence MPs."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends45/0000296645_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11899000",
+          "currency": "GBP",
+          "value100p": 1.1899E11,
+          "value": 1.1899E7
+        }
+      ],
+      "name": "New Deal on Society"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "113248000",
+          "currency": "GBP",
+          "value100p": 1.13248E12,
+          "value": 1.13248E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "16,794,000",
+        "currency": "",
+        "value100p": 1.6794E11,
+        "value": 1.6794E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 190520.0,
+          "name": "users (singular: user) to receive phone, online, or face-to-face support"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "48400000",
+          "currency": "GBP",
+          "value100p": 4.84E11,
+          "value": 4.84E7
+        }
+      ],
+      "name": "New Deal on Support",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11700000",
+          "currency": "GBP",
+          "value100p": 1.17E11,
+          "value": 1.17E7
+        }
+      ],
+      "name": "New Deal on Society"
+    },
+    {
+      "outputs": [
+        {
+          "number": 378.0,
+          "name": "dementia researchers (singular: researcher) funded"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8300000",
+          "currency": "GBP",
+          "value100p": 8.3E10,
+          "value": 8300000.0
+        }
+      ],
+      "name": "New Deal on Research"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Alzheimer\u0027s Society provides services to people affected by dementia, including daycare and home care, support and befriending services across England, Wales, Guernsey, Isle of Man and Northern Ireland. They invest in research and campaign for the rights of people with dementia and those who care for them.\n\nProgrammes include:\nPersonal Choice Programme, the Alzheimer\u0027s Society personalisation programme which works to ensure people with dementia have choice and control over their own care and support.\n\nDementia Voice, which allows people with dementia to shape Alzheimer\u0027s Society\u0027s work and use their experience to ensure everything AS does reflects the needs of people affected. \n\nCarer Information and Support Programme, which provides support and up-to-date, relevant information in a group environment, where carers can share experiences and find out about local and national services that can offer support.  \n\nTraining and consultancy, which provides tailored dementia training and consultancy services across all sectors, delivered by specially-trained experts.\n\nAs of our review of the 2019 accounts, a substantial majority of Alzheimer\u0027s Society\u0027s charitable efforts are on direct work with beneficiaries with Alzheimer\u0027s.",
+  "recommendation": "**Alzheimer’s Society is rated as Not Recommended (tentative) on the SoGive ratings scale.**\n\nAlzheimer\u0027s Society provides services to people affected by dementia, including daycare and home care, support, and befriending services across the UK. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- How much does it cost for the charity to do something\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Alzheimer’s Society does**\n\n2019/20 was the third year of Alzheimer’s Society’s five-year strategy called the New Deal on Dementia. This strategy is divided into three pillars. \n\nThe first pillar is the New Deal on Support. This is centered around their service called Dementia Connect, which provides people with dementia and their carers with phone, online, and face-to-face support, including online resources to learn more about dementia and online support communities of people in similar situations. According to their [2019/20 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10701746\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d296645), they spent £48,400,000 on this pillar, providing services to 190,520 unique users. This implies an average cost of £254 per user.\n\nThe second pillar is the New Deal on Society. This entails work to ensure society is a more welcoming place for people with dementia, such as raising awareness of dementia and influencing policy makers. During 2019/20 they spent £11,700,000 on this pillar.\n\nThe third pillar is the New Deal on Research. This includes funding research on treating and preventing dementia, improving care and diagnosis, and understanding its causes. During 2019/20 they spent £8,300,000 on this pillar, funding 180 grants and 378 researchers who published over 550 publications.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Alzheimer’s Society under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £5000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nIt is unlikely that Alzheimer’s Society New Deal on Support pillar is cost-effective compared to the SoGive Gold-standard. Though it is possible these services have a large positive impact on users’ mental health, if they did not exist, most people would likely resort to their next-best alternative as opposed to forgo receiving any support services at all. There are a wide range of freely available alternatives for these support services-including the NHS, Dementia UK, Alzheimer’s Association, and [others](https://www.verywellhealth.com/best-dementia-support-groups-4843171)-that appear to be capable of assisting Alzheimer’s Society’s users if Alzheimer’s Society was unable to provide this support. Even if Alzheimer’s Society’s services are better, they do not appear to be so much better that being assisted by them, as opposed to the next-most-likely alternative, is tantamount to the equivalent of averting 15 months of severe depression, which is what a SoGive Gold-rated charity could achieve for £254 per person. It is important to note that what donors to Alzheimer’s Society are funding is generally not the difference between people receiving support services versus not receiving support services, but receiving support services from Alzheimer’s Society versus their next-most-likely option if Alzheimer’s Society did not exist. \n\nWe are not able to evaluate the cost-effectiveness of Alzheimer’s Society’s New Deal on Society because we do not have enough information about its impact based on Alzheimer’s Society’s annual reports. Though they do list one outcome for that year-increasing the number of Dementia Friends (people committed to being allies to those with dementia) from 2.8 million to 3 million-it is not clear how much of the money spent on the New Deal on Society went to that specific initiative. The outcomes of the rest of the initiatives are also not disclosed in a way in which we can evaluate.\n\nAlzheimer’s Society’s New Deal on Research may be cost-effective compared to the SoGive Gold-standard. However, research only entails 12% of Alzheimer’s Society’s budget. This means that if it were cost-effective, it would probably be more efficient to fund this research directly (perhaps through an organization that primarily focuses on dementia research) than donating to Alzheimer’s Society. The same is true for the New Deal on Society.\n\nSince the New Deal on Support entails 71% of Alzheimer Society’s budget and has been assessed as not cost-effective, this gives us enough information to be able to make a judgment on the charity as a whole.\n\n**Conclusion**\n\nBased on the above, we rate Alzheimer’s Society as Not Recommended (tentative) under the SoGive methodology. \n",
+  "whyTags": "Health",
+  "UNSDG": "3",
+  "ready": true,
+  "modified": false,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alzheimer%27s_Society_logo.png/209px-Alzheimer%27s_Society_logo.png",
+  "unsdg": "3",
+  "@id": "alzheimer-s-society",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alzheimer%27s_Society",
+  "summaryDescription": "Alzheimer\u0027s society is a UK-based dementia support and research charity.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/alzheimer-3237182603538336835.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Alzheimer\u0027s Society",
+    "alzheimer-s-society"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "alzheimer-s-society",
+      "name": "users (singular: user) to receive phone, online, or face-to-face support",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2540415,
+        "value": "254.041570438799079200000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.alzheimers.org.uk/",
+  "howTags": "Direct work, information, consultancy, training, policy, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "users (singular: user) to receive phone, online, or face-to-face support",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2540415,
+      "value": "254.041570438799079200000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Alzheimer\u0027s Society",
+  "category": "research",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "296645",
+  "uk_giftaid": true,
+  "whereTags": "England, Wales, Guernsey, Isle of Man, Northern Ireland",
+  "status": "PUBLISHED"
+}
