@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Bounce Cinema",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/Bounce_Cinema_Film_Fund-1234075920823363839.png#ccrop:80",
-  "id": "bounce-cinema",
+  "name": "Mercy Corps",
+  "logo": "https://media.good-loop.com/uploads/standard/mercy-corps-logo-C07F3F5CE0-seeklogo.com-13079759043103618011.png#ccrop:80",
+  "id": "mercy-corp",
   "suggest": [
-    "",
-    "Bounce Cinema"
+    "Mercy Corps"
   ],
-  "url": "https://www.bouncecinema.com/",
   "status": "DRAFT"
 }
