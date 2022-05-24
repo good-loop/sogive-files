@@ -16,7 +16,7 @@
   "logo": "https://media.good-loop.com/uploads/raw/Smileonwhite_1-11897212155822113846.jpg",
   "@id": "smile-through-sport",
   "wikipedia": "",
-  "extendedDescription": "Smile Through Sport is a registered charity existing to benefit the North East community.\n\nOur primary objectives are:-\n\n-To promote the health of disabled people\n-Create opportunities for disabled people to participate in sport and physical activity\nTo support all providers of sport and physical activity to include disabled people",
+  "extendedDescription": "Smile Through Sport is a registered charity existing to benefit the North East community.\n\nOur primary objectives are:-\n\n-To promote the health of disabled people\n-Create opportunities for disabled people to participate in sport and physical activity\n-To support all providers of sport and physical activity to include disabled people",
   "summaryDescription": "Smile Through Sport was founded to provide the opportunity for disabled people of all ages across the North East to access high quality sport and physical activity.",
   "imageList": [
     {
@@ -26,7 +26,10 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
