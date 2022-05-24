@@ -20,17 +20,17 @@
   "summaryDescription": "Smile Through Sport was founded to provide the opportunity for disabled people of all ages across the North East to access high quality sport and physical activity.",
   "imageList": [
     {
-      "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
-      "@type": "ImageObject"
-    },
-    {
       "contentUrl": "https://media.good-loop.com/uploads/raw/SMILEAthletics-17885964257206138123.jpg",
       "@type": "ImageObject"
     },
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/Smile-071-2048x1324-10936813092277560360.jpeg",
       "@type": "ImageObject"
+    },
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
+      "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
