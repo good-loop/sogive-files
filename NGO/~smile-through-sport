@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "SMILE Through Sport",
   "name": "smile-through-sport",
   "@id": "smile-through-sport",
   "suggest": [
     "smile-through-sport",
+    "SMILE Through Sport",
     "smile-through-sport"
-  ]
+  ],
+  "status": "DRAFT"
 }
