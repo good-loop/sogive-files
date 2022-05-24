@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "SMILE Through Sport",
   "name": "new-charity",
+  "description": "Founded by paralypian Stephen Miller in 2013, ",
   "@id": "new-charity",
   "suggest": [
     "new-charity",
