@@ -718,6 +718,37 @@
         }
       },
       "name": "Seasonal Malaria Chemoprevention"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "Found on page 30 of the annual report for 2021.",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "error": {}
+        }
+      ],
+      "name": "Preventative Treatment"
     }
   ],
   "@type": "NGO",
