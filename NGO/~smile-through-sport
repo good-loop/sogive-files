@@ -23,8 +23,9 @@
       "@type": "ImageObject"
     },
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
       "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
