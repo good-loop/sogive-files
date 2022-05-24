@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "SMILE Through Sport",
   "name": "new-charity",
   "@id": "new-charity",
   "suggest": [
     "new-charity",
+    "SMILE Through Sport",
     "new-charity"
   ],
   "category": "animals",
