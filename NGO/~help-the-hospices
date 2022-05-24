@@ -15,11 +15,11 @@
       "@type": "Project",
       "inputs": [
         {
-          "value100": 5.596E8,
           "@type": "MonetaryAmount",
           "name": "annualCosts",
           "raw": "5596000",
           "currency": "GBP",
+          "value100p": 5.596E10,
           "value": 5596000.0
         },
         {
@@ -41,6 +41,32 @@
       "name": "overall",
       "start": "2015-04-01",
       "end": "2016-03-31"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "6,450",
+          "currency": "GBP",
+          "value100p": 6.45E7,
+          "value": 6450.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -57,7 +83,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2016.0]"
+    "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "ready": false,
   "name": "Help The Hospices",
@@ -69,5 +95,5 @@
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
