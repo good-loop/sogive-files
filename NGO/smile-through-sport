@@ -26,6 +26,10 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
       "@type": "ImageObject"
+    },
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Smile-071-2048x1324-10936813092277560360.jpeg",
+      "@type": "ImageObject"
     }
   ],
   "status": "DRAFT"
