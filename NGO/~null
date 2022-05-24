@@ -1,6 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Bounce Cinema",
+  "name": "",
   "id": "bounce-cinema",
-  "suggest": [],
+  "suggest": [
+    "",
+    "Bounce Cinema"
+  ],
   "status": "DRAFT"
 }
