@@ -679,10 +679,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "29291000",
+          "raw": "37384000",
           "currency": "GBP",
-          "value100p": 2.9291E11,
-          "value": 2.9291E7
+          "value100p": 3.7384E11,
+          "value": 3.7384E7
         }
       ],
       "meta": {
