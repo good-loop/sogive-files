@@ -11,7 +11,7 @@
     "smile-through-sport"
   ],
   "url": "https://smilethroughsport.com",
-  "headerImage": "https://media.good-loop.com/uploads/standard/smile-5757446259622328886.jpg",
+  "headerImage": "https://media.good-loop.com/uploads/standard/STS36-1500x630-14942075287852147372.jpeg",
   "name": "smile-through-sport",
   "logo": "https://media.good-loop.com/uploads/raw/Smileonwhite_1-11897212155822113846.jpg",
   "@id": "smile-through-sport",
@@ -20,6 +20,10 @@
   "imageList": [
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/SMILEAthletics-17885964257206138123.jpg",
+      "@type": "ImageObject"
+    },
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/smile-14830251227973962282.jpg",
       "@type": "ImageObject"
     }
   ],
