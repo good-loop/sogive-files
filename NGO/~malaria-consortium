@@ -732,7 +732,8 @@
           "notes": "Found on page 24 of the 2021 annual report."
         }
       },
-      "name": "Seasonal Malaria Chemoprevention"
+      "name": "Seasonal Malaria Chemoprevention",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -791,13 +792,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "malaria-consortium",
-      "name": " children (singular: child) receiving SMC malaria treatment",
+      "name": "Children (singular: Child) Provided with SMC",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 75000,
-        "value": "7.5"
+        "value100p": 36300,
+        "value": "3.63",
+        "name": ""
       },
       "n": 1.0
     }
@@ -808,13 +809,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": " children (singular: child) receiving SMC malaria treatment",
+    "name": "Children (singular: Child) Provided with SMC",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 75000,
-      "value": "7.5"
+      "value100p": 36300,
+      "value": "3.63",
+      "name": ""
     }
   },
   "whoTags": "Children",
