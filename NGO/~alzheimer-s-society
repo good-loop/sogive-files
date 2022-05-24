@@ -752,10 +752,10 @@
     }
   },
   "name": "Alzheimer\u0027s Society",
-  "category": "research",
+  "category": "health",
   "subcategory": "Patient and Family Support",
   "englandWalesCharityRegNum": "296645",
   "uk_giftaid": true,
   "whereTags": "England, Wales, Guernsey, Isle of Man, Northern Ireland",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
