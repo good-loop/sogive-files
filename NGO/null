@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Invisible People",
-  "logo": "https://media.good-loop.com/uploads/standard/download_12-3747229199451839598.png#ccrop:101",
-  "id": "invisible-people",
+  "name": "Hispanic Star",
+  "logo": "https://media.good-loop.com/uploads/standard/icon-1-3936831454727355381.png#ccrop:85",
+  "id": "hispanic-star",
   "suggest": [
-    "Invisible People"
+    "Hispanic Star"
   ],
   "status": "DRAFT"
 }
