@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Hispanic Star",
-  "logo": "https://media.good-loop.com/uploads/standard/icon-1-3936831454727355381.png",
-  "id": "hispanic-star",
-  "suggest": [
-    "Hispanic Star"
-  ],
-  "status": "MODIFIED"
+  "id": "the-wildlife-trusts",
+  "suggest": []
 }
