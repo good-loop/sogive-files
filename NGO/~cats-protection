@@ -1,0 +1,648 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 200000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "cat(s) helped",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "You\u0027ve helped XXXX cats and kittens",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.785E11,
+          "value": 4.785E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.284E10,
+          "value": 5284000.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.199E10,
+          "value": 2199000.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.cats.org.uk/uploads/documents/Cats_Protection_Annual_Report_and_Accounts_2015_web_vr3.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 54000.0,
+          "meta": {
+            "all": {
+              "notes": "2019 annual review (p.21) only says 225,000 over the past five years. Subtracting the figures for 2015-2018, the 2019 figure is 54,000. \nhttps://docs.google.com/spreadsheets/d/1Gy4sZv_WZRQzdfwVH0e3tBvyBnuEJnhSFx7_7BHLSDI/edit#gid\u003d1258909506"
+            }
+          },
+          "confidence": "medium",
+          "name": "cat(s) rehomed",
+          "description": "This refers to finding homes for stray, homeless, or unwanted cats. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/4591/annual-report-accounts-2019.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/2533/annual-review-2018.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1514/com_2909-annual-review-2017-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1529/cats_protection_annual_review_2016-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1528/cats_protection_annual_review_2015_web.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "33836000",
+          "currency": "GBP",
+          "value100p": 3.3836E11,
+          "value": 3.3836E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.55 annual report"
+        }
+      },
+      "name": "Rehoming Cats",
+      "description": "Cats Protection rehomes cats that are stray, lost, or abandoned. "
+    },
+    {
+      "outputs": [
+        {
+          "number": 143000.0,
+          "meta": {
+            "all": {
+              "notes": "2019 annual review (p.21) only says 750,000 over the past five year. Subtracting the figures for 2015-2018, the 2019 figure is 143,000. https://docs.google.com/spreadsheets/d/1Gy4sZv_WZRQzdfwVH0e3tBvyBnuEJnhSFx7_7BHLSDI/edit#gid\u003d1258909506"
+            }
+          },
+          "confidence": "medium",
+          "name": "cat(s) neutered",
+          "description": "This refers to cats\u0027 reproductive organs being removed to prevent an overpopulation of cats resulting in abandonment. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/4591/annual-report-accounts-2019.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/2533/annual-review-2018.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1514/com_2909-annual-review-2017-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1529/cats_protection_annual_review_2016-web.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/1528/cats_protection_annual_review_2015_web.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6523000",
+          "currency": "GBP",
+          "value100p": 6.523E10,
+          "value": 6523000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.55 annual report"
+        }
+      },
+      "name": "Reducing Overpopulation of Cats",
+      "description": "Cats Protection works with other animal charities such as the RSCPA to address the underlying causes of cat overpopulation, undertaking cat neutering (removing cats\u0027 reproductive organs) to prevent an overpopulation of cats resulting in abandonment. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/4591/annual-report-accounts-2019.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://education.cats.org.uk/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5282000",
+          "currency": "GBP",
+          "value100p": 5.282E10,
+          "value": 5282000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.55 annual report"
+        },
+        "description": {
+          "notes": "See website reference for description"
+        }
+      },
+      "name": "Education \u0026 Information",
+      "description": "Cats Protection holds educational talks for schools and community groups to change attitudes and behaviours within society. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/4591/annual-report-accounts-2019.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/adopt-a-cat/what-is-our-adoption-fee"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "71273000",
+          "currency": "GBP",
+          "value100p": 7.1273E11,
+          "value": 7.1273E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "11780000",
+          "currency": "GBP",
+          "value100p": 1.178E11,
+          "value": 1.178E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2103000",
+          "currency": "GBP",
+          "value100p": 2.103E10,
+          "value": 2103000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.55 annual report\n\nTrading costs: shops 10,111,000 + commercial trading 1,669,000 \u003d 11,780,000.\n\nIncome from beneficiaries are fees paid by people adopting cats being rehomed. See website reference for details. "
+        },
+        "reserves": {
+          "notes": "p.71 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "30285000",
+        "currency": "GBP",
+        "value100p": 3.0285E11,
+        "value": 3.0285E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/9386/cats-protection-annual-report-2020.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "66473000",
+          "currency": "GBP",
+          "value100p": 6.6473E11,
+          "value": 6.6473E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "9809000",
+          "currency": "GBP",
+          "value100p": 9.809E10,
+          "value": 9809000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1679000",
+          "currency": "GBP",
+          "value100p": 1.679E10,
+          "value": 1679000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p33, p58. trading costs \u003d\u003d 9055000 (shops) +754000 (commercial trading operations) \u003d 9809000. Income from beneficiaries ≡ rehoming fees. "
+        },
+        "reserves": {
+          "notes": "p51 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "42700000",
+        "currency": "",
+        "value100p": 4.27E11,
+        "value": 4.27E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 27000.0,
+          "meta": {
+            "all": {
+              "notes": "https://www.cats.org.uk/about-cp/annual-review \n\nuncertain where to allocate the trading costs to?"
+            }
+          },
+          "confidence": "medium",
+          "name": "Cats (singular:cat) rehomed",
+          "description": "Cats Protection takes in vulnerable cats (ie. mums and litters) and then rehomes them using their new hands-free process "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/9386/cats-protection-annual-report-2020.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/about-cp/annual-review"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1679000",
+          "currency": "GBP",
+          "value100p": 1.679E10,
+          "value": 1679000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "31700000",
+          "currency": "GBP",
+          "value100p": 3.17E11,
+          "value": 3.17E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "income from beneficiaries \u003d rehoming fees (p33 annual report)"
+        }
+      },
+      "name": "Rehoming cats ",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 109000.0,
+          "meta": {
+            "all": {
+              "notes": "https://www.cats.org.uk/about-cp/annual-review"
+            }
+          },
+          "confidence": "medium",
+          "name": "cats neutered",
+          "description": "Cat Protection performs procedures to neuter cats, in order to prevent unwanted litters (and often, subsequently, abandonment). "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/about-cp/annual-review"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.cats.org.uk/media/9386/cats-protection-annual-report-2020.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5200000",
+          "currency": "GBP",
+          "value100p": 5.2E10,
+          "value": 5200000.0
+        }
+      ],
+      "name": "Reducing overpopulation of cats "
+    },
+    {
+      "outputs": [
+        {
+          "number": 16000.0,
+          "meta": {
+            "all": {
+              "notes": "https://www.cats.org.uk/about-cp/annual-review"
+            }
+          },
+          "confidence": "low",
+          "name": "Information packs downloaded",
+          "description": "Cat Protection provides online education packs that teach owners about cat welfare. "
+        },
+        {
+          "number": 120000.0,
+          "meta": {
+            "all": {
+              "notes": "https://www.cats.org.uk/about-cp/annual-review"
+            }
+          },
+          "confidence": "low",
+          "name": "enquiries from the public addressed",
+          "description": "Cat Protection provides expert advice on enquiries from the public about cat welfare."
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5100000",
+          "currency": "GBP",
+          "value100p": 5.1E10,
+          "value": 5100000.0
+        }
+      ],
+      "name": "Education and information "
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Cats Protection",
+  "description": "[Cats Protection](http://www.cats.org.uk/) rescues and rehomes stray or homeless cats, conducts neutering to reduce the number of unwanted cats, and educates people about cat welfare. ",
+  "recommendation": "**Cats Protection is rated as Not recommended (firm) on the SoGive ratings scale**\n\n[Cats Protection](http://www.cats.org.uk/), formerly The Cat Protection League, aims to improve cat welfare both through direct work and by educating the public. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n\n**More about what Cats Protection does**\n\n[Cats Protection](http://www.cats.org.uk/) rescues and rehomes stray or homeless cats, conducts neutering to prevent overpopulation of cats (and subsequently, abandonment), and educates people about cat welfare. In the 2019/2020 financial year, their charitable activities involved spending £42.091m, on rehoming 27,000 cats (£31.7m, 75.31% of expenditure on charitable activities), neutering 109,000 cats (£5.2m, 12.35%) and providing information on cat welfare to the public (£5.1m, 12.12%) ([Annual Report](https://www.cats.org.uk/media/9386/cats-protection-annual-report-2020.pdf), p33). As part of the information provision Cat Protection answered 120,000 enquiries from the public about cat welfare. Moreover, much of their information provision has moved online, and in 2020, 16,000 copies of the information packets were [downloaded](https://www.cats.org.uk/about-cp/annual-review). \n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Cats Protection under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £5 to avert the suffering of one chicken who is living in very poor conditions) and also provide robust evidence on the effectiveness of their work.\n\nCats Protection’s largest project by far is rehoming cats. Cats Protection was able to rehome 27,000 cats, at a cost of £30m (calculated from the total expenditure of £31.7m, less the rehoming fees paid to the charity by the new cat owners, which amounted to £1.7m ([Annual Report](https://www.cats.org.uk/media/9386/cats-protection-annual-report-2020.pdf), p.58). Thus, the cost per rehomed cat works out to £1,112. This clearly falls short of the SoGive Gold-standard benchmark (where the most comparable benchmark is £5 to avert the suffering of one chicken who is living in very poor conditions). Although it is arguably justifiable to value the welfare of a cat over a chicken’s welfare, in this case, the cost per rehomed cat is high enough that we would have to value the welfare of a cat over 200x the welfare of a chicken, in order for it to even approach the Gold Standard. \n\nAnother project is its cat neutering services, which prevent unwanted litters and cat overpopulation. Given that 109,000 cats were neutered at the cost of £31.7m, the cost per neutered cat is about £48. However, this still falls short of the relevant Gold-standard benchmark (ie. £5 to avert the suffering of one chicken who is living in very poor conditions). Even though cats have an average lifespan of 13-17 years, there is nothing to suggest that the cats being neutered would be living in \"very poor conditions\", if they had not been neutered - rather, neutering the cats prevents potential future kittens from potentially being maltreated/abandoned. As such, this project most likely still underperforms the relevant benchmark (unless moral weight is given to potential lives as well). \n\nLastly, Cat Protection’s education and information provision program answered 120,000 enquiries from the public, and its information packs were downloaded 16000 times in 2020. This cost £5.1m. There is a lack of clarity surrounding the specific breakdown of expenditure within this program. Adding all the downloads together would provide a cost per information pack of £37.50. However, arguably, the additional cost, per additional download of the information pack, is negligible. Thus, the cost per beneficiary could also be calculated as total expenditure divided by number of enquiries answered - ie. £42.50. Given that the most relevant benchmark is £5 to avert the suffering of one chicken who is living in very poor conditions (as noted before), it is likely that the value of an enquiry to Cats Protection cannot provide a similar amount of value. This is because, even under extremely generous assumptions about the impact of an answered enquiry (ie. that answering the enquiry alleviates immense suffering for a cat,, even accounting for the fact that cat welfare may be valued above a chicken’s welfare), it is likely that Cats Protection underperforms a Gold standard charity. \n\nOne point of consideration is that this analysis (for the 2019/2020 financial year) is not necessarily representative of their usual cost per beneficiary, as COVID-19 significantly  impacted their two largest projects (rehoming cats, and neutering them, respectively). However, even taking that into consideration, and using the financial figures from the 2018/2019 financial report, the cost-effectiveness of each project still falls below the SoGive Gold-standard benchmarks. \n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n**Conclusion**\n\nBased on the above, we rate Cat Protection as \"Not recommended (firm)\" under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness, and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "whyTags": "Animals",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/cats-protection-logo-8854835272299605511.svg#ccrop:71",
+  "@id": "cats-protection",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cats_Protection",
+  "summaryDescription": "Cats Protection, formerly The Cat Protection League, aims to improve cat welfare both through direct work and by educating the public.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/catsprotection-439717424811060399.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Cats protection",
+    "Cats Protection",
+    "cats-protection"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "cats-protection",
+      "name": "Cats (singular:cat) rehomed",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 11118888,
+        "value": "1111.888888888888887777000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.cats.org.uk",
+  "howTags": "Direct work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Cats (singular:cat) rehomed",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 11118888,
+      "value": "1111.888888888888887777000"
+    }
+  },
+  "whoTags": "Animals",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Cats protection",
+  "lastModified": "2020-11-14T00:19:28Z",
+  "englandWalesCharityRegNum": "203644",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
