@@ -1,0 +1,19 @@
+{
+  "scotlandCharityRegNum": "SC038951",
+  "images": "https://media.good-loop.com/uploads/raw/9b1ff27ba62d80f80a0699c4614d7bbe-16474753759324712859.jpg",
+  "@type": "NGO",
+  "displayName": "Plantlife International",
+  "suggest": [
+    "Plantlife International - The Wild-Plant Conservation Charity",
+    "Plantlife International",
+    "plantlife-international-the-wild-plant-conservation-charity"
+  ],
+  "url": "https://www.plantlife.org.uk",
+  "name": "Plantlife International - The Wild-Plant Conservation Charity",
+  "logo": "https://media.good-loop.com/uploads/raw/plantlife-logo3-4619254495085982947.png#ccrop:95",
+  "@id": "plantlife-international-the-wild-plant-conservation-charity",
+  "summaryDescription": "A British conservation charity working nationally and internationally to save threatened wildflowers, plants, and fungi. Plantlife is a beneficiary of HRH The Prince of Wales.",
+  "englandWalesCharityRegNum": "1059559",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
