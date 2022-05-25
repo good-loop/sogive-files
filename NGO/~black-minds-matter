@@ -5,7 +5,7 @@
   "displayName": "Black Minds Matter",
   "name": "black-minds-matter",
   "logo": "https://media.good-loop.com/uploads/standard/W_on_B_logo-2585772691536418235.png",
-  "description": "Black Minds Matter UK is a fully registered charity operating in the UK; connecting Black individuals and families with free mental health services- by professional Black therapists to support their mental health.",
+  "description": "Black Minds Matter UK operating in the UK; connecting Black individuals and families with free mental health services- by professional Black therapists to support their mental health.",
   "@id": "black-minds-matter",
   "suggest": [
     "black-minds-matter",
@@ -13,5 +13,5 @@
     "black-minds-matter"
   ],
   "id": "black-minds-matter",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
