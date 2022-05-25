@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "Hispanic Star",
-  "logo": "https://media.good-loop.com/uploads/standard/icon-1-3936831454727355381.png#ccrop:85",
-  "id": "hispanic-star",
+  "displayName": "The Wildlife Trusts",
+  "name": "The Wildlife Trusts",
+  "logo": "https://media.good-loop.com/uploads/standard/TWT__LOGO-5554089553312002579.png#ccrop:90",
+  "id": "the-wildlife-trusts",
   "suggest": [
-    "Hispanic Star"
+    "The Wildlife Trusts",
+    "The Wildlife Trusts"
   ],
+  "url": "https://www.wildlifetrusts.org/",
   "status": "DRAFT"
 }
