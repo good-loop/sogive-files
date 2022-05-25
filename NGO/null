@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Mercy Corps",
-  "logo": "https://media.good-loop.com/uploads/standard/mercy-corps-logo-C07F3F5CE0-seeklogo.com-13079759043103618011.png#ccrop:59",
-  "id": "mercy-corp",
+  "name": "Hispanic Star",
+  "logo": "https://media.good-loop.com/uploads/standard/hispanic-star-logo-PAGE-2020-6155579397783395045.jpg#ccrop:197",
+  "id": "hispanic-star",
   "suggest": [
-    "Mercy Corps"
+    "Hispanic Star"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
