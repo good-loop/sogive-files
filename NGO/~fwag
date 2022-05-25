@@ -3,6 +3,7 @@
   "@type": "NGO",
   "displayName": "Farming and Wildlife Advisory Groups",
   "name": "fwag",
+  "logo": "https://media.good-loop.com/uploads/standard/FWAG-7168094391070324852.jpg#ccrop:90",
   "@id": "fwag",
   "suggest": [
     "fwag",
