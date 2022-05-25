@@ -4,7 +4,7 @@
   "@type": "NGO",
   "displayName": "Black Minds Matter",
   "name": "black-minds-matter",
-  "logo": "https://media.good-loop.com/uploads/standard/Copy-of-ARSC-4-4285372329456017228.png",
+  "logo": "https://media.good-loop.com/uploads/standard/W_on_B_logo-2585772691536418235.png",
   "@id": "black-minds-matter",
   "suggest": [
     "black-minds-matter",
@@ -12,5 +12,5 @@
     "black-minds-matter"
   ],
   "id": "black-minds-matter",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
