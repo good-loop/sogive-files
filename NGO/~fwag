@@ -1,0 +1,17 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/arnowl-5285887373622246516.jpeg",
+  "@type": "NGO",
+  "displayName": "Farming and Wildlife Advisory Groups",
+  "name": "fwag",
+  "@id": "fwag",
+  "suggest": [
+    "fwag",
+    "Farming and Wildlife Advisory Groups",
+    "fwag"
+  ],
+  "id": "fwag",
+  "summaryDescription": "FWAG was first established as a charity in the 1960s by a group of forward thinking farmers who saw that the environment was an important part of a successful farming business. The FWAG Association succeeded FWAG in 2011. It represents a coming together of the local Farming \u0026 Wildlife Advisory Groups which continue to serve the farming community up and down the country today, according to the original FWAG standards and values.",
+  "englandWalesCharityRegNum": "1146071",
+  "url": "https://www.fwagsw.org.uk/",
+  "status": "DRAFT"
+}
