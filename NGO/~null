@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "The Wildlife Trusts",
   "name": "The Wildlife Trusts",
   "id": "the-wildlife-trusts",
   "suggest": [
+    "The Wildlife Trusts",
     "The Wildlife Trusts"
   ],
   "status": "DRAFT"
