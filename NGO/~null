@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
   "name": "Hispanic Star",
-  "logo": "https://media.good-loop.com/uploads/standard/hispanic-star-logo-PAGE-2020-13316538817047057488.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/icon-1-3936831454727355381.png",
   "id": "hispanic-star",
   "suggest": [
     "Hispanic Star"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
