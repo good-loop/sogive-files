@@ -1,12 +1,13 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@type": "NGO",
-  "displayName": "Freedom 4 Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/Freedom-4-girls-circle-14175763583139389080.png#ccrop:120",
-  "id": "freedom-4-girls",
+  "displayName": "Dunkin\u0027 Joy in Childhood Foundation",
+  "name": "Dunkin\u0027 Joy in Childhood Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/DUNKIN__JICF__Logo__RGB-13254940458121690768.png#ccrop:84",
+  "id": "dunkin-joy-in-childhood-foundation",
   "suggest": [
-    "Freedom 4 Girls"
+    "Dunkin\u0027 Joy in Childhood Foundation",
+    "Dunkin\u0027 Joy in Childhood Foundation"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
-  "status": "MODIFIED"
+  "url": "https://www.joyinchildhoodfoundation.org/",
+  "status": "DRAFT"
 }
