@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Dunkin\u0027 Joy in Childhood Foundation",
   "id": "dunkin-joy-in-childhood-foundation",
-  "suggest": []
+  "suggest": [
+    "Dunkin\u0027 Joy in Childhood Foundation"
+  ],
+  "status": "DRAFT"
 }
