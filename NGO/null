@@ -1,17 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/333__4c68f10430b81bb-1067x600-8616514681968703195.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@type": "NGO",
-  "displayName": "Cool Earth",
-  "name": "Cool Earth",
-  "logo": "https://media.good-loop.com/uploads/standard/Coolearth__logo-18250161521111825764.svg#ccrop:70",
-  "description": "Cool Earth is a UK-based international NGO that protects endangered rainforest in order to combat global warming, protect ecosystems and to provide employment for local people.",
-  "id": "cool-earth",
+  "displayName": "Freedom 4 Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/Freedom-4-girls-circle-14175763583139389080.png",
+  "id": "freedom-4-girls",
   "suggest": [
-    "Cool Earth",
-    "Cool Earth"
+    "Freedom 4 Girls"
   ],
-  "englandWalesCharityRegNum": "1117978",
-  "summaryDescription": "Backs local people to protect rainforest and fight the climate crisis.",
-  "url": "https://www.coolearth.org/",
+  "url": "https://www.freedom4girls.co.uk/",
   "status": "DRAFT"
 }
