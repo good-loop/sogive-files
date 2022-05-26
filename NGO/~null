@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/raw/333__4c68f10430b81bb-1067x600-8616514681968703195.jpg",
   "@type": "NGO",
   "displayName": "Cool Earth",
   "name": "Cool Earth",
@@ -10,6 +11,7 @@
     "Cool Earth"
   ],
   "englandWalesCharityRegNum": "1117978",
+  "summaryDescription": "Backs people to protect rainforest and fight the climate crisis.",
   "url": "https://www.coolearth.org/",
   "status": "PUBLISHED"
 }
