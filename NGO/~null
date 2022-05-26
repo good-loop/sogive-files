@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "The Nature Conservancy",
+  "name": "The Nature Conservancy",
   "id": "the-nature-conservancy",
-  "suggest": []
+  "suggest": [
+    "The Nature Conservancy",
+    "The Nature Conservancy"
+  ],
+  "status": "DRAFT"
 }
