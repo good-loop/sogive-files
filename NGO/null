@@ -1,13 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "The Wildlife Trusts",
-  "name": "The Wildlife Trusts",
-  "logo": "https://media.good-loop.com/uploads/standard/TWT__LOGO-5554089553312002579.png#ccrop:90",
-  "id": "the-wildlife-trusts",
+  "displayName": "The Nature Conservancy",
+  "name": "The Nature Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-2949409948352932617.svg",
+  "description": "Nature Valley\u0027s Tree Planters",
+  "id": "the-nature-conservancy",
   "suggest": [
-    "The Wildlife Trusts",
-    "The Wildlife Trusts"
+    "The Nature Conservancy",
+    "The Nature Conservancy"
   ],
-  "url": "https://www.wildlifetrusts.org/",
+  "url": "https://www.nature.org/en-us/",
   "status": "DRAFT"
 }
