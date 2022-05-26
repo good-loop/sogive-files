@@ -2,7 +2,7 @@
   "@type": "NGO",
   "displayName": "The Nature Conservancy",
   "name": "The Nature Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-2949409948352932617.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-2949409948352932617.svg#ccrop:95",
   "description": "Nature Valley\u0027s Tree Planters",
   "id": "the-nature-conservancy",
   "suggest": [
@@ -10,5 +10,5 @@
     "The Nature Conservancy"
   ],
   "url": "https://www.nature.org/en-us/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
