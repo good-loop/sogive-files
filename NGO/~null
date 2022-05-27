@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Active Cumbria",
+  "name": "Active Cumbria",
   "id": "active-cumbria",
-  "suggest": []
+  "suggest": [
+    "Active Cumbria",
+    "Active Cumbria"
+  ],
+  "status": "DRAFT"
 }
