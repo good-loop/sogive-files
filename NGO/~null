@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Active Cheshire",
+  "name": "Active Cheshire",
   "id": "active-cheshire",
-  "suggest": []
+  "suggest": [
+    "Active Cheshire",
+    "Active Cheshire"
+  ],
+  "status": "DRAFT"
 }
