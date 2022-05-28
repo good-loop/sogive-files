@@ -469,7 +469,7 @@
         }
       },
       "name": "Clinical services",
-      "isRep": true
+      "isRep": false
     },
     {
       "outputs": [],
@@ -556,14 +556,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Veterans supported",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 20612244,
-      "value": "2061.22448979591842300000"
-    }
+    "name": "No Outputs! for project Project[Helpline 2019.0]"
   },
   "meta": {
     "noPublicDonations": {
