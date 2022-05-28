@@ -457,7 +457,7 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "7,775,000",
+          "raw": "7775000",
           "currency": "GBP",
           "value100p": 7.775E10,
           "value": 7775000.0
