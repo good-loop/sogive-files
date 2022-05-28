@@ -457,10 +457,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "7775000",
+          "raw": "10100000",
           "currency": "GBP",
-          "value100p": 7.775E10,
-          "value": 7775000.0
+          "value100p": 1.01E11,
+          "value": 1.01E7
         }
       ],
       "meta": {
@@ -545,8 +545,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 15867346,
-        "value": "1586.73469387755106325000"
+        "value100p": 20612244,
+        "value": "2061.22448979591842300000"
       },
       "n": 1.0
     }
@@ -561,8 +561,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 15867346,
-      "value": "1586.73469387755106325000"
+      "value100p": 20612244,
+      "value": "2061.22448979591842300000"
     }
   },
   "meta": {
