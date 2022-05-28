@@ -468,7 +468,8 @@
           "notes": "pg. 33 annual report"
         }
       },
-      "name": "Clinical services"
+      "name": "Clinical services",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -535,12 +536,34 @@
     "Combat Stress",
     "combat-stress"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "combat-stress",
+      "name": "Veterans supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 20612244,
+        "value": "2061.22448979591842300000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.combatstress.org.uk/",
   "howTags": "Direct work, campaigning",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Helpline 2019.0]"
+    "name": "Veterans supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 20612244,
+      "value": "2061.22448979591842300000"
+    }
   },
   "meta": {
     "noPublicDonations": {
