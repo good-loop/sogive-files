@@ -546,6 +546,37 @@
         }
       ],
       "name": "Giving Carers a stronger voice"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1361000",
+          "currency": "GBP",
+          "value100p": 1.361E10,
+          "value": 1361000.0
+        }
+      ],
+      "name": "Providing Carers with Support"
     }
   ],
   "@type": "NGO",
