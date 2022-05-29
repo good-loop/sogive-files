@@ -490,7 +490,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "raw": "4,486,715",
+          "currency": "GBP",
+          "value100p": 4.486715E10,
+          "value": 4486715.0
         },
         {
           "@type": "Money",
@@ -544,5 +547,5 @@
   "englandWalesCharityRegNum": "246329",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
