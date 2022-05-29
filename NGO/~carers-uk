@@ -475,6 +475,35 @@
       "start": "2018-04-01",
       "end": "2019-03-31",
       "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "file:///C:/Users/User/Downloads/carersukannrep2021webfinalvsmallf.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -515,5 +544,5 @@
   "englandWalesCharityRegNum": "246329",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
