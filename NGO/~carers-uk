@@ -539,10 +539,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1,136,459 ",
+          "raw": "1136000",
           "currency": "GBP",
-          "value100p": 1.136459E10,
-          "value": 1136459.0
+          "value100p": 1.136E10,
+          "value": 1136000.0
         }
       ],
       "name": "Giving Carers a stronger voice"
