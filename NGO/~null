@@ -1,16 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/my__good__loop__pantene__black__minds__matter__01-9760669583304443564.png",
   "@type": "NGO",
-  "displayName": "Black Minds Matter",
-  "unlisted": true,
-  "ready": false,
-  "name": "Black Minds Matter",
-  "logo": "https://media.good-loop.com/uploads/raw/fund-mental-health-workshops-6224880400944149057.svg",
-  "id": "mental-health-workshop",
-  "suggest": [
-    "Black Minds Matter",
-    "Black Minds Matter"
-  ],
-  "url": "https://blackmindsmatter.co.uk/",
-  "status": "PUBLISHED"
+  "id": "mental-health-ireland",
+  "suggest": []
 }
