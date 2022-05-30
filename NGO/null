@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Mental Health Ireland",
-  "logo": "https://media.good-loop.com/uploads/standard/mhi-main__logo-18287514277207264732.png",
-  "id": "mental-health-ireland",
+  "displayName": "Compass",
+  "logo": "https://media.good-loop.com/uploads/standard/Services-to-improve-health-and-wellbeing-to-reflect-the-breadth-of-services-delivered1-6281125936560093423.png",
+  "id": "compass",
   "suggest": [
-    "Mental Health Ireland"
+    "Compass"
   ],
-  "url": "https://www.mentalhealthireland.ie/",
+  "url": "https://www.compass-uk.org/",
   "status": "DRAFT"
 }
