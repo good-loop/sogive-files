@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Mental Health Ireland",
   "id": "mental-health-ireland",
-  "suggest": [],
+  "suggest": [
+    "Mental Health Ireland"
+  ],
   "status": "DRAFT"
 }
