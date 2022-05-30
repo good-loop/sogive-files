@@ -1,16 +1,11 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/my__good__loop__pantene__black__minds__matter__01-9760669583304443564.png",
   "@type": "NGO",
-  "displayName": "Black Minds Matter",
-  "unlisted": true,
-  "ready": false,
-  "name": "Black Minds Matter",
-  "logo": "https://media.good-loop.com/uploads/raw/fund-mental-health-workshops-6224880400944149057.svg",
-  "id": "mental-health-workshop",
+  "displayName": "Mental Health Ireland",
+  "logo": "https://media.good-loop.com/uploads/standard/mhi-main__logo-18287514277207264732.png",
+  "id": "mental-health-ireland",
   "suggest": [
-    "Black Minds Matter",
-    "Black Minds Matter"
+    "Mental Health Ireland"
   ],
-  "url": "https://blackmindsmatter.co.uk/",
-  "status": "MODIFIED"
+  "url": "https://www.mentalhealthireland.ie/",
+  "status": "DRAFT"
 }
