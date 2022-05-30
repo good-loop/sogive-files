@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "https://www.bupafoundation.org/",
   "id": "bupa-foundation",
-  "suggest": []
+  "suggest": [
+    "https://www.bupafoundation.org/"
+  ],
+  "status": "DRAFT"
 }
