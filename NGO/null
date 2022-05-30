@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Compass",
-  "logo": "https://media.good-loop.com/uploads/standard/Services-to-improve-health-and-wellbeing-to-reflect-the-breadth-of-services-delivered1-6281125936560093423.png",
-  "id": "compass",
+  "name": "Bupa Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Bupa-Foundation-logo-341x300-18390425869300525758.png#ccrop:95",
+  "id": "bupa-foundation",
   "suggest": [
-    "Compass"
+    "Bupa Foundation"
   ],
-  "url": "https://www.compass-uk.org/",
+  "url": "https://www.bupafoundation.org/",
   "status": "DRAFT"
 }
