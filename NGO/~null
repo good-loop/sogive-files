@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Mental Health Ireland",
+  "logo": "https://media.good-loop.com/uploads/standard/mhi-main__logo-18287514277207264732.png",
   "id": "mental-health-ireland",
   "suggest": [
     "Mental Health Ireland"
