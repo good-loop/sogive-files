@@ -780,6 +780,7 @@
   "whyTags": "Cancer, Children, Health",
   "parentCharityName": "Children With Cancer UK",
   "imageCaption": "Inauguration with Diana, Princess of Wales",
+  "ready": true,
   "modified": true,
   "logo": "https://app.sogive.org/uploads/anon/logo-2-7061331550074897380.svg",
   "@id": "children-with-cancer",
@@ -844,5 +845,5 @@
   "englandWalesCharityRegNum": "298405",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
