@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Fund Training",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_Technology_2-4739420830047583266.png#ccrop:140",
-  "id": "fund-training",
+  "name": "WOMEN IN MUSIC",
+  "logo": "https://media.good-loop.com/uploads/standard/WIMpurplelogo-7034224679089053520.png",
+  "id": "women-in-music",
   "suggest": [
-    "Fund Training"
+    "WOMEN IN MUSIC"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
