@@ -428,7 +428,8 @@
         {
           "number": 4900.0,
           "confidence": "very-low",
-          "name": "Veterans supported"
+          "name": "Veterans supported",
+          "description": "We"
         }
       ],
       "data-src": [
