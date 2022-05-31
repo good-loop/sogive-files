@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Fund-Technology",
-  "id": "fund-technology",
-  "suggest": [
-    "Fund-Technology"
-  ],
-  "status": "DRAFT"
+  "id": "fund-training",
+  "suggest": []
 }
