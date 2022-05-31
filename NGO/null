@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Fund-Technology",
+  "displayName": "Fund Training",
   "unlisted": true,
-  "id": "fund-technology",
+  "id": "fund-training",
   "suggest": [
-    "Fund-Technology"
+    "Fund Training"
   ],
   "status": "DRAFT"
 }
