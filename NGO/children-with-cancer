@@ -654,9 +654,20 @@
       "outputs": [
         {
           "number": 1.0,
-          "name": ". "
+          "confidence": "medium",
+          "name": "years (singular: year) of healthy life saved",
+          "description": "This is based on SoGive\u0027s research into the cost-effectiveness of cancer research for all age groups combined. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1600",
+            "currency": "",
+            "value100p": 1.6E7,
+            "value": 1600.0
+          }
         },
         {
+          "number": "",
           "confidence": "medium",
           "name": "years (singular: year) of healthy life saved",
           "description": "This is based on SoGive\u0027s research into the cost-effectiveness of cancer research for all age groups combined. ",
@@ -800,14 +811,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "children-with-cancer",
-      "name": ". ",
+      "name": "years (singular: year) of healthy life saved",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 52768390000,
-        "value": "5276839",
-        "name": "projectCosts"
+        "value100p": 16000000,
+        "value": "1600.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -817,14 +827,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": ". ",
+    "name": "years (singular: year) of healthy life saved",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 52768390000,
-      "value": "5276839",
-      "name": "projectCosts"
+      "value100p": 16000000,
+      "value": "1600.0",
+      "name": ""
     }
   },
   "whoTags": "",
