@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
-  "name": "KFC educational grant program",
-  "logo": "https://media.good-loop.com/uploads/standard/reach__logo-7915243972899542854.png#ccrop:125",
-  "id": "kfc-educational-grant",
+  "displayName": "Live Mas",
+  "name": "taco-bell-live-mas",
+  "logo": "https://media.good-loop.com/uploads/standard/live_mas-8915696646943215866.png",
+  "id": "taco-bell-live-mas",
   "suggest": [
-    "KFC educational grant program"
+    "taco-bell-live-mas",
+    "Live Mas"
   ],
   "status": "DRAFT"
 }
