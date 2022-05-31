@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Fund Training",
-  "id": "fund-training",
+  "displayName": "Fund-Technology",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Fund_Technology-13495992382621070807.png#ccrop:120",
+  "id": "fund-technology",
   "suggest": [
-    "Fund Training"
+    "Fund-Technology"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
