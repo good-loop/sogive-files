@@ -654,7 +654,9 @@
       "outputs": [
         {
           "number": 1.0,
+          "confidence": "medium",
           "name": "years (singular: year) of healthy life saved",
+          "description": "This is based on SoGive\u0027s research into the cost-effectiveness of cancer research for all age groups combined. ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
