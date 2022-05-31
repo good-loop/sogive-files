@@ -268,7 +268,7 @@
         {
           "meta": {
             "all": {
-              "notes": "This is meant to match the Cancer Research UK figure, which is 2000£/QALY according to the impact calculator, although it\u0027s 1600 in the text."
+              "notes": ""
             }
           },
           "name": "year(s) of life saved",
@@ -489,5 +489,5 @@
   "englandWalesCharityRegNum": "1005541",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
