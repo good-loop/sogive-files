@@ -1,7 +1,5 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/PVB-Main-Logo-14377855043721382007.png",
-  "id": "prevent-blindness",
-  "suggest": [],
-  "status": "DRAFT"
+  "id": "kfc-educational-grant",
+  "suggest": []
 }
