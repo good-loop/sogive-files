@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "taco-bell-live-mas",
   "id": "taco-bell-live-mas",
-  "suggest": []
+  "suggest": [
+    "taco-bell-live-mas"
+  ],
+  "status": "DRAFT"
 }
