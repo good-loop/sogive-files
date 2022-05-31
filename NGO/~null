@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "KFC educational grant program",
   "id": "kfc-educational-grant",
-  "suggest": []
+  "suggest": [
+    "KFC educational grant program"
+  ],
+  "status": "DRAFT"
 }
