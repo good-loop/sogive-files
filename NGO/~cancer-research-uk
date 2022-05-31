@@ -148,7 +148,15 @@
           "number": 279505.0,
           "confidence": "medium",
           "name": "years (singular: year) of life saved",
-          "description": "See editorial, estimate of cost effectiveness for cancer research"
+          "description": "See editorial, estimate of cost effectiveness for cancer research",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1600",
+            "currency": "",
+            "value100p": 1.6E7,
+            "value": 1600.0
+          }
         }
       ],
       "data-src": [
@@ -273,9 +281,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 16000035,
-        "value": "1600.0035777535286301993000"
+        "value100p": 16000000,
+        "value": "1600.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -290,9 +298,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 16000035,
-      "value": "1600.0035777535286301993000"
+      "value100p": 16000000,
+      "value": "1600.0",
+      "name": ""
     }
   },
   "meta": {
