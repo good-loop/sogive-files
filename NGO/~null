@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "WOMEN IN MUSIC",
   "id": "women-in-music",
-  "suggest": []
+  "suggest": [
+    "WOMEN IN MUSIC"
+  ],
+  "status": "DRAFT"
 }
