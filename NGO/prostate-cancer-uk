@@ -268,17 +268,17 @@
         {
           "meta": {
             "all": {
-              "notes": "This is meant to match the Cancer Research UK figure, which is 2000£/QALY according to the impact calculator, although it\u0027s 1600 in the text."
+              "notes": ""
             }
           },
           "name": "year(s) of life saved",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
-            "raw": "2000",
+            "raw": "1600",
             "currency": "",
-            "value100p": 2.0E7,
-            "value": 2000.0
+            "value100p": 1.6E7,
+            "value": 1600.0
           }
         }
       ],
@@ -458,8 +458,8 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "value100p": 20000000,
-        "value": "2000.0",
+        "value100p": 16000000,
+        "value": "1600.0",
         "name": ""
       },
       "n": 1.0
@@ -474,8 +474,8 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 20000000,
-      "value": "2000.0",
+      "value100p": 16000000,
+      "value": "1600.0",
       "name": ""
     }
   },
@@ -489,5 +489,5 @@
   "englandWalesCharityRegNum": "1005541",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
