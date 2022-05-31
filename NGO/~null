@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Live Mas",
   "name": "taco-bell-live-mas",
   "id": "taco-bell-live-mas",
   "suggest": [
-    "taco-bell-live-mas"
+    "taco-bell-live-mas",
+    "Live Mas"
   ],
   "status": "DRAFT"
 }
