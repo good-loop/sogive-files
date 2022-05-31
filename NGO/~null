@@ -2,10 +2,10 @@
   "@type": "NGO",
   "displayName": "Fund-Technology",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_Technology_3-1377969024837471545.png",
+  "logo": "https://media.good-loop.com/uploads/standard/Fund_Technology_3-1377969024837471545.png#ccrop:_ccrop:120",
   "id": "fund-technology",
   "suggest": [
     "Fund-Technology"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
