@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": "WOMEN IN MUSIC",
-  "logo": "https://media.good-loop.com/uploads/standard/WIMpurplelogo-7034224679089053520.png#ccrop:90",
-  "id": "women-in-music",
-  "suggest": [
-    "WOMEN IN MUSIC"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/PVB-Main-Logo-14377855043721382007.png#ccrop:96",
+  "id": "prevent-blindness",
+  "suggest": [],
   "status": "DRAFT"
 }
