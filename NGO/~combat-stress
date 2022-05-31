@@ -427,6 +427,7 @@
       "outputs": [
         {
           "number": 4900.0,
+          "confidence": "very-low",
           "name": "Veterans supported"
         }
       ],
