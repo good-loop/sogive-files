@@ -1,12 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Live Mas",
-  "name": "taco-bell-live-mas",
-  "logo": "https://media.good-loop.com/uploads/standard/live_mas-8915696646943215866.png",
-  "id": "taco-bell-live-mas",
+  "name": "Operation Homefront",
+  "logo": "https://media.good-loop.com/uploads/standard/OH-Logo-2061830617349419834.png#ccrop:124",
+  "id": "operation-homefront",
   "suggest": [
-    "taco-bell-live-mas",
-    "Live Mas"
+    "Operation Homefront"
   ],
   "status": "DRAFT"
 }
