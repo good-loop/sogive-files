@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Rainbow Railroad",
   "logo": "https://media.good-loop.com/uploads/standard/download_16-14540494298079540495.png#ccrop:99",
   "id": "rainbow-railroad",
-  "suggest": [],
+  "suggest": [
+    "Rainbow Railroad"
+  ],
   "status": "PUBLISHED"
 }
