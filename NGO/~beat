@@ -157,6 +157,11 @@
   "name": "Beat",
   "lastModified": "2020-12-06T19:53:46Z",
   "englandWalesCharityRegNum": "801343",
+  "imageList": [
+    {
+      "@type": "ImageObject"
+    }
+  ],
   "whereTags": "UK",
   "uk_giftaid": true,
   "status": "DRAFT"
