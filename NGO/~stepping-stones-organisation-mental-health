@@ -2,7 +2,7 @@
   "scotlandCharityRegNum": "SC019270",
   "@type": "NGO",
   "name": "Stepping Stones Organisation (Mental Health)",
-  "logo": "https://media.good-loop.com/uploads/standard/stepping-stones-1842509579312171365.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/stepping-stones-1842509579312171365.jpg#ccrop:118",
   "@id": "stepping-stones-organisation-mental-health",
   "suggest": [
     "Stepping Stones Organisation (Mental Health)",
@@ -10,5 +10,5 @@
   ],
   "url": "www.stepstones.org.uk",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
