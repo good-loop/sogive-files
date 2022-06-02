@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "World Resources Institute",
   "id": "world-resources-institute",
-  "suggest": []
+  "suggest": [
+    "World Resources Institute"
+  ],
+  "status": "DRAFT"
 }
