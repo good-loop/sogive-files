@@ -1,10 +1,13 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/download_1-15640185336002686533.png",
   "@type": "NGO",
-  "name": "World Resources Institute",
-  "logo": "https://media.good-loop.com/uploads/standard/world-resources-institute-logo-vector-18414101013125698184.png#ccrop:101",
-  "id": "world-resources-institute",
+  "displayName": "Children\u0027s Miracle Network Hospitals",
+  "name": "Children\u0027s Miracle Network Hospitals",
+  "logo": "https://media.good-loop.com/uploads/standard/download_1-14957822120520806480.png#ccrop:96",
+  "id": "children-s-miracle-network-hospitals",
   "suggest": [
-    "World Resources Institute"
+    "Children\u0027s Miracle Network Hospitals",
+    "Children\u0027s Miracle Network Hospitals"
   ],
   "status": "DRAFT"
 }
