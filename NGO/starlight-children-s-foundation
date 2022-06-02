@@ -1,0 +1,452 @@
+{
+  "scotlandCharityRegNum": "SC047600",
+  "ukCompanyRegNum": "02038895",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "raw": "7504219",
+          "currency": "GBP",
+          "value100p": 7.504219E10,
+          "value": 7504219.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "start": "2017-04-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000296058_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": "",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 663.0,
+          "name": "wish(es) granted",
+          "description": "This refers to wishes granted to a young person with a serious illness"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000296058_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "4614217",
+          "currency": "GBP",
+          "value100p": 4.614217E10,
+          "value": 4614217.0
+        }
+      ],
+      "name": "Wish granting",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 10000.0,
+          "meta": {
+            "all": {
+              "notes": "The accounts say \"our entertainment services alone reach 10,000 children\", so 10,000 is an underestimate"
+            }
+          },
+          "name": "children (singular: child) reached"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "1620626",
+          "currency": "GBP",
+          "value100p": 1.620626E10,
+          "value": 1620626.0
+        }
+      ],
+      "name": "Hospital services",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.starlight.org.uk/wp-content/uploads/2019/11/2019_Starlight_AnnualReport.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "8368403",
+          "currency": "GBP",
+          "value100p": 8.368403E10,
+          "value": 8368403.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4365863",
+        "currency": "GBP",
+        "value100p": 4.365863E10,
+        "value": 4365863.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 641.0,
+          "name": "wishes (singular: wish) granted",
+          "description": "The charity has fulfilled wishes for individual children and groups of children, giving ailing kids an opportunity to decide for themselves what they want."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.starlight.org.uk/wp-content/uploads/2019/11/2019_Starlight_AnnualReport.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4590624",
+          "currency": "GBP",
+          "value100p": 4.590624E10,
+          "value": 4590624.0
+        }
+      ],
+      "name": "Wish granting",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1300000.0,
+          "name": "children (singular: child) reached",
+          "description": "The charity provides play and distraction services inside and outside hospitals, primarily by giving hospitals distraction boxes that are full of toys for children to play with, but the charity also arranges live performances inside hospitals and escape days that feature various fun activities outside hospitals."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.starlight.org.uk/wp-content/uploads/2019/11/2019_Starlight_AnnualReport.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.starlight.org.uk/wp-content/uploads/2020/01/StarlightImpactReport2019.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1457569",
+          "currency": "GBP",
+          "value100p": 1.457569E10,
+          "value": 1457569.0
+        }
+      ],
+      "name": "Hospital services",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11433266\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d296058"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "3343679",
+          "currency": "GBP",
+          "value100p": 3.343679E10,
+          "value": 3343679.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2",
+          "currency": "GBP",
+          "value100p": 20000.0,
+          "value": 2.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 650000.0,
+          "confidence": "very-low",
+          "name": "Child(ren)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11433266\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d296058"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1732003",
+          "currency": "GBP",
+          "value100p": 1.732003E10,
+          "value": 1732003.0
+        }
+      ],
+      "name": "Provision of children’s services"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Starlight Children\u0027s Foundation",
+  "description": "Starlight uses the power of play to make the experience of illness and treatment better for children and their families. Our passion takes us to the bedsides of some of the most poorly children in the UK. In hospital, often without hope of leaving. We create moments of escape from the difficult reality which seriously ill children find themselves. To delight and distract. To entertain and enlighten. But, most of all, to restore a smile to their faces. Making moments of light when the day is at its darkest.",
+  "recommendation": "**To assign a firm rating to Starlight Children\u0027s Foundation under the SoGive rating methodology, we would need more information. Our tentative rating for the charity is Bronze.**\n\nStarlight Children\u0027s Foundation is a national children\u0027s charity dedicated to brightening the lives of seriously ill children and their families.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something?\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)?\n\n**More about what Starlight Children\u0027s Foundation does**\n\nThe work of Starlight Children\u0027s Foundation falls under two categories: wish-granting and hospital services. Ailing children\u0027s wishes may include going to a place they always wanted to go, experiencing their dream jobs for a day, and getting special gifts. Hospital services most often involve crates full of toys for children in hospitals, but the charity also arranges in-hospital performances and escape days away from the hospital.\n\nBased on the information we have gathered from the 2019 accounts, about 76% of the charity\u0027s charitable spendings count towards wish-granting. On average, fulfilling 1 child\u0027s wish would cost about £7,200. \n\nThe other 24% of the charity\u0027s charitable spendings support hospital services. On average, giving 1 child more opportunity to play in a hospital would cost about £1. \n\n**Benchmarking**\n\nAfter a review of the work of Starlight Children\u0027s Foundation under the two-question method, the next step in the SoGive process involves comparing the organization to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. A benchmark charity should achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)(AMF).\n\nStarlight Children\u0027s Foundation spends about £7,000 on granting 1 wish, so the same amount of money would have allowed the AMF to save just under 5 lives. We see granting the wish of an ailing child as a less positive outcome than saving 5 lives. \n\nAs for hospital services, if about £1 can give one child more opportunities to play in a hospital, then £1,500 can help roughly 1,300 children in this manner, and the charity reached 1.3 million individual children last year. However, since only [49 thousand children](https://www.starlight.org.uk/wp-content/uploads/2020/01/StarlightImpactReport2019.pdf) in the UK suffer from a life-changing medical condition, most of the 1.3 million children helped seemed to not have severe conditions and likely visited the hospitals only for a short time. Still, we cannot conclude for sure that giving 1,300 children something to play within the hospital has a less positive outcome than saving someone\u0027s life. According to the charity\u0027s annual report, play not only encourages children to move around and become more psychologically resilient but also allows medical staff to perform procedures on distracted children, thus improving the hospital\u0027s efficiency.\n\n**Conclusion**\n\nTentative rating: If we had more information about the work of Starlight Children\u0027s Foundation, the charity would probably achieve a Bronze assessment under the SoGive rating methodology. When we describe a charity as Bronze-rated, we mean that the charity\u0027s work likely has a positive impact, but underperforms compared to a Silver-rated charity. Granting wishes and providing hospital services may very likely do a limited amount of good. Still, we assume by default that a charity does not achieve substantial positive impact in the absence of strong evidence to the contrary. We are basing this assumption on reasons set out [here](https://thinkingaboutcharity.blogspot.com/2019/08/should-you-be-charity-sceptic.html?view\u003dsidebar). Furthermore, our calculations show that granting 1 wish costs as much as saving 5 lives through the AMF, and most children do not seem to be playing with the donated toys for a long time.\n\nFor tentative ratings, our rating is more prone to change in light of new information.\n\nFurther information that would enable us to become more confident with our opinion of the work of Starlight Children\u0027s Foundation would include a more explicit impact assessment of the hospital services project. How much time does each child spend playing with the donated toys? To what extent does play make a hospital more efficient? To what extent does the help have long-lasting impacts on children\u0027s treatment, recovery, and later lives? Why is this worth being done by a charity and not by the NHS? Why is this worth being done by a charity and not by the NHS? What would be the consequences if the charity did not provide its services? To become highly confident about the effectiveness of the work of Starlight Children\u0027s Foundation, we would need evidence for the effectiveness to the standard of randomized control trials.",
+  "whyTags": "Children, Health",
+  "UNSDG": "3",
+  "modified": true,
+  "logo": "https://media.good-loop.com/uploads/standard/starlight-5161244233323267220.png",
+  "@id": "starlight-children-s-foundation",
+  "summaryDescription": "Bring Play And Distraction To Children Isolated In Hospitals And Hospices.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/starlight-16388413345531091857.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "STARLIGHT CHILDREN S FOUNDATION",
+    "Starlight Children\u0027s Foundation",
+    "starlight-children-s-foundation"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "starlight-children-s-foundation",
+      "name": "wishes (singular: wish) granted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 71616599,
+        "value": "7161.6599063962565664"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.starlight.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "wishes (singular: wish) granted",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 71616599,
+      "value": "7161.6599063962565664"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "STARLIGHT CHILDREN S FOUNDATION",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "296058",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
