@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Children\u0027s Miracle Network Hospitals",
   "id": "children-s-miracle-network-hospitals",
-  "suggest": []
+  "suggest": [
+    "Children\u0027s Miracle Network Hospitals"
+  ],
+  "status": "DRAFT"
 }
