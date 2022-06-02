@@ -395,7 +395,7 @@
   "whyTags": "Children, Health",
   "UNSDG": "3",
   "modified": true,
-  "logo": "https://www.starlight.org.uk/wp-content/uploads/2021/06/logo-reversed.png",
+  "logo": "https://media.good-loop.com/uploads/standard/starlight-5161244233323267220.png#ccrop:106",
   "@id": "starlight-children-s-foundation",
   "summaryDescription": "Bring Play And Distraction To Children Isolated In Hospitals And Hospices.",
   "uptodatedraft": "probably",
@@ -448,5 +448,5 @@
   "englandWalesCharityRegNum": "296058",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
