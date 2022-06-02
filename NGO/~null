@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Children\u0027s Miracle Network Hospitals",
   "name": "Children\u0027s Miracle Network Hospitals",
   "id": "children-s-miracle-network-hospitals",
   "suggest": [
+    "Children\u0027s Miracle Network Hospitals",
     "Children\u0027s Miracle Network Hospitals"
   ],
   "status": "DRAFT"
