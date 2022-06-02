@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "name": "World Resources Institute",
+  "logo": "https://media.good-loop.com/uploads/standard/world-resources-institute-logo-vector-18414101013125698184.png",
   "id": "world-resources-institute",
   "suggest": [
     "World Resources Institute"
