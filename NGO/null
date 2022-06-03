@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "color of change",
-  "logo": "https://media.good-loop.com/uploads/standard/Color__of__Change__logo__2020-10366096879569793485.png#ccrop:80",
-  "id": "color-of-change",
+  "name": "PangeaSeed Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/lDl2WlZu__400x400-4136012580392279112.jpg",
+  "id": "pangeaseed-foundation",
   "suggest": [
-    "color of change"
+    "PangeaSeed Foundation"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
