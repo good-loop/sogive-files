@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/WCLP__LogoV__RGB-15109940802885296953.png",
   "id": "western-centre-on-law-and-poverty",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
