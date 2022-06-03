@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/lDl2WlZu__400x400-4136012580392279112.jpg",
   "id": "pangeaseed-foundation",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
