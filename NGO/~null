@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Color__of__Change__logo__2020-10366096879569793485.png",
   "id": "color-of-change",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
