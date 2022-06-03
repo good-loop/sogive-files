@@ -1,13 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/download_1-15640185336002686533.png",
   "@type": "NGO",
-  "displayName": "Children\u0027s Miracle Network Hospitals",
-  "name": "Children\u0027s Miracle Network Hospitals",
-  "logo": "https://media.good-loop.com/uploads/standard/download_1-14957822120520806480.png#ccrop:96",
-  "id": "children-s-miracle-network-hospitals",
-  "suggest": [
-    "Children\u0027s Miracle Network Hospitals",
-    "Children\u0027s Miracle Network Hospitals"
-  ],
-  "status": "DRAFT"
+  "id": "western-centre-on-law-and-poverty",
+  "suggest": []
 }
