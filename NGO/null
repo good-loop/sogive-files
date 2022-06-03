@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "PangeaSeed Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/lDl2WlZu__400x400-4136012580392279112.jpg",
-  "id": "pangeaseed-foundation",
+  "name": "Thirst Project",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-1084931725392033377.png",
+  "id": "thirst-project",
   "suggest": [
-    "PangeaSeed Foundation"
+    "Thirst Project"
   ],
   "status": "DRAFT"
 }
