@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
   "name": "Thirst Project",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-1084931725392033377.png",
+  "logo": "https://media.good-loop.com/uploads/standard/Thirst__Project__logo.svg-11103893215953310598.png",
   "id": "thirst-project",
   "suggest": [
     "Thirst Project"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
