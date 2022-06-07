@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "5 GYRES",
-  "logo": "https://media.good-loop.com/uploads/standard/5gyres-logo-rgb-17669353991413223751.jpg#ccrop:98",
-  "id": "5-gyres",
+  "displayName": "The Orchard Project",
+  "name": "The Orchard Project",
+  "logo": "https://media.good-loop.com/uploads/standard/orchard_project-2541946959823872164.jpg#ccrop:85",
+  "id": "orchid-project",
   "suggest": [
-    "5 GYRES"
+    "The Orchard Project",
+    "The Orchard Project"
   ],
+  "url": "https://www.theorchardproject.org.uk/",
   "status": "DRAFT"
 }
