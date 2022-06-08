@@ -242,7 +242,7 @@
   "confidence": "medium",
   "description": "Stonewall aims to ensure that LGBT people are free from discrimination, empowered and equal in all institutions and the society in general, as well as before the law. It works to protect essential rights for LGBT, lobbies and campaigns to promote LGBT inclusive policies across sectors and institutions, and aims to empower LGBT individuals.",
   "suggest": [
-    "Stonewall",
+    "Stonewall inn gives back initative",
     "stonewall"
   ],
   "url": "https://www.stonewall.org.uk/",
@@ -267,8 +267,8 @@
       "notes": "Check re; Sexual / Mental health - do they provide some explicit helpline / education?\n--\u003e Edit 04/23/21: Yes, they do have a helpline."
     }
   },
-  "name": "Stonewall",
-  "logo": "https://media.good-loop.com/uploads/standard/Stonewall__logo-5121982122517717587.png#ccrop:90",
+  "name": "Stonewall inn gives back initative",
+  "logo": "https://media.good-loop.com/uploads/standard/Stonewall__logo-5121982122517717587.png#ccrop:70",
   "@id": "stonewall",
   "lastModified": "2020-11-08T16:43:58Z",
   "englandWalesCharityRegNum": "1101255",
@@ -276,5 +276,5 @@
   "uk_giftaid": true,
   "uptodatedraft": "probably",
   "whereTags": "UK",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
