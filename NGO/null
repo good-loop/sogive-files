@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
   "name": "The Centre",
-  "logo": "https://media.good-loop.com/uploads/standard/download_24-9916741195024050822.png",
+  "logo": "https://media.good-loop.com/uploads/standard/download_24-9916741195024050822.png#ccrop:90",
   "id": "the-centre",
   "suggest": [
     "The Centre"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
