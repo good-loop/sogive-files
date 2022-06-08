@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/217-1542400530-969ee07c527d110f797344a7f873407a1f7d4aa1-13175117411028535028.png#ccrop:105",
   "id": "the-phluid-foundation",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
