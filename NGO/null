@@ -1,10 +1,7 @@
 {
   "@type": "NGO",
-  "name": "Ocean Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2022-06-09_104634-5911689032412939396.png",
-  "id": "ocean-conservancy",
-  "suggest": [
-    "Ocean Conservancy"
-  ],
+  "logo": "https://media.good-loop.com/uploads/standard/1562799781903-4263685475455356904.jpg#ccrop:96",
+  "id": "southern-smoke-foundation",
+  "suggest": [],
   "status": "DRAFT"
 }
