@@ -1,0 +1,17 @@
+{
+  "images": "https://media.good-loop.com/uploads/standard/Pelosi__helps__the__WC__Kitchen__during__2019__shutdown-9804044579422419871.jpg",
+  "@type": "NGO",
+  "displayName": "World Central Kitchen",
+  "name": "World Central Kitchen",
+  "logo": "https://media.good-loop.com/uploads/raw/Screenshot_2021-09-15_at_13.12.45-2842435396577635509.png",
+  "@id": "world-central-kitchen",
+  "suggest": [
+    "World Central Kitchen",
+    "World Central Kitchen",
+    "world-central-kitchen"
+  ],
+  "id": "world-central-kitchen",
+  "url": "https://wck.org/",
+  "status": "DRAFT",
+  "usCharityRegNum": "27-3521132"
+}
