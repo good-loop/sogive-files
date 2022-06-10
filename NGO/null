@@ -1,7 +1,13 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/1562799781903-4263685475455356904.jpg#ccrop:96",
-  "id": "southern-smoke-foundation",
-  "suggest": [],
+  "displayName": "The Orchid Project",
+  "name": "The Orchid Project",
+  "logo": "https://media.good-loop.com/uploads/standard/Orchid-Logo-10339286147872468063.png#ccrop:95",
+  "id": "orchid-project",
+  "suggest": [
+    "The Orchid Project",
+    "The Orchid Project"
+  ],
+  "url": "https://www.theorchardproject.org.uk/",
   "status": "DRAFT"
 }
