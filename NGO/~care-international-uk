@@ -238,7 +238,7 @@
         {
           "number": 5200000.0,
           "name": "people (singular: person) supported with humanitarian aid",
-          "description": "The impact number "
+          "description": "The impact number used here is 1/10th "
         }
       ],
       "year": 2020.0,
