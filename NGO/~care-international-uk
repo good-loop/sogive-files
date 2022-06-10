@@ -234,7 +234,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 2.3E7,
+          "name": "people (singular: person) supported with humanitarian aid"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
@@ -349,13 +354,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "care-international-uk",
-      "name": "people (singular: person) helped",
+      "name": "people (singular: person) supported with humanitarian aid",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 130471,
-        "value": "13.047106612903225863858882"
+        "value100p": 21413,
+        "value": "2.14134782608695665022000"
       },
       "n": 1.0
     }
@@ -365,7 +370,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[Humanitarian aid 2020.0]"
+    "name": "people (singular: person) supported with humanitarian aid",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 21413,
+      "value": "2.14134782608695665022000"
+    }
   },
   "meta": {
     "noPublicDonations": {
