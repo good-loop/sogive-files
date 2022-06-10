@@ -271,7 +271,12 @@
       "isRep": true
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 6240000.0,
+          "name": "people (singular: person) supported through development programs"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
