@@ -275,7 +275,8 @@
       "outputs": [
         {
           "number": 6240000.0,
-          "name": "people (singular: person) supported through development programs"
+          "name": "people (singular: person) supported through development programs",
+          "description": "Same caveat applies "
         }
       ],
       "year": 2020.0,
