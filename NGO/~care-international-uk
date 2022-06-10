@@ -236,7 +236,7 @@
     {
       "outputs": [
         {
-          "number": "",
+          "number": 5200000.0,
           "name": "people (singular: person) supported with humanitarian aid"
         }
       ],
@@ -359,9 +359,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 492510000000,
-        "value": "49251000",
-        "name": "projectCosts"
+        "value100p": 94713,
+        "value": "9.47134615384615395981000"
       },
       "n": 1.0
     }
@@ -376,9 +375,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 492510000000,
-      "value": "49251000",
-      "name": "projectCosts"
+      "value100p": 94713,
+      "value": "9.47134615384615395981000"
     }
   },
   "meta": {
