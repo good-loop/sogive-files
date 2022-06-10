@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "The Orchid Project",
   "name": "The Orchid Project",
-  "logo": "https://media.good-loop.com/uploads/standard/Orchid-Logo-10339286147872468063.png#ccrop:95",
+  "logo": "https://media.good-loop.com/uploads/standard/orchid_project-9130880318323852935.png",
   "id": "orchid-project",
   "suggest": [
     "The Orchid Project",
     "The Orchid Project"
   ],
   "url": "https://www.theorchardproject.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
