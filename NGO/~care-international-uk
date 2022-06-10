@@ -237,7 +237,8 @@
       "outputs": [
         {
           "number": 5200000.0,
-          "name": "people (singular: person) supported with humanitarian aid"
+          "name": "people (singular: person) supported with humanitarian aid",
+          "description": "The impact number "
         }
       ],
       "year": 2020.0,
