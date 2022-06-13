@@ -9,7 +9,7 @@
     "movember-europe"
   ],
   "url": "https://uk.movember.com/?home",
-  "whyTags": "Cancer, ",
+  "whyTags": "Cancer, Education",
   "name": "Movember Europe",
   "logo": "https://as.good-loop.com/vert/movember_logo.png",
   "@id": "movember-europe",
@@ -18,5 +18,5 @@
   "englandWalesCharityRegNum": "1137948",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
