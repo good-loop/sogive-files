@@ -378,6 +378,11 @@
           "value": 2134784.0
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.29"
+        }
+      },
       "name": "Empowerment programmes"
     }
   ],
