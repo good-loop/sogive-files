@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Ripple Effect",
   "id": "ripple-effect",
-  "suggest": []
+  "suggest": [
+    "Ripple Effect"
+  ],
+  "status": "DRAFT"
 }
