@@ -4,7 +4,7 @@
   "projects": [
     {
       "outputs": [],
-      "year": 2020.0,
+      "year": 2021.0,
       "@type": "Project",
       "inputs": [
         {
@@ -39,7 +39,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "name": "Movember Europe",
   "logo": "https://as.good-loop.com/vert/movember_logo.png",
