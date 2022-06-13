@@ -62,6 +62,9 @@
         "year": {
           "notes": "Check \u0027fee income\u0027, \u0027programme income\u0027 and \u0027events income\u0027. see page 30 onwards."
         },
+        "inputs_meta": {
+          "notes": ""
+        },
         "reserves": {
           "notes": "*This is unrestricted funds only; down from 4729000."
         },
