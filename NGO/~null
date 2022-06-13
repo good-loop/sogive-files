@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "London Community Foundation",
+  "name": "",
   "id": "london-community-foundation",
-  "suggest": []
+  "suggest": [
+    "",
+    "London Community Foundation"
+  ],
+  "status": "DRAFT"
 }
