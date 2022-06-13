@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "US Bartender\u0027s Guild",
-  "logo": "https://media.good-loop.com/uploads/standard/1531241072649-9900447079975028758.jpg#ccrop:107",
-  "id": "us-bartenders-guild",
+  "name": "Bartenders Benevolent Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/1587500226241-16636928501581094602.jpg#ccrop:101",
+  "id": "bartenders-benevolent-fund",
   "suggest": [
-    "US Bartender\u0027s Guild"
+    "Bartenders Benevolent Fund"
   ],
   "status": "DRAFT"
 }
