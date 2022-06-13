@@ -327,7 +327,8 @@
           "notes": "p.29"
         }
       },
-      "name": "Campaigns, policy and research"
+      "name": "Campaigns, policy and research",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -424,7 +425,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2021.0]"
+    "name": "No Outputs! for project Project[Campaigns, policy and research 2021.0]"
   },
   "meta": {
     "noPublicDonations": {
