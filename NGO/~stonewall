@@ -286,6 +286,83 @@
         "value": 2565119.0
       },
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4311642",
+          "currency": "GBP",
+          "value100p": 4.311642E10,
+          "value": 4311642.0
+        }
+      ],
+      "name": "Campaigns, policy and research"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Employment advice"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Empowerment programmes"
     }
   ],
   "@type": "NGO",
