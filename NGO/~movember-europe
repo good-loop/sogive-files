@@ -1,6 +1,31 @@
 {
   "scotlandCharityRegNum": "SC041981",
   "circleCrop": 95.0,
+  "projects": [
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "displayName": "Movember Foundation",
   "suggest": [
@@ -11,6 +36,11 @@
   "url": "https://uk.movember.com/?home",
   "whyTags": "Cancer, Education, Health, Mental Health, Saving Lives, Parenting/Family Support",
   "howTags": "Campaigning, Direct Work, Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
   "name": "Movember Europe",
   "logo": "https://as.good-loop.com/vert/movember_logo.png",
   "@id": "movember-europe",
