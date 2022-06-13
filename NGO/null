@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Bartenders Benevolent Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/1587500226241-16636928501581094602.jpg#ccrop:101",
-  "id": "bartenders-benevolent-fund",
+  "displayName": "Ripple Effect",
+  "logo": "https://media.good-loop.com/uploads/standard/ripple-effect-70-18351032063644869341.png#ccrop:90",
+  "id": "ripple-effect",
   "suggest": [
-    "Bartenders Benevolent Fund"
+    "Ripple Effect"
   ],
+  "url": "https://rippleeffect.org/",
   "status": "DRAFT"
 }
