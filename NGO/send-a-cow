@@ -122,10 +122,11 @@
       "notes": "Yes"
     }
   },
+  "unlisted": true,
   "name": "Send A Cow",
-  "logo": "https://media.good-loop.com/uploads/standard/imageedit__91__3473774598-1520277883170423385.png#ccrop:81",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__91__3473774598-1520277883170423385.png#ccrop:80_noscale",
   "@id": "send-a-cow",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
