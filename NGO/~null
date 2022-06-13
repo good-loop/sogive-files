@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Bartenders Benevolent Fund",
   "logo": "https://media.good-loop.com/uploads/standard/1587500226241-16636928501581094602.jpg#ccrop:101",
   "id": "bartenders-benevolent-fund",
-  "suggest": [],
+  "suggest": [
+    "Bartenders Benevolent Fund"
+  ],
   "status": "DRAFT"
 }
