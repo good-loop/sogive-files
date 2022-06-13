@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "London Community Foundation",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_2-12515316463957415429.svg#ccrop:90",
-  "id": "london-community-foundation",
-  "suggest": [
-    "",
-    "London Community Foundation"
-  ],
-  "url": "https://londoncf.org.uk/",
-  "status": "PUBLISHED"
+  "id": "us-bartenders-guild",
+  "suggest": []
 }
