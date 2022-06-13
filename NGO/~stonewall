@@ -368,6 +368,14 @@
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
           "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1327456",
+          "currency": "GBP",
+          "value100p": 1.327456E10,
+          "value": 1327456.0
         }
       ],
       "name": "Empowerment programmes"
