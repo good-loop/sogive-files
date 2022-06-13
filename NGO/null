@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "The Orchid Project",
-  "name": "The Orchid Project",
-  "logo": "https://media.good-loop.com/uploads/standard/orchid_project-9130880318323852935.png",
-  "id": "orchid-project",
+  "displayName": "London Community Foundation",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_2-12515316463957415429.svg#ccrop:75",
+  "id": "london-community-foundation",
   "suggest": [
-    "The Orchid Project",
-    "The Orchid Project"
+    "",
+    "London Community Foundation"
   ],
-  "url": "https://www.theorchardproject.org.uk/",
-  "status": "MODIFIED"
+  "url": "https://londoncf.org.uk/",
+  "status": "DRAFT"
 }
