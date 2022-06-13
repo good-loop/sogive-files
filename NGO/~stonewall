@@ -252,7 +252,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "raw": "12769",
+          "currency": "GBP",
+          "value100p": 1.2769E8,
+          "value": 12769.0
         },
         {
           "@type": "Money",
@@ -265,7 +268,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -283,7 +287,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "meta": {
     "noPublicDonations": {
