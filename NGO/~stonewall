@@ -341,10 +341,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "1860811",
+          "raw": "36",
           "currency": "GBP",
-          "value100p": 1.860811E10,
-          "value": 1860811.0
+          "value100p": 360000.0,
+          "value": 36.0
         }
       ],
       "name": "Employment advice"
