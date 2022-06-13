@@ -372,10 +372,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "21",
+          "raw": "2134784",
           "currency": "GBP",
-          "value100p": 210000.0,
-          "value": 21.0
+          "value100p": 2.134784E10,
+          "value": 2134784.0
         }
       ],
       "name": "Empowerment programmes"
