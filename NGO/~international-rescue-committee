@@ -78,7 +78,7 @@
   "@type": "NGO",
   "description": "Internation Rescue Committee provides access to health services, treats malnutrition, supports mobile clinics, hospitals, and health care centres, provides clean water, provides access to education, and helps resettle refugees. ",
   "suggest": [
-    "International Rescue Committee ",
+    "International Rescue Committee",
     "international-rescue-committee"
   ],
   "url": "https://www.rescue.org/",
@@ -89,12 +89,12 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2020.0]"
   },
-  "name": "International Rescue Committee ",
-  "logo": "https://media.good-loop.com/uploads/standard/download_1-2815792025422542340.jpg",
+  "name": "International Rescue Committee",
+  "logo": "https://media.good-loop.com/uploads/standard/International-Rescue-Committee-2862091540521300748.jpg#ccrop:112",
   "@id": "international-rescue-committee",
   "englandWalesCharityRegNum": "1065972",
   "summaryDescription": "Internation Rescue Committee works globally to help people affected by conflict, disasters, and poverty. ",
   "whereTags": "Developing world ",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
