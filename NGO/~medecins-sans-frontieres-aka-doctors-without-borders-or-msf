@@ -177,7 +177,7 @@
   "recommendation": "Please see our review of MSF UK [here](https://app.sogive.org/#charity?charityId\u003dmedecins-sans-frontieres-uk-aka-doctors-without-borders-or-msf), which draws on evidence relating to the wider MSF organisation",
   "whyTags": "International aid, disaster response",
   "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/msf-knockout-15518122436595436983.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/msf-knockout-black-4573181200295380882.svg",
   "modified": false,
   "@id": "medecins-sans-frontieres-aka-doctors-without-borders-or-msf",
   "summaryDescription": "Médecins Sans Frontières provides assistance to populations in distress, to victims of natural or man-made disasters, and to victims of armed conflict.",
@@ -212,5 +212,5 @@
   "englandWalesCharityRegNum": "1026588",
   "whereTags": "Developing World, War-torn regions",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
