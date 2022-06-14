@@ -2,7 +2,12 @@
   "scotlandCharityRegNum": "SC039410",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.589E7,
+          "name": ""
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -45,13 +50,35 @@
     "Wildfowl \u0026 Wetlands Trust",
     "the-wildfowl-wetlands-trust"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-wildfowl-wetlands-trust",
+      "name": "",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 12822,
+        "value": "1.28225298930144739250000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.wwt.org.uk/",
   "whyTags": "animals, climate change, environment, trees, water",
   "howTags": "direct work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 12822,
+      "value": "1.28225298930144739250000"
+    }
   },
   "name": "The Wildfowl \u0026 Wetlands Trust",
   "logo": "https://media.good-loop.com/uploads/raw/wtt-8524335393760271460.png",
