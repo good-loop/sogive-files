@@ -128,6 +128,9 @@
     "name": "No Outputs! for project Project[overall null]"
   },
   "meta": {
+    "images": {
+      "notes": "https://www.dec.org.uk/sites/default/files/styles/article_heroshot/public/hero/rs5854_rs101_img_9001_0.jpg?itok\u003dJahlceOE"
+    },
     "noPublicDonations": {
       "notes": "Yes"
     }
@@ -138,5 +141,5 @@
   "englandWalesCharityRegNum": "1062638",
   "whereTags": "International, Developing World",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
