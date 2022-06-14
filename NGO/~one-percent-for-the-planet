@@ -26,7 +26,10 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/1105x622__hardy__l__0001-542131630836105443.jpg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
