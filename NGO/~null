@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Ripple Effect",
-  "logo": "https://media.good-loop.com/uploads/standard/ripple-effect-70-18351032063644869341.png#ccrop:90",
-  "id": "ripple-effect",
-  "suggest": [
-    "Ripple Effect"
-  ],
-  "url": "https://rippleeffect.org/",
-  "status": "DRAFT"
+  "id": "gingerbread",
+  "suggest": []
 }
