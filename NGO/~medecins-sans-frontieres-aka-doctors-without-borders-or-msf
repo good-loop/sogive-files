@@ -187,7 +187,7 @@
   "impact": "more-info-needed-promising",
   "confidence": "medium",
   "suggest": [
-    "Medecins Sans Frontieres (aka Doctors without borders or MSF)",
+    "Medecins Sans Frontieres (aka Doctors Without Borders or MSF)",
     "medecins-sans-frontieres-aka-doctors-without-borders-or-msf"
   ],
   "communicationsWithCharity": "REQUIRED  \n\nDirector of Communications and Fundraising: avril.benoit@msf.org\n\nDirector of Analysis: jonathan.whittall@msf.org\n\nDirector of Programmes: bart.witteveen@msf.org\n\nCountry Manager - DRC (biggest spend country): rhian.gastineau@msf.org\n\nGeneric: https://www.facebook.com/msf.english/",
@@ -206,11 +206,11 @@
       "notes": ""
     }
   },
-  "name": "Medecins Sans Frontieres (aka Doctors without borders or MSF)",
+  "name": "Medecins Sans Frontieres (aka Doctors Without Borders or MSF)",
   "logo_white": "https://as.good-loop.com/vert/msf_logo_white.png",
   "lastModified": "2020-12-18T14:45:46Z",
   "englandWalesCharityRegNum": "1026588",
   "whereTags": "Developing World, War-torn regions",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
