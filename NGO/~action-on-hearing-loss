@@ -277,6 +277,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "£10.6m \nFundraising and other trading"
+        }
+      },
       "name": "overall",
       "isRep": false
     }
