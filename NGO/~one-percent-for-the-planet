@@ -30,6 +30,9 @@
     },
     {
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
   "status": "DRAFT"
