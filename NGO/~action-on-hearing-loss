@@ -298,8 +298,8 @@
   },
   "name": "Action on Hearing Loss",
   "@id": "action-on-hearing-loss",
-  "summaryDescription": "The Royal National Institute for Deaf People (RNIWe provide personalised support in local communities and fund pioneering research into treatments and cures.",
+  "summaryDescription": "The Royal National Institute for Deaf People (RNID) provide personalised support in local communities and fund pioneering research into treatments and cures.",
   "englandWalesCharityRegNum": "207720",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
