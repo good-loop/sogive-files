@@ -11,13 +11,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 3.8856E9,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.8856E11,
           "value": 3.8856E7
         },
         {
@@ -31,13 +31,13 @@
           "value": 0.0
         },
         {
-          "value100": 5.48E7,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.48E9,
           "value": 548000.0
         },
         {
@@ -252,6 +252,30 @@
       "analyst": "Emily",
       "end": "2016-03-31T00:00:00Z",
       "location": ""
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": false
     }
   ],
   "@type": "NGO",
