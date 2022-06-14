@@ -280,6 +280,7 @@
   ],
   "url": "https://rnid.org.uk/",
   "whyTags": "Deafness, Health, Disabilities",
+  "howTags": "public education; ",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
