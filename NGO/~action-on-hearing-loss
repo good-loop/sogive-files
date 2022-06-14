@@ -277,6 +277,7 @@
       "n": 1.0
     }
   ],
+  "url": "",
   "whyTags": "Deafness, Health, Disabilities",
   "simpleImpact": {
     "number": 1.0,
@@ -297,7 +298,8 @@
   },
   "name": "Action on Hearing Loss",
   "@id": "action-on-hearing-loss",
-  "summaryDescription": "We provide personalised support in local communities and fund pioneering research into treatments and cures.",
+  "summaryDescription": "The Royal National Institute for Deaf People (RNIWe provide personalised support in local communities and fund pioneering research into treatments and cures.",
   "englandWalesCharityRegNum": "207720",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
 }
