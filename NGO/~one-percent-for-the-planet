@@ -17,5 +17,10 @@
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
+  "imageList": [
+    {
+      "@type": "ImageObject"
+    }
+  ],
   "status": "DRAFT"
 }
