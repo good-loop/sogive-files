@@ -15,6 +15,7 @@
   "@id": "one-percent-for-the-planet",
   "id": "one-percent-for-the-planet",
   "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
