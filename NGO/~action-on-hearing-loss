@@ -263,7 +263,7 @@
         {
           "number": 115014.0,
           "confidence": "medium",
-          "name": "people who are deaf or have hearing loss or tinnitussupported",
+          "name": "people who are deaf or have hearing loss or tinnitus supported",
           "description": "57% of total cost, £20,235,000, was spent on giving care and support to individuals. ",
           "costPerBeneficiary": {
             "@type": "Money",
