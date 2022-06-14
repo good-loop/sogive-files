@@ -1,0 +1,216 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "http://www.msf.org/en/aggregator-content-type/testimonies-and-stories-field",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.msf.org/sites/msf.org/files/msf_financial_report_2016_final.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://www.msf.org/sites/msf.org/files/international_activity_report_2015_en_2nd_ed_0.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay, LukeFlegg, Rachael",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001026588_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10339927\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3DMedecins%2BSans%2BFrontieres%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1026588"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "59,417,195",
+          "currency": "GBP",
+          "value100p": 5.9417195E11,
+          "value": 5.9417195E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": "Our free reserves are calculated using our general reserves less fixed assets and currently stand at\n£3.5 million or 2.6 months’ office expenditure"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "3,500,000",
+        "currency": "GBP",
+        "value100p": 3.5E10,
+        "value": 3500000.0
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "69,387,000",
+          "currency": "GBP",
+          "value100p": 6.9387E11,
+          "value": 6.9387E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "p. 65 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "4547000",
+        "currency": "",
+        "value100p": 4.547E10,
+        "value": 4547000.0
+      },
+      "isRep": true
+    }
+  ],
+  "color": "#ec0928",
+  "@type": "NGO",
+  "description": "Médecins Sans Frontières (MSF) is an international, independent, medical humanitarian organization that delivers emergency aid to people affected by armed conflict, epidemics, natural disasters, and exclusion from healthcare.  ",
+  "recommendation": "Please see our review of MSF UK [here](https://app.sogive.org/#charity?charityId\u003dmedecins-sans-frontieres-uk-aka-doctors-without-borders-or-msf), which draws on evidence relating to the wider MSF organisation",
+  "whyTags": "International aid, disaster response",
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/msf-knockout-black-4573181200295380882.svg",
+  "modified": false,
+  "@id": "medecins-sans-frontieres-aka-doctors-without-borders-or-msf",
+  "summaryDescription": "Médecins Sans Frontières provides assistance to populations in distress, to victims of natural or man-made disasters, and to victims of armed conflict.",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/raw/msf148284__high__res-16430507006073424730.jpeg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "confidence": "medium",
+  "suggest": [
+    "Medecins Sans Frontieres (aka Doctors without borders or MSF)",
+    "medecins-sans-frontieres-aka-doctors-without-borders-or-msf"
+  ],
+  "communicationsWithCharity": "REQUIRED  \n\nDirector of Communications and Fundraising: avril.benoit@msf.org\n\nDirector of Analysis: jonathan.whittall@msf.org\n\nDirector of Programmes: bart.witteveen@msf.org\n\nCountry Manager - DRC (biggest spend country): rhian.gastineau@msf.org\n\nGeneric: https://www.facebook.com/msf.english/",
+  "url": "https://www.msf.org.uk/",
+  "howTags": "Direct Work ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "notes": ""
+    }
+  },
+  "name": "Medecins Sans Frontieres (aka Doctors without borders or MSF)",
+  "logo_white": "https://as.good-loop.com/vert/msf_logo_white.png",
+  "lastModified": "2020-12-18T14:45:46Z",
+  "englandWalesCharityRegNum": "1026588",
+  "whereTags": "Developing World, War-torn regions",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
