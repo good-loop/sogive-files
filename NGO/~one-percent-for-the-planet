@@ -10,7 +10,7 @@
     "one-percent-for-the-planet"
   ],
   "url": "https://www.onepercentfortheplanet.org/",
-  "headerImage": "https://media.good-loop.com/uploads/standard/1105x622__hardy__l__0001-9726382019962178352.jpg",
+  "headerImage": "https://media.good-loop.com/uploads/standard/Screen-Shot-2020-07-20-at-12-00-07-PM-__1__-5873899304282589553.jpg",
   "name": "one-percent-for-the-planet",
   "logo": "https://media.good-loop.com/uploads/raw/1ftp__Primary__Vertical__FullColor-9918702103395043531.jpg#ccrop:60",
   "@id": "one-percent-for-the-planet",
@@ -36,5 +36,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
