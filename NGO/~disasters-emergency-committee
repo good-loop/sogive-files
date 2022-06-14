@@ -127,6 +127,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "reserves": {
+          "notes": ""
+        }
+      },
       "name": "overall",
       "reserves": {
         "@type": "Money",
