@@ -21,12 +21,12 @@
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
   "imageList": [
     {
-      "contentUrl": "https://media.good-loop.com/uploads/raw/1105x622__hardy__l__0001-542131630836105443.jpg",
-      "backdrop": false,
+      "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
       "@type": "ImageObject"
     },
     {
-      "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/1105x622__hardy__l__0001-542131630836105443.jpg",
+      "backdrop": false,
       "@type": "ImageObject"
     },
     {
