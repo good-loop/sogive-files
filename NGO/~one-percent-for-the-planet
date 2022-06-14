@@ -22,7 +22,10 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
