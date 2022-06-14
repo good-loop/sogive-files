@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Gingerbread",
+  "logo": "https://media.good-loop.com/uploads/standard/site-login-logo-14142944711307748552.png#ccrop:95",
   "id": "gingerbread",
   "suggest": [
     "Gingerbread"
   ],
+  "url": "",
   "status": "DRAFT"
 }
