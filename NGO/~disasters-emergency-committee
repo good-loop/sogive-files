@@ -99,6 +99,30 @@
         "value": 1410000.0
       },
       "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -125,7 +149,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall null]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "meta": {
     "images": {
@@ -141,5 +165,5 @@
   "englandWalesCharityRegNum": "1062638",
   "whereTags": "International, Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
