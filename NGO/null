@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Ripple Effect",
-  "logo": "https://media.good-loop.com/uploads/standard/ripple-effect-70-18351032063644869341.png#ccrop:90",
-  "id": "ripple-effect",
+  "displayName": "Gingerbread",
+  "logo": "https://media.good-loop.com/uploads/standard/site-login-logo-14142944711307748552.png#ccrop:95",
+  "id": "gingerbread",
   "suggest": [
-    "Ripple Effect"
+    "Gingerbread"
   ],
-  "url": "https://rippleeffect.org/",
+  "url": "https://www.gingerbread.org.uk/",
   "status": "DRAFT"
 }
