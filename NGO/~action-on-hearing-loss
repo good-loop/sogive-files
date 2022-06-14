@@ -86,13 +86,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 2.8305161E9,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 2.8305161E11,
           "value": 2.8305161E7
         },
         {
@@ -106,13 +106,13 @@
           "value": 0.0
         },
         {
-          "value100": 3.99198E7,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.99198E9,
           "value": 399198.0
         },
         {
@@ -124,6 +124,11 @@
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
           "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
       "start": "2015-04-01T00:00:00Z",
@@ -286,6 +291,9 @@
       "meta": {
         "inputs_meta": {
           "notes": "p.37 says- £10.6m \nFundraising and other trading, is this the trading cost?"
+        },
+        "reserves": {
+          "notes": "p.44"
         }
       },
       "name": "overall",
