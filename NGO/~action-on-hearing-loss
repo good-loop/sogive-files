@@ -259,7 +259,12 @@
       "location": ""
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "people who are deaf or have hearing loss or tinnitussupported"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
