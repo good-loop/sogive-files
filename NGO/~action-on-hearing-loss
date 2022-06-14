@@ -320,7 +320,7 @@
         "value100p": 1.5E10,
         "value": 1500000.0
       },
-      "isRep": false
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -336,13 +336,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "action-on-hearing-loss",
-      "name": "People (singular: person) receiving hearing aid services",
+      "name": "individual(s) who are deaf or have hearing loss or tinnitus supported",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 8337089,
-        "value": "833.7089475702047710283533583706125788442"
+        "value100p": 1759400,
+        "value": "175.94",
+        "name": ""
       },
       "n": 1.0
     }
@@ -353,13 +353,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "People (singular: person) receiving hearing aid services",
+    "name": "individual(s) who are deaf or have hearing loss or tinnitus supported",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 8337089,
-      "value": "833.7089475702047710283533583706125788442"
+      "value100p": 1759400,
+      "value": "175.94",
+      "name": ""
     }
   },
   "meta": {
