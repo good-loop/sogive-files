@@ -262,7 +262,8 @@
       "outputs": [
         {
           "number": 0.0,
-          "name": "people who are deaf or have hearing loss or tinnitussupported"
+          "name": "people who are deaf or have hearing loss or tinnitussupported",
+          "description": "57% of total cost, £20,235,000, "
         }
       ],
       "year": 2021.0,
