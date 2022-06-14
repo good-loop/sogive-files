@@ -129,7 +129,7 @@
       ],
       "meta": {
         "reserves": {
-          "notes": "p.11, rounded"
+          "notes": "p.11, rounded to nearest 1000"
         }
       },
       "name": "overall",
