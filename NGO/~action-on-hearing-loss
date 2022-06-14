@@ -299,6 +299,7 @@
     }
   },
   "name": "Action on Hearing Loss",
+  "logo": "https://media.good-loop.com/uploads/raw/OIP-16114133482921896622.png",
   "@id": "action-on-hearing-loss",
   "summaryDescription": "RNID aim to make life inclusive for people in the UK who are deaf, have hearing loss, or tinnitus.",
   "englandWalesCharityRegNum": "207720",
