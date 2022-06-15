@@ -181,7 +181,9 @@
         },
         {
           "number": 3500.0,
-          "name": "ha of wetland habitats managed"
+          "confidence": "high",
+          "name": "ha of wetland habitats managed",
+          "description": "pg 10"
         }
       ],
       "year": 2020.0,
