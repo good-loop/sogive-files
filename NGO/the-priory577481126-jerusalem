@@ -1,0 +1,860 @@
+{
+  "ukCompanyRegNum": "03866129",
+  "projects": [
+    {
+      "outputs": [],
+      "start_raw": "2016-01-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "102500",
+          "currency": "GBP",
+          "value100p": 1.025E9,
+          "value": 102500.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "125700000",
+        "currency": "GBP",
+        "value100p": 1.257E12,
+        "value": 1.257E8
+      },
+      "end_raw": "2016-12-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-01-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "First aid provision and youth development",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "end_raw": "2016-12-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-01-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Training the public in first aid",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "end_raw": "2016-12-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2016-01-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "Ambulance and transport services",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "end_raw": "2016-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "102300000",
+          "currency": "GBP",
+          "value100p": 1.023E12,
+          "value": 1.023E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "year": {
+          "source": ""
+        },
+        "start": {
+          "source": ""
+        },
+        "reserves": {
+          "source": ""
+        },
+        "end": {
+          "source": ""
+        }
+      },
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "119200000",
+        "currency": "GBP",
+        "value100p": 1.192E12,
+        "value": 1.192E8
+      },
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "15900000",
+          "currency": "GBP",
+          "value100p": 1.59E11,
+          "value": 1.59E7
+        }
+      ],
+      "name": "First aid provision and youth development",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "24200000",
+          "currency": "GBP",
+          "value100p": 2.42E11,
+          "value": 2.42E7
+        }
+      ],
+      "name": "Ambulance and transport services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4000000",
+          "currency": "GBP",
+          "value100p": 4.0E10,
+          "value": 4000000.0
+        }
+      ],
+      "name": "Community support programs",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "34300000",
+          "currency": "GBP",
+          "value100p": 3.43E11,
+          "value": 3.43E7
+        }
+      ],
+      "name": "Training",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12600000",
+          "currency": "GBP",
+          "value100p": 1.26E11,
+          "value": 1.26E7
+        }
+      ],
+      "name": "First aid products",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sja.org.uk/globalassets/documents/annual-reports-and-accounts/priory-annual-report-and-accounts-2018-web.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2200000",
+          "currency": "GBP",
+          "value100p": 2.2E10,
+          "value": 2200000.0
+        }
+      ],
+      "name": "Other charitable activities",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11078595\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3964653"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "99200000",
+          "currency": "GBP",
+          "value100p": 9.92E11,
+          "value": 9.92E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "91100000",
+        "currency": "",
+        "value100p": 9.11E11,
+        "value": 9.11E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "18600000",
+          "currency": "GBP",
+          "value100p": 1.86E11,
+          "value": 1.86E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16300000",
+          "currency": "GBP",
+          "value100p": 1.63E11,
+          "value": 1.63E7
+        }
+      ],
+      "name": "First aid provision and youth development"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "18500000",
+          "currency": "GBP",
+          "value100p": 1.85E11,
+          "value": 1.85E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16200000",
+          "currency": "GBP",
+          "value100p": 1.62E11,
+          "value": 1.62E7
+        }
+      ],
+      "name": "Ambulance and transport services"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "11800000",
+          "currency": "GBP",
+          "value100p": 1.18E11,
+          "value": 1.18E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10300000",
+          "currency": "GBP",
+          "value100p": 1.03E11,
+          "value": 1.03E7
+        }
+      ],
+      "name": "Covid-19 support"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "4500000",
+          "currency": "GBP",
+          "value100p": 4.5E10,
+          "value": 4500000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3900000",
+          "currency": "GBP",
+          "value100p": 3.9E10,
+          "value": 3900000.0
+        }
+      ],
+      "name": "Community support programmes"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "30400000",
+          "currency": "GBP",
+          "value100p": 3.04E11,
+          "value": 3.04E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "26600000",
+          "currency": "GBP",
+          "value100p": 2.66E11,
+          "value": 2.66E7
+        }
+      ],
+      "name": "Training the public"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "13800000",
+          "currency": "GBP",
+          "value100p": 1.38E11,
+          "value": 1.38E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "12100000",
+          "currency": "GBP",
+          "value100p": 1.21E11,
+          "value": 1.21E7
+        }
+      ],
+      "name": "First aid products"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1600000",
+          "currency": "GBP",
+          "value100p": 1.6E10,
+          "value": 1600000.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1400000",
+          "currency": "GBP",
+          "value100p": 1.4E10,
+          "value": 1400000.0
+        }
+      ],
+      "name": "Other charitable activities"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "St John Ambulance",
+  "description": "All of [St. John\u0027s work](https://www.stjohninternational.org/who-we-are\n) is entirely funded by donations. St John is driven by values of humanity, excellence, accountability, responsiveness and teamwork. St John Ambulance wholly owns a subsidiary called St John Limited. ",
+  "recommendation": "**Summary**\n**St John Ambulance is rated as More Information Needed on the SoGive ratings scale**\n- St John Ambulance provides first aid, first aid training, and general medical support in the UK\n- This work includes training workplaces, supporting the NHS covid vaccination effort, and providing ambulance services.\n- However, we do not have enough information on the precise nature and impact of many of these interventions to be able to assess their cost-effectiveness.\n- Therefore, St John Ambulance is rated as More Information Needed\n \n**The SoGive approach**\n \nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n \nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n \n**More about what St John Ambulance does - how they spend your donations**\n\nSt John Ambulance provides a variety of healthcare services in the UK. According to their [2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11078595\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3964653), the majority of this goes towards first aid with £16.3 million going towards direct provision at venues such as sporting matches, £12.1 million going towards first aid supplies, and a further £26.6 million towards training the public in first aid.\nIn addition, they have run healthcare services relevant to the Covid-19 pandemic with £16.2 million going towards running ambulances and another £10.3 million towards general Covid-19 support such as supporting vaccination volunteers. Finally, they spend £3.9 million on community support such as aiding with blood donations.\n\n**Cost-effectiveness analysis - how does St John Ambulance compare to the most cost-effective charities?**\n\nAfter a review of the work of St John Ambulance under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as saving a life for £5,000), and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar), and for more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nIn their 2020 annual report, St John Ambulance provided a variety of numbers related to impact such as assisting 142,800 blood donations, training 30,000 vaccination volunteers, and providing 250,000 hours of ambulance services. However, many of these numbers do not contain sufficient information to be able to estimate the effectiveness of their work at saving lives or improving health outcomes more broadly. \n\nFor example, it is not entirely clear how many of the vaccinations or blood donations they assisted could have occurred without their work, or how many people they directly treat with first aid. Alongside not always knowing how many they have helped, we also do not have evidence on the effectiveness of the support they provide.  For example, of those who receive first aid training, we don’t know how many go on to perform an act which improves someone’s health. \n\nWithout these kinds of details, it is not possible to construct a good estimate for St John Ambulance’s impact. Consequently, we rate St John Ambulance as More Information Needed.\n\nTo reach a firm assessment, the following further information would be required:\n-          More detailed information on the full extent of services they provide, such as how many people are directly provided with first aid and on what roles their volunteers play in the blood donation process.\n-          Additionally, we would want to know more about the average effect of many of St John Ambulance’s interventions on their intended outcomes such as saving lives, improving other health outcomes, and promoting first aid knowledge.\n-          Furthermore, we would want to assess the methodology of any estimation of their impact to see if it is sufficiently robust to support any claims they make. This could take the form of reasoning based on the known effectiveness of health interventions in the academic literature, or a high-quality assessment conducted by themselves.\n-          A fuller analysis would also assess management capability. For example, this would involve assessing the charity\u0027s capabilities around Monitoring, Evaluation and Learning (or MEL) to ensure that they are learning from their mistakes (and not simply publishing evaluation reports that don’t change anything), and also understanding how the leadership sets strategy and selects projects; in particular, how the charity incorporates cost-effectiveness thinking into its strategic decisions.\n\n**Conclusion**\n\nBased on the above, we rate St John Ambulance as \"More information needed\" under the SoGive methodology. This means:\n-          We have little indication about their cost-effectiveness.\n-          There are areas of their work where we do not have enough information to verify that they are effective.\n",
+  "whyTags": "First aid, Health",
+  "UNSDG": "3",
+  "parentCharityName": "St John International",
+  "imageCaption": "Ambulance service during the 7/7 bombings",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/sja__logo__correct__sized-9184628574508143333.png",
+  "@id": "the-priory-of-england-and-the-islands-of-the-most-venerable-order-of-the-hospital-of-st-john-of-jerusalem",
+  "wikipedia": "https://en.wikipedia.org/wiki/St_John_Ambulance_(England)",
+  "summaryDescription": "St. John provides workplace training, first aid supplies and event and ambulance services.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/Russell__square__ambulances-1934689565932544397.jpg",
+  "stories": "In 2005, St John Ambulance provided support during the [7/7 bombings](https://www.sja.org.uk/what-we-do/our-history-heritage-and-museum/timeline/) on London\u0027s transport system.",
+  "noPublicDonations": false,
+  "parentCharity": "235979",
+  "impact": "more-info-needed",
+  "suggest": [
+    "The Priory of England and the Islands of the most venerable order of the Hospital of St. John of Jerusalem",
+    "St John Ambulance",
+    "the-priory-of-england-and-the-islands-of-the-most-venerable-order-of-the-hospital-of-st-john-of-jerusalem"
+  ],
+  "url": "https://www.sja.org.uk/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2020.0]"
+  },
+  "meta": {
+    "ukCompanyRegNum": {
+      "source": ""
+    },
+    "images": {
+      "source": ""
+    },
+    "stories": {
+      "source": ""
+    },
+    "imageCaption": {
+      "source": ""
+    },
+    "displayName": {
+      "source": ""
+    },
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "name": {
+      "source": ""
+    },
+    "description": {
+      "source": ""
+    },
+    "logo": {
+      "source": ""
+    },
+    "wikipedia": {
+      "source": ""
+    },
+    "englandWalesCharityRegNum": {
+      "source": ""
+    },
+    "url": {
+      "source": ""
+    }
+  },
+  "name": "The Priory of England and the Islands of the most venerable order of the Hospital of St. John of Jerusalem",
+  "category": "health",
+  "subcategory": "Treatment and Prevention",
+  "englandWalesCharityRegNum": "1077265",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
