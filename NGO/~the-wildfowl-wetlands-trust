@@ -196,9 +196,10 @@
           "description": "pg 10"
         },
         {
-          "number": "",
+          "number": 5000.0,
           "confidence": "very-low",
-          "name": "amount of wildlife impacted"
+          "name": "amount of wildlife impacted",
+          "description": "pg 10"
         }
       ],
       "year": 2020.0,
