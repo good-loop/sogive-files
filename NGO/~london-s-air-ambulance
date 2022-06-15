@@ -11,15 +11,7 @@
             }
           },
           "name": "patient(s) helped",
-          "description": "This includes patients treated by helicopter and car missions, including those undertaken by the Physician Response Unit",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "1040",
-            "currency": "",
-            "value100p": 1.04E7,
-            "value": 1040.0
-          }
+          "description": "This includes patients treated by helicopter and car missions, including those undertaken by the Physician Response Unit"
         }
       ],
       "data-src": [
@@ -414,9 +406,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "value100p": 10400000,
-        "value": "1040.0",
-        "name": ""
+        "currency": "GBP",
+        "value100p": 20899971,
+        "value": "2089.9971771347918849598"
       },
       "n": 1.0
     }
@@ -431,9 +423,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 10400000,
-      "value": "1040.0",
-      "name": ""
+      "currency": "GBP",
+      "value100p": 20899971,
+      "value": "2089.9971771347918849598"
     }
   },
   "ready": false,
@@ -444,5 +436,5 @@
   "summaryDescription": "London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London",
   "uk_giftaid": true,
   "whereTags": "London",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
