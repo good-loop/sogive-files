@@ -157,6 +157,39 @@
         }
       ],
       "name": "Programme 1: Wetlands in UK rural catchments"
+    },
+    {
+      "outputs": [
+        {
+          "number": 5000.0,
+          "name": "wildlife impacted"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 2: Wetland landscapes at and around our sites - WWT Waterscapes"
     }
   ],
   "@type": "NGO",
