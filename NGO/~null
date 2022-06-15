@@ -1,10 +1,15 @@
 {
+  "notes": "",
+  "headerImage": "https://media.good-loop.com/uploads/standard/maxresdefault_2-14555932633419584151.jpg",
   "@type": "NGO",
-  "name": "Active Minds",
-  "logo": "https://media.good-loop.com/uploads/standard/233041__1348230-14466049065726807259.png",
-  "id": "active-minds",
+  "displayName": "family-fund-trust",
+  "name": "Family Fund Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/278569380__361270859372868__5998587882046096070__n-2867695334175882846.png",
+  "id": "family-fund-trust",
   "suggest": [
-    "Active Minds"
+    "Family Fund Trust",
+    "family-fund-trust"
   ],
-  "status": "DRAFT"
+  "url": "https://www.familyfund.org.uk/",
+  "status": "PUBLISHED"
 }
