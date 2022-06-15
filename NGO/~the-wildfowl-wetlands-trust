@@ -198,6 +198,39 @@
         }
       ],
       "name": "Programme 2: Wetland landscapes at and around our sites - WWT Waterscapes"
+    },
+    {
+      "outputs": [
+        {
+          "number": 4.0,
+          "name": "pairs of black-tailed godwits"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 3: UK wetland species restoration"
     }
   ],
   "@type": "NGO",
