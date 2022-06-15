@@ -167,9 +167,10 @@
           "description": "pg 10"
         },
         {
-          "number": 1.0,
-          "confidence": "high",
-          "name": "metres "
+          "number": 2400.0,
+          "confidence": "low",
+          "name": "meters squared of restored habitat",
+          "description": "pg 10"
         }
       ],
       "year": 2020.0,
