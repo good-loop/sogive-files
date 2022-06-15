@@ -327,6 +327,10 @@
           "confidence": "high",
           "name": "livelihoods improved in Madagascar",
           "description": "pg 15"
+        },
+        {
+          "number": 3557.0,
+          "name": "ha of weltand protected"
         }
       ],
       "year": 2020.0,
