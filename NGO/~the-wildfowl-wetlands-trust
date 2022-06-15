@@ -95,7 +95,12 @@
       "isRep": true
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 8.0,
+          "name": "open water wetland(s)"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
