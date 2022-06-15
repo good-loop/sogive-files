@@ -24,24 +24,29 @@
           "description": "Spent: 9748000"
         },
         {
-          "number": 444000.0,
-          "name": "Urban and community wetland(s)"
+          "number": "",
+          "name": "Urban and community wetland(s)",
+          "description": "Spent: 444000"
         },
         {
-          "number": 157000.0,
-          "name": "International community-based wetland conservation"
+          "number": "",
+          "name": "International community-based wetland conservation",
+          "description": "Spent:\n157000"
         },
         {
-          "number": 332000.0,
-          "name": "Global wetland support"
+          "number": "",
+          "name": "Global wetland support",
+          "description": "Spent:\n332000"
         },
         {
-          "number": 341000.0,
-          "name": "East Asian-Australasian flyway"
+          "number": "",
+          "name": "East Asian-Australasian flyway",
+          "description": "Spent:\n341000"
         },
         {
-          "number": 1562000.0,
-          "name": "Northwest European flyway Membership"
+          "number": "",
+          "name": "Northwest European flyway Membership",
+          "description": "Spent:\n1562000"
         }
       ],
       "data-src": [
