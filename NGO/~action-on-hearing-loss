@@ -396,6 +396,37 @@
         }
       ],
       "name": "Care and support and local engagement"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,645,000",
+          "currency": "GBP",
+          "value100p": 1.645E10,
+          "value": 1645000.0
+        }
+      ],
+      "name": "Research"
     }
   ],
   "@type": "NGO",
