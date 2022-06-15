@@ -319,6 +319,39 @@
         }
       ],
       "name": "Programme 4: Experience and engagement at WWT Sites"
+    },
+    {
+      "outputs": [
+        {
+          "number": 10000.0,
+          "name": "livelihoods improved in Madagascar"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 6: International community-based wetland conservation"
     }
   ],
   "@type": "NGO",
