@@ -1,5 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Thankyouemailbanners-12753102715463038595.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/Honeypot-header-12115754326231565145.jpeg",
   "circleCrop": 68.0,
   "@type": "NGO",
   "displayName": "Honeypot",
@@ -34,5 +34,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
