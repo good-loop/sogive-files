@@ -113,6 +113,10 @@
           "confidence": "high",
           "name": "wet woodland(s)",
           "description": "pg 9"
+        },
+        {
+          "number": 4600.0,
+          "name": "native tree(s) planted"
         }
       ],
       "data-src": [
