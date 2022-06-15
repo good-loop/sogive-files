@@ -105,12 +105,14 @@
         {
           "number": 169.0,
           "confidence": "high",
-          "name": ""
+          "name": "leaky dam(s)",
+          "description": "pg 9"
         },
         {
           "number": 3.0,
           "confidence": "high",
-          "name": "wet woodland(s)"
+          "name": "wet woodland(s)",
+          "description": "pg 9"
         }
       ],
       "data-src": [
