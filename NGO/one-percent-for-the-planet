@@ -1,6 +1,6 @@
 {
   "circleCrop": 74.0,
-  "images": "https://media.good-loop.com/uploads/standard/arif-aerial__mv-uxUVcWEXT__4-unsplash-16242007110959745358.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/edited_2-13043592478090842141.jpeg",
   "color": "#4f8ddc",
   "@type": "NGO",
   "displayName": "1% For The Planet",
@@ -39,5 +39,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
