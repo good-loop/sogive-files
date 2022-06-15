@@ -203,7 +203,14 @@
       "outputs": [
         {
           "number": 4.0,
-          "name": "pairs of black-tailed godwits"
+          "confidence": "high",
+          "name": "pairs of black-tailed godwits",
+          "description": "pg "
+        },
+        {
+          "number": 7.0,
+          "confidence": "high",
+          "name": "number of chicks fleged"
         }
       ],
       "year": 2020.0,
