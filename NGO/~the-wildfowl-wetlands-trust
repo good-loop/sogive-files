@@ -162,7 +162,9 @@
       "outputs": [
         {
           "number": 5000.0,
-          "name": "wildlife impacted"
+          "confidence": "very-low",
+          "name": "wildlife impacted",
+          "description": "pg 10"
         }
       ],
       "year": 2020.0,
