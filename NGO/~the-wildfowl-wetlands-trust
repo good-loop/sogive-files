@@ -168,7 +168,8 @@
         },
         {
           "number": 1.0,
-          "name": "paleo-channels created"
+          "confidence": "high",
+          "name": ""
         }
       ],
       "year": 2020.0,
