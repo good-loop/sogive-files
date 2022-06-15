@@ -5,7 +5,7 @@
       "outputs": [
         {
           "number": "",
-          "name": "",
+          "name": "Wetlands in UK rural catchments",
           "description": ""
         }
       ],
@@ -66,7 +66,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-wildfowl-wetlands-trust",
-      "name": "",
+      "name": "Wetlands in UK rural catchments",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -83,7 +83,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "",
+    "name": "Wetlands in UK rural catchments",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
