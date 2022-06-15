@@ -244,6 +244,12 @@
         },
         {
           "name": "educational programs"
+        },
+        {
+          "name": "habitat improvement"
+        },
+        {
+          "name": "people educated about wetlands awareness"
         }
       ],
       "year": 2020.0,
@@ -271,6 +277,39 @@
         }
       ],
       "name": "Programme 3: UK wetland species restoration"
+    },
+    {
+      "outputs": [
+        {
+          "name": "visitors at wetlands",
+          "description": "shut down because of COVID-19; page"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 4: Experience and engagement at WWT Sites"
     }
   ],
   "@type": "NGO",
