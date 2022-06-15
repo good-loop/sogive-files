@@ -354,7 +354,12 @@
       ]
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 115013.0,
+          "name": "People (singular: person) receiving hearing aid services"
+        }
+      ],
       "year": 2021.0,
       "@type": "Project",
       "inputs": [
