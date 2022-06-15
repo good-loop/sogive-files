@@ -5,17 +5,17 @@
       "outputs": [
         {
           "number": "",
-          "name": "Wetlands in UK rural catchments",
-          "description": "Spent: 580000"
+          "name": "",
+          "description": ""
         },
         {
           "number": "",
-          "name": "WWT waterscapes",
-          "description": "Spent: 1496000"
+          "name": "",
+          "description": ""
         },
         {
           "number": "",
-          "name": "UK wetland species restoration",
+          "name": "",
           "description": "Spent: 527000"
         },
         {
@@ -93,12 +93,40 @@
         "value": 2600000.0
       },
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 1: Wetlands in UK rural catchments"
     }
   ],
   "@type": "NGO",
   "displayName": "Wildfowl \u0026 Wetlands Trust",
   "impact": "low",
-  "confidence": "high",
+  "confidence": "medium",
   "suggest": [
     "The Wildfowl \u0026 Wetlands Trust",
     "Wildfowl \u0026 Wetlands Trust",
@@ -108,7 +136,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-wildfowl-wetlands-trust",
-      "name": "Wetlands in UK rural catchments",
+      "name": "",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -125,7 +153,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Wetlands in UK rural catchments",
+    "name": "",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
