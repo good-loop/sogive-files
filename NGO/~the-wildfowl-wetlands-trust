@@ -165,6 +165,10 @@
           "confidence": "very-low",
           "name": "wildlife impacted",
           "description": "pg 10"
+        },
+        {
+          "number": 1.0,
+          "name": "paleo-channels created"
         }
       ],
       "year": 2020.0,
