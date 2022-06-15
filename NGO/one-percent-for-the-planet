@@ -27,7 +27,7 @@
       "@type": "ImageObject"
     },
     {
-      "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/C45CB2E0-3181-465D-93B4-3FD75842F4E4__1__201__a-1-17053322733886608181.jpg",
       "@type": "ImageObject"
     },
     {
@@ -35,9 +35,13 @@
       "@type": "ImageObject"
     },
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
+      "@type": "ImageObject"
+    },
+    {
       "contentUrl": "https://media.good-loop.com/uploads/raw/Screen-Shot-2020-07-20-at-12-00-07-PM-__1__-3140639695286275968.jpg",
       "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
