@@ -4,7 +4,7 @@
     {
       "outputs": [
         {
-          "number": "",
+          "number": 580000.0,
           "name": "Wetlands in UK rural catchments",
           "description": ""
         },
@@ -27,6 +27,12 @@
         {
           "number": "",
           "name": "Global wetland support"
+        },
+        {
+          "name": "East Asian-Australasian flyway"
+        },
+        {
+          "name": "Northwest European flyway Membership"
         }
       ],
       "data-src": [
@@ -91,8 +97,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 57440000000,
-        "value": "5744000"
+        "value100p": 99034,
+        "value": "9.9034482758620686288000"
       },
       "n": 1.0
     }
@@ -108,8 +114,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 57440000000,
-      "value": "5744000"
+      "value100p": 99034,
+      "value": "9.9034482758620686288000"
     }
   },
   "name": "The Wildfowl \u0026 Wetlands Trust",
