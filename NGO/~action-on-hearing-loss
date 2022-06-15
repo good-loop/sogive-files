@@ -464,6 +464,7 @@
   "displayName": "Royal National Institute for Deaf People",
   "noPublicDonations": false,
   "impact": "low",
+  "confidence": "high",
   "description": "The Royal National Institute for Deaf People (RNID) support people in the UK who are deaf or have hearing loss or tinnitus by providing information, personalised support to local communities, and funding pioneering research into treatments and cures.",
   "suggest": [
     "Action on Hearing Loss",
