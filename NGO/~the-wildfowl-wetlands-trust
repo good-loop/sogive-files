@@ -103,6 +103,7 @@
         },
         {
           "number": 169.0,
+          "confidence": "high",
           "name": "leaky dam(s)"
         }
       ],
