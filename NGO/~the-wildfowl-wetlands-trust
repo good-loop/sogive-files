@@ -121,7 +121,9 @@
         },
         {
           "number": 8750.0,
-          "name": "ton(nes) of carbon stored"
+          "confidence": "medium",
+          "name": "ton(nes) of carbon stored",
+          "description": "pg 10"
         }
       ],
       "data-src": [
