@@ -150,13 +150,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 3.933451E8,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 3.933451E10,
           "value": 3933451.0
         },
         {
@@ -170,13 +170,13 @@
           "value": 0.0
         },
         {
-          "value100": 5547500.0,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.5475E8,
           "value": 55475.0
         },
         {
@@ -188,6 +188,11 @@
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
           "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
       "start": "2015-04-01T00:00:00Z",
@@ -209,13 +214,13 @@
       "stories_src": "",
       "inputs": [
         {
-          "value100": 6.617388E8,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "annualCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 6.617388E10,
           "value": 6617388.0
         },
         {
@@ -229,13 +234,13 @@
           "value": 0.0
         },
         {
-          "value100": 9332700.0,
           "year": 2016.0,
           "@type": "MonetaryAmount",
           "start": "2015-04-01T00:00:00Z",
           "name": "tradingCosts",
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
+          "value100p": 9.3327E8,
           "value": 93327.0
         },
         {
@@ -247,6 +252,11 @@
           "currency": "GBP",
           "end": "2016-03-31T00:00:00Z",
           "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
         }
       ],
       "start": "2015-04-01T00:00:00Z",
@@ -281,10 +291,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "raw": "31500",
+          "raw": "3150000",
           "currency": "GBP",
-          "value100p": 3.15E8,
-          "value": 31500.0
+          "value100p": 3.15E10,
+          "value": 3150000.0
         },
         {
           "@type": "Money",
