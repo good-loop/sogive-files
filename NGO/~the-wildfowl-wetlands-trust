@@ -36,10 +36,10 @@
         {
           "@type": "Money",
           "name": "incomeFromBeneficiaries",
-          "raw": "0",
+          "raw": "11431000",
           "currency": "GBP",
-          "value100p": 0.0,
-          "value": 0.0
+          "value100p": 1.1431E11,
+          "value": 1.1431E7
         }
       ],
       "name": "overall",
@@ -70,8 +70,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 10808,
-        "value": "1.08086847073631209650000"
+        "value100p": 3614,
+        "value": "0.36148521082441785632000"
       },
       "n": 1.0
     }
@@ -87,8 +87,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 10808,
-      "value": "1.08086847073631209650000"
+      "value100p": 3614,
+      "value": "0.36148521082441785632000"
     }
   },
   "name": "The Wildfowl \u0026 Wetlands Trust",
