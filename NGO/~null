@@ -1,7 +1,7 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/maxresdefault_2-17687979301809084997.jpg",
   "notes": "",
-  "headerImage": "https://media.good-loop.com/uploads/standard/maxresdefault_2-14555932633419584151.jpg#noscale",
+  "headerImage": "https://media.good-loop.com/uploads/standard/maxresdefault_2-14555932633419584151.jpg",
   "@type": "NGO",
   "displayName": "family-fund-trust",
   "name": "Family Fund Trust",
@@ -13,5 +13,5 @@
     "family-fund-trust"
   ],
   "url": "https://www.familyfund.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
