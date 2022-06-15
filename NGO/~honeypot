@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Honeypot",
   "name": "honeypot",
   "@id": "honeypot",
   "suggest": [
     "honeypot",
+    "Honeypot",
     "honeypot"
-  ]
+  ],
+  "status": "DRAFT"
 }
