@@ -451,7 +451,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "2,267,000",
+          "currency": "GBP",
+          "value100p": 2.267E10,
+          "value": 2267000.0
         }
       ],
       "name": "Technology and Support Services"
