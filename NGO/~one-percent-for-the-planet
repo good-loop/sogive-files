@@ -31,16 +31,17 @@
       "@type": "ImageObject"
     },
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/TakeActionHero-01-2-14304436180398811729.jpg",
+      "@type": "ImageObject"
+    },
+    {
       "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
       "@type": "ImageObject"
     },
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/Screen-Shot-2020-07-20-at-12-00-07-PM-__1__-3140639695286275968.jpg",
       "@type": "ImageObject"
-    },
-    {
-      "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
