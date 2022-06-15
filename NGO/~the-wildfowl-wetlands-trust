@@ -205,12 +205,13 @@
           "number": 4.0,
           "confidence": "high",
           "name": "pairs of black-tailed godwits",
-          "description": "pg "
+          "description": "pg 12"
         },
         {
           "number": 7.0,
           "confidence": "high",
-          "name": "number of chicks fleged"
+          "name": "number of chicks fleged",
+          "description": "pg 12"
         }
       ],
       "year": 2020.0,
