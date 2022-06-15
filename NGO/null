@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "30 Day Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/download_4-9253612821828587166.jpg#ccrop:110",
-  "id": "30-day-fund",
+  "name": "Active Minds ",
+  "logo": "https://media.good-loop.com/uploads/standard/233041__1348230-14466049065726807259.png#ccrop:108",
+  "id": "active-minds",
   "suggest": [
-    "30 Day Fund"
+    "Active Minds "
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
