@@ -1,0 +1,15 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/Honeypot_Logo_-_New_Tagline-566332614171653101.png",
+  "circleCrop": 68.0,
+  "@type": "NGO",
+  "displayName": "Honeypot",
+  "name": "honeypot",
+  "@id": "honeypot",
+  "suggest": [
+    "honeypot",
+    "Honeypot",
+    "honeypot"
+  ],
+  "url": "https://www.honeypot.org.uk/",
+  "status": "DRAFT"
+}
