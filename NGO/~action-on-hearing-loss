@@ -274,7 +274,7 @@
           "number": 115013.0,
           "confidence": "low",
           "name": "individual(s) who are deaf or have hearing loss or tinnitus supported",
-          "description": "20,893,000+  was spent on giving care and support to individuals.\n\nConfidence low because not every single individual helped appears to be mentioned in report. ",
+          "description": "20,893,000+6231000  was spent on giving care and support to individuals.\n\nConfidence low because not every single individual helped appears to be mentioned in report. ",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
