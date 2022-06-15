@@ -196,6 +196,7 @@
           "description": "pg 10"
         },
         {
+          "number": "",
           "confidence": "very-low",
           "name": "amount of wildlife impacted"
         }
