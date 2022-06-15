@@ -3,16 +3,17 @@
   "circleCrop": 68.0,
   "@type": "NGO",
   "displayName": "Honeypot",
-  "name": "honeypot",
   "description": "Since 1996 Honeypot has been working to enhance the lives of young carers aged 5-12 years by providing respite breaks and on-going outreach support. In the UK nationwide, they give young carers a break from demanding and stressful responsibilities at home and provide a safe, nurturing environment where children at risk can develop their full potential.",
-  "@id": "honeypot",
   "suggest": [
     "honeypot",
     "Honeypot",
     "honeypot"
   ],
+  "url": "https://www.honeypot.org.uk/",
+  "name": "honeypot",
+  "@id": "honeypot",
+  "category": "human services",
   "summaryDescription": "Honeypot are the national young carers’ charity. Their countryside respite breaks and range of support services give young carers, with responsibilities beyond their years, the chance to be a child again. Because you only get one chance of a happy, fulfilling childhood.",
   "englandWalesCharityRegNum": "1184132",
-  "url": "https://www.honeypot.org.uk/",
   "status": "PUBLISHED"
 }
