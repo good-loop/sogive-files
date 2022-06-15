@@ -99,15 +99,17 @@
         {
           "number": 8.0,
           "confidence": "high",
-          "name": "open water wetland(s)"
+          "name": "open water wetland(s)",
+          "description": "pg 9"
         },
         {
           "number": 169.0,
           "confidence": "high",
-          "name": "leaky dam(s)"
+          "name": ""
         },
         {
           "number": 3.0,
+          "confidence": "high",
           "name": "wet woodland(s)"
         }
       ],
