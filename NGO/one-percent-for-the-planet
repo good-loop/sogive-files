@@ -4,7 +4,7 @@
   "color": "#4f8ddc",
   "@type": "NGO",
   "displayName": "1% For The Planet",
-  "description": "1% For The Planet\u0027s membership model drives critical philanthropic support to address the most urgent environmental issues of our time. Their network exemplifies the power of collective action as they bring together individuals, businesses and nonprofit organisations around the world to support people and the planet.\n\n1% For The Planet was founded to prevent greenwashing, certify reputable giving and provide accountability. The 1% For The Planet certification is given to businesses and individuals that meet their high-bar commitment-donate 1% of annual sales or salary to environmental causes. ",
+  "description": "1% for the Planet is a global organisation that exists to ensure our planet and future generations thrive. They inspire businesses and individuals to support environmental nonprofits through membership and everyday actions. They make environmental giving easy and effective through partnership advising, impact storytelling and third-party certification.\n\nStarted in 2002 by Yvon Chouinard, founder of Patagonia, and Craig Mathews, founder of Blue Ribbon Flies, their business members and individual members have given hundreds of millions of dollars to their approved nonprofit partners to date. Today, 1% for the Planet’s global network consists of thousands of businesses, individuals and environmental nonprofits working toward a better future for all. ",
   "suggest": [
     "one-percent-for-the-planet",
     "1% For The Planet",
@@ -18,7 +18,7 @@
   "id": "one-percent-for-the-planet",
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
-  "extendedDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
+  "extendedDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.\n\n1% For The Planet was founded to prevent greenwashing, certify reputable giving and provide accountability. The 1% For The Planet certification is given to businesses and individuals that meet their high-bar commitment-donate 1% of annual sales or salary to environmental causes. \n\nFor every $1 contributed, 1% for the Planet will leverage $13 in impact to on-the-ground environmental organisations. ",
   "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
   "imageList": [
     {
@@ -39,5 +39,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
