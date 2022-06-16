@@ -6,7 +6,15 @@
       "outputs": [
         {
           "number": 2300000.0,
-          "name": "Grants"
+          "name": "Grants",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "11,330",
+            "currency": "",
+            "value100p": 1.133E8,
+            "value": 11330.0
+          }
         }
       ],
       "data-src": [
@@ -62,9 +70,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 72000,
-        "value": "7.2000000000000004320000"
+        "value100p": 113300000,
+        "value": "11330.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -79,9 +87,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 72000,
-      "value": "7.2000000000000004320000"
+      "value100p": 113300000,
+      "value": "11330.0",
+      "name": ""
     }
   },
   "name": "The Royal United Kingdom Beneficent Association ",
