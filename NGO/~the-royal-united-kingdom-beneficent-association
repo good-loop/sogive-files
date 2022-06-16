@@ -3,7 +3,12 @@
   "images": "https://media.good-loop.com/uploads/raw/independent_age-405302330480055449.png",
   "projects": [
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 230.0,
+          "name": "Grants"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -49,13 +54,35 @@
     "Independent Age",
     "the-royal-united-kingdom-beneficent-association"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-royal-united-kingdom-beneficent-association",
+      "name": "Grants",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 720000000,
+        "value": "72000.000000000004320000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.independentage.org",
   "whyTags": "Elderly, Veterans, Helplines, Mental Health",
   "howTags": "Campaigning, Makes grants to organisations, Direct Work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "Grants",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 720000000,
+      "value": "72000.000000000004320000"
+    }
   },
   "name": "The Royal United Kingdom Beneficent Association ",
   "logo": "https://media.good-loop.com/uploads/raw/logo_independent_age-7170785520297419250.jpeg",
