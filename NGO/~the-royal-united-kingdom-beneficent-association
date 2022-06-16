@@ -2,17 +2,18 @@
   "scotlandCharityRegNum": "SC047184",
   "@type": "NGO",
   "displayName": "Independent Age",
-  "name": "The Royal United Kingdom Beneficent Association ",
-  "@id": "the-royal-united-kingdom-beneficent-association",
   "suggest": [
     "The Royal United Kingdom Beneficent Association ",
     "Independent Age",
     "the-royal-united-kingdom-beneficent-association"
   ],
+  "url": "https://www.independentage.org",
+  "whyTags": "Elderly, Veterans, Helplines",
+  "howTags": "Campaigning, ",
+  "name": "The Royal United Kingdom Beneficent Association ",
+  "@id": "the-royal-united-kingdom-beneficent-association",
   "englandWalesCharityRegNum": "210729",
   "summaryDescription": "Independent Age provides elderly people and their families with clear, free and impartial advice on the issues that matter: care and support, money and benefits, health and mobility, as well as offering regular friendly contact and a strong campaigning voice.",
-  "url": "https://www.independentage.org",
   "uk_giftaid": true,
-  "status": "DRAFT",
-  "whyTags": "Elderly, Veterans, Helplines, Campaigning"
+  "status": "DRAFT"
 }
