@@ -99,7 +99,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "21,982,546 ",
+          "currency": "GBP",
+          "value100p": 2.1982546E11,
+          "value": 2.1982546E7
         }
       ],
       "name": "Mental Health Programs \u0026 Health Promotion"
