@@ -1,0 +1,369 @@
+{
+  "scotlandCharityRegNum": "SC039280",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends08/0001060508_AC_20180331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "6573864",
+          "currency": "GBP",
+          "value100p": 6.573864E10,
+          "value": 6573864.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 295.0,
+          "confidence": "medium",
+          "name": "Paper(s) Published",
+          "description": "This refers to research papers published across their 4 research centres."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends08/0001060508_AC_20180331_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.tommys.org/our-organisation/our-research/our-impact/impact-tommys-research-centres-2018"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "1915253",
+          "currency": "GBP",
+          "value100p": 1.915253E10,
+          "value": 1915253.0
+        }
+      ],
+      "name": "Research",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 6100000.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Other outcomes from the money for this project:\nTommy Midwives responded to nearly 5000 concerns and comments;\nTommy\u0027s Facebook had 12.3 million impressions.s"
+            }
+          },
+          "confidence": "low",
+          "name": "Pregnancy Information Website User(s)"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends08/0001060508_AC_20180331_E_C.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.tommys.org/our-organisation/our-research/our-impact/impact-tommys-information-services-2018"
+        }
+      ],
+      "start_raw": "2017-04-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "2,132,045",
+          "currency": "GBP",
+          "value100p": 2.132045E10,
+          "value": 2132045.0
+        }
+      ],
+      "name": "Education and Information Projects",
+      "start": "2017-04-01",
+      "end": "2018-03-31",
+      "end_raw": "2018-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001060508_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10352235\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1060508 (Page 24)"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "9,003,758",
+          "currency": "GBP",
+          "value100p": 9.003758E10,
+          "value": 9003758.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source: Page 14"
+        },
+        "reserves": {
+          "notes": "Source: p. 11\n--\u003e It is stated, that their goal is to reach reserves that would represent 12 months of expenditure (which would be approx. £6,8 million)"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "5,320,490",
+        "currency": "GBP",
+        "value100p": 5.32049E10,
+        "value": 5320490.0
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 24000.0,
+          "meta": {
+            "all": {
+              "notes": "Source: https://tommys.prod.acquia-sites.com/research/research-centres"
+            }
+          },
+          "confidence": "medium",
+          "name": "women (singular: woman) reached",
+          "description": "This refers to women treated in their specialist clinics and /or participating in their research trials."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001060508_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10352235\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1060508 (Page 24)"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://tommys.prod.acquia-sites.com/research/research-centres"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,779,793",
+          "currency": "GBP",
+          "value100p": 2.779793E10,
+          "value": 2779793.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "Medical Research "
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.4E7,
+          "meta": {
+            "all": {
+              "notes": "Source: https://tommys.prod.acquia-sites.com/about-us/what-we-do\n\nOn their website, Tommy\u0027s claim to reach 2 million people through their online hub monthly, which would sum up to 24 000 000 visitors per year. "
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) reached through online hub",
+          "description": "This refers to people who access the online hub each month"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://tommys.prod.acquia-sites.com/pregnancy-information/about-tommys-pregnancy-information"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001060508_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10352235\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1060508 (Page 24)"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,628,952",
+          "currency": "GBP",
+          "value100p": 2.628952E10,
+          "value": 2628952.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Their services include: information on website, social media (FB, Instagram), support group, campaings, app, telephone \u0026 email support service."
+        }
+      },
+      "name": "Education and Information Projects"
+    }
+  ],
+  "color": "#91004b",
+  "@type": "NGO",
+  "displayName": "Tommy\u0027s",
+  "description": "Tommy\u0027s areas of work include operating on 5 research centers in the UK (2018 there were 4 of these centers), providing free evidence-based pregnancy information service (through the so-called \"PregnancyHub\"), and baby loss support for families. \n\nThe research centers also have clinics providing antenatal care for women who are at high risk of having miscarriage, stillbirth and premature birth.",
+  "recommendation": "Tommy\u0027s produces some hundreds of research papers per year and their support is widely used.  // Edit Jan 2021: Silver with an option to even be rated Gold - herefore more information would be needed.\n\nIn the UK, 1 in every 225 births is a stillbirth-a baby born dead after 24 completed weeks of pregnancy. That\u0027s around 3,400 babies dying every year, or 9 every day, on average. (Source: BMJ blogs https://blogs.bmj.com/bmj/2018/09/06/lucy-selman-reducing-preventable-stillbirth-rates-in-the-uk/)\n\nGlobally, there were more than 2.6 million stillbirths globally in 2015 (source: WHO https://www.who.int/maternal_child_adolescent/epidemiology/stillbirth/en/)\n\nFor comparison, malaria -- a highly prevalent disease -- kills around 1 million people per year.\n\nThese figures seem to point towards this being a neglected, and potentially promising area of research.",
+  "whyTags": "Pregnant Women, Pregnancy, Babies",
+  "imageCaption": "Preterm Baby",
+  "logo": "https://media.good-loop.com/uploads/standard/tommys_logo.png",
+  "modified": false,
+  "@id": "tommy-s",
+  "summaryDescription": "Tommy\u0027s is funding research into stillbirth, premature birth and miscarriage, and providing information for parents-to-be.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2205928196130096facebook/Preterm_baby-5503705973416699322.jpeg",
+  "confidence": "low",
+  "impact": "more-info-needed",
+  "suggest": [
+    "Tommy\u0027s",
+    "Tommy\u0027s",
+    "tommy-s"
+  ],
+  "url": "https://www.tommys.org",
+  "howTags": "Research, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "Tommy\u0027s",
+  "logo_white": "https://as.good-loop.com/vert/tommys_logo_white.png",
+  "lastModified": "2020-10-28T13:18:01Z",
+  "englandWalesCharityRegNum": "1060508",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
