@@ -137,6 +137,37 @@
         }
       ],
       "name": "Prostate and Testicular Cancer Biomedical Research"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "17,086,385",
+          "currency": "AUD",
+          "value100p": 1.7086385E11,
+          "value": 1.7086385E7
+        }
+      ],
+      "name": "Prostate and Testicular Cancer Survivorship and Health Outcomes"
     }
   ],
   "@type": "NGO",
