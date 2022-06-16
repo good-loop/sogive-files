@@ -20,7 +20,9 @@
         },
         {
           "number": 1100000.0,
+          "confidence": "medium",
           "name": "Direct grants to older people",
+          "description": "Direct Grants to elderly people",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
