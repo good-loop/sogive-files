@@ -17,6 +17,10 @@
             "value100p": 1.133E8,
             "value": 11330.0
           }
+        },
+        {
+          "number": 1100000.0,
+          "name": "Direct grants to older people"
         }
       ],
       "data-src": [
