@@ -16,7 +16,7 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "GBP"
+          "currency": "AUD"
         },
         {
           "@type": "Money",
