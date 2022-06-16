@@ -1,5 +1,6 @@
 {
   "scotlandCharityRegNum": "SC047184",
+  "images": "https://media.good-loop.com/uploads/raw/independent_age-405302330480055449.png",
   "@type": "NGO",
   "displayName": "Independent Age",
   "suggest": [
@@ -11,7 +12,7 @@
   "whyTags": "Elderly, Veterans, Helplines, Mental Health",
   "howTags": "Campaigning, Makes grants to organisations, Direct Work",
   "name": "The Royal United Kingdom Beneficent Association ",
-  "logo": "https://media.good-loop.com/uploads/raw/independent_age-405302330480055449.png",
+  "logo": "",
   "@id": "the-royal-united-kingdom-beneficent-association",
   "englandWalesCharityRegNum": "210729",
   "summaryDescription": "Independent Age provides elderly people and their families with clear, free and impartial advice on the issues that matter: care and support, money and benefits, health and mobility, as well as offering regular friendly contact and a strong campaigning voice.",
