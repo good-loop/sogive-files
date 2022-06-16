@@ -100,7 +100,7 @@
           "@type": "Money",
           "name": "projectCosts",
           "raw": "21,982,546 ",
-          "currency": "GBP",
+          "currency": "AUD",
           "value100p": 2.1982546E11,
           "value": 2.1982546E7
         }
