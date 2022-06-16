@@ -1,6 +1,36 @@
 {
   "scotlandCharityRegNum": "SC047184",
   "images": "https://media.good-loop.com/uploads/raw/independent_age-405302330480055449.png",
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
   "@type": "NGO",
   "displayName": "Independent Age",
   "suggest": [
@@ -11,6 +41,11 @@
   "url": "https://www.independentage.org",
   "whyTags": "Elderly, Veterans, Helplines, Mental Health",
   "howTags": "Campaigning, Makes grants to organisations, Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2016.0]"
+  },
   "name": "The Royal United Kingdom Beneficent Association ",
   "logo": "https://media.good-loop.com/uploads/raw/logo_independent_age-7170785520297419250.jpeg",
   "@id": "the-royal-united-kingdom-beneficent-association",
