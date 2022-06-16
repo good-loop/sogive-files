@@ -16,7 +16,10 @@
         {
           "@type": "Money",
           "name": "annualCosts",
-          "currency": "AUD"
+          "raw": "28,280,933 ",
+          "currency": "AUD",
+          "value100p": 2.8280933E11,
+          "value": 2.8280933E7
         },
         {
           "@type": "Money",
