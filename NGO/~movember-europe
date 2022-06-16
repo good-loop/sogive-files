@@ -106,6 +106,37 @@
         }
       ],
       "name": "Mental Health Programs \u0026 Health Promotion"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14,567,412",
+          "currency": "AUD",
+          "value100p": 1.4567412E11,
+          "value": 1.4567412E7
+        }
+      ],
+      "name": "Prostate and Testicular Cancer Biomedical Research"
     }
   ],
   "@type": "NGO",
