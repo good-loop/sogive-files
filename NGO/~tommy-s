@@ -330,6 +330,29 @@
         }
       },
       "name": "Education and Information Projects"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "color": "#91004b",
@@ -354,11 +377,11 @@
     "tommy-s"
   ],
   "url": "https://www.tommys.org",
-  "howTags": "Research, Direct Work",
+  "howTags": "Research, Direct Work, ,",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "No Outputs! for project Project[overall 2021.0]"
   },
   "name": "Tommy\u0027s",
   "logo_white": "https://as.good-loop.com/vert/tommys_logo_white.png",
