@@ -6,6 +6,7 @@
       "outputs": [
         {
           "number": 2300000.0,
+          "confidence": "medium",
           "name": "Grants",
           "costPerBeneficiary": {
             "@type": "Money",
