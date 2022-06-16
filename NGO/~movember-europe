@@ -172,6 +172,7 @@
   ],
   "@type": "NGO",
   "displayName": "Movember Foundation",
+  "impact": "low",
   "suggest": [
     "Movember Europe",
     "Movember Foundation",
