@@ -37,7 +37,7 @@
         }
       ],
       "name": "overall",
-      "isRep": false
+      "isRep": true
     },
     {
       "outputs": [],
@@ -75,6 +75,34 @@
         }
       ],
       "name": "Mental Health \u0026 Suicide Prevention"
+    },
+    {
+      "outputs": [],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Mental Health Programs \u0026 Health Promotion"
     }
   ],
   "@type": "NGO",
