@@ -364,7 +364,7 @@
   ],
   "@type": "NGO",
   "displayName": "Wildfowl \u0026 Wetlands Trust",
-  "impact": "low",
+  "impact": "too-rich",
   "confidence": "medium",
   "suggest": [
     "The Wildfowl \u0026 Wetlands Trust",
