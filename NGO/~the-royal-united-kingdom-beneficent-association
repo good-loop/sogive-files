@@ -20,7 +20,15 @@
         },
         {
           "number": 1100000.0,
-          "name": "Direct grants to older people"
+          "name": "Direct grants to older people",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "1100",
+            "currency": "",
+            "value100p": 1.1E7,
+            "value": 1100.0
+          }
         }
       ],
       "data-src": [
