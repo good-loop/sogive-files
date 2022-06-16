@@ -383,6 +383,11 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2021.0]"
   },
+  "meta": {
+    "howTags": {
+      "notes": "From https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/1060508/what-who-how-where"
+    }
+  },
   "name": "Tommy\u0027s",
   "logo_white": "https://as.good-loop.com/vert/tommys_logo_white.png",
   "lastModified": "2020-10-28T13:18:01Z",
