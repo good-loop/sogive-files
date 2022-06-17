@@ -112,7 +112,15 @@
       "outputs": [
         {
           "number": 28470.0,
-          "name": "Helpline Calls"
+          "name": "Helpline Calls",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "66.74",
+            "currency": "",
+            "value100p": 667400.0,
+            "value": 66.74
+          }
         },
         {
           "number": 211782.0,
