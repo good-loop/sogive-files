@@ -190,10 +190,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "raw": "3",
+          "raw": "3892000",
           "currency": "GBP",
-          "value100p": 30000.0,
-          "value": 3.0
+          "value100p": 3.892E10,
+          "value": 3892000.0
         }
       ],
       "name": "Community Service"
