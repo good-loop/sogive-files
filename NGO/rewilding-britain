@@ -1,5 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-5342069121749014754.jpg#noscale",
+  "images": "https://media.good-loop.com/uploads/standard/PC__pine__marten.5a457561a7f8cc250728088513873b10-3562370483249103435.jpg",
   "projects": [
     {
       "outputs": [],
@@ -216,7 +216,7 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2016.0]"
   },
-  "headerImage": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-452140256449817134.jpg#noscale",
+  "headerImage": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-452140256449817134.jpg",
   "meta": {
     "noPublicDonations": {
       "notes": "Yes"
