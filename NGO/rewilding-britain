@@ -1,5 +1,5 @@
 {
-  "images": "",
+  "images": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-5342069121749014754.jpg",
   "projects": [
     {
       "outputs": [],
@@ -203,6 +203,7 @@
   "@type": "NGO",
   "displayName": "Rewilding Britain",
   "noPublicDonations": false,
+  "description": "Rewilding Britain aims to tackle the climate emergency and extinction crisis, reconnect people with the natural world and to help communities thrive.",
   "suggest": [
     "REWILDING BRITAIN",
     "Rewilding Britain",
@@ -215,6 +216,7 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2016.0]"
   },
+  "headerImage": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-452140256449817134.jpg",
   "meta": {
     "noPublicDonations": {
       "notes": "Yes"
