@@ -5,18 +5,10 @@
     {
       "outputs": [
         {
-          "number": 3277000.0,
+          "number": "",
           "confidence": "medium",
-          "name": "Grant-making",
-          "description": "Grant-making to small and medium sized charities",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "16142",
-            "currency": "",
-            "value100p": 1.6142E8,
-            "value": 16142.0
-          }
+          "name": "",
+          "description": ""
         },
         {
           "number": "",
@@ -268,13 +260,14 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-royal-united-kingdom-beneficent-association",
-      "name": "Grant-making",
+      "name": "",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "value100p": 161420000,
-        "value": "16142.0",
-        "name": ""
+        "currency": "GBP",
+        "value100p": 165600000000,
+        "value": "16560000",
+        "name": "annualCosts"
       },
       "n": 1.0
     }
@@ -285,13 +278,14 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Grant-making",
+    "name": "",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 161420000,
-      "value": "16142.0",
-      "name": ""
+      "currency": "GBP",
+      "value100p": 165600000000,
+      "value": "16560000",
+      "name": "annualCosts"
     }
   },
   "name": "The Royal United Kingdom Beneficent Association ",
