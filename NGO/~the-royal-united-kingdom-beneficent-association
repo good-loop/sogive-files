@@ -267,6 +267,7 @@
   "@type": "NGO",
   "displayName": "Independent Age",
   "impact": "more-info-needed",
+  "confidence": "medium",
   "suggest": [
     "The Royal United Kingdom Beneficent Association ",
     "Independent Age",
