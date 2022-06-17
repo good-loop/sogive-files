@@ -17,35 +17,19 @@
           "description": ""
         },
         {
-          "number": 3295998.0,
+          "number": "",
           "confidence": "medium",
-          "name": "Policy and Influencing"
+          "name": ""
         },
         {
-          "number": 3891999.0,
+          "number": "",
           "confidence": "medium",
-          "name": "Community services (Friendship contacts)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "2494",
-            "currency": "",
-            "value100p": 2.494E7,
-            "value": 2494.0
-          }
+          "name": ""
         },
         {
-          "number": 3763000.0,
+          "number": "",
           "confidence": "medium",
-          "name": "National Services",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "15.66",
-            "currency": "",
-            "value100p": 156600.0,
-            "value": 15.66
-          }
+          "name": ""
         },
         {
           "number": "",
