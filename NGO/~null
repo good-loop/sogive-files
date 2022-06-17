@@ -1,10 +1,17 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/Crocodile-conservation-in-the-Cardamon-Mountains-3-4071863873574557365.png",
   "@type": "NGO",
-  "name": "road safety trust",
-  "logo": "https://media.good-loop.com/uploads/standard/YfjEQKLV__400x400-6760278421098730692.png",
-  "id": "road-safety-trust",
+  "displayName": "Cool Earth",
+  "name": "Cool Earth",
+  "logo": "https://media.good-loop.com/uploads/standard/Coolearth__logo-18250161521111825764.svg#ccrop:70",
+  "description": "Cool Earth is a UK-based international NGO that protects endangered rainforest in order to combat global warming, protect ecosystems and to provide employment for local people.",
+  "id": "cool-earth",
   "suggest": [
-    "road safety trust"
+    "Cool Earth",
+    "Cool Earth"
   ],
-  "status": "DRAFT"
+  "englandWalesCharityRegNum": "1117978",
+  "summaryDescription": "Backs local people to protect rainforest and fight the climate crisis.",
+  "url": "https://www.coolearth.org/",
+  "status": "PUBLISHED"
 }
