@@ -215,7 +215,15 @@
       "outputs": [
         {
           "number": 203.0,
-          "name": "Charities"
+          "name": "Charities",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "24453",
+            "currency": "",
+            "value100p": 2.4453E8,
+            "value": 24453.0
+          }
         }
       ],
       "year": 2020.0,
