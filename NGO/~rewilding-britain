@@ -216,6 +216,7 @@
     "@type": "Output",
     "name": "No Outputs! for project Project[overall 2016.0]"
   },
+  "headerImage": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-452140256449817134.jpg",
   "meta": {
     "noPublicDonations": {
       "notes": "Yes"
@@ -228,5 +229,5 @@
   "englandWalesCharityRegNum": "1159373",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
