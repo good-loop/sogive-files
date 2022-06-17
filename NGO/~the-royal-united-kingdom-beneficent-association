@@ -168,7 +168,12 @@
       "name": "National Services"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 209402.0,
+          "name": "Friendship Contacts"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
