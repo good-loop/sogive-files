@@ -71,7 +71,43 @@
           "value": 0.0
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "93,590,000",
+        "currency": "",
+        "value100p": 9.359E11,
+        "value": 9.359E7
+      }
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Helpline"
     }
   ],
   "@type": "NGO",
