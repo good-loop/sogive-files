@@ -45,7 +45,15 @@
         {
           "number": 3763000.0,
           "confidence": "medium",
-          "name": "National Services"
+          "name": "National Services",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "240252",
+            "currency": "",
+            "value100p": 2.40252E9,
+            "value": 240252.0
+          }
         },
         {
           "number": "",
