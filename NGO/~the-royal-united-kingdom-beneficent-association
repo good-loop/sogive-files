@@ -7,7 +7,7 @@
         {
           "number": 3277000.0,
           "confidence": "medium",
-          "name": "Grant-making",
+          "name": "99238819",
           "description": "Grant-making to small and medium sized charities",
           "costPerBeneficiary": {
             "@type": "Money",
@@ -140,7 +140,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-royal-united-kingdom-beneficent-association",
-      "name": "Grant-making",
+      "name": "99238819",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -157,7 +157,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Grant-making",
+    "name": "99238819",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
