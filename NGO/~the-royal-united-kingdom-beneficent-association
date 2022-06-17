@@ -19,18 +19,10 @@
           }
         },
         {
-          "number": 1100000.0,
+          "number": "",
           "confidence": "medium",
-          "name": "Direct grants to older people",
-          "description": "Direct Grants to elderly people",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "1100",
-            "currency": "",
-            "value100p": 1.1E7,
-            "value": 1100.0
-          }
+          "name": "",
+          "description": ""
         },
         {
           "number": 3296000.0,
