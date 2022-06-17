@@ -124,7 +124,15 @@
         },
         {
           "number": 211782.0,
-          "name": "Information Sources"
+          "name": "Information Sources",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "8.97",
+            "currency": "",
+            "value100p": 89700.0,
+            "value": 8.97
+          }
         }
       ],
       "year": 2020.0,
