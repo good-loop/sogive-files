@@ -215,6 +215,7 @@
       "outputs": [
         {
           "number": 203.0,
+          "confidence": "medium",
           "name": "Charities",
           "costPerBeneficiary": {
             "@type": "Money",
