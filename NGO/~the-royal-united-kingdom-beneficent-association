@@ -171,7 +171,15 @@
       "outputs": [
         {
           "number": 1560.0,
-          "name": "Friendship Contacts"
+          "name": "Friendship Contacts",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "2494",
+            "currency": "",
+            "value100p": 2.494E7,
+            "value": 2494.0
+          }
         }
       ],
       "year": 2020.0,
