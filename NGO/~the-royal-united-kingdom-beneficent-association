@@ -112,11 +112,27 @@
       "outputs": [
         {
           "number": 28470.0,
-          "name": "Helpline Calls"
+          "name": "Helpline Calls",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "285.93",
+            "currency": "",
+            "value100p": 2859300.0,
+            "value": 285.93
+          }
         },
         {
           "number": 211782.0,
-          "name": "Information Sources"
+          "name": "Information Sources",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "38.44",
+            "currency": "",
+            "value100p": 384400.0,
+            "value": 38.44
+          }
         }
       ],
       "year": 2020.0,
