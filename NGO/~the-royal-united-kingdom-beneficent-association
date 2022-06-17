@@ -166,6 +166,37 @@
         }
       ],
       "name": "National Services"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3",
+          "currency": "GBP",
+          "value100p": 30000.0,
+          "value": 3.0
+        }
+      ],
+      "name": "Community Service"
     }
   ],
   "@type": "NGO",
