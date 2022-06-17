@@ -1,17 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Crocodile-conservation-in-the-Cardamon-Mountains-3-4071863873574557365.png",
+  "images": "https://media.good-loop.com/uploads/standard/Caroline-rippled-2-7889809423229694901.png",
   "@type": "NGO",
-  "displayName": "Cool Earth",
-  "name": "Cool Earth",
-  "logo": "https://media.good-loop.com/uploads/standard/Coolearth__logo-18250161521111825764.svg#ccrop:70",
-  "description": "Cool Earth is a UK-based international NGO that protects endangered rainforest in order to combat global warming, protect ecosystems and to provide employment for local people.",
-  "id": "cool-earth",
+  "displayName": "Ripple Effect",
+  "logo": "https://media.good-loop.com/uploads/standard/ripple-effect-70-18351032063644869341.png#ccrop:90",
+  "id": "ripple-effect",
   "suggest": [
-    "Cool Earth",
-    "Cool Earth"
+    "Ripple Effect"
   ],
-  "englandWalesCharityRegNum": "1117978",
-  "summaryDescription": "Backs local people to protect rainforest and fight the climate crisis.",
-  "url": "https://www.coolearth.org/",
+  "url": "https://rippleeffect.org/",
   "status": "PUBLISHED"
 }
