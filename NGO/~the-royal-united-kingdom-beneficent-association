@@ -170,7 +170,7 @@
     {
       "outputs": [
         {
-          "number": 1560.0,
+          "number": 209402.0,
           "name": "Friendship Contacts",
           "costPerBeneficiary": {
             "@type": "Money",
