@@ -131,10 +131,13 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "3763000",
+          "currency": "GBP",
+          "value100p": 3.763E10,
+          "value": 3763000.0
         }
       ],
-      "name": "Helpline"
+      "name": "National Services"
     }
   ],
   "@type": "NGO",
