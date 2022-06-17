@@ -109,7 +109,12 @@
       }
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 28470.0,
+          "name": "Helpline Calls"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
