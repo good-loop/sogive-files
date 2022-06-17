@@ -203,6 +203,7 @@
   "@type": "NGO",
   "displayName": "Rewilding Britain",
   "noPublicDonations": false,
+  "description": "Rewilding Britain aims to tackle the climate emergency and extinction crisis, reconnect people with the natural world and to help communities thrive.",
   "suggest": [
     "REWILDING BRITAIN",
     "Rewilding Britain",
@@ -227,5 +228,5 @@
   "englandWalesCharityRegNum": "1159373",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
