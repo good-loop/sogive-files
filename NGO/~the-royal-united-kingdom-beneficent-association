@@ -5,9 +5,9 @@
     {
       "outputs": [
         {
-          "number": 2300000.0,
+          "number": 3277000.0,
           "confidence": "medium",
-          "name": "Grants",
+          "name": "Grant-making",
           "description": "Grant-making to small and medium sized charities",
           "costPerBeneficiary": {
             "@type": "Money",
@@ -129,7 +129,7 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "the-royal-united-kingdom-beneficent-association",
-      "name": "Grants",
+      "name": "Grant-making",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
@@ -146,7 +146,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "Grants",
+    "name": "Grant-making",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
