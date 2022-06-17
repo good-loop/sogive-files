@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "road saftey trust",
   "logo": "https://media.good-loop.com/uploads/standard/road-safety-trust-logo-white-strapline-16028018377236467860.png#ccrop:130",
   "id": "road-safety-trust",
-  "suggest": [],
-  "status": "DRAFT"
+  "suggest": [
+    "road saftey trust"
+  ],
+  "status": "PUBLISHED"
 }
