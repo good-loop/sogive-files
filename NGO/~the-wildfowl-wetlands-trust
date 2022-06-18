@@ -396,6 +396,42 @@
         }
       ],
       "name": "Programme 7: Global wetland support"
+    },
+    {
+      "outputs": [
+        {
+          "name": "design Yancheng\u0027s Wetland Education Center complex"
+        },
+        {
+          "number": 100000.0,
+          "name": "improve welfare of waterbirds"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 8: Wetland Conservation in the East Asian-Australasian flyway"
     }
   ],
   "@type": "NGO",
