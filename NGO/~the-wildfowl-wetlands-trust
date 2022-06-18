@@ -495,7 +495,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "341000",
+          "currency": "GBP",
+          "value100p": 3.41E9,
+          "value": 341000.0
         }
       ],
       "name": "Programme 9: Waterbird conservation in the Northwest European flyway"
