@@ -279,7 +279,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "527000",
+          "currency": "GBP",
+          "value100p": 5.27E9,
+          "value": 527000.0
         }
       ],
       "name": "Programme 3: UK wetland species restoration"
