@@ -226,7 +226,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "1496000",
+          "currency": "GBP",
+          "value100p": 1.496E10,
+          "value": 1496000.0
         }
       ],
       "name": "Programme 2: Wetland landscapes at and around our sites - WWT Waterscapes"
