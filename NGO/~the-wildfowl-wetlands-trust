@@ -404,7 +404,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "157000",
+          "currency": "GBP",
+          "value100p": 1.57E9,
+          "value": 157000.0
         }
       ],
       "name": "Programme 7: Global wetland support"
