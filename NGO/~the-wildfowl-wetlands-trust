@@ -360,6 +360,42 @@
         }
       ],
       "name": "Programme 6: International community-based wetland conservation"
+    },
+    {
+      "outputs": [
+        {
+          "name": "Conservation"
+        },
+        {
+          "confidence": "medium",
+          "name": "Ramsar Guidance"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 7: Global wetland support"
     }
   ],
   "@type": "NGO",
