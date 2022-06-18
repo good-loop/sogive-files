@@ -404,6 +404,7 @@
         },
         {
           "number": 100000.0,
+          "confidence": "low",
           "name": "improve welfare of waterbirds"
         }
       ],
