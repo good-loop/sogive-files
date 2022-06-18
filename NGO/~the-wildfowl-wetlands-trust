@@ -438,6 +438,43 @@
         }
       ],
       "name": "Programme 8: Wetland Conservation in the East Asian-Australasian flyway"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "scientific paper"
+        },
+        {
+          "number": 1.0,
+          "name": "evaluation of wind turbines on wildlife"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Programme 9: Waterbird conservation in the Northwest European flyway"
     }
   ],
   "@type": "NGO",
