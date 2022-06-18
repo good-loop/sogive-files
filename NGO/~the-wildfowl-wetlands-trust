@@ -449,7 +449,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "332000",
+          "currency": "GBP",
+          "value100p": 3.32E9,
+          "value": 332000.0
         }
       ],
       "name": "Programme 8: Wetland Conservation in the East Asian-Australasian flyway"
