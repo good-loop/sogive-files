@@ -160,7 +160,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "580000",
+          "currency": "GBP",
+          "value100p": 5.8E9,
+          "value": 580000.0
         }
       ],
       "name": "Programme 1: Wetlands in UK rural catchments"
