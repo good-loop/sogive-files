@@ -504,7 +504,12 @@
       "name": "Programme 9: Waterbird conservation in the Northwest European flyway"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 10000.0,
+          "name": "improve livelihoods of people"
+        }
+      ],
       "year": 2020.0,
       "@type": "Project",
       "inputs": [
