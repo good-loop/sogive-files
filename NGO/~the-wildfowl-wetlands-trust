@@ -507,7 +507,9 @@
       "outputs": [
         {
           "number": 10000.0,
-          "name": "improve livelihoods of people"
+          "confidence": "medium",
+          "name": "improve livelihoods of people",
+          "description": "pg 15 of AR"
         }
       ],
       "year": 2020.0,
