@@ -448,6 +448,10 @@
         {
           "number": 1.0,
           "name": "evaluation of wind turbines on wildlife"
+        },
+        {
+          "number": 300000.0,
+          "name": "prevent deaths of waterbirds"
         }
       ],
       "year": 2020.0,
