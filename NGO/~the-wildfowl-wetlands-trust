@@ -365,7 +365,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "700000",
+          "currency": "GBP",
+          "value100p": 7.0E9,
+          "value": 700000.0
         }
       ],
       "name": "Programme 6: International community-based wetland conservation"
