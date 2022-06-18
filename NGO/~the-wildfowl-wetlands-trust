@@ -490,6 +490,37 @@
         }
       ],
       "name": "Programme 9: Waterbird conservation in the Northwest European flyway"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "444000",
+          "currency": "GBP",
+          "value100p": 4.44E9,
+          "value": 444000.0
+        }
+      ],
+      "name": "Programme 5: Urban and community wetlands"
     }
   ],
   "@type": "NGO",
