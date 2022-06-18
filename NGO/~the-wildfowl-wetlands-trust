@@ -451,6 +451,7 @@
         },
         {
           "number": 300000.0,
+          "confidence": "very-low",
           "name": "prevent deaths of waterbirds",
           "description": "\"pivotal role\" in ban on lead shot that kills approx. 1 million waterbirds yearly"
         }
