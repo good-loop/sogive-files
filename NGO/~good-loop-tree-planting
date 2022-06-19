@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "noPublicDonations": true,
   "name": "Good-Loop Tree Planting",
   "@id": "good-loop-tree-planting",
   "suggest": [
     "Good-Loop Tree Planting",
     "good-loop-tree-planting"
-  ]
+  ],
+  "status": "DRAFT"
 }
