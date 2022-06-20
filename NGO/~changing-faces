@@ -1,0 +1,14 @@
+{
+  "scotlandCharityRegNum": "SC039725",
+  "@type": "NGO",
+  "name": "Changing Faces",
+  "logo": "https://media.good-loop.com/uploads/standard/og-img-6743188984428648610.png#ccrop:130",
+  "@id": "changing-faces",
+  "suggest": [
+    "Changing Faces",
+    "changing-faces"
+  ],
+  "url": "www.changingfaces.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
