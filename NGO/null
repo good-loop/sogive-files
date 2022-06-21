@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "SWL",
-  "logo": "https://media.good-loop.com/uploads/standard/WAOO__logo-17945094124188966880.png#ccrop:89",
-  "id": "surf-world-league",
+  "name": "We dont waste",
+  "logo": "https://media.good-loop.com/uploads/standard/wdw-logo-social-11288674813777320425.png#ccrop:120",
+  "id": "we-dont-waste",
   "suggest": [
-    "SWL"
+    "We dont waste"
   ],
   "status": "DRAFT"
 }
