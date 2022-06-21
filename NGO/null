@@ -1,13 +1,10 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Caroline-rippled-2-7889809423229694901.png",
   "@type": "NGO",
-  "displayName": "Ripple Effect",
-  "logo": "https://media.good-loop.com/uploads/standard/ripple-effect-70-18351032063644869341.png#ccrop:90",
-  "description": "We are a partnership of resourceful farming families working alongside experienced and committed staff based in Africa - with support from our teams in the UK and US.",
-  "id": "ripple-effect",
+  "name": "SWL",
+  "logo": "https://media.good-loop.com/uploads/standard/WAOO__logo-17945094124188966880.png#ccrop:89",
+  "id": "surf-world-league",
   "suggest": [
-    "Ripple Effect"
+    "SWL"
   ],
-  "url": "https://rippleeffect.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
