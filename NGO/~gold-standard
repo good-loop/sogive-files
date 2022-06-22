@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "name": "Gold Standard",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/The_Gold_Standard_logo.svg",
   "@id": "gold-standard",
   "suggest": [
     "Gold Standard",
