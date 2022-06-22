@@ -1,17 +1,18 @@
 {
+  "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
   "@type": "NGO",
-  "name": "Gold Standard",
-  "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/The_Gold_Standard_logo.svg",
-  "@id": "gold-standard",
   "suggest": [
     "Gold Standard",
     "gold-standard"
   ],
+  "url": "https://www.goldstandard.org/",
+  "UNSDG": "13",
+  "name": "Gold Standard",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/The_Gold_Standard_logo.svg",
+  "@id": "gold-standard",
   "wikipedia": "https://en.wikipedia.org/wiki/Gold_Standard_(carbon_offset_standard)",
   "category": "environment",
   "subcategory": "Climate Action",
   "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
-  "url": "https://www.goldstandard.org/",
-  "status": "DRAFT",
-  "UNSDG": "13"
+  "status": "DRAFT"
 }
