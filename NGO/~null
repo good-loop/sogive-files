@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Gordon Parks Foundation",
+  "name": "Gordon Parks Foundation",
   "id": "gordon-parks-foundation",
-  "suggest": []
+  "suggest": [
+    "Gordon Parks Foundation",
+    "Gordon Parks Foundation"
+  ],
+  "status": "DRAFT"
 }
