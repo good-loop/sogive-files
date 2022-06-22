@@ -1,5 +1,6 @@
 {
   "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
+  "color": "#0fb2b7",
   "@type": "NGO",
   "suggest": [
     "Gold Standard",
@@ -7,8 +8,9 @@
   ],
   "url": "https://www.goldstandard.org/",
   "UNSDG": "13",
+  "whyTags": "environment",
   "name": "Gold Standard",
-  "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/The_Gold_Standard_logo.svg",
+  "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
   "@id": "gold-standard",
   "wikipedia": "https://en.wikipedia.org/wiki/Gold_Standard_(carbon_offset_standard)",
   "category": "environment",
