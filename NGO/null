@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Learning Through Play",
-  "name": "Learning Through Play",
-  "logo": "https://media.good-loop.com/uploads/standard/t-ZhqHxh__400x400-16428413892960221471.png",
-  "id": "learning-through-play",
+  "name": "Food Bank NYC",
+  "logo": "https://media.good-loop.com/uploads/standard/foodbank20NYC-431517359644571699.png#ccrop:110",
+  "id": "food-bank-nyc",
   "suggest": [
-    "Learning Through Play",
-    "Learning Through Play"
+    "Food Bank NYC"
   ],
-  "url": "https://learningthroughplay.com/",
   "status": "DRAFT"
 }
