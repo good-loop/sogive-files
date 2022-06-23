@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Food Bank NYC",
-  "logo": "https://media.good-loop.com/uploads/standard/foodbank20NYC-431517359644571699.png#ccrop:110",
-  "id": "food-bank-nyc",
+  "name": "Women\u0027s Sports Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/womenssports-718936222516351259.jpg#ccrop:106",
+  "id": "women-s-sports-foundation",
   "suggest": [
-    "Food Bank NYC"
+    "Women\u0027s Sports Foundation"
   ],
   "status": "DRAFT"
 }
