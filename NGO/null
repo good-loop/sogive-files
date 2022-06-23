@@ -1,14 +1,13 @@
 {
-  "notes": "",
   "@type": "NGO",
-  "displayName": "The Relief Gang",
-  "name": "The Relief Gang",
-  "logo": "https://media.good-loop.com/uploads/standard/reliefgang-13518501858437388504.png",
-  "id": "the-relief-gang",
+  "displayName": "Code Crew",
+  "name": "Code Crew",
+  "logo": "https://media.good-loop.com/uploads/standard/codecrew-18435244869398287687.png",
+  "id": "code-crew",
   "suggest": [
-    "The Relief Gang",
-    "The Relief Gang"
+    "Code Crew",
+    "Code Crew"
   ],
-  "url": "https://www.angelbynature.com/reliefgang",
+  "url": "https://www.code-crew.org/",
   "status": "DRAFT"
 }
