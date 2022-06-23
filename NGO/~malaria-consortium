@@ -742,6 +742,7 @@
   "images": "http://www.malariaconsortium.org/gallery-image/width-1280/06290147-68-5g8a6417.jpg",
   "noPublicDonations": false,
   "impact": "more-info-needed-promising",
+  "confidence": "high",
   "suggest": [
     "Malaria Consortium",
     "malaria-consortium"
