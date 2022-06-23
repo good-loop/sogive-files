@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Women\u0027s Sports Foundation",
-  "id": "women-s-sports-foundation",
-  "suggest": [
-    "Women\u0027s Sports Foundation"
-  ],
-  "status": "DRAFT"
+  "id": "australian-road-safety-foundation",
+  "suggest": []
 }
