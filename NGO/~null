@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Code Crew",
-  "name": "Code Crew",
-  "logo": "https://media.good-loop.com/uploads/standard/codecrew-18435244869398287687.png",
-  "id": "code-crew",
-  "suggest": [
-    "Code Crew",
-    "Code Crew"
-  ],
-  "url": "https://www.code-crew.org/",
-  "status": "DRAFT"
+  "id": "sola-i-can-foundation",
+  "suggest": []
 }
