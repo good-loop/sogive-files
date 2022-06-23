@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Gastrointestinal Stromal Tumour Initiative",
   "unlisted": true,
-  "displayName": "Prostate Cancer Research Initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/Prostate_cancer_research_initiative-15332506428686878002.png",
-  "id": "prostate-cancer-research-initiative",
+  "logo": "https://media.good-loop.com/uploads/standard/Prostate_cancer_research_initiative_2-7832393372148554155.png#ccrop:115",
+  "id": "gastrointestinal-stromal-tumour-initiative",
   "suggest": [
-    "Prostate Cancer Research Initiative"
+    "Gastrointestinal Stromal Tumour Initiative"
   ],
   "status": "DRAFT"
 }
