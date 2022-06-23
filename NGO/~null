@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Learning Through Play",
+  "name": "Learning Through Play",
   "id": "learning-through-play",
-  "suggest": []
+  "suggest": [
+    "Learning Through Play",
+    "Learning Through Play"
+  ],
+  "status": "DRAFT"
 }
