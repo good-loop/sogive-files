@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Australian Road Safety Foundation",
-  "name": "Australian Road Safety Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/Australian-Road-Safety-Foundation-1-14221610557440545364.png#ccrop:95",
-  "id": "australian-road-safety-foundation",
+  "unlisted": true,
+  "displayName": "Prostate Cancer Research Initiative",
+  "logo": "https://media.good-loop.com/uploads/standard/Prostate_cancer_research_initiative-15332506428686878002.png",
+  "id": "prostate-cancer-research-initiative",
   "suggest": [
-    "Australian Road Safety Foundation",
-    "Australian Road Safety Foundation"
+    "Prostate Cancer Research Initiative"
   ],
-  "url": "https://arsf.com.au/",
   "status": "DRAFT"
 }
