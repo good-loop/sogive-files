@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "SoLa I Can Foundation",
+  "name": "SoLa I Can Foundation",
   "id": "sola-i-can-foundation",
-  "suggest": []
+  "suggest": [
+    "SoLa I Can Foundation",
+    "SoLa I Can Foundation"
+  ],
+  "status": "DRAFT"
 }
