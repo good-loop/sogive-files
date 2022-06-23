@@ -1,5 +1,6 @@
 {
   "@type": "NGO",
   "id": "food-bank-nyc",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
