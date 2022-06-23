@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "SoLa I Can Foundation",
-  "name": "SoLa I Can Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/SOLA-I-CAN-10897794090523641144.png#ccrop:60",
-  "id": "sola-i-can-foundation",
+  "displayName": "Australian Road Safety Foundation",
+  "name": "Australian Road Safety Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Australian-Road-Safety-Foundation-1-14221610557440545364.png#ccrop:95",
+  "id": "australian-road-safety-foundation",
   "suggest": [
-    "SoLa I Can Foundation",
-    "SoLa I Can Foundation"
+    "Australian Road Safety Foundation",
+    "Australian Road Safety Foundation"
   ],
-  "url": "https://www.solaican.org/",
-  "status": "PUBLISHED"
+  "url": "https://arsf.com.au/",
+  "status": "DRAFT"
 }
