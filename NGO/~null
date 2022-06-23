@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Food Bank NYC",
-  "logo": "https://media.good-loop.com/uploads/standard/foodbank20NYC-431517359644571699.png#ccrop:110",
-  "id": "food-bank-nyc",
-  "suggest": [
-    "Food Bank NYC"
-  ],
-  "status": "DRAFT"
+  "id": "women-s-sports-foundation",
+  "suggest": []
 }
