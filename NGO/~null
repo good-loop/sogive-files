@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Prostate Cancer Research Initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/Prostate_cancer_research_initiative-15332506428686878002.png",
-  "id": "prostate-cancer-research-initiative",
-  "suggest": [
-    "Prostate Cancer Research Initiative"
-  ],
-  "status": "DRAFT"
+  "id": "gastrointestinal-stromal-tumour-initiative",
+  "suggest": []
 }
