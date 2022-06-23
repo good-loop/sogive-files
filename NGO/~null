@@ -1,5 +1,5 @@
 {
-  "notes": "https://www.angelbynature.com/reliefgang",
+  "notes": "",
   "@type": "NGO",
   "displayName": "The Relief Gang",
   "name": "The Relief Gang",
@@ -8,5 +8,6 @@
     "The Relief Gang",
     "The Relief Gang"
   ],
+  "url": "https://www.angelbynature.com/reliefgang",
   "status": "DRAFT"
 }
