@@ -1,10 +1,14 @@
 {
+  "notes": "",
   "@type": "NGO",
-  "name": "Women\u0027s Sports Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/womenssports-718936222516351259.jpg#ccrop:106",
-  "id": "women-s-sports-foundation",
+  "displayName": "The Relief Gang",
+  "name": "The Relief Gang",
+  "logo": "https://media.good-loop.com/uploads/standard/reliefgang-13518501858437388504.png",
+  "id": "the-relief-gang",
   "suggest": [
-    "Women\u0027s Sports Foundation"
+    "The Relief Gang",
+    "The Relief Gang"
   ],
+  "url": "https://www.angelbynature.com/reliefgang",
   "status": "DRAFT"
 }
