@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Gordon Parks Foundation",
-  "name": "Gordon Parks Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/1578432152232-205696783827781434.png#ccrop:80",
-  "id": "gordon-parks-foundation",
+  "displayName": "Learning Through Play",
+  "name": "Learning Through Play",
+  "logo": "https://media.good-loop.com/uploads/standard/t-ZhqHxh__400x400-16428413892960221471.png",
+  "id": "learning-through-play",
   "suggest": [
-    "Gordon Parks Foundation",
-    "Gordon Parks Foundation"
+    "Learning Through Play",
+    "Learning Through Play"
   ],
-  "url": "https://www.gordonparksfoundation.org/",
+  "url": "https://learningthroughplay.com/",
   "status": "DRAFT"
 }
