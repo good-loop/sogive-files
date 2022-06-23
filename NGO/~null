@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "unlisted": true,
+  "displayName": "Prostate Cancer Research Initiative",
   "id": "prostate-cancer-research-initiative",
-  "suggest": []
+  "suggest": [
+    "Prostate Cancer Research Initiative"
+  ],
+  "status": "DRAFT"
 }
