@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Gastrointestinal Stromal Tumour Initiative",
+  "unlisted": true,
   "id": "gastrointestinal-stromal-tumour-initiative",
   "suggest": [
     "Gastrointestinal Stromal Tumour Initiative"
