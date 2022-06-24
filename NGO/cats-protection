@@ -592,7 +592,7 @@
   "whyTags": "Animals",
   "ready": true,
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/Cats_Protection_logo_RGB_Jan_22-15072491071419750085.png",
+  "logo": "https://media.good-loop.com/uploads/standard/cats-protection-logo-noedit-17650433120256006355.svg",
   "@id": "cats-protection",
   "wikipedia": "https://en.wikipedia.org/wiki/Cats_Protection",
   "summaryDescription": "Cats Protection, formerly The Cat Protection League, aims to improve cat welfare both through direct work and by educating the public.",
@@ -644,5 +644,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
