@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Tim hortons foundation camps",
-  "logo": "https://media.good-loop.com/uploads/standard/Tim__Hortons__Tim__Hortons__Foundation__launches__innovative__new__Tims-15420141489240844972.jpg#ccrop:122",
-  "id": "timhortons-foundation-camps",
+  "name": "american diabetes association",
+  "logo": "https://media.good-loop.com/uploads/standard/american_diabetes_association-10507573539077269061.png",
+  "id": "american-diabetes-association",
   "suggest": [
-    "Tim hortons foundation camps"
+    "american diabetes association"
   ],
   "status": "DRAFT"
 }
