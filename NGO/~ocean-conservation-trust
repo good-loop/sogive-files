@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "The Ocean Conservation Trust",
+  "displayName": "Ocean Conservation Trust",
   "suggest": [
     "Ocean Conservation Trust",
-    "The Ocean Conservation Trust",
+    "Ocean Conservation Trust",
     "ocean-conservation-trust"
   ],
   "url": "https://oceanconservationtrust.org/",
@@ -15,5 +15,5 @@
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
   "englandWalesCharityRegNum": "1032491",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
