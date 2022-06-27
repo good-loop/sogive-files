@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "The Hillman Grad Mentorship Lab",
   "id": "the-hillman-grad-mentorship-lab",
-  "suggest": []
+  "suggest": [
+    "The Hillman Grad Mentorship Lab"
+  ],
+  "status": "DRAFT"
 }
