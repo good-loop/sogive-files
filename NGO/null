@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Gastrointestinal Stromal Tumour Initiative",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Prostate_cancer_research_initiative_2-7832393372148554155.png#ccrop:115",
-  "id": "gastrointestinal-stromal-tumour-initiative",
+  "name": "Tim hortons foundation camps",
+  "logo": "https://media.good-loop.com/uploads/standard/Tim__Hortons__Tim__Hortons__Foundation__launches__innovative__new__Tims-15420141489240844972.jpg#ccrop:122",
+  "id": "timhortons-foundation-camps",
   "suggest": [
-    "Gastrointestinal Stromal Tumour Initiative"
+    "Tim hortons foundation camps"
   ],
   "status": "DRAFT"
 }
