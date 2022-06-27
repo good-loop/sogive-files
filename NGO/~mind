@@ -3,7 +3,7 @@
   "@type": "NGO",
   "displayName": "mind",
   "name": "mind",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg#ccrop:90",
   "@id": "mind",
   "suggest": [
     "mind",
@@ -12,5 +12,5 @@
   ],
   "id": "mind",
   "url": "https://www.mind.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
