@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Firehouse subs",
   "logo": "https://media.good-loop.com/uploads/standard/logo-foundation-color-10205588167406161002.jpg#ccrop:102",
   "id": "firehousesubspublicsafety-foundation",
-  "suggest": [],
+  "suggest": [
+    "Firehouse subs"
+  ],
   "status": "DRAFT"
 }
