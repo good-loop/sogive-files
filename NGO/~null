@@ -1,9 +1,5 @@
 {
   "@type": "NGO",
-  "name": "american diabetes association",
-  "id": "american-diabetes-association",
-  "suggest": [
-    "american diabetes association"
-  ],
-  "status": "DRAFT"
+  "id": "firehousesubspublicsafety-foundation",
+  "suggest": []
 }
