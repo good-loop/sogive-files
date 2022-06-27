@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Firehouse subs public safety foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-foundation-color-10205588167406161002.jpg#ccrop:95",
-  "id": "firehousesubspublicsafety-foundation",
-  "suggest": [
-    "Firehouse subs public safety foundation"
-  ],
-  "status": "DRAFT"
+  "id": "the-hillman-grad-mentorship-lab",
+  "suggest": []
 }
