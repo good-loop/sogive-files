@@ -1,0 +1,19 @@
+{
+  "@type": "NGO",
+  "displayName": "Ocean Conservation Trust",
+  "suggest": [
+    "Ocean Conservation Trust",
+    "Ocean Conservation Trust",
+    "ocean-conservation-trust"
+  ],
+  "url": "https://oceanconservationtrust.org/",
+  "UNSDG": "14",
+  "name": "Ocean Conservation Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/ocean-conservation-trust-logo-dark-1438027598603233411.svg#ccrop:90",
+  "@id": "ocean-conservation-trust",
+  "id": "ocean-conservation-trust",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "1032491",
+  "status": "DRAFT"
+}
