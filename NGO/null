@@ -1,11 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Goals For Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/Goals-for-Girls-Logo-12314258506173161170.jpg#ccrop:80",
-  "id": "goals-for-girls",
-  "suggest": [
-    "Goals For Girls"
-  ],
-  "url": "https://goalsforgirls.org/",
+  "logo": "https://media.good-loop.com/uploads/standard/6165b5bedee45b93bb071d97__e2425cf3-c6c2-4f2f-a373-e2ec8f1d2155-5744531389884292350.png#ccrop:103",
+  "id": "burger-king-foundation",
+  "suggest": [],
   "status": "DRAFT"
 }
