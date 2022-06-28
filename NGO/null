@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Football Beyond Borders",
-  "logo": "https://media.good-loop.com/uploads/standard/__1-1888647935750372774.png#ccrop:90",
-  "id": "football-beyond-borders",
+  "displayName": "Goals For Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/Goals-for-Girls-Logo-12314258506173161170.jpg#ccrop:80",
+  "id": "goals-for-girls",
   "suggest": [
-    "Football Beyond Borders"
+    "Goals For Girls"
   ],
-  "url": "https://www.footballbeyondborders.org/",
+  "url": "https://goalsforgirls.org/",
   "status": "DRAFT"
 }
