@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Women In Football",
+  "logo": "https://media.good-loop.com/uploads/standard/WIF__PREFERRED__LOGO-3168628917842801428.png",
   "id": "women-in-footbal",
   "suggest": [
     "Women In Football"
