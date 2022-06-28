@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Women In Football",
-  "logo": "https://media.good-loop.com/uploads/standard/WIF__PREFERRED__LOGO-3168628917842801428.png",
-  "id": "women-in-footbal",
+  "displayName": "Football Beyond Borders",
+  "logo": "https://media.good-loop.com/uploads/standard/__1-1888647935750372774.png#ccrop:90",
+  "id": "football-beyond-borders",
   "suggest": [
-    "Women In Football"
+    "Football Beyond Borders"
   ],
-  "url": "https://www.womeninfootball.co.uk/",
+  "url": "https://www.footballbeyondborders.org/",
   "status": "DRAFT"
 }
