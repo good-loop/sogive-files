@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Women In Football",
   "id": "women-in-footbal",
-  "suggest": []
+  "suggest": [
+    "Women In Football"
+  ],
+  "status": "DRAFT"
 }
