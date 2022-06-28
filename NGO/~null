@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "B",
+  "displayName": "Book Aid International",
   "id": "book-aid",
   "suggest": [
-    "B"
+    "Book Aid International"
   ],
   "status": "DRAFT"
 }
