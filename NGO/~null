@@ -1,12 +1,13 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/Good__Loop__x__GA__image-8712433093212477949.png",
   "@type": "NGO",
-  "displayName": "The Hillman Grad Mentorship Lab",
-  "name": "The Hillman Grad Mentorship Lab",
-  "logo": "https://media.good-loop.com/uploads/standard/HGP__FINAL__SYMBOL__resize-4793704061101189215.jpg#ccrop:102",
-  "id": "the-hillman-grad-mentorship-lab",
+  "displayName": "Greening Australia",
+  "logo": "https://media.good-loop.com/uploads/standard/Greening_Australia_logo__FULL_COLOUR__Stacked__Transparent_background-6813259695758057785.png#ccrop:_ccrop:95",
+  "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
+  "id": "greening-australia",
   "suggest": [
-    "The Hillman Grad Mentorship Lab",
-    "The Hillman Grad Mentorship Lab"
+    "Greening Australia"
   ],
-  "status": "DRAFT"
+  "url": "https://www.greeningaustralia.org.au",
+  "status": "PUBLISHED"
 }
