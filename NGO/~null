@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Football Beyond ",
   "id": "football-beyond-borders",
-  "suggest": []
+  "suggest": [
+    "Football Beyond "
+  ],
+  "status": "DRAFT"
 }
