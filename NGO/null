@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Community Food Bank Of New Jersey",
-  "logo": "https://media.good-loop.com/uploads/standard/lyitoUBB__400x400-1696387595289795821.jpg",
-  "id": "community-food-bank-of-new-jersey",
+  "displayName": "Drug Free New Jersey",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/PDFNJ-Logo_Hi_Res_no_state-12665845091086451275.jpg",
+  "id": "partnership-for-a-drug-free-new-jersey",
   "suggest": [
-    "Community Food Bank Of New Jersey"
+    "Drug Free New Jersey"
   ],
-  "url": "https://cfbnj.org/",
+  "url": "https://www.drugfreenj.org/",
   "status": "DRAFT"
 }
