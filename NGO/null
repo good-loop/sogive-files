@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Book Aid International",
-  "logo": "https://media.good-loop.com/uploads/standard/book-aid-international-logo-10C22ABEE2-seeklogo.com-17155439489682872924.png",
-  "id": "book-aid",
+  "displayName": "Community Food Bank Of New Jersey",
+  "logo": "https://media.good-loop.com/uploads/standard/lyitoUBB__400x400-1696387595289795821.jpg",
+  "id": "community-food-bank-of-new-jersey",
   "suggest": [
-    "Book Aid International"
+    "Community Food Bank Of New Jersey"
   ],
-  "url": "https://bookaid.org/",
+  "url": "https://cfbnj.org/",
   "status": "DRAFT"
 }
