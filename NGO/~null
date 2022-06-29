@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Drug Free New Jersey",
   "id": "partnership-for-a-drug-free-new-jersey",
-  "suggest": []
+  "suggest": [
+    "Drug Free New Jersey"
+  ],
+  "status": "DRAFT"
 }
