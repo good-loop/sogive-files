@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Community Food Bank Of New Jersey",
-  "logo": "https://media.good-loop.com/uploads/standard/lyitoUBB__400x400-1696387595289795821.jpg#ccrop:99",
-  "id": "community-food-bank-of-new-jersey",
-  "suggest": [
-    "Community Food Bank Of New Jersey"
-  ],
-  "url": "https://cfbnj.org/",
-  "status": "DRAFT"
+  "id": "partnership-for-a-drug-free-new-jersey",
+  "suggest": []
 }
