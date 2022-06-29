@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Community Food Bank Of New Jersey",
   "id": "community-food-bank-of-new-jersey",
-  "suggest": []
+  "suggest": [
+    "Community Food Bank Of New Jersey"
+  ],
+  "status": "DRAFT"
 }
