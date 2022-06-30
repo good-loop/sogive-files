@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Drug Free New Jersey",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/PDFNJ-Logo_Hi_Res_no_state-12665845091086451275.jpg",
-  "id": "partnership-for-a-drug-free-new-jersey",
-  "suggest": [
-    "Drug Free New Jersey"
-  ],
-  "url": "https://www.drugfreenj.org/",
-  "status": "DRAFT"
+  "id": "one-warm-coat",
+  "suggest": []
 }
