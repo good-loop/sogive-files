@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/static1.squarespace-12984944135080220726.png",
   "id": "girl-rising",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
