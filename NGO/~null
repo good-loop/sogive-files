@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "ALPFA",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_3-9191463627979494223.png#ccrop:74",
-  "id": "alpfa",
-  "suggest": [
-    "ALPFA"
-  ],
-  "status": "DRAFT"
+  "id": "restaurant-workers-community-foundation",
+  "suggest": []
 }
