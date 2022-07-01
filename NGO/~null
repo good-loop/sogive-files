@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "No us without you LA",
   "id": "no-us-without-you-la",
-  "suggest": []
+  "suggest": [
+    "No us without you LA"
+  ],
+  "status": "DRAFT"
 }
