@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "RWCF",
   "id": "restaurant-workers-community-foundation",
-  "suggest": []
+  "suggest": [
+    "RWCF"
+  ],
+  "status": "DRAFT"
 }
