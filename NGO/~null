@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "No us without you LA",
-  "logo": "https://media.good-loop.com/uploads/standard/download_11-4273926807908253572.png#ccrop:91",
-  "id": "no-us-without-you-la",
-  "suggest": [
-    "No us without you LA"
-  ],
-  "status": "PUBLISHED"
+  "id": "girl-rising",
+  "suggest": []
 }
