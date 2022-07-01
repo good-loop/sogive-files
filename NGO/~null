@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "One Warm Coat",
-  "logo": "https://media.good-loop.com/uploads/standard/download_9-13376138223704422017.png",
-  "id": "one-warm-coat",
-  "suggest": [
-    "One Warm Coat"
-  ],
-  "status": "DRAFT"
+  "id": "alpfa",
+  "suggest": []
 }
