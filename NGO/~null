@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Solar One",
+  "logo": "https://media.good-loop.com/uploads/standard/S1__web.white__-185743735874503925.png",
   "id": "solar-one",
-  "suggest": []
+  "suggest": [
+    "Solar One"
+  ],
+  "status": "DRAFT"
 }
