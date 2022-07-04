@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "The North Face Explorer Fund",
+  "displayName": "The North Face Explore Fund",
   "name": "The North Face Explore Fund",
   "id": "northface",
   "suggest": [
     "The North Face Explore Fund",
-    "The North Face Explorer Fund"
+    "The North Face Explore Fund"
   ],
   "status": "DRAFT"
 }
