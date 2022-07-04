@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "The North Face ",
   "id": "northface",
-  "suggest": []
+  "suggest": [
+    "The North Face "
+  ],
+  "status": "DRAFT"
 }
