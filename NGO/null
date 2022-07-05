@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "The North Face Explore Fund",
-  "name": "The North Face Explore Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/explore_fund-1518567191658441009.jpg#ccrop:107",
-  "id": "northface",
+  "displayName": "Packages From Home",
+  "name": "Packages From Home",
+  "logo": "https://media.good-loop.com/uploads/standard/packages-1975903450195289169.png#ccrop:146",
+  "id": "packages",
   "suggest": [
-    "The North Face Explore Fund",
-    "The North Face Explore Fund"
+    "Packages From Home",
+    "Packages From Home"
   ],
-  "url": "https://www.thenorthface.co.uk/about-us/explore-fund.html",
+  "url": "https://www.packagesfromhome.org/",
   "status": "DRAFT"
 }
