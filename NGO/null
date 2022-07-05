@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Packages From Home",
   "name": "Packages From Home",
-  "logo": "https://media.good-loop.com/uploads/standard/packages-1975903450195289169.png#ccrop:146",
+  "logo": "https://media.good-loop.com/uploads/standard/packages-1975903450195289169.png#ccrop:116",
   "id": "packages",
   "suggest": [
     "Packages From Home",
     "Packages From Home"
   ],
   "url": "https://www.packagesfromhome.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
