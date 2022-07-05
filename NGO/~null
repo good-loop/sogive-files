@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Packages From Home",
   "id": "packages",
-  "suggest": []
+  "suggest": [
+    "Packages From Home"
+  ],
+  "status": "DRAFT"
 }
