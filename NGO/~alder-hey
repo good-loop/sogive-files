@@ -4,15 +4,15 @@
   "@type": "NGO",
   "displayName": "Alder Hey Children\u0027s Charity",
   "name": "alder-hey-",
-  "logo": "https://media.good-loop.com/uploads/raw/16153109072934800_3-11261611224940500489.png",
   "description": "Alder Hey Children\u0027s Charity helps keep families together in neonatal care. The new surgical neonatal unit at Alder Hey will give families the best environment in which to thrive, every step of the way.",
-  "@id": "alder-hey",
+  "logo": "https://media.good-loop.com/uploads/raw/alderhey-logo-49593635459597152.svg",
   "suggest": [
     "alder-hey-",
     "Alder Hey Children\u0027s Charity",
     "alder-hey"
   ],
+  "@id": "alder-hey",
   "englandWalesCharityRegNum": "1160661",
   "url": "https://www.alderheycharity.org/",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
