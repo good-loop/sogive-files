@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Packages From Home",
   "name": "Packages From Home",
   "id": "packages",
   "suggest": [
+    "Packages From Home",
     "Packages From Home"
   ],
   "status": "DRAFT"
