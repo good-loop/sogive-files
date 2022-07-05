@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "National Emergencies Trust",
   "name": "National Emergencies Trust",
   "id": "national-emergencies-trust",
   "suggest": [
+    "National Emergencies Trust",
     "National Emergencies Trust"
   ],
   "status": "DRAFT"
