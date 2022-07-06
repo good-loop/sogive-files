@@ -614,7 +614,7 @@
   "imageCaption": "Chad Varah",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Samaritans__Logo__WEB-20190313023149460-2353775708957839906.jpg",
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Samaritans__Logo__WEB-20190313023149460-2353775708957839906.jpg#ccrop:101",
   "@id": "samaritans",
   "wikipedia": "https://en.wikipedia.org/wiki/Samaritans_(charity)",
   "summaryDescription": "Samaritans’ vision is that fewer people die by suicide, which they accomplish primarily via confidential emotional support from their 24-hour phone listening service, email correspondence, face to face, letters or mobile app",
@@ -703,5 +703,5 @@
   "englandWalesCharityRegNum": "219432",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, Ireland",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
