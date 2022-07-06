@@ -448,8 +448,16 @@
     {
       "outputs": [
         {
-          "number": 5.0,
-          "name": "call(s) to the charity\u0027s helpline"
+          "number": "",
+          "name": "call(s) to the charity\u0027s helpline",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "5",
+            "currency": "",
+            "value100p": 50000.0,
+            "value": 5.0
+          }
         }
       ],
       "data-src": [
@@ -606,7 +614,7 @@
   "imageCaption": "Chad Varah",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Samaritans__Logo__WEB-20190313023149460-2353775708957839906.jpg",
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/Samaritans__Logo__WEB-20190313023149460-2353775708957839906.jpg#ccrop:101",
   "@id": "samaritans",
   "wikipedia": "https://en.wikipedia.org/wiki/Samaritans_(charity)",
   "summaryDescription": "Samaritans’ vision is that fewer people die by suicide, which they accomplish primarily via confidential emotional support from their 24-hour phone listening service, email correspondence, face to face, letters or mobile app",
@@ -629,9 +637,9 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 15212000000,
-        "value": "1521200.0"
+        "value100p": 50000,
+        "value": "5.0",
+        "name": ""
       },
       "n": 1.0
     }
@@ -645,9 +653,9 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 15212000000,
-      "value": "1521200.0"
+      "value100p": 50000,
+      "value": "5.0",
+      "name": ""
     }
   },
   "meta": {
@@ -695,5 +703,5 @@
   "englandWalesCharityRegNum": "219432",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, Ireland",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
