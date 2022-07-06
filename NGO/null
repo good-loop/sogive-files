@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Samaritans",
   "logo": "https://media.good-loop.com/uploads/standard/Samaritans__Logo__WEB-20190313023149460-17338363646757345221.jpg",
   "id": "samaritan",
-  "suggest": [],
-  "status": "DRAFT"
+  "suggest": [
+    "Samaritans"
+  ],
+  "status": "MODIFIED"
 }
