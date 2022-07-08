@@ -3,7 +3,7 @@
   "@type": "NGO",
   "displayName": "City Harvest",
   "name": "City Harvest NYC ",
-  "logo": "https://media.good-loop.com/uploads/standard/City-Harvest-logo-web-901230601940252452.png#ccrop:110",
+  "logo": "https://media.good-loop.com/uploads/standard/City-Harvest-logo-web-901230601940252452.png#ccrop:107",
   "description": "City Harvest is New York City’s largest food rescue organisation, helping to feed the more than 1.5 million New Yorkers who are struggling to put meals on their tables. We will rescue 111 million pounds of food this year and deliver it, free of charge, to hundreds of food pantries, soup kitchens and other community partners across the five boroughs. Our programs help food-insecure New Yorkers access nutritious food that fits their needs and desires; increase our partners’ capacity; and strengthen the local food system, building a path to a food-secure future for all New Yorkers.",
   "id": "city-harvest-nyc",
   "suggest": [
@@ -12,5 +12,5 @@
   ],
   "category": "human services",
   "url": "https://www.cityharvest.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
