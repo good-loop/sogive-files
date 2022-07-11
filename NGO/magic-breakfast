@@ -1,0 +1,336 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 18245.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "children (singular: child) fed",
+          "start": "2014-09-01T00:00:00Z",
+          "description": "This refers to children fed daily over the course of the year",
+          "end": "2015-08-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value100p": 1.371876E10,
+          "value": 1371876.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-09-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-08-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-09-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends10/0001102510_AC_20150831_E_C.PDF"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-08-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9155000.0,
+          "meta": {
+            "all": {
+              "notes": "p.11 annual report: https://www.magicbreakfast.com/Handlers/Download.ashx?IDMF\u003d91ee2a98-bf3a-4af7-818b-e6eab4f02bd9\n\nThis calculation assumes that \"48,000\" children reached per school-day is the average number of meals over a 190-day school year. However, we have low confidence that this is the correct interpretation of the figure quoted in the annual report. We conservatively assume that 35,000 children reached during the holidays is  the total number of meals provided during the holidays. \n\nThe cost per beneficiary is overided to acccount for fundraising costs, split evenly across three projects. \n\nCalculations can be found here:\nhttps://docs.google.com/spreadsheets/d/1Gy4sZv_WZRQzdfwVH0e3tBvyBnuEJnhSFx7_7BHLSDI/edit#gid\u003d1654367273"
+            }
+          },
+          "confidence": "low",
+          "name": "Breakfast meal(s) provided",
+          "description": "This refers to meals provided to 48,000 students across 190 school days, as well as 35,000 meals provided during the summer holidays. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.48",
+            "currency": "GBP",
+            "value100p": 4800.0,
+            "value": 0.48
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.magicbreakfast.com/Handlers/Download.ashx?IDMF\u003d91ee2a98-bf3a-4af7-818b-e6eab4f02bd9"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "3636496",
+          "currency": "GBP",
+          "value100p": 3.636496E10,
+          "value": 3636496.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Projects costs: p.45 annual report\n"
+        }
+      },
+      "name": "Food aid",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.magicbreakfast.com/Handlers/Download.ashx?IDMF\u003d91ee2a98-bf3a-4af7-818b-e6eab4f02bd9"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "4818735",
+          "currency": "GBP",
+          "value100p": 4.818735E10,
+          "value": 4818735.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.36 annual report"
+        },
+        "reserves": {
+          "notes": "p.37 annual report, unrestricted funds "
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "3513827",
+        "currency": "",
+        "value100p": 3.513827E10,
+        "value": 3513827.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.magicbreakfast.com/Handlers/Download.ashx?IDMF\u003d91ee2a98-bf3a-4af7-818b-e6eab4f02bd9"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "90006",
+          "currency": "GBP",
+          "value100p": 9.0006E8,
+          "value": 90006.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs: p. 45 annual report"
+        }
+      },
+      "name": "Building capacity "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.magicbreakfast.com/Handlers/Download.ashx?IDMF\u003d91ee2a98-bf3a-4af7-818b-e6eab4f02bd9"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "269040",
+          "currency": "GBP",
+          "value100p": 2.6904E9,
+          "value": 269040.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs: p.45 annual report"
+        }
+      },
+      "name": "Making the case for change"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Magic Breakfast",
+  "description": "Magic Breakfast provides breakfasts for school students in partner schools, including primary and secondary schools, Special Education Needs schools, and Pupil Referral Units across the UK. Magic Breakfast also provides advice to partner schools on breakfast provision and campaigns for government funding of breakfast provision in disadvantaged areas. ",
+  "whyTags": "Hunger, education",
+  "logo": "https://media.good-loop.com/uploads/standard/magic__breakfast__logo-16073117015786421608.jpg#ccrop:105",
+  "modified": false,
+  "@id": "magic-breakfast",
+  "summaryDescription": "Magic Breakfast provides breakfasts to vulnerable schoolchildren to alleviate hunger and help reduce this barrier to learning. ",
+  "uptodatedraft": "probably",
+  "images": "https://media.good-loop.com/uploads/raw/Magic_Breakfast-16375618464311329949.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "high",
+  "suggest": [
+    "Magic Breakfast",
+    "Magic Breakfast",
+    "magic-breakfast"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "magic-breakfast",
+      "name": "Breakfast meal(s) provided",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 4800,
+        "value": "0.48"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.magicbreakfast.com/",
+  "howTags": "Direct work, campaigning ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Breakfast meal(s) provided",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 4800,
+      "value": "0.48"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Magic Breakfast",
+  "lastModified": "2020-10-28T13:35:30Z",
+  "englandWalesCharityRegNum": "1102510",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
