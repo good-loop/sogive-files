@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Food and Trees for Africa",
   "name": "Food and Trees for Africa",
   "id": "food-and-trees-for-africa",
   "suggest": [
+    "Food and Trees for Africa",
     "Food and Trees for Africa"
   ],
+  "url": "",
   "status": "DRAFT"
 }
