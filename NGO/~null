@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Gift of Givers",
   "id": "gift-of-givers",
-  "suggest": []
+  "suggest": [
+    "Gift of Givers"
+  ],
+  "status": "DRAFT"
 }
