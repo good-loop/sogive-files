@@ -63,10 +63,10 @@
     }
   },
   "name": "The Lunchbox fund",
-  "logo": "https://media.good-loop.com/uploads/standard/the-lunchbox-fund-12554494948287333858.png",
+  "logo": "https://media.good-loop.com/uploads/standard/the-lunchbox-fund-12554494948287333858.png#ccrop:90",
   "modified": false,
   "@id": "the-lunchbox-fund",
   "whereTags": "United States of America",
   "uk_giftaid": false,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
