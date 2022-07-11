@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Food and Trees for Africa",
   "name": "Food and Trees for Africa",
-  "logo": "https://media.good-loop.com/uploads/standard/ftfa-logo-15329970871443176806.png#ccrop:137",
+  "logo": "https://media.good-loop.com/uploads/standard/ftfa-logo-10865873238280471471.png",
   "id": "food-and-trees-for-africa",
   "suggest": [
     "Food and Trees for Africa",
     "Food and Trees for Africa"
   ],
   "url": "https://trees.org.za/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
