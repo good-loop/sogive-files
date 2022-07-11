@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Food and Trees for Africa",
   "id": "food-and-trees-for-africa",
-  "suggest": []
+  "suggest": [
+    "Food and Trees for Africa"
+  ],
+  "status": "DRAFT"
 }
