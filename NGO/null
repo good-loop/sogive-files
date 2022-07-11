@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Food and Trees for Africa",
-  "name": "Food and Trees for Africa",
-  "logo": "https://media.good-loop.com/uploads/standard/ftfa-logo-9240660746857728422.png#ccrop:110",
-  "id": "food-and-trees-for-africa",
+  "displayName": "Gift of Givers",
+  "name": "Gift of Givers",
+  "logo": "https://media.good-loop.com/uploads/standard/GiftofTheGivers__logo-8763806193937027693.png#ccrop:80",
+  "id": "gift-of-givers",
   "suggest": [
-    "Food and Trees for Africa",
-    "Food and Trees for Africa"
+    "Gift of Givers",
+    "Gift of Givers"
   ],
-  "url": "https://trees.org.za/",
-  "status": "DRAFT"
+  "url": "https://giftofthegivers.org/",
+  "status": "MODIFIED"
 }
