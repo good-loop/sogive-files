@@ -279,7 +279,7 @@
   "displayName": "Magic Breakfast",
   "description": "Magic Breakfast provides breakfasts for school students in partner schools, including primary and secondary schools, Special Education Needs schools, and Pupil Referral Units across the UK. Magic Breakfast also provides advice to partner schools on breakfast provision and campaigns for government funding of breakfast provision in disadvantaged areas. ",
   "whyTags": "Hunger, education",
-  "logo": "https://media.good-loop.com/uploads/standard/magic-breakfast-17536989727643007580.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/magic__breakfast__logo-16073117015786421608.jpg",
   "modified": false,
   "@id": "magic-breakfast",
   "summaryDescription": "Magic Breakfast provides breakfasts to vulnerable schoolchildren to alleviate hunger and help reduce this barrier to learning. ",
@@ -292,6 +292,21 @@
     "Magic Breakfast",
     "Magic Breakfast",
     "magic-breakfast"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "magic-breakfast",
+      "name": "Breakfast meal(s) provided",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 4800,
+        "value": "0.48"
+      },
+      "n": 1.0
+    }
   ],
   "url": "https://www.magicbreakfast.com/",
   "howTags": "Direct work, campaigning ",
