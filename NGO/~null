@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Permanently Disabled-jockeys-fund",
   "id": "permanently-disables-jockeys-fund",
-  "suggest": []
+  "suggest": [
+    "Permanently Disabled-jockeys-fund"
+  ],
+  "status": "DRAFT"
 }
