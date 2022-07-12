@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "PDJF",
   "name": "Permanently Disabled Jockeys Fund",
   "id": "permanently-disables-jockeys-fund",
   "suggest": [
-    "Permanently Disabled Jockeys Fund"
+    "Permanently Disabled Jockeys Fund",
+    "PDJF"
   ],
   "status": "DRAFT"
 }
