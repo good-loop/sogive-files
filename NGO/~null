@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Roar New York",
   "id": "roar",
-  "suggest": []
+  "suggest": [
+    "Roar New York"
+  ],
+  "status": "DRAFT"
 }
