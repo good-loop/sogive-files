@@ -1,7 +1,5 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/imagination.org-15871272062538371695.png#ccrop:102",
-  "id": "imagination-org",
-  "suggest": [],
-  "status": "DRAFT"
+  "id": "roar",
+  "suggest": []
 }
