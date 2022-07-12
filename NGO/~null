@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Maker\u0027s Mark WTD mock",
   "name": "ROAR New York",
   "id": "roar",
   "suggest": [
-    "ROAR New York"
+    "ROAR New York",
+    "Maker\u0027s Mark WTD mock"
   ],
   "status": "DRAFT"
 }
