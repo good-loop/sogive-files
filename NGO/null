@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Maker\u0027s Mark WTD mock",
-  "name": "ROAR New York",
-  "logo": "https://media.good-loop.com/uploads/standard/59277roar__logo__new-14927382328240850054.png#ccrop:88",
-  "id": "roar",
+  "displayName": "PDJF",
+  "name": "Permanently Disabled Jockeys Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/pdjf-logo-9591854874446435366.jpg#ccrop:77",
+  "id": "permanently-disables-jockeys-fund",
   "suggest": [
-    "ROAR New York",
-    "Maker\u0027s Mark WTD mock"
+    "Permanently Disabled Jockeys Fund",
+    "PDJF"
   ],
-  "url": "https://www.roarnewyork.org/",
-  "status": "MODIFIED"
+  "url": "https://pdjf.org/",
+  "status": "DRAFT"
 }
