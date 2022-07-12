@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Imagination-Org-__-Logo-__-Color-__-Powered-Two-Bit-__-Sept-9-2019-18368891773413761191.png#ccrop:101",
   "id": "imagination-org",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
