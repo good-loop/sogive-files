@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/PeaceFirst__logo__badge__fullcolor-e1518787642449-16462952296090305724.png",
-  "id": "peace-first",
-  "suggest": [],
+  "displayName": "Whole Planet",
+  "logo": "https://media.good-loop.com/uploads/standard/Website__Logo__1200-14507863419953492042.png#ccrop:98",
+  "id": "whole-planet",
+  "suggest": [
+    "Whole Planet"
+  ],
   "status": "DRAFT"
 }
