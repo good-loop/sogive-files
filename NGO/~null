@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "whole kids",
   "id": "whole-kids",
-  "suggest": []
+  "suggest": [
+    "whole kids"
+  ],
+  "status": "DRAFT"
 }
