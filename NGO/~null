@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "whole kids",
-  "logo": "https://media.good-loop.com/uploads/standard/unnamed_1-14461700817757175714.jpg#ccrop:87",
-  "id": "whole-kids",
-  "suggest": [
-    "whole kids"
-  ],
-  "status": "DRAFT"
+  "id": "whole-cities",
+  "suggest": []
 }
