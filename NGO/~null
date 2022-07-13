@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Whole Planet",
-  "logo": "https://media.good-loop.com/uploads/standard/Website__Logo__1200-14507863419953492042.png#ccrop:98",
-  "id": "whole-planet",
-  "suggest": [
-    "Whole Planet"
-  ],
-  "status": "DRAFT"
+  "id": "whole-kids",
+  "suggest": []
 }
