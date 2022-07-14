@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Bliss",
   "name": "Bliss",
-  "logo": "https://media.good-loop.com/uploads/standard/Bliss__logo-10738310266450476665.jpeg#ccrop:83",
+  "logo": "https://media.good-loop.com/uploads/standard/Bliss__logo-10738310266450476665.jpeg#ccrop:82",
   "id": "pampers-bliss",
   "suggest": [
     "Bliss",
     "Bliss"
   ],
   "url": "https://www.bliss.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
