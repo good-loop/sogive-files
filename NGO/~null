@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "WHC",
   "logo": "https://media.good-loop.com/uploads/standard/WHC-Logo-Horizontal-4C-15446697667843346950.png#ccrop:96",
   "id": "wildlife-habitat-council",
-  "suggest": [],
+  "suggest": [
+    "WHC"
+  ],
   "status": "DRAFT"
 }
