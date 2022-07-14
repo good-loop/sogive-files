@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Supertee",
   "name": "Supertee",
   "id": "supertee",
   "suggest": [
+    "Supertee",
     "Supertee"
   ],
   "status": "DRAFT"
