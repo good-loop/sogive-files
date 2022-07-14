@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/lossy-page1-1200px-16__program__NPLD__vertical.tif-601997926176218080.jpg#ccrop:76",
   "id": "neef",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
