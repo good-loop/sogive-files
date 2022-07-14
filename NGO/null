@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "NEEF",
-  "logo": "https://media.good-loop.com/uploads/standard/lossy-page1-1200px-16__program__NPLD__vertical.tif-601997926176218080.jpg#ccrop:76",
-  "id": "neef",
+  "displayName": "Bliss",
+  "name": "Bliss",
+  "logo": "https://media.good-loop.com/uploads/standard/Bliss__logo-10738310266450476665.jpeg",
+  "id": "pampers-bliss",
   "suggest": [
-    "NEEF"
+    "Bliss",
+    "Bliss"
   ],
+  "url": "https://www.bliss.org.uk/",
   "status": "DRAFT"
 }
