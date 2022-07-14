@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Whole Cities",
-  "logo": "https://media.good-loop.com/uploads/standard/download_5-4976434330000634970.jpg#ccrop:99",
-  "id": "whole-cities",
-  "suggest": [
-    "Whole Cities"
-  ],
-  "status": "DRAFT"
+  "id": "u",
+  "suggest": []
 }
