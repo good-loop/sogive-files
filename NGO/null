@@ -1,14 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Supertee",
-  "name": "Supertee",
-  "logo": "https://media.good-loop.com/uploads/standard/SUPERTEE__LOGO-9918377161923256273.png#ccrop:96",
-  "description": "Their goal is to gift a Supertee medical garment to every child facing long-term illness in hospital. Australian based.",
-  "id": "supertee",
-  "suggest": [
-    "Supertee",
-    "Supertee"
-  ],
-  "url": "https://www.supertee.org.au/",
+  "logo": "https://media.good-loop.com/uploads/standard/EIElkOrW4AA6Hmk-15052070449065740532.jpg#ccrop:97",
+  "id": "kentucky-fish-and-wildlife-foundation",
+  "suggest": [],
   "status": "DRAFT"
 }
