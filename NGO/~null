@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Bliss",
-  "name": "Bliss",
-  "logo": "https://media.good-loop.com/uploads/standard/bliss-logo-676325521791006045.jpeg#ccrop:60",
-  "id": "pampers-bliss",
-  "suggest": [
-    "Bliss",
-    "Bliss"
-  ],
-  "url": "https://www.bliss.org.uk/",
-  "status": "PUBLISHED"
+  "id": "irish-wildlife-trust",
+  "suggest": []
 }
