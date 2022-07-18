@@ -1,14 +1,11 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/895d4dc89f5e473ba1e2c390095fdf89-6572226910782981784.jpg",
-  "headerImage": "https://media.good-loop.com/uploads/standard/895d4dc89f5e473ba1e2c390095fdf89-7955571057796226228.jpg",
   "@type": "NGO",
-  "displayName": "The Travel Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/ttf__logo-7201784674860522661.svg#ccrop:85",
-  "description": " The Travel Foundation are an international sustainable tourism organisation dedicated to ensuring that tourism has a positive impact on destination communities. Whilst working with governments, community groups and tourism businesses for fairer, climate-positive tourism.",
-  "id": "the-travel-foundation",
+  "displayName": "Make A Wish",
+  "logo": "https://media.good-loop.com/uploads/standard/MAW_Updated_Logo__1.9.2018-2071133165862172831.png#ccrop:110",
+  "id": "make-a-wish-foundation-of-america",
   "suggest": [
-    "The Travel Foundation"
+    "Make A Wish"
   ],
-  "url": "https://www.thetravelfoundation.org.uk/",
+  "url": "https://wish.org/",
   "status": "DRAFT"
 }
