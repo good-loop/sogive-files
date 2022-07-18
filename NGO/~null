@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "The Travel Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/ttf__logo-7201784674860522661.svg#ccrop:85",
-  "description": " international sustainable tourism organisation dedicated to ensuring that tourism has a positive impact on destination communities. We work with governments, community groups and tourism businesses for fairer, climate-positive tourism.",
+  "description": " The Travel Foundation are an international sustainable tourism organisation dedicated to ensuring that tourism has a positive impact on destination communities. We work with governments, community groups and tourism businesses for fairer, climate-positive tourism.",
   "id": "the-travel-foundation",
   "suggest": [
     "The Travel Foundation"
   ],
   "url": "https://www.thetravelfoundation.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
