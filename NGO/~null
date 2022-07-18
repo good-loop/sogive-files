@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Make A Wish",
   "id": "make-a-wish-foundation-of-america",
-  "suggest": []
+  "suggest": [
+    "Make A Wish"
+  ],
+  "status": "DRAFT"
 }
