@@ -1,5 +1,6 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/895d4dc89f5e473ba1e2c390095fdf89-6572226910782981784.jpg",
+  "headerImage": "https://media.good-loop.com/uploads/standard/895d4dc89f5e473ba1e2c390095fdf89-7955571057796226228.jpg",
   "@type": "NGO",
   "displayName": "The Travel Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/ttf__logo-7201784674860522661.svg#ccrop:85",
@@ -9,5 +10,5 @@
     "The Travel Foundation"
   ],
   "url": "https://www.thetravelfoundation.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
