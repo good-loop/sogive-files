@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Irish Wildlife Trust",
   "id": "irish-wildlife-trust",
-  "suggest": [],
+  "suggest": [
+    "Irish Wildlife Trust"
+  ],
   "status": "DRAFT"
 }
