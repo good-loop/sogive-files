@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/IMG__2162-5885655497257945735.jpg",
   "@type": "NGO",
   "displayName": "Make A Wish",
   "logo": "https://media.good-loop.com/uploads/standard/MAW_Updated_Logo__1.9.2018-2071133165862172831.png#ccrop:110",
@@ -7,5 +8,5 @@
     "Make A Wish"
   ],
   "url": "https://wish.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
