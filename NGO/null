@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "Irish Wildlife Trust",
   "logo": "https://media.good-loop.com/uploads/standard/5eda0c1f4d0a70.07357728.png-4595496262840824546.png#ccrop:90",
+  "description": "The Irish Wildlife Trust (IWT) is a non-governmental organisation and charity founded in 1979 (Charity no:  20010966). The Irish Wildlife Trust aims to conserve wildlife and the habitats it depends on throughout Ireland while encouraging a greater understanding and appreciation of the natural world and the need to protect it.  The Irish Wildlife Trust works to create a better future for Ireland’s biodiversity by motivating and supporting people to take action to protect biodiversity. They achieve this through wildlife walks and talks, citizen science projects, community \u0026 school education, practical conservation activities, and biodiversity campaigning and advocacy.",
   "id": "irish-wildlife-trust",
   "suggest": [
     "Irish Wildlife Trust"
