@@ -1,13 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/IMG__2162-5885655497257945735.jpg",
   "@type": "NGO",
-  "displayName": "Make A Wish",
-  "logo": "https://media.good-loop.com/uploads/standard/MAW_Updated_Logo__1.9.2018-2071133165862172831.png#ccrop:110",
-  "description": "The Make-A-Wish Foundation is a 501(c)(3) nonprofit organization founded in the United States that helps fulfill the wishes of children with a critical illness between the ages of 2½ and 18 years old.",
-  "id": "make-a-wish-foundation-of-america",
-  "suggest": [
-    "Make A Wish"
-  ],
-  "url": "https://wish.org/",
-  "status": "PUBLISHED"
+  "id": "msk",
+  "suggest": []
 }
