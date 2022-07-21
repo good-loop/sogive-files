@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Save the Music Foundation",
   "name": "Save the Music Foundation",
   "id": "save-the-music-foundation",
   "suggest": [
+    "Save the Music Foundation",
     "Save the Music Foundation"
   ],
   "status": "DRAFT"
