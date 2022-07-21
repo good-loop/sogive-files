@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Rhinos Without Borders",
   "id": "rhinos-without-borders",
-  "suggest": []
+  "suggest": [
+    "Rhinos Without Borders"
+  ],
+  "status": "DRAFT"
 }
