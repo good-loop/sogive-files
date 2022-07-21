@@ -1,13 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Save the Music Foundation",
-  "name": "Save the Music Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-1199519139420237586.svg#ccrop:79",
-  "id": "save-the-music-foundation",
+  "displayName": "Rhinos Without Borders",
+  "logo": "https://media.good-loop.com/uploads/standard/5eac3350c720326f10148c8f__rhinoswithoutborders-613778792568557709.jpg#ccrop:95",
+  "id": "rhinos-without-borders",
   "suggest": [
-    "Save the Music Foundation",
-    "Save the Music Foundation"
+    "Rhinos Without Borders"
   ],
-  "url": "https://www.savethemusic.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
