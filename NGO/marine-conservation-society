@@ -2,18 +2,18 @@
   "scotlandCharityRegNum": "SC037480",
   "color": "#003155",
   "@type": "NGO",
-  "displayName": "Marine Conservation Society",
+  "displayName": "Australian Marine Conservation Society",
   "suggest": [
     "Marine Conservation Society",
-    "Marine Conservation Society",
+    "Australian Marine Conservation Society",
     "marine-conservation-society"
   ],
   "url": "https://www.mcsuk.org/",
   "name": "Marine Conservation Society",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_9-2898994875801372733.png#ccrop:75",
+  "logo": "https://media.good-loop.com/uploads/standard/amcs-logo-img-14884828609871095743.jpg#ccrop:115",
   "@id": "marine-conservation-society",
   "logo_white": "https://as.good-loop.com/vert/marine_conservation_society_logo_white.png",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
