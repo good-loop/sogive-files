@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Save the Music Foundation",
   "name": "Save the Music Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-1199519139420237586.svg#ccrop:70",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-1199519139420237586.svg#ccrop:80",
   "id": "save-the-music-foundation",
   "suggest": [
     "Save the Music Foundation",
     "Save the Music Foundation"
   ],
   "url": "https://www.savethemusic.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
