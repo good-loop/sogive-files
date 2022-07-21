@@ -1,92 +1,13 @@
 {
-  "circleCrop": 97.0,
-  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
-  "projects": [
-    {
-      "outputs": [
-        {
-          "number": 1.0,
-          "name": "tree(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "0.15",
-            "currency": "EUR",
-            "value100p": 1500.0,
-            "value": 0.15
-          }
-        }
-      ],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "Tree Planting",
-      "isRep": true
-    }
-  ],
   "@type": "NGO",
-  "displayName": "Eden Reforestation Projects",
-  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "displayName": "MMI",
+  "name": "Memphis Music Initiative",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-main-11815416788194393421.svg#ccrop:97",
+  "id": "memphis-music-initiative",
   "suggest": [
-    "Eden Reforestation Projects"
+    "Memphis Music Initiative",
+    "MMI"
   ],
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "name": "tree(s)",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "EUR",
-        "value100p": 1500,
-        "value": "0.15",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
-  "url": "https://edenprojects.org/",
-  "UNSDG": "13",
-  "whyTags": "environment",
-  "simpleImpact": {
-    "number": 1.0,
-    "@type": "Output",
-    "name": "tree(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "EUR",
-      "value100p": 1500,
-      "value": "0.15",
-      "name": ""
-    }
-  },
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/eden-projects-4709504501207212447.png#ccrop:88",
-  "id": "eden-reforestation-projects",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
-  "status": "PUBLISHED"
+  "url": "https://memphismusicinitiative.org/",
+  "status": "DRAFT"
 }
