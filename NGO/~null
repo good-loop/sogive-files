@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
   "id": "memphis-music-initiative",
-  "suggest": []
+  "suggest": [],
+  "url": "https://memphismusicinitiative.org/",
+  "status": "DRAFT"
 }
