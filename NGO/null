@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "MMI",
-  "name": "Memphis Music Initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-main-11815416788194393421.svg#ccrop:97",
-  "id": "memphis-music-initiative",
+  "displayName": "Save the Music Foundation",
+  "name": "Save the Music Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-1199519139420237586.svg",
+  "id": "save-the-music-foundation",
   "suggest": [
-    "Memphis Music Initiative",
-    "MMI"
+    "Save the Music Foundation",
+    "Save the Music Foundation"
   ],
-  "url": "https://memphismusicinitiative.org/",
+  "url": "https://www.savethemusic.org/",
   "status": "DRAFT"
 }
