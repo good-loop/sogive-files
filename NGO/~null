@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Department Of Conservation",
   "id": "department-of-conservation",
-  "suggest": []
+  "suggest": [
+    "Department Of Conservation"
+  ],
+  "status": "DRAFT"
 }
