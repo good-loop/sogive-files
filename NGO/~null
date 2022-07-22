@@ -6,15 +6,7 @@
       "outputs": [
         {
           "number": 1.0,
-          "name": "tree(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "0.16",
-            "currency": "",
-            "value100p": 1600.0,
-            "value": 0.16
-          }
+          "name": "tree(s)"
         }
       ],
       "year": 2021.0,
@@ -58,9 +50,8 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "value100p": 1600,
-        "value": "0.16",
-        "name": ""
+        "value100p": 0,
+        "value": "0"
       },
       "n": 1.0
     }
@@ -75,9 +66,8 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "value100p": 1600,
-      "value": "0.16",
-      "name": ""
+      "value100p": 0,
+      "value": "0"
     }
   },
   "ready": false,
