@@ -6,11 +6,7 @@
       "outputs": [
         {
           "number": 1.0,
-          "name": "tree(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "currency": "EUR"
-          }
+          "name": "tree(s)"
         }
       ],
       "year": 2021.0,
@@ -54,7 +50,6 @@
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "EUR",
         "value100p": 0,
         "value": "0"
       },
@@ -71,7 +66,6 @@
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "EUR",
       "value100p": 0,
       "value": "0"
     }
