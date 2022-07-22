@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "Department Of Conservation",
+  "displayName": "Department Of Conservation Te Papa Atawhai",
   "id": "department-of-conservation",
   "suggest": [
-    "Department Of Conservation"
+    "Department Of Conservation Te Papa Atawhai"
   ],
   "status": "DRAFT"
 }
