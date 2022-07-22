@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Predator Free New Zeleand ",
   "id": "predator-free-new-zealand-",
-  "suggest": [],
+  "suggest": [
+    "Predator Free New Zeleand "
+  ],
   "url": "https://predatorfreenz.org/",
   "status": "DRAFT"
 }
