@@ -10,10 +10,10 @@
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
-            "raw": "0.15",
+            "raw": "0.15588235294",
             "currency": "EUR",
-            "value100p": 1500.0,
-            "value": 0.15
+            "value100p": 1559.0,
+            "value": 0.15588235294
           }
         }
       ],
@@ -59,8 +59,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "EUR",
-        "value100p": 1500,
-        "value": "0.15",
+        "value100p": 1559,
+        "value": "0.15588235294",
         "name": ""
       },
       "n": 1.0
@@ -77,8 +77,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "EUR",
-      "value100p": 1500,
-      "value": "0.15",
+      "value100p": 1559,
+      "value": "0.15588235294",
       "name": ""
     }
   },
