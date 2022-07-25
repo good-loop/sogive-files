@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Department Of Conservation Te Papa Atawhai",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Image_Pasted_at_2022-7-15_13-25-8722418037567300604.png#ccrop:85",
-  "id": "department-of-conservation",
-  "suggest": [
-    "Department Of Conservation Te Papa Atawhai"
-  ],
-  "status": "DRAFT"
+  "id": "ovo-foundation",
+  "suggest": []
 }
