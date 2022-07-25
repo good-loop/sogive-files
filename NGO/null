@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "OVO Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-OVO-foundation-5102416674827765874.png#ccrop:90",
-  "id": "ovo-foundation",
+  "displayName": "Peace First",
+  "name": "Peace First",
+  "logo": "https://media.good-loop.com/uploads/standard/PeaceFirst__logo__badge__fullcolor-e1518787642449-16462952296090305724.png",
+  "id": "peace-first",
   "suggest": [
-    "OVO Foundation"
+    "Peace First",
+    "Peace First"
   ],
-  "url": "https://www.ovofoundation.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
