@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Department Of Conservation Te Papa Atawhai",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Image_Pasted_at_2022-7-15_13-25-8722418037567300604.png#ccrop:85",
-  "id": "department-of-conservation",
+  "displayName": "OVO Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-OVO-foundation-5102416674827765874.png#ccrop:90",
+  "id": "ovo-foundation",
   "suggest": [
-    "Department Of Conservation Te Papa Atawhai"
+    "OVO Foundation"
   ],
+  "url": "https://www.ovofoundation.org.uk/",
   "status": "DRAFT"
 }
