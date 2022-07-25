@@ -1,12 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Peace First",
-  "name": "Peace First",
-  "logo": "https://media.good-loop.com/uploads/standard/PeaceFirst__logo__badge__fullcolor-e1518787642449-16462952296090305724.png",
-  "id": "peace-first",
+  "name": "Subway Cares Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/SubwayCaresFoundation__ShareImage-9499151869243083877.jpg#ccrop:226",
+  "id": "subway-cares-foundation",
   "suggest": [
-    "Peace First",
-    "Peace First"
+    "Subway Cares Foundation"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
