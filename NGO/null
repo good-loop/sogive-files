@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "National Diaper Bank Network",
-  "name": "National Diaper Bank Network",
-  "logo": "https://media.good-loop.com/uploads/standard/National20Diaper20Network-1738015467338376159.jpg#ccrop:102",
-  "id": "national-diaper-bank-network",
+  "displayName": "Hand to Hold",
+  "name": "Hand to Hold",
+  "logo": "https://media.good-loop.com/uploads/standard/H2H-logos-Vertical-RGB-11058915618304595792.png#ccrop:97",
+  "id": "hand-to-hold",
   "suggest": [
-    "National Diaper Bank Network",
-    "National Diaper Bank Network"
+    "Hand to Hold",
+    "Hand to Hold"
   ],
-  "url": "https://nationaldiaperbanknetwork.org/",
+  "url": "https://handtohold.org/",
   "status": "DRAFT"
 }
