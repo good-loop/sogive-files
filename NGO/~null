@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Hand to Hold",
-  "name": "Hand to Hold",
-  "logo": "https://media.good-loop.com/uploads/standard/H2H-logos-Vertical-RGB-11058915618304595792.png#ccrop:97",
-  "id": "hand-to-hold",
-  "suggest": [
-    "Hand to Hold",
-    "Hand to Hold"
-  ],
-  "url": "https://handtohold.org/",
-  "status": "DRAFT"
+  "id": "girl-up-",
+  "suggest": []
 }
