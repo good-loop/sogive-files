@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "National Diaper Bank Network",
   "id": "national-diaper-bank-network",
-  "suggest": []
+  "suggest": [
+    "National Diaper Bank Network"
+  ],
+  "status": "DRAFT"
 }
