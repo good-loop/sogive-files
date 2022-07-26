@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "Subway Cares Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/SubwayCaresFoundation__ShareImage-9499151869243083877.jpg#ccrop:226",
-  "id": "subway-cares-foundation",
+  "displayName": "National Diaper Bank Network",
+  "name": "National Diaper Bank Network",
+  "logo": "https://media.good-loop.com/uploads/standard/National20Diaper20Network-1738015467338376159.jpg#ccrop:102",
+  "id": "national-diaper-bank-network",
   "suggest": [
-    "Subway Cares Foundation"
+    "National Diaper Bank Network",
+    "National Diaper Bank Network"
   ],
+  "url": "https://nationaldiaperbanknetwork.org/",
   "status": "DRAFT"
 }
