@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Hand to Hold",
+  "name": "Hand to Hold",
   "id": "hand-to-hold",
-  "suggest": []
+  "suggest": [
+    "Hand to Hold",
+    "Hand to Hold"
+  ],
+  "status": "DRAFT"
 }
