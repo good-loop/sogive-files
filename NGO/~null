@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
-  "id": "deja-tu-huella",
-  "suggest": []
+  "logo": "https://media.good-loop.com/uploads/standard/loguito_DTH_FUND__0-4582863028295039034.png",
+  "id": "deja-tu-huella-fund",
+  "suggest": [],
+  "status": "DRAFT"
 }
