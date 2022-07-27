@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Terrance Higgins Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_6-301562784957715972.svg#ccrop:_ccrop:65",
-  "id": "terrance-higgins-trust",
+  "name": "Global Sustainable Tourism Council",
+  "logo": "https://media.good-loop.com/uploads/standard/GSTC__wb__logo__retina-3698103607620004813.png#ccrop:93",
+  "id": "global-sustainable-tourism-council",
   "suggest": [
-    "Terrance Higgins Trust"
+    "Global Sustainable Tourism Council"
   ],
-  "url": "https://www.tht.org.uk/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
