@@ -1,0 +1,157 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/Safer-Sleep-Week-2018-banner-image-11328903483428870690.jpeg",
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 666.0,
+          "confidence": "low",
+          "name": "Babies lives saved per year",
+          "description": "The Lullaby Trust claims that their work has resulted in saving the lives of 20,000 babies since 1991."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11586706\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d262191"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "£1,198,300",
+          "currency": "GBP",
+          "value100p": 1.1983E10,
+          "value": 1198300.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "£120,000",
+          "currency": "GBP",
+          "value100p": 1.2E9,
+          "value": 120000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "£368,100",
+        "currency": "",
+        "value100p": 3.681E9,
+        "value": 368100.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 451.0,
+          "meta": {
+            "all": {
+              "notes": "pg. 6 of impact report"
+            }
+          },
+          "confidence": "high",
+          "name": "Babies supported",
+          "description": "In their annual report The Lullaby Trust state that 451 babies (and 871 families) were supported through the project."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Impact-Report-2021-web-version.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Annual-Report-2021.pdf"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "93000",
+          "currency": "GBP",
+          "value100p": 9.3E8,
+          "value": 93000.0
+        }
+      ],
+      "name": "Care of Next Infant programme"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "confidence": "high",
+  "recommendation": "**The Lullaby Trust is rated as Not Recommended (Firm) on the SoGive ratings scale.**\n\n- The Lullaby Trust raises awareness of sudden infant death syndrome (SIDS), provides advice on safer sleep for babies, offers emotional support for bereaved families and funds research around SIDS.\n- The Lullaby Trust [report that around 200 babies still die each year due to SIDS in the UK](https://www.lullabytrust.org.uk/professionals/statistics-on-sids/) - a rate of 1 death per 3,636 births.\n- In 2020/21 The Lullaby Trust spent £1.2 million, which included 2% spent on research (giving £27,000 of non-project adjusted costs).\n- Between the period from 2014 to 2019 the rate of SIDS in the UK remained unchanged, suggesting there have been no further lives saved. With an average direct spend on research of just over £90,000 a year in this same period, The Lullaby Trust does not meet our Gold Standard Benchmark of £5,000 per life saved.\n- We don’t recommend The Lullaby Trust as although their work is valuable, due to their narrow focus on individuals affected by SIDS in the UK, they don\u0027t meet our Gold Standard for cost effectiveness.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what The Lullaby Trust does - how they spend your donations**\n\nThe Lullaby Trust’s [2020/21 annual report](https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Annual-Report-2021.pdf) and [2020/21 impact report](https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Impact-Report-2021-web-version.pdf) indicates that the charity’s main activities were: providing information to families around safer sleep, which included their Safer Sleep Week 2021 campaign; providing training to healthcare professionals about safer sleep; providing support to bereaved families, which included their webchat bereavement service and their Care of Next Infant (CONI) programme; and funding research around SIDS. In 2020/21; 3,450 families and 827 professionals contacted them for information on safer sleep; 1,484 professionals were provided with safer sleep training; 871 families and 451 babies were supported through their CONI programme; 1,080 bereaved families contacted them for support (new and ongoing support); 171,395 leaflets on safer sleep were sent out to parents, carers or professionals working with families; and funding was awarded to one external research project [impact report(https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Impact-Report-2021-web-version.pdf) pg. 6 and 7]. The specific costs associated with each project are not provided in the annual report, the charitable activities are broken down on pg. 32 as follows: research (3% of charitable activities expenditure, giving circa £27,000 of non-project adjusted costs); support and information (94% of charitable activities expenditure, giving £1 million of non-project adjusted costs); and monitors and sundry equipment - CONI (4% of charitable activities expenditure, giving £42,500 of non-project adjusted costs). Further down (pg. 42) in their annual report, they also detail a direct cost of £82,000 for the CONI programme (giving £103,000 of non-project adjusted costs), which falls under the support and information expenditure.\n\n\n**Cost-effectiveness analysis - how does The Lullaby Trust compare to the most cost-effective charities?**\n\nAfter a review of The Lullaby Trust’s work under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold rating, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\n*Research*\n\nThe Lullaby Trust claims that 20,000 babies’ lives have been saved since 1991 (pointing to the 88% reduction in SIDS rate from 2.3 deaths per 1,000 live births in 1988 to 0.28 in 2019) largely due to breakthroughs in SIDS research (which we discuss below) and successful public education around the risk factors and methods to prevent SIDS. They explain in [their impact report](https://www.lullabytrust.org.uk/wp-content/uploads/The-Lullaby-Trust-Impact-Report-2021-web-version.pdf) that one of the most important discoveries in this field was that babies should be placed on their backs to sleep rather than on their front, and that this led to a remarkable drop in unexplained infant deaths. The Lullaby Trust [funded Peter Fleming\u0027s research](https://www.lullabytrust.org.uk/the-lullaby-trust-celebrates-25th-anniversary-of-back-to-sleep-campaign/) which led to this discovery that babies were much safer sleeping on their backs and lobbied the government for the Back to Sleep campaign. However, we are unsure if they were the sole funder of this research, and while it’s important that they successfully lobbied the government to run the campaign, what matters when thinking about donations today is what The Lullaby Trust’s future plans are, as this is what determines the cost-effectiveness of donations to The Lullaby Trust in the present day. It seems unlikely, with the small amount that is being spent on research, and the lack of detailed future plans, that the charity will run such a successful campaign again.\n\nAlthough the 88% reduction in SIDS rate is undoubtedly impressive we are sceptical that The Lullaby Trust can continue to cause further reductions in infant deaths moving forwards, and it\u0027s probable that improvements in infant death rates have plateaued somewhat in recent years. In their [Safer Sleep for Babies Fact sheet](https://www.lullabytrust.org.uk/wp-content/uploads/fact-sheet-back-to-sleep.pdf) we can see that the advice around sleeping position changed in 1990, and that a greater proportion of the overall reduction in infant deaths rate occurred earlier on in this 30 year period. In 1988, the SIDS rate (deaths per 1,000 live births) in the UK was 2.3. In 1992, a year after the Back to Sleep Campaign this had fallen to 0.77, a 67% decrease from the 1988 level. In 2004, the rate fell to 0.3, and in 2019 the rate was 0.28. The further decline from the 1992 level (e.g. after most of the gains from the Back to Sleep campaign had been made) t is hypothesised to have been caused by a general rise in health knowledge and standards such as formation around other risk factors, e.g. smoking while pregnant and the benefits of breastfeeding. This information is taken from [Chapter 18 - ‘SIDS Sudden Infant and Early Childhood Death: The Past, the Present and the Future’ by Joanna Garstang and Anna Pease](https://www.ncbi.nlm.nih.gov/books/NBK513397/). As the research which led to changes in sleeping position advice already had such a great impact on the SIDS rate in the 1990’s, we imagine a future discovery as impactful as the sleeping position advice might be hard to find. This assumes that there are diminishing returns to research on a specific medical disease. Also, The Lullaby Trust are not spending very much on research (proportionally or absolutely). They have invested £12 million in research since 1971, but only spent £27,000 (non-project adjusted costs) on research in 2021 with an average direct spend of £60,000 on research over the last five years. In their ten year [research strategy](https://www.lullabytrust.org.uk/wp-content/uploads/Research-Strategy_Jan-2017.pdf) published in 2017, they state that they aim to raise at least £100,000 a year to allocate to new research projects and they already had established a designated research fund of £100,000 but their recent research spending suggests they are not meeting these targets. It is therefore unlikely that extra pounds donated will lead to a discovery that saves many more babies’ lives in the UK.\n\nSince 2014, the SIDS rate has ‘levelled off’ at 0.28 (with a slight increase to 0.3 in 2018, which dropped back down to 0.28 in 2019 which is the last year we have data for). This suggests that The Lullaby Trust’s work is not further reducing the rate of SIDS in the UK. With an average direct spend on research of just over £90,000 between 2014 to 2019 and no reduction in the SIDS rate (i.e. no lives saved) in the same period, this does not meet our Gold Standard of £5,000 per life saved. Even if the rate had reduced we could not be sure to accredit all the lives saved to The Lullaby Trust, as they are not the only organisation providing information on SIDS in the UK, the other main obvious provider being the NHS. Of course, we do understand that research benefits from funding could come at a later date eg. discovering a gene associated with SIDS and working out how to use that information to save lives isn’t instantaneous but given the lack of research being funded we are still sceptical about such discoveries.\n \nOne factor worth mentioning is that because The Lullaby Trust are concerned with saving babies’ lives, they are therefore saving many years of life lost due to premature mortality in comparison to, for example, bowel cancer, which predominantly affects older people. The global burden of a disease can be measured in disability-adjusted life years (DALYs). One DALY represents the loss of the equivalent of one year of full or perfect health; see [this WHO page](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) for more details. Compared to charities which work to improve the lives of people with disease that predominantly affect people in later stages of life, The Lullaby Trust would therefore have averted more DALY’s. For example one life saved by the Lullaby Trust will typically avert more DALY’s than one life saved by Bowel Cancer UK.\n\nAlthough they are a UK based charity, any medical breakthroughs discovered due to research they fund or advice around reducing SIDS risk factors published online has the potential to have implications worldwide. [This review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683278/) published in 2016, reports the global incidence of SIDS in 2013 as around 15,000 deaths. The review explains that in developing countries there is incomplete data on the incidence of SIDS, that most of the risk factors of SIDS (for example preceding infectious illnesses, low birth weights and a low socioeconomic class) are common in developing countries, and that there is a lack of awareness of the disease. So, even though discoveries could have a global effect, it is also plausible that better education of known risks around SIDS and research into the prevalence of disease in developing countries could have greater impact than any further discoveries resulting from funding extra research.\n\n*Support and Information* \n\nThe Lullaby Trust spent 84% of their charitable expenditure (£1 million of non-project adjusted costs) on support and information in 2021. When considering The Lullaby Trust’s work providing bereavement support to families we could theoretically compare this to our benchmark of £200 to alleviate one year of severe depression but we would need a breakdown of costs associated with the bereavement support and an outline of the outputs produced by their direct bereavement work. As The Lullaby Trust have only detailed their financial information for the Care of Next Infant Programme (CONI), rather than their wider bereavement support, it is difficult for us to compare them to our Gold Standard. The CONI programme provides emotional and practical support throughout pregnancy and the early months of the baby’s life to families who have previously experienced an unexpected sudden death of a baby. The Lullaby Trust facilitated the programme and spent £103,000 (non-project adjusted costs) to support 871 families as well as spending £42,500 (non-project adjusted costs) on monitors and sundry equipment. However, it is clear from their website that The Lullaby Trust partners with healthcare providers and much of the support is provided through health visitors, midwives, paediatricians and GP’s. The Lullaby Trust haven’t provided information on the costs contributed by these healthcare providers therefore we can not determine how much of this support can be attributed to the The Lullaby Trust and compare them to our Gold Standard. If The Lullaby Trust did provide a breakdown of costs for their bereavement support projects to determine the exact impact on beneficiaries mental health and wellbeing we would still need to see strong evidence for this, for example questionnaires on patient wellbeing, such as a PHQ - 9, with patient follow ups. \n\nFurther information that would lead us to reevaluate The Lullaby Trust and their rating would include: \n\n- A more detailed financial overview including a breakdown of project expenditure and how much was contributed by partners, such as healthcare providers.For example, details of costs associated with their bereavement project, or for their training programmes.\n- Details of the charity’s future research plans and how much NHS and government funding will be contributed to SIDS research. Also outcomes from past research they have funded.\n- A publication produced by The Lullaby Trust, which measures the impact of their direct work through their various programmes, for example by using wellbeing surveys.\n- An analysis of the organisations providing advice, support and funding around SIDS. This would enable us to determine what would have happened if The Lullaby Trust didn’t exist i.e. would the same level or information been provided around SIDS by the NHS.\n- A fuller analysis would also assess management capability. For example, this would involve assessing The Lullaby Trust’s capabilities around Monitoring, Evaluation and Learning to ensure they are learning from their mistakes, and understanding how the leadership sets strategy and selects projects; in particular, how does the charity incorporate cost-effectiveness thinking into its strategic decisions.\n\nFor more information on how we would conduct cost-effectiveness analysis of their research work if they provided more data on outputs under our 3 question method please click [here.](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?q\u003dresearch\u0026view\u003dsidebar)\n\nFor more information on how we define our Gold, Silver, and Bronze ratings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n**Conclusion**\n\nBased on the above, we rate The Lullaby Trust as Not Recommended (Firm) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We have no indication of cost-effectiveness, or we do not judge those indications to be promising",
+  "suggest": [
+    "The Lullaby Trust",
+    "the-lullaby-trust"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-lullaby-trust",
+      "name": "Babies lives saved per year",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 16190690,
+        "value": "1619.0690690690690674500"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.lullabytrust.org.uk/",
+  "whyTags": "Children",
+  "howTags": "Direct Work, Research, Grants to Organisations, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Babies lives saved per year",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 16190690,
+      "value": "1619.0690690690690674500"
+    }
+  },
+  "ready": true,
+  "name": "The Lullaby Trust",
+  "logo": "https://media.good-loop.com/uploads/raw/50th-anniversary-logo-website-landing-page-9653000808078453721.jpeg",
+  "@id": "the-lullaby-trust",
+  "id": "the-lullaby-trust",
+  "englandWalesCharityRegNum": "262191",
+  "summaryDescription": "The Lullaby Trust raises awareness of sudden infant death syndrome (SIDS), provides advice on safer sleep for babies and offers emotional support for bereaved families.",
+  "whereTags": "England, Wales and Northern Ireland",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
