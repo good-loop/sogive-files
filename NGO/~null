@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Terrance Higgins Trust",
   "id": "terrance-higgins-trust",
-  "suggest": []
+  "suggest": [
+    "Terrance Higgins Trust"
+  ],
+  "status": "DRAFT"
 }
