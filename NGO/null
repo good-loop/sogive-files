@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Terrance Higgins Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_6-301562784957715972.svg#ccrop:65",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_6-301562784957715972.svg#ccrop:_ccrop:150",
   "id": "terrance-higgins-trust",
   "suggest": [
     "Terrance Higgins Trust"
   ],
   "url": "https://www.tht.org.uk/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
