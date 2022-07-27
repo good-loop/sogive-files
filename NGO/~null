@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Global Sustainable Tourism Council",
   "id": "global-sustainable-tourism-council",
-  "suggest": []
+  "suggest": [
+    "Global Sustainable Tourism Council"
+  ],
+  "status": "DRAFT"
 }
