@@ -349,6 +349,255 @@
         }
       ],
       "name": "Emergency Response"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1050000000",
+          "currency": "GBP",
+          "value100p": 1.05E13,
+          "value": 1.05E9
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 315000.0,
+          "name": "People helped"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "138000000",
+          "currency": "GBP",
+          "value100p": 1.38E12,
+          "value": 1.38E8
+        }
+      ],
+      "name": "Family strengthening programs"
+    },
+    {
+      "outputs": [
+        {
+          "number": 199000.0,
+          "name": "children and young people educated"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "161000000",
+          "currency": "GBP",
+          "value100p": 1.61E12,
+          "value": 1.61E8
+        }
+      ],
+      "name": "Education"
+    },
+    {
+      "outputs": [
+        {
+          "number": 270000.0,
+          "name": "people helped"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14000000",
+          "currency": "GBP",
+          "value100p": 1.4E11,
+          "value": 1.4E7
+        }
+      ],
+      "name": "Healthcare"
+    },
+    {
+      "outputs": [
+        {
+          "number": 240000.0,
+          "name": "people helped"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "13000000",
+          "currency": "GBP",
+          "value100p": 1.3E11,
+          "value": 1.3E7
+        }
+      ],
+      "name": "Emergency response"
+    },
+    {
+      "outputs": [
+        {
+          "number": 66000.0,
+          "name": "children provided a home"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sos-childrensvillages.org/getmedia/db70e00b-4335-44db-8697-a001f7a318cd/SOS-CVI-Facts-Figures2020-WEB.pdf"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "675000000",
+          "currency": "GBP",
+          "value100p": 6.75E12,
+          "value": 6.75E8
+        }
+      ],
+      "name": "Care and accommodation for children",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -359,7 +608,7 @@
   "imageCaption": "Women and Children waiting outside the SOS Children\u0027s Villages mobile medical bus in Zambia ",
   "ready": false,
   "modified": false,
-  "logo": "data:image/jpeg;base64,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\u003d\u003d",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-sos-3642886687889489265.svg#ccrop:90",
   "@id": "sos-children-s-village",
   "wikipedia": "https://en.wikipedia.org/wiki/SOS_Children%27s_Villages",
   "summaryDescription": "SOS Children\u0027s Villages is the world\u0027s largest charity working with orphaned and abandoned children.",
@@ -373,12 +622,34 @@
     "SOS Children\u0027s Villages",
     "sos-children-s-village"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sos-children-s-village",
+      "name": "children provided a home",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 102272727,
+        "value": "10227.272727272726925000000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.soschildrensvillages.org.uk",
   "howTags": "Direct Work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2018.0]"
+    "name": "children provided a home",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 102272727,
+      "value": "10227.272727272726925000000"
+    }
   },
   "meta": {
     "ready": {
