@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Trees That Count",
   "id": "trees-that-count",
-  "suggest": []
+  "suggest": [
+    "Trees That Count"
+  ],
+  "status": "DRAFT"
 }
