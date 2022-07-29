@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "UN DP",
   "logo": "https://media.good-loop.com/uploads/standard/United-Nations-Development-Programme-UNDP-18074353356358585030.jpg#ccrop:101",
   "id": "united-nations-dp",
-  "suggest": [],
+  "suggest": [
+    "UN DP"
+  ],
   "status": "MODIFIED"
 }
