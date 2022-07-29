@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
-  "name": "Global Sustainable Tourism Council",
-  "logo": "https://media.good-loop.com/uploads/standard/GSTC__wb__logo__retina-3698103607620004813.png#ccrop:93",
-  "id": "global-sustainable-tourism-council",
+  "displayName": "Trees That Count",
+  "logo": "https://media.good-loop.com/uploads/standard/brand-1815765294741421582.svg#ccrop:95",
+  "id": "trees-that-count",
   "suggest": [
-    "Global Sustainable Tourism Council"
+    "Trees That Count"
   ],
+  "url": "https://www.treesthatcount.co.nz/",
   "status": "DRAFT"
 }
