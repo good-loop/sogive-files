@@ -2,16 +2,16 @@
   "circleCrop": 85.0,
   "@type": "NGO",
   "displayName": "",
-  "name": "Ocean",
+  "name": "Plastic",
   "description": "Deaf Kids Code promotes technology, computer science, and design thinking skills as an innovative tool to empower deaf/ hard of hearing students socially and economically.\n\n ",
   "logo": "https://media.good-loop.com/uploads/raw/deaf__kids__code-7195518108982693442.png",
   "@id": "deaf-kids-code",
   "suggest": [
-    "Ocean",
+    "Plastic",
     "",
     "deaf-kids-code"
   ],
   "id": "deaf-kids-code",
   "url": "https://www.deafkidscode.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
