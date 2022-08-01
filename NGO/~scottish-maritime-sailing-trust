@@ -1,0 +1,13 @@
+{
+  "scotlandCharityRegNum": "SC019997",
+  "@type": "NGO",
+  "name": "WWF",
+  "@id": "scottish-maritime-sailing-trust",
+  "suggest": [
+    "WWF",
+    "scottish-maritime-sailing-trust"
+  ],
+  "url": "www.scottishmaritimesailingtrust.org",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
