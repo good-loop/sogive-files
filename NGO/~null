@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "UN DP",
-  "logo": "https://media.good-loop.com/uploads/standard/United-Nations-Development-Programme-UNDP-18074353356358585030.jpg#ccrop:101",
-  "id": "united-nations-dp",
+  "displayName": "international-aids-society",
+  "parentCharity": "international-aids-society",
+  "name": "International Aids Society",
+  "logo": "https://media.good-loop.com/uploads/standard/unnamed-4484508365603556277.jpg",
+  "id": "a",
   "suggest": [
-    "UN DP"
+    "International Aids Society",
+    "international-aids-society"
   ],
   "status": "PUBLISHED"
 }
