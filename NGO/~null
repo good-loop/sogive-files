@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "Cultivate Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/download_6-12451691971322040432.jpg#ccrop:90",
-  "id": "cultivate-foundation",
+  "displayName": "Ocean Cleanup",
+  "name": "Ocean Clean",
+  "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:110",
+  "id": "ocean-cleanup",
   "suggest": [
-    "Cultivate Foundation"
+    "Ocean Clean",
+    "Ocean Cleanup"
   ],
+  "url": "https://theoceancleanup.com/",
   "status": "DRAFT"
 }
