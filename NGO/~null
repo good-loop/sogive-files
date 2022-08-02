@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Australian Childrens Charity",
   "name": "Australian Childrens Charity",
   "id": "australian-childrens-charity",
   "suggest": [
+    "Australian Childrens Charity",
     "Australian Childrens Charity"
   ],
   "status": "DRAFT"
