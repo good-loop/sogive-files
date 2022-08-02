@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Ocean Cleanup",
-  "name": "The Ocean Clean",
+  "name": "The Ocean Cleanup",
   "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:110",
   "id": "ocean-cleanup",
   "suggest": [
-    "The Ocean Clean",
+    "The Ocean Cleanup",
     "Ocean Cleanup"
   ],
   "url": "https://theoceancleanup.com/",
