@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Ocean Cleanup",
-  "name": "Marine Conservation",
-  "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:110",
-  "id": "ocean-cleanup",
-  "suggest": [
-    "Marine Conservation",
-    "Ocean Cleanup"
-  ],
-  "url": "https://theoceancleanup.com/",
-  "status": "DRAFT"
+  "id": "australian-childrens-charity",
+  "suggest": []
 }
