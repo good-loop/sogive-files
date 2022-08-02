@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Australian Childrens Charity",
   "id": "australian-childrens-charity",
-  "suggest": []
+  "suggest": [
+    "Australian Childrens Charity"
+  ],
+  "status": "DRAFT"
 }
