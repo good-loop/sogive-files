@@ -1,13 +1,13 @@
 {
   "scotlandCharityRegNum": "SC019997",
   "@type": "NGO",
-  "name": "",
+  "name": "The Ocean Cleanup",
   "@id": "scottish-maritime-sailing-trust",
   "suggest": [
-    "",
+    "The Ocean Cleanup",
     "scottish-maritime-sailing-trust"
   ],
   "url": "www.scottishmaritimesailingtrust.org",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
