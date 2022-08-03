@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Ocean Cleanup",
-  "name": "The Ocean Cleanup",
-  "logo": "https://media.good-loop.com/uploads/standard/ocean_cleanup-16836069924032067546.png#ccrop:110",
-  "id": "ocean-cleanup",
+  "displayName": "Australian Childrens Charity",
+  "name": "Australian Childrens Charity",
+  "logo": "https://media.good-loop.com/uploads/standard/the-smith-family-logo-mobile-207-3484741075558753267.png#ccrop:88",
+  "id": "australian-childrens-charity",
   "suggest": [
-    "The Ocean Cleanup",
-    "Ocean Cleanup"
+    "Australian Childrens Charity",
+    "Australian Childrens Charity"
   ],
-  "url": "https://theoceancleanup.com/",
-  "status": "DRAFT"
+  "url": "https://www.thesmithfamily.com.au/",
+  "status": "PUBLISHED"
 }
