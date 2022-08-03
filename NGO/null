@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "Cultivate Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/download_6-12451691971322040432.jpg#ccrop:90",
-  "id": "cultivate-foundation",
+  "displayName": "Australian Childrens Charity",
+  "name": "Australian Childrens Charity",
+  "logo": "https://media.good-loop.com/uploads/standard/the-smith-family-logo-mobile-207-3484741075558753267.png#ccrop:88",
+  "id": "australian-childrens-charity",
   "suggest": [
-    "Cultivate Foundation"
+    "Australian Childrens Charity",
+    "Australian Childrens Charity"
   ],
-  "status": "DRAFT"
+  "url": "https://www.thesmithfamily.com.au/",
+  "status": "MODIFIED"
 }
