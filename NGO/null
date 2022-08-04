@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Australian Childrens Charity",
-  "name": "Australian Childrens Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/the-smith-family-logo--2843742728436701760.png",
-  "id": "australian-childrens-charity",
+  "displayName": "The Nature Conservancy Canada",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_10-7845505107749162601.png#ccrop:90",
+  "id": "the-nature-conservancy-canada",
   "suggest": [
-    "Australian Childrens Charity",
-    "Australian Childrens Charity"
+    "The Nature Conservancy Canada"
   ],
-  "url": "https://www.thesmithfamily.com.au/",
+  "url": "https://www.natureconservancy.ca/en/",
   "status": "DRAFT"
 }
