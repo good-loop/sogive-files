@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
   "id": "the-nature-conservancy-canada",
-  "suggest": []
+  "suggest": [],
+  "url": "",
+  "status": "DRAFT"
 }
