@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "The Nature Conservancy ",
+  "displayName": "The Nature Conservancy Canada",
   "logo": "https://media.good-loop.com/uploads/standard/logo_10-7845505107749162601.png#ccrop:90",
   "id": "the-nature-conservancy-canada",
   "suggest": [
-    "The Nature Conservancy "
+    "The Nature Conservancy Canada"
   ],
   "url": "https://www.natureconservancy.ca/en/",
   "status": "DRAFT"
