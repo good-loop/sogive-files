@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Compass Children\u0027s Charity",
   "id": "compass-childrens-charity",
-  "suggest": [],
+  "suggest": [
+    "Compass Children\u0027s Charity"
+  ],
   "status": "DRAFT"
 }
