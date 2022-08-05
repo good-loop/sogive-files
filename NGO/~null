@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Asociacion Mexicana de Bancos de Alimentos",
   "name": "Asociacion Mexicana de Bancos de Alimentos",
-  "logo": "https://media.good-loop.com/uploads/standard/75-756174__bamx-bancos-de-alimentos-de-mxico-banco-de-13959650607344115002.png",
+  "logo": "https://media.good-loop.com/uploads/standard/PngItem__756174-12062829932351860386.png",
   "id": "asociacion-mexicana-de-bancos-de-alimentos",
   "suggest": [
     "Asociacion Mexicana de Bancos de Alimentos",
     "Asociacion Mexicana de Bancos de Alimentos"
   ],
   "url": "https://bamx.org.mx/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
