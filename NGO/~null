@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Mexico_logo4x-17039635116286342178.png",
   "id": "asociacion-mexicana-de-bancos-de-alimentos",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
