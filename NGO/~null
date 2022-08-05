@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/namm-logo-11111887905328059005.png",
+  "name": "NAMM Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/namm-foundation-meta-5294995720609263280.jpg#ccrop:153",
   "id": "namm-foundation",
-  "suggest": [],
-  "status": "DRAFT"
+  "suggest": [
+    "NAMM Foundation"
+  ],
+  "status": "PUBLISHED"
 }
