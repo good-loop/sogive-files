@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "NAMM Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/NAMMM-3288058517809485369.png#ccrop:139",
-  "id": "namm-foundation",
-  "suggest": [
-    "NAMM Foundation"
-  ],
-  "status": "DRAFT"
+  "id": "compass-childrens-charity",
+  "suggest": []
 }
