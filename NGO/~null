@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Center for Independence of the Disabled",
   "id": "center-for-independence-of-the-disabled",
-  "suggest": []
+  "suggest": [
+    "Center for Independence of the Disabled"
+  ],
+  "status": "DRAFT"
 }
