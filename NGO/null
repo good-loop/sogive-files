@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "CIDNY",
   "name": "Center for Independence of the Disabled, NY",
-  "logo": "https://media.good-loop.com/uploads/standard/6910883-logo-9438602071084830174.jpg#ccrop:85",
+  "logo": "https://media.good-loop.com/uploads/standard/6910883-logo-9438602071084830174.jpg#ccrop:79",
   "id": "center-for-independence-of-the-disabled",
   "suggest": [
     "Center for Independence of the Disabled, NY",
     "CIDNY"
   ],
   "url": "https://www.cidny.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
