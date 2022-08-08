@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Together For Future",
-  "logo": "https://media.good-loop.com/uploads/standard/TogetherForFuture__Logo-3148751626920969597.png#ccrop:90",
-  "id": "together-for-future",
+  "displayName": "Hande Fur Kinder",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_11-7358556568772203713.png#ccrop:95",
+  "id": "haende-fur-kinder",
   "suggest": [
-    "Together For Future"
+    "Hande Fur Kinder"
   ],
-  "url": "https://togetherforfuture.org/",
+  "url": "https://haendefuerkinder.de/",
   "status": "DRAFT"
 }
