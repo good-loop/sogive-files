@@ -1,0 +1,553 @@
+{
+  "scotlandCharityRegNum": "SCO39263",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1021-14977188601448713297.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "raw": "50617000",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 5.0617E11,
+          "value": 5.0617E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "raw": "",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z"
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "raw": "",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z"
+        }
+      ],
+      "start": "2016-04-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20170331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2016-04-01",
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Dan Artus",
+      "end": "2017-03-31",
+      "location": "",
+      "end_raw": "2017-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "46020000",
+          "currency": "GBP",
+          "value100p": 4.602E11,
+          "value": 4.602E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1965000",
+        "currency": "GBP",
+        "value100p": 1.965E10,
+        "value": 1965000.0
+      },
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4300000",
+          "currency": "GBP",
+          "value100p": 4.3E10,
+          "value": 4300000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Supporting our activities"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3000000",
+          "currency": "GBP",
+          "value100p": 3.0E10,
+          "value": 3000000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Regional implementation"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "863000",
+          "currency": "GBP",
+          "value100p": 8.63E9,
+          "value": 863000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Fundraising"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1900000",
+          "currency": "GBP",
+          "value100p": 1.9E10,
+          "value": 1900000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Developing partnerships"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2100000",
+          "currency": "GBP",
+          "value100p": 2.1E10,
+          "value": 2100000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Research and monitoring"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6000000",
+          "currency": "GBP",
+          "value100p": 6.0E10,
+          "value": 6000000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Working with children and communities"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3700000",
+          "currency": "GBP",
+          "value100p": 3.7E10,
+          "value": 3700000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Design and engineering"
+    },
+    {
+      "outputs": [
+        {
+          "number": 8000.0,
+          "name": "health condition(s) averted",
+          "description": "This refers to serious long-term health conditions\naverted by walking and cycling on\nthe National Cycle Network"
+        },
+        {
+          "number": 16500.0,
+          "name": "mile(s) of cycle network maintained",
+          "description": "Number of miles of the National Cycle Network that Sustrans maintain."
+        },
+        {
+          "number": 574.0,
+          "name": "early death(s) prevented",
+          "description": "This refers to early deaths prevented as a result of\nwalking and cycling on the Network"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "23800000",
+          "currency": "GBP",
+          "value100p": 2.38E11,
+          "value": 2.38E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Source of project cost figure is p15 of accounts https://apps.charitycommission.gov.uk/Accounts/Ends50/0000326550_AC_20190331_E_C.pdf"
+        }
+      },
+      "name": "Developing and looking after the Network"
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "recommendation": "**To evaluate Sustrans under the SoGive rating methodology, we would need more information.**\n\nSustrans helps maintain and adjust existing bicycle paths and engineer and build new ones. They promote a healthy lifestyle with sufficient exercise and campaign for better conditions for cyclists and other bicycle paths users around the UK.\n\n\n\n**More about what Sustrans does**\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis, or form opinions about their work under the SoGive methodology.\n\nThis is because in their annual report, Sustrans does not allocate their expenditure to individual projects, only to areas (England, Wales,...) and type (support costs, fundraising, National Cycle Network maintenance).\nHowever, this is understandable, because Sustrans mostly works in cooperation with other entities, local authorities included. Their work constitutes of hundreds of varying contributions to individual projects that further the mission of Sustrans Limited.\n\n**Benchmarking**\n\nHaving reviewed the work of Sustrans under the two-question method, the next step in the SoGive process is to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nIn performing the comparison, we have focused on the maintenance and development of the National Cycle Network. which is the main Sustrans project.\nBased on the information from the 2019 annual report, we understand that it may cost around £1,500 to maintain one mile of the network. However, this project constitutes around a half of Sustrans\u0027 charitable activities, as per the March 2019 accounts. It\u0027s possible that the impact of the marginal pound donated to the Sustrans could be related to campaigning, lobbying or some other Sustrans project, which could have a different level of impactfulness compared to the National Cycle Network maintenance we have evaluated. We cannot provide the cost-effectiveness assessment for a donated pound allocated to other Sustrans projects.\n\nSustrans also claims that approximately 8,000 serious long-term health conditions have been averted by walking and cycling on the National Cycle Network and approximately £1 billion has been saved through the prevention of 574 early deaths as a result of walking and cycling on the Network. Sustrans maintains the NCN since 1995. \n\n\n**Conclusion**\n\nWe believe that one mile of the National Cycle Network maintained is likely to be less positive an outcome than saving someone\u0027s life.\n\nFurther information that would enable us to form a fuller opinion of the work of Sustrans would be:\n(a) more comprehensive picture of the costs involved in delivering their work\n(b) more comprehensive impact assessments, both in quantity and depth",
+  "description": "Sustrans  encourage active travel (cycling, walking or scooting) among students. It also works with employers and local authorities. It administers several thousand volunteers who contribute their time to the charity in numerous ways, such as cleaning and maintaining the National Cycle Network, enhancing biodiversity along the routes, leading walks and rides and supporting communities to improve their air quality.",
+  "suggest": [
+    "Sustrans",
+    "sustrans"
+  ],
+  "url": "https://www.sustrans.org.uk/",
+  "whyTags": "Environment, Health",
+  "howTags": "Direct Work; Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Sustrans",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-12980567002065423339.jpg",
+  "@id": "sustrans",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sustrans",
+  "summaryDescription": "Charity promoting sustainable travel and public health by supporting people, communities and organisations to travel by foot, bike or public transport across the UK.",
+  "englandWalesCharityRegNum": "326550",
+  "whereTags": "England, Wales, Scotland, Northern Ireland",
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
