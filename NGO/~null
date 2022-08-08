@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Active Philanthropy",
-  "logo": "https://media.good-loop.com/uploads/standard/download_6-12772583185325934627.png#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/activephilloog-724339680694174478.jpg#ccrop:90",
   "id": "active-philantropy",
   "suggest": [
     "Active Philanthropy"
   ],
   "url": "https://www.activephilanthropy.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
