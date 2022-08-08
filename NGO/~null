@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "Hande Fur Kinder",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/download_6-12637162977168352838.png",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_11-3757740600570908288.png#ccrop:90",
   "id": "haende-fur-kinder",
   "suggest": [
     "Hande Fur Kinder"
   ],
   "url": "https://haendefuerkinder.de/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
