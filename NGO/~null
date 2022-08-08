@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Rspca",
   "name": "Rspca - cats",
   "id": "rspca-supporting-cats",
   "suggest": [
-    "Rspca - cats"
+    "Rspca - cats",
+    "Rspca"
   ],
   "status": "DRAFT"
 }
