@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "CIDNY",
   "name": "Center for Independence of the Disabled, NY",
   "id": "center-for-independence-of-the-disabled",
   "suggest": [
-    "Center for Independence of the Disabled, NY"
+    "Center for Independence of the Disabled, NY",
+    "CIDNY"
   ],
   "url": "https://www.cidny.org/",
   "status": "DRAFT"
