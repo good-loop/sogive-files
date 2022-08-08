@@ -1,14 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Rspca-cats-dogs",
-  "unlisted": true,
-  "name": "Rspca-cats-dogs",
-  "logo": "https://media.good-loop.com/uploads/standard/rspca-catsdogs-9454390242891504591.png",
-  "id": "rspca-cats-dogs",
+  "displayName": "CIDNY",
+  "name": "Center for Independence of the Disabled, NY",
+  "logo": "https://media.good-loop.com/uploads/standard/6910883-logo-9438602071084830174.jpg#ccrop:85",
+  "id": "center-for-independence-of-the-disabled",
   "suggest": [
-    "Rspca-cats-dogs",
-    "Rspca-cats-dogs"
+    "Center for Independence of the Disabled, NY",
+    "CIDNY"
   ],
-  "url": "https://www.purina.co.uk/",
+  "url": "https://www.cidny.org/",
   "status": "DRAFT"
 }
