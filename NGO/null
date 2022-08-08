@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "CIDNY",
-  "name": "Center for Independence of the Disabled, NY",
-  "logo": "https://media.good-loop.com/uploads/standard/6910883-logo-9438602071084830174.jpg#ccrop:66",
-  "id": "center-for-independence-of-the-disabled",
+  "displayName": "Together For Future",
+  "logo": "https://media.good-loop.com/uploads/standard/TogetherForFuture__Logo-3148751626920969597.png#ccrop:90",
+  "id": "together-for-future",
   "suggest": [
-    "Center for Independence of the Disabled, NY",
-    "CIDNY"
+    "Together For Future"
   ],
-  "url": "https://www.cidny.org/",
-  "status": "MODIFIED"
+  "url": "https://togetherforfuture.org/",
+  "status": "DRAFT"
 }
