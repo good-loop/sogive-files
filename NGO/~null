@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Active Philanthropy",
-  "logo": "https://media.good-loop.com/uploads/standard/activephilloog-724339680694174478.jpg#ccrop:90",
-  "id": "active-philantropy",
+  "displayName": "Hande Fur Kinder",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/download_6-12637162977168352838.png",
+  "id": "haende-fur-kinder",
   "suggest": [
-    "Active Philanthropy"
+    "Hande Fur Kinder"
   ],
-  "url": "https://www.activephilanthropy.org/",
+  "url": "https://haendefuerkinder.de/",
   "status": "PUBLISHED"
 }
