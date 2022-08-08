@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Supporting Cats",
+  "unlisted": true,
   "id": "supporting-cats",
   "suggest": [
     "Supporting Cats"
