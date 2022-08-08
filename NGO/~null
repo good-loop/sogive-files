@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "Active Philantropy",
+  "displayName": "Active Philanthropy",
   "id": "active-philantropy",
   "suggest": [
-    "Active Philantropy"
+    "Active Philanthropy"
   ],
   "status": "DRAFT"
 }
