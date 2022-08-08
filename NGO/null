@@ -1,13 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "Asociacion Mexicana de Bancos de Alimentos",
-  "name": "Asociacion Mexicana de Bancos de Alimentos",
-  "logo": "https://media.good-loop.com/uploads/standard/PngItem__756174-12062829932351860386.png#ccrop:90",
-  "id": "asociacion-mexicana-de-bancos-de-alimentos",
+  "displayName": "Rspca - cats",
+  "unlisted": true,
+  "name": "Rspca - cats",
+  "logo": "https://media.good-loop.com/uploads/standard/rspca-cats-10077112664593889659.png",
+  "id": "rspca-supporting-cats",
   "suggest": [
-    "Asociacion Mexicana de Bancos de Alimentos",
-    "Asociacion Mexicana de Bancos de Alimentos"
+    "Rspca - cats",
+    "Rspca - cats"
   ],
-  "url": "https://bamx.org.mx/",
+  "url": "https://www.purina.co.uk/",
   "status": "DRAFT"
 }
