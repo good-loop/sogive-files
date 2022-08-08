@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Rspca-dogs",
+  "displayName": "Rspca-cats-dogs",
   "unlisted": true,
-  "name": "Rspca-dogs",
-  "logo": "https://media.good-loop.com/uploads/standard/rspca-dogs-3381538694205032561.png",
-  "id": "rspca-supporting-dogs",
+  "name": "Rspca-cats-dogs",
+  "logo": "https://media.good-loop.com/uploads/standard/rspca-catsdogs-9454390242891504591.png",
+  "id": "rspca-cats-dogs",
   "suggest": [
-    "Rspca-dogs",
-    "Rspca-dogs"
+    "Rspca-cats-dogs",
+    "Rspca-cats-dogs"
   ],
   "url": "https://www.purina.co.uk/",
   "status": "DRAFT"
