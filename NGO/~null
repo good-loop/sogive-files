@@ -1,12 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "Hande Fur Kinder",
+  "displayName": "Rspca-cats-dogs",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/logo_11-3757740600570908288.png#ccrop:90",
-  "id": "haende-fur-kinder",
+  "name": "Rspca-cats-dogs",
+  "logo": "https://media.good-loop.com/uploads/standard/rspca-cats-dogs-12053153444213385412.png",
+  "id": "rspca-cats-dogs",
   "suggest": [
-    "Hande Fur Kinder"
+    "Rspca-cats-dogs",
+    "Rspca-cats-dogs"
   ],
-  "url": "https://haendefuerkinder.de/",
-  "status": "MODIFIED"
+  "url": "https://www.purina.co.uk/",
+  "status": "PUBLISHED"
 }
