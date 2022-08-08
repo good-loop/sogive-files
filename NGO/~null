@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Rspca-cats-dogs",
+  "unlisted": true,
   "name": "Rspca-cats-dogs",
   "id": "rspca-cats-dogs",
   "suggest": [
