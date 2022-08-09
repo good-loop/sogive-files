@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Earth Percent",
   "id": "earth-percent",
-  "suggest": []
+  "suggest": [
+    "Earth Percent"
+  ],
+  "status": "DRAFT"
 }
