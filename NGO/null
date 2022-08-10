@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Earth Percent",
-  "logo": "https://media.good-loop.com/uploads/standard/earth-percent-11190164681504748827.jpg#ccrop:95",
-  "id": "earth-percent",
+  "displayName": "Care Denmark",
+  "name": "Care Denmark",
+  "logo": "https://media.good-loop.com/uploads/standard/care-15121681369438957335.svg",
+  "id": "denmark-care",
   "suggest": [
-    "Earth Percent"
+    "Care Denmark",
+    "Care Denmark"
   ],
-  "url": "https://earthpercent.org/",
   "status": "DRAFT"
 }
