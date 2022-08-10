@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Care Denmark",
+  "name": "Care Denmark",
   "id": "denmark-care",
-  "suggest": []
+  "suggest": [
+    "Care Denmark",
+    "Care Denmark"
+  ],
+  "status": "DRAFT"
 }
