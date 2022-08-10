@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Stop Spild Denmark",
+  "name": "Stop Spild Denmark",
   "id": "stop-spild-denmark",
-  "suggest": []
+  "suggest": [
+    "Stop Spild Denmark",
+    "Stop Spild Denmark"
+  ],
+  "status": "DRAFT"
 }
