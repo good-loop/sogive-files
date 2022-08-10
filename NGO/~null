@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Oak Foundation Denmark",
+  "name": "Oak Foundation Denmark",
   "id": "oak-foundation-denmark",
-  "suggest": []
+  "suggest": [
+    "Oak Foundation Denmark",
+    "Oak Foundation Denmark"
+  ],
+  "status": "DRAFT"
 }
