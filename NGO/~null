@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Care Denmark",
-  "name": "Care Denmark",
-  "logo": "https://media.good-loop.com/uploads/standard/care-15121681369438957335.svg",
-  "id": "denmark-care",
-  "suggest": [
-    "Care Denmark",
-    "Care Denmark"
-  ],
-  "status": "DRAFT"
+  "id": "stop-spild-denmark",
+  "suggest": []
 }
