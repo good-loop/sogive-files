@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "My Right",
-  "logo": "https://media.good-loop.com/uploads/standard/Myright__logo__no__text__bredvid-600x178-17975501958848910924.png#ccrop:90",
-  "id": "my-right",
+  "displayName": "Stop Spild Denmark",
+  "name": "Stop Spild Denmark",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-17478798732640432246.png#ccrop:70",
+  "id": "stop-spild-denmark",
   "suggest": [
-    "My Right"
+    "Stop Spild Denmark",
+    "Stop Spild Denmark"
   ],
-  "url": "https://myright.se/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
