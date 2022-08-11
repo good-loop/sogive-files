@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "The Bee Conservancy",
   "name": "The Bee Conservancy",
   "id": "the-bee-conservancy",
   "suggest": [
+    "The Bee Conservancy",
     "The Bee Conservancy"
   ],
   "status": "DRAFT"
