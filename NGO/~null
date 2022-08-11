@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "The Bee Conservancy",
   "name": "The Bee Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/The_Bee_Conservancy-18172527588036994767.jpg#ccrop:154",
+  "logo": "https://media.good-loop.com/uploads/standard/Picture6-3003790015649287768.png",
   "id": "the-bee-conservancy",
   "suggest": [
     "The Bee Conservancy",
     "The Bee Conservancy"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
