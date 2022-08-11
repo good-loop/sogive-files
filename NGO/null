@@ -1,14 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/B2022-United-By-Playground-Photo-9574207604120867681.jpg",
-  "headerImage": "https://media.good-loop.com/uploads/standard/B2022-United-By-Playground-Photo-15285646832649330570.jpg",
   "@type": "NGO",
-  "displayName": "United by 22",
-  "logo": "https://media.good-loop.com/uploads/standard/o0OIjC__p__400x400-16629361098034183755.jpg",
-  "id": "united-by-22-",
+  "displayName": "The Bee Conservancy",
+  "name": "The Bee Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/EkOFjH1WAAIA8zR-12347024520426459063.jpg",
+  "id": "the-bee-conservancy",
   "suggest": [
-    "United by 22"
+    "The Bee Conservancy",
+    "The Bee Conservancy"
   ],
-  "summaryDescription": "United by 2022 is the legacy charity for the Birmingham 2022 Commonwealth Games - established so legacy doesn’t stop when the Games does. United By 2022 is building a community fund that will continue to invest in the region after the Games and wants to empower people to solve challenges on their doorstep, champion fairness and inclusivity, and ensure communities gain full use of the Games’ venues and assets.",
-  "url": "https://www.birmingham2022.com/united/legacy-charity",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
