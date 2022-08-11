@@ -1,18 +1,19 @@
 {
   "circleCrop": 90.0,
+  "images": "https://media.good-loop.com/uploads/standard/two-people-talking-in-an-office-2-13807590611664442662.jpg",
   "@type": "NGO",
   "displayName": "mind",
-  "name": "mind",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg#ccrop:90",
   "description": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
-  "@id": "mind",
   "suggest": [
     "mind",
     "mind",
     "mind"
   ],
+  "url": "https://www.mind.org.uk/",
+  "name": "mind",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg#ccrop:90",
+  "@id": "mind",
   "id": "mind",
   "summaryDescription": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
-  "url": "https://www.mind.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
