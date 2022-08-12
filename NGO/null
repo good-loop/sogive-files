@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
+  "displayName": "Pledge Hobby",
   "unlisted": true,
-  "displayName": "chat to a friend",
-  "name": "chat to a friend",
-  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge3-4851084102093713774.png",
-  "id": "pledge-chat",
+  "name": "Pledge Hobby",
+  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge2-11640773381684335738.png",
+  "id": "pledge-hobby",
   "suggest": [
-    "chat to a friend",
-    "chat to a friend"
+    "Pledge Hobby",
+    "Pledge Hobby"
   ],
   "status": "DRAFT"
 }
