@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Exercise",
+  "unlisted": true,
   "name": "Exercise",
   "id": "pledge-exercise",
   "suggest": [
