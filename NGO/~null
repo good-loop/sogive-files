@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Pledge Hobby",
   "name": "Pledge Hobby",
   "id": "pledge-hobby",
   "suggest": [
+    "Pledge Hobby",
     "Pledge Hobby"
   ],
   "status": "DRAFT"
