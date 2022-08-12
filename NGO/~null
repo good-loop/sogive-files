@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "chat to a friend",
-  "name": "chat to a friend",
-  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge3-4851084102093713774.png",
-  "id": "pledge-chat",
-  "suggest": [
-    "chat to a friend",
-    "chat to a friend"
-  ],
-  "status": "DRAFT"
+  "id": "pledge-hobby",
+  "suggest": []
 }
