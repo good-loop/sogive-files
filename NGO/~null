@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "chat to a friend",
   "name": "chat to a friend",
   "id": "pledge-chat",
   "suggest": [
+    "chat to a friend",
     "chat to a friend"
   ],
   "status": "DRAFT"
