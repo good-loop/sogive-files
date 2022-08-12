@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Exercise",
   "unlisted": true,
-  "name": "Exercise",
-  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge-16099335404019045424.png",
-  "id": "pledge-exercise",
+  "displayName": "chat to a friend",
+  "name": "chat to a friend",
+  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge3-4851084102093713774.png",
+  "id": "pledge-chat",
   "suggest": [
-    "Exercise",
-    "Exercise"
+    "chat to a friend",
+    "chat to a friend"
   ],
   "status": "DRAFT"
 }
