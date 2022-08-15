@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Ligue Braille",
   "id": "ligue-braille",
-  "suggest": [],
+  "suggest": [
+    "Ligue Braille"
+  ],
   "url": "https://www.braille.be/fr",
   "status": "DRAFT"
 }
