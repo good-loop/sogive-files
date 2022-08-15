@@ -1,14 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "The Nature Conservancy",
-  "name": "The Nature Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-6490814153672030218.svg#ccrop:90",
-  "description": "Nature Valley\u0027s Tree Planters",
-  "id": "the-nature-conservancy",
+  "displayName": "Food \u0026 Water Sustainability",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change_2-9024007308222386604.png",
+  "id": "food-and-water-sustainability",
   "suggest": [
-    "The Nature Conservancy",
-    "The Nature Conservancy"
+    "Food \u0026 Water Sustainability"
   ],
-  "url": "https://www.nature.org/en-us/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
