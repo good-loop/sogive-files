@@ -1,13 +1,14 @@
 {
   "@type": "NGO",
-  "displayName": "Ligue Braille",
-  "name": "Ligue Braille",
-  "logo": "https://media.good-loop.com/uploads/standard/logo__fr-16853085415328039081.png",
-  "id": "ligue-braille",
+  "displayName": "The Nature Conservancy",
+  "name": "The Nature Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-6490814153672030218.svg#ccrop:90",
+  "description": "Nature Valley\u0027s Tree Planters",
+  "id": "the-nature-conservancy",
   "suggest": [
-    "Ligue Braille",
-    "Ligue Braille"
+    "The Nature Conservancy",
+    "The Nature Conservancy"
   ],
-  "url": "https://www.braille.be/fr",
-  "status": "DRAFT"
+  "url": "https://www.nature.org/en-us/",
+  "status": "PUBLISHED"
 }
