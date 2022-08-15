@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Food \u0026 Water Sustainability",
   "id": "food-and-water-sustainability",
-  "suggest": []
+  "suggest": [
+    "Food \u0026 Water Sustainability"
+  ],
+  "status": "DRAFT"
 }
