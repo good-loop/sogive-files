@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Pledge Hobby",
-  "unlisted": true,
-  "name": "Pledge Hobby",
-  "logo": "https://media.good-loop.com/uploads/standard/mind-pledge2-11640773381684335738.png",
-  "id": "pledge-hobby",
-  "suggest": [
-    "Pledge Hobby",
-    "Pledge Hobby"
-  ],
-  "status": "DRAFT"
+  "id": "chs-belgium",
+  "suggest": []
 }
