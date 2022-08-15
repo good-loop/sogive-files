@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "kinderkankerfonds",
-  "name": "kinderkankerfonds",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__linksboven-15736592504600187009.svg",
-  "id": "kinderkankerfonds-belgium",
-  "suggest": [
-    "kinderkankerfonds",
-    "kinderkankerfonds"
-  ],
-  "url": "https://kinderkankerfonds.be/",
-  "status": "DRAFT"
+  "id": "ligue-braille",
+  "suggest": []
 }
