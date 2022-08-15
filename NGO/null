@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Food \u0026 Water Sustainability",
   "unlisted": true,
-  "displayName": "Build Healthy Cities",
-  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change_1-11378533634402412725.png",
-  "id": "build-healthy-cities",
+  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change_2-9024007308222386604.png#ccrop:95",
+  "id": "food-and-water-sustainability",
   "suggest": [
-    "Build Healthy Cities"
+    "Food \u0026 Water Sustainability"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
