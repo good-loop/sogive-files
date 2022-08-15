@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "unlisted": true,
-  "displayName": "Build Healthy Cities",
-  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change_1-11378533634402412725.png#ccrop:90",
-  "id": "build-healthy-cities",
+  "displayName": "Tackle Climate Change",
+  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change-6002523633855353207.png#ccrop:90",
+  "id": "tackle-climate-change",
   "suggest": [
-    "Build Healthy Cities"
+    "Tackle Climate Change"
   ],
   "status": "MODIFIED"
 }
