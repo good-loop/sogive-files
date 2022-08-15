@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "CHS -  Belgium",
-  "name": "CHS - Belgium",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_1-551988307312482794.png",
-  "id": "chs-belgium",
+  "displayName": "kinderkankerfonds",
+  "name": "kinderkankerfonds",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo__linksboven-15736592504600187009.svg",
+  "id": "kinderkankerfonds-belgium",
   "suggest": [
-    "CHS - Belgium",
-    "CHS -  Belgium"
+    "kinderkankerfonds",
+    "kinderkankerfonds"
   ],
-  "url": "https://www.chsbelgium.org/en/",
+  "url": "https://kinderkankerfonds.be/",
   "status": "DRAFT"
 }
