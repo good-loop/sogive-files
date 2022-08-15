@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Food \u0026 Water Sustainability",
+  "unlisted": true,
   "id": "food-and-water-sustainability",
   "suggest": [
     "Food \u0026 Water Sustainability"
