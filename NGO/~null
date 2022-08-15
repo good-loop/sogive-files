@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "kinderkankerfonds",
+  "name": "kinderkankerfonds",
   "id": "kinderkankerfonds-belgium",
-  "suggest": []
+  "suggest": [
+    "kinderkankerfonds",
+    "kinderkankerfonds"
+  ],
+  "status": "DRAFT"
 }
