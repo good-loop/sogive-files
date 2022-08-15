@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Food \u0026 Water Sustainability",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change_2-9024007308222386604.png#ccrop:95",
-  "id": "food-and-water-sustainability",
+  "displayName": "Tackle Climate Change",
+  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change-6002523633855353207.png#ccrop:95",
+  "id": "tackle-climate-change",
   "suggest": [
-    "Food \u0026 Water Sustainability"
+    "Tackle Climate Change"
   ],
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
