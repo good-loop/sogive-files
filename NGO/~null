@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change-6002523633855353207.png",
   "id": "tackle-climate-change",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
