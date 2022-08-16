@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Tackle Climate Change",
-  "logo": "https://media.good-loop.com/uploads/standard/Tackle_Climate_Change-6002523633855353207.png#ccrop:90",
-  "id": "tackle-climate-change",
-  "suggest": [
-    "Tackle Climate Change"
-  ],
-  "status": "PUBLISHED"
+  "id": "alex-test",
+  "suggest": []
 }
