@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Chocolonely Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/chocolonely__foundation__logo__blauw__RGB-11247954700404541466.jpg#ccrop:123",
-  "id": "chocolonely-foundation",
+  "displayName": "TRAID",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/traid__logo2x-1376111806327534053.png#ccrop:84",
+  "id": "traid",
   "suggest": [
-    "Chocolonely Foundation"
+    "TRAID"
   ],
+  "url": "https://www.traid.org.uk/",
   "status": "DRAFT"
 }
