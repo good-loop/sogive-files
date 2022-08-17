@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "TRAID",
   "id": "traid",
-  "suggest": []
+  "suggest": [
+    "TRAID"
+  ],
+  "status": "DRAFT"
 }
