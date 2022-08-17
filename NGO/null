@@ -1,12 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Alex Test ",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Brand__Logo__Here__Logo__Blue_1-16125471318997492015.png#ccrop:65",
-  "id": "alex-test",
+  "displayName": "Chocolonely Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/chocolonely__foundation__logo__blauw__RGB-11247954700404541466.jpg#ccrop:123",
+  "id": "chocolonely-foundation",
   "suggest": [
-    "Alex Test "
+    "Chocolonely Foundation"
   ],
-  "url": "",
   "status": "DRAFT"
 }
