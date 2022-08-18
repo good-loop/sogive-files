@@ -186,7 +186,7 @@
   "ready": false,
   "name": "War child UK",
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/war-child-logo-png-transparent-10360390144768105134.png#ccrop:80",
+  "logo": "https://media.good-loop.com/uploads/standard/war-child-logo-png-transparent-10360390144768105134.png#ccrop:70",
   "@id": "war-child-uk",
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/war_child_logo_white.png",
   "lastModified": "2020-10-28T13:22:29Z",
@@ -194,5 +194,5 @@
   "englandWalesCharityRegNum": "1071659",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
