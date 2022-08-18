@@ -376,7 +376,15 @@
           },
           "confidence": "high",
           "name": "Veterans called",
-          "description": "In 2021, Combat Stress reported that 8,900 veterans had received support through their helpline."
+          "description": "In 2021, Combat Stress reported that 8,900 veterans had received support through their helpline.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "42.73",
+            "currency": "",
+            "value100p": 427300.0,
+            "value": 42.73
+          }
         }
       ],
       "data-src": [
