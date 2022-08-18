@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Safe In Our World",
-  "logo": "https://media.good-loop.com/uploads/standard/Safe-in-our-World-5549244275645783036.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/Safe-in-our-World-5549244275645783036.jpg#ccrop:80",
   "id": "safe-in-our-world",
   "suggest": [
     "Safe In Our World"
   ],
   "url": "https://safeinourworld.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
