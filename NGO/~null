@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "TRAID",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/traid__logo2x-1376111806327534053.png#ccrop:84",
-  "id": "traid",
+  "displayName": "Call of Duty Endowment",
+  "name": "Call of Duty Endowment",
+  "logo": "https://media.good-loop.com/uploads/standard/code-logo-1783243038103878600.png#ccrop:95",
+  "id": "call-of-duty-endowment",
   "suggest": [
-    "TRAID"
+    "Call of Duty Endowment",
+    "Call of Duty Endowment"
   ],
-  "url": "https://www.traid.org.uk/",
-  "status": "DRAFT"
+  "url": "https://www.callofdutyendowment.org/",
+  "status": "PUBLISHED"
 }
