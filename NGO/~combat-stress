@@ -437,7 +437,15 @@
           "number": 4900.0,
           "confidence": "low",
           "name": "Veterans supported",
-          "description": "We have taken the amount of veterans provided with direct support (1,300) added to the amount of veterans that accessed online self-help resources (3,600) to arrive at 4,900 veterans supported. We have also omitted an impairment charge of £2.3 million from the total, as this is a one off expenditure due to the revaluation of property."
+          "description": "We have taken the amount of veterans provided with direct support (1,300) added to the amount of veterans that accessed online self-help resources (3,600) to arrive at 4,900 veterans supported. We have also omitted an impairment charge of £2.3 million from the total, as this is a one off expenditure due to the revaluation of property.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "£1909.39",
+            "currency": "",
+            "value100p": 1.90939E7,
+            "value": 1909.39
+          }
         }
       ],
       "data-src": [
