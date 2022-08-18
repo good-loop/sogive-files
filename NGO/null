@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Call of Duty Endowment",
-  "name": "Call of Duty Endowment",
-  "logo": "https://media.good-loop.com/uploads/standard/code-logo-1783243038103878600.png#ccrop:95",
-  "id": "call-of-duty-endowment",
+  "displayName": "Safe In Our World",
+  "logo": "https://media.good-loop.com/uploads/standard/Safe-in-our-World-5549244275645783036.jpg",
+  "id": "safe-in-our-world",
   "suggest": [
-    "Call of Duty Endowment",
-    "Call of Duty Endowment"
+    "Safe In Our World"
   ],
-  "url": "https://www.callofdutyendowment.org/",
-  "status": "MODIFIED"
+  "url": "https://safeinourworld.org/",
+  "status": "DRAFT"
 }
