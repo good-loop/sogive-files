@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Safe In Our World",
   "id": "safe-in-our-world",
-  "suggest": []
+  "suggest": [
+    "Safe In Our World"
+  ],
+  "status": "DRAFT"
 }
