@@ -1,0 +1,198 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 62236.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 5.267E8,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 5267000.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://www.warchild.org.uk/sites/default/files/2013%20War%20Child%20-%20Annual%20Report%20-%20FINAL%20online%20version.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "This ratio seems surprisingly low, despite the presumably low tractability of working with children traumatised by war. More investigation needed to understand this",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 126425.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) supported directly",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "Although War Child\u0027s focus is on children, the direct beneficiaries include children, young people and adults. In 2015 War Child worked with 31 different projects in six conflict-affected countries",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 450000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "children (singular: child) reached indirectly by supporting the local infrastructure",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 8.439E10,
+          "value": 8439000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends59/0001071659_AC_20151231_E_C.pdf"
+        },
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://www.warchild.org.uk/sites/default/files/link-files/War%20Child%20Impact%20Report%202015_1.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    }
+  ],
+  "color": "#fe1220",
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "War child UK",
+    "war-child-uk"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "war-child-uk",
+      "name": "people (singular: person) supported directly",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 667510,
+        "value": "66.751038164919904638000"
+      },
+      "n": 1.0
+    }
+  ],
+  "whyTags": "International Aid, War",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) supported directly",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 667510,
+      "value": "66.751038164919904638000"
+    }
+  },
+  "whoTags": "Children",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "ready": false,
+  "name": "War child UK",
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/war_child_logo.png#ccrop:78",
+  "@id": "war-child-uk",
+  "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/war_child_logo_white.png",
+  "lastModified": "2020-10-28T13:22:29Z",
+  "summaryDescription": "War Child  protects children living in the world\u0027s most dangerous war zones",
+  "englandWalesCharityRegNum": "1071659",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
