@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Family Grants",
-  "name": "Family Grants",
-  "logo": "https://media.good-loop.com/uploads/standard/up1-13947057469140737856.png#ccrop:106",
-  "id": "family-grants",
-  "suggest": [
-    "Family Grants",
-    "Family Grants"
-  ],
-  "status": "MODIFIED"
+  "id": "increase-uk-reach",
+  "suggest": []
 }
