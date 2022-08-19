@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Beat Malaria ",
-  "logo": "https://media.good-loop.com/uploads/standard/73967c2c-a3bb-11ec-9c08-0e76a29f293b-18437850466731605386.jpg#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/73967c2c-a3bb-11ec-9c08-0e76a29f293b-18437850466731605386.jpg",
   "id": "beat-malaria",
   "suggest": [
     "Beat Malaria "
   ],
   "url": "https://beatmalaria.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
