@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Safe In Our World",
-  "logo": "https://media.good-loop.com/uploads/standard/Safe-in-our-World-5549244275645783036.jpg#ccrop:80",
-  "id": "safe-in-our-world",
+  "unlisted": true,
+  "displayName": "Family Grants",
+  "name": "Family Grants",
+  "logo": "https://media.good-loop.com/uploads/standard/FF_logo-3923329617494760901.png#ccrop:107",
+  "id": "family-grants",
   "suggest": [
-    "Safe In Our World"
+    "Family Grants",
+    "Family Grants"
   ],
-  "url": "https://safeinourworld.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
