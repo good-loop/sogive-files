@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "HEFOR",
   "logo": "https://media.good-loop.com/uploads/standard/HeForShe__Logo__InSupport__UseOn__WhiteBg-8467686756978807242.png",
   "id": "he-for-she",
-  "suggest": [],
+  "suggest": [
+    "HEFOR"
+  ],
   "url": "https://www.heforshe.org/en",
   "status": "DRAFT"
 }
