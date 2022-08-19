@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Beat Malaria ",
   "id": "beat-malaria",
-  "suggest": []
+  "suggest": [
+    "Beat Malaria "
+  ],
+  "status": "DRAFT"
 }
