@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "unlisted": true,
   "id": "family-grants",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
