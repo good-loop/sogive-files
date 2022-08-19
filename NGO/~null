@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Gameheads",
-  "logo": "https://media.good-loop.com/uploads/standard/gh-logo-350-330x60-4777247588607601896.png#ccrop:90",
-  "id": "gameheads",
-  "suggest": [
-    "Gameheads"
-  ],
-  "url": "https://gameheadsoakland.org/",
-  "status": "DRAFT"
+  "id": "he-for-she",
+  "suggest": []
 }
