@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "HeForShe",
-  "logo": "https://media.good-loop.com/uploads/standard/HeForShe__Logo__InSupport__UseOn__WhiteBg-8467686756978807242.png",
-  "id": "he-for-she",
+  "displayName": "Code 2040",
+  "logo": "https://media.good-loop.com/uploads/standard/ce0c4f4a-5158-4249-acf2-0372fe9c0288-1567807671199-10505046575491103491.png#ccrop:90",
+  "id": "code-2040",
   "suggest": [
-    "HeForShe"
+    "Code 2040"
   ],
-  "url": "https://www.heforshe.org/en",
+  "url": "https://www.code2040.org/",
   "status": "DRAFT"
 }
