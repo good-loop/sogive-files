@@ -1,7 +1,12 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "Family Grants",
+  "name": "Family Grants",
   "id": "family-grants",
-  "suggest": [],
+  "suggest": [
+    "Family Grants",
+    "Family Grants"
+  ],
   "status": "DRAFT"
 }
