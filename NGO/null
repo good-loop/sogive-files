@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "name": "Increase UK Reach",
-  "logo": "https://media.good-loop.com/uploads/standard/up3-10422498553369518796.png#ccrop:95",
-  "id": "increase-uk-reach",
+  "displayName": "Gameheads",
+  "logo": "https://media.good-loop.com/uploads/standard/gh-logo-350-330x60-4777247588607601896.png#ccrop:90",
+  "id": "gameheads",
   "suggest": [
-    "Increase UK Reach"
+    "Gameheads"
   ],
-  "status": "PUBLISHED"
+  "url": "https://gameheadsoakland.org/",
+  "status": "DRAFT"
 }
