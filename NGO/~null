@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "name": "Increase UK Reach",
-  "logo": "https://media.good-loop.com/uploads/standard/up3-10422498553369518796.png",
-  "id": "increase-uk-reach",
-  "suggest": [
-    "Increase UK Reach"
-  ],
-  "status": "DRAFT"
+  "id": "gameheads",
+  "suggest": []
 }
