@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Refurbished Courts",
+  "displayName": "Refurbish Courts",
   "logo": "https://media.good-loop.com/uploads/standard/refurbished-courts-6708051199195358576.svg",
   "id": "refurbished-courts",
   "suggest": [
-    "Refurbished Courts"
+    "Refurbish Courts"
   ],
   "status": "DRAFT"
 }
