@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Refurbish Courts",
+  "displayName": "New nets",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/refurbished-courts-6708051199195358576.svg",
-  "id": "refurbished-courts",
+  "logo": "https://media.good-loop.com/uploads/standard/new-nets-17331056670180496500.svg#ccrop:102",
+  "id": "new-nets",
   "suggest": [
-    "Refurbish Courts"
+    "New nets"
   ],
   "status": "DRAFT"
 }
