@@ -1,10 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Team kits",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/label-image3-620468812819006035.svg#ccrop:102",
   "id": "team-kits",
   "suggest": [
     "Team kits"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
