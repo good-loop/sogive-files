@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Refurbish Courts",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/refurbished-courts-6708051199195358576.svg#ccrop:102",
-  "id": "refurbished-courts",
+  "displayName": "Team kits",
+  "logo": "https://media.good-loop.com/uploads/standard/label-image3-620468812819006035.svg#ccrop:102",
+  "id": "team-kits",
   "suggest": [
-    "Refurbish Courts"
+    "Team kits"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
