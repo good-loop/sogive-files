@@ -2,10 +2,10 @@
   "@type": "NGO",
   "displayName": "Refurbish Courts",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/refurbished-courts-6708051199195358576.svg#ccrop:104",
+  "logo": "https://media.good-loop.com/uploads/standard/refurbished-courts-6708051199195358576.svg",
   "id": "refurbished-courts",
   "suggest": [
     "Refurbish Courts"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
