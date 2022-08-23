@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "New nets",
+  "unlisted": true,
   "id": "new-nets",
   "suggest": [
     "New nets"
