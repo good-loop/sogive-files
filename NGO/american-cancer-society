@@ -1,0 +1,13 @@
+{
+  "@type": "NGO",
+  "name": "American Cancer Society",
+  "logo": "https://media.good-loop.com/uploads/raw/download-15288138837615596487.png#ccrop:83",
+  "@id": "american-cancer-society",
+  "suggest": [
+    "American Cancer Society",
+    "american-cancer-society"
+  ],
+  "id": "american-cancer-society",
+  "status": "MODIFIED",
+  "usCharityRegNum": "13-1788491"
+}
