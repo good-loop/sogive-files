@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Age UK Kensi",
+  "displayName": "Age UK Kensington \u0026 Chelsea",
   "logo": "https://media.good-loop.com/uploads/standard/age-uk-kensington-and-chelsea-logo-rgb-12601300496688912208.png",
   "id": "age-uk-kensington-chelsea",
   "suggest": [
-    "Age UK Kensi"
+    "Age UK Kensington \u0026 Chelsea"
   ],
   "status": "DRAFT"
 }
