@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Age Uk",
+  "displayName": "Age UK Kensi",
   "logo": "https://media.good-loop.com/uploads/standard/age-uk-kensington-and-chelsea-logo-rgb-12601300496688912208.png",
   "id": "age-uk-kensington-chelsea",
   "suggest": [
-    "Age Uk"
+    "Age UK Kensi"
   ],
   "status": "DRAFT"
 }
