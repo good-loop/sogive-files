@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Age Uk",
   "id": "age-uk-kensington-chelsea",
-  "suggest": []
+  "suggest": [
+    "Age Uk"
+  ],
+  "status": "DRAFT"
 }
