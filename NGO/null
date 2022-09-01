@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Age UK Kensington \u0026 Chelsea",
-  "logo": "https://media.good-loop.com/uploads/standard/age-uk-kensington-and-chelsea-logo-rgb-12601300496688912208.png",
-  "id": "age-uk-kensington-chelsea",
+  "displayName": "Hannan School",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-hannan-school-12034967863225142904.png#ccrop:90",
+  "id": "hannan-school",
   "suggest": [
-    "Age UK Kensington \u0026 Chelsea"
+    "Hannan School"
   ],
-  "url": "https://www.ageuk.org.uk/kensingtonandchelsea/",
+  "url": "https://www.hannan.school/",
   "status": "DRAFT"
 }
