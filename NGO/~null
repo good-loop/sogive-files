@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Hannan School",
   "id": "hannan-school",
-  "suggest": []
+  "suggest": [
+    "Hannan School"
+  ],
+  "status": "DRAFT"
 }
