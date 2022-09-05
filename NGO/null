@@ -1,11 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Hannan School",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-hannan-school-12034967863225142904.png#ccrop:90",
-  "id": "hannan-school",
+  "displayName": "Anna Freud National Center",
+  "name": "Anna Freud National Center",
+  "logo": "https://media.good-loop.com/uploads/standard/af-logo-rgb-green-8315312555014670242.png",
+  "id": "anna-freud-national-center",
   "suggest": [
-    "Hannan School"
+    "Anna Freud National Center",
+    "Anna Freud National Center"
   ],
-  "url": "https://www.hannan.school/",
+  "url": "https://www.annafreud.org/",
   "status": "DRAFT"
 }
