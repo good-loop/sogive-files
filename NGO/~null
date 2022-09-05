@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Anna Freud National Center",
-  "name": "Anna Freud National Center",
-  "logo": "https://media.good-loop.com/uploads/standard/af-logo-rgb-green-8315312555014670242.png",
-  "id": "anna-freud-national-center",
-  "suggest": [
-    "Anna Freud National Center",
-    "Anna Freud National Center"
-  ],
-  "url": "https://www.annafreud.org/",
-  "status": "DRAFT"
+  "id": "anna-freud",
+  "suggest": []
 }
