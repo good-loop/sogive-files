@@ -1030,7 +1030,7 @@
   "whyTags": "Homelessness",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/logo-6883385804229256835.png#ccrop:90",
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/logo-6883385804229256835.png#ccrop:87",
   "@id": "crisis-uk",
   "summaryDescription": "Crisis is dedicated to ending homelessness by delivering life-changing services and campaigning for change",
   "uptodatedraft": "probably",
@@ -1081,5 +1081,5 @@
   "englandWalesCharityRegNum": "1082947",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
