@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Anna Freud National Center",
   "id": "anna-freud-national-center",
-  "suggest": []
+  "suggest": [
+    "Anna Freud National Center"
+  ],
+  "status": "DRAFT"
 }
