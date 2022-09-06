@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
-  "id": "lgbtqia-programs",
-  "suggest": []
+  "displayName": "LGBTQIA+ Program",
+  "id": "lgbtqia-program",
+  "suggest": [
+    "LGBTQIA+ Program"
+  ],
+  "status": "DRAFT"
 }
