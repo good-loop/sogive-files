@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "LGBTQIA ",
   "logo": "https://media.good-loop.com/uploads/standard/LGBTQIA_Program-14362095688691818294.png#ccrop:80",
   "id": "lgbtqia-programs",
-  "suggest": [],
+  "suggest": [
+    "LGBTQIA "
+  ],
   "status": "DRAFT"
 }
