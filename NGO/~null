@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Family treatment \u0026 programs",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Family_treatments_programs_1-8734032463871818642.png#ccrop:80",
-  "id": "family-treatment-programs",
+  "displayName": "Addiction research",
+  "logo": "https://media.good-loop.com/uploads/standard/Addiction_research-9899668374213732188.png#ccrop:95",
+  "id": "addiction-research",
   "suggest": [
-    "Family treatment \u0026 programs"
+    "Addiction research"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
