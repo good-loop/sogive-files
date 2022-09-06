@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
+  "unlisted": true,
+  "displayName": "Addiction research",
   "id": "addiction-research",
-  "suggest": []
+  "suggest": [
+    "Addiction research"
+  ],
+  "status": "DRAFT"
 }
