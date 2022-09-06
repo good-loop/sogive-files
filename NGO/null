@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "LGBTQIA+ Program",
   "unlisted": true,
-  "displayName": "Addiction research",
-  "logo": "https://media.good-loop.com/uploads/standard/Addiction_research-4606249741131075532.png#ccrop:95",
-  "id": "addiction-research",
+  "logo": "https://media.good-loop.com/uploads/standard/LGBTQIA_Program-2029230624944622576.png#ccrop:80",
+  "id": "lgbtqia-program",
   "suggest": [
-    "Addiction research"
+    "LGBTQIA+ Program"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
