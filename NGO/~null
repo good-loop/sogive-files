@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Family treatment \u0026 programs",
   "id": "family-treatment-programs",
-  "suggest": []
+  "suggest": [
+    "Family treatment \u0026 programs"
+  ],
+  "status": "DRAFT"
 }
