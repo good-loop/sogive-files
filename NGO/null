@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "LGBTQIA+ Program",
+  "displayName": "Family treatment \u0026 programs",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/LGBTQIA_Program-2029230624944622576.png#ccrop:80",
-  "id": "lgbtqia-program",
+  "logo": "https://media.good-loop.com/uploads/standard/Family_treatments_programs_1-8734032463871818642.png#ccrop:80",
+  "id": "family-treatment-programs",
   "suggest": [
-    "LGBTQIA+ Program"
+    "Family treatment \u0026 programs"
   ],
   "status": "DRAFT"
 }
