@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Anna Freud National Center",
-  "name": "Anna Freud",
-  "logo": "https://media.good-loop.com/uploads/standard/af-logo-rgb-green-9226747432679190986.png",
-  "id": "anna-freud",
+  "unlisted": true,
+  "displayName": "Addiction research",
+  "logo": "https://media.good-loop.com/uploads/standard/Addiction_research-4606249741131075532.png",
+  "id": "addiction-research",
   "suggest": [
-    "Anna Freud",
-    "Anna Freud National Center"
+    "Addiction research"
   ],
-  "url": "https://www.annafreud.org/",
   "status": "DRAFT"
 }
