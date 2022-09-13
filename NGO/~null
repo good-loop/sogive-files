@@ -1,11 +1,14 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "LGBTQIA + Pr",
-  "logo": "https://media.good-loop.com/uploads/standard/LGBTQIA_Program-14362095688691818294.png#ccrop:80",
-  "id": "lgbtqia-programs",
+  "displayName": "Call of Duty Endowment",
+  "name": "Call of Duty Endowment",
+  "logo": "https://media.good-loop.com/uploads/standard/code-logo-1783243038103878600.png#ccrop:95",
+  "description": "The Call of Duty Endowment helps veterans find high quality careers by supporting groups that prepare them for the job market and by raising awareness of the value vets bring to the workplace.",
+  "id": "call-of-duty-endowment",
   "suggest": [
-    "LGBTQIA + Pr"
+    "Call of Duty Endowment",
+    "Call of Duty Endowment"
   ],
-  "status": "DRAFT"
+  "url": "https://www.callofdutyendowment.org/",
+  "status": "PUBLISHED"
 }
