@@ -1,15 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/cod-endowment-feature__feature-771445516651684918.jpg",
   "@type": "NGO",
-  "displayName": "Call of Duty Endowment",
-  "name": "Call of Duty Endowment",
-  "logo": "https://media.good-loop.com/uploads/standard/code-logo-1783243038103878600.png#ccrop:95",
-  "description": "The Call of Duty Endowment helps veterans find high quality careers by supporting groups that prepare them for the job market and by raising awareness of the value vets bring to the workplace.",
-  "id": "call-of-duty-endowment",
-  "suggest": [
-    "Call of Duty Endowment",
-    "Call of Duty Endowment"
-  ],
-  "url": "https://www.callofdutyendowment.org/",
-  "status": "MODIFIED"
+  "id": "gamers-outreach",
+  "suggest": []
 }
