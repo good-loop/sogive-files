@@ -1,4 +1,5 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/cod-endowment-feature__feature-771445516651684918.jpg",
   "@type": "NGO",
   "displayName": "Call of Duty Endowment",
   "name": "Call of Duty Endowment",
@@ -10,5 +11,5 @@
     "Call of Duty Endowment"
   ],
   "url": "https://www.callofdutyendowment.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
