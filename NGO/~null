@@ -2,12 +2,12 @@
   "images": "https://media.good-loop.com/uploads/standard/7fcc65ad2ab32befd1c35b252b8a39ce-1200x800-6044303585883954209.jpeg",
   "@type": "NGO",
   "displayName": "Gamers Outreach",
-  "logo": "https://media.good-loop.com/uploads/standard/Gamers-Outreach-logo-light-bg-17410192043676389702.png",
+  "logo": "https://media.good-loop.com/uploads/standard/Gamers-Outreach-logo-light-bg-17410192043676389702.png#ccrop:90",
   "description": "Gamers Outreach is a charity that empowers hospitalized families through play. Their goal is to build a world where activity is easily prioritized as part of care. Video games are is their tools of choice.",
   "id": "gamers-outreach",
   "suggest": [
     "Gamers Outreach"
   ],
   "url": "https://gamersoutreach.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
