@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Gamers Outreach",
   "id": "gamers-outreach",
-  "suggest": []
+  "suggest": [
+    "Gamers Outreach"
+  ],
+  "status": "DRAFT"
 }
