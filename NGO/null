@@ -1,15 +1,13 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/cod-endowment-feature__feature-771445516651684918.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/7fcc65ad2ab32befd1c35b252b8a39ce-1200x800-6044303585883954209.jpeg",
   "@type": "NGO",
-  "displayName": "Call of Duty Endowment",
-  "name": "Call of Duty Endowment",
-  "logo": "https://media.good-loop.com/uploads/standard/code-logo-1783243038103878600.png#ccrop:95",
-  "description": "The Call of Duty Endowment helps veterans find high quality careers by supporting groups that prepare them for the job market and by raising awareness of the value vets bring to the workplace.",
-  "id": "call-of-duty-endowment",
+  "displayName": "Gamers Outreach",
+  "logo": "https://media.good-loop.com/uploads/standard/Gamers-Outreach-logo-light-bg-17410192043676389702.png",
+  "description": "Gamers Outreach is a charity that empowers hospitalized families through play. Their goal is to build a world where activity is easily prioritized as part of care. Video games are is their tools of choice.",
+  "id": "gamers-outreach",
   "suggest": [
-    "Call of Duty Endowment",
-    "Call of Duty Endowment"
+    "Gamers Outreach"
   ],
-  "url": "https://www.callofdutyendowment.org/",
+  "url": "https://gamersoutreach.org/",
   "status": "DRAFT"
 }
