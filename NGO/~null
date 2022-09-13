@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Gamers Outreach",
+  "logo": "https://media.good-loop.com/uploads/standard/Gamers-Outreach-logo-light-bg-17410192043676389702.png",
   "id": "gamers-outreach",
   "suggest": [
     "Gamers Outreach"
