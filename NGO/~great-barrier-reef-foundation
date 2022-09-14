@@ -3,7 +3,7 @@
   "@type": "NGO",
   "displayName": "Great Barrier Reef Foundation",
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/GBRF__Black__White__Fish__V__RGB-300x300-9885306085207397126.png#ccrop:80",
+  "logo": "https://media.good-loop.com/uploads/standard/GBRF__Black__White__Fish__V__RGB-300x300_1-13487802010969809432.png#ccrop:102",
   "@id": "great-barrier-reef-foundation",
   "suggest": [
     "",
@@ -12,5 +12,5 @@
   ],
   "id": "great-barrier-reef-foundation",
   "url": "https://www.barrierreef.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
