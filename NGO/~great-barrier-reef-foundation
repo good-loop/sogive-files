@@ -1,0 +1,15 @@
+{
+  "circleCrop": 90.0,
+  "@type": "NGO",
+  "displayName": "Great Barrier Reef Foundation",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/raw/GreetBarrierReefFoundation-3789741450247407068.png",
+  "@id": "great-barrier-reef-foundation",
+  "suggest": [
+    "",
+    "Great Barrier Reef Foundation",
+    "great-barrier-reef-foundation"
+  ],
+  "id": "great-barrier-reef-foundation",
+  "status": "PUBLISHED"
+}
