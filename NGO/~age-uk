@@ -1327,7 +1327,7 @@
     "Comic Relief",
     "age-uk"
   ],
-  "url": "https://www.ageuk.org.uk/",
+  "url": "https://www.comicrelief.co.uk",
   "howTags": "Direct work, Campaigning, Research, Grants",
   "simpleImpact": {
     "number": 1.0,
@@ -1344,5 +1344,5 @@
   "englandWalesCharityRegNum": "1128267",
   "uk_giftaid": true,
   "whereTags": "Developing World, United Kingdom",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
