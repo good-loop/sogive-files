@@ -3,10 +3,11 @@
   "@type": "NGO",
   "displayName": "The Nature Conservancy Canada",
   "logo": "https://media.good-loop.com/uploads/standard/logo_10-7845505107749162601.png#ccrop:90",
+  "description": "The Nature Conservancy of Canada (NCC) is the country’s unifying force for nature, working to deliver large-scale, permanent land conservation. With nature we are building a thriving world.",
   "id": "the-nature-conservancy-canada",
   "suggest": [
     "The Nature Conservancy Canada"
   ],
   "url": "https://www.natureconservancy.ca/en/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
