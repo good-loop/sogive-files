@@ -1,13 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Duffryn",
-  "name": "Duffryn",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__retina-3163168614394414272.png",
-  "id": "duffryn-community",
-  "suggest": [
-    "Duffryn",
-    "Duffryn"
-  ],
-  "url": "https://duffryncomlink.org.uk/",
+  "logo": "https://media.good-loop.com/uploads/standard/KFC_Foundation_logo-7692421842700677710.png#ccrop:94",
+  "id": "kfc-foundation",
+  "suggest": [],
   "status": "DRAFT"
 }
