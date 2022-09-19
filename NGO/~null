@@ -1,5 +1,10 @@
 {
   "@type": "NGO",
-  "id": "kfc",
-  "suggest": []
+  "name": "The KFC Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/KFC_Foundation_logo-7692421842700677710.png#ccrop:94",
+  "id": "kfc-foundation",
+  "suggest": [
+    "The KFC Foundation"
+  ],
+  "status": "DRAFT"
 }
