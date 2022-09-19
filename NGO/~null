@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Duffryn",
   "name": "Duffryn",
   "id": "duffryn-community",
   "suggest": [
+    "Duffryn",
     "Duffryn"
   ],
   "status": "DRAFT"
