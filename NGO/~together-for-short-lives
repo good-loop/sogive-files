@@ -2,7 +2,7 @@
   "scotlandCharityRegNum": "SC044139",
   "@type": "NGO",
   "name": "Together for Short Lives",
-  "logo": "",
+  "logo": "https://media.good-loop.com/uploads/standard/tfsl-logo-13846198890179868276.svg#ccrop:75",
   "@id": "together-for-short-lives",
   "suggest": [
     "Together for Short Lives",
@@ -10,5 +10,5 @@
   ],
   "url": "https://www.togetherforshortlives.org.uk/",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
