@@ -1,0 +1,14 @@
+{
+  "scotlandCharityRegNum": "SC044139",
+  "@type": "NGO",
+  "name": "Together for Short Lives",
+  "logo": "https://www.togetherforshortlives.org.uk/",
+  "@id": "together-for-short-lives",
+  "suggest": [
+    "Together for Short Lives",
+    "together-for-short-lives"
+  ],
+  "url": "www.togetherforshortlives.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
