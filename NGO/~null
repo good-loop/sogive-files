@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/Environmental__Defense__Fund__logo-2185473478600864149.svg#ccrop:85",
   "id": "environmental-defense-fund",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
