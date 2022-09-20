@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Water Institute by ",
   "id": "water-institute-by-evian",
-  "suggest": []
+  "suggest": [
+    "Water Institute by "
+  ],
+  "status": "DRAFT"
 }
