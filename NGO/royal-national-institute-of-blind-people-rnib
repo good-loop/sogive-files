@@ -1,0 +1,953 @@
+{
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 60000.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 1.18545E12,
+          "value": 1.18545E8
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value100p": 4.6217E11,
+          "value": 4.6217E7
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20150331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Letycia",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 1.23056E12,
+          "value": 1.23056E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Letycia",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value100p": 8.105228E10,
+          "value": 8105228.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "being there",
+      "analyst": "Letycia",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 9.8909532E9,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 9.8909532E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Quote from page 22 follows. Sadly while we have some impact info, it\u0027s not on a consistent basis with the financials.  \"? This year, our Helpline answered 213,000 calls and 35,185 letters and emails. We?ve worked hard to improve our customer satisfaction by reducing caller waiting time: 87?per cent of calls are answered in?20 seconds. ? This year, 96,000 people with sight loss used our direct services. This included 36,500 new people. The overall figure has remained static since last year and was under target by 26,000 people. ? People rely on our confidential counselling service when they reach breaking point: this year, our sight loss counselling team received 1,395 referrals. This is 17 per cent more than last year. We have supported 15,300 people with our benefits advice service, exceeding our target by 31 per cent and achieving growth of 24 per cent compared to last year. We identified ?19.5million in unclaimed benefits; ?2.9million more than last year.\"",
+      "name": "independence",
+      "analyst": "Letycia",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.4244846E9,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1.4244846E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "inclusion",
+      "analyst": "Letycia",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2016.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 1.796393E8,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 1796393.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2016.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-04-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2016-03-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-04-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2016.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20160331_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "prevention",
+      "analyst": "Letycia",
+      "end": "2016-03-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2019-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "77,000,000",
+          "currency": "GBP",
+          "value100p": 7.7E11,
+          "value": 7.7E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "15,000,000",
+          "currency": "GBP",
+          "value100p": 1.5E11,
+          "value": 1.5E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "21,300,000",
+          "currency": "GBP",
+          "value100p": 2.13E11,
+          "value": 2.13E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "assumed that this is money from beneficiaries from online \u0026 shop"
+        }
+      },
+      "name": "overall",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "32,800,000",
+        "currency": "GBP",
+        "value100p": 3.28E11,
+        "value": 3.28E7
+      },
+      "end_raw": "2020-03-31"
+    },
+    {
+      "outputs": [],
+      "start_raw": "2018-04-01",
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 91772.0,
+          "meta": {
+            "all": {
+              "notes": "10.988 relatives not counted."
+            }
+          },
+          "name": "People (singular: person) reached",
+          "description": "This is a mixture of the Sight Loss Advice Service, and patients reached by Eye-clinic liaison officers."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends27/0000226227_AC_20190331_E_C.pdf"
+        }
+      ],
+      "start_raw": "2019-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "35,004,000",
+          "currency": "GBP",
+          "value100p": 3.5004E11,
+          "value": 3.5004E7
+        }
+      ],
+      "name": "Equip blind and partially sighted people to thrive",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "end_raw": "2020-03-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 17774.0,
+          "name": "Community growth",
+          "description": "This year, the Connect community grew\nmore than 19 per cent from 51,000 to 61,000. In the last year, membership of these groups has grown by 50 per cent to 7,774 members across 12 regional groups."
+        }
+      ],
+      "start_raw": "2019-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,374,000",
+          "currency": "GBP",
+          "value100p": 8.374E10,
+          "value": 8374000.0
+        }
+      ],
+      "name": "Connect our community",
+      "start": "2019-04-01",
+      "end": "2020-03-31",
+      "end_raw": "2020-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 10000.0,
+          "name": "Employers reached",
+          "description": "Ran a two-week programme with the Government\u0027s Disability Confident scheme which reached\nmore than 10,000 employers with advice, tool-kits and information.\n"
+        }
+      ],
+      "start_raw": "2019-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7,456,000",
+          "currency": "GBP",
+          "value100p": 7.456E10,
+          "value": 7456000.0
+        }
+      ],
+      "name": "Change society",
+      "start": "2019-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 31839.0,
+          "confidence": "medium",
+          "name": "People (singular: person) given information, advice, and specialist support",
+          "description": "26113 blind and partially sighted people, plus 5726 friends, family, carers. See p. 12. I think this also includes 2,842 beneficiaries of the Eye Health team - website indicates this is part of the Advice Service"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21756000",
+          "currency": "GBP",
+          "value100p": 2.1756E11,
+          "value": 2.1756E7
+        }
+      ],
+      "name": "Equip blind and partially sighted people to thrive - National Sight Loss Advice Service",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20151000",
+          "currency": "GBP",
+          "value100p": 2.0151E11,
+          "value": 2.0151E7
+        }
+      ],
+      "name": "Equip blind and partially sighted people to thrive - Regulated Services"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10212000",
+          "currency": "GBP",
+          "value100p": 1.0212E11,
+          "value": 1.0212E7
+        }
+      ],
+      "name": "Equip blind and partially sighted people to thrive - Other"
+    },
+    {
+      "outputs": [
+        {
+          "number": 63983.0,
+          "confidence": "medium",
+          "name": "Community members (singular: member) served",
+          "description": "p.14"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2828000",
+          "currency": "GBP",
+          "value100p": 2.828E10,
+          "value": 2828000.0
+        }
+      ],
+      "name": "Connect our community"
+    },
+    {
+      "outputs": [],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6130000",
+          "currency": "GBP",
+          "value100p": 6.13E10,
+          "value": 6130000.0
+        }
+      ],
+      "name": "Change society"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.rnib.org.uk/about-rnib-what-we-do/annual-review-and-annual-reports"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "92866000",
+          "currency": "GBP",
+          "value100p": 9.2866E11,
+          "value": 9.2866E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "17222000",
+          "currency": "GBP",
+          "value100p": 1.7222E11,
+          "value": 1.7222E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "20952000",
+          "currency": "GBP",
+          "value100p": 2.0952E11,
+          "value": 2.0952E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Total costs are on p.82 and 108. Trading costs are p.108. Income from beneficiaries is p.80, however this is actually all income from charitable activities. It is unclear how much should be attributed specifically to beneficiaries, but it could be fairly large if it includes income from talking books, and running schools/care facilities."
+        },
+        "reserves": {
+          "notes": "This is general unrestricted income, also described as free reserves (which excludes designated and restricted funds). See pages 41, 87, 130."
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "25673000",
+        "currency": "",
+        "value100p": 2.5673E11,
+        "value": 2.5673E7
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Royal National Institute of Blind People (RNIB)",
+  "description": "RNIB is a UK charity offering information, support and advice to almost two million people in the UK with sight loss. In their own words, they give them help, support and tools they need to realise their aspirations. This includes campaigning, reading services and an online shop with gadgets that ease life with sight loss.",
+  "recommendation": "**The Royal National Institute of Blind People is rated as Not Recommended (tentative) on the SoGive ratings scale.**\n\nThe Royal National Institute of Blind People (RNIB) provides information, support, and advice to almost two million people in the UK with sight loss.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what the RNIB does**\n\nAccording to their 2019/20 [annual report](https://www.rnib.org.uk/about-rnib-what-we-do/annual-review-and-annual-reports), the RNIB spent £61.1m on charitable activities (p.108 of annual report). These charitable activities are grouped into three main priority areas:\nEquip blind and partially sighted people to thrive (£52.1m, 85.3% of total spending on charitable activities)\nConnect our community (£2.8m, 4.6%)\nChange society (£6.1m, 10%)\n\nThe first priority area is further broken down into the National Sight Loss Advice Service (£21.8m), Regulated services (£20.2m), and Other (£10.2m).\n\nIn 2019/20 the National Sight Loss Advice Service provided advice to 26,113 blind and partially sighted people and 5,726 friends, family, carers and professionals (p.12). This Service seems to include the Eye Health team, which supported nearly 3,000 beneficiaries, including people with sight loss, their friends and relatives (p.12).\n\nIt is unclear exactly which services are classed within Regulated services and which are classed within Other. However, additional services described in the annual report include a Helpline and Eye Clinic Liaison Officers (ECLOs). It may be that these are classed within Other, and the Regulated services specifically refer to services regulated by the Care Quality Commission (CQC) and/or Ofsted.\n\nHelpline advisers answered over 215,000 calls and 30,000 emails. The Helpline appears to be centered on providing access to books, content, and products that are suitable for blind and partially sighted people (p.12). \n\nThe ECLOs helped nearly 48,000 patients and around 15,500 relatives or carers (p.12). The [role of the ECLO](https://www.rnib.org.uk/ecloinformation) is to \"provide those recently diagnosed with an eye condition with the practical and emotional support which they need to understand their diagnosis, deal with their sight loss and maintain their independence\".\n\nWithin the Connect our community priority area, the RNIB indicate that they have grown their regional network, and they now serve a community of around 64,000 people (p.14). They also recently launched a Connect Voices network to give people outside the organisation a way to get involved in RNIB’s work. Just under 300 people joined Connect Voices (p.22).\n\nWithin the Change society priority area, several campaigns are mentioned in the 2019/20 annual report (p.16). This includes campaigns to ban pavement and double parking, which has been successful in changing the law in Scotland, and has resulted in the issue being explored by the governments in England and Wales. The RNIB was also successful in improving accessible voting for the 2019 General Election, allowing many blind people to vote independently and in private for the first time. They also launched a new report focusing on barriers for people with sight loss in Northern Ireland.\n\nWe note that the RNBI were [recently investigated](https://www.gov.uk/government/publications/charity-inquiry-the-royal-national-institute-of-blind-people-and-rnib-charity/charity-inquiry-the-royal-national-institute-of-blind-people-226227-and-rnib-charity-1156629) by the Charity Commission. This was in relation to a series of incidents and regulatory breaches at an RNIB specialist learning centre/children’s home. It appears that in response to this, one action the RNIB has taken was to review their establishment-based services (i.e. care homes, schools and a college), and transfer some (or possibly all) of them to specialist providers (p.12 of annual report). Going forward, it is unclear whether the RNIB will still fund them. It could be that the RNIB will continue to provide the funding, but they will be run by external providers.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of the RNIB under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-Standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £200 to avert one year of severe depression), and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nThe National Sight Loss Advice Service provided advice to around 32,000 beneficiaries (26,113 blind and partially sighted people and 5,726 friends, family, carers and professionals) at a cost of £21.8m. This gives a cost per person of over £680. This means that for the cost of providing advice to one person, over 3 people could have benefited from averting one year of severe depression, had this money instead been spent on a Gold-Standard charity. Given this, we do not consider the National Sight Loss Advice Service to be cost-effective in comparison to the SoGive Gold-Standard. However, we remain open to reviewing this position, for example if evidence was provided that the Eye Health team was having a substantial impact in preventing or slowing sight loss. \n\nWith regards to the other services included within the first priority area, we do not have a clear enough breakdown of costs in order to have an understanding of their cost-effectiveness. However, we recognise that the RNIB have undertaken [evaluations of ECLOs](https://www.rnib.org.uk/ecloinformation) and have provided some evidence that they have a positive impact on patient experience and emotional wellbeing. We judge such impacts to be relatively small (e.g. they are not preventing or treating blindness), but they could be cost-effective depending on the cost. \n\nWithin the Connect our community priority area, in 2019/20 the RNIB spent £2.8m to serve a community of around 64,000 people. This implies a cost of around £44 per person. For some people, we believe having access to this community of support could make a substantial positive difference to their wellbeing. However, since this is less than 5% of RNIB’s annual spending, we do not believe this will make a substantial difference to our judgement of their overall cost-effectiveness.\n\nFinally, we believe that the RNIB have had some success in campaigning for changes that have an impact on the lives of blind and partially sighted people. However, the number of people who might benefit from the specific changes mentioned (pavement parking, and voting access) is not indicated, and neither is the expected size of impact on each person’s wellbeing. This means we are unable to estimate the cost-effectiveness of this work.\n\n**Conclusion**\n\nOverall, since the National Sight Loss Advice Service makes up over one-third of charitable spending, and we judge this as not being cost-effective, we rate the RNIB as Not Recommended (tentative) on the SoGive ratings scale.\n",
+  "whyTags": "Blindness, Health, Disabilities",
+  "UNSDG": "3",
+  "imageCaption": "RNIB",
+  "ready": true,
+  "logo": "https://media.good-loop.com/uploads/standard/RNIBweb-20180907040906351-8091817110009183705.jpg",
+  "modified": false,
+  "@id": "royal-national-institute-of-blind-people-rnib",
+  "summaryDescription": "The Royal National Institute of Blind People (RNIB) provides information, support, and advice to almost two million people in the UK with sight loss.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/article-4__p-8313329131529267411.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Royal National Institute of Blind People (RNIB)",
+    "Royal National Institute of Blind People (RNIB)",
+    "royal-national-institute-of-blind-people-rnib"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "royal-national-institute-of-blind-people-rnib",
+      "name": "People (singular: person) given information, advice, and specialist support",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 6833129,
+        "value": "683.312918119287605184000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.rnib.org.uk/",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "People (singular: person) given information, advice, and specialist support",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 6833129,
+      "value": "683.312918119287605184000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Royal National Institute of Blind People (RNIB)",
+  "category": "health",
+  "subcategory": "Treatment and Prevention",
+  "englandWalesCharityRegNum": "226227",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
