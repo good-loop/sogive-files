@@ -1,14 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/loughborough-19.09.18-45-of-57-scaled-7786951246615838141.jpg",
-  "headerImage": "https://media.good-loop.com/uploads/standard/loughborough-19.09.18-45-of-57-scaled-10469397480709996102.jpg",
   "@type": "NGO",
-  "displayName": "Community RePaint",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-main_1-16366614860546282015.png#ccrop:90",
-  "description": "Community RePaint is a UK wide paint reuse network, sponsored by Dulux, that aims to collect this leftover paint and redistribute it to benefit individuals, families, communities and charities in need at an affordable cost. The network is run on a day to day basis by Resource Futures, an environmental consultancy.",
-  "id": "community-repaint",
-  "suggest": [
-    "Community RePaint"
-  ],
-  "url": "",
-  "status": "PUBLISHED"
+  "id": "rainy-day-trust",
+  "suggest": []
 }
