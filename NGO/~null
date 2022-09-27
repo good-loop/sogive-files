@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Community Repaint",
   "id": "community-repaint",
-  "suggest": []
+  "suggest": [
+    "Community Repaint"
+  ],
+  "status": "DRAFT"
 }
