@@ -1,8 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Rainy Day Trust",
   "logo": "https://media.good-loop.com/uploads/standard/rainy-day-trust-logo-12647905392276963675.svg",
   "id": "rainy-day-trust",
-  "suggest": [],
+  "suggest": [
+    "Rainy Day Trust"
+  ],
   "url": "https://www.rainydaytrust.org.uk/",
   "status": "DRAFT"
 }
