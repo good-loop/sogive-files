@@ -1,15 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/send-review-pic-11569500208968823690.jpg",
   "@type": "NGO",
-  "displayName": "National Deaf Children\u0027s Society",
-  "unlisted": true,
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/1630409842NDCS-Logo-Reversed-A4ExclZone-14356122896595193988.png",
-  "description": "We are the leading charity for deaf children. We give expert support on childhood deafness, raise awareness and campaign for deaf children’s rights, so they have the same opportunities as everyone else.  We’re here for every deaf child who needs us - no matter what their level or type of deafness or how they communicate. Our vision is a world without barriers for every deaf child. Together we overcome the social and educational barriers that hold deaf children back.",
-  "id": "national-deaf-childrens-society",
-  "suggest": [
-    "National Deaf Children\u0027s Society"
-  ],
-  "url": "https://www.ndcs.org.uk/",
-  "status": "DRAFT"
+  "id": "community-repaint",
+  "suggest": []
 }
