@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Whitney Houston Foundation",
   "name": "Whitney Houston Foundation",
   "id": "whitney-houston-foundation",
   "suggest": [
+    "Whitney Houston Foundation",
     "Whitney Houston Foundation"
   ],
   "status": "DRAFT"
