@@ -1,6 +1,9 @@
 {
   "@type": "NGO",
+  "name": "Whitney Houston Foundation",
   "id": "whitney-houston-foundation",
-  "suggest": [],
+  "suggest": [
+    "Whitney Houston Foundation"
+  ],
   "status": "DRAFT"
 }
