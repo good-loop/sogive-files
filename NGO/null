@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Whitney Houston Foundation",
-  "name": "Whitney Houston Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/whf-logo__e7d8b1bc5b682d79a2d4-2797044618284706329.png",
-  "id": "whitney-houston-foundation",
+  "displayName": "Plastic Bank",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-horizontal-12040204252313582370.svg#ccrop:90",
+  "id": "plastic-bank",
   "suggest": [
-    "Whitney Houston Foundation",
-    "Whitney Houston Foundation"
+    "Plastic Bank"
   ],
+  "url": "https://plasticbank.com/",
   "status": "DRAFT"
 }
