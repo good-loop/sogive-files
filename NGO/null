@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Rainy Day Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/rainy-day-trust-logo-12647905392276963675.svg#ccrop:90",
-  "id": "rainy-day-trust",
+  "displayName": "Whitney Houston Foundation",
+  "name": "Whitney Houston Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/whf-logo__e7d8b1bc5b682d79a2d4-2797044618284706329.png",
+  "id": "whitney-houston-foundation",
   "suggest": [
-    "Rainy Day Trust"
+    "Whitney Houston Foundation",
+    "Whitney Houston Foundation"
   ],
-  "url": "https://www.rainydaytrust.org.uk/",
   "status": "DRAFT"
 }
