@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Plastic Bank",
   "id": "plastic-bank",
-  "suggest": []
+  "suggest": [
+    "Plastic Bank"
+  ],
+  "status": "DRAFT"
 }
