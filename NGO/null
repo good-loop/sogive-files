@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Whitney Houston Foundation",
-  "name": "Whitney Houston Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/whf-logo__e7d8b1bc5b682d79a2d4-2797044618284706329.png#ccrop:81",
-  "id": "whitney-houston-foundation",
+  "unlisted": true,
+  "displayName": "Charity Placeholder",
+  "logo": "https://media.good-loop.com/uploads/standard/Charity_Placeholder_1-4977086594840786564.png#ccrop:95",
+  "id": "charity-placeholder",
   "suggest": [
-    "Whitney Houston Foundation",
-    "Whitney Houston Foundation"
+    "Charity Placeholder"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
