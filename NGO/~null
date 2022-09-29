@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Charity Placeholder",
-  "logo": "https://media.good-loop.com/uploads/standard/Charity_Placeholder_1-4977086594840786564.png#ccrop:95",
-  "id": "charity-placeholder",
-  "suggest": [
-    "Charity Placeholder"
-  ],
-  "status": "DRAFT"
+  "id": "bad-uk",
+  "suggest": []
 }
