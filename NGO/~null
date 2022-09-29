@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "BAD UK",
-  "logo": "https://media.good-loop.com/uploads/standard/BetterLogo-17523300416298566785.jpg#ccrop:95",
-  "description": "BAD UK is a charity with a huge aim - to ensure that Bile Acid Diarrhoea (BAD), also known as Bile Acid Malabsorption (BAM) or Bile Salt Malabsorption (BSM), is widely understood by the UK population, recognised much earlier by health care professionals and to help make BAD days better.",
-  "id": "bad-uk",
+  "unlisted": true,
+  "displayName": "Charity Placeholder",
+  "logo": "https://media.good-loop.com/uploads/standard/Charity_Placeholder_1-4977086594840786564.png#ccrop:95",
+  "description": "Short charity description ",
+  "id": "charity-placeholder",
   "suggest": [
-    "BAD UK"
+    "Charity Placeholder"
   ],
-  "url": "https://www.bad-uk.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
