@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "unlisted": true,
   "id": "charity-placeholder",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
