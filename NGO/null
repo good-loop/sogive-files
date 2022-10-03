@@ -1,15 +1,10 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-2846337044857385189.png",
-  "headerImage": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-3848078238635360360.png",
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Charity Placeholder",
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/Charity_Placeholder_1-4977086594840786564.png#ccrop:95",
-  "description": "Charity description here...",
-  "id": "charity-placeholder",
+  "name": "American Society for the Prevention of Cruelty to Animals ",
+  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
   "suggest": [
-    "Charity Placeholder"
+    "American Society for the Prevention of Cruelty to Animals "
   ],
+  "category": "animals",
   "status": "DRAFT"
 }
