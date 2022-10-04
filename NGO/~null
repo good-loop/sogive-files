@@ -1,5 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Community Chest",
+  "name": "Community Chest",
   "id": "community-chest",
-  "suggest": []
+  "suggest": [
+    "Community Chest",
+    "Community Chest"
+  ],
+  "status": "DRAFT"
 }
