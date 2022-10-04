@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Global Conservation",
-  "name": "Global Conservation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-181937914703181257.png#ccrop:83",
-  "id": "global-conservation",
-  "suggest": [
-    "Global Conservation",
-    "Global Conservation"
-  ],
-  "url": "https://globalconservation.org/",
-  "status": "PUBLISHED"
+  "id": "community-chest",
+  "suggest": []
 }
