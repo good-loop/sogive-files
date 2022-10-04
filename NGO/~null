@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "American Society for the Prevention of Cruelty to Animals ",
-  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
-  "suggest": [
-    "American Society for the Prevention of Cruelty to Animals "
-  ],
-  "category": "animals",
-  "status": "DRAFT"
+  "id": "global-conservation",
+  "suggest": []
 }
