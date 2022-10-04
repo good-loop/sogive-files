@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "American Society for the Prevention of Cruelty to Animals ",
-  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
+  "displayName": "Global Conservation",
+  "name": "Global Conservation",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-181937914703181257.png",
+  "id": "global-conservation",
   "suggest": [
-    "American Society for the Prevention of Cruelty to Animals "
+    "Global Conservation",
+    "Global Conservation"
   ],
-  "category": "animals",
+  "url": "https://globalconservation.org/",
   "status": "DRAFT"
 }
