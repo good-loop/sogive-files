@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Young Enterprise",
-  "name": "Young Enterprise",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-6297543413977168775.png",
-  "id": "young-enterprise",
+  "name": "American Society for the Prevention of Cruelty to Animals ",
+  "logo": "https://www.aspca.org/",
+  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
   "suggest": [
-    "Young Enterprise",
-    "Young Enterprise"
+    "American Society for the Prevention of Cruelty to Animals "
   ],
-  "url": "https://www.young-enterprise.org.uk/",
-  "status": "DRAFT"
+  "category": "animals",
+  "status": "PUBLISHED"
 }
