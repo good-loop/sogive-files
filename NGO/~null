@@ -1,6 +1,6 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/aspca-14602870305467284395.jpg",
-  "color": "#000000",
+  "color": "#fefefe",
   "@type": "NGO",
   "name": "American Society for the Prevention of Cruelty to Animals ",
   "logo": "https://media.good-loop.com/uploads/standard/aspca-logo-15790348645854166950.png",
@@ -12,5 +12,5 @@
   "category": "animals",
   "subcategory": "Animal Rights, Welfare, and Services",
   "url": "https://www.aspca.org",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
