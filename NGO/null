@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Global Conservation",
-  "name": "Global Conservation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-181937914703181257.png#ccrop:83",
-  "id": "global-conservation",
+  "displayName": "Community Chest",
+  "name": "Community Chest",
+  "logo": "https://media.good-loop.com/uploads/standard/comchestlogo-11446337506477079724.png",
+  "id": "community-chest",
   "suggest": [
-    "Global Conservation",
-    "Global Conservation"
+    "Community Chest",
+    "Community Chest"
   ],
-  "url": "https://globalconservation.org/",
-  "status": "MODIFIED"
+  "url": "https://www.comchest.gov.sg/campaigns-events/campaigns/Details/change-for-charity",
+  "status": "DRAFT"
 }
