@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "PangeaSeed Foundation",
-  "name": "PangeaSeed Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/PSF__Logo__Final__Alt__Logotype__Black__0bd2ee6c-f45a-4828-a472-48ee46928d49__400x-14104321410192907678.svg#ccrop:90",
-  "id": "pangeaseed-foundation",
+  "displayName": "Young Enterprise",
+  "name": "Young Enterprise",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-6297543413977168775.png#ccrop:76",
+  "id": "young-enterprise",
   "suggest": [
-    "PangeaSeed Foundation",
-    "PangeaSeed Foundation"
+    "Young Enterprise",
+    "Young Enterprise"
   ],
-  "url": "https://shop.pangeaseed.org/",
+  "url": "https://www.young-enterprise.org.uk/",
   "status": "DRAFT"
 }
