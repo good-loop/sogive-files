@@ -1,6 +1,10 @@
 {
   "@type": "NGO",
-  "id": "test-new-ngo",
-  "suggest": [],
-  "status": "DRAFT"
+  "name": "PangeaSeed Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/PSF__Logo__Final__Alt__Logotype__Black__0bd2ee6c-f45a-4828-a472-48ee46928d49__400x-14104321410192907678.svg#ccrop:90",
+  "id": "pangeaseed-foundation",
+  "suggest": [
+    "PangeaSeed Foundation"
+  ],
+  "status": "PUBLISHED"
 }
