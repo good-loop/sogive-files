@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "Young Enterprise",
   "name": "Young Enterprise",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-6297543413977168775.png#ccrop:95",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-6297543413977168775.png#ccrop:76",
   "id": "young-enterprise",
   "suggest": [
     "Young Enterprise",
     "Young Enterprise"
   ],
   "url": "https://www.young-enterprise.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
