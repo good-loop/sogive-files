@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Fashion Takes Action",
-  "logo": "https://media.good-loop.com/uploads/standard/FTA__Full__Logo__Transparent__Black__New-LG-5dec2-3584952520689160405.svg#ccrop:90",
-  "id": "fashion-takes-action",
+  "displayName": "Waste Aid",
+  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-14034647970953569604.png",
+  "id": "waste-aid",
   "suggest": [
-    "Fashion Takes Action"
+    "Waste Aid"
   ],
-  "url": "https://fashiontakesaction.com/",
+  "url": "https://wasteaid.org/",
   "status": "DRAFT"
 }
