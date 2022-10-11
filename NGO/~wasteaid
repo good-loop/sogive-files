@@ -13,7 +13,7 @@
   "whyTags": "Environment \u0026 Climate Change \u0026 Waste \u0026 Poverty \u0026 Employment \u0026 Education",
   "ready": false,
   "name": "wasteaid",
-  "logo": "https://media.good-loop.com/uploads/raw/WasteAid-Square-Ident-Green-800x946-2700679025293798229.png#ccrop:_ccrop:_ccrop:65",
+  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
   "@id": "wasteaid",
   "wikipedia": "https://en.wikipedia.org/wiki/WaterAid",
   "category": "environment",
@@ -21,5 +21,5 @@
   "englandWalesCharityRegNum": "1160263",
   "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
   "whereTags": "Africa \u0026 Asia",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
