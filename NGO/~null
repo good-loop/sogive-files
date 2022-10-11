@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Waste Aid",
+  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-14034647970953569604.png",
   "id": "waste-aid",
   "suggest": [
     "Waste Aid"
