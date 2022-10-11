@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Community Chest",
-  "name": "Community Chest",
-  "logo": "https://media.good-loop.com/uploads/standard/comchestlogo-11446337506477079724.png#ccrop:81",
-  "id": "community-chest",
+  "displayName": "Fashion Takes Action",
+  "logo": "https://media.good-loop.com/uploads/standard/FTA__Full__Logo__Transparent__Black__New-LG-5dec2-3584952520689160405.svg",
+  "id": "fashion-takes-action",
   "suggest": [
-    "Community Chest",
-    "Community Chest"
+    "Fashion Takes Action"
   ],
-  "url": "https://www.comchest.gov.sg/campaigns-events/campaigns/Details/change-for-charity",
+  "url": "https://fashiontakesaction.com/",
   "status": "PUBLISHED"
 }
