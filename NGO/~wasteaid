@@ -1,10 +1,10 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/WasteAid__ROLE-Foundation__Waste-management-training-12-5-2021-Bali__Indonesia__2021-scaled-15543595016975081259.jpg",
   "@type": "NGO",
-  "displayName": "WasteAid",
+  "displayName": "Waste Aid",
   "suggest": [
-    "wasteaid",
-    "WasteAid",
+    "",
+    "Waste Aid",
     "wasteaid"
   ],
   "url": "https://wasteaid.org/",
@@ -12,7 +12,7 @@
   "howTags": "Direct Work",
   "whyTags": "Environment \u0026 Climate Change \u0026 Waste \u0026 Poverty \u0026 Employment \u0026 Education",
   "ready": false,
-  "name": "wasteaid",
+  "name": "",
   "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
   "@id": "wasteaid",
   "wikipedia": "https://en.wikipedia.org/wiki/WaterAid",
@@ -21,5 +21,5 @@
   "englandWalesCharityRegNum": "1160263",
   "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
   "whereTags": "Africa \u0026 Asia",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
