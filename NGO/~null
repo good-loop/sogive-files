@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Fund a Macmillan Support Line",
   "id": "fund-a-macmillan-nurse",
-  "suggest": []
+  "suggest": [
+    "Fund a Macmillan Support Line"
+  ],
+  "status": "DRAFT"
 }
