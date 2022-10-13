@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Support a Macmillan Body",
+  "unlisted": true,
   "id": "support-a-macmillan-buddy",
   "suggest": [
     "Support a Macmillan Body"
