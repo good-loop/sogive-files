@@ -1,14 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Girl Up",
-  "name": "girl up UN foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/23-238460__girl-up-logo-hd-png-download-883850393509335530.png",
-  "description": "",
-  "id": "girl-up-",
+  "displayName": "Support a Macmillan Body",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Support_a_Macmillan_Buddy-16815516937994656837.png#ccrop:90",
+  "id": "support-a-macmillan-buddy",
   "suggest": [
-    "girl up UN foundation",
-    "Girl Up"
+    "Support a Macmillan Body"
   ],
-  "url": "https://girlup.org/",
+  "url": "https://www.macmillan.org.uk/",
   "status": "DRAFT"
 }
