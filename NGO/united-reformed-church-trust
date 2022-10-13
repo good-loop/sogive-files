@@ -1,0 +1,363 @@
+{
+  "images": "https://urc.org.uk/images/News/News_images/St_Columbas_school_swap_shop_team2.jpg",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "23255000",
+          "currency": "GBP",
+          "value100p": 2.3255E11,
+          "value": 2.3255E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21). \"Annual costs\" \u003d (\"Total expended\" for \"2019 total funds\")."
+        },
+        "reserves": {
+          "notes": "2019 annual report (p. 21). \"Reserves\" \u003d (\"Total funds carried forward\" for \"Unrestricted\")."
+        }
+      },
+      "name": "overall",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "42687000",
+        "currency": "",
+        "value100p": 4.2687E11,
+        "value": 4.2687E7
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "17378",
+          "currency": "GBP",
+          "value100p": 1.7378E8,
+          "value": 17378.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21)."
+        }
+      },
+      "name": "Ministry",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3142000",
+          "currency": "GBP",
+          "value100p": 3.142E10,
+          "value": 3142000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21)."
+        }
+      },
+      "name": "Education and Learning",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "385000",
+          "currency": "GBP",
+          "value100p": 3.85E9,
+          "value": 385000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21)."
+        }
+      },
+      "name": "Mission programmes",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1537000",
+          "currency": "GBP",
+          "value100p": 1.537E10,
+          "value": 1537000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21)."
+        }
+      },
+      "name": "Children\u0027s and Youth work",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "162000",
+          "currency": "GBP",
+          "value100p": 1.62E9,
+          "value": 162000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "2019 annual report (p. 21)."
+        }
+      },
+      "name": "Publishing",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "United Reformed Church Trust",
+  "noPublicDonations": false,
+  "impact": "very-low",
+  "confidence": "high",
+  "recommendation": "**Summary**\n\n**The United Reformed Church Trust is rated as Not Recommended, Too Rich (Firm) on the SoGive ratings scale.**\n\n- The United Reformed Church Trust’s (URCT) objective is \"to advance the Christian religion for the benefit of the public in accordance with the doctrines, principles and usages, and the Scheme of Union of the United Reformed Church [URC]\".\n- Based on its 2019 annual report, we believe the expenditure per member of the URC during 2019 was about £540.\n- For this cost, a Gold-rated organisation would be expected to avert about 3 years of severe depression. While there may be positive impacts on well-being from being a member of the URC, we do not believe these are as good as averting 3 years of severe depression.\n- In addition, we estimate that URCT has a level of reserves which means they could fully fund their activities for roughly 22 months, even if they received no further donations.\n- This is longer than the 18 month threshold above which charities are rated as Too Rich.\n- For these reasons, it is very likely that a donation to URCT will achieve less positive impact than the same amount of money given to a Gold-rated organisation and we therefore do not recommend donating to URCT at the current time.\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what URCT does - how they spend your donations**\n\nURCT describes its activities as follows ([2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435), pp. 4 and 5):\n- *Public benefit*. \"The [United Reformed] Church at General Assembly level acts as an umbrella resource body for the 13 National and Provincial Synods and approximately 1,350 local churches, which are all separate charities\".\n- *Worship and partnership*. \"The United Reformed Church is part of the Church universal. As such its aim is to proclaim the love of God in Jesus Christ in word and deed. A main strategy to achieve that aim is the provision of public worship in viable congregations across the three nations of England, Scotland and Wales\".\n- *Walking the Way*. \"During 2017 the United Reformed Church launched Walking the Way, Living the Life of Jesus Today, an emphasis on personal and corporate discipleship. It offers a framework within which much of the denomination’s future planning will take place and includes the development of Stepwise, a lay development programme, as well as the advocacy of resources such as Holy Habits which are all intended to assist growth in discipleship practices\".\n- *Subsidiary charities*. \"The United Reformed Church Retired Ministers’ Housing Society Limited has as its objects to carry on for the benefit of the community the business of providing, for retired ministers and widow/ers or civil partners of ministers of the United Reformed Church who are in need for various reasons, housing and associated amenities, or assistance to enable them to provide this for themselves\".\n\nThe total expenditure of £23.3M for 2020 was allocated as follows ([2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435), p. 21):\n- Charitable activities (97%):\n\t- Ministry (75%).\n\t- Education and Learning (13.5%).\n\t- Mission programmes (6.6%).\n- Children\u0027s and Youth work (1.7%).\n\t- Publishing (0.7%).\n- Raising funds (2.8%).\n\nThe impact of URCT is described in the section \"Achievements and Performance\" of the [2020 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435) (pp. 5 to 9). Some target areas and examples include:\n- *Children’s and Youth Work*. \"At Youth Assembly in January over one hundred 14-25 year olds explored subthemes of ‘One World’, ‘One Community’ and ‘One Church’ through keynotes, workshops and worship\".\n-  *Communications*. \"The [communications] team currently provides: comments, press releases and statements for media enquiries; Reform magazine; content for the URC website; News Update and other emails; content for multiple social media channels; design and production for hundreds of leaflets, books and resources; the online bookshop, delivering more than 9,000 items; graphical, editorial and technical support at major URC events; the iChurch website service for local churches; editing and copywriting; helping to maintain the URC archive and offers brand advice and creative solutions to those who need them\".\n- *Mission*. \"The United Reformed Church is part of the ecumenical Joint Public Issues Team (JPIT). In 2019 the team’s work focused on poverty and Universal credit, climate change, asylum policy, and encouraging informed reflection and engagement around the Brexit process and the General Election\".\n\nAccording to the URC’s [Summary of Statistics for 2020](https://urc.org.uk/statistics.html), it had 43.2k members at the end of 2019.\n\n\n**Cost-effectiveness analysis - how does URCT compare to the most cost-effective charities?**\n\nAfter a review of the work of URCT under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nFurther information about the impact of URCT charitable activities on the beneficiaries would be needed in order to robustly estimate its cost-effectiveness. Nevertheless, a meaningful comparison can be made based on the total expenditure of £23.3M, and the URC membership of 43.2k. These imply an average cost per member during 2019 of around £540.\n\nFor the above cost to match the SoGive Gold Standard of £200 to avert one year of severe depression, the impact per member per year would, on average, have to be an improvement in well-being equivalent to averting about 3 years of severe depression (£538 / £200 \u003d 2.7). While there may be positive impacts on well-being from being a member of URC, we do not believe these achieve an outcome as good as averting 3 years of severe depression.\n\nThe charitable activities might reach people who are not members of the URC, but they might also not impact all of the URC members, and the effect on people less strongly connected to the URC would likely be smaller. Moreover, even assuming the URC reached 10 times as many people as their members, the average impact per person would still have to be an improvement in well-being equivalent to averting about 3 months of severe depression (£538 / £200 * 12 / 10 \u003d 3.2).\n\nFurthermore, the extent of URCT’s counterfactual impact, i.e. the difference between what actually happened and what would have happened without the charity’s activities, is not clear. For example, in addition to the government, there are numerous other organisations focussed on funding education and learning. \n\nFor these reasons, it is highly likely that a donation to URCT will achieve less positive impact than the same amount of money given to a Gold-rated organisation.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n\n**Reserves**\n\nURCT is rated as Too Rich under the SoGive methodology. Given the charity’s total unrestricted funds of £42.7M carried forward on 31 December 2019 (£20.1M of unrestricted income funds, and £22.6M of unrestricted capital funds), and the total expenditure of £23.3M for 2019 ([2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435), p. 21), we estimate that URCT has a level of reserves which means they could fully fund their activities for roughly 22 months, even if they received no further donations. This is longer than the 18 month threshold above which charities are rated as Too Rich.\n\n\n**Conclusion**\n\nBased on the above, we rate the United Bible Societies Association as Not Recommended, Too Rich (Firm) under the SoGive methodology. ",
+  "suggest": [
+    "United Reformed Church Trust",
+    "United Reformed Church Trust",
+    "united-reformed-church-trust"
+  ],
+  "url": "https://urc.org.uk/",
+  "whyTags": "Christian",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": ""
+    },
+    "summaryDescription": {
+      "notes": "2019 annual report (p. 4).",
+      "source": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10578607\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5007435"
+    }
+  },
+  "ready": true,
+  "name": "United Reformed Church Trust",
+  "logo": "https://urc.org.uk/images/logo.png",
+  "@id": "united-reformed-church-trust",
+  "category": "religion",
+  "englandWalesCharityRegNum": "1133373",
+  "summaryDescription": "The United Reformed Church Trust (URCT) objectives are \"to advance the Christian religion for the benefit of the public in accordance with the doctrines, principles and usages, and the Scheme of Union of the United Reformed Church\".",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
