@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Support a Macmillan Body",
   "id": "support-a-macmillan-buddy",
-  "suggest": []
+  "suggest": [
+    "Support a Macmillan Body"
+  ],
+  "status": "DRAFT"
 }
