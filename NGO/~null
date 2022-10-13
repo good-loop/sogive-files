@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Fund a Macmillan Support Line",
+  "unlisted": true,
   "id": "fund-a-macmillan-support-line",
   "suggest": [
     "Fund a Macmillan Support Line"
