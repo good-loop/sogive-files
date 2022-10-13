@@ -1,12 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "Fund a Macmillan Support Line",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_a_Macmillan_Nurse-12014536811457648889.png",
-  "id": "fund-a-macmillan-nurse",
+  "displayName": "Freedom4Girls",
+  "name": "Freedom4Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png#ccrop:83",
+  "id": "freedom4girls",
   "suggest": [
-    "Fund a Macmillan Support Line"
+    "Freedom4Girls",
+    "Freedom4Girls"
   ],
-  "url": "https://www.macmillan.org.uk/",
-  "status": "DRAFT"
+  "url": "https://www.freedom4girls.co.uk/",
+  "status": "PUBLISHED"
 }
