@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
   "displayName": "Fund a Macmillan Support Line",
+  "unlisted": true,
   "id": "fund-a-macmillan-nurse",
   "suggest": [
     "Fund a Macmillan Support Line"
   ],
+  "url": "https://www.macmillan.org.uk/",
   "status": "DRAFT"
 }
