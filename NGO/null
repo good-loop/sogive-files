@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "Fund a Macmillan Support Line",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Fund_a_Macmillan_Support_Line-18190474380002731827.png#ccrop:90",
-  "id": "fund-a-macmillan-support-line",
+  "logo": "https://media.good-loop.com/uploads/standard/Fund_a_Macmillan_Nurse-12014536811457648889.png",
+  "id": "fund-a-macmillan-nurse",
   "suggest": [
     "Fund a Macmillan Support Line"
   ],
-  "url": "",
+  "url": "https://www.macmillan.org.uk/",
   "status": "DRAFT"
 }
