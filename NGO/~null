@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/FSF____est__1937__Logotype__RGB-2104981520058522658.png#ccrop:99",
   "id": "fashion-scholarship-fund",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
