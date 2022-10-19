@@ -1,13 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Freedom4Girls",
-  "name": "Freedom4Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png#ccrop:83",
-  "id": "freedom4girls",
-  "suggest": [
-    "Freedom4Girls",
-    "Freedom4Girls"
-  ],
-  "url": "https://www.freedom4girls.co.uk/",
-  "status": "PUBLISHED"
+  "id": "fashion-scholarship-fund",
+  "suggest": []
 }
