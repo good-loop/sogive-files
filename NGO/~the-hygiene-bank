@@ -1,0 +1,18 @@
+{
+  "scotlandCharityRegNum": "SC049895",
+  "images": "https://media.good-loop.com/uploads/raw/MG__1970-scaled-18090644892356943355.jpeg",
+  "@type": "NGO",
+  "displayName": "The Hygiene Bank",
+  "name": "the-hygiene-bank",
+  "description": "At The Hygiene Bank, we believe it is not right that feeling clean should be a luxury or a privilege for anyone in our society, yet many are living in poverty and cannot afford to stay clean. That is why our network of projects exists - to give people access to the basics they need.",
+  "logo": "https://media.good-loop.com/uploads/raw/thb-logo-yellow-m-1920480325047740674.jpeg",
+  "@id": "the-hygiene-bank",
+  "suggest": [
+    "the-hygiene-bank",
+    "The Hygiene Bank",
+    "the-hygiene-bank"
+  ],
+  "id": "the-hygiene-bank",
+  "englandWalesCharityRegNum": "1181267",
+  "status": "PUBLISHED"
+}
