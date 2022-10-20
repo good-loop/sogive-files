@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Fashion Scholarship Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/FSF____est__1937__Logotype__RGB-2104981520058522658.png#ccrop:99",
-  "id": "fashion-scholarship-fund",
+  "name": "Papa John\u0027s Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/papa_j_foundation-5499378641495834181.png",
+  "id": "papa-johns-foundation",
   "suggest": [
-    "Fashion Scholarship Fund"
+    "Papa John\u0027s Foundation"
   ],
   "status": "DRAFT"
 }
