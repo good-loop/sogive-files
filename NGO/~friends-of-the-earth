@@ -1,0 +1,229 @@
+{
+  "ukCompanyRegNum": "01012357",
+  "circleCrop": 89.0,
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://cdn.friendsoftheearth.uk/sites/default/files/downloads/FOE%20Ltd%20Accounts%2030%20June%202019%20%20FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "13484321",
+          "currency": "GBP",
+          "value100p": 1.3484321E11,
+          "value": 1.3484321E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "end_raw": "2019-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://cdn.friendsoftheearth.uk/sites/default/files/downloads/FOE%20Ltd%20Accounts%2030%20June%202019%20%20FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "758583",
+          "currency": "GBP",
+          "value100p": 7.58583E9,
+          "value": 758583.0
+        }
+      ],
+      "name": "Supporter engagement",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "end_raw": "2019-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://cdn.friendsoftheearth.uk/sites/default/files/downloads/FOE%20Ltd%20Accounts%2030%20June%202019%20%20FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9735529",
+          "currency": "GBP",
+          "value100p": 9.735529E10,
+          "value": 9735529.0
+        }
+      ],
+      "name": "Campaigning \u0026 information provision",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "end_raw": "2019-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://cdn.friendsoftheearth.uk/sites/default/files/downloads/FOE%20Ltd%20Accounts%2030%20June%202019%20%20FINAL.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2414666",
+          "currency": "GBP",
+          "value100p": 2.414666E10,
+          "value": 2414666.0
+        }
+      ],
+      "name": "Payments to charities/charitable companies",
+      "start": "2018-07-01",
+      "end": "2019-06-30",
+      "end_raw": "2019-06-30"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Friends of the Earth",
+  "description": "This charity aims to protect local environments, push for alternative energy solutions, and fight for global environmental and social justice. Initiatives Friends of the Earth UK is working on include fighting climate change, promoting EU environmental protections, reducing plastic waste, saving the bees, doubling tree cover in the UK, and preventing oil fracking.",
+  "recommendation": "**To evaluate Friends of the Earth under the SoGive rating methodology, we would need more information.**\n\nFriends of the Earth aims to protect local environments, promote alternative energy sources, and campaign for environmental and social justice around the world. The charity strives to mitigate climate change, promote EU environmental protections, cut down on plastic waste, protect bee populations, increase tree cover in the UK and protest against oil fracking.\n\nThe charity spends about 75% of its funds on campaigning and information provision, 19% on paying other charitable organizations, and 6% on supporter engagement.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Friends of the Earth does**\n\nWe could not gather enough information from the [2019 annual report](https://cdn.friendsoftheearth.uk/sites/default/files/downloads/FOE%20Ltd%20Accounts%2030%20June%202019%20%20FINAL.pdf) to perform a detailed analysis or form opinions about Friends of the Earth\u0027s work under the SoGive methodology.\n\nOur inability to provide an evaluation arises mainly from the fact that we did not obtain sufficient information about the costs and impacts of the specific campaign initiatives that Friends of the Earth directs funds towards. As [our earlier analysis](http://thinkingaboutcharity.blogspot.com/2019/08/is-it-better-to-fund-direct-work-or.html?view\u003dsidebar) shows, the impact of public campaigns proves particularly hard to estimate.\n\nListed below are summaries of Friends of the Earth\u0027s campaigns:\n\n-The charity is pushing for a [climate action plan](https://friendsoftheearth.uk/climate-change/how-uk-government-can-tackle-climate-breakdown-our-6-point-climate-action-plan) that will push the UK to achieve net-zero long before 2050.\n\nWe do not know how effective they are at achieving that goal.\n\n-The charity has campaigned to stop a plan that would expand [Heathrow Airport](https://friendsoftheearth.uk/climate-change/heathrows-third-runway). This success prevents an increase in aircraft emissions and also helps control noise pollution. \n\nWe do not know how effective they are at achieving that goal, especially considering that other organizations like Plan B Earth also played a role.\n\n-The charity calls for the UK to double its [tree cover](https://friendsoftheearth.uk/trees), which helps reduce net carbon emissions and protects local species.\n\nThere is a risk of the oversimplification of the impact of trees. Trees have biophysical as well as biogeochemical effects, and so the impact of tree-planting on the climate may be materially affected by the soil the trees are planted in or the impact of the tree on albedo, evapotranspiration and surface-roughness. The longevity of the tree or its descendants is also potentially material because otherwise, we risk achieving only temporary impact which lasts only as long as the lifetime of the tree.\n\n-The charity is campaigning to cut down on [plastic](https://friendsoftheearth.uk/plastics) use to reduce reliance on fossil fuels, protect animals from ingesting plastic, and reduce air pollution from burning plastic.\n\nWe would want further information form Friends of the Earth about\na) how material an impact would the reduction of plastic use have on our reliance on fossil fuels given that fossil fuels are used for many other things.\nb) the effectiveness of the Friends of the Earth campaign for achieving the goals of protecting animals and reducing air pollution.\n\n-The charity is campaigning to stop [fracking](https://friendsoftheearth.uk/climate-change/fracking) to reduce reliance on fossil fuels.\n\nWe do not know how effective they are at achieving that goal.\n\n-Friends of the Earth is pushing for environmentally-friendly [trade](https://friendsoftheearth.uk/trade) that treats workers fairly. During the production, transportation, and use of traded goods, the charity wants to keep pollution, deforestation, and greenhouse gas emissions to a minimum.\n\nThere are complex effects that arise when we move trade away from what happens naturally under market forces. While this may result in fairer and better outcomes for people, it may also exclude the worst-off from the employment market whatsoever. We would need evidence that Friends of the Earth have considered the ramifications of the policies they\u0027re advocating for.\n\nWe do not know how effective they are at achieving that goal.\n\n-Calling for limits on intensive farming and the use of pesticides, the charity hopes to reverse the decline in the UK‘s [bee](https://friendsoftheearth.uk/bees) population, which saves British farmers £1.8 billion every year by pollinating crops.\n\nWe would need Friends of the Earth to explain why this would be a net-positive change for humanity; British farmers may spend £1.8 billion every year on crops pollinating, but they may also save much more by using pesticides.\n\n- has FotE made an assessment of the ecological and human health effects of the use of pesticides and on the decline of bee population?\n\n-The charity also raises funds for [gardeners](https://friendsoftheearth.uk/nature/10x-greener-towns-and-cities) who creates natural space across the UK.\n\nWe do not know how effective they are at achieving that goal.\n\n**Benchmarking**\n\nAfter a review of the work of Friends of the Earth under the two-question method, the next step in the SoGive process would involve comparing this charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation). However, because of a lack of information in the charity\u0027s annual report, we ended up unable to perform the comparison.\n\n**Conclusion**\n\nWe would need more information to determine whether Friends of the Earth would lead to an impact more positive than saving a life for about £1,500.\n\nFurther information that would enable us to form a fuller opinion of the work of the charity would involve:\na) a more detailed cost assessment of Friends of the Earth\u0027s various initiatives. How much money is directed towards saving the bees, for example?\nb) an impact assessment of Friends of the Earth\u0027s campaigns. For each initiative, we would like to know how much pollution would be prevented, how many animals would be saved, or how many pounds would be saved. We would like to understand the different actors involved in achieving the goal. How do other stakeholders view Friends of the Earth? We would want to estimate how much later that outcome would have been achieved without Friends of the Earth if we were to build a quantitative model of their impact. ",
+  "whyTags": "Environment",
+  "UNSDG": "0",
+  "parentCharityName": "Friends of the Earth International",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-Friends__of__the__Earth__logo.svg-6160999526254825792.png#ccrop:84",
+  "@id": "friends-of-the-earth",
+  "summaryDescription": "Friends of the Earth describes itself as a grassroots environmental campaigning community.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/Kids_striking-11091552624711734511.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Friends of the Earth",
+    "Friends of the Earth",
+    "friends-of-the-earth"
+  ],
+  "url": "https://friendsoftheearth.uk/",
+  "howTags": "Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "whoTags": "",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Friends of the Earth",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "281681",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Global",
+  "status": "DRAFT"
+}
