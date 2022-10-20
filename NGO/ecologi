@@ -1,16 +1,19 @@
 {
   "ukCompanyRegNum": "11911630",
   "@type": "NGO",
-  "name": "Ecologi",
-  "@id": "ecologi",
   "suggest": [
     "Ecologi",
     "ecologi"
   ],
+  "url": "https://ecologi.com/",
+  "UNSDG": "13",
+  "whyTags": "environment",
+  "howTags": "trees",
+  "name": "Ecologi",
+  "logo": "https://media.good-loop.com/uploads/raw/ecologi-17604233766643133099.png",
+  "@id": "ecologi",
   "id": "ecologi",
   "category": "environment",
   "subcategory": "Climate Action",
-  "url": "https://ecologi.com/",
-  "status": "DRAFT",
-  "UNSDG": "13"
+  "status": "DRAFT"
 }
