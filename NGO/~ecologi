@@ -10,9 +10,10 @@
   "whyTags": "environment",
   "howTags": "trees",
   "name": "Ecologi",
+  "logo": "https://media.good-loop.com/uploads/raw/ecologi-17604233766643133099.png",
   "@id": "ecologi",
   "id": "ecologi",
   "category": "environment",
   "subcategory": "Climate Action",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
