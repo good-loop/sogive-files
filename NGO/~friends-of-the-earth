@@ -193,7 +193,7 @@
   "UNSDG": "0",
   "parentCharityName": "Friends of the Earth International",
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-Friends__of__the__Earth__logo.svg-6160999526254825792.png#ccrop:84",
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-Friends__of__the__Earth__logo.svg-6160999526254825792.png#ccrop:85",
   "@id": "friends-of-the-earth",
   "summaryDescription": "Friends of the Earth describes itself as a grassroots environmental campaigning community.",
   "uptodatedraft": "probably",
@@ -225,5 +225,5 @@
   "englandWalesCharityRegNum": "281681",
   "uk_giftaid": true,
   "whereTags": "United Kingdom, Global",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
