@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Papa John\u0027s Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/papa_j_foundation-5499378641495834181.png#ccrop:96",
-  "id": "papa-johns-foundation",
-  "suggest": [
-    "Papa John\u0027s Foundation"
-  ],
-  "status": "PUBLISHED"
+  "id": "echoing-green",
+  "suggest": []
 }
