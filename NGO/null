@@ -1,12 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "echoing green",
-  "name": "Echoing Green",
-  "logo": "https://media.good-loop.com/uploads/standard/Logos__MASTER__EchoingGreen-5559436812446945649.png#ccrop:90",
-  "id": "echoing-green",
+  "name": "Subway Cares Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/subway_cares-17438738887385671083.png",
+  "id": "subway-cares-foundation",
   "suggest": [
-    "Echoing Green",
-    "echoing green"
+    "Subway Cares Foundation"
   ],
   "status": "DRAFT"
 }
