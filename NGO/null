@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
-  "name": "Papa John\u0027s Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/papa_j_foundation-5499378641495834181.png#ccrop:93",
-  "id": "papa-johns-foundation",
+  "displayName": "echoing green",
+  "name": "Echoing Green",
+  "logo": "https://media.good-loop.com/uploads/standard/Logos__MASTER__EchoingGreen-5559436812446945649.png#ccrop:90",
+  "id": "echoing-green",
   "suggest": [
-    "Papa John\u0027s Foundation"
+    "Echoing Green",
+    "echoing green"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
