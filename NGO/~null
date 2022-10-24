@@ -2,11 +2,11 @@
   "@type": "NGO",
   "displayName": "Big Brothers and sisters",
   "name": "Big Brothers and sisters",
-  "logo": "https://media.good-loop.com/uploads/standard/BBBSA-Logo-170x82-10715619549595834809.png",
+  "logo": "https://media.good-loop.com/uploads/standard/BBBSA-Logo-170x82-10715619549595834809.png#ccrop:26",
   "id": "big-brothers-and-sisters",
   "suggest": [
     "Big Brothers and sisters",
     "Big Brothers and sisters"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
