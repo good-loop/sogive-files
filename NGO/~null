@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "the daisy network",
-  "logo": "https://media.good-loop.com/uploads/standard/daisy-network-logo-15052697897080720561.png",
-  "id": "the-daisy-network",
-  "suggest": [
-    "the daisy network"
-  ],
-  "status": "PUBLISHED"
+  "id": "big-brothers-and-sisters",
+  "suggest": []
 }
