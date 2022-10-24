@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Big Brothers and sisters",
   "name": "Big Brothers and sisters",
   "id": "big-brothers-and-sisters",
   "suggest": [
+    "Big Brothers and sisters",
     "Big Brothers and sisters"
   ],
   "status": "DRAFT"
