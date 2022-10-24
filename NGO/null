@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
   "displayName": "the daisy network",
-  "logo": "https://media.good-loop.com/uploads/standard/daisy-9546799019166240099.jpeg",
+  "logo": "https://media.good-loop.com/uploads/standard/daisy-network-logo-15052697897080720561.png",
   "id": "the-daisy-network",
   "suggest": [
     "the daisy network"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
