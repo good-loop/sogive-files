@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "the daisy network",
   "id": "the-daisy-network",
-  "suggest": []
+  "suggest": [
+    "the daisy network"
+  ],
+  "status": "DRAFT"
 }
