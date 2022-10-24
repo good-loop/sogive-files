@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Big Brothers and sisters",
-  "name": "Big Brothers and sisters",
-  "logo": "https://media.good-loop.com/uploads/standard/charity-2961225398112492562.png",
-  "id": "big-brothers-and-sisters",
+  "displayName": "Hopeful Traders",
+  "name": "Hopeful",
+  "logo": "https://media.good-loop.com/uploads/standard/hireslogo__180x__2x__23a163d9-357e-4bbd-b2f9-37142e75828d__260x-13445084016843985317.png",
+  "id": "hopeful",
   "suggest": [
-    "Big Brothers and sisters",
-    "Big Brothers and sisters"
+    "Hopeful",
+    "Hopeful Traders"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
