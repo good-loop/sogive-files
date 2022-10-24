@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "the daisy network",
-  "logo": "https://media.good-loop.com/uploads/standard/daisy-network-logo-15052697897080720561.png",
-  "id": "the-daisy-network",
+  "displayName": "Big Brothers and sisters",
+  "name": "Big Brothers and sisters",
+  "logo": "https://media.good-loop.com/uploads/standard/BBBSA-Logo-170x82-10715619549595834809.png",
+  "id": "big-brothers-and-sisters",
   "suggest": [
-    "the daisy network"
+    "Big Brothers and sisters",
+    "Big Brothers and sisters"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
