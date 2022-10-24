@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Big Brothers and sisters",
-  "name": "Big Brothers and sisters",
-  "logo": "https://media.good-loop.com/uploads/standard/charity-2961225398112492562.png",
-  "id": "big-brothers-and-sisters",
-  "suggest": [
-    "Big Brothers and sisters",
-    "Big Brothers and sisters"
-  ],
-  "status": "PUBLISHED"
+  "id": "hopeful",
+  "suggest": []
 }
