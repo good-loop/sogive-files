@@ -1,10 +1,10 @@
 {
   "@type": "NGO",
-  "name": "Subway Cares Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/subway_cares-17438738887385671083.png#ccrop:107",
-  "id": "subway-cares-foundation",
+  "displayName": "the daisy network",
+  "logo": "https://media.good-loop.com/uploads/standard/daisy-9546799019166240099.jpeg",
+  "id": "the-daisy-network",
   "suggest": [
-    "Subway Cares Foundation"
+    "the daisy network"
   ],
   "status": "DRAFT"
 }
