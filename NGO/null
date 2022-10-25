@@ -1,11 +1,7 @@
 {
   "@type": "NGO",
-  "displayName": "Code Your Future",
-  "logo": "https://media.good-loop.com/uploads/standard/cyf__brand-14679326299309269760.png",
-  "id": "code-your-future",
-  "suggest": [
-    "Code Your Future"
-  ],
-  "url": "https://codeyourfuture.io/",
+  "logo": "https://media.good-loop.com/uploads/standard/cyp__logo__-__drupal__sized-13443298695289932949.png#ccrop:99",
+  "id": "cancer-research-uk-children-and-young-peopleren",
+  "suggest": [],
   "status": "DRAFT"
 }
