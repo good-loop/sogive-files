@@ -1,11 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Red Cross Ukraine ",
-  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-14120247338839529087.png",
-  "id": "red-cross-ukraine",
-  "suggest": [
-    "Red Cross Ukraine "
-  ],
-  "url": "",
-  "status": "DRAFT"
+  "id": "newark-venture-partners",
+  "suggest": []
 }
