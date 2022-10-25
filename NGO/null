@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "Red Cross Ukraine ",
-  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-14120247338839529087.png",
-  "id": "red-cross-ukraine",
+  "displayName": "Newark Venture Futures",
+  "logo": "https://media.good-loop.com/uploads/standard/Logos__of__Newark__Venture__Partners-4164016600192895816.png#ccrop:88",
+  "id": "newark-venture-partners",
   "suggest": [
-    "Red Cross Ukraine "
+    "Newark Venture Futures"
   ],
-  "url": "",
   "status": "DRAFT"
 }
