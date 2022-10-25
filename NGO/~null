@@ -1,12 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "first",
-  "name": "first",
-  "logo": "https://media.good-loop.com/uploads/standard/first-horz-rgb-10068611003436326433.png#ccrop:95",
-  "id": "firs",
+  "displayName": "United Way",
+  "name": "United Way",
+  "logo": "https://demo.good-loop.com/desktop/video/?gl.vert\u003dGSuxjAL6Gi\u0026gl.status\u003dPUBLISHED\u0026hide\u003dsocial%2Cmobile-portrait#ccrop:90",
+  "id": "unitedway",
   "suggest": [
-    "first",
-    "first"
+    "United Way",
+    "United Way"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
