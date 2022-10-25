@@ -1,10 +1,12 @@
 {
   "@type": "NGO",
   "displayName": "Newark Venture Futures",
+  "name": "Newark",
   "logo": "https://media.good-loop.com/uploads/standard/Logos__of__Newark__Venture__Partners-4164016600192895816.png#ccrop:88",
   "id": "newark-venture-partners",
   "suggest": [
+    "Newark",
     "Newark Venture Futures"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
