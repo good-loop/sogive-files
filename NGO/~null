@@ -1,12 +1,5 @@
 {
   "@type": "NGO",
-  "displayName": "Hopeful Traders",
-  "name": "Hopeful",
-  "logo": "https://media.good-loop.com/uploads/standard/hireslogo__180x__2x__23a163d9-357e-4bbd-b2f9-37142e75828d__260x-13445084016843985317.png",
-  "id": "hopeful",
-  "suggest": [
-    "Hopeful",
-    "Hopeful Traders"
-  ],
-  "status": "DRAFT"
+  "id": "code-your-future",
+  "suggest": []
 }
