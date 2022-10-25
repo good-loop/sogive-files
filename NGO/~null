@@ -2,12 +2,12 @@
   "@type": "NGO",
   "displayName": "United Way",
   "name": "United Way",
-  "logo": "https://demo.good-loop.com/desktop/video/?gl.vert\u003dGSuxjAL6Gi\u0026gl.status\u003dPUBLISHED\u0026hide\u003dsocial%2Cmobile-portrait#ccrop:90",
+  "logo": "",
   "id": "unitedway",
   "suggest": [
     "United Way",
     "United Way"
   ],
   "url": "https://www.unitedway.org/",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
