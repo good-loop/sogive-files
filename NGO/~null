@@ -1,5 +1,7 @@
 {
   "@type": "NGO",
-  "id": "newark-ventures",
-  "suggest": []
+  "logo": "https://media.good-loop.com/uploads/standard/Logos__of__Newark__Venture__Partners-4164016600192895816.png",
+  "id": "newark-venture-partners",
+  "suggest": [],
+  "status": "DRAFT"
 }
