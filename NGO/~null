@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Code Your Future",
+  "logo": "https://media.good-loop.com/uploads/standard/cyf__brand-14679326299309269760.png",
   "id": "code-your-future",
   "suggest": [
     "Code Your Future"
