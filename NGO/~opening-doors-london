@@ -1,7 +1,7 @@
 {
   "@type": "NGO",
   "name": "Opening Doors London",
-  "logo": "https://media.good-loop.com/uploads/standard/6c8abdca-bd6a-4434-b724-995f96e64210-4488897424816081723.png",
+  "logo": "https://media.good-loop.com/uploads/standard/6c8abdca-bd6a-4434-b724-995f96e64210-4488897424816081723.png#ccrop:95",
   "@id": "opening-doors-london",
   "suggest": [
     "Opening Doors London",
@@ -10,5 +10,6 @@
   "id": "opening-doors-london",
   "englandWalesCharityRegNum": "1167919",
   "summaryDescription": "Opening Doors London is the UK\u0027s largest charity helping connect LGBTQ+ people over 50 with activities, events, support and information.",
-  "status": "PUBLISHED"
+  "url": "https://www.openingdoors.lgbt/",
+  "status": "DRAFT"
 }
