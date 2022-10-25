@@ -1,7 +1,10 @@
 {
   "@type": "NGO",
+  "name": "Cancer Research UK Children and young people",
   "logo": "https://media.good-loop.com/uploads/standard/cyp__logo__-__drupal__sized-13443298695289932949.png#ccrop:99",
   "id": "cancer-research-uk-children-and-young-peopleren",
-  "suggest": [],
-  "status": "DRAFT"
+  "suggest": [
+    "Cancer Research UK Children and young people"
+  ],
+  "status": "PUBLISHED"
 }
