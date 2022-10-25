@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Fake Charity Yes",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Skyscanner__Logo__LockupHorizontal__SkyBlue__RGB-356783585844554943.svg#ccrop:90",
-  "id": "fake-charity-yes",
+  "displayName": "United Help Ukraine",
+  "logo": "https://media.good-loop.com/uploads/standard/LOGO-NEW__WHITE-BGRND__570x2701-8865686927929971561.png#ccrop:85",
+  "id": "united-help-ukraine",
   "suggest": [
-    "Fake Charity Yes"
+    "United Help Ukraine"
   ],
-  "url": "",
-  "status": "MODIFIED"
+  "url": "https://unitedhelpukraine.org/",
+  "status": "DRAFT"
 }
