@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "United Help Ukraine",
-  "logo": "https://media.good-loop.com/uploads/standard/LOGO-NEW__WHITE-BGRND__570x2701-8865686927929971561.png#ccrop:85",
-  "id": "united-help-ukraine",
+  "displayName": "Red Cross Ukraine ",
+  "logo": "https://media.good-loop.com/uploads/standard/Ukraine-14120247338839529087.png",
+  "id": "red-cross-ukraine",
   "suggest": [
-    "United Help Ukraine"
+    "Red Cross Ukraine "
   ],
-  "url": "https://unitedhelpukraine.org/",
-  "status": "DRAFT"
+  "url": "",
+  "status": "PUBLISHED"
 }
