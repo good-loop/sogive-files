@@ -1,12 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Cancer Research UK Children and Young People",
-  "name": "Cancer Research UK Children and young people",
-  "logo": "https://media.good-loop.com/uploads/standard/cyp__logo__-__drupal__sized-13443298695289932949.png#ccrop:99",
-  "id": "cancer-research-uk-children-and-young-peopleren",
+  "displayName": "Fake Charity Yes",
+  "logo": "https://media.good-loop.com/uploads/standard/Skyscanner__Logo__LockupHorizontal__SkyBlue__RGB-356783585844554943.svg#ccrop:90",
+  "id": "fake-charity-yes",
   "suggest": [
-    "Cancer Research UK Children and young people",
-    "Cancer Research UK Children and Young People"
+    "Fake Charity Yes"
   ],
+  "url": "",
   "status": "DRAFT"
 }
