@@ -1,11 +1,12 @@
 {
   "@type": "NGO",
   "displayName": "Fake Charity Yes",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/Skyscanner__Logo__LockupHorizontal__SkyBlue__RGB-356783585844554943.svg#ccrop:90",
   "id": "fake-charity-yes",
   "suggest": [
     "Fake Charity Yes"
   ],
   "url": "",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
