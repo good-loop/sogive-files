@@ -1,13 +1,13 @@
 {
   "@type": "NGO",
-  "displayName": "United Way",
-  "name": "United Way",
-  "logo": "https://media.good-loop.com/uploads/standard/new-logo-16815747586362992615.svg#ccrop:90",
-  "id": "unitedway",
+  "displayName": "Habitat for Humanity",
+  "name": "Habitat for Humanity ",
+  "logo": "https://media.good-loop.com/uploads/standard/habitat__for__humanity__logo-2352878040520621788.jpg#ccrop:103",
+  "id": "habits-for-humanity",
   "suggest": [
-    "United Way",
-    "United Way"
+    "Habitat for Humanity ",
+    "Habitat for Humanity"
   ],
-  "url": "https://www.unitedway.org/",
-  "status": "MODIFIED"
+  "url": "https://www.habitat.org/",
+  "status": "PUBLISHED"
 }
