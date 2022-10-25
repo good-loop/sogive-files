@@ -13,7 +13,7 @@
   "url": "https://www.onepercentfortheplanet.org/",
   "headerImage": "https://media.good-loop.com/uploads/standard/1105x622__hardy__l__0001-13444713393559282633.jpg",
   "name": "one-percent-for-the-planet",
-  "logo": "https://media.good-loop.com/uploads/raw/1ftp__Primary__Vertical__FullColor-9918702103395043531.jpg#ccrop:60",
+  "logo": "https://media.good-loop.com/uploads/raw/1ftp__Primary__Vertical__FullColor-9918702103395043531.jpg#ccrop:55",
   "@id": "one-percent-for-the-planet",
   "id": "one-percent-for-the-planet",
   "category": "environment",
@@ -43,5 +43,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
