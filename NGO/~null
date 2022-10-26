@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "The Royal Marines Charity",
   "id": "royal-marines-charity",
-  "suggest": []
+  "suggest": [
+    "The Royal Marines Charity"
+  ],
+  "status": "DRAFT"
 }
