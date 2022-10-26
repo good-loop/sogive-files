@@ -1,0 +1,16 @@
+{
+  "scotlandCharityRegNum": "SC041898",
+  "@type": "NGO",
+  "displayName": "The Royal Navy and Royal Marines Charity",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_14-1651496930582788142.png#ccrop:90",
+  "@id": "the-royal-navy-and-royal-marines-charity",
+  "suggest": [
+    "",
+    "The Royal Navy and Royal Marines Charity",
+    "the-royal-navy-and-royal-marines-charity"
+  ],
+  "url": "www.rnrmc.org.uk",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
