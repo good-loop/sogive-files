@@ -1,13 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Habitat for Humanity",
-  "name": "Habitat for Humanity ",
-  "logo": "https://media.good-loop.com/uploads/standard/habitat__for__humanity__logo-2352878040520621788.jpg#ccrop:103",
-  "id": "habits-for-humanity",
+  "displayName": "The Royal Marines Charity",
+  "logo": "https://media.good-loop.com/uploads/standard/RMC-logo-2021-1024x516-18163596504914773560.png#ccrop:90",
+  "id": "royal-marines-charity",
   "suggest": [
-    "Habitat for Humanity ",
-    "Habitat for Humanity"
+    "The Royal Marines Charity"
   ],
-  "url": "https://www.habitat.org/",
-  "status": "MODIFIED"
+  "url": "https://rma-trmc.org/",
+  "status": "DRAFT"
 }
