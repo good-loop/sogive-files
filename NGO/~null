@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Music for all",
+  "logo": "https://media.good-loop.com/uploads/standard/music-for-all-logo-17084845826060734371.png",
   "id": "music-for-all",
   "suggest": [
     "Music for all"
