@@ -1,11 +1,10 @@
 {
   "@type": "NGO",
-  "displayName": "The Royal Marines Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/RMC-logo-2021-1024x516-18163596504914773560.png#ccrop:90",
-  "id": "royal-marines-charity",
+  "displayName": "Music for all",
+  "logo": "https://media.good-loop.com/uploads/standard/music-for-all-logo-17084845826060734371.png#ccrop:65",
+  "id": "music-for-all",
   "suggest": [
-    "The Royal Marines Charity"
+    "Music for all"
   ],
-  "url": "https://rma-trmc.org/",
   "status": "DRAFT"
 }
