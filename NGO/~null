@@ -1,5 +1,9 @@
 {
   "@type": "NGO",
+  "displayName": "Music for all",
   "id": "music-for-all",
-  "suggest": []
+  "suggest": [
+    "Music for all"
+  ],
+  "status": "DRAFT"
 }
