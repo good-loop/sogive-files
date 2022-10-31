@@ -10,7 +10,7 @@
     "WWF",
     "one-percent-for-the-planet"
   ],
-  "url": "https://www.onepercentfortheplanet.org/",
+  "url": "www.wwf.co.uk",
   "headerImage": "https://media.good-loop.com/uploads/standard/1105x622__hardy__l__0001-13444713393559282633.jpg",
   "name": "WWF",
   "logo": "https://media.good-loop.com/uploads/raw/1ftp__Primary__Vertical__FullColor-9918702103395043531.jpg#ccrop:55",
@@ -43,5 +43,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
