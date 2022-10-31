@@ -1,0 +1,77 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "This charity is listed as one which accepts donations from the public. This seems surprising - I assumed it would be wholly funded by Vodafone. However the accounts indicate that of the c ?20m of income, just over ?1m of that comes from sources other than Vodafone.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Vodafone Foundation",
+  "noPublicDonations": false,
+  "suggest": [
+    "",
+    "Vodafone Foundation",
+    "vodafone-foundation"
+  ],
+  "url": "https://www.vodafone.com/vodafone-foundation",
+  "whyTags": "Disaster response",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/new__vf__foundation__logo__horiz__rgb__red-16975740245771691170.jpeg",
+  "@id": "vodafone-foundation",
+  "englandWalesCharityRegNum": "1089625",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
