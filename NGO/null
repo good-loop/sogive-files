@@ -1,10 +1,13 @@
 {
   "@type": "NGO",
-  "name": "Team Rubicon",
-  "logo": "https://media.good-loop.com/uploads/standard/team-rubicon-logo-10296121837925112549.png#ccrop:99",
-  "id": "team-rubicon",
+  "displayName": "Thet",
+  "name": "Thet",
+  "logo": "https://media.good-loop.com/uploads/standard/thet-17812503193274449393.svg",
+  "id": "thet",
   "suggest": [
-    "Team Rubicon"
+    "Thet",
+    "Thet"
   ],
+  "url": "https://www.thet.org/",
   "status": "DRAFT"
 }
