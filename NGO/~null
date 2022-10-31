@@ -1,10 +1,5 @@
 {
   "@type": "NGO",
-  "name": "Team Rubicon",
-  "logo": "https://media.good-loop.com/uploads/standard/team-rubicon-logo-10296121837925112549.png#ccrop:99",
-  "id": "team-rubicon",
-  "suggest": [
-    "Team Rubicon"
-  ],
-  "status": "DRAFT"
+  "id": "thet",
+  "suggest": []
 }
