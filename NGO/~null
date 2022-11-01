@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Share Winter Foundation",
   "name": "Share Winter Foundation",
   "id": "share-winter-foundation",
   "suggest": [
+    "Share Winter Foundation",
     "Share Winter Foundation"
   ],
   "status": "DRAFT"
