@@ -1,0 +1,242 @@
+{
+  "images": "https://app.sogive.org/uploads/marcnjackaigmail.comemail/With-the-heart-they-gave-me-to-bring-home-17081278077689134612.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 78.0,
+          "confidence": "high",
+          "name": "persons served",
+          "description": "Their blog mentions 78 children in this year. It is a house so this seems reasonable.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "952.9",
+            "currency": "GBP",
+            "value100p": 9529000.0,
+            "value": 952.9
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001118345_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9960829\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4028842"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4028842"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://bholaschildren.org/2019/02/28/dinahs-report-on-her-visit-with-new-trustee-andrew-hogan-january-february-2019/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "74,326",
+          "currency": "GBP",
+          "value100p": 7.4326E8,
+          "value": 74326.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.9 annual report"
+        },
+        "reserves": {
+          "notes": "p.10 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "25039",
+        "currency": "GBP",
+        "value100p": 2.5039E8,
+        "value": 25039.0
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 38.0,
+          "confidence": "medium",
+          "name": "persons served",
+          "description": "persons mentioned in blog",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "2532.84",
+            "currency": "GBP",
+            "value100p": 2.53284E7,
+            "value": 2532.84
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4028842/financial-history"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://bholaschildren.org/2020/07/02/dinahs-report-of-her-pre-lockdown-visit-in-january-2020/"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "96248",
+          "currency": "GBP",
+          "value100p": 9.6248E8,
+          "value": 96248.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "Not Available",
+        "currency": "GBP",
+        "value100p": 0.0,
+        "error": {}
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 38.0,
+          "confidence": "high",
+          "name": "persons served",
+          "description": "persons mentioned in blog",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "1636.95",
+            "currency": "GBP",
+            "value100p": 1.63695E7,
+            "value": 1636.95
+          }
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "62204",
+          "currency": "GBP",
+          "value100p": 6.2204E8,
+          "value": 62204.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "confidence": "high",
+  "description": "Center for physiotherapy and treatment of persons with disabilities.\n20 of them are permanent residents and are feed and cared for in the center.\nIt is unclear wether they cater for older disabled persons. \n\nThey are aiming to increase capacity to serve over 80-100 persons. \n",
+  "recommendation": "Most of what is received is sent to Bangladesh. Of it, half has been going to construction projects and half to staff salaries. The numbers are not big but this is an expensive cause (to care for children with disabilities, half of them living full time in the residence). There is potential, when construction stops, to serve many more people and invest more in equipment, services, and utilities, significantly improving quality of life of the population with disabilities. There is potential for life-saving value, since many people with disabilities do not have other access to specialized care there. There should be, in theory, significant impact on Quality-Adjusted Life Years for persons with disabilities. However, at the same time that income grew, information shared reduced, the charity does not publish most of this information.\nAn in-depth study on the situation of Bhola and the expenses of past years could lead to a better valuation. (Best case scenario, they are saving lives of persons with disability on a yearly basis, and they are the only institution able to do that in a 20 square KM area. However, I don\u0027t think the counterfactual is that strong, if they did not exist, 78 children would not die, they would have been taken care by their families and they would have worse lives in general.\n\nEven the alleged improvement needs to be questioned. The blog mentions 36 boys sleeping in one room. ",
+  "suggest": [
+    "Bhola\u0027s Children",
+    "bhola-s-children"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "bhola-s-children",
+      "name": "persons served",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 25328400,
+        "value": "2532.84"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://bholaschildren.org/",
+  "whyTags": "disability",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "persons served",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 25328400,
+      "value": "2532.84"
+    }
+  },
+  "meta": {
+    "recommendation": {
+      "notes": "https://bholaschildren.org/2019/02/28/dinahs-report-on-her-visit-with-new-trustee-andrew-hogan-january-february-2019/"
+    }
+  },
+  "name": "Bhola\u0027s Children",
+  "logo": "https://app.sogive.org/uploads/marcnjackaigmail.comemail/Bholas_-17597152098365328976.jpg",
+  "@id": "bhola-s-children",
+  "lastModified": "2020-11-16T08:57:06Z",
+  "englandWalesCharityRegNum": "1118345",
+  "summaryDescription": "This organisation carries out fundraising for a social center in Bangladesh. I will consider the social center as the charity and the registered UK charity as a funding vehicle.  \n\nThe center hosts children with disabilities and covers all their basic needs. Trustees cover the running costs and all donations go to the center.\n\nIn 2020 they had 20 residents and 16 outpatients that come for physioterapy.",
+  "uptodatedraft": "probably",
+  "whereTags": "Bangladesh",
+  "status": "DRAFT"
+}
