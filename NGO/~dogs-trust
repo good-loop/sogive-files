@@ -4,6 +4,7 @@
   "t4gTheme": {
     "backdropImages": [
       {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/background1-13672768390484107874.jpg",
         "@type": "ImageObject"
       }
     ],
@@ -726,5 +727,5 @@
   ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
