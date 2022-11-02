@@ -1,6 +1,15 @@
 {
   "scotlandCharityRegNum": "SC037843",
   "circleCrop": 88.0,
+  "t4gTheme": {
+    "backdropImages": [
+      {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/background1-13672768390484107874.jpg",
+        "@type": "ImageObject"
+      }
+    ],
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
