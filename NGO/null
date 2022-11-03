@@ -1,14 +1,12 @@
 {
   "@type": "NGO",
-  "displayName": "Share Winter Foundation",
-  "name": "Share Winter Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/sharewinter-11264965905028437655.png",
-  "description": "Share Winter Foundation (\"Share Winter\") is a grantmaking organization working to improve the lives, health, and fitness of youth through winter sports. ",
-  "id": "share-winter-foundation",
+  "displayName": "Free food for all",
+  "name": "Free food for all",
+  "logo": "https://media.good-loop.com/uploads/standard/FFFA-14383932479895071442.png",
+  "id": "free-food-for-all",
   "suggest": [
-    "Share Winter Foundation",
-    "Share Winter Foundation"
+    "Free food for all",
+    "Free food for all"
   ],
-  "url": "https://www.sharewinterfoundation.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
