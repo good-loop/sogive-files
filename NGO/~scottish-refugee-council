@@ -1,6 +1,9 @@
 {
   "scotlandCharityRegNum": "SC008639",
   "ukCompanyRegNum": "SC145067",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -274,6 +277,7 @@
         "value100p": 30723682,
         "value": "3072.3682539682537224645079365079303632"
       },
+      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
@@ -296,5 +300,5 @@
   "subcategory": "Shelter and Crisis Services",
   "uk_giftaid": true,
   "whereTags": "United Kingdom (Scotland)",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
