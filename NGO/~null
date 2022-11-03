@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Free food for all",
   "name": "Free food for all",
   "id": "free-food-for-all",
   "suggest": [
+    "Free food for all",
     "Free food for all"
   ],
   "status": "DRAFT"
