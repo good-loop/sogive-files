@@ -1,6 +1,9 @@
 {
   "circleCrop": 74.0,
   "images": "https://media.good-loop.com/uploads/standard/edited_2-13043592478090842141.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "color": "#4f8ddc",
   "@type": "NGO",
   "displayName": "WWF",
@@ -43,5 +46,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
