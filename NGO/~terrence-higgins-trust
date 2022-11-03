@@ -1,5 +1,8 @@
 {
   "images": "https://media.good-loop.com/uploads/standard/terrence-higgings-16150517139874397129.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
