@@ -738,7 +738,7 @@
   "impact": "more-info-needed-promising",
   "confidence": "medium",
   "suggest": [
-    "Wate",
+    "WaterAid",
     "WaterAid",
     "wateraid"
   ],
@@ -781,10 +781,10 @@
       "notes": "I have no idea why the official name here is \u0027living without abuse\u0027. The charity ID is WaterAid, the charity commission number is WaterAid etc"
     }
   },
-  "name": "Wate",
+  "name": "WaterAid",
   "lastModified": "2020-10-28T13:15:16Z",
   "englandWalesCharityRegNum": "288701",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
