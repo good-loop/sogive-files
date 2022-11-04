@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Outdoor European ",
   "id": "european-outdoor-conservation-association",
-  "suggest": [],
+  "suggest": [
+    "Outdoor European "
+  ],
   "status": "DRAFT"
 }
