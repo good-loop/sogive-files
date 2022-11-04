@@ -1,16 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Love Not Landfill",
-  "name": "Love Not Landfill",
-  "logo": "https://media.good-loop.com/uploads/standard/LNL-SM__Profile-Image-2337889543979130074.jpg",
-  "id": "love-not-landfill",
-  "suggest": [
-    "Love Not Landfill",
-    "Love Not Landfill"
-  ],
-  "url": "https://www.lovenotlandfill.org/#homepage",
-  "status": "PUBLISHED"
+  "id": "daisy-chain-project",
+  "suggest": []
 }
