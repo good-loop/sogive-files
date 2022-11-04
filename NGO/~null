@@ -3,7 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "",
   "id": "daisy-chain-project",
-  "suggest": [],
+  "suggest": [
+    ""
+  ],
+  "url": "https://www.daisychainproject.co.uk/our-story/",
   "status": "DRAFT"
 }
