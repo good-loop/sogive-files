@@ -1,5 +1,9 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "id": "love-not-landfill",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
