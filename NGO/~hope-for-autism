@@ -1,0 +1,16 @@
+{
+  "scotlandCharityRegNum": "SC033312",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "HOPE for Autism",
+  "@id": "hope-for-autism",
+  "suggest": [
+    "HOPE for Autism",
+    "hope-for-autism"
+  ],
+  "url": "www.hopeforautism.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
