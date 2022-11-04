@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Outdoor European Association Conservation ",
-  "logo": "https://media.good-loop.com/uploads/standard/european-outdoor-conservation-association-eoca-logo-vector-15606825159761610999.png#ccrop:90",
-  "id": "european-outdoor-conservation-association",
-  "suggest": [
-    "Outdoor European Association Conservation "
-  ],
-  "url": "https://www.eocaconservation.org/",
-  "status": "DRAFT"
+  "id": "ambitious-about-autism",
+  "suggest": []
 }
