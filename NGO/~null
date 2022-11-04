@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "Amitious About Autism",
   "id": "ambitious-about-autism",
-  "suggest": [],
+  "suggest": [
+    "Amitious About Autism"
+  ],
   "status": "DRAFT"
 }
