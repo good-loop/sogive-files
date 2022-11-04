@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Daisy Chain Poject",
-  "name": "Daisy Chain Poject",
-  "logo": "https://media.good-loop.com/uploads/standard/daisychainproject-logo-17152026460276019413.png#ccrop:_ccrop:75",
-  "id": "daisy-chain-project",
+  "displayName": "Love Not Landfill",
+  "name": "Love Not Landfill",
+  "logo": "https://media.good-loop.com/uploads/standard/LNL-SM__Profile-Image-2337889543979130074.jpg#ccrop:120",
+  "id": "love-not-landfill",
   "suggest": [
-    "Daisy Chain Poject",
-    "Daisy Chain Poject"
+    "Love Not Landfill",
+    "Love Not Landfill"
   ],
-  "url": "https://www.daisychainproject.co.uk/our-story/",
+  "url": "https://www.lovenotlandfill.org/#homepage",
   "status": "DRAFT"
 }
