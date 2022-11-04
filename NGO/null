@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Ambitious About Autism",
-  "name": "Ambitious About Autism",
-  "logo": "https://media.good-loop.com/uploads/standard/Ambitious-about-Auitism-logo-8381974465545810377.jpg#ccrop:90",
-  "id": "ambitious-about-autism",
+  "displayName": "Love Not Landfill",
+  "name": "Love Not Landfill",
+  "logo": "https://media.good-loop.com/uploads/standard/LNL-SM__Profile-Image-2337889543979130074.jpg#ccrop:90",
+  "id": "love-not-landfill",
   "suggest": [
-    "Ambitious About Autism",
-    "Ambitious About Autism"
+    "Love Not Landfill",
+    "Love Not Landfill"
   ],
-  "url": "https://www.ambitiousaboutautism.org.uk/",
+  "url": "https://www.lovenotlandfill.org/#homepage",
   "status": "DRAFT"
 }
