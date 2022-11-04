@@ -1,0 +1,251 @@
+{
+  "scotlandCharityRegNum": "SC039427",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 22739.0,
+          "confidence": "medium",
+          "name": "Family(ies) supported",
+          "description": "Families advised and empowered through a helpline/ people supported in their local branch"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11421329\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d269425"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "93531000",
+          "currency": "GBP",
+          "value100p": 9.3531E11,
+          "value": 9.3531E7
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "159000",
+          "currency": "GBP",
+          "value100p": 1.59E9,
+          "value": 159000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "33251000",
+        "currency": "",
+        "value100p": 3.3251E11,
+        "value": 3.3251E7
+      },
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 5139.0,
+          "confidence": "medium",
+          "name": "Family(ies) helped",
+          "description": "Education and helplines that were used to advised and empowered 4,663 families; Seven schools helped 476 pupils keep learning in lockdown"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11421329\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d269425"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "30237000",
+          "currency": "GBP",
+          "value100p": 3.0237E11,
+          "value": 3.0237E7
+        }
+      ],
+      "name": "Education"
+    },
+    {
+      "outputs": [
+        {
+          "number": 17600.0,
+          "confidence": "medium",
+          "name": "People supported by the local branch",
+          "description": "17,600 people were supported by their local branch in the pandemic. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA11421329\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d269425"
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "52412000",
+          "currency": "GBP",
+          "value100p": 5.2412E11,
+          "value": 5.2412E7
+        }
+      ],
+      "name": "Social and independent living support"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "NAS",
+  "recommendation": "",
+  "whyTags": "Disability",
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/download-293227995520289189.jpg",
+  "@id": "the-national-autistic-society",
+  "summaryDescription": "We are the UK\u0027s leading charity for people on the autism spectrum and their families. Since 1962, we have been providing support, guidance and advice, as well as campaigning for improved rights, services and opportunities to help create a society that works for autistic people.",
+  "images": "https://s4.chorus-mk.thirdlight.com/file/24/mu5lGspmuivL1GOmur2qm_WjRb/width\u003d1200/height\u003d1076/format\u003d-1/fit\u003dstretch/crop\u003d41x0+2299x2053/rev\u003d0/WAAW-Banner-2412x2053.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "The National Autistic Society",
+    "NAS",
+    "the-national-autistic-society"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-national-autistic-society",
+      "name": "Family(ies) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 41062491,
+        "value": "4106.249175425480692368000"
+      },
+      "amountGBP": 0.0,
+      "n": 1.0
+    }
+  ],
+  "url": "www.autism.org.uk",
+  "howTags": "Campaigning, Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Family(ies) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 41062491,
+      "value": "4106.249175425480692368000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "The National Autistic Society",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "suggestedDonations": [],
+  "status": "DRAFT"
+}
