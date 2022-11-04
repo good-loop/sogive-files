@@ -1,0 +1,15 @@
+{
+  "scotlandCharityRegNum": "SC045187",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "Autism Evolves",
+  "@id": "autism-evolves",
+  "suggest": [
+    "Autism Evolves",
+    "autism-evolves"
+  ],
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
