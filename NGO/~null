@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Daisy Chain Poject",
   "name": "Daisy Chain Poject",
-  "logo": "https://media.good-loop.com/uploads/standard/daisychainproject-logo-17152026460276019413.png#ccrop:_ccrop:1075",
+  "logo": "https://media.good-loop.com/uploads/standard/daisychainproject-logo-17152026460276019413.png#ccrop:_ccrop:75",
   "id": "daisy-chain-project",
   "suggest": [
     "Daisy Chain Poject",
     "Daisy Chain Poject"
   ],
   "url": "https://www.daisychainproject.co.uk/our-story/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
