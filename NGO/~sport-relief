@@ -1,0 +1,94 @@
+{
+  "scotlandCharityRegNum": "SC039730",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends68/0000326568_AC_20180731_E_C.pdf"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "42846650 ",
+          "currency": "GBP",
+          "value100p": 4.284665E11,
+          "value": 4.284665E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Income is from p.18 of https://apps.charitycommission.gov.uk/Accounts/Ends68/0000326568_AC_20180731_E_C.pdf"
+        }
+      },
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Sport Relief is aiming to raise money for the charity Comic Relief by running TV progremmes on BBC as well as organising charity events such as Nation\u0027s Billion Steps Challenge. Comic Relief uses the raised funds to make grants to charities fighting poverty and injustice all over the world.",
+  "recommendation": "**To evaluate Sport Relief under the SoGive rating methodology, we would need more information.**\n\nEvery two years, Sport Relief is aiming to raise money for the charity Comic Relief by running TV programmes on the BBC as well as organising charity events such as Nation\u0027s Billion Steps Challenge. Comic Relief invests the raised funds and then makes grants to charities fighting poverty and injustice all over the world.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**Benchmarking**\n\nHaving reviewed the work of Sport Relief under the two-question method, the next step in the SoGive process would be to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. A benchmark charity should achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation).\n\nFrom the annual report, we learnt that Sport Relief 2018 raised £42,846,650, however, we cannot perform a detailed analysis or form opinions about their work under the SoGive methodology.\n\nOur inability to provide an evaluation arises mainly from the fact that we did not obtain sufficient information about the costs and impacts of the hundreds of charities that Comic Relief donates to, thus the impact of the marginal pound donated to Sport Relief is also unknown.  \n\nHowever, we do know that Comic Relief strives to use [a rigorous selection process](https://www.comicrelief.com/annualreport2018-19/impact-and-investment) to choose grant recipients. Out of 2,241 funding applications, the charity granted 316 requests. Comic Relief makes grant payment in phases, asking beneficiary charities to report on how the money is spent. \n\n**Conclusion**\n\nWe would need more information to determine whether any given £1,500 donation to Sport Relief would lead to an impact more positive than saving a life.\n\nFurther information that would enable us to form a fuller opinion on Sport Relief would be:\n(a) a more detailed cost assessment of the beneficiary charities of Sport Relief: What charities Sport Relief donates to and how much each project of each beneficiary charity cost?\n(b) a more detailed impact assessment of the beneficiary charities of Sport Relief: How many lives saved is each project\u0027s impact equivalent to? What would happen if Sport Relief did not provide its services?",
+  "whyTags": "International aid",
+  "parentCharityName": "Comic Relief",
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-10578169699996436675.png",
+  "@id": "sport-relief",
+  "id": "sport-relief",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sport_Relief",
+  "summaryDescription": "Sport Relief is biennial charity event of Comic Relief.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-15498553541269233733.jpg",
+  "parentCharity": "charity-projects",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Sport Relief",
+    "sport-relief"
+  ],
+  "url": "https://www.comicrelief.com/sportrelief",
+  "howTags": "Campaigning, Making Grants to Organizations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "name": {
+      "notes": ""
+    },
+    "englandWalesCharityRegNum": {
+      "notes": "This is the charity number of Comic Relief. Sport Relief is biennial charity event of theirs, it does not have its one commission number."
+    }
+  },
+  "name": "Sport Relief",
+  "lastModified": "2020-09-06T08:33:01Z",
+  "englandWalesCharityRegNum": "326568",
+  "whereTags": "United Kingdom, International\t",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
