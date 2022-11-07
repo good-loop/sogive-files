@@ -1,17 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Peace First",
-  "name": "Peace First",
-  "logo": "https://media.good-loop.com/uploads/standard/PeaceFirst__logo__badge__fullcolor-e1518787642449-16462952296090305724.png",
-  "id": "peace-first",
-  "suggest": [
-    "Peace First",
-    "Peace First"
-  ],
-  "extendedDescription": "test 2",
-  "summaryDescription": "test 1",
-  "status": "MODIFIED"
+  "id": "brave-mind",
+  "suggest": []
 }
