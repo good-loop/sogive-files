@@ -3,8 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "Brave Mind",
   "logo": "https://media.good-loop.com/uploads/standard/Logo_6-4068553939674941419.png",
   "id": "brave-mind",
-  "suggest": [],
+  "suggest": [
+    "Brave Mind"
+  ],
   "status": "DRAFT"
 }
