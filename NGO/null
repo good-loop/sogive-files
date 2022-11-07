@@ -3,15 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Peace First",
-  "name": "Peace First",
-  "logo": "https://media.good-loop.com/uploads/standard/PeaceFirst__logo__badge__fullcolor-e1518787642449-16462952296090305724.png",
-  "id": "peace-first",
+  "displayName": "Brave Mind",
+  "name": "Brave Mind",
+  "logo": "https://media.good-loop.com/uploads/standard/brave-mind-10928860531130187144.jpg#ccrop:90",
+  "id": "brave-mind",
   "suggest": [
-    "Peace First",
-    "Peace First"
+    "Brave Mind",
+    "Brave Mind"
   ],
-  "extendedDescription": "test 2",
-  "summaryDescription": "test 1",
   "status": "DRAFT"
 }
