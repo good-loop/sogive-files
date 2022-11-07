@@ -1,0 +1,9 @@
+{
+  "@type": "NGO",
+  "name": "test-1",
+  "@id": "test-1",
+  "suggest": [
+    "test-1",
+    "test-1"
+  ]
+}
