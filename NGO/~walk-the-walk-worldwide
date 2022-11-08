@@ -1,0 +1,26 @@
+{
+  "scotlandCharityRegNum": "SC029572",
+  "circleCrop": 95.0,
+  "images": "http://edinburgh.org/media/433246/moonwalk-ladies-pink-bra.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "The MoonWalk",
+  "suggest": [
+    "Walk The Walk Worldwide",
+    "The MoonWalk",
+    "walk-the-walk-worldwide"
+  ],
+  "url": "https://www.walkthewalk.org",
+  "whyTags": "health",
+  "howTags": "research",
+  "name": "Walk The Walk Worldwide",
+  "modified": false,
+  "logo": "https://www.walkthewalk.org/images/site-logo.png",
+  "@id": "walk-the-walk-worldwide",
+  "summaryDescription": "Raising money for tackling breast cancer.",
+  "uk_giftaid": true,
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
+}
