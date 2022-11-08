@@ -1,5 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "The East Lake Foundation",
+  "name": "The East Lake Foundation",
   "id": "the-east-lake-foundation",
-  "suggest": []
+  "suggest": [
+    "The East Lake Foundation",
+    "The East Lake Foundation"
+  ],
+  "status": "DRAFT"
 }
