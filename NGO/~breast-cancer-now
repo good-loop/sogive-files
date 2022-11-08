@@ -2,6 +2,9 @@
   "scotlandCharityRegNum": "SC045584",
   "circleCrop": 80.0,
   "ukCompanyRegNum": "09347608",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -353,5 +356,5 @@
   "englandWalesCharityRegNum": "1160558",
   "uk_giftaid": true,
   "whereTags": "UK",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
