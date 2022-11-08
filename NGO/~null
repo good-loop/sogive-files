@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Brave Mind",
-  "name": "Brave Mind",
-  "logo": "https://media.good-loop.com/uploads/standard/brave-mind-10928860531130187144.jpg#ccrop:91",
-  "id": "brave-mind",
-  "suggest": [
-    "Brave Mind",
-    "Brave Mind"
-  ],
-  "status": "DRAFT"
+  "id": "crowdfunder-vaccinaid",
+  "suggest": []
 }
