@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The pink agenda",
-  "name": "The pink agenda",
-  "logo": "https://media.good-loop.com/uploads/standard/tpa__logo__BOLD__gray__web-1-8878825771810662329.png",
-  "id": "pink-agenda",
+  "displayName": "The East Lake Foundation",
+  "name": "The East Lake Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/eastlake-8747651540023367199.svg#ccrop:93",
+  "id": "the-east-lake-foundation",
   "suggest": [
-    "The pink agenda",
-    "The pink agenda"
+    "The East Lake Foundation",
+    "The East Lake Foundation"
   ],
-  "url": "https://www.thepinkagenda.org/",
   "status": "DRAFT"
 }
