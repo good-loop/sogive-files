@@ -1,5 +1,8 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/farm-grow-2-copy-17942272920391749111.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "displayName": "Rainforest Alliance",
   "description": "The Rainforest Alliance is an international non-profit organisation working at the intersection of business, agriculture, and forests to make responsible business the new normal. They are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
@@ -18,6 +21,6 @@
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
   "summaryDescription": "The Rainforest Alliance is an international non-profit organization working at the intersection of business, agriculture, and forests to make responsible business the new normal. We are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
-  "status": "DRAFT",
+  "status": "PUBLISHED",
   "usCharityRegNum": " 13-3377893"
 }
