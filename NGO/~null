@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "The Mental Health Coalition",
   "name": "The Mental Health Coalition",
   "id": "the-mental-health-coalition",
   "suggest": [
+    "The Mental Health Coalition",
     "The Mental Health Coalition"
   ],
   "status": "DRAFT"
