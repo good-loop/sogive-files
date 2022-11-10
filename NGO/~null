@@ -1,16 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "The Mental Health Coalition",
-  "name": "The Mental Health Coalition",
-  "logo": "https://media.good-loop.com/uploads/standard/PS__MentalHealthCoalition__02-10316317731991236735.jpeg#ccrop:155",
-  "id": "the-mental-health-coalition",
-  "suggest": [
-    "The Mental Health Coalition",
-    "The Mental Health Coalition"
-  ],
-  "url": "",
-  "status": "DRAFT"
+  "id": "child-mind-institute",
+  "suggest": []
 }
