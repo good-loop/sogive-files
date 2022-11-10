@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Memphis Music Initiative",
   "name": "Memphis Music Initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-main-11815416788194393421.svg#ccrop:97",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-main-11815416788194393421.svg#ccrop:90",
   "id": "memphis-music-initiative",
   "suggest": [
     "Memphis Music Initiative",
     "Memphis Music Initiative"
   ],
   "url": "https://memphismusicinitiative.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
