@@ -1,0 +1,15 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "St Jude Children\u0027s Research Hospital",
+  "logo": "https://media.good-loop.com/uploads/raw/download-15074375389239795740.png",
+  "@id": "st-jude-children-s-research-hospital",
+  "suggest": [
+    "St Jude Children\u0027s Research Hospital",
+    "st-jude-children-s-research-hospital"
+  ],
+  "status": "PUBLISHED",
+  "usCharityRegNum": "86-1065772"
+}
