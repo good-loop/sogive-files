@@ -3,7 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Compassion International",
+  "name": "Compassion International",
   "id": "compassion-international",
-  "suggest": [],
+  "suggest": [
+    "Compassion International",
+    "Compassion International"
+  ],
   "status": "DRAFT"
 }
