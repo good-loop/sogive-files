@@ -2,18 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/about-compassion-international-celebration-6738211768261309116.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/Image-box-02-1-70978929441044453.jpg",
   "@type": "NGO",
-  "displayName": "Compassion International",
-  "name": "Compassion International",
-  "logo": "https://media.good-loop.com/uploads/standard/CompassionInternationalLogo-1711848416439347939.png",
-  "description": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
-  "id": "compassion-international",
+  "displayName": "Catholic Charities USA",
+  "name": "Catholic Charities USA",
+  "description": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
+  "logo": "https://media.good-loop.com/uploads/standard/Catholic__Charities__USA__logo.svg-2464798594810128802.png",
+  "id": "catholic-charities-usa",
   "suggest": [
-    "Compassion International",
-    "Compassion International"
+    "Catholic Charities USA",
+    "Catholic Charities USA"
   ],
-  "summaryDescription": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
-  "url": "https://www.compassion.com",
+  "summaryDescription": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
+  "url": "https://www.catholiccharitiesusa.org",
   "status": "DRAFT"
 }
