@@ -5,11 +5,13 @@
   "@type": "NGO",
   "displayName": "Catholic Charities USA",
   "name": "Catholic Charities USA",
+  "description": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
   "id": "catholic-charities-usa",
   "suggest": [
     "Catholic Charities USA",
     "Catholic Charities USA"
   ],
+  "summaryDescription": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
   "url": "https://www.catholiccharitiesusa.org",
   "status": "DRAFT"
 }
