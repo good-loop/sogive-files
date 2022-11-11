@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Direct Relief",
-  "name": "Direct Relief",
-  "logo": "https://media.good-loop.com/uploads/standard/Direct__Relief__logo-10659074969795560263.jpg#ccrop:98",
-  "id": "direct-relief",
+  "displayName": "Habitat for Humanity",
+  "name": "Habitat for Humanity ",
+  "logo": "https://media.good-loop.com/uploads/standard/habitat__for__humanity__logo-2352878040520621788.jpg#ccrop:103",
+  "id": "habits-for-humanity",
   "suggest": [
-    "Direct Relief",
-    "Direct Relief"
+    "Habitat for Humanity ",
+    "Habitat for Humanity"
   ],
+  "url": "https://www.habitat.org/",
   "status": "PUBLISHED"
 }
