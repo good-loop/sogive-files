@@ -3,12 +3,16 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "SSAFA The Armed Forces Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/ssafa-logo-15710091980664810346.svg#ccrop:95",
-  "id": "ssafa-the-armed-forces-charity",
+  "displayName": "World Vision",
+  "name": "World Vision",
+  "logo": "https://media.good-loop.com/uploads/standard/wv-logo-2050500935846386271.svg",
+  "description": "Founded in 1950, World Vision is a Christian relief and development umbrella organization that combines staff efforts with donated goods to fight poverty around the world.",
+  "id": "world-vision",
   "suggest": [
-    "SSAFA The Armed Forces Charity"
+    "World Vision",
+    "World Vision"
   ],
-  "url": "https://www.ssafa.org.uk/",
+  "summaryDescription": "Founded in 1950, World Vision is a Christian relief and development umbrella organization that combines staff efforts with donated goods to fight poverty around the world.",
+  "url": "https://www.worldvision.org",
   "status": "DRAFT"
 }
