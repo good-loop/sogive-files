@@ -1,14 +1,18 @@
 {
   "scotlandCharityRegNum": "SC039251",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "name": "Samaritans Purse International Ltd",
   "recommendation": "Please see our review of the charity on [this page](https://app.sogive.org/#charity?charityId\u003dsamaritans-purse)",
+  "logo": "https://media.good-loop.com/uploads/standard/Samaritans_Purse_Logo-17719883992093729636.jpg",
   "@id": "samaritans-purse-international-ltd",
   "suggest": [
     "Samaritans Purse International Ltd",
     "samaritans-purse-international-ltd"
   ],
-  "url": "www.samaritans-purse.org.uk",
+  "url": "https://samaritanspurse.org/",
   "uk_giftaid": true,
   "status": "DRAFT"
 }
