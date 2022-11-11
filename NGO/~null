@@ -5,10 +5,12 @@
   "@type": "NGO",
   "displayName": "Good 360",
   "name": "Good 360",
+  "description": "Founded in 1983, Good 360 routes donated corporate products to thousands of pre-qualified charities.",
   "id": "good-360",
   "suggest": [
     "Good 360",
     "Good 360"
   ],
+  "summaryDescription": "Founded in 1983, Good 360 routes donated corporate products to thousands of pre-qualified charities.",
   "status": "DRAFT"
 }
