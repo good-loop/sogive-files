@@ -1,0 +1,19 @@
+{
+  "images": "https://media.good-loop.com/uploads/standard/1200px-Boys____Girls__Clubs__of__America__logo.svg-8184951100370268956.png",
+  "circleCrop": 90.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Boys \u0026 Girls Clubs Of America",
+  "name": "boys-and-girls-clubs-of-america",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-Boys____Girls__Clubs__of__America__logo.svg-11582153334277424420.png#ccrop:90",
+  "@id": "boys-and-girls-clubs-of-america",
+  "suggest": [
+    "boys-and-girls-clubs-of-america",
+    "Boys \u0026 Girls Clubs Of America",
+    "boys-and-girls-clubs-of-america"
+  ],
+  "id": "boys-and-girls-clubs-of-america",
+  "status": "PUBLISHED"
+}
