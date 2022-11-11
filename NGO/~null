@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "YMCA of the USA",
   "name": "YMCA of the USA",
+  "description": "Founded in 1844, the Young Men\u0027s Christian Association is a worldwide organization perhaps best known in the U.S. for its fitness facilities.",
   "id": "ymca-usa",
   "suggest": [
     "YMCA of the USA",
