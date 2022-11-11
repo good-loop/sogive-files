@@ -4,8 +4,13 @@
   },
   "images": "https://media.good-loop.com/uploads/standard/Become-A-Donor-3-1024x422-4870035980013125128.jpeg",
   "@type": "NGO",
+  "displayName": "Step Up for Students",
+  "name": "Step Up for Students",
   "logo": "https://media.good-loop.com/uploads/standard/step-up-for-students-1912859548939464221.png",
   "id": "step-up-for-student",
-  "suggest": [],
+  "suggest": [
+    "Step Up for Students",
+    "Step Up for Students"
+  ],
   "status": "DRAFT"
 }
