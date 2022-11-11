@@ -7,11 +7,13 @@
   "displayName": "Compassion International",
   "name": "Compassion International",
   "logo": "https://media.good-loop.com/uploads/standard/CompassionInternationalLogo-1711848416439347939.png",
+  "description": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
   "id": "compassion-international",
   "suggest": [
     "Compassion International",
     "Compassion International"
   ],
+  "summaryDescription": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
   "url": "https://www.compassion.com",
   "status": "DRAFT"
 }
