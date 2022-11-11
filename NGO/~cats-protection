@@ -6,7 +6,6 @@
         "@type": "ImageObject"
       },
       {
-        "contentUrl": "https://media.good-loop.com/uploads/raw/catsprotection-1556382720334698879.jpg",
         "@type": "ImageObject"
       }
     ],
@@ -658,5 +657,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
