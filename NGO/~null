@@ -3,7 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Catholic Charities USA",
+  "name": "Catholic Charities USA",
   "id": "catholic-charities-usa",
-  "suggest": [],
+  "suggest": [
+    "Catholic Charities USA",
+    "Catholic Charities USA"
+  ],
   "status": "DRAFT"
 }
