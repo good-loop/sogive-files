@@ -1,5 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "SSAFA The Armed Forces Charity",
   "id": "ssafa-the-armed-forces-charity",
-  "suggest": []
+  "suggest": [
+    "SSAFA The Armed Forces Charity"
+  ],
+  "status": "DRAFT"
 }
