@@ -2,18 +2,8 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/Celebrating-35-Years-of-the-Mectizan-Donation-Program-MDP-QA-with-River-Blindness-Experts-16871315231448297652.jpg",
   "@type": "NGO",
-  "displayName": "Task Force for Global Health",
-  "name": "Task Force for Global Health",
-  "description": "Founded in 1984, Task Force for Global Health helps underserved populations in more than 50 countries.",
-  "logo": "https://media.good-loop.com/uploads/standard/TFGH-Logo-bluebck2-b-8374651516799925753.png",
-  "id": "task-force-for-global-health",
-  "suggest": [
-    "Task Force for Global Health",
-    "Task Force for Global Health"
-  ],
-  "summaryDescription": "Founded in 1984, Task Force for Global Health helps underserved populations in more than 50 countries.",
-  "url": "https://www.taskforce.org",
+  "id": "step-up-for-student",
+  "suggest": [],
   "status": "DRAFT"
 }
