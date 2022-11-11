@@ -7,7 +7,7 @@
         "@type": "ImageObject"
       }
     ],
-    "t4gLogo": ""
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "projects": [
     {
@@ -680,5 +680,5 @@
   "englandWalesCharityRegNum": "208217",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
