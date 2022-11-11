@@ -2,18 +2,8 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/2021-11-6-FYY-over-shoulder-0763__01__RGB-3247702551335396995.jpg",
   "@type": "NGO",
-  "displayName": "YMCA of the USA",
-  "name": "YMCA of the USA",
-  "description": "Founded in 1844, the Young Men\u0027s Christian Association is a worldwide organization perhaps best known in the U.S. for its fitness facilities.",
-  "logo": "https://media.good-loop.com/uploads/standard/ymca-3-logo-png-transparent-15533069589294864662.png",
-  "id": "ymca-usa",
-  "suggest": [
-    "YMCA of the USA",
-    "YMCA of the USA"
-  ],
-  "summaryDescription": "Founded in 1844, the Young Men\u0027s Christian Association is a worldwide organization perhaps best known in the U.S. for its fitness facilities.",
-  "url": "https://www.ymca.org",
+  "id": "compassion-international",
+  "suggest": [],
   "status": "DRAFT"
 }
