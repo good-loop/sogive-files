@@ -6,11 +6,13 @@
   "displayName": "Mount Sinai Health Systems",
   "name": "Mount Sinai Health Systems",
   "logo": "https://media.good-loop.com/uploads/standard/logo-color-10856855725716500465.png",
+  "description": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
   "id": "mount-sinai-health-systems",
   "suggest": [
     "Mount Sinai Health Systems",
     "Mount Sinai Health Systems"
   ],
+  "summaryDescription": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
   "url": "https://https://www.mountsinai.org/",
   "status": "DRAFT"
 }
