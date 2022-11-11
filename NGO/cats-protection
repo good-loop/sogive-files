@@ -1,4 +1,13 @@
 {
+  "t4gTheme": {
+    "backdropImages": [
+      {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/cats-17762692168871929067.jpg",
+        "@type": "ImageObject"
+      }
+    ],
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -592,7 +601,7 @@
   "whyTags": "Animals",
   "ready": true,
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/cats-protection-logo-noedit-17650433120256006355.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/Cats_Protection_logo_RGB_Jan_22-16118309776514830744.png",
   "@id": "cats-protection",
   "wikipedia": "https://en.wikipedia.org/wiki/Cats_Protection",
   "summaryDescription": "Cats Protection, formerly The Cat Protection League, aims to improve cat welfare both through direct work and by educating the public.",
@@ -617,6 +626,7 @@
         "value100p": 11118888,
         "value": "1111.888888888888887777000"
       },
+      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
