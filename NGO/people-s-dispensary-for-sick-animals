@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://media.good-loop.com/uploads/raw/pdsa-5445537681089323044.jpg"
+  },
   "projects": [
     {
       "outputs": [
@@ -639,6 +642,7 @@
         "value100p": 6067717,
         "value": "606.77177565262336730000"
       },
+      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
@@ -669,5 +673,5 @@
   "englandWalesCharityRegNum": "208217",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
