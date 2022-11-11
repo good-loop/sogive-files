@@ -2,17 +2,17 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/220914-FFTP-November-World-Kindness-Day-HP-Banner-Image-Desktop-v1-17303816772526026529.jpg",
   "@type": "NGO",
-  "displayName": "Food for the Poor",
-  "name": "Food for the Poor",
-  "logo": "https://media.good-loop.com/uploads/standard/fftp-logo-3040767106432188785.svg",
-  "description": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
-  "id": "food-for-the-poor",
+  "displayName": "Mount Sinai Health Systems",
+  "name": "Mount Sinai Health Systems",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-color-10856855725716500465.png",
+  "description": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
+  "id": "mount-sinai-health-systems",
   "suggest": [
-    "Food for the Poor",
-    "Food for the Poor"
+    "Mount Sinai Health Systems",
+    "Mount Sinai Health Systems"
   ],
-  "summaryDescription": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
+  "summaryDescription": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
+  "url": "https://https://www.mountsinai.org/",
   "status": "DRAFT"
 }
