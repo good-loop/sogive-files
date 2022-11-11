@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "feeding-america",
-  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:85",
-  "id": "feeding-america",
+  "displayName": "Direct Relief",
+  "name": "Direct Relief",
+  "logo": "https://media.good-loop.com/uploads/standard/Direct__Relief__logo-10659074969795560263.jpg#ccrop:98",
+  "id": "direct-relief",
   "suggest": [
-    "feeding-america"
+    "Direct Relief",
+    "Direct Relief"
   ],
   "status": "PUBLISHED"
 }
