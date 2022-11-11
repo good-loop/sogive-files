@@ -3,14 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "United Way",
-  "name": "United Way",
-  "logo": "https://media.good-loop.com/uploads/standard/new-logo-16815747586362992615.svg#ccrop:90",
-  "id": "unitedway",
+  "name": "feeding-america",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-Feeding__America__logo.svg-15161306321103657245.png#ccrop:85",
+  "id": "feeding-america",
   "suggest": [
-    "United Way",
-    "United Way"
+    "feeding-america"
   ],
-  "url": "https://www.unitedway.org/",
   "status": "PUBLISHED"
 }
