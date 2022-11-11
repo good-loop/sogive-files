@@ -2,7 +2,11 @@
   "t4gTheme": {
     "backdropImages": [
       {
-        "contentUrl": "https://media.good-loop.com/uploads/raw/cats-17762692168871929067.jpg",
+        "contentUrl": "https://media.good-loop.com/uploads/raw/catsprotection-1556382720334698879.jpg",
+        "@type": "ImageObject"
+      },
+      {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/cats-9176107955320622029.jpg",
         "@type": "ImageObject"
       }
     ],
