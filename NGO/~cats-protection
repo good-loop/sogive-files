@@ -2,7 +2,6 @@
   "t4gTheme": {
     "backdropImages": [
       {
-        "contentUrl": "https://media.good-loop.com/uploads/raw/cats-17762692168871929067.jpg",
         "@type": "ImageObject"
       }
     ],
@@ -654,5 +653,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
