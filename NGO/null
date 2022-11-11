@@ -2,18 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/Become-A-Donor-3-1024x422-4870035980013125128.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/Nonprofit-Good360-1-7765666666633313830.jpg",
   "@type": "NGO",
-  "displayName": "Step Up for Students",
-  "name": "Step Up for Students",
-  "logo": "https://media.good-loop.com/uploads/standard/step-up-for-students-1912859548939464221.png",
-  "description": "Founded in 2002, Step Up For Students raises money primarily to provide private school vouchers for poor students in Florida.",
-  "id": "step-up-for-student",
+  "displayName": "Good 360",
+  "name": "Good 360",
+  "description": "Founded in 1983, Good 360 routes donated corporate products to thousands of pre-qualified charities.",
+  "logo": "https://media.good-loop.com/uploads/standard/good360-logo-16080575736326822429.png",
+  "id": "good-360",
   "suggest": [
-    "Step Up for Students",
-    "Step Up for Students"
+    "Good 360",
+    "Good 360"
   ],
-  "summaryDescription": "Founded in 2002, Step Up For Students raises money primarily to provide private school vouchers for poor students in Florida.",
-  "url": "https://www.stepupforstudents.org",
+  "summaryDescription": "Founded in 1983, Good 360 routes donated corporate products to thousands of pre-qualified charities.",
+  "url": "https://good360.org",
   "status": "DRAFT"
 }
