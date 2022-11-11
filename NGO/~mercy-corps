@@ -1,0 +1,467 @@
+{
+  "scotlandCharityRegNum": "SC030289",
+  "ukCompanyRegNum": "208829",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mercycorps.org.uk/sites/default/files/Annual%20Report%20and%20Accounts%20for%20the%20year%20ended%2030%20June%202016%20-%20Final%20-%20With%20Images%20Signed.pdf"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "raw": "53143109",
+          "currency": "GBP",
+          "value100p": 5.3143109E11,
+          "value": 5.3143109E7
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.mercycorps.org.uk/sites/default/files/Annual%20Report%20and%20Accounts%20for%20the%20year%20ended%2030%20June%202016%20-%20Final%20-%20With%20Images%20Signed.pdf"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "7696863",
+          "value100p": 7.696863E10,
+          "value": 7696863.0
+        }
+      ],
+      "name": "Civil Society, Education and Conflict Management",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "outputs": [],
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "10738907",
+          "value100p": 1.0738907E11,
+          "value": 1.0738907E7
+        }
+      ],
+      "name": "Economic Development",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "7187454",
+          "value100p": 7.187454E10,
+          "value": 7187454.0
+        }
+      ],
+      "name": "Public Health, Water and Environment",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "outputs": [],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "raw": "26581736",
+          "value100p": 2.6581736E11,
+          "value": 2.6581736E7
+        }
+      ],
+      "name": "Disaster Risk Reduction and Emergency Response",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      ],
+      "start_raw": "2018-07-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": " 111,661,733",
+          "currency": "GBP",
+          "value100p": 1.11661733E12,
+          "value": 1.11661733E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "p. 22 right side of https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      },
+      "name": "overall",
+      "start": "2018-07-01",
+      "end": "2019-07-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4,763,301",
+        "currency": "GBP",
+        "value100p": 4.763301E10,
+        "value": 4763301.0
+      },
+      "end_raw": "2019-06-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "31,407,206",
+          "currency": "GBP",
+          "value100p": 3.1407206E11,
+          "value": 3.1407206E7
+        }
+      ],
+      "name": "Conflict Management"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "34,853,513",
+          "currency": "GBP",
+          "value100p": 3.4853513E11,
+          "value": 3.4853513E7
+        }
+      ],
+      "name": "Economic Development "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11,048,935",
+          "currency": "GBP",
+          "value100p": 1.1048935E11,
+          "value": 1.1048935E7
+        }
+      ],
+      "name": "Public Health, Water and Environment"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://europe.mercycorps.org/sites/default/files/2019-12/Mercy_Corps_Annual_Report_2019_final.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "33,771,324",
+          "currency": "GBP",
+          "value100p": 3.3771324E11,
+          "value": 3.3771324E7
+        }
+      ],
+      "name": "Disaster Risk Reduction and Emergency Response "
+    }
+  ],
+  "@type": "NGO",
+  "description": "Mercy Corps works with people in the world’s most vulnerable communities across over 40 countries. They help families displaced by violence, provide people in need with emergency cash assistance, respond to natural disasters, help people to access clean drinking water, provide sanitation, give grants to encourage entrepreneurship in young women and provide micro-finance loans to support households in remote areas.",
+  "recommendation": "**To evaluate Mercy Corps under the SoGive rating methodology, we would need more information.**\n\nMercy Corps is a global humanitarian organisation empowering people to recover from crisis, build better lives and transform their communities for good.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html),  we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**Benchmarking**\n\nHaving reviewed the work of Mercy Corps under the two-question method, the next step in the SoGive process would be to compare this to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. An example benchmark charity is the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation)\n\nWe could not gather enough information from the 2019 annual report to perform a detailed analysis or form opinions about their work under the SoGive methodology.\n\nThis is because the Mercy Corps works on several charitable activities, but the costs of these projects are not clear from the annual report. For example, in one of their projects, Mercy Corps has helped 36,000 people to safe drinking water, but this is only one of their activities regarding public health, so the cost-effectiveness of their work cannot be calculated.\n\n**Conclusion**\n\nTentative rating: If we had more information about the work of Mercy Corps, it would probably achieve a Bronze assessment under the SoGive rating methodology. When we describe a charity as Bronze-rated, we mean that that the charity\u0027s work likely has a positive impact, but underperforms compared to a Gold-rated charity. In their annual report, Mercy Corps reports spending £111,661,733 on all their annual work, including charitable activities, administration costs, trading costs etc. While their charitable activities such as helping families displaced by violence and providing people with emergency cash assistance are likely to do some good, our default assumption is that a charity is unlikely to achieve substantial positive impact in the absence of strong evidence to the contrary. This is for the reasons set out [here](https://thinkingaboutcharity.blogspot.com/2019/08/should-you-be-charity-sceptic.html?view\u003dsidebar). To be as cost-effective as the above mentioned Against Malaria Foundation, Mercy Corps would need to be able to achieve an outcome as good as saving a life for around £1,500. Unfortunately, they do not report an impact of similar effectiveness.\n\nFurther information that would enable us to form a fuller opinion of the work of Mercy Corps would be:\n(a) a more comprehensive picture of the costs involved in delivering their work (ie. how much does it cost for the charity to perform each project?)\n(b) more comprehensive impact assessments, both in quantity and depth. I.e. for each costed project, not just the number of outputs achieved (e.g. children educated, or people provided with safe water) but also a sizing of the ultimate benefits (e.g. children getting better livelihoods or not getting sick). We would also be interested in the quality of these assessments (e.g. did the studies compare against a control group, how were the controls determined, etc)",
+  "nextAction": "Output check - or contact charity",
+  "whyTags": "natural disaster, economic collapse, conflict, food,  International aid, Poverty, Disaster response",
+  "imageCaption": "Food Security",
+  "ready": false,
+  "modified": true,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/MC_New_Logo_Horizontal_PMS_186_PC_10-15.jpg",
+  "@id": "mercy-corps",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mercy_Corps",
+  "summaryDescription": "Mercy Corps is a global humanitarian organization empowering people to recover from crisis, build better lives and transform their communities for good.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-6646677344904514690.jpg",
+  "stories": "Families in Mali and Niger face hunger and malnutrition as drought increasingly plagues the Sahel region of West Africa. We provide them with the resources they need to keep their livestock healthy, protect their harvests and feed their children during ongoing food shortages.",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Mercy Corps",
+    "mercy-corps"
+  ],
+  "url": "https://europe.mercycorps.org/",
+  "howTags": "Direct Work, campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "englandWalesCharityRegNum": {
+      "notes": "Not registered at Charity Commission"
+    }
+  },
+  "name": "Mercy Corps",
+  "category": "international",
+  "subcategory": "Humanitarian Relief Supplies",
+  "englandWalesCharityRegNum": "",
+  "whereTags": "United Kingdom, Developing World, Syria, Mongolia, Myanmar, Nepal, Niger, Nigeria, Pakistan, Somalia, South Sudan, Sudan, Syria, Tajikistan, Timor-Leste, Tunisia, Turkey, Uganda, Ukraine, United States, West Bank, Gaza. Yemen, Zimbabwe, Afghanistan, Central African Republic, China, Colombia, DR Congo, Ethiopia, Georgia, Greece, Guatemala, Haiti, India, Indonesia, Iraq, Jordan, Kenya, Kyrgyzstan, Lebanon, Liberia, Libya, Malia",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
