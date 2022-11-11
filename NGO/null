@@ -2,18 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/Image-box-02-1-70978929441044453.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/Celebrating-35-Years-of-the-Mectizan-Donation-Program-MDP-QA-with-River-Blindness-Experts-16871315231448297652.jpg",
   "@type": "NGO",
-  "displayName": "Catholic Charities USA",
-  "name": "Catholic Charities USA",
-  "description": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
-  "logo": "https://media.good-loop.com/uploads/standard/Catholic__Charities__USA__logo.svg-2464798594810128802.png",
-  "id": "catholic-charities-usa",
+  "displayName": "Task Force for Global Health",
+  "name": "Task Force for Global Health",
+  "description": "Founded in 1984, Task Force for Global Health helps underserved populations in more than 50 countries.",
+  "logo": "https://media.good-loop.com/uploads/standard/TFGH-Logo-bluebck2-b-8374651516799925753.png",
+  "id": "task-force-for-global-health",
   "suggest": [
-    "Catholic Charities USA",
-    "Catholic Charities USA"
+    "Task Force for Global Health",
+    "Task Force for Global Health"
   ],
-  "summaryDescription": "Founded in 1910, Catholic Charities USA provides service to people in need and pushes for justice in social structures.",
-  "url": "https://www.catholiccharitiesusa.org",
+  "summaryDescription": "Founded in 1984, Task Force for Global Health helps underserved populations in more than 50 countries.",
+  "url": "https://www.taskforce.org",
   "status": "DRAFT"
 }
