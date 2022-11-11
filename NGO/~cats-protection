@@ -6,6 +6,7 @@
         "@type": "ImageObject"
       },
       {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/cats-9176107955320622029.jpg",
         "@type": "ImageObject"
       }
     ],
@@ -657,5 +658,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
