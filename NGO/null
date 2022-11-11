@@ -2,18 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/2021-11-6-FYY-over-shoulder-0763__01__RGB-3247702551335396995.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/about-compassion-international-celebration-6738211768261309116.jpg",
   "@type": "NGO",
-  "displayName": "YMCA of the USA",
-  "name": "YMCA of the USA",
-  "description": "Founded in 1844, the Young Men\u0027s Christian Association is a worldwide organization perhaps best known in the U.S. for its fitness facilities.",
-  "logo": "https://media.good-loop.com/uploads/standard/ymca-3-logo-png-transparent-15533069589294864662.png",
-  "id": "ymca-usa",
+  "displayName": "Compassion International",
+  "name": "Compassion International",
+  "logo": "https://media.good-loop.com/uploads/standard/CompassionInternationalLogo-1711848416439347939.png",
+  "description": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
+  "id": "compassion-international",
   "suggest": [
-    "YMCA of the USA",
-    "YMCA of the USA"
+    "Compassion International",
+    "Compassion International"
   ],
-  "summaryDescription": "Founded in 1844, the Young Men\u0027s Christian Association is a worldwide organization perhaps best known in the U.S. for its fitness facilities.",
-  "url": "https://www.ymca.org",
+  "summaryDescription": "Founded in 1952, Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world.",
+  "url": "https://www.compassion.com",
   "status": "DRAFT"
 }
