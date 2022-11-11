@@ -3,6 +3,7 @@
     "backgroundColor": "#000000",
     "backdropImages": [
       {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/pdsa-16938079227247237839.jpg",
         "@type": "ImageObject"
       }
     ],
@@ -679,5 +680,5 @@
   "englandWalesCharityRegNum": "208217",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
