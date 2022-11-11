@@ -4,10 +4,6 @@
       {
         "contentUrl": "https://media.good-loop.com/uploads/raw/catsprotection02-10358738848318436629.jpg",
         "@type": "ImageObject"
-      },
-      {
-        "contentUrl": "https://media.good-loop.com/uploads/raw/catsprotection-1556382720334698879.jpg",
-        "@type": "ImageObject"
       }
     ],
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
@@ -658,5 +654,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
