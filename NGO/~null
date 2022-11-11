@@ -7,10 +7,12 @@
   "displayName": "Step Up for Students",
   "name": "Step Up for Students",
   "logo": "https://media.good-loop.com/uploads/standard/step-up-for-students-1912859548939464221.png",
+  "description": "Founded in 2002, Step Up For Students raises money primarily to provide private school vouchers for poor students in Florida.",
   "id": "step-up-for-student",
   "suggest": [
     "Step Up for Students",
     "Step Up for Students"
   ],
+  "summaryDescription": "Founded in 2002, Step Up For Students raises money primarily to provide private school vouchers for poor students in Florida.",
   "status": "DRAFT"
 }
