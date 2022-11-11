@@ -1,0 +1,16 @@
+{
+  "scotlandCharityRegNum": "SC013487",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "YMCA Aberdeen",
+  "@id": "ymca-aberdeen",
+  "suggest": [
+    "YMCA Aberdeen",
+    "ymca-aberdeen"
+  ],
+  "url": "www.aberdeenymca.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
