@@ -1,6 +1,11 @@
 {
   "t4gTheme": {
     "backgroundColor": "#000000",
+    "backdropImages": [
+      {
+        "@type": "ImageObject"
+      }
+    ],
     "t4gLogo": "https://media.good-loop.com/uploads/raw/pdsa-5445537681089323044.jpg"
   },
   "projects": [
@@ -674,5 +679,5 @@
   "englandWalesCharityRegNum": "208217",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
