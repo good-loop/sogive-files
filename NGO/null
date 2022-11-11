@@ -2,17 +2,17 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://media.good-loop.com/uploads/standard/220914-FFTP-November-World-Kindness-Day-HP-Banner-Image-Desktop-v1-17303816772526026529.jpg",
   "@type": "NGO",
-  "displayName": "World Vision",
-  "name": "World Vision",
-  "logo": "https://media.good-loop.com/uploads/standard/wv-logo-2050500935846386271.svg",
-  "description": "Founded in 1950, World Vision is a Christian relief and development umbrella organization that combines staff efforts with donated goods to fight poverty around the world.",
-  "id": "world-vision",
+  "displayName": "Food for the Poor",
+  "name": "Food for the Poor",
+  "logo": "https://media.good-loop.com/uploads/standard/fftp-logo-3040767106432188785.svg",
+  "description": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
+  "id": "food-for-the-poor",
   "suggest": [
-    "World Vision",
-    "World Vision"
+    "Food for the Poor",
+    "Food for the Poor"
   ],
-  "summaryDescription": "Founded in 1950, World Vision is a Christian relief and development umbrella organization that combines staff efforts with donated goods to fight poverty around the world.",
-  "url": "https://www.worldvision.org",
+  "summaryDescription": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
   "status": "DRAFT"
 }
