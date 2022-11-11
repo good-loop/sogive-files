@@ -3,16 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Mount Sinai Health Systems",
-  "name": "Mount Sinai Health Systems",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-color-10856855725716500465.png",
-  "description": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
-  "id": "mount-sinai-health-systems",
+  "displayName": "Girls Who Code",
+  "logo": "https://media.good-loop.com/uploads/standard/GWC__Logo__2020__-__Teal-4012620366882096655.png#ccrop:87",
+  "id": "girls-who-code",
   "suggest": [
-    "Mount Sinai Health Systems",
-    "Mount Sinai Health Systems"
+    "Girls Who Code"
   ],
-  "summaryDescription": "Dating back to 1852, Mount Sinai Health Systems includes a medical school, a teaching hospital and numerous affiliates in New York City.",
-  "url": "https://https://www.mountsinai.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
