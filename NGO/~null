@@ -7,11 +7,12 @@
   "displayName": "Food for the Poor",
   "name": "Food for the Poor",
   "logo": "https://media.good-loop.com/uploads/standard/fftp-logo-3040767106432188785.svg",
-  "description": "Food for the Poor",
+  "description": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
   "id": "food-for-the-poor",
   "suggest": [
     "Food for the Poor",
     "Food for the Poor"
   ],
+  "summaryDescription": "Founded in 1982, Food for the Poor is an Christian relief agency specializing in providing donated goods to the needy in Latin America and the Caribbean.",
   "status": "DRAFT"
 }
