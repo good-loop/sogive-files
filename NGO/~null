@@ -3,6 +3,7 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/association-of-service-dog-providers-for-military-veterans-18061580829914229333.png",
   "id": "the-association-of-service-dog-providers-for-military-veterans",
   "suggest": [],
   "status": "DRAFT"
