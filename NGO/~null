@@ -1,5 +1,9 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "id": "tony-la-russa",
-  "suggest": []
+  "suggest": [],
+  "status": "DRAFT"
 }
