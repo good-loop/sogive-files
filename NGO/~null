@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Green Tree Charity",
-  "name": "Green Tree Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/GTProjLogo-15779532780931391559.png#ccrop:99",
-  "id": "green-tree-charity",
-  "suggest": [
-    "Green Tree Charity",
-    "Green Tree Charity"
-  ],
-  "status": "DRAFT"
+  "id": "the-new-york-women-s-foundation",
+  "suggest": []
 }
