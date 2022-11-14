@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Green Tree Charity",
-  "name": "Green Tree Charity",
+  "displayName": "Green Tree Foundation",
+  "name": "Green Tree Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/GTProjLogo-1263927186831405317.png#ccrop:99",
   "id": "green-tree-charity",
   "suggest": [
-    "Green Tree Charity",
-    "Green Tree Charity"
+    "Green Tree Foundation",
+    "Green Tree Foundation"
   ],
   "status": "DRAFT"
 }
