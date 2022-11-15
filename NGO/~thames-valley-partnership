@@ -1,0 +1,417 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1,517,799",
+          "currency": "GBP",
+          "value100p": 1.517799E10,
+          "value": 1517799.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.26 annual report"
+        },
+        "reserves": {
+          "notes": "p.20 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "60,634",
+        "currency": "GBP",
+        "value100p": 6.0634E8,
+        "value": 60634.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_family-14082397106232856305.jpg",
+      "imageCaption": "Supporting families",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "31584",
+          "currency": "GBP",
+          "value100p": 3.1584E8,
+          "value": 31584.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Family Matters",
+      "description": "Family Matters supports offender families in difficulties and intervenes  early to prevent inter-generational offending and escalation of family issues. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_new_leaf-16196944690396519009.jpg",
+      "imageCaption": "Mentoring to rehabilitate offenders",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "141293",
+          "currency": "GBP",
+          "value100p": 1.41293E9,
+          "value": 141293.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "New Leaf",
+      "description": "New Leaf provides a volunteer-led mentoring service to rehabilitate offenders released from prison, tackling practical and emotional difficulties. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_justice-10819091892802080831.jpg",
+      "imageCaption": "Repairing the harm caused by crime",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "270761",
+          "currency": "GBP",
+          "value100p": 2.70761E9,
+          "value": 270761.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Restorative Justice ",
+      "description": "Restorative Justice Service for victims and offenders aims to repair the harm caused by crime, improve victims\u0027 health and experience of the criminal justice system and reduce offending. \n"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1994.0,
+          "meta": {
+            "all": {
+              "notes": "17/18 reports 14,008 (p.9) supported over the project\u0027s lifetime, while 18/19 reports 16,002 (p.9), implying 1,994 for the year. \n\nThe TecSOS reference describes in more detail how the device is used. "
+            }
+          },
+          "confidence": "medium",
+          "name": "Victim(s) of domestic abuse supported",
+          "description": "Victims  are supported by a device that initiates a high-priority 999 call. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20180331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9272976\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        },
+        {
+          "@type": "Citation",
+          "url": "http://www.tecsos.co.uk/?LMCL\u003dwWJgCk"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_tecsos-12907295193233973020.jpg",
+      "imageCaption": "Supporting victims of domestic abuse",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "544176",
+          "currency": "GBP",
+          "value100p": 5.44176E9,
+          "value": 544176.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.26 annual report"
+        },
+        "isRep": {
+          "notes": "37% of funds allocated here (the most of any project)"
+        }
+      },
+      "name": "TecSOS Project",
+      "description": "TecSOS protects victims of domestic abuse by providing a direct link to police systems and control rooms for a faster response to emergencies. ",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_victims_first-2652522098083321284.jpg",
+      "imageCaption": "Emotional support to victims of crime",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "269524",
+          "currency": "GBP",
+          "value100p": 2.69524E9,
+          "value": 269524.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "VFESS",
+      "description": "Victims First Emotional Support Service (VFESS) provides emotional support to victims of crime through short-term interventions. "
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001031545_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9807185\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dthames%2Bvalley%2Bpartnership%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d1031545"
+        }
+      ],
+      "image": "https://app.sogive.org/uploads/4345768482160962facebook/thames_willow-2239217867319803628.jpg",
+      "imageCaption": "Emotional support to victims of exploitation",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "202447",
+          "currency": "GBP",
+          "value100p": 2.02447E9,
+          "value": 202447.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Willow",
+      "description": "Victims First Willow Project provides emotional/crisis support to victims of exploitation, modern slavery and those with complex needs. "
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Thames Valley Partnership",
+  "description": "[Thames Valley Partnership](https://thamesvalleypartnership.org.uk/ccc/home) has projects to support offenders\u0027 families, provide mentoring to offenders, offer restorative justice services, protect victims of domestic abuse, provide emotional support to victims, and provide support to victims of exploitation and modern slavery. ",
+  "UNSDG": "16",
+  "whyTags": "Prisons, helplines",
+  "imageCaption": "Restorative justice",
+  "ready": false,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/4345768482160962facebook/Thames-6896730322174842299.jpg",
+  "@id": "thames-valley-partnership",
+  "id": "thames-valley-partnership",
+  "summaryDescription": "[Thames Valley Partnership](https://thamesvalleypartnership.org.uk/ccc/home) protects and supports victims of crime and helps reintegrate offenders into society. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/4345768482160962facebook/restorative_justice-3248169668815412678.jpg",
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Thames Valley Partnership",
+    "Thames Valley Partnership",
+    "thames-valley-partnership"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "thames-valley-partnership",
+      "name": "Victim(s) of domestic abuse supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2837524,
+        "value": "283.75243405902829069109400754261924560"
+      },
+      "amountGBP": 0.0,
+      "n": 1.0
+    }
+  ],
+  "url": "https://thamesvalleypartnership.org.uk/ccc/home",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Victim(s) of domestic abuse supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 2837524,
+      "value": "283.75243405902829069109400754261924560"
+    }
+  },
+  "name": "Thames Valley Partnership",
+  "lastModified": "2020-10-20T11:16:39Z",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "1031545",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
