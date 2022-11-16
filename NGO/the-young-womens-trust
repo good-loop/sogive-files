@@ -22,13 +22,20 @@
   "summaryDescription": "Young Women’s Trust offers support to young women aged 18 to 30, who are living on low or no pay and want to build a better future. They campaign for young women’s equality in the workplace and their research examines what young women’s lives are really like.",
   "imageList": [
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-92-6876959792875257969.jpg",
+      "@type": "ImageObject"
+    },
+    {
       "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-47-17127445911019605630.jpg",
       "@type": "ImageObject"
     },
     {
-      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-92-6876959792875257969.jpg",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-50-14101705086015361662.jpg",
+      "@type": "ImageObject"
+    },
+    {
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
