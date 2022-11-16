@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Support In Mind Scotland",
   "id": "support-in-mind-scotland",
-  "suggest": [],
+  "suggest": [
+    "Support In Mind Scotland"
+  ],
   "status": "DRAFT"
 }
