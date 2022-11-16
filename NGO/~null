@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Support In Mind Scotland",
-  "logo": "https://media.good-loop.com/uploads/standard/006961d1-360d-4e7a-8d6b-70d547babf39-18075148827551467511.jpg#ccrop:80",
-  "id": "support-in-mind-scotland",
-  "suggest": [
-    "Support In Mind Scotland"
-  ],
-  "url": "https://www.supportinmindscotland.org.uk/",
-  "status": "DRAFT"
+  "id": "im-not-a-barista",
+  "suggest": []
 }
