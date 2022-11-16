@@ -28,7 +28,13 @@
     {
       "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-92-6876959792875257969.jpg",
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
