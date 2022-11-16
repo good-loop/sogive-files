@@ -8,13 +8,13 @@
   "displayName": "The Young Women\u0027s Trust",
   "description": "Young Women’s Trust offers support to young women aged 18 to 30, who are living on low or no pay and want to build a better future. They campaign for young women’s equality in the workplace and their research examines what young women’s lives are really like.",
   "suggest": [
-    "the-young-womens-trust",
+    "young-womens-trust",
     "The Young Women\u0027s Trust",
     "the-young-womens-trust"
   ],
   "quote": "\"Young Women’s Trust stands up for equality for young women in the UK. They do this by carrying out policy research, campaigning for change and reaching out to young women across the UK, helping them get skills and opportunities to speak truth to power. They hold women at the heart of what they do and want to get women’s experiences understood by the government.\"- Yogi, a young woman involved in their work",
   "headerImage": "https://media.good-loop.com/uploads/standard/YWT-92-6531397425252690862.jpg",
-  "name": "the-young-womens-trust",
+  "name": "young-womens-trust",
   "logo": "https://media.good-loop.com/uploads/raw/logo-orange-3754456854548072900.png",
   "@id": "the-young-womens-trust",
   "id": "the-young-womens-trust",
