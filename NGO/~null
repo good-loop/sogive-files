@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "I\u0027M NOT A BARISTA",
-  "logo": "https://media.good-loop.com/uploads/standard/Iamnotabarista__logo-4670846489241400905.jpg#ccrop:105",
-  "id": "im-not-a-barista",
-  "suggest": [
-    "I\u0027M NOT A BARISTA"
-  ],
-  "url": "https://notabarista.org/notabarista-foundation/",
-  "status": "DRAFT"
+  "id": "nflfoundation",
+  "suggest": []
 }
