@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Global Citizen",
-  "logo": "https://media.good-loop.com/uploads/standard/gc-logo-no-space.935935601661-1466060024749423305.png",
-  "id": "global-citizen",
+  "displayName": "Support In Mind Scotland",
+  "logo": "https://media.good-loop.com/uploads/standard/006961d1-360d-4e7a-8d6b-70d547babf39-18075148827551467511.jpg#ccrop:80",
+  "id": "support-in-mind-scotland",
   "suggest": [
-    "Global Citizen"
+    "Support In Mind Scotland"
   ],
-  "status": "PUBLISHED"
+  "url": "https://www.supportinmindscotland.org.uk/",
+  "status": "DRAFT"
 }
