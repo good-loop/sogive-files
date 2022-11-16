@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "I\u0027M NOT A BARISTA",
   "id": "im-not-a-barista",
-  "suggest": [],
+  "suggest": [
+    "I\u0027M NOT A BARISTA"
+  ],
   "status": "DRAFT"
 }
