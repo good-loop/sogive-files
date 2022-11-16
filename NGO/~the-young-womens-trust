@@ -5,15 +5,16 @@
   },
   "@type": "NGO",
   "displayName": "The Young Women\u0027s Trust",
-  "name": "the-young-womens-trust",
-  "logo": "https://media.good-loop.com/uploads/raw/logo-orange-3754456854548072900.png",
   "description": "Young Women’s Trust offers support to young women aged 18 to 30, who are living on low or no pay and want to build a better future. They campaign for young women’s equality in the workplace and their research examines what young women’s lives are really like.",
-  "@id": "the-young-womens-trust",
   "suggest": [
     "the-young-womens-trust",
     "The Young Women\u0027s Trust",
     "the-young-womens-trust"
   ],
+  "quote": "\"Young Women’s Trust stands up for equality for young women in the UK. They do this by carrying out policy research, campaigning for change and reaching out to young women across the UK, helping them get skills and opportunities to speak truth to power. They hold women at the heart of what they do and want to get women’s experiences understood by the government.\"- Yogi, a young woman involved in our work",
+  "name": "the-young-womens-trust",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-orange-3754456854548072900.png",
+  "@id": "the-young-womens-trust",
   "id": "the-young-womens-trust",
   "summaryDescription": "On average, young women take home around 22% less than young men. Young women are more likely to be doing unpaid caring work, like caring for children or younger siblings. So they are more likely to be in part-time jobs, not able to get enough hours or to progress or not working at all.\n\nYoung women have been hit especially hard by the rising cost of living and are more likely than young men to be struggling to make ends meet. This is because young women were already earning less to start with.\n\n ",
   "status": "DRAFT"
