@@ -7,6 +7,7 @@
   "displayName": "The Young Women\u0027s Trust",
   "name": "the-young-womens-trust",
   "logo": "https://media.good-loop.com/uploads/raw/logo-orange-3754456854548072900.png",
+  "description": "\"Young Women’s Trust stands up for equality for young women in the UK. They do this by carrying out policy research, campaigning for change and reaching out to young women across the UK, helping them get skills and opportunities to speak truth to power. They hold women at the heart of what they do and want to get women’s experiences understood by the government.\"- Yogi, a young woman involved in our work",
   "@id": "the-young-womens-trust",
   "suggest": [
     "the-young-womens-trust",
@@ -14,5 +15,5 @@
     "the-young-womens-trust"
   ],
   "id": "the-young-womens-trust",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
