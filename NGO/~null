@@ -4,10 +4,11 @@
   },
   "@type": "NGO",
   "displayName": "I\u0027M NOT A BARISTA",
+  "logo": "https://media.good-loop.com/uploads/standard/Iamnotabarista__logo-4670846489241400905.jpg",
   "id": "im-not-a-barista",
   "suggest": [
     "I\u0027M NOT A BARISTA"
   ],
-  "url": "",
+  "url": "https://notabarista.org/notabarista-foundation/",
   "status": "DRAFT"
 }
