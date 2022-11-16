@@ -1,10 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "logo": "https://media.good-loop.com/uploads/standard/gc-logo-no-space.935935601661-1466060024749423305.png",
-  "id": "global-citizen",
-  "suggest": [],
-  "status": "DRAFT"
+  "id": "support-in-mind-scotland",
+  "suggest": []
 }
