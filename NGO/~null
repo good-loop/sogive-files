@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "The NFL Foundation",
   "id": "nflfoundation",
-  "suggest": [],
+  "suggest": [
+    "The NFL Foundation"
+  ],
   "status": "DRAFT"
 }
