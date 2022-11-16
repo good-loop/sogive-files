@@ -3,12 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "I\u0027M NOT A BARISTA",
-  "logo": "https://media.good-loop.com/uploads/standard/Iamnotabarista__logo-4670846489241400905.jpg#ccrop:105",
-  "id": "im-not-a-barista",
+  "displayName": "The NFL Foundation",
+  "name": "The NFL Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/NFL__Foundation__logo.svg-4182247992859898157.png#ccrop:95",
+  "id": "nflfoundation",
   "suggest": [
-    "I\u0027M NOT A BARISTA"
+    "The NFL Foundation",
+    "The NFL Foundation"
   ],
-  "url": "https://notabarista.org/notabarista-foundation/",
-  "status": "MODIFIED"
+  "url": "https://www.nflfoundation.org/",
+  "status": "DRAFT"
 }
