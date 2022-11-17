@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "ZSL Let\u0027s Work For Wildlife",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/zsl__long-12695379363548758199.png",
   "id": "zsl-lets-work-for-wildlife",
   "suggest": [
