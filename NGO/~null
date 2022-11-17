@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "displayName": "Sane",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_8-12384608215271451820.svg#ccrop:80",
+  "logo": "https://media.good-loop.com/uploads/standard/Sane-Logo-403392447786719298.jpg",
   "id": "sane",
   "suggest": [
     "Sane"
   ],
   "url": "https://www.sane.org.uk/",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
