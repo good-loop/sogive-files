@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "displayName": "Sane",
   "logo": "https://media.good-loop.com/uploads/standard/logo_8-12384608215271451820.svg#ccrop:75",
@@ -7,5 +10,5 @@
     "Sane"
   ],
   "url": "https://www.sane.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
