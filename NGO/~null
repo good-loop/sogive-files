@@ -85,10 +85,10 @@
     }
   },
   "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/eden-projects-4709504501207212447.png#ccrop:88",
+  "logo": "https://media.good-loop.com/uploads/standard/eden-projects-4709504501207212447.png#ccrop:85",
   "id": "eden-reforestation-projects",
   "category": "environment",
   "subcategory": "Climate Action",
   "summaryDescription": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
