@@ -1,5 +1,8 @@
 {
   "scotlandCharityRegNum": "SC044246",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -109,6 +112,7 @@
         "value100p": 260100,
         "value": "26.01"
       },
+      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
@@ -137,5 +141,5 @@
   "englandWalesCharityRegNum": "1110522",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
