@@ -790,10 +790,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "9952000",
+          "raw": "5520",
           "currency": "GBP",
-          "value100p": 9.952E10,
-          "value": 9952000.0
+          "value100p": 5.52E7,
+          "value": 5520.0
         },
         {
           "@type": "Money",
@@ -1032,6 +1032,7 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Blue Cross",
   "description": "Blue Cross helps pets and pet owners in the UK through a range of programs, such as providing veterinary care at their animal hospitals, matching homeless pets with new owners, providing education and advice about animal care to current and future pet owners, and running a pet bereavement support helpline.",
   "recommendation": "**Summary**\n\n**Blue Cross is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\n- Blue Cross helps pets and pet owners in the UK through a range of programs, such as running veterinary hospitals, rehoming homeless pets, and providing pet advice.\n- We estimate that a Blue Cross donor might be able to provide veterinary care to one pet for about £300, or rehome one pet for about £2000.\n- We think that this opportunity is significantly less cost-effective than our Gold Standard benchmark of preventing the suffering of one factory-farmed chicken for £5.\n- Therefore, we do not recommend donating to this charity at this time.\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n**More about what Blue Cross does - how they spend your donations**\n\nBlue Cross focuses on helping pets and pet owners in the UK. Their [2020 annual report](https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf) describes their charitable activities across three categories: veterinary services, pet rehoming, and education.\n\nIn 2020, Blue Cross spent approximately £11 million providing veterinary and clinical care. Some care was provided in person at veterinary hospitals run by Blue Cross, some care was provided by phone or video consultation with Blue Cross teams, and some through partnerships with other veterinary practices. Over 32,000 pets received care through Blue Cross in 2020.\n\nApproximately £10 million was spent on efforts to rehome homeless pets. Blue Cross runs 14 rehoming centres, and coordinates a network of foster carers. In 2020, they were able to rehome about 4,800 pets. This figure may not be typical: for example, in 2019 they were able to rehome about 9,000 pets. Their annual report indicates that Covid-19 imposed major constraints on the rehoming program in particular.\n\nLastly, Blue Cross spent approximately £4 million providing education, advice, and support to pet owners and potential future pet owners. Programs in this category include: giving talks to schools and youth groups, running a website which offers pet advice, producing podcasts, offering courses for animal professionals, and running a pet bereavement support helpline. In 2020 they reached over 56,000 people through talks and workshops, while their website received 9.4 million page views.\n\nImpact information can be found on pages 7-10 of the [2020 annual report](https://www.bluecross.org.uk/sites/default/files/d8/2021-09/Blue%20Cross%20Annual%20report%202020%20signed.pdf), and expenditure information on page 30.\n\n**Cost-effectiveness analysis - how does Blue Cross compare to the most cost-effective charities?**\n\nAfter a review of Blue Cross’s work under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as averting the suffering of 1 chicken in very poor conditions for every £5 donated) and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar).\n\nFor this analysis, we will focus on Blue Cross’s veterinary care and rehoming programs, which together account for most (83%) of their charitable spending. In their veterinary care program, they spent about £11 million and provided care to about 32,000 pets. This implies that on average, they spent about £300 to provide care to one pet. \"Care\" may describe a range of services, from a routine check-up to a life-saving operation. In order to compare veterinary care to our Gold Standard benchmarks, we might estimate that on average, one pet receiving care is approximately as valuable as one chicken’s suffering being averted. A Gold-rated organization could avert the suffering of one chicken for only £5, which would therefore be significantly more cost-effective than providing care to one pet for £300. In other words, for £300 a Gold-rated organization could avert the suffering of 60 chickens, which we think is more valuable than providing one-time veterinary care to one pet.\n\nIn their rehoming program, Blue Cross spent about £10 million and rehomed about 4,800 pets, for an average of about £2,000 per pet rehomed. We might estimate that rehoming a homeless pet, which optimistically could give the pet multiple additional years of happy life, is approximately as valuable as averting the suffering of five to ten chickens. A Gold-rated organization could avert the suffering of 10 chickens for about £50, which would therefore be significantly more cost-effective than rehoming one pet for £2,000. \n\nBased on this analysis, we think that donating to Blue Cross will not have as much positive impact as donating to a Gold-rated organization.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\n**Conclusion**\n\nBased on the above, we rate Blue Cross as Not Recommended (firm) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective.\n- We do have some indication of cost-effectiveness, and have very high confidence that cost-effectiveness underperforms the Gold Standard, likely by a substantial margin.\n",
   "whyTags": "Animals",
@@ -1048,7 +1049,23 @@
   "confidence": "high",
   "suggest": [
     "Blue Cross",
+    "Blue Cross",
     "blue-cross"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "blue-cross",
+      "name": "pet(s) given veterinary care",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 3116753,
+        "value": "311.675348576062868120000"
+      },
+      "amountGBP": 0.0,
+      "n": 1.0
+    }
   ],
   "url": "https://www.bluecross.org.uk/",
   "howTags": "Direct Work",
