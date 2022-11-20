@@ -806,7 +806,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "Annual costs and trading costs p. 30, Income from beneficiaries p. 37"
+          "notes": "Annual costs and trading costs p. 30, Income from beneficiaries p. 37\n\nTrading costs previously included fundraising costs."
         },
         "reserves": {
           "notes": "p.31"
@@ -1094,5 +1094,5 @@
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
   "suggestedDonations": [],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
