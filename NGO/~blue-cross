@@ -790,10 +790,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "raw": "5520",
+          "raw": "5520000",
           "currency": "GBP",
-          "value100p": 5.52E7,
-          "value": 5520.0
+          "value100p": 5.52E10,
+          "value": 5520000.0
         },
         {
           "@type": "Money",
@@ -1094,5 +1094,5 @@
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
   "suggestedDonations": [],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
