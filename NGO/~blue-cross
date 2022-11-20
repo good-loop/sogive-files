@@ -806,7 +806,7 @@
       ],
       "meta": {
         "inputs_meta": {
-          "notes": "Annual costs and trading costs p. 30, Income from beneficiaries p. 37\n\nTrading costs previously included fundraising costs."
+          "notes": "Annual costs and trading costs p. 30, Income from beneficiaries p. 37\n\nTrading costs previously included fundraising costs. There was no obvious reason to do this, so we deducted the amount on 20 Nov 2022."
         },
         "reserves": {
           "notes": "p.31"
