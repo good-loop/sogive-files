@@ -4,13 +4,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Who Cares? Scotland",
   "name": "Who Cares? Scotland",
   "@id": "who-cares-scotland",
   "suggest": [
+    "Who Cares? Scotland",
     "Who Cares? Scotland",
     "who-cares-scotland"
   ],
   "url": "www.whocaresscotland.org",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
