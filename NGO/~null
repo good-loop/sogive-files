@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Levantemos ",
+  "displayName": "Desafio Levantemos Chile",
   "id": "desafio-lavantemos-chile",
   "suggest": [
-    "Levantemos "
+    "Desafio Levantemos Chile"
   ],
   "status": "DRAFT"
 }
