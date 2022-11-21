@@ -1,5 +1,8 @@
 {
   "scotlandCharityRegNum": "SC038092",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -954,7 +957,7 @@
   "whyTags": "Care/fostering/adoption, disabilities, mental health",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/ActionForChildren__logo-11137826536475339145.png",
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/ActionForChildren__logo-11137826536475339145.png#ccrop:85",
   "@id": "action-for-children",
   "wikipedia": "https://en.wikipedia.org/wiki/Action_for_Children",
   "summaryDescription": "Action for Children helps disadvantaged children and families in the UK.  ",
@@ -965,6 +968,22 @@
   "suggest": [
     "Action for Children",
     "action-for-children"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "action-for-children",
+      "name": "Young people (singular: person) or children (singular: child) provided with mental health or careers support",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 3350000,
+        "value": "335.0",
+        "name": ""
+      },
+      "amountGBP": 0.0,
+      "n": 1.0
+    }
   ],
   "url": "https://www.actionforchildren.org.uk/",
   "howTags": "Direct Work, research, campaigning",
@@ -992,5 +1011,5 @@
   "englandWalesCharityRegNum": "1097940",
   "whereTags": "Britain",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
