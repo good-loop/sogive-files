@@ -1,5 +1,8 @@
 {
   "scotlandCharityRegNum": "SC044246",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -85,7 +88,7 @@
   "description": "The Trussell Trust operates 3 food banks and supports a network of 428 more. These food banks take referrals from local agencies such as children\u0027s centres, housing associations, advice charities and mental health teams. They provide those in need with boxes containing three days of emergency food and other essential home supplies. Boxes are carefully designed to provide a balanced supply of food for any household size.",
   "whyTags": "Hunger, Poverty",
   "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/trussell-trust-logo-500px_1-4230401300742752807.jpg#ccrop:95",
+  "logo": "https://media.good-loop.com/uploads/standard/trussell_trust-18371781017748866293.png",
   "modified": false,
   "@id": "the-trussell-trust",
   "summaryDescription": "Aims to end hunger and poverty in the UK",
@@ -109,6 +112,7 @@
         "value100p": 260100,
         "value": "26.01"
       },
+      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
