@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Techo",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-techo-4755266197068848546.svg#ccrop:90",
-  "id": "techo",
-  "suggest": [
-    "Techo"
-  ],
-  "url": "https://techo.org/",
-  "status": "DRAFT"
+  "id": "desafio-lavantemos-chile",
+  "suggest": []
 }
