@@ -5,11 +5,11 @@
   "@type": "NGO",
   "displayName": "Sporting Equals",
   "name": "Sporting Equals",
-  "logo": "https://media.good-loop.com/uploads/standard/se-logo-blue-10008493767372696608.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/se-logo-blue-10008493767372696608.svg#ccrop:90",
   "id": "sporting-equals",
   "suggest": [
     "Sporting Equals",
     "Sporting Equals"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
