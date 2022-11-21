@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Sane",
-  "logo": "https://media.good-loop.com/uploads/standard/Sane-Logo-403392447786719298.jpg",
-  "id": "sane",
-  "suggest": [
-    "Sane"
-  ],
-  "url": "https://www.sane.org.uk/",
-  "status": "PUBLISHED"
+  "id": "sporting-equals",
+  "suggest": []
 }
