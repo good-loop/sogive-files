@@ -1,0 +1,19 @@
+{
+  "scotlandCharityRegNum": "SC026076",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Who Cares? Scotland",
+  "name": "Who Cares? Scotland",
+  "logo": "https://media.good-loop.com/uploads/standard/WCS-Logo-Green-2724261843575041556.png#ccrop:90",
+  "@id": "who-cares-scotland",
+  "suggest": [
+    "Who Cares? Scotland",
+    "Who Cares? Scotland",
+    "who-cares-scotland"
+  ],
+  "url": "https://www.whocaresscotland.org/",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
