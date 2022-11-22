@@ -4,15 +4,16 @@
   },
   "images": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/164989673_156936766283749_2828561572510226585_n.jpg?_nc_cat\u003d101\u0026ccb\u003d1-7\u0026_nc_sid\u003d8bfeb9\u0026_nc_ohc\u003d4jpJuMjoLqAAX9f_T-V\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfCASXIEz5iQPRDi9c0jnuPoXJai4SDY43ALfvnnRukBgw\u0026oe\u003d63A4A2A5",
   "@class": "com.goodloop.data.NGO",
-  "headerImage": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/172021691_166767095300716_9069184690011199847_n.jpg?stp\u003ddst-jpg_p640x640\u0026_nc_cat\u003d109\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dZj8PGoU54RkAX84wMzN\u0026_nc_oc\u003dAQl4dLzyyQBkuv81mT3VbiSp733ptDQUdDF7JU-eHaieBZKpMMqkF9iakVtrrGb5haw\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfAHmYSfwUrvyAiJThWTq7yvxlVYNS62aV6jMEb1xs8QWg\u0026oe\u003d63A4BB49",
   "@type": "NGO",
-  "unlisted": true,
   "created": "2022-11-22T21:14:07Z",
-  "ready": false,
-  "name": "Milo Child Support Uganda",
-  "id": "milo-child-support-uganda",
   "suggest": [
     "Milo Child Support Uganda"
   ],
+  "headerImage": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/172021691_166767095300716_9069184690011199847_n.jpg?stp\u003ddst-jpg_p640x640\u0026_nc_cat\u003d109\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dZj8PGoU54RkAX84wMzN\u0026_nc_oc\u003dAQl4dLzyyQBkuv81mT3VbiSp733ptDQUdDF7JU-eHaieBZKpMMqkF9iakVtrrGb5haw\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfAHmYSfwUrvyAiJThWTq7yvxlVYNS62aV6jMEb1xs8QWg\u0026oe\u003d63A4BB49",
+  "unlisted": true,
+  "ready": false,
+  "name": "Milo Child Support Uganda",
+  "id": "milo-child-support-uganda",
+  "category": "education",
   "status": "DRAFT"
 }
