@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Big Issue",
   "name": "The Big Issue",
+  "logo": "https://media.good-loop.com/uploads/standard/fa6722855008f2f7bc43d0b490661c9c-17790324322917776732.svg",
   "id": "big-issue",
   "suggest": [
     "The Big Issue",
