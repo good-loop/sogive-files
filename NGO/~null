@@ -2,6 +2,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/164989673_156936766283749_2828561572510226585_n.jpg?_nc_cat\u003d101\u0026ccb\u003d1-7\u0026_nc_sid\u003d8bfeb9\u0026_nc_ohc\u003d4jpJuMjoLqAAX9f_T-V\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfCASXIEz5iQPRDi9c0jnuPoXJai4SDY43ALfvnnRukBgw\u0026oe\u003d63A4A2A5",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
@@ -12,5 +13,5 @@
   "suggest": [
     "Milo Child Support Uganda"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
