@@ -5,13 +5,12 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:15:25Z",
+  "created": "2022-11-22T21:14:07Z",
   "ready": false,
-  "name": "Uzima Ari Uganda",
-  "description": "A youth-led community-based\norganization working to empower young people to lead, advocate and implement local\nsolutions geared towards achieving global health and fundamental human rights of\nyouth.",
-  "id": "uzima-ari-uganda",
+  "name": "Milo Child Support Uganda",
+  "id": "milo-child-support-uganda",
   "suggest": [
-    "Uzima Ari Uganda"
+    "Milo Child Support Uganda"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
