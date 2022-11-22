@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Big Issue",
-  "name": "The Big Issue",
-  "logo": "https://media.good-loop.com/uploads/standard/fa6722855008f2f7bc43d0b490661c9c-17790324322917776732.svg#ccrop:90",
-  "id": "big-issue",
+  "displayName": "Blkhealth",
+  "name": "Blkhealth",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo-White-5679340385204173962.png",
+  "id": "blkhealth",
   "suggest": [
-    "The Big Issue",
-    "Big Issue"
+    "Blkhealth",
+    "Blkhealth"
   ],
-  "url": "https://subs.bigissue.com/TBI/ISSUE1518/?utm_source\u003dRocketMill\u0026utm_medium\u003dppc\u0026utm_campaign\u003d1518_Subs_Ads\u0026gclid\u003dCj0KCQiA1NebBhDDARIsAANiDD3x5CDrfcapBsBy9fiZ3r4AmUZmPY535gVnLz1X_zz9DUAhECfsW_caAkpSEALw_wcB",
+  "url": "https://www.blkhlth.com/",
   "status": "DRAFT"
 }
