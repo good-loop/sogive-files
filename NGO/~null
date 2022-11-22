@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "Mother to Children Foundation",
-  "id": "mother-to-children-foundation",
+  "name": "mother-to-children-foundation-uganda",
+  "id": "mother-to-children-foundation-uganda",
   "suggest": [
-    "Mother to Children Foundation"
+    "mother-to-children-foundation-uganda"
   ],
   "status": "DRAFT"
 }
