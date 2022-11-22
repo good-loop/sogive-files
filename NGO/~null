@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Blkh",
+  "displayName": "Blkhealth",
+  "name": "Blkhealth",
   "id": "blkhealth",
   "suggest": [
-    "Blkh"
+    "Blkhealth",
+    "Blkhealth"
   ],
   "status": "DRAFT"
 }
