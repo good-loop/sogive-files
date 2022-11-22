@@ -4,6 +4,8 @@
   },
   "@type": "NGO",
   "displayName": "Mother to Children Foundation",
+  "unlisted": true,
+  "ready": false,
   "name": "mother-to-children-foundation-uganda",
   "id": "mother-to-children-foundation-uganda",
   "suggest": [
