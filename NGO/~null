@@ -8,9 +8,10 @@
   "created": "2022-11-22T21:15:25Z",
   "ready": false,
   "name": "Uzima Ari Uganda",
+  "description": "a youth-led community-based\norganization working to empower young people to lead, advocate and implement local\nsolutions geared towards achieving global health and fundamental human rights of\nyouth.",
   "id": "uzima-ari-uganda",
   "suggest": [
     "Uzima Ari Uganda"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
