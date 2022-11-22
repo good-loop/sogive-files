@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Blkhealth",
-  "name": "Blkhealth",
-  "logo": "https://media.good-loop.com/uploads/standard/blkhlth-17015935676695099533.png",
-  "id": "blkhealth",
+  "name": "Spit It Out",
+  "id": "spit-it-out",
   "suggest": [
-    "Blkhealth",
-    "Blkhealth"
+    "Spit It Out"
   ],
-  "url": "https://www.blkhlth.com/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
