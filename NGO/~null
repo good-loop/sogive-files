@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Mother to Children Foundation",
   "name": "mother-to-children-foundation-uganda",
   "id": "mother-to-children-foundation-uganda",
   "suggest": [
-    "mother-to-children-foundation-uganda"
+    "mother-to-children-foundation-uganda",
+    "Mother to Children Foundation"
   ],
   "status": "DRAFT"
 }
