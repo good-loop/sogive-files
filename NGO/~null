@@ -3,6 +3,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://testmedia.good-loop.com/uploads/standard/DSC01739-2573933096236501053.jpeg",
   "@type": "NGO",
   "name": "Spit It Out",
   "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/79272340_123685572414725_598298126972878848_n.png?_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003dmIMIc57ugNIAX8FA1te\u0026tn\u003d1bfiYUyAyFzIh4l6\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfD55hZ_P1KdWrRR0Zqbq73bDt0n2S7mzL07bF7bUXNi3A\u0026oe\u003d63A4A705",
@@ -12,5 +13,5 @@
   ],
   "summaryDescription": "Free workshops, live performances, podcasts and magazine.\nLet\u0027s open the discussion about consent, mental health and creativity",
   "url": "https://www.spititoutproject.com/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
