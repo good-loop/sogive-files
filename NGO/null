@@ -2,10 +2,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:13:57Z",
-  "name": "Kabira Community Development",
-  "id": "kabira-community-development",
+  "created": "2022-11-22T21:14:00Z",
+  "name": "Father Bash Foundation",
+  "id": "father-bash-foundation",
   "suggest": [
-    "Kabira Community Development"
+    "Father Bash Foundation"
   ]
 }
