@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Sporting Equals",
-  "name": "Sporting Equals",
-  "logo": "https://media.good-loop.com/uploads/standard/se-logo-14635367991653269312.svg",
-  "id": "sporting-equals",
-  "suggest": [
-    "Sporting Equals",
-    "Sporting Equals"
-  ],
-  "status": "PUBLISHED"
+  "id": "big-issue",
+  "suggest": []
 }
