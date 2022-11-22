@@ -4,8 +4,10 @@
   },
   "@type": "NGO",
   "displayName": "Big Issue",
+  "name": "The Big Issue",
   "id": "big-issue",
   "suggest": [
+    "The Big Issue",
     "Big Issue"
   ],
   "status": "DRAFT"
