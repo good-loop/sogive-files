@@ -1,17 +1,17 @@
 {
-  "scotlandCharityRegNum": "SC051134",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://testmedia.good-loop.com/uploads/standard/DSC01739-2573933096236501053.jpeg",
+  "headerImage": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/311171378_528650375934102_8949545480795769348_n.jpg?stp\u003ddst-jpg_s960x960\u0026_nc_cat\u003d110\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dBX4FaOPe4awAX9JNLYU\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfAaJ_KRDT0MV-5KWsEhC77hpAtWr8a5UvhOMOsBkv0vGw\u0026oe\u003d6381A01E",
   "@type": "NGO",
-  "name": "Spit It Out",
-  "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/79272340_123685572414725_598298126972878848_n.png?_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003dmIMIc57ugNIAX8FA1te\u0026tn\u003d1bfiYUyAyFzIh4l6\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfD55hZ_P1KdWrRR0Zqbq73bDt0n2S7mzL07bF7bUXNi3A\u0026oe\u003d63A4A705",
-  "id": "spit-it-out",
+  "name": "Bare Productions",
+  "logo": "https://images.squarespace-cdn.com/content/v1/5d093bfa9e9412000156993e/1560886397049-60KNB59WWH48G9IZD4CE/Bare.png?format\u003d1000w",
+  "id": "bare-productions",
   "suggest": [
-    "Spit It Out"
+    "Bare Productions"
   ],
-  "summaryDescription": "Free workshops, live performances, podcasts and magazine.\nLet\u0027s open the discussion about consent, mental health and creativity",
-  "url": "https://www.spititoutproject.com/",
+  "category": "culture",
+  "subcategory": "Performing Arts",
+  "url": "https://www.bareproductionsedinburgh.com/",
   "status": "DRAFT"
 }
