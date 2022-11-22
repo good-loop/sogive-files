@@ -2,10 +2,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:13:34Z",
-  "name": "Leapfrog - Melosheb farm",
-  "id": "leapfrog-melosheb-farm",
+  "created": "2022-11-22T21:13:38Z",
+  "name": "Thriving Survivors",
+  "id": "thriving-survivors",
   "suggest": [
-    "Leapfrog - Melosheb farm"
+    "Thriving Survivors"
   ]
 }
