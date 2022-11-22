@@ -2,10 +2,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:14:04Z",
-  "name": "St. Athanasius Foundation",
-  "id": "st-athanasius-foundation",
+  "created": "2022-11-22T21:14:07Z",
+  "name": "Milo Child Support Uganda",
+  "id": "milo-child-support-uganda",
   "suggest": [
-    "St. Athanasius Foundation"
+    "Milo Child Support Uganda"
   ]
 }
