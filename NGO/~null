@@ -1,4 +1,5 @@
 {
+  "scotlandCharityRegNum": "SC051134",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
@@ -8,6 +9,6 @@
   "suggest": [
     "Spit It Out"
   ],
-  "url": "SC051134",
+  "url": "",
   "status": "DRAFT"
 }
