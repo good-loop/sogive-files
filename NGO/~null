@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Blkhealth",
   "name": "Blkhealth",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo-White-5679340385204173962.png",
+  "logo": "https://media.good-loop.com/uploads/standard/blkhlth-17015935676695099533.png",
   "id": "blkhealth",
   "suggest": [
     "Blkhealth",
     "Blkhealth"
   ],
   "url": "https://www.blkhlth.com/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
