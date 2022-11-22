@@ -2,10 +2,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:13:31Z",
-  "name": "Spero Child International",
-  "id": "spero-child-international",
+  "created": "2022-11-22T21:13:34Z",
+  "name": "Leapfrog - Melosheb farm",
+  "id": "leapfrog-melosheb-farm",
   "suggest": [
-    "Spero Child International"
+    "Leapfrog - Melosheb farm"
   ]
 }
