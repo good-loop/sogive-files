@@ -1,16 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Blkhealth",
-  "name": "Blkhealth",
-  "logo": "https://media.good-loop.com/uploads/standard/blkhlth-17015935676695099533.png",
-  "id": "blkhealth",
+  "created": "2022-11-22T18:44:04Z",
+  "name": "Overdrive Dance Company",
+  "logo": "https://testmedia.good-loop.com/uploads/standard/overdrive243157843__104750305309202__6328457014874138703__n-17789201962431320225.jpg",
+  "id": "overdrive-dance-company",
   "suggest": [
-    "Blkhealth",
-    "Blkhealth"
+    "Overdrive Dance Company"
   ],
-  "url": "https://www.blkhlth.com/",
-  "status": "MODIFIED"
+  "url": "https://www.overdrivedance.co.uk",
+  "status": "PUBLISHED"
 }
