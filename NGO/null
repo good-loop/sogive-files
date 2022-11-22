@@ -1,16 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Mother to Children Foundation",
   "unlisted": true,
-  "ready": false,
-  "name": "mother-to-children-foundation-uganda",
-  "id": "mother-to-children-foundation-uganda",
+  "created": "2022-11-22T21:12:58Z",
+  "name": "Teviot Orchard",
+  "id": "teviot-orchard",
   "suggest": [
-    "mother-to-children-foundation-uganda",
-    "Mother to Children Foundation"
-  ],
-  "status": "DRAFT"
+    "Teviot Orchard"
+  ]
 }
