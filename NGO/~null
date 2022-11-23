@@ -2,21 +2,16 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/164989673_156936766283749_2828561572510226585_n.jpg?_nc_cat\u003d101\u0026ccb\u003d1-7\u0026_nc_sid\u003d8bfeb9\u0026_nc_ohc\u003d4jpJuMjoLqAAX9f_T-V\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfCASXIEz5iQPRDi9c0jnuPoXJai4SDY43ALfvnnRukBgw\u0026oe\u003d63A4A2A5",
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2022-11-22T21:14:07Z",
-  "suggest": [
-    "Milo Child Support Uganda"
-  ],
-  "headerImage": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/172021691_166767095300716_9069184690011199847_n.jpg?stp\u003ddst-jpg_p640x640\u0026_nc_cat\u003d109\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dZj8PGoU54RkAX84wMzN\u0026_nc_oc\u003dAQl4dLzyyQBkuv81mT3VbiSp733ptDQUdDF7JU-eHaieBZKpMMqkF9iakVtrrGb5haw\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfAHmYSfwUrvyAiJThWTq7yvxlVYNS62aV6jMEb1xs8QWg\u0026oe\u003d63A4BB49",
+  "displayName": "Mother to Children Foundation",
   "unlisted": true,
   "ready": false,
-  "name": "Milo Child Support Uganda",
-  "unsdg": "4",
-  "logo": "https://scontent.fgla3-2.fna.fbcdn.net/v/t1.6435-9/130466702_103295898314503_6600511586529446755_n.jpg?_nc_cat\u003d106\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003d2f3vPOVvITwAX8dyo2n\u0026_nc_ht\u003dscontent.fgla3-2.fna\u0026oh\u003d00_AfCK2bM1KfGJ0Ux9aEWSaolRsVbhMB4FVMQ_o5Lu7y-IGw\u0026oe\u003d63A4CBC0",
-  "id": "milo-child-support-uganda",
-  "category": "education",
-  "subcategory": "Youth Education",
-  "status": "DRAFT"
+  "name": "mother-to-children-foundation-uganda",
+  "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/308118558_134018726041388_5017959200006818752_n.jpg?_nc_cat\u003d108\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003d0843Oz9fRfYAX8OGx1M\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfBLjSP4xo9HvrICtiiHJFM2-vvuX1EK0RtM1d5bxJUQ8A\u0026oe\u003d6381A117",
+  "id": "mother-to-children-foundation-uganda",
+  "suggest": [
+    "mother-to-children-foundation-uganda",
+    "Mother to Children Foundation"
+  ],
+  "status": "PUBLISHED"
 }
