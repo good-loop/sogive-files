@@ -17,11 +17,12 @@
   "logo": "https://tapwa.co.in/wp-content/uploads/2021/12/tapwa-logo.png",
   "id": "tamil-nadu-people-welfare-association-tapwa",
   "category": "community",
+  "subcategory": "Community Foundations",
   "imageList": [
     {
       "contentUrl": "https://tapwa.co.in/wp-content/uploads/2021/12/c.ii_-1024x683.jpg",
       "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
