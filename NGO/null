@@ -1,18 +1,19 @@
 {
+  "scotlandCharityRegNum": "SC047181",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "unlisted": true,
-  "created": "2022-11-22T21:13:57Z",
-  "ready": false,
-  "name": "Kabira Community Development",
-  "logo": "https://kacode.org/wp-content/uploads/2016/08/fd.jpg",
-  "id": "kabira-community-development",
+  "created": "2022-11-22T21:13:38Z",
   "suggest": [
-    "Kabira Community Development"
+    "Thriving Survivors"
   ],
-  "url": "https://kacode.org/",
+  "url": "https://www.thrivingsurvivors.co.uk/",
+  "unlisted": true,
+  "ready": false,
+  "name": "Thriving Survivors",
+  "logo": "https://static.wixstatic.com/media/367cd0_a91be97d94cc4b93a8335aaf0095f55d~mv2.png/v1/fill/w_193,h_91,al_c,lg_1,q_85,enc_auto/thriving-survivors-fullcolurlogo-rgb.png",
+  "id": "thriving-survivors",
   "status": "DRAFT"
 }
