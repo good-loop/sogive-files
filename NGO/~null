@@ -5,14 +5,12 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:13:57Z",
+  "created": "2022-11-22T21:13:38Z",
   "ready": false,
-  "name": "Kabira Community Development",
-  "logo": "https://kacode.org/wp-content/uploads/2016/08/fd.jpg",
-  "id": "kabira-community-development",
+  "name": "Thriving Survivors",
+  "id": "thriving-survivors",
   "suggest": [
-    "Kabira Community Development"
+    "Thriving Survivors"
   ],
-  "url": "https://kacode.org/gallery/chlid-2/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
