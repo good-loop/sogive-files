@@ -2,17 +2,19 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/FFFA-10219757384084296895.jpg",
+  "images": "https://tapwa.co.in/wp-content/uploads/2021/12/Child-i-1024x683.jpg",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Free food for all",
-  "name": "Free food for all",
-  "logo": "https://media.good-loop.com/uploads/standard/FFFA-14383932479895071442.png",
-  "description": "Free Food For All is an IPC charitable organisation in Singapore which advocates on delivering quality food and empowerment programmes for individuals from all walks of life well-supported by a compassionate community.",
-  "id": "free-food-for-all",
+  "created": "2022-11-22T21:13:48Z",
   "suggest": [
-    "Free food for all",
-    "Free food for all"
+    "Tamil Nadu People Welfare Association (TAPWA)"
   ],
-  "url": "https://www.freefood.org.sg/",
-  "status": "MODIFIED"
+  "url": "https://www.tapwa.co.in",
+  "headerImage": "https://tapwa.co.in/wp-content/uploads/2021/12/c.ii_-1024x683.jpg",
+  "unlisted": true,
+  "ready": false,
+  "name": "Tamil Nadu People Welfare Association (TAPWA)",
+  "logo": "https://tapwa.co.in/wp-content/uploads/2021/12/tapwa-logo.png",
+  "id": "tamil-nadu-people-welfare-association-tapwa",
+  "status": "DRAFT"
 }
