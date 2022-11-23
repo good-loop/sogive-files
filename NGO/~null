@@ -16,15 +16,12 @@
   "name": "Tamil Nadu People Welfare Association (TAPWA)",
   "logo": "https://tapwa.co.in/wp-content/uploads/2021/12/tapwa-logo.png",
   "id": "tamil-nadu-people-welfare-association-tapwa",
+  "category": "community",
   "imageList": [
-    {
-      "contentUrl": "https://tapwa.co.in/wp-content/uploads/2021/12/b.iii_-1024x683.jpg",
-      "@type": "ImageObject"
-    },
     {
       "contentUrl": "https://tapwa.co.in/wp-content/uploads/2021/12/c.ii_-1024x683.jpg",
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
