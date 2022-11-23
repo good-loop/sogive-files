@@ -6,11 +6,11 @@
   "displayName": "Free food for all",
   "name": "Free food for all",
   "logo": "https://media.good-loop.com/uploads/standard/FFFA-14383932479895071442.png",
-  "description": "Free Food For All is an IPC charitable organisation in Singapore which advocates on delivering quality food and empowerment programmes for individuals from all walks of life well-supported by a compassionate community",
+  "description": "Free Food For All is an IPC charitable organisation in Singapore which advocates on delivering quality food and empowerment programmes for individuals from all walks of life well-supported by a compassionate community.",
   "id": "free-food-for-all",
   "suggest": [
     "Free food for all",
     "Free food for all"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
