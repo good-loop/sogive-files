@@ -5,14 +5,14 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "unlisted": true,
-  "created": "2022-11-22T21:13:41Z",
+  "created": "2022-11-22T21:13:57Z",
   "ready": false,
-  "name": "Restored Hope Zambia",
-  "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/243294561_105941935188989_7553745667769232015_n.png?_nc_cat\u003d108\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003dKWFiE335NpEAX9I3KOs\u0026tn\u003d1bfiYUyAyFzIh4l6\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfDAe-fiE5aaLDEEY2veBEOPcBWh0bMmkQZABNoKVLOJlw\u0026oe\u003d6383A0C1",
-  "id": "restored-hope-zambia",
+  "name": "Kabira Community Development",
+  "logo": "https://kacode.org/wp-content/uploads/2016/08/fd.jpg",
+  "id": "kabira-community-development",
   "suggest": [
-    "Restored Hope Zambia"
+    "Kabira Community Development"
   ],
-  "summaryDescription": "Restoring Hope to survivors of church abuse\n﻿in Zambia",
-  "status": "PUBLISHED"
+  "url": "https://kacode.org/",
+  "status": "DRAFT"
 }
