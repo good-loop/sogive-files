@@ -8,10 +8,11 @@
   "created": "2022-11-22T21:13:48Z",
   "ready": false,
   "name": "Tamil Nadu People Welfare Association (TAPWA)",
+  "logo": "https://tapwa.co.in/wp-content/uploads/2021/12/tapwa-logo.png",
   "id": "tamil-nadu-people-welfare-association-tapwa",
   "suggest": [
     "Tamil Nadu People Welfare Association (TAPWA)"
   ],
   "url": "https://www.tapwa.co.in",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
