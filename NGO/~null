@@ -18,8 +18,12 @@
   "id": "tamil-nadu-people-welfare-association-tapwa",
   "imageList": [
     {
+      "contentUrl": "https://tapwa.co.in/wp-content/uploads/2021/12/b.iii_-1024x683.jpg",
+      "@type": "ImageObject"
+    },
+    {
       "@type": "ImageObject"
     }
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
