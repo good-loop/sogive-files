@@ -4,15 +4,16 @@
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "unlisted": true,
   "created": "2022-11-22T21:13:28Z",
-  "ready": false,
-  "name": "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)",
-  "logo": "https://lyowefa.org/wp-content/uploads/2018/07/lyowefalogo2.png",
-  "id": "lwengo-youth-and-women-s-effort-fighting-hiv-aids-lyowefa",
+  "description": "Lwengo Youth \u0026 Women’s Effort Fighting AIDS/HIV (LYOWEFA): Helping mitigate the challenges associated with HIV/AIDS  scourge in the community of Kabalungi village,Lwengo subcounty.\n\nLYOWEFA is a rural Community Based Organization (CBO) operating in Lwengo District, Western Region, Uganda founded in 2017.  LYOWEFA focuses its services on youth ,Women and children in the areas of HIV/AIDS prevention, care and support of orphans and vulnerable children, poverty alleviation, Water and Sanitation .\n\nWe provide services to the youth  and Women through outreach in schools and villages, working together with public health centers for testing and counseling.",
   "suggest": [
     "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)"
   ],
   "url": "https://lyowefa.org/",
+  "unlisted": true,
+  "ready": false,
+  "name": "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)",
+  "logo": "https://lyowefa.org/wp-content/uploads/2018/07/lyowefalogo2.png",
+  "id": "lwengo-youth-and-women-s-effort-fighting-hiv-aids-lyowefa",
   "status": "DRAFT"
 }
