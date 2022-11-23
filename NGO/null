@@ -2,16 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
+  "images": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/308213685_134018729374721_2058232466018810027_n.jpg?stp\u003ddst-jpg_s960x960\u0026_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dp_i0N4ZPgwsAX_N3xv1\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfDewNTlSvfOQpAy_5quEvMnraiZCuwtYCCsmkRKyc1j9g\u0026oe\u003d6381CEEA",
   "@type": "NGO",
+  "displayName": "Mother to Children Foundation",
   "unlisted": true,
-  "created": "2022-11-22T21:15:25Z",
   "ready": false,
-  "name": "Uzima Ari Uganda",
-  "description": "A youth-led community-based\norganization working to empower young people to lead, advocate and implement local\nsolutions geared towards achieving global health and fundamental human rights of\nyouth.",
-  "id": "uzima-ari-uganda",
+  "name": "mother-to-children-foundation-uganda",
+  "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/308118558_134018726041388_5017959200006818752_n.jpg?_nc_cat\u003d108\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003d0843Oz9fRfYAX8OGx1M\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfBLjSP4xo9HvrICtiiHJFM2-vvuX1EK0RtM1d5bxJUQ8A\u0026oe\u003d6381A117",
+  "id": "mother-to-children-foundation-uganda",
   "suggest": [
-    "Uzima Ari Uganda"
+    "mother-to-children-foundation-uganda",
+    "Mother to Children Foundation"
   ],
+  "url": "https://www.facebook.com/profile.php?id\u003d100082997845665",
   "status": "DRAFT"
 }
