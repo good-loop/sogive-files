@@ -2,18 +2,19 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/308213685_134018729374721_2058232466018810027_n.jpg?stp\u003ddst-jpg_s960x960\u0026_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003dp_i0N4ZPgwsAX_N3xv1\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfDewNTlSvfOQpAy_5quEvMnraiZCuwtYCCsmkRKyc1j9g\u0026oe\u003d6381CEEA",
+  "images": "https://lyowefa.org/wp-content/uploads/2018/07/lyowefa25-600x400.jpg",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Mother to Children Foundation",
+  "created": "2022-11-22T21:13:28Z",
+  "description": "Lwengo Youth \u0026 Women’s Effort Fighting AIDS/HIV (LYOWEFA): Helping mitigate the challenges associated with HIV/AIDS  scourge in the community of Kabalungi village,Lwengo subcounty.\n\nLYOWEFA is a rural Community Based Organization (CBO) operating in Lwengo District, Western Region, Uganda founded in 2017.  LYOWEFA focuses its services on youth ,Women and children in the areas of HIV/AIDS prevention, care and support of orphans and vulnerable children, poverty alleviation, Water and Sanitation .\n\nWe provide services to the youth  and Women through outreach in schools and villages, working together with public health centers for testing and counseling.",
+  "suggest": [
+    "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)"
+  ],
+  "url": "https://lyowefa.org/",
   "unlisted": true,
   "ready": false,
-  "name": "mother-to-children-foundation-uganda",
-  "logo": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/308118558_134018726041388_5017959200006818752_n.jpg?_nc_cat\u003d108\u0026ccb\u003d1-7\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003d0843Oz9fRfYAX8OGx1M\u0026_nc_ht\u003dscontent.fgla3-1.fna\u0026oh\u003d00_AfBLjSP4xo9HvrICtiiHJFM2-vvuX1EK0RtM1d5bxJUQ8A\u0026oe\u003d6381A117",
-  "id": "mother-to-children-foundation-uganda",
-  "suggest": [
-    "mother-to-children-foundation-uganda",
-    "Mother to Children Foundation"
-  ],
-  "url": "https://www.facebook.com/profile.php?id\u003d100082997845665",
+  "name": "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)",
+  "logo": "https://lyowefa.org/wp-content/uploads/2018/07/lyowefalogo2.png",
+  "id": "lwengo-youth-and-women-s-effort-fighting-hiv-aids-lyowefa",
   "status": "DRAFT"
 }
