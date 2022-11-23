@@ -19,7 +19,10 @@
   "imageList": [
     {
       "@type": "ImageObject"
+    },
+    {
+      "@type": "ImageObject"
     }
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
