@@ -8,9 +8,10 @@
   "created": "2022-11-22T21:13:57Z",
   "ready": false,
   "name": "Kabira Community Development",
+  "logo": "https://kacode.org/wp-content/uploads/2016/08/fd.jpg",
   "id": "kabira-community-development",
   "suggest": [
     "Kabira Community Development"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
