@@ -1,19 +1,15 @@
 {
-  "scotlandCharityRegNum": "SC047181",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2022-11-22T21:13:38Z",
-  "suggest": [
-    "Thriving Survivors"
-  ],
-  "url": "https://www.thrivingsurvivors.co.uk/",
+  "displayName": "Toilets Change Lives",
   "unlisted": true,
-  "ready": false,
-  "name": "Thriving Survivors",
-  "logo": "https://static.wixstatic.com/media/367cd0_a91be97d94cc4b93a8335aaf0095f55d~mv2.png/v1/fill/w_193,h_91,al_c,lg_1,q_85,enc_auto/thriving-survivors-fullcolurlogo-rgb.png",
-  "id": "thriving-survivors",
+  "logo": "https://media.good-loop.com/uploads/standard/TCL_logo-4747170850522329123.png#ccrop:90",
+  "id": "toilets-change-lives",
+  "suggest": [
+    "Toilets Change Lives"
+  ],
+  "url": "https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives",
   "status": "DRAFT"
 }
