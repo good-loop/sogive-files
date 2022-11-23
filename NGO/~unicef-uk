@@ -1,0 +1,824 @@
+{
+  "scotlandCharityRegNum": "SC043677",
+  "ukCompanyRegNum": "3663181 ",
+  "circleCrop": 93.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "raw": "99,526,000 ",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 9.9526E11,
+          "value": 9.9526E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "raw": "",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "raw": "",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends12/0001072612_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Matt S",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1.05E7,
+          "@type": "Output",
+          "name": "14000000",
+          "description": "Tetanus vaccinations",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "0.75",
+            "currency": "GBP",
+            "value100p": 7500.0,
+            "value": 0.75
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://downloads.unicef.org.uk/wp-content/uploads/2016/06/TrusteesReport2015_FINAL.pdf"
+        }
+      ],
+      "start_raw": "2015-01-01",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10500000",
+          "currency": "GBP",
+          "value100p": 1.05E11,
+          "value": 1.05E7
+        }
+      ],
+      "name": "Tetanus Vaccinations",
+      "start": "2015-01-01",
+      "end": "2015-12-31",
+      "end_raw": "2015-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "name": "Winter clothing",
+          "description": "We don\u0027t know the proportion"
+        },
+        {
+          "name": "vaccinations",
+          "description": "report claims 16 million vaccinations, implying this is part of the Syrian children fund - also claims additional action inc. screening for malnutrition"
+        }
+      ],
+      "start_raw": "2015-01-01",
+      "year": 2015.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7400000",
+          "currency": "GBP",
+          "value100p": 7.4E10,
+          "value": 7400000.0
+        }
+      ],
+      "name": "Syrian Children Aid",
+      "start": "2015-01-01",
+      "end": "2015-12-31",
+      "end_raw": "2015-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "100514000",
+          "currency": "GBP",
+          "value100p": 1.00514E12,
+          "value": 1.00514E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "2275000",
+          "currency": "GBP",
+          "value100p": 2.275E10,
+          "value": 2275000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Income from beneficiaries includes fees for some Unicef UK programmes such as materials from their Baby Friendly Initiative and safeguarding consultancy fees in their Child Rights Partners programme. See p.76 of annual report. Unicef UK report income from trading activities, so presumably also have costs. It is not clear where they are reported. However, the income from trading is very small, at £285k (p.77), so costs are likely even less than this."
+        },
+        "reserves": {
+          "notes": "p.70. £2.663m in unrestricted reserves in 2019 (plus another £877k in restricted)"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "2663000",
+        "currency": "GBP",
+        "value100p": 2.663E10,
+        "value": 2663000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "21638000",
+          "currency": "GBP",
+          "value100p": 2.1638E11,
+          "value": 2.1638E7
+        }
+      ],
+      "name": "Core Unicef programmes"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8158000",
+          "currency": "GBP",
+          "value100p": 8.158E10,
+          "value": 8158000.0
+        }
+      ],
+      "name": "Humanitarian emergencies"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6729000",
+          "currency": "GBP",
+          "value100p": 6.729E10,
+          "value": 6729000.0
+        }
+      ],
+      "name": "Health"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7750000",
+          "currency": "GBP",
+          "value100p": 7.75E10,
+          "value": 7750000.0
+        }
+      ],
+      "name": "Nutrition"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "6481000",
+          "currency": "GBP",
+          "value100p": 6.481E10,
+          "value": 6481000.0
+        }
+      ],
+      "name": "Education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "576000",
+          "currency": "GBP",
+          "value100p": 5.76E9,
+          "value": 576000.0
+        }
+      ],
+      "name": "Child Protection"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "108000",
+          "currency": "GBP",
+          "value100p": 1.08E9,
+          "value": 108000.0
+        }
+      ],
+      "name": "Social Inclusion"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1102000",
+          "currency": "GBP",
+          "value100p": 1.102E10,
+          "value": 1102000.0
+        }
+      ],
+      "name": "Gender Equality"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2361000",
+          "currency": "GBP",
+          "value100p": 2.361E10,
+          "value": 2361000.0
+        }
+      ],
+      "name": "Development education and youth work"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1714000",
+          "currency": "GBP",
+          "value100p": 1.714E10,
+          "value": 1714000.0
+        }
+      ],
+      "name": "Baby Friendly Initiative"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2690000",
+          "currency": "GBP",
+          "value100p": 2.69E10,
+          "value": 2690000.0
+        }
+      ],
+      "name": "Campaign and Parliamentary work"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.unicef.org.uk/wp-content/uploads/2020/07/UnicefUK_TrusteesReport2019_s.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1367000",
+          "currency": "GBP",
+          "value100p": 1.367E10,
+          "value": 1367000.0
+        }
+      ],
+      "name": "Unicef programme engagement"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3,845,000",
+          "currency": "GBP",
+          "value100p": 3.845E10,
+          "value": 3845000.0
+        }
+      ],
+      "name": "Water, sanitation and hygiene"
+    }
+  ],
+  "color": "#00adef",
+  "@type": "NGO",
+  "description": "Unicef UK is one of 33 Unicef national organisations based in industrialised countries. Unicef helps to provide children with clean water, life-saving food and vaccines, as well as education and protection from violence and exploitation. This includes, for example, working to change government policies and practices that are harmful to child rights in the UK and internationally. The UK organisation is a registered charity that raises funds for Unicef’s emergency and development work around the world and advocates for lasting change for children worldwide. ",
+  "recommendation": "**To assign a rating to Unicef UK under the SoGive rating methodology, we would need more information**\n\nUnicef UK works to improve outcomes for children, both in the UK and internationally. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Unicef UK does**\n\nUnicef UK is one of 33 Unicef national organisations based in industrialised countries. Unicef helps to provide children with clean water, life-saving food and vaccines, as well as education and protection from violence and exploitation. This includes, for example, working to change government policies and practices that are harmful to child rights in the UK and internationally. The UK organisation is a registered charity that raises funds for Unicef’s emergency and development work around the world and advocates for lasting change for children worldwide. \n\nUnicef UK’s total direct spending on charitable activities for the calendar year 2019 was £64.52m. This was distributed across 3 main categories: Core Unicef programmes (£21.64m, 33.5%), Specific Unicef programmes (£34.75m, 53.9%), and UK programmes and advocacy (£8.13m, 12.6%)(p.79 of [2019 annual report](https://www.unicef.org.uk/publications/unicef-uk-annual-report-2019/)).\n\nThe Core Unicef programmes are funded using unrestricted funds (i.e. money not earmarked to specific programmes or areas). The global Unicef Executive Board then decides which programmes to allocate this funding to based on three main criteria: the mortality rate of children under the age of 5, the gross national product per capita, and the absolute size of the child population (p.47).\n\nSpecific Unicef programmes include those for humanitarian emergencies, health, water, sanitation and hygiene, nutrition, and education. It also includes those for child protection, social inclusion, and gender equality. \n\nUnicef UK’s 2019 annual report describes a broad range of work undertaken by Unicef as a whole (i.e. not just Unicef UK). For example, it states that \"Unicef UK raised more than £2 million for the children of Yemen.\" but then goes on to say that for Yemen \"Unicef provided clean, safe water for 16 million people in cholera-prone areas and provided measles and rubella vaccines for more than 11.8 million children. We kept 3,700 health centres operational, serving more than 730,000 mums and pregnant women. Unicef also helped train 1.6 million people on the risk of landmines and more than 665,000 children were able to continue learning.\"\n\nUnicef UK’s 2019 report does not indicate Unicef’s total spend on Yemen (i.e. spend which doesn’t just come from Unicef UK), nor the period of time during which these activities took place - it may be that this just covers 2019, but it could be a summary of a longer-term programme. This is also the case for many of the other country-specific activities described in the report, including work in the Democratic Republic of the Congo, Syria, and southern Africa, as well as for broader themes such as preventable diseases, climate change, nutrition, and sanitation. Furthermore, the 2019 report does not indicate which of the activities described are funded by Core or Specific programmes.\n\nAs for the UK programmes, the 2019 report provides somewhat more information. Around £1.71m was spent on the Baby Friendly Initiative (p.79). In 2019, this worked with around 9 out of 10 maternity units in the UK, who are responsible for over 700,000 babies, mothers, and their families every year (p.42). This work has gone on for several decades and has focused on championing things like breastfeeding and skin-to-skin contact. These are now routine across most UK hospitals. \n\nAround £2.36m was spent on Development education and youth work (p.79). This includes work around Rights Respecting Schools (RRS). Unicef UK indicate that in 2019, 623 schools were newly registered as RRS, with the total number of these schools in the UK now around 5,000. The aim of this approach is \"to equip every child with an understanding of their rights and the ability to speak up for them. This gives them a voice to challenge injustice and abuse - whether in their own lives or in the lives of others - and enables them to build stronger mutually respectful relationships with adults and peers\"(p.45). Some survey evidence is provided that ‘Gold’ accredited RRS see reductions in bullying, and children feel happier, more empowered, and more listened to than before the school began implementing the approach (p.45).\n\nAround £2.7m was spent on Unicef UK’s campaign and parliamentary work (p.79). During 2019 this appears to have supported two main campaigns: toxic air in the UK, and to end preventable deaths of children under 5 around the world (p.7). Unicef UK indicate that the UK government has now committed to legal targets on air pollution. However, no information is given with regards to the expected benefits from this legislation, nor how it compares to previous legislation (e.g. such as any that applied to the UK before it left the European Union). The campaign to end preventable deaths under the age of five resulted in over 21,000 people signing a petition to Prime Minister Boris Johnson. However, it is unclear whether this has had any impact on government policy.\n\nIf you would like to learn more about the work of the Unicef UK, you can check their [2019 annual report](https://www.unicef.org.uk/publications/unicef-uk-annual-report-2019/).\n\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Unicef UK under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-Standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as saving a life for £5000, or averting one year of severe depression for £200), and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nBased on Unicef UK’s 2019 annual report, we are unable to come to a conclusion regarding the cost-effectiveness of their work.\n\nUnicef as a whole undertake a wide range of activities, including provision of basic healthcare such as vaccines, that are typically considered to be highly cost-effective. However, the total costs to Unicef of these activities are not provided in Unicef UK’s annual report. Nor is it indicated what proportion Unicef UK funds make up of the total Unicef costs.\nWe would also need to see more information on the estimated benefits per person these activities provide.\n\nThis makes it impossible to establish the cost-effectiveness of Unicef UK’s Core and Specific programme spending. Given that this spending makes up over 87% of Unicef UK’s direct spending on charitable activities, we would need more information about the overall costs and benefits of these activities to come to a conclusion regarding Unicef UK’s cost-effectiveness.\n\n\n**Conclusion**\n\nTo be able to rate Unicef UK, we would need more information about their work.\n",
+  "whyTags": "Children, International Aid, Education, Poverty, Health, WASH, Human rights, Hunger",
+  "ready": true,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/UNICEF-logo-13265941851299519765.png#ccrop:85",
+  "@id": "unicef-uk",
+  "summaryDescription": "Unicef UK works to improve outcomes for children, both in the UK and internationally. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/unicef_uk_cover-14979283266506777897.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Unicef UK",
+    "unicef-uk"
+  ],
+  "url": "https://www.unicef.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Unicef UK",
+  "lastModified": "2020-11-13T14:24:06Z",
+  "englandWalesCharityRegNum": "1072612",
+  "whereTags": "UK, Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
