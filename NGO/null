@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Toilets Change Lives",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/TCL_logo-4747170850522329123.png#ccrop:90",
-  "id": "toilets-change-lives",
+  "displayName": "Free food for all",
+  "name": "Free food for all",
+  "logo": "https://media.good-loop.com/uploads/standard/FFFA-14383932479895071442.png",
+  "description": "Free Food For All is an IPC charitable organisation in Singapore which advocates on delivering quality food and empowerment programmes for individuals from all walks of life well-supported by a compassionate community.",
+  "id": "free-food-for-all",
   "suggest": [
-    "Toilets Change Lives"
+    "Free food for all",
+    "Free food for all"
   ],
-  "url": "https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives",
   "status": "DRAFT"
 }
