@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "International Womens\u0027 Day",
+  "displayName": "International Women\u0027s Day",
   "name": "International Womens\u0027 Day",
   "id": "international-womens-day",
   "suggest": [
     "International Womens\u0027 Day",
-    "International Womens\u0027 Day"
+    "International Women\u0027s Day"
   ],
   "status": "DRAFT"
 }
