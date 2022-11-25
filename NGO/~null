@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "iFund",
+  "displayName": "iFundWomen",
+  "name": "iFundWomen",
   "id": "ifundwomen",
   "suggest": [
-    "iFund"
+    "iFundWomen",
+    "iFundWomen"
   ],
   "status": "DRAFT"
 }
