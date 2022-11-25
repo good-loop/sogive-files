@@ -3,15 +3,17 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "International Women\u0027s Day",
-  "name": "International Women\u0027s Day",
-  "logo": "https://media.good-loop.com/uploads/standard/InternationalWomensDaylogo-8001161616784766597.png",
-  "description": "IWD sees a number of MISSIONS to help forge a gender equal world. Celebrating women\u0027s achievements and increasing visibility, while calling out inequality, is key.",
-  "id": "international-womens-day",
+  "displayName": "iFundWomen",
+  "name": "iFundWomen",
+  "logo": "https://media.good-loop.com/uploads/standard/static1.squarespace-13300059486936596866.png",
+  "description": "IFundWomen is the go-to funding marketplace for women-owned businesses and the people who want to support them with access to capital, coaching, and connections.",
+  "id": "ifundwomen",
   "suggest": [
-    "International Women\u0027s Day",
-    "International Women\u0027s Day"
+    "iFundWomen",
+    "iFundWomen"
   ],
-  "extendedDescription": "Imagine a gender equal world. A world free of bias, stereotypes and discrimination. A world that\u0027s diverse, equitable, and inclusive. A world where difference is valued and celebrated. Together we can forge women\u0027s equality. Collectively we can all #BreakTheBias.\nCelebrate women\u0027s achievement. Raise awareness against bias. Take action for equality.",
+  "extendedDescription": "IFundWomen is the go-to funding marketplace for women-owned businesses and the people who want to support them with access to capital, coaching, and connections.\n\nWe offer immediate access to capital through a premium online fundraising experience, access to small business grants from corporate partners, expert business coaching on all the topics entrepreneurs need to know about, and a network of women business owners that sparks confidence, accelerates knowledge and ignites action.",
+  "summaryDescription": "IFundWomen is the go-to funding marketplace for women-owned businesses and the people who want to support them with access to capital, coaching, and connections.",
+  "url": "https://ifundwomen.com/",
   "status": "DRAFT"
 }
