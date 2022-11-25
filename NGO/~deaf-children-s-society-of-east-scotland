@@ -1,0 +1,17 @@
+{
+  "scotlandCharityRegNum": "SC009034",
+  "parentCharityName": "National Deaf Childrens Society",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "parentCharity": "1016532",
+  "name": "Deaf Children\u0027s Society Of East Scotland",
+  "@id": "deaf-children-s-society-of-east-scotland",
+  "suggest": [
+    "Deaf Children\u0027s Society Of East Scotland",
+    "deaf-children-s-society-of-east-scotland"
+  ],
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
