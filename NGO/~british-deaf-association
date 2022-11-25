@@ -1,0 +1,18 @@
+{
+  "scotlandCharityRegNum": "SC042409",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "BDA",
+  "name": "British Deaf Association",
+  "@id": "british-deaf-association",
+  "suggest": [
+    "British Deaf Association",
+    "BDA",
+    "british-deaf-association"
+  ],
+  "url": "www.bda.org.uk",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
