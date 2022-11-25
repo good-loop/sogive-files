@@ -1,94 +1,17 @@
 {
-  "circleCrop": 97.0,
-  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "projects": [
-    {
-      "outputs": [
-        {
-          "number": 1.0,
-          "name": "tree(s)",
-          "costPerBeneficiary": {
-            "@type": "Money",
-            "name": "",
-            "raw": "0.15588235294",
-            "currency": "",
-            "value100p": 1559.0,
-            "value": 0.15588235294
-          }
-        }
-      ],
-      "year": 2021.0,
-      "@type": "Project",
-      "inputs": [
-        {
-          "@type": "Money",
-          "name": "annualCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "tradingCosts",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "incomeFromBeneficiaries",
-          "currency": "GBP"
-        },
-        {
-          "@type": "Money",
-          "name": "projectCosts",
-          "currency": "GBP"
-        }
-      ],
-      "name": "Tree Planting",
-      "isRep": true
-    }
-  ],
   "@type": "NGO",
-  "displayName": "Eden Reforestation Projects",
-  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "displayName": "International Women\u0027s Day",
+  "name": "International Women\u0027s Day",
+  "logo": "https://media.good-loop.com/uploads/standard/InternationalWomensDaylogo-8001161616784766597.png",
+  "description": "IWD sees a number of MISSIONS to help forge a gender equal world. Celebrating women\u0027s achievements and increasing visibility, while calling out inequality, is key.",
+  "id": "international-womens-day",
   "suggest": [
-    "Eden Reforestation Projects"
+    "International Women\u0027s Day",
+    "International Women\u0027s Day"
   ],
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "name": "tree(s)",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "value100p": 1559,
-        "value": "0.15588235294",
-        "name": ""
-      },
-      "amountGBP": 0.0,
-      "n": 1.0
-    }
-  ],
-  "url": "https://edenprojects.org/",
-  "UNSDG": "13",
-  "whyTags": "environment",
-  "simpleImpact": {
-    "number": 1.0,
-    "@type": "Output",
-    "name": "tree(s)",
-    "costPerBeneficiary": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "value100p": 1559,
-      "value": "0.15588235294",
-      "name": ""
-    }
-  },
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/Eden1-6927057335990565767.png#ccrop:90",
-  "id": "eden-reforestation-projects",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "extendedDescription": "Imagine a gender equal world. A world free of bias, stereotypes and discrimination. A world that\u0027s diverse, equitable, and inclusive. A world where difference is valued and celebrated. Together we can forge women\u0027s equality. Collectively we can all #BreakTheBias.\nCelebrate women\u0027s achievement. Raise awareness against bias. Take action for equality.",
   "status": "DRAFT"
 }
