@@ -1,30 +1,94 @@
 {
+  "circleCrop": 97.0,
+  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://tapwa.co.in/wp-content/uploads/2021/12/Child-i-1024x683.jpg",
-  "@class": "com.goodloop.data.NGO",
-  "@type": "NGO",
-  "created": "2022-11-22T21:13:48Z",
-  "description": "Vision:             \n\nEmpowering the rural poor and most vulnerable groups for achieving in all aspects.\n\nMission:             \n\n- Improve the educational status of the disadvantaged girls and drop-out students\n- Safeguard orphan children\n- Organizing Women Self Help Groups, vocational skill training, and income generation activities\n- Home (shelter) for homeless\n- Protect and promote the environment through sustainable agriculture practices\n- Education to the poor children, child labor, differently-able children, and dropout school children in difficult circumstances.\n- Developing sustainable agriculture for the betterment of agriculturists and for food Security\n- Providing care and support for the elderly persons neglected by their families\n- Creating job opportunities for the women and youths.",
-  "suggest": [
-    "Tamil Nadu People Welfare Association (TAPWA)"
-  ],
-  "url": "https://www.tapwa.co.in",
-  "headerImage": "https://tapwa.co.in/wp-content/uploads/2021/12/b.iii_-1024x683.jpg",
-  "unlisted": true,
-  "ready": false,
-  "name": "Tamil Nadu People Welfare Association (TAPWA)",
-  "logo": "https://testmedia.good-loop.com/uploads/standard/tapwa-logo-3623627033786062766.png",
-  "unsdg": "1",
-  "id": "tamil-nadu-people-welfare-association-tapwa",
-  "category": "community",
-  "subcategory": "Community Foundations",
-  "imageList": [
+  "projects": [
     {
-      "contentUrl": "https://tapwa.co.in/wp-content/uploads/2021/12/c.ii_-1024x683.jpg",
-      "@type": "ImageObject"
+      "outputs": [
+        {
+          "number": 1.0,
+          "name": "tree(s)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "0.15588235294",
+            "currency": "",
+            "value100p": 1559.0,
+            "value": 0.15588235294
+          }
+        }
+      ],
+      "year": 2021.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Tree Planting",
+      "isRep": true
     }
   ],
-  "status": "PUBLISHED"
+  "@type": "NGO",
+  "displayName": "Eden Reforestation Projects",
+  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "suggest": [
+    "Eden Reforestation Projects"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "name": "tree(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 1559,
+        "value": "0.15588235294",
+        "name": ""
+      },
+      "amountGBP": 0.0,
+      "n": 1.0
+    }
+  ],
+  "url": "https://edenprojects.org/",
+  "UNSDG": "13",
+  "whyTags": "environment",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "tree(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 1559,
+      "value": "0.15588235294",
+      "name": ""
+    }
+  },
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/Eden1-6927057335990565767.png#ccrop:90",
+  "id": "eden-reforestation-projects",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "summaryDescription": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "status": "DRAFT"
 }
