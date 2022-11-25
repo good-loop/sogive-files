@@ -6,6 +6,7 @@
   "@type": "NGO",
   "displayName": "BDA",
   "name": "British Deaf Association",
+  "logo": "https://media.good-loop.com/uploads/standard/accountlogo-4544712623742681906.png",
   "@id": "british-deaf-association",
   "suggest": [
     "British Deaf Association",
@@ -14,5 +15,5 @@
   ],
   "url": "www.bda.org.uk",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
