@@ -4,6 +4,8 @@
   },
   "@type": "NGO",
   "displayName": "OZ HARVEST",
+  "unlisted": true,
+  "ready": false,
   "name": "OZ HARVEST",
   "id": "OZHARVEST",
   "suggest": [
