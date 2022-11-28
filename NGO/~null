@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "OzHarvest",
+  "logo": "https://media.good-loop.com/uploads/standard/main-logo-6709273149943850222.svg",
   "id": "ozharvest",
   "suggest": [
     "OzHarvest"
