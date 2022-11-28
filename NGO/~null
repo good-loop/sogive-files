@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "OZ HAEVEST",
+  "name": "OZ HARVEST",
   "id": "OZHARVEST",
   "suggest": [
-    "OZ HAEVEST"
+    "OZ HARVEST"
   ],
   "status": "DRAFT"
 }
