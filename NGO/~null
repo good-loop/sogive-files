@@ -3,14 +3,7 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "OZ HARVEST",
-  "name": "OZ HARVEST",
-  "logo": "https://media.good-loop.com/uploads/standard/OZHARVEST_LOGO-5475484853063407883.png#noscale",
   "id": "OZHARVEST",
-  "suggest": [
-    "OZ HARVEST",
-    "OZ HARVEST"
-  ],
-  "url": "https://www.ozharvest.org/",
-  "status": "PUBLISHED"
+  "suggest": [],
+  "status": "DRAFT"
 }
