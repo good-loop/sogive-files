@@ -3,7 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "OZ HARVEST",
+  "name": "OZ HARVEST",
   "id": "OZHARVEST",
-  "suggest": [],
+  "suggest": [
+    "OZ HARVEST",
+    "OZ HARVEST"
+  ],
   "status": "DRAFT"
 }
