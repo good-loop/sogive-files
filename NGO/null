@@ -2,10 +2,13 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://media.good-loop.com/uploads/standard/OZHARVEST_LOGO-9180743163005345535.png",
   "@type": "NGO",
   "displayName": "OZ HARVEST",
+  "unlisted": true,
+  "ready": false,
   "name": "OZ HARVEST",
-  "logo": "https://media.good-loop.com/uploads/standard/OZHARVEST_LOGO-5475484853063407883.png",
+  "logo": "https://media.good-loop.com/uploads/standard/OZHARVEST_LOGO-18163714700199316876.png",
   "id": "OZHARVEST",
   "suggest": [
     "OZ HARVEST",
