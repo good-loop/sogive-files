@@ -300,7 +300,7 @@
   "modified": false,
   "@id": "against-malaria-foundation",
   "wikipedia": "https://en.wikipedia.org/wiki/Against_Malaria_Foundation",
-  "summaryDescription": "Against Malaria Foundation (AMF) distributes long-lasting insecticide-treated bed nets (for protection against malaria) in developing countries...",
+  "summaryDescription": "Against Malaria Foundation (AMF) distributes long-lasting insecticide-treated bed nets (for protection against malaria) in developing countries.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/danielgood-loop.comemail/homepageSlider__Gifts-17096852061946524315.jpg",
   "stories": "tst",
@@ -358,5 +358,5 @@
   "suggestedDonations": [
     {}
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
