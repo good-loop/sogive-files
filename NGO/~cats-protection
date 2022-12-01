@@ -631,6 +631,7 @@
         "value": "1111.888888888888887777000"
       },
       "amountGBP": 0.0,
+      "amountusd": 0.0,
       "n": 1.0
     }
   ],
@@ -658,5 +659,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
