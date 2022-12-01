@@ -5,10 +5,11 @@
   "@type": "NGO",
   "displayName": "the little princess trust",
   "name": "The princess trust",
+  "logo": "https://media.good-loop.com/uploads/standard/LittlePrincessTrust-8647631222853150693.jpg#ccrop:121",
   "id": "the-little-princess-trust",
   "suggest": [
     "The princess trust",
     "the little princess trust"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
