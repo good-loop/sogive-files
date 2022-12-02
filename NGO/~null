@@ -4,11 +4,12 @@
   },
   "@type": "NGO",
   "displayName": "Amarula Trust",
+  "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/Trust-logo__Copper-17681679962537139153.png#ccrop:95",
   "id": "amarula-trust",
   "suggest": [
     "Amarula Trust"
   ],
-  "url": "",
+  "url": "https://amarula.com/amarula-trust/",
   "status": "DRAFT"
 }
