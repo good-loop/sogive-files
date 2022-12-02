@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Big Brothers Big Sisters",
+  "displayName": "Big Brothers Big Sisters Of America",
   "name": "Big Brothers and sisters",
   "logo": "https://media.good-loop.com/uploads/standard/charity-2961225398112492562.png",
   "id": "big-brothers-and-sisters",
   "suggest": [
     "Big Brothers and sisters",
-    "Big Brothers Big Sisters"
+    "Big Brothers Big Sisters Of America"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
