@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "the little princess trust",
-  "name": "The princess trust",
-  "logo": "https://media.good-loop.com/uploads/standard/LittlePrincessTrust-8647631222853150693.jpg#ccrop:121",
-  "id": "the-little-princess-trust",
+  "displayName": "Big Brothers Big Sisters Of America",
+  "name": "Big Brothers and sisters",
+  "logo": "https://media.good-loop.com/uploads/standard/RGB__Primary__BBBSA-black-green-1683x769-16af3a7-13875260735011654475.png#ccrop:85",
+  "id": "big-brothers-and-sisters",
   "suggest": [
-    "The princess trust",
-    "the little princess trust"
+    "Big Brothers and sisters",
+    "Big Brothers Big Sisters Of America"
   ],
+  "url": "https://www.bbbs.org/",
   "status": "DRAFT"
 }
