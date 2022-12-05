@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "Plastic for Change",
   "id": "plastic-for-change",
-  "suggest": [],
+  "suggest": [
+    "Plastic for Change"
+  ],
   "status": "DRAFT"
 }
