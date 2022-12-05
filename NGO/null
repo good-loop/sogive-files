@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Amarula Trust",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Trust-logo__Copper-17681679962537139153.png#ccrop:95",
-  "id": "amarula-trust",
+  "displayName": "Plastic for Change",
+  "name": "Plastic for Change ",
+  "logo": "https://media.good-loop.com/uploads/standard/logo__png-13751875294308154659.png#ccrop:88",
+  "id": "plastic-for-change",
   "suggest": [
-    "Amarula Trust"
+    "Plastic for Change ",
+    "Plastic for Change"
   ],
-  "url": "https://amarula.com/amarula-trust/",
   "status": "DRAFT"
 }
