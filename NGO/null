@@ -3,13 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Plastic for Change",
-  "name": "Plastic for Change ",
-  "logo": "https://media.good-loop.com/uploads/standard/logo__png-13751875294308154659.png#ccrop:61",
-  "id": "plastic-for-change",
+  "name": "Ocean Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2022-06-09_104634-5911689032412939396.png#ccrop:103",
+  "id": "ocean-conservancy",
   "suggest": [
-    "Plastic for Change ",
-    "Plastic for Change"
+    "Ocean Conservancy"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
