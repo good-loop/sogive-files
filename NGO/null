@@ -3,14 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Your Local Pantry",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-9962602551919289418.png#ccrop:90",
-  "altlogo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-white-9814689716484382632.png#ccrop:90",
-  "id": "your-local-pantry",
+  "name": "Alabama Civil Rights Tourism Association",
+  "logo": "https://media.good-loop.com/uploads/standard/cropped-Alabama-Civil-Rights-Tourism-Assoc-1-12937780274692683689.png",
+  "id": "alabama-civil-rights-tourism-association",
   "suggest": [
-    "Your Local Pantry"
+    "Alabama Civil Rights Tourism Association"
   ],
-  "url": "https://www.yourlocalpantry.co.uk/",
   "status": "DRAFT"
 }
