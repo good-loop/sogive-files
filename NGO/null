@@ -3,11 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Ocean Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2022-06-09_104634-5911689032412939396.png#ccrop:114",
-  "id": "ocean-conservancy",
+  "displayName": "Your Local Pantry",
+  "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-9962602551919289418.png#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-white-9814689716484382632.png#ccrop:90",
+  "id": "your-local-pantry",
   "suggest": [
-    "Ocean Conservancy"
+    "Your Local Pantry"
   ],
-  "status": "MODIFIED"
+  "url": "https://www.yourlocalpantry.co.uk/",
+  "status": "DRAFT"
 }
