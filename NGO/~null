@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Your Local Pantry",
+  "unlisted": true,
   "id": "your-local-pantry",
   "suggest": [
     "Your Local Pantry"
