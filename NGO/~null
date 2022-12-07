@@ -1,13 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "Ocean Conservancy",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2022-06-09_104634-5911689032412939396.png#ccrop:114",
-  "id": "ocean-conservancy",
-  "suggest": [
-    "Ocean Conservancy"
-  ],
-  "status": "PUBLISHED"
+  "id": "your-local-pantry",
+  "suggest": []
 }
