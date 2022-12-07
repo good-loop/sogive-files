@@ -6,6 +6,7 @@
   "displayName": "Your Local Pantry",
   "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-9962602551919289418.png#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/your-local-pantry-logo-white-9814689716484382632.png",
   "id": "your-local-pantry",
   "suggest": [
     "Your Local Pantry"
