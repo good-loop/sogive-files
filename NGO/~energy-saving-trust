@@ -6,7 +6,7 @@
   "@type": "NGO",
   "displayName": "Energy Saving Trust",
   "name": "energy-saving-trust",
-  "logo": "https://media.good-loop.com/uploads/raw/og__image_1-5976493045894428336.jpeg#ccrop:115",
+  "logo": "https://media.good-loop.com/uploads/raw/og__image_1-5976493045894428336.jpeg",
   "@id": "energy-saving-trust",
   "suggest": [
     "energy-saving-trust",
@@ -14,5 +14,5 @@
     "energy-saving-trust"
   ],
   "id": "energy-saving-trust",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
