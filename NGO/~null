@@ -3,15 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Alabama Civil Rights Tourism Association",
-  "unlisted": false,
-  "name": "Alabama Civil Rights Tourism Association",
-  "logo": "https://media.good-loop.com/uploads/standard/cropped-Alabama-Civil-Rights-Tourism-Assoc-1_1-3299084383881665445.png#ccrop:105",
-  "id": "alabama-civil-rights-tourism-association",
+  "name": "Feeding-the-Gulf-Coast",
+  "logo": "https://media.good-loop.com/uploads/standard/feeding-the-gulfcoast-logo-14345030957174699743.png",
+  "id": "feeding-the-gulf-coast",
   "suggest": [
-    "Alabama Civil Rights Tourism Association",
-    "Alabama Civil Rights Tourism Association"
+    "Feeding-the-Gulf-Coast"
   ],
-  "url": "https://civilrightstourism.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
