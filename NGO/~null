@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Money",
+  "displayName": "Money Advice Trust",
   "id": "money-advice-trust",
   "suggest": [
-    "Money"
+    "Money Advice Trust"
   ],
   "status": "DRAFT"
 }
