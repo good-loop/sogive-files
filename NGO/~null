@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Alabama Civil Rights Tourism Association",
+  "unlisted": true,
   "name": "Alabama Civil Rights Tourism Association",
   "logo": "https://media.good-loop.com/uploads/standard/cropped-Alabama-Civil-Rights-Tourism-Assoc-1-12937780274692683689.png#ccrop:105",
   "id": "alabama-civil-rights-tourism-association",
@@ -11,5 +12,5 @@
     "Alabama Civil Rights Tourism Association",
     "Alabama Civil Rights Tourism Association"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
