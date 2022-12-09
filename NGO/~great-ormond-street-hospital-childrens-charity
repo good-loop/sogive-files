@@ -1296,10 +1296,11 @@
       "@type": "ImageObject"
     },
     {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Shorthand__image.width-765-15276638087079597860.jpg",
       "@type": "ImageObject"
     }
   ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
