@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -1261,7 +1264,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Great_Ormond_Street_Hospital#Great_Ormond_Street_Hospital_Children\u0027s_Charity",
   "summaryDescription": "Great Ormond Street Hospital Children\u0027s Charity raises money for Great Ormond Street Hospital (GOSH), a London-based hospital providing care for children.",
   "uptodatedraft": "probably",
-  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/GOSHimage-10433666180766718667.jpg",
+  "images": "https://media.good-loop.com/uploads/standard/Medical__equipment.width-765-4581998476604392917.jpg",
   "noPublicDonations": false,
   "impact": "low",
   "confidence": "high",
@@ -1275,7 +1278,7 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2020.0]"
+    "name": "No Outputs! for project Project[Environment for patients, family and staff  2020.0]"
   },
   "whoTags": "Children",
   "meta": {
@@ -1287,7 +1290,13 @@
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/great-ormond-street-hospital-charity-white.png",
   "lastModified": "2020-11-16T16:23:17Z",
   "englandWalesCharityRegNum": "1160024",
+  "imageList": [
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Family__support__homepage.edit.width-765-4116181874632440626.jpg",
+      "@type": "ImageObject"
+    }
+  ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
