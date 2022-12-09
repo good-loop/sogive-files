@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Money Advice Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_10-7502220969651342775.svg#ccrop:80",
-  "id": "money-advice-trust",
-  "suggest": [
-    "Money Advice Trust"
-  ],
-  "url": "https://www.moneyadvicetrust.org/",
-  "status": "DRAFT"
+  "id": "spa-france",
+  "suggest": []
 }
