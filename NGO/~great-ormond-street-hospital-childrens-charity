@@ -1290,7 +1290,13 @@
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/great-ormond-street-hospital-charity-white.png",
   "lastModified": "2020-11-16T16:23:17Z",
   "englandWalesCharityRegNum": "1160024",
+  "imageList": [
+    {
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Family__support__homepage.edit.width-765-4116181874632440626.jpg",
+      "@type": "ImageObject"
+    }
+  ],
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
