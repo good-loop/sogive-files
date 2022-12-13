@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Blessing in a Backpack",
+  "logo": "https://media.good-loop.com/uploads/standard/BlessingsLogo-2005773551364073085.png",
   "id": "blessings-backpack",
   "suggest": [
     "Blessing in a Backpack"
