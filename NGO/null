@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "displayName": "Blessing in a Backpack",
-  "logo": "https://media.good-loop.com/uploads/standard/BlessingsLogo-2005773551364073085.png#ccrop:101",
+  "logo": "https://media.good-loop.com/uploads/standard/BlessingsLogo298x98-5260984860840294427.png",
   "id": "blessings-backpack",
   "suggest": [
     "Blessing in a Backpack"
   ],
   "url": "https://www.blessingsinabackpack.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
