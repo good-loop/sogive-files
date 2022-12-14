@@ -1,14 +1,16 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/ntd-research-launch-2018-high-res-328-15978124770599557255.jpeg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Blessing in a Backpack",
-  "logo": "https://media.good-loop.com/uploads/standard/BlessingsLogo298x98-5260984860840294427.png",
-  "id": "blessings-backpack",
+  "displayName": "Planet Ark",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-planetark-16966111885978789380.png#ccrop:90",
+  "description": "Planet Ark Environmental Foundation is an Australian not-for-profit organisation that helps individuals, communities, governments and businesses reduce their impact on the environment. We are one of Australia’s leading environmental behaviour change organisations, with a focus on working collaboratively and positively.",
+  "id": "planet-ark",
   "suggest": [
-    "Blessing in a Backpack"
+    "Planet Ark"
   ],
-  "url": "https://www.blessingsinabackpack.org/",
+  "url": "https://planetark.org/",
   "status": "PUBLISHED"
 }
