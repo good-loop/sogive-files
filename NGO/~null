@@ -5,13 +5,15 @@
   },
   "@type": "NGO",
   "displayName": "Planet Ark",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-planetark-16966111885978789380.png#ccrop:90",
   "description": "Planet Ark Environmental Foundation is an Australian not-for-profit organisation that helps individuals, communities, governments and businesses reduce their impact on the environment. We are one of Australia’s leading environmental behaviour change organisations, with a focus on working collaboratively and positively.",
-  "id": "planet-ark",
   "suggest": [
     "Planet Ark"
   ],
-  "category": "environment",
   "url": "https://planetark.org/",
-  "status": "MODIFIED"
+  "logo": "https://media.good-loop.com/uploads/standard/logo-planetark-16966111885978789380.png#ccrop:90",
+  "unsdg": "13",
+  "id": "planet-ark",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "status": "DRAFT"
 }
