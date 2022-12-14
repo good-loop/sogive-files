@@ -11,6 +11,7 @@
   "suggest": [
     "Planet Ark"
   ],
+  "category": "environment",
   "url": "https://planetark.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
