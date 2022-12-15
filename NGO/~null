@@ -6,11 +6,12 @@
   "displayName": "Special Effect",
   "name": "Special Effect",
   "logo": "https://media.good-loop.com/uploads/standard/pngkey.com-frost-effect-png-4026812-4084752434012893339.png#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/specialEffectWhite-15416575423342107723.png",
   "id": "special-effect",
   "suggest": [
     "Special Effect",
     "Special Effect"
   ],
   "url": "https://www.specialeffect.org.uk/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
