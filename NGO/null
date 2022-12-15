@@ -3,12 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Blessing in a Backpack",
-  "logo": "https://media.good-loop.com/uploads/standard/BlessingsLogo298x98-5260984860840294427.png",
-  "id": "blessings-backpack",
+  "displayName": "Special Effect",
+  "name": "Special Effect",
+  "logo": "https://media.good-loop.com/uploads/standard/pngkey.com-frost-effect-png-4026812-4084752434012893339.png#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/specialEffectWhite-15416575423342107723.png",
+  "id": "special-effect",
   "suggest": [
-    "Blessing in a Backpack"
+    "Special Effect",
+    "Special Effect"
   ],
-  "url": "https://www.blessingsinabackpack.org/",
-  "status": "MODIFIED"
+  "url": "https://www.specialeffect.org.uk/",
+  "status": "DRAFT"
 }
