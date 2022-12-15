@@ -3,10 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "One Special Day",
-  "id": "one-special-day",
+  "displayName": "Special Effect",
+  "name": "Special Effect",
+  "logo": "https://media.good-loop.com/uploads/standard/pngkey.com-frost-effect-png-4026812-4084752434012893339.png#ccrop:90",
+  "id": "special-effect",
   "suggest": [
-    "One Special Day"
+    "Special Effect",
+    "Special Effect"
   ],
-  "status": "DRAFT"
+  "url": "https://www.specialeffect.org.uk/",
+  "status": "PUBLISHED"
 }
