@@ -1,0 +1,18 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "nhs charities together",
+  "name": "nhs-charities-together",
+  "logo": "https://media.good-loop.com/uploads/standard/NHSCT__Supporting__white-13941082979375352215.png",
+  "@id": "nhs-charities-together",
+  "suggest": [
+    "nhs-charities-together",
+    "nhs charities together",
+    "nhs-charities-together"
+  ],
+  "id": "nhs-charities-together",
+  "url": "https://www.nhscharitiestogether.co.uk/",
+  "status": "PUBLISHED"
+}
