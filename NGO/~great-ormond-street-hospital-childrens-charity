@@ -1269,7 +1269,7 @@
   "impact": "low",
   "confidence": "high",
   "suggest": [
-    "Great Ormond Street Hospital ",
+    "Great Ormond Street Hospital Children\u0027s Charity",
     "Great Ormond Street Hospital",
     "great-ormond-street-hospital-childrens-charity"
   ],
@@ -1286,7 +1286,7 @@
       "notes": "Yes"
     }
   },
-  "name": "Great Ormond Street Hospital ",
+  "name": "Great Ormond Street Hospital Children\u0027s Charity",
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/great-ormond-street-hospital-charity-white.png",
   "lastModified": "2020-11-16T16:23:17Z",
   "englandWalesCharityRegNum": "1160024",
