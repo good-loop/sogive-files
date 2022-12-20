@@ -5,7 +5,7 @@
   "@type": "NGO",
   "displayName": "nhs charities together",
   "name": "nhs-charities-together",
-  "logo": "https://media.good-loop.com/uploads/standard/Artboard-2--10154370132892178307.svg#ccrop:95",
+  "logo": "https://media.good-loop.com/uploads/standard/Artboard-2--14120056675141758425.svg#ccrop:95",
   "@id": "nhs-charities-together",
   "suggest": [
     "nhs-charities-together",
@@ -14,5 +14,5 @@
   ],
   "id": "nhs-charities-together",
   "url": "https://www.nhscharitiestogether.co.uk/",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
