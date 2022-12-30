@@ -6,12 +6,13 @@
   "@type": "NGO",
   "created": "2022-12-30T14:33:42Z",
   "name": "Doctors Without Borders (Medecins Sans Frontieres) USA",
+  "unsdg": "3",
   "id": "doctors-without-borders-medecins-sans-frontieres-usa",
   "suggest": [
     "Doctors Without Borders (Medecins Sans Frontieres) USA"
   ],
   "category": "human services",
   "crm": "2506405664@2506405019@monday.com",
-  "status": "PUBLISHED",
+  "status": "MODIFIED",
   "UNSDG": 3.0
 }
