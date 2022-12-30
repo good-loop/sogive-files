@@ -1,17 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Special Effect",
-  "name": "Special Effect",
-  "logo": "https://media.good-loop.com/uploads/standard/pngkey.com-frost-effect-png-4026812-4084752434012893339.png#ccrop:90",
-  "altlogo": "https://media.good-loop.com/uploads/standard/specialEffectWhite-15416575423342107723.png",
-  "id": "special-effect",
+  "created": "2022-12-30T14:33:42Z",
+  "name": "Doctors Without Borders (Medecins Sans Frontieres) USA",
+  "id": "doctors-without-borders-medecins-sans-frontieres-usa",
   "suggest": [
-    "Special Effect",
-    "Special Effect"
+    "Doctors Without Borders (Medecins Sans Frontieres) USA"
   ],
-  "url": "https://www.specialeffect.org.uk/",
-  "status": "DRAFT"
+  "crm": "2506405664@good-loop@monday.com"
 }
