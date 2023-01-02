@@ -17,5 +17,7 @@
   "logo": "https://media.good-loop.com/uploads/raw/211-10484051397039759575.png",
   "@id": "deep-south-centre-for-environmental-justice",
   "id": "deep-south-centre-for-environmental-justice",
-  "status": "PUBLISHED"
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "status": "MODIFIED"
 }
