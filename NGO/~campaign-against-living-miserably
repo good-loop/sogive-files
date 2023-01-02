@@ -166,6 +166,7 @@
         "value": "10211.864406779660254237288135593216000"
       },
       "amountGBP": 0.0,
+      "amountusd": 0.0,
       "n": 1.0
     }
   ],
@@ -184,8 +185,9 @@
     }
   },
   "name": "Campaign Against Living Miserably",
+  "category": "health",
   "englandWalesCharityRegNum": "1110621",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
