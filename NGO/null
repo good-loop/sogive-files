@@ -3,13 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Sister2Sister",
-  "name": "Sister 2 Sister",
-  "logo": "https://media.good-loop.com/uploads/standard/S2S__Logo__CMYK02-14807906850318582558.png#ccrop:97",
-  "id": "sister2sister",
+  "displayName": "Nab foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/NABF-logo-website-tile-13298920808308804116.png",
+  "id": "nab-foundation",
   "suggest": [
-    "Sister 2 Sister",
-    "Sister2Sister"
+    "Nab foundation"
   ],
   "status": "DRAFT"
 }
