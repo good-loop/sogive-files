@@ -2,19 +2,19 @@
   "scotlandCharityRegNum": "SC030085",
   "images": "https://media.good-loop.com/uploads/standard/FareShare-3-small-1854840328290494917.jpeg",
   "@type": "NGO",
-  "displayName": "FareShare",
+  "displayName": "Food Bank AUs",
   "description": "FareShare is the UK’s national network of charitable food redistributors, the food we redistribute is nutritious and good to eat. It reaches charities across the UK, including school breakfast clubs, older people’s lunch clubs, homeless shelters, and community cafes. Every week we provide enough food to create almost a million meals for vulnerable people.",
   "suggest": [
-    "Fare Share Trust",
-    "FareShare",
+    "Food Bank",
+    "Food Bank AUs",
     "fare-share-trust"
   ],
   "url": "https://fareshare.org.uk/",
-  "name": "Fare Share Trust",
+  "name": "Food Bank",
   "logo": "https://media.good-loop.com/uploads/standard/download_22-17546510594497735025.png#ccrop:86",
   "@id": "fare-share-trust",
   "category": "human services",
   "subcategory": "Food Banks and Food Distribution",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
