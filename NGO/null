@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Aus Red Cross",
-  "name": "Aus Red Cross",
-  "logo": "https://media.good-loop.com/uploads/standard/download_23-4294131967690920125.png#ccrop:99",
-  "id": "australia-red-cross",
+  "displayName": "Deadly Sciene",
+  "name": "Deadly Science",
+  "logo": "https://media.good-loop.com/uploads/standard/Q3CEXrQ2__400x400-12805931096990140333.jpg#ccrop:104",
+  "id": "deadlyscience",
   "suggest": [
-    "Aus Red Cross",
-    "Aus Red Cross"
+    "Deadly Science",
+    "Deadly Sciene"
   ],
   "status": "DRAFT"
 }
