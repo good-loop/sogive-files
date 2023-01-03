@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "LIV",
-  "name": "LIV",
-  "logo": "https://media.good-loop.com/uploads/standard/image001-6291765979080151582.png",
-  "id": "liv",
+  "displayName": "Book Aid International",
+  "logo": "https://media.good-loop.com/uploads/standard/book-aid-international-logo-10C22ABEE2-seeklogo.com-17155439489682872924.png#ccrop:92",
+  "id": "book-aid",
   "suggest": [
-    "LIV",
-    "LIV"
+    "Book Aid International"
   ],
-  "url": "https://www.liv-village.com/",
+  "url": "https://bookaid.org/",
   "status": "DRAFT"
 }
