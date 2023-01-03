@@ -5,16 +5,16 @@
   "displayName": "FareShare",
   "description": "FareShare is the UK’s national network of charitable food redistributors, the food we redistribute is nutritious and good to eat. It reaches charities across the UK, including school breakfast clubs, older people’s lunch clubs, homeless shelters, and community cafes. Every week we provide enough food to create almost a million meals for vulnerable people.",
   "suggest": [
-    "",
+    "Fare Share Trust",
     "FareShare",
     "fare-share-trust"
   ],
   "url": "https://fareshare.org.uk/",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/FS-logo-general-use-RGB-8472159427211579551.png",
+  "name": "Fare Share Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/LogoFoodbankAus-10728230647671794078.png#ccrop:99",
   "@id": "fare-share-trust",
   "category": "human services",
   "subcategory": "Food Banks and Food Distribution",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
