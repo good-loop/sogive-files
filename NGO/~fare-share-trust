@@ -11,10 +11,10 @@
   ],
   "url": "https://fareshare.org.uk/",
   "name": "Fare Share Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/LogoFoodbankAus-10728230647671794078.png#ccrop:99",
+  "logo": "https://media.good-loop.com/uploads/standard/download_22-17546510594497735025.png",
   "@id": "fare-share-trust",
   "category": "human services",
   "subcategory": "Food Banks and Food Distribution",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
