@@ -1,15 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2022-12-30T14:33:42Z",
-  "name": "Doctors Without Borders (Medecins Sans Frontieres) USA",
-  "id": "doctors-without-borders-medecins-sans-frontieres-usa",
+  "displayName": "Sister2Sister",
+  "name": "Sister 2 Sister",
+  "logo": "https://media.good-loop.com/uploads/standard/S2S__Logo__CMYK02-14807906850318582558.png#ccrop:97",
+  "id": "sister2sister",
   "suggest": [
-    "Doctors Without Borders (Medecins Sans Frontieres) USA"
+    "Sister 2 Sister",
+    "Sister2Sister"
   ],
-  "category": "human services",
-  "url": "https://www.doctorswithoutborders.org/",
-  "crm": "2506405664@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
