@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Nab foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/NABF-logo-website-tile-13298920808308804116.png#ccrop:112",
-  "id": "nab-foundation",
+  "displayName": "Aus Red Cross",
+  "name": "Aus Red Cross",
+  "logo": "https://media.good-loop.com/uploads/standard/download_23-4294131967690920125.png#ccrop:99",
+  "id": "australia-red-cross",
   "suggest": [
-    "Nab foundation"
+    "Aus Red Cross",
+    "Aus Red Cross"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
