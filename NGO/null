@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Developing Communities",
+  "displayName": "Educating Children",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/charity_7-13441700434248986004.png",
-  "id": "developing-communities",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_8-15880128045593099724.png",
+  "id": "educating-children",
   "suggest": [
-    "Developing Communities"
+    "Educating Children"
   ],
   "status": "MODIFIED"
 }
