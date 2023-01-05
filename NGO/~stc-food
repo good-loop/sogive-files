@@ -1,0 +1,18 @@
+{
+  "circleCrop": 90.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Food",
+  "name": "stc-food",
+  "logo": "https://media.good-loop.com/uploads/standard/Screen__Shot__2021-08-28__at__10.31.14-9247951842041947740.png",
+  "@id": "stc-food",
+  "suggest": [
+    "stc-food",
+    "Food",
+    "stc-food"
+  ],
+  "id": "stc-food",
+  "status": "PUBLISHED"
+}
