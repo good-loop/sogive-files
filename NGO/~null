@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Educating Parents",
   "id": "educating-parents",
-  "suggest": [],
+  "suggest": [
+    "Educating Parents"
+  ],
   "status": "DRAFT"
 }
