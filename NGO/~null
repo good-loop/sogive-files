@@ -1,10 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "displayName": "Developing Communities",
   "unlisted": true,
+  "logo": "https://media.good-loop.com/uploads/standard/charity_3-12066206285450806727.png",
   "id": "developing-communities",
   "suggest": [
     "Developing Communities"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
