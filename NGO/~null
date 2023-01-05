@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Developing Communities",
+  "unlisted": true,
   "id": "developing-communities",
   "suggest": [
     "Developing Communities"
