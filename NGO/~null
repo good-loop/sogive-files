@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Educating Children",
+  "displayName": "Children",
   "unlisted": true,
   "logo": "https://media.good-loop.com/uploads/standard/charity_1-10241094191016357179.png",
   "id": "educating-children",
   "suggest": [
-    "Educating Children"
+    "Children"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
