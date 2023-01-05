@@ -1,14 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Educating Parents",
+  "displayName": "Developing Communities",
   "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/charity_2-7517174863650445625.png",
-  "id": "educating-parents",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_3-12066206285450806727.png",
+  "id": "developing-communities",
   "suggest": [
-    "Educating Parents"
+    "Developing Communities"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
