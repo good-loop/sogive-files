@@ -6,10 +6,11 @@
   "@type": "NGO",
   "created": "2023-01-06T09:35:55Z",
   "name": "Sierra Delta",
+  "logo": "https://media.good-loop.com/uploads/standard/SierraDelta__Main-11832608689258712072.png",
   "id": "sierra-delta",
   "suggest": [
     "Sierra Delta"
   ],
   "crm": "3762924979@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
