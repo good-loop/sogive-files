@@ -1,0 +1,123 @@
+{
+  "scotlandCharityRegNum": "13867",
+  "circleCrop": 85.0,
+  "ukCompanyRegNum": "SC111538",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 10.0,
+          "name": "project(s) funded"
+        }
+      ],
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "9000",
+          "currency": "GBP",
+          "value100p": 9.0E7,
+          "value": 9000.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2017-01-01",
+      "end": "2017-12-30"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "SEAD Fund",
+  "description": "Provides small grants for projects that promote social justice and environmental care.",
+  "recommendation": "Hard to validate, but seed-funding for political projects can have a disproportionately good impact. Funding to medical interventions in developing nations is often high impact.",
+  "whyTags": "Education",
+  "ready": false,
+  "modified": true,
+  "logo": "https://media.good-loop.com/uploads/raw/logo-green-bulb-name-16001527828519160492.png",
+  "@id": "sead",
+  "wikipedia": "",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/anon/image1-6414824924964014968.png",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "SEAD",
+    "SEAD Fund",
+    "sead"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sead",
+      "name": "project(s) funded",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 9000000,
+        "value": "900.0"
+      },
+      "amountGBP": 0.0,
+      "amountusd": 0.0,
+      "n": 1.0
+    }
+  ],
+  "url": "https://sead.org.uk",
+  "communicationsWithCharity": "Dan W works for them, so yes we have. ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "project(s) funded",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 9000000,
+      "value": "900.0"
+    }
+  },
+  "name": "SEAD",
+  "lastModified": "2020-08-13T20:02:09Z",
+  "uk_giftaid": true,
+  "suggestedDonations": [
+    {
+      "amount": {
+        "@type": "Money",
+        "raw": "15",
+        "currency": "GBP",
+        "value100p": 150000.0,
+        "value": 15.0
+      },
+      "repeat": "MONTH",
+      "name": "Membership"
+    },
+    {
+      "amount": {
+        "@type": "Money",
+        "raw": "4",
+        "currency": "GBP",
+        "value100p": 40000.0,
+        "value": 4.0
+      },
+      "repeat": "MONTH",
+      "name": "Lower Income Membership",
+      "text": "For students, pensioners, unemployed, or those on low income."
+    }
+  ],
+  "status": "PUBLISHED"
+}
