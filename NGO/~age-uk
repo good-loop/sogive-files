@@ -1326,7 +1326,7 @@
   "impact": "more-info-needed",
   "confidence": "medium",
   "suggest": [
-    "Comic Relief",
+    "Age UK",
     "Comic Relief",
     "age-uk"
   ],
@@ -1342,7 +1342,7 @@
       "notes": "Yes"
     }
   },
-  "name": "Comic Relief",
+  "name": "Age UK",
   "lastModified": "2020-10-16T16:34:02Z",
   "englandWalesCharityRegNum": "1128267",
   "uk_giftaid": true,
