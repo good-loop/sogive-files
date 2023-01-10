@@ -51,6 +51,7 @@
   "logo": "https://media.good-loop.com/uploads/raw/logo-green-bulb-name-16001527828519160492.png",
   "@id": "sead",
   "wikipedia": "",
+  "summaryDescription": "Provides small grants for projects that promote social justice and environmental care.",
   "uptodatedraft": "probably",
   "images": "https://app.sogive.org/uploads/anon/image1-6414824924964014968.png",
   "impact": "low",
@@ -79,6 +80,7 @@
   ],
   "url": "https://sead.org.uk",
   "communicationsWithCharity": "Dan W works for them, so yes we have. ",
+  "howTags": "funding",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
@@ -119,5 +121,5 @@
       "text": "For students, pensioners, unemployed, or those on low income."
     }
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
