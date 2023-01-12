@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Sheldrick Wildlife Trust",
-  "name": "Sheldrick Wildlife Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/dswt-logo-3906777285162555788.png#ccrop:94",
-  "id": "sheldrick-wildlife-trust",
+  "displayName": "EWG",
+  "name": "Environmental Working Group",
+  "logo": "https://media.good-loop.com/uploads/standard/ewg__verified__mark__720-8955894173106079036.png#ccrop:102",
+  "id": "environmental-working-group",
   "suggest": [
-    "Sheldrick Wildlife Trust",
-    "Sheldrick Wildlife Trust"
+    "Environmental Working Group",
+    "EWG"
   ],
   "status": "DRAFT"
 }
