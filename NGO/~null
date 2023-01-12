@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Sheldrick Wildlife Trust",
-  "name": "Sheldrick Wildlife Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/dswt-logo-3906777285162555788.png#ccrop:94",
-  "id": "sheldrick-wildlife-trust",
-  "suggest": [
-    "Sheldrick Wildlife Trust",
-    "Sheldrick Wildlife Trust"
-  ],
-  "status": "DRAFT"
+  "id": "environmental-working-group",
+  "suggest": []
 }
