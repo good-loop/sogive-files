@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Center for Family Services",
   "name": "Center for Family Services",
   "id": "center-for-family-services",
   "suggest": [
+    "Center for Family Services",
     "Center for Family Services"
   ],
   "status": "DRAFT"
