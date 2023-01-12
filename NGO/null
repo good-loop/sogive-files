@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Center For Family Services",
-  "name": "Center For Family Services",
-  "logo": "https://media.good-loop.com/uploads/standard/CFS-logo-v2-8794288384220123253.png#ccrop:85",
-  "id": "center-for-family-services",
+  "displayName": "Oceanic Society",
+  "name": "Oceanic Society",
+  "logo": "https://media.good-loop.com/uploads/standard/8408998-logo-14439046649064521923.png#ccrop:81",
+  "id": "oceanic-society",
   "suggest": [
-    "Center For Family Services",
-    "Center For Family Services"
+    "Oceanic Society",
+    "Oceanic Society"
   ],
-  "url": "https://www.centerffs.org/",
   "status": "DRAFT"
 }
