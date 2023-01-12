@@ -3,15 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Wellness In The Schools",
-  "name": "Wellness In The Schools",
-  "logo": "https://media.good-loop.com/uploads/standard/WITS-logo-1-342x267-5480743589006763113.png#ccrop:80",
-  "altlogo": "https://media.good-loop.com/uploads/standard/wits-words-and-pencil2-8106831150551552958.svg#ccrop:85",
-  "id": "wellness-in-the-schools",
+  "displayName": "Center For Family Services",
+  "name": "Center For Family Services",
+  "logo": "https://media.good-loop.com/uploads/standard/CFS-logo-v2-8794288384220123253.png#ccrop:85",
+  "id": "center-for-family-services",
   "suggest": [
-    "Wellness In The Schools",
-    "Wellness In The Schools"
+    "Center For Family Services",
+    "Center For Family Services"
   ],
-  "url": "https://www.wellnessintheschools.org/",
+  "url": "https://www.centerffs.org/",
   "status": "DRAFT"
 }
