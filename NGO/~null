@@ -1,6 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Wellness In T",
   "id": "wellness-in-the-schools",
-  "suggest": [],
+  "suggest": [
+    "Wellness In T"
+  ],
   "status": "DRAFT"
 }
