@@ -3,9 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Oceanic Society",
   "name": "Oceanic Society",
+  "logo": "https://media.good-loop.com/uploads/standard/oceanic-society-12159596498173059171.jpg",
   "id": "oceanic-society",
   "suggest": [
+    "Oceanic Society",
     "Oceanic Society"
   ],
   "status": "DRAFT"
