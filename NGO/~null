@@ -1,16 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Center For Family Services",
-  "name": "Center For Family Services",
-  "logo": "https://media.good-loop.com/uploads/standard/CFS-logo-v2-8794288384220123253.png#ccrop:85",
-  "id": "center-for-family-services",
-  "suggest": [
-    "Center For Family Services",
-    "Center For Family Services"
-  ],
-  "url": "https://www.centerffs.org/",
-  "status": "DRAFT"
+  "id": "oceanic-society",
+  "suggest": []
 }
