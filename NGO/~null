@@ -1,5 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Sheldrick Wildlife Trust",
+  "name": "Sheldrick Wildlife Trust",
   "id": "sheldrick-wildlife-trust",
-  "suggest": []
+  "suggest": [
+    "Sheldrick Wildlife Trust",
+    "Sheldrick Wildlife Trust"
+  ],
+  "status": "DRAFT"
 }
