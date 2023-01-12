@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Oceanic Society",
-  "name": "Oceanic Society",
-  "logo": "https://media.good-loop.com/uploads/standard/8408998-logo-14439046649064521923.png#ccrop:81",
-  "id": "oceanic-society",
+  "displayName": "Sheldrick Wildlife Trust",
+  "name": "Sheldrick Wildlife Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/dswt-logo-3906777285162555788.png#ccrop:94",
+  "id": "sheldrick-wildlife-trust",
   "suggest": [
-    "Oceanic Society",
-    "Oceanic Society"
+    "Sheldrick Wildlife Trust",
+    "Sheldrick Wildlife Trust"
   ],
   "status": "DRAFT"
 }
