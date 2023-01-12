@@ -1,5 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "name": "Center ",
   "id": "center-for-family-services",
-  "suggest": []
+  "suggest": [
+    "Center "
+  ],
+  "status": "DRAFT"
 }
