@@ -2,15 +2,16 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-01-06T09:35:55Z",
-  "name": "Sierra Delta",
-  "logo": "https://media.good-loop.com/uploads/standard/SierraDelta__Main-11832608689258712072.png#ccrop:85",
-  "id": "sierra-delta",
+  "displayName": "Wellness In The Schools",
+  "name": "Wellness In The Schools",
+  "logo": "https://media.good-loop.com/uploads/standard/WITS-logo-1-342x267-5480743589006763113.png#ccrop:80",
+  "altlogo": "https://media.good-loop.com/uploads/standard/wits-words-and-pencil2-8106831150551552958.svg#ccrop:85",
+  "id": "wellness-in-the-schools",
   "suggest": [
-    "Sierra Delta"
+    "Wellness In The Schools",
+    "Wellness In The Schools"
   ],
-  "crm": "3762924979@2506405019@monday.com",
-  "status": "MODIFIED"
+  "url": "https://www.wellnessintheschools.org/",
+  "status": "DRAFT"
 }
