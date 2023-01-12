@@ -3,12 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "",
+  "displayName": "Wellness In The Schools",
   "name": "Wellness In The Schools",
   "id": "wellness-in-the-schools",
   "suggest": [
     "Wellness In The Schools",
-    ""
+    "Wellness In The Schools"
   ],
+  "url": "",
   "status": "DRAFT"
 }
