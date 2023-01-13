@@ -5,13 +5,13 @@
   },
   "headerImage": "https://media.good-loop.com/uploads/standard/lake-tahoe-1200x760-8851016002578999183.png",
   "@type": "NGO",
-  "name": "CREST (Centre For Responsible Travel)  ",
+  "name": "CREST (Center For Responsible Travel)  ",
   "logo": "https://media.good-loop.com/uploads/standard/crest-logo-globe-only-15673285727789443161.png",
   "description": "CREST, the Center for Responsible Travel, is a unique nonprofit with the mission to promote responsible tourism policies and practices so that local communities may thrive and steward their cultural resources and biodiversity.",
   "id": "crest--centre-for-responsible-travel--",
   "suggest": [
-    "CREST (Centre For Responsible Travel)  "
+    "CREST (Center For Responsible Travel)  "
   ],
   "url": "https://www.responsibletravel.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
