@@ -1,17 +1,17 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/lake-tahoe-1200x760-10896804632210883121.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "headerImage": "https://media.good-loop.com/uploads/standard/lake-tahoe-1200x760-8851016002578999183.png",
   "@type": "NGO",
-  "name": "CREST (Center For Responsible Travel)  ",
-  "logo": "https://media.good-loop.com/uploads/standard/crest-logo-globe-only-15673285727789443161.png#ccrop:95",
-  "description": "CREST, the Center for Responsible Travel, is a unique nonprofit with the mission to promote responsible tourism policies and practices so that local communities may thrive and steward their cultural resources and biodiversity.",
-  "id": "crest--centre-for-responsible-travel--",
+  "unlisted": true,
+  "displayName": "Campbell Soup Foundation",
+  "name": "Campbell Soup Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Campbell-Soup-Foundation__Logo__300-dpi-8369025791586236586.jpg#ccrop:88",
+  "id": "campbell-soup-foundation",
   "suggest": [
-    "CREST (Center For Responsible Travel)  "
+    "Campbell Soup Foundation",
+    "Campbell Soup Foundation"
   ],
-  "url": "https://www.responsibletravel.org/",
+  "url": "https://www.campbellsoupcompany.com/our-impact/community/campbell-soup-foundation/",
   "status": "DRAFT"
 }
