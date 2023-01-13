@@ -4,9 +4,12 @@
   },
   "@type": "NGO",
   "unlisted": true,
+  "displayName": "Campel",
   "logo": "https://media.good-loop.com/uploads/standard/Campbell-Soup-Foundation__Logo__300-dpi-8369025791586236586.jpg#ccrop:88",
   "id": "campbell-soup-foundation",
-  "suggest": [],
+  "suggest": [
+    "Campel"
+  ],
   "url": "https://www.campbellsoupcompany.com/our-impact/community/campbell-soup-foundation/",
   "status": "DRAFT"
 }
