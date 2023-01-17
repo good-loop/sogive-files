@@ -291,7 +291,7 @@
   "whyTags": "Elderly",
   "ready": true,
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/logo-8987833772017455782.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/og__image__logo-6543464468956574371.png#ccrop:105",
   "@id": "sue-ryder",
   "wikipedia": "https://en.wikipedia.org/wiki/Sue_Ryder_(charity)",
   "summaryDescription": "[Sue Ryder](https://www.sueryder.org/about-us) supports people living with a terminal illness, a neurological condition, or the loss of a loved one.",
@@ -342,5 +342,5 @@
   "englandWalesCharityRegNum": "1052076",
   "uk_giftaid": true,
   "whereTags": "United Kingdom",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
