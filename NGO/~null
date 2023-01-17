@@ -1,12 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "Ba",
-  "id": "baby2",
-  "suggest": [
-    "Ba"
-  ],
-  "status": "DRAFT"
+  "id": "reform-alliance",
+  "suggest": []
 }
