@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Baby2Baby",
-  "name": "Baby2Baby",
-  "logo": "https://media.good-loop.com/uploads/standard/Baby2Baby-7521863685571487783.png",
-  "id": "b",
-  "suggest": [
-    "Baby2Baby",
-    "Baby2Baby"
-  ],
-  "status": "DRAFT"
+  "id": "baby2",
+  "suggest": []
 }
