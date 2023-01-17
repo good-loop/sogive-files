@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cast",
-  "name": "Coalition to Abolish Slavery \u0026 Trafficking ",
-  "logo": "https://media.good-loop.com/uploads/standard/CAST__LA-2039213348170654636.png#ccrop:88",
-  "id": "coalition-to-abolish",
+  "displayName": "Baby2Baby",
+  "name": "Baby2Baby",
+  "logo": "https://media.good-loop.com/uploads/standard/Baby2Baby-7521863685571487783.png",
+  "id": "b",
   "suggest": [
-    "Coalition to Abolish Slavery \u0026 Trafficking ",
-    "Cast"
+    "Baby2Baby",
+    "Baby2Baby"
   ],
   "status": "DRAFT"
 }
