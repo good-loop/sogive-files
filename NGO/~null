@@ -1,15 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Cast",
-  "name": "Coalition to Abolish Slavery \u0026 Trafficking ",
-  "logo": "https://media.good-loop.com/uploads/standard/CAST__LA-2039213348170654636.png#ccrop:88",
-  "id": "coalition-to-abolish",
-  "suggest": [
-    "Coalition to Abolish Slavery \u0026 Trafficking ",
-    "Cast"
-  ],
-  "status": "DRAFT"
+  "id": "b",
+  "suggest": []
 }
