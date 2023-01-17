@@ -1,18 +1,5 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-2846337044857385189.png",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "headerImage": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-3848078238635360360.png",
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Charity Placeholder",
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/Charity_Placeholder_1-4977086594840786564.png#ccrop:80",
-  "description": "Charity description here...",
-  "id": "charity-placeholder",
-  "suggest": [
-    "Charity Placeholder"
-  ],
-  "status": "MODIFIED"
+  "id": "coalition-to-abolish",
+  "suggest": []
 }
