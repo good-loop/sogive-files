@@ -3,7 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "name": "Coalition to Abolish Slavery and Tr",
   "id": "coalition-to-abolish",
-  "suggest": [],
+  "suggest": [
+    "Coalition to Abolish Slavery and Tr"
+  ],
   "status": "DRAFT"
 }
