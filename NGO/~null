@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "B2B",
+  "displayName": "Baby2Baby",
   "name": "Baby2Baby",
   "id": "b",
   "suggest": [
     "Baby2Baby",
-    "B2B"
+    "Baby2Baby"
   ],
   "status": "DRAFT"
 }
