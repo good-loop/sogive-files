@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Baby2Baby",
-  "name": "Baby2Baby",
-  "logo": "https://media.good-loop.com/uploads/standard/Baby2Baby-7521863685571487783.png",
-  "id": "b",
+  "displayName": "Reform Alliance",
+  "name": "Reform Alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/Reform-Alliance-10582296710421961570.jpeg#ccrop:90",
+  "id": "reform-alliance",
   "suggest": [
-    "Baby2Baby",
-    "Baby2Baby"
+    "Reform Alliance",
+    "Reform Alliance"
   ],
   "status": "DRAFT"
 }
