@@ -1,0 +1,346 @@
+{
+  "scotlandCharityRegNum": "SC039578",
+  "ukCompanyRegNum": "00943228",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2300000.0,
+          "meta": {
+            "all": {
+              "notes": "impact report p. 5"
+            }
+          },
+          "confidence": "medium",
+          "name": "hours (singular: hour) of support",
+          "description": "[This support](https://www.sueryder.org/sites/default/files/2020-02/SueRyder201819ImpactReport.pdf) includes palliative, neurological, and bereavement support."
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "104386000",
+          "currency": "GBP",
+          "value100p": 1.04386E12,
+          "value": 1.04386E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "53850000",
+          "currency": "GBP",
+          "value100p": 5.385E11,
+          "value": 5.385E7
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "514000",
+          "currency": "GBP",
+          "value100p": 5.14E9,
+          "value": 514000.0
+        }
+      ],
+      "start": "2018-04-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": "38703000",
+        "currency": "GBP",
+        "value100p": 3.8703E11,
+        "value": 3.8703E7
+      },
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2019-12/06904%20-%20Trustees%20Annual%20Report%20and%20Accounts%202018-19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2020-02/SueRyder201819ImpactReport.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2019-12/06904%20-%20Trustees%20Annual%20Report%20and%20Accounts%202018-19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "45000",
+          "currency": "GBP",
+          "value100p": 4.5E8,
+          "value": 45000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "27687000",
+          "currency": "GBP",
+          "value100p": 2.7687E11,
+          "value": 2.7687E7
+        }
+      ],
+      "name": "End-of-life care",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2019-12/06904%20-%20Trustees%20Annual%20Report%20and%20Accounts%202018-19.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "469000",
+          "currency": "GBP",
+          "value100p": 4.69E9,
+          "value": 469000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "14888000",
+          "currency": "GBP",
+          "value100p": 1.4888E11,
+          "value": 1.4888E7
+        }
+      ],
+      "name": "Long-term neurological care",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2019-12/06904%20-%20Trustees%20Annual%20Report%20and%20Accounts%202018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3281000",
+          "currency": "GBP",
+          "value100p": 3.281E10,
+          "value": 3281000.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "name": "Homecare",
+      "start": "2018-04-01",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.sueryder.org/sites/default/files/2019-12/06904%20-%20Trustees%20Annual%20Report%20and%20Accounts%202018-19.pdf"
+        }
+      ],
+      "start_raw": "2018-04-01",
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "149000",
+          "currency": "GBP",
+          "value100p": 1.49E9,
+          "value": 149000.0
+        }
+      ],
+      "name": "International",
+      "start": "2018-04-01",
+      "description": "",
+      "end": "2019-03-31",
+      "end_raw": "2019-03-31"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Sue Ryder",
+  "description": "For [over 65 years](https://www.sueryder.org/about-us/what-we-do/how-we-help), Sue Ryder\u0027s doctors, nurses, and carers have given people both compassion and expert services. These services include hospice care, counselling over grief, and rehabilitation help for people with neurological conditions.",
+  "recommendation": "**Sue Ryder achieves a Bronze assessment under the SoGive rating methodology.**  \n\nSue Ryder provides hospice care, counselling over grief, and rehabilitation help for people with neurological conditions, whether at home, online, or in residential care centres.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Sue Ryder does**\n\nBased on the information we gathered from the [2018/19 accounts](https://www.sueryder.org/sites/default/files/2020-02/SueRyder201819ImpactReport.pdf), we estimated that Sue Ryder spends about £22 providing 1 hour of service. The charity provided 1,100,000 hours of neurological care, 850,000 hours of hospice care, and every month, an additional 1,218 people received hospice care at home. \n\nSue Ryder also provides aid to Albania and Malawi, but this expenditure accounts for roughly 0.3% of the charity\u0027s total spending, so we left these projects out of our analysis.\n\n**Benchmarking**\n\nAfter a review of the work of Sue Ryder under the two-question method, the next step in the SoGive process involves comparing this charity to benchmark charities. These benchmark charities have strong cost-effectiveness and evidence for their effectiveness. For these benchmark charities, you should be able to achieve an outcome about as good as saving a life for around £1,500. Example benchmark charities include the [Against Malaria Foundation](https://app.sogive.org/#charity?charityId\u003dagainst-malaria-foundation).\n\nIf providing one beneficiary with one hour of palliative, neurological, or bereavement care costs £22, then £1,500 could fund about 68 hours of care. \n\nWe see roughly three days of care for people at the end of their lives, suffering from neurological conditions, or coping with the loss of a loved one as less positive of an outcome than saving someone\u0027s life.\n\n**Conclusion**\n\nWe conclude by giving Sue Ryder a Bronze rating under the SoGive two-question method.\n\nFor reference, when we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms a Silver-rated charity (i.e. achieves less positive impact per pound donated than a Silver-rated charity)",
+  "UNSDG": "3",
+  "whyTags": "Elderly",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/logo-8987833772017455782.svg",
+  "@id": "sue-ryder",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sue_Ryder_(charity)",
+  "summaryDescription": "[Sue Ryder](https://www.sueryder.org/about-us) supports people living with a terminal illness, a neurological condition, or the loss of a loved one.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/img-the-chantry-nurse-patient-sue-ryder-15788152054213104316.jpg",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Sue Ryder",
+    "Sue Ryder",
+    "sue-ryder"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sue-ryder",
+      "name": "hours (singular: hour) of support",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 217486,
+        "value": "21.7486956521739143484000"
+      },
+      "amountGBP": 0.0,
+      "amountusd": 0.0,
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.sueryder.org/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "hours (singular: hour) of support",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 217486,
+      "value": "21.7486956521739143484000"
+    }
+  },
+  "name": "Sue Ryder",
+  "lastModified": "2020-09-19T14:01:37Z",
+  "category": "health",
+  "subcategory": "Health and Wellbeing",
+  "englandWalesCharityRegNum": "1052076",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom",
+  "status": "DRAFT"
+}
