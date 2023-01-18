@@ -1,5 +1,8 @@
 {
   "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "color": "#0fb2b7",
   "@type": "NGO",
   "suggest": [
@@ -16,5 +19,5 @@
   "category": "environment",
   "subcategory": "Climate Action",
   "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
