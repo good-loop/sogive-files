@@ -1,6 +1,9 @@
 {
   "scotlandCharityRegNum": "SC039570",
   "circleCrop": 75.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -1297,7 +1300,7 @@
   "whyTags": "International aid, Poverty, Disaster response, Children",
   "ready": true,
   "modified": true,
-  "logo": "https://media.good-loop.com/uploads/standard/save__the__children__campaign__the__branding__journal__2-300x232-3790874166475498439.png",
+  "logo": "https://media.good-loop.com/uploads/standard/save-the-children-2682017615327870088.svg#ccrop:90",
   "@id": "the-save-the-children-fund",
   "wikipedia": "https://en.wikipedia.org/wiki/Save_the_Children",
   "summaryDescription": "[Save the Children](https://www.savethechildren.org.uk/) works in over 100 countries to protect their rights and provide children with education, healthcare and disaster relief.",
@@ -1322,6 +1325,8 @@
         "value": "20.0",
         "name": ""
       },
+      "amountGBP": 0.0,
+      "amountusd": 0.0,
       "n": 1.0
     }
   ],
