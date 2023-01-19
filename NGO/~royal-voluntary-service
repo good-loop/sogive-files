@@ -57,6 +57,7 @@
   "@type": "NGO",
   "displayName": "Royal Voluntary Service",
   "name": "Royal Voluntary Service",
+  "logo": "https://media.good-loop.com/uploads/standard/RVS__charity__logo-10553716369676344220.png#ccrop:90",
   "@id": "royal-voluntary-service",
   "suggest": [
     "Royal Voluntary Service",
