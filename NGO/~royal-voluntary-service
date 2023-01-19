@@ -55,10 +55,13 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Royal Voluntary Service",
   "name": "Royal Voluntary Service",
   "@id": "royal-voluntary-service",
   "suggest": [
     "Royal Voluntary Service",
+    "Royal Voluntary Service",
     "royal-voluntary-service"
-  ]
+  ],
+  "status": "DRAFT"
 }
