@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Reform Alliance",
-  "name": "Reform Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/Reform-Alliance-10582296710421961570.jpeg#ccrop:90",
-  "id": "reform-alliance",
+  "displayName": "Coram Beanstalk",
+  "name": "Coram Beanstalk",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__97__9057011613-1834465192951335974.png#ccrop:90",
+  "id": "coram-beanstalk",
   "suggest": [
-    "Reform Alliance",
-    "Reform Alliance"
+    "Coram Beanstalk",
+    "Coram Beanstalk"
   ],
+  "url": "https://www.beanstalkcharity.org.uk/",
   "status": "DRAFT"
 }
