@@ -3,7 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Wash United",
+  "name": "Wash United",
   "id": "wash-united",
-  "suggest": [],
+  "suggest": [
+    "Wash United",
+    "Wash United"
+  ],
   "status": "DRAFT"
 }
