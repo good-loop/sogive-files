@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Wash United",
-  "name": "Wash United",
-  "logo": "https://media.good-loop.com/uploads/standard/WASH__hor-p-500-11433283034952727062.png",
-  "id": "wash-united",
+  "created": "2023-01-20T17:35:15Z",
+  "name": "Sierra Delta, Inc",
+  "id": "sierra-delta-inc",
   "suggest": [
-    "Wash United",
-    "Wash United"
+    "Sierra Delta, Inc"
   ],
-  "url": "https://www.wash-united.org/",
-  "status": "DRAFT"
+  "category": "community",
+  "url": "https://sierradelta.com/",
+  "crm": "3845468619@2506405019@monday.com",
+  "UNSDG": 3.0
 }
