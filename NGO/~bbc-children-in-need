@@ -151,7 +151,7 @@
   "whyTags": "Children",
   "ready": true,
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/1200px-BBC__Children__in__Need.svg__-3520899071516896132.png",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-BBC__Children__in__Need.svg__-3520899071516896132.png#ccrop:90",
   "@id": "bbc-children-in-need",
   "wikipedia": "https://en.wikipedia.org/wiki/Children_in_Need",
   "summaryDescription": "Children in Need is the BBC\u0027s corporate charity. They exist to change the lives of children and young people across the UK.",
@@ -210,5 +210,5 @@
   "suggestedDonations": [
     {}
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
