@@ -1,6 +1,9 @@
 {
   "scotlandCharityRegNum": "SCO39700",
   "ukCompanyRegNum": "02780643",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
