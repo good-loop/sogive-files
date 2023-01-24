@@ -1,16 +1,18 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-2846337044857385189.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
+  "headerImage": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-3848078238635360360.png",
   "@type": "NGO",
-  "created": "2023-01-06T09:35:55Z",
-  "name": "Sierra Delta",
-  "logo": "https://media.good-loop.com/uploads/standard/at-ease-3869747630956508705.png",
-  "id": "sierra-delta",
+  "unlisted": true,
+  "displayName": "Charity Placeholder",
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/charity_1-1269627576372478032.png",
+  "description": "Charity description here...",
+  "id": "charity-placeholder",
   "suggest": [
-    "Sierra Delta"
+    "Charity Placeholder"
   ],
-  "crm": "3762924979@2506405019@monday.com",
   "status": "PUBLISHED"
 }
