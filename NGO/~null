@@ -3,6 +3,7 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_1-10330570791355824480.png",
   "id": "charity-placeholder-2",
   "suggest": [],
   "status": "DRAFT"
