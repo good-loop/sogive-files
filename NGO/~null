@@ -1,18 +1,15 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-2846337044857385189.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "headerImage": "https://media.good-loop.com/uploads/standard/IH_Charity_image_template-3848078238635360360.png",
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Charity Placeholder",
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/charity_2-12213078036898032028.png",
-  "description": "Charity description here...",
-  "id": "charity-placeholder",
+  "displayName": "Placeholder-german",
+  "name": "Placeholder-german",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_2-5460551132161689141.png",
+  "id": "charity-placeholder-2",
   "suggest": [
-    "Charity Placeholder"
+    "Placeholder-german",
+    "Placeholder-german"
   ],
   "status": "PUBLISHED"
 }
