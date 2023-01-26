@@ -3,12 +3,16 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "OnSide",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_13-8500372293987551542.svg#ccrop:90",
-  "id": "onside-uk",
+  "unlisted": true,
+  "ready": false,
+  "displayName": "don\u0027t use this",
+  "name": "Not a real charity",
+  "logo": "https://media.good-loop.com/uploads/standard/generic-logo-placeholder-15978530718025565794.svg",
+  "id": "not-a-real-charity",
   "suggest": [
-    "OnSide"
+    "Not a real charity",
+    "don\u0027t use this"
   ],
-  "url": "https://www.onsideyouthzones.org/",
-  "status": "DRAFT"
+  "url": "https://duckduckgo.com",
+  "status": "PUBLISHED"
 }
