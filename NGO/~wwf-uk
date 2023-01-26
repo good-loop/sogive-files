@@ -1,6 +1,9 @@
 {
   "scotlandCharityRegNum": "SC039593",
   "circleCrop": 81.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -671,5 +674,5 @@
   "imageList": [],
   "whereTags": "World",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
