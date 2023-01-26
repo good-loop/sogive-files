@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Placeholder english",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Charity-Placeholder-2632312277546732498.png",
-  "id": "placeholder-english",
+  "displayName": "Activity Alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/efds-08e034a3b1a1993809de9c74d10a6cb8-4081682834514272820.svg#ccrop:70",
+  "id": "activity-alliance",
   "suggest": [
-    "Placeholder english"
+    "Activity Alliance"
   ],
+  "url": "https://www.activityalliance.org.uk/",
   "status": "DRAFT"
 }
