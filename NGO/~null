@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Placeholder english",
+  "unlisted": true,
   "id": "placeholder-english",
   "suggest": [
     "Placeholder english"
