@@ -1,14 +1,5 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Placeholder english",
-  "unlisted": true,
-  "logo": "https://media.good-loop.com/uploads/standard/Charity-Placeholder-2632312277546732498.png",
-  "id": "placeholder-english",
-  "suggest": [
-    "Placeholder english"
-  ],
-  "status": "DRAFT"
+  "id": "activity-alliance",
+  "suggest": []
 }
