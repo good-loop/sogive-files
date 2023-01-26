@@ -4,10 +4,11 @@
   },
   "@type": "NGO",
   "displayName": "Activity Alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/efds-08e034a3b1a1993809de9c74d10a6cb8-4081682834514272820.svg#ccrop:70",
   "id": "activity-alliance",
   "suggest": [
     "Activity Alliance"
   ],
-  "url": "",
+  "url": "https://www.activityalliance.org.uk/",
   "status": "DRAFT"
 }
