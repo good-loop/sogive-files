@@ -1,0 +1,134 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2.0,
+          "confidence": "medium",
+          "name": " research project(s) pursued"
+        },
+        {
+          "number": 1.0,
+          "confidence": "medium",
+          "name": " education project(s) pursued"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001159778_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10168484\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1159778%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5046291"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "98,945",
+          "currency": "GBP",
+          "value100p": 9.8945E8,
+          "value": 98945.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "54,000",
+        "currency": "GBP",
+        "value100p": 5.4E8,
+        "value": 54000.0
+      }
+    }
+  ],
+  "color": "#e94b35",
+  "@type": "NGO",
+  "displayName": "London Mining Network",
+  "description": "[London mining network](https://londonminingnetwork.org/what-we-do/) advocates for mining-affected communities in London. They support campaigns and petitions, write letters, and research the impact of mining on human rights.",
+  "recommendation": "We couldn\u0027t find information on how LMN uses its money.",
+  "whyTags": "Human rights, Community Development",
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/gergo.gaspar97gmail.comemail/up1-4774436897420473987.jpg",
+  "@id": "london-mining-network",
+  "id": "london-mining-network",
+  "summaryDescription": "[London mining network](https://londonminingnetwork.org/what-we-do/) supports communities badly affected by London-based mining companies.",
+  "uptodatedraft": "probably",
+  "images": "https://londonminingnetwork.org/wp-content/uploads/2017/11/Leandro-Taques-Cachoeira-Escura-Police-Shot-2016.jpg",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "London Mining Network",
+    "London Mining Network",
+    "london-mining-network"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "london-mining-network",
+      "name": " research project(s) pursued",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 494725000,
+        "value": "49472.5"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://londonminingnetwork.org/about/",
+  "howTags": "Research, Raising Awareness",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": " research project(s) pursued",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 494725000,
+      "value": "49472.5"
+    }
+  },
+  "meta": {
+    "description": {
+      "notes": ""
+    }
+  },
+  "name": "London Mining Network",
+  "logo_white": "https://app.sogive.org/uploads/danielgood-loop.comemail/logo3-13043475209833907719.png",
+  "lastModified": "2020-10-20T22:08:40Z",
+  "englandWalesCharityRegNum": "1159778",
+  "uk_giftaid": true,
+  "whereTags": "London, UK",
+  "status": "DRAFT"
+}
