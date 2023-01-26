@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Activity Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/efds-08e034a3b1a1993809de9c74d10a6cb8-4081682834514272820.svg#ccrop:70",
-  "id": "activity-alliance",
+  "displayName": "Street Games",
+  "logo": "https://media.good-loop.com/uploads/standard/01__-__sg__standard__logo__transparent-12348340209534867143.png#ccrop:85",
+  "id": "street-games",
   "suggest": [
-    "Activity Alliance"
+    "Street Games"
   ],
-  "url": "https://www.activityalliance.org.uk/",
+  "url": "https://www.streetgames.org/",
   "status": "DRAFT"
 }
