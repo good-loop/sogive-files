@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "battle-cancer",
-  "logo": "https://media.good-loop.com/uploads/standard/BC-Challenge__Off-Black__left__aligned__RGB-13095144384038154970.png",
-  "id": "battle-cancer",
+  "name": "hfc",
+  "id": "hfc",
   "suggest": [
-    "battle-cancer"
+    "hfc"
   ],
-  "url": "https://www.battlecancer.com/",
   "status": "DRAFT"
 }
