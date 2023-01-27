@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "hfc",
-  "logo": "https://media.good-loop.com/uploads/standard/625fcd27b2b4787e68031df0__logo_orange-7451220905004244033.svg#ccrop:85",
-  "id": "hfc",
+  "name": "battle-cancer",
+  "logo": "https://media.good-loop.com/uploads/standard/BC-Challenge__Off-Black__left__aligned__RGB-13095144384038154970.png#ccrop:92",
+  "id": "battle-cancer",
   "suggest": [
-    "hfc"
+    "battle-cancer"
   ],
-  "url": "https://www.wearehfc.org/",
+  "url": "https://www.battlecancer.com/",
   "status": "PUBLISHED"
 }
