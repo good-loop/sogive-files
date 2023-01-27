@@ -3,17 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Birdies For The Brave",
-  "name": "birdies-for-the-brave",
-  "logo": "https://media.good-loop.com/uploads/standard/media__1ebea4ae10be12a7b5126d4461f73b0739bea150c-7522087932953244691.png",
-  "description": "Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.",
-  "id": "birdies-for-the-brave",
+  "displayName": "First Tee",
+  "name": "first-tee",
+  "logo": "https://media.good-loop.com/uploads/standard/FT__Primary__Logo__RGB__White__Green-1536x280-5705999091653442615.png",
+  "description": "First Tee is a youth development organization that enables kids to build the strength of character that empowers them through a lifetime of new challenges. By seamlessly integrating the game of golf with a life skills curriculum, we create active learning experiences that build inner strength, self-confidence, and resilience that kids can carry to everything they do. We’re Building Game Changers through our junior golf programs.",
+  "id": "first-tee",
   "suggest": [
-    "birdies-for-the-brave",
-    "Birdies For The Brave"
+    "first-tee",
+    "First Tee"
   ],
-  "extendedDescription": "A joint effort between PGA TOUR, Inc., PGA TOUR Charities, Inc. and the PGA TOUR’s TPC Network, Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.\n\nConducted year-round across the PGA TOUR, PGA TOUR Champions and Korn Ferry Tour, Birdies for the Brave underscores the critical need to continue delivering compassionate care and vital services to those who have and continue to selflessly serve our country at home and abroad. The program’s mission is accomplished in partnership with 10 highly-rated military homefront charities that provide direct support for military personnel, veterans, severely injured heroes, and military families.",
-  "summaryDescription": "Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.",
-  "url": "https://birdiesforthebrave.org/",
+  "url": "https://firsttee.org/",
   "status": "DRAFT"
 }
