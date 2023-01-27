@@ -3,15 +3,17 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "USDGA",
-  "name": "USDGA",
-  "logo": "https://media.good-loop.com/uploads/standard/download-11825387068093458378.png",
-  "description": "We believe that golfers who have disabilities should be given an opportunity to showcase his or her talents in a championship style event. The objective is to bring our own championship to any golfer with a physical, intellectual, and sensory disability. With this design, we will reach golfers who never had the opportunity to compete in a national event. Our rules \u0026 regulations are set to provide a fair and competitive competition for all golfers despite what level of disability you may have.  Whether you are amputee, blind, cerebral palsy, wounded veterans, short stature, muscular dystrophy, and many others, this was made for you!!!",
-  "id": "usdga",
+  "displayName": "Birdies For The Brave",
+  "name": "birdies-for-the-brave",
+  "logo": "https://media.good-loop.com/uploads/standard/media__1ebea4ae10be12a7b5126d4461f73b0739bea150c-7522087932953244691.png#ccrop:76",
+  "description": "Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.",
+  "id": "birdies-for-the-brave",
   "suggest": [
-    "USDGA",
-    "USDGA"
+    "birdies-for-the-brave",
+    "Birdies For The Brave"
   ],
-  "url": "https://www.usdgagolf.org/",
-  "status": "DRAFT"
+  "extendedDescription": "A joint effort between PGA TOUR, Inc., PGA TOUR Charities, Inc. and the PGA TOUR’s TPC Network, Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.\n\nConducted year-round across the PGA TOUR, PGA TOUR Champions and Korn Ferry Tour, Birdies for the Brave underscores the critical need to continue delivering compassionate care and vital services to those who have and continue to selflessly serve our country at home and abroad. The program’s mission is accomplished in partnership with 10 highly-rated military homefront charities that provide direct support for military personnel, veterans, severely injured heroes, and military families.",
+  "summaryDescription": "Birdies for the Brave is a global military outreach initiative dedicated to honoring and expressing gratitude to the courageous men and women of our U.S. Armed Forces and their families.",
+  "url": "https://birdiesforthebrave.org/",
+  "status": "PUBLISHED"
 }
