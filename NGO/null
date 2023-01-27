@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "name": "hfc",
-  "logo": "https://media.good-loop.com/uploads/standard/625fcd27b2b4787e68031df0__logo_orange-7451220905004244033.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/625fcd27b2b4787e68031df0__logo_orange-7451220905004244033.svg#ccrop:85",
   "id": "hfc",
   "suggest": [
     "hfc"
   ],
   "url": "https://www.wearehfc.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
