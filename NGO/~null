@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "unlisted": true,
-  "name": "testdummydelete",
-  "id": "testdummydelete",
+  "name": "birdies-for-the-brave",
+  "id": "birdies-for-the-brave",
   "suggest": [
-    "testdummydelete"
+    "birdies-for-the-brave"
   ],
   "status": "DRAFT"
 }
