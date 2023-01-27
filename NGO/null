@@ -3,15 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "First Tee",
-  "name": "first-tee",
-  "logo": "https://media.good-loop.com/uploads/standard/FT__Primary__Logo__RGB__White__Green-1536x280-5705999091653442615.png",
-  "description": "First Tee is a youth development organization that enables kids to build the strength of character that empowers them through a lifetime of new challenges. By seamlessly integrating the game of golf with a life skills curriculum, we create active learning experiences that build inner strength, self-confidence, and resilience that kids can carry to everything they do. We’re Building Game Changers through our junior golf programs.",
-  "id": "first-tee",
+  "displayName": "USDGA",
+  "name": "USDGA",
+  "logo": "https://media.good-loop.com/uploads/standard/download-11825387068093458378.png",
+  "description": "We believe that golfers who have disabilities should be given an opportunity to showcase his or her talents in a championship style event. The objective is to bring our own championship to any golfer with a physical, intellectual, and sensory disability. With this design, we will reach golfers who never had the opportunity to compete in a national event. Our rules \u0026 regulations are set to provide a fair and competitive competition for all golfers despite what level of disability you may have.  Whether you are amputee, blind, cerebral palsy, wounded veterans, short stature, muscular dystrophy, and many others, this was made for you!!!",
+  "id": "usdga",
   "suggest": [
-    "first-tee",
-    "First Tee"
+    "USDGA",
+    "USDGA"
   ],
-  "url": "https://firsttee.org/",
+  "url": "https://www.usdgagolf.org/",
   "status": "DRAFT"
 }
