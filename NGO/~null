@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Ambitious About Autism",
-  "name": "Ambitious About Autism",
-  "logo": "https://media.good-loop.com/uploads/standard/Ambitious-about-Auitism-logo-8381974465545810377.jpg#ccrop:115",
-  "id": "ambitious-about-autism",
+  "name": "testdummydelete",
+  "id": "testdummydelete",
   "suggest": [
-    "Ambitious About Autism",
-    "Ambitious About Autism"
+    "testdummydelete"
   ],
-  "url": "https://www.ambitiousaboutautism.org.uk/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
