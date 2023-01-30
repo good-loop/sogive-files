@@ -1,14 +1,17 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-01-30T09:33:01Z",
-  "name": "Dwayne Simpson Foundation CIC",
-  "id": "dwayne-simpson-foundation-cic",
+  "displayName": "Girl Up",
+  "name": "girl up UN foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/NEW_Girl_Up_Logo__Primary_Logo__Blk__Type_1-14182103416551343585.png#ccrop:70",
+  "description": "",
+  "id": "girl-up-",
   "suggest": [
-    "Dwayne Simpson Foundation CIC"
+    "girl up UN foundation",
+    "Girl Up"
   ],
-  "url": "www.dsfcic.co.uk",
-  "crm": "3891950927@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "url": "https://girlup.org/",
+  "status": "DRAFT"
 }
