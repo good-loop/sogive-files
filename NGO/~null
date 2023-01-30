@@ -5,7 +5,7 @@
   "@type": "NGO",
   "displayName": "Girl Up",
   "name": "girl up UN foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/23-238460__girl-up-logo-hd-png-download-883850393509335530.png",
+  "logo": "https://media.good-loop.com/uploads/standard/NEW_Girl_Up_Logo__Primary_Logo__Blk__Type_1-14182103416551343585.png#ccrop:80",
   "description": "",
   "id": "girl-up-",
   "suggest": [
@@ -13,5 +13,5 @@
     "Girl Up"
   ],
   "url": "https://girlup.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
