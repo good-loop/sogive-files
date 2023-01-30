@@ -1,15 +1,17 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-01-30T15:56:18Z",
-  "name": "Labdoo.org e.V.",
-  "id": "labdoo-org-e-v",
+  "displayName": "Life For A Child",
+  "name": "life-for-a-child",
+  "logo": "https://media.good-loop.com/uploads/standard/LFAC__22__logo__black-16850416428521635621.png",
+  "description": "Life for a Child exists - and will continue to exist - until no child dies of diabetes for want of a timely diagnosis, suitable treatment, or ongoing care.",
+  "id": "life-for-a-child",
   "suggest": [
-    "Labdoo.org e.V."
+    "life-for-a-child",
+    "Life For A Child"
   ],
-  "category": "education",
-  "url": "https://www.labdoo.org",
-  "crm": "3894656234@2506405019@monday.com",
-  "UNSDG": 4.0,
-  "status": "PUBLISHED"
+  "url": "https://lifeforachild.org/",
+  "status": "DRAFT"
 }
