@@ -227,11 +227,11 @@
     }
   },
   "name": "REWILDING BRITAIN",
-  "logo": "https://media.good-loop.com/uploads/standard/rwb-logo-12571758618532683633.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/rwb-logo-12571758618532683633.svg#ccrop:85",
   "@id": "rewilding-britain",
   "summaryDescription": "We want to make the world a better place by restoring wild nature and building a rewilding movement across Britain.",
   "englandWalesCharityRegNum": "1159373",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
