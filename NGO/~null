@@ -1,17 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Life For A Child",
-  "name": "life-for-a-child",
-  "logo": "https://media.good-loop.com/uploads/standard/LFAC__22__logo__black-16850416428521635621.png#ccrop:66",
-  "description": "Life for a Child exists - and will continue to exist - until no child dies of diabetes for want of a timely diagnosis, suitable treatment, or ongoing care.",
-  "id": "life-for-a-child",
+  "name": "Farming-and-Wildlife-advisory-group",
+  "id": "farming-and-wildlife-advisory-group",
   "suggest": [
-    "life-for-a-child",
-    "Life For A Child"
+    "Farming-and-Wildlife-advisory-group"
   ],
-  "url": "https://lifeforachild.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
