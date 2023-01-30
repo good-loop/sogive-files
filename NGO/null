@@ -1,14 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "battle-cancer",
-  "logo": "https://media.good-loop.com/uploads/standard/BC-Challenge__Off-Black__left__aligned__RGB-13095144384038154970.png#ccrop:92",
-  "id": "battle-cancer",
+  "created": "2023-01-30T09:33:01Z",
+  "name": "Dwayne Simpson Foundation CIC",
+  "id": "dwayne-simpson-foundation-cic",
   "suggest": [
-    "battle-cancer"
+    "Dwayne Simpson Foundation CIC"
   ],
-  "url": "https://www.battlecancer.com/",
-  "status": "MODIFIED"
+  "url": "www.dsfcic.co.uk",
+  "crm": "3891950927@2506405019@monday.com",
+  "UNSDG": 3.0
 }
