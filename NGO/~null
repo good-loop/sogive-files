@@ -1,9 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "Farming-and-Wildlife-advisory-group",
+  "name": "farming-and-wildlife-advisory-group",
   "id": "farming-and-wildlife-advisory-group",
   "suggest": [
-    "Farming-and-Wildlife-advisory-group"
+    "farming-and-wildlife-advisory-group"
   ],
   "status": "DRAFT"
 }
