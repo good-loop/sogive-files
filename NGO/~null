@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Life For A Child",
   "name": "life-for-a-child",
   "id": "life-for-a-child",
   "suggest": [
-    "life-for-a-child"
+    "life-for-a-child",
+    "Life For A Child"
   ],
   "status": "DRAFT"
 }
