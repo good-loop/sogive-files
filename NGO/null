@@ -6,11 +6,12 @@
   "displayName": "LLoyds Bank Foundation",
   "name": "LLoyds Bank Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/logo_14-5815801126642462203.svg#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/lloyds-bank-foundation-11783308133337437202.png#ccrop:95",
   "id": "lloyds-bank-foundation",
   "suggest": [
     "LLoyds Bank Foundation",
     "LLoyds Bank Foundation"
   ],
   "url": "https://www.lloydsbankfoundation.org.uk/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
