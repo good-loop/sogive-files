@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "LLoyds Bank FOundation",
-  "name": "lloyds-bank-foundation",
+  "displayName": "LLoyds Bank Foundation",
+  "name": "",
   "id": "lloyds-bank-foundation",
   "suggest": [
-    "lloyds-bank-foundation",
-    "LLoyds Bank FOundation"
+    "",
+    "LLoyds Bank Foundation"
   ],
   "status": "DRAFT"
 }
