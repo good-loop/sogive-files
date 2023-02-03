@@ -1,21 +1,12 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/aspca-14602870305467284395.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "color": "#fc641a",
   "@type": "NGO",
-  "displayName": "ASPCA",
-  "description": "The American Society for the Prevention of Cruelty to Animals® (ASPCA®) was the first humane society to be established in North America and is, today, one of the largest in the world.\n\nOur organization was founded on the belief that animals are entitled to kind and respectful treatment at the hands of humans and must be protected under the law. Headquartered in New York City, the ASPCA maintains a strong local presence, and with programs that extend our anti-cruelty mission across the country, we are recognized as a national animal welfare organization. We are a privately funded 501(c)(3) not-for-profit corporation, and are proud to boast more than 2 million supporters across the country.\n\nThe ASPCA’s mission, as stated by founder Henry Bergh in 1866, is \"to provide effective means for the prevention of cruelty to animals throughout the United States.\"",
+  "name": "fight-for-sight ",
+  "id": "fight-for-sight-",
   "suggest": [
-    "American Society for the Prevention of Cruelty to Animals ",
-    "ASPCA"
+    "fight-for-sight "
   ],
-  "url": "https://www.aspca.org",
-  "name": "American Society for the Prevention of Cruelty to Animals ",
-  "logo": "https://media.good-loop.com/uploads/standard/aspca-logo-15790348645854166950.png#ccrop:95",
-  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
-  "category": "animals",
-  "subcategory": "Animal Rights, Welfare, and Services",
   "status": "DRAFT"
 }
