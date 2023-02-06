@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Fight For Sight",
-  "name": "Fight-For-Sight ",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-new-orange-5295603537660556093.png#ccrop:75",
-  "id": "fight-for-sight-",
+  "name": "united-through-sport",
+  "id": "united-through-sport",
   "suggest": [
-    "Fight-For-Sight ",
-    "Fight For Sight"
+    "united-through-sport"
   ],
-  "url": "https://www.fightforsight.org.uk/",
   "status": "DRAFT"
 }
