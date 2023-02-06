@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "United Through Sport",
   "name": "united-through-sport",
   "logo": "https://media.good-loop.com/uploads/standard/logo-uts-1774195343573675172.svg#ccrop:80",
   "id": "united-through-sport",
   "suggest": [
-    "united-through-sport"
+    "united-through-sport",
+    "United Through Sport"
   ],
   "url": "https://travel.unitedthroughsport.org/",
   "status": "DRAFT"
