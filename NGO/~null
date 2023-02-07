@@ -1,16 +1,21 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/aspca-14602870305467284395.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "color": "#fc641a",
   "@type": "NGO",
-  "displayName": "Earth Day ",
-  "name": "earth-day",
-  "logo": "https://media.good-loop.com/uploads/standard/main-logo-3739577152768450342.png#ccrop:106",
-  "description": "EARTHDAY.ORG’s mission is to diversify, educate and activate the environmental movement worldwide. Growing out of the first Earth Day in 1970, EARTHDAY.ORG is the world’s largest recruiter to the environmental movement, working with more than 150,000 partners in over 192 countries to drive positive action for our planet. \n\n",
-  "id": "earth-day",
+  "displayName": "ASPCA",
+  "description": "The American Society for the Prevention of Cruelty to Animals® (ASPCA®) was the first humane society to be established in North America and is, today, one of the largest in the world.\n\nOur organization was founded on the belief that animals are entitled to kind and respectful treatment at the hands of humans and must be protected under the law. Headquartered in New York City, the ASPCA maintains a strong local presence, and with programs that extend our anti-cruelty mission across the country, we are recognized as a national animal welfare organization. We are a privately funded 501(c)(3) not-for-profit corporation, and are proud to boast more than 2 million supporters across the country.\n\nThe ASPCA’s mission, as stated by founder Henry Bergh in 1866, is \"to provide effective means for the prevention of cruelty to animals throughout the United States.\"",
   "suggest": [
-    "earth-day",
-    "Earth Day "
+    "American Society for the Prevention of Cruelty to Animals ",
+    "ASPCA"
   ],
+  "url": "https://www.aspca.org",
+  "name": "American Society for the Prevention of Cruelty to Animals ",
+  "logo": "https://media.good-loop.com/uploads/standard/aspca-watv-11216612574243678754.svg",
+  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
+  "category": "animals",
+  "subcategory": "Animal Rights, Welfare, and Services",
   "status": "PUBLISHED"
 }
