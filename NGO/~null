@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Earth Day ",
   "name": "earth-day",
+  "logo": "https://media.good-loop.com/uploads/standard/main-logo-3739577152768450342.png",
   "id": "earth-day",
   "suggest": [
     "earth-day",
