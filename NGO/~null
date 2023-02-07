@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Earth Day ",
   "name": "earth-day",
   "id": "earth-day",
   "suggest": [
-    "earth-day"
+    "earth-day",
+    "Earth Day "
   ],
   "status": "DRAFT"
 }
