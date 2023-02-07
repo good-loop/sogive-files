@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Earth Day ",
   "name": "earth-day",
-  "logo": "https://media.good-loop.com/uploads/standard/main-logo-3739577152768450342.png",
+  "logo": "https://media.good-loop.com/uploads/standard/main-logo-3739577152768450342.png#ccrop:106",
   "description": "EARTHDAY.ORG’s mission is to diversify, educate and activate the environmental movement worldwide. Growing out of the first Earth Day in 1970, EARTHDAY.ORG is the world’s largest recruiter to the environmental movement, working with more than 150,000 partners in over 192 countries to drive positive action for our planet. \n\n",
   "id": "earth-day",
   "suggest": [
     "earth-day",
     "Earth Day "
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
