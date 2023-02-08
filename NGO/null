@@ -1,21 +1,16 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/aspca-14602870305467284395.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "color": "#fc641a",
   "@type": "NGO",
-  "displayName": "ASPCA",
-  "description": "The American Society for the Prevention of Cruelty to Animals® (ASPCA®) was the first humane society to be established in North America and is, today, one of the largest in the world.\n\nOur organization was founded on the belief that animals are entitled to kind and respectful treatment at the hands of humans and must be protected under the law. Headquartered in New York City, the ASPCA maintains a strong local presence, and with programs that extend our anti-cruelty mission across the country, we are recognized as a national animal welfare organization. We are a privately funded 501(c)(3) not-for-profit corporation, and are proud to boast more than 2 million supporters across the country.\n\nThe ASPCA’s mission, as stated by founder Henry Bergh in 1866, is \"to provide effective means for the prevention of cruelty to animals throughout the United States.\"",
+  "displayName": "Guts UK",
+  "name": "guts-uk",
+  "logo": "https://media.good-loop.com/uploads/standard/Brand-beacon-tilted-right-12274301110289119571.png#ccrop:120",
+  "id": "guts-uk",
   "suggest": [
-    "American Society for the Prevention of Cruelty to Animals ",
-    "ASPCA"
+    "guts-uk",
+    "Guts UK"
   ],
-  "url": "https://www.aspca.org",
-  "name": "American Society for the Prevention of Cruelty to Animals ",
-  "logo": "https://media.good-loop.com/uploads/standard/aspca-watv-11216612574243678754.svg#ccrop:90",
-  "id": "american-society-for-the-prevention-of-cruelty-to-animals",
-  "category": "animals",
-  "subcategory": "Animal Rights, Welfare, and Services",
-  "status": "MODIFIED"
+  "url": "https://gutscharity.org.uk/",
+  "status": "DRAFT"
 }
