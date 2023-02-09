@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Covenant House",
   "name": "covenant-house",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-12397003951929654730.png",
   "id": "covenant-house",
   "suggest": [
     "covenant-house",
