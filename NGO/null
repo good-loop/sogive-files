@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Guts UK",
-  "name": "guts-uk",
-  "logo": "https://media.good-loop.com/uploads/standard/Brand-beacon-tilted-right-12274301110289119571.png#ccrop:120",
-  "id": "guts-uk",
+  "displayName": "The Humane Society of the United States",
+  "name": "The humane society of the United States",
+  "logo": "https://media.good-loop.com/uploads/standard/download_8-12456770249649879184.png",
+  "id": "the-humane-society-of-the-united-states",
   "suggest": [
-    "guts-uk",
-    "Guts UK"
+    "The humane society of the United States",
+    "The Humane Society of the United States"
   ],
-  "url": "https://gutscharity.org.uk/",
   "status": "DRAFT"
 }
