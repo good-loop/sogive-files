@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Humane Society of the United States",
-  "name": "The humane society of the United States",
-  "logo": "https://media.good-loop.com/uploads/standard/download_8-12456770249649879184.png",
-  "id": "the-humane-society-of-the-united-states",
+  "name": "covenant-house",
+  "id": "covenant-house",
   "suggest": [
-    "The humane society of the United States",
-    "The Humane Society of the United States"
+    "covenant-house"
   ],
   "status": "DRAFT"
 }
