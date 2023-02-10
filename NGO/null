@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "I Need Diverse Games",
-  "name": "I-need-diverse-games",
-  "logo": "https://media.good-loop.com/uploads/standard/J5Ehb88WpFGtzTpg10I05KwlTyZIsWojUZKvNdsMiHnD2dFy61K2zLXN0sfAxxiA__large__2-14430741689526370084.png#ccrop:110",
-  "id": "i-need-diverse-games",
+  "displayName": "Black Girls Code",
+  "logo": "https://media.good-loop.com/uploads/standard/download_14-1643648525489331267.png#ccrop:80",
+  "altlogo": "https://media.good-loop.com/uploads/standard/BGC-logo-white-01_1-6644309273547269818.svg#ccrop:90",
+  "id": "black-girls-code",
   "suggest": [
-    "I-need-diverse-games",
-    "I Need Diverse Games"
+    "Black Girls Code"
   ],
-  "url": "https://ineeddiversegames.org/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
