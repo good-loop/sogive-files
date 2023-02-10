@@ -3,8 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Black Girls Code",
   "logo": "https://media.good-loop.com/uploads/standard/download_14-1643648525489331267.png#ccrop:80",
   "id": "black-girls-code",
-  "suggest": [],
-  "status": "MODIFIED"
+  "suggest": [
+    "Black Girls Code"
+  ],
+  "status": "DRAFT"
 }
