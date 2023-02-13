@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Greater Good Charities",
   "name": "greater-good-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood_Logo-black-3168802399593157115.png#ccrop:70",
+  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood_Logo-black-261507939183298289.png#ccrop:75",
   "id": "greater-good-charities-",
   "suggest": [
     "greater-good-charities",
     "Greater Good Charities"
   ],
   "url": "https://greatergood.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
