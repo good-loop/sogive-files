@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Lucky Lab Rescue \u0026 Adaptation",
-  "name": "lucky-lab-rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/llr__logo__stretch__rgb2-11718411254443038991.png#ccrop:90",
-  "id": "lucky-lab-rescue",
+  "displayName": "Greater Good Charities",
+  "name": "greater-good-charities",
+  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood_Logo-black-3168802399593157115.png#ccrop:70",
+  "id": "greater-good-charities-",
   "suggest": [
-    "lucky-lab-rescue",
-    "Lucky Lab Rescue \u0026 Adaptation"
+    "greater-good-charities",
+    "Greater Good Charities"
   ],
+  "url": "https://greatergood.org/",
   "status": "PUBLISHED"
 }
