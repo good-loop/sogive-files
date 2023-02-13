@@ -3,12 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "unlisted": true,
-  "name": "teenage-cancer-specialist",
-  "logo": "https://media.good-loop.com/uploads/standard/charity_copy_2-6731916377054729786.png",
-  "id": "teenage-cancer-specialist",
+  "name": "teenage-cancer-events",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_copy_2_1-15123844469925563631.png",
+  "id": "teenage-cancer-events",
   "suggest": [
-    "teenage-cancer-specialist"
+    "teenage-cancer-events"
   ],
   "status": "DRAFT"
 }
