@@ -4,11 +4,13 @@
   },
   "@type": "NGO",
   "displayName": "Pet Smart Charities",
+  "unlisted": true,
   "name": "pet-smart-charities",
   "id": "pet-smart-charities",
   "suggest": [
     "pet-smart-charities",
     "Pet Smart Charities"
   ],
+  "url": "https://petsmartcharities.org/",
   "status": "DRAFT"
 }
