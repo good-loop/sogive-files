@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Greater Good Charities",
-  "name": "greater-good-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/Hpy5DQZb__400x400-7333567519082083412.jpg#ccrop:115",
-  "id": "greater-good-charities-",
+  "unlisted": true,
+  "name": "teenage-cancer-specialist",
+  "logo": "https://media.good-loop.com/uploads/standard/charity_copy_2-6731916377054729786.png",
+  "id": "teenage-cancer-specialist",
   "suggest": [
-    "greater-good-charities",
-    "Greater Good Charities"
+    "teenage-cancer-specialist"
   ],
-  "url": "https://greatergood.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
