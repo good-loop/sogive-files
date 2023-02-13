@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Greater Good Charities",
-  "name": "greater-good-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/GreaterGood_Logo-black-3168802399593157115.png#ccrop:70",
-  "id": "greater-good-charities-",
+  "name": "lucky-lab-rescue",
+  "id": "lucky-lab-rescue",
   "suggest": [
-    "greater-good-charities",
-    "Greater Good Charities"
+    "lucky-lab-rescue"
   ],
-  "url": "https://greatergood.org/",
   "status": "DRAFT"
 }
