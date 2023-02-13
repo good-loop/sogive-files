@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "greater-good-charities ",
+  "displayName": "Greater Good Charities",
+  "name": "greater-good-charities",
   "id": "greater-good-charities-",
   "suggest": [
-    "greater-good-charities "
+    "greater-good-charities",
+    "Greater Good Charities"
   ],
   "status": "DRAFT"
 }
