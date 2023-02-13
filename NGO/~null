@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "teenage-cancer-events",
-  "logo": "https://media.good-loop.com/uploads/standard/charity_copy_2_1-15123844469925563631.png",
-  "id": "teenage-cancer-events",
+  "name": "teenage-cancer-apps",
+  "id": "teenage-cancer-apps",
   "suggest": [
-    "teenage-cancer-events"
+    "teenage-cancer-apps"
   ],
   "status": "DRAFT"
 }
