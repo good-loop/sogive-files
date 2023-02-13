@@ -3,15 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Pet Smart Charities",
-  "unlisted": true,
-  "name": "pet-smart-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_19-6138314414573782614.png#ccrop:90",
-  "id": "pet-smart-charities",
+  "displayName": "The Humane Society of the United States",
+  "name": "The humane society of the United States",
+  "logo": "https://media.good-loop.com/uploads/standard/download_8-12456770249649879184.png",
+  "id": "the-humane-society-of-the-united-states",
   "suggest": [
-    "pet-smart-charities",
-    "Pet Smart Charities"
+    "The humane society of the United States",
+    "The Humane Society of the United States"
   ],
-  "url": "https://petsmartcharities.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
