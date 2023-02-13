@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Pet Smart Charities",
   "name": "pet-smart-charities",
   "id": "pet-smart-charities",
   "suggest": [
-    "pet-smart-charities"
+    "pet-smart-charities",
+    "Pet Smart Charities"
   ],
   "status": "DRAFT"
 }
