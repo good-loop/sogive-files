@@ -3,10 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Lucky Lab Rescue \u0026 Adaptation",
   "name": "lucky-lab-rescue",
+  "logo": "https://media.good-loop.com/uploads/standard/llr__logo__stretch__rgb2-11718411254443038991.png#ccrop:90",
   "id": "lucky-lab-rescue",
   "suggest": [
-    "lucky-lab-rescue"
+    "lucky-lab-rescue",
+    "Lucky Lab Rescue \u0026 Adaptation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
