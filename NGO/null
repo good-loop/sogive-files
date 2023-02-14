@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "teenage-cancer-events",
-  "logo": "https://media.good-loop.com/uploads/standard/EVENTS_ACTIVITIES_FOR_YOUNG_PEOPLE-7110810816309220223.png",
-  "id": "teenage-cancer-events",
+  "name": "dwaynamics-abc",
+  "logo": "https://media.good-loop.com/uploads/standard/418202__Future_Movement_Digital_Production__GoodLoop_Frame__1920x1080-18247722843971914681.png",
+  "id": "dwaynamics-abc",
   "suggest": [
-    "teenage-cancer-events"
+    "dwaynamics-abc"
   ],
-  "status": "MODIFIED"
+  "url": "https://www.dsfcic.co.uk/",
+  "status": "DRAFT"
 }
