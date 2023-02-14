@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "unlisted": true,
-  "name": "teenage-cancer-apps",
-  "logo": "https://media.good-loop.com/uploads/standard/DEDICATED_APPS_FOR_CANCER-14077825300590206130.png",
-  "id": "teenage-cancer-apps",
+  "name": "dwaynamics-abc",
+  "id": "dwaynamics-abc",
   "suggest": [
-    "teenage-cancer-apps"
+    "dwaynamics-abc"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
