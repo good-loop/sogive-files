@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "name": "dwaynamics-abc",
-  "logo": "https://media.good-loop.com/uploads/standard/418202__Future_Movement_Digital_Production__GoodLoop_Frame__1920x1080-18247722843971914681.png",
+  "logo": "https://media.good-loop.com/uploads/standard/418202__Future_Movement_Digital_Production__GoodLoop_Frame__1920x1080-14004009288893073687.png",
   "id": "dwaynamics-abc",
   "suggest": [
     "dwaynamics-abc"
   ],
   "url": "https://www.dsfcic.co.uk/",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
