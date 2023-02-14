@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "dwaynamics-abc",
-  "logo": "https://media.good-loop.com/uploads/standard/418202__Future_Movement_Digital_Production__GoodLoop_Frame__1920x1080-14004009288893073687.png",
-  "id": "dwaynamics-abc",
+  "name": "getashot",
+  "id": "getashot",
   "suggest": [
-    "dwaynamics-abc"
+    "getashot"
   ],
-  "url": "https://www.dsfcic.co.uk/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
