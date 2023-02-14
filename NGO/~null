@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Get A Shot",
   "name": "getashot",
-  "logo": "https://media.good-loop.com/uploads/standard/ShotLife-Logo-No-lock-up-1183202159817080389.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/ShotLife-Logo-No-lock-up-1183202159817080389.jpg#ccrop:93",
   "id": "getashot",
   "suggest": [
     "getashot",
     "Get A Shot"
   ],
   "url": "https://shotatlife.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
