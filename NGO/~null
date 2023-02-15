@@ -5,14 +5,15 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-01-30T15:56:18Z",
-  "name": "Labdoo.org e.V.",
-  "id": "labdoo-org-e-v",
   "suggest": [
     "Labdoo.org e.V."
   ],
-  "category": "education",
   "url": "https://www.labdoo.org",
-  "crm": "3894656234@2506405019@monday.com",
   "UNSDG": 4.0,
-  "status": "PUBLISHED"
+  "name": "Labdoo.org e.V.",
+  "logo": "https://media.good-loop.com/uploads/standard/labdoo-logo-mit-Claim-9533157492323041055.png",
+  "id": "labdoo-org-e-v",
+  "category": "education",
+  "crm": "3894656234@2506405019@monday.com",
+  "status": "MODIFIED"
 }
