@@ -1,19 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-01-30T15:56:18Z",
+  "name": "indigenous literacy foundation",
+  "id": "indigenous-literacy-foundation",
   "suggest": [
-    "Labdoo.org e.V."
+    "indigenous literacy foundation"
   ],
-  "url": "https://www.labdoo.org",
-  "UNSDG": 4.0,
-  "name": "Labdoo.org e.V.",
-  "logo": "https://media.good-loop.com/uploads/standard/labdoo-logo-15448445796409701862.png",
-  "id": "labdoo-org-e-v",
-  "category": "education",
-  "crm": "3894656234@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
