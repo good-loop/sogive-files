@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Indigenous Literacy Foundation",
-  "name": "indigenous literacy foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-ilf-blue-transparent-v2-1922986506253764702.png#ccrop:83",
-  "id": "indigenous-literacy-foundation",
+  "name": "queer-britain",
+  "id": "queer-britain",
   "suggest": [
-    "indigenous literacy foundation",
-    "Indigenous Literacy Foundation"
+    "queer-britain"
   ],
   "status": "DRAFT"
 }
