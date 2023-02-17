@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Dolly\u0027s Dream",
   "name": "dollys dream",
   "id": "dollys-dream",
   "suggest": [
-    "dollys dream"
+    "dollys dream",
+    "Dolly\u0027s Dream"
   ],
   "status": "DRAFT"
 }
