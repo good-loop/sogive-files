@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Queer Britain ",
-  "name": "queer-britain",
-  "logo": "https://media.good-loop.com/uploads/standard/QB-STACK_1-v3-13868785150985309322.jpg",
-  "id": "queer-britain",
+  "displayName": "Dolly\u0027s Dream",
+  "name": "dollys dream",
+  "logo": "https://media.good-loop.com/uploads/standard/Dollys-Dream__logo__stacked-7231357824170953979.png#ccrop:110",
+  "id": "dollys-dream",
   "suggest": [
-    "queer-britain",
-    "Queer Britain "
+    "dollys dream",
+    "Dolly\u0027s Dream"
   ],
-  "url": "https://queerbritain.org.uk/",
+  "url": "https://dollysdream.org.au/",
   "status": "DRAFT"
 }
