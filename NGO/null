@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "White Lion ",
-  "name": "white-lion",
-  "logo": "https://media.good-loop.com/uploads/standard/youth-ckmy-15392186734806683564.png#ccrop:95",
-  "id": "white-lion",
+  "created": "2023-02-20T16:57:19Z",
+  "name": "The Prince and Princess of Wales Hospice - Glasgow",
+  "id": "the-prince-and-princess-of-wales-hospice-glasgow",
   "suggest": [
-    "white-lion",
-    "White Lion "
+    "The Prince and Princess of Wales Hospice - Glasgow"
   ],
-  "url": "https://www.whitelion.asn.au/",
-  "status": "DRAFT"
+  "category": "health",
+  "url": "https://www.princeandprincessofwaleshospice.org.uk/",
+  "crm": "4015850801@2506405019@monday.com",
+  "UNSDG": 17.0
 }
