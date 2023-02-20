@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Dolly\u0027s Dream",
-  "name": "dollys dream",
-  "logo": "https://media.good-loop.com/uploads/standard/Dollys-Dream__logo__stacked-7231357824170953979.png#ccrop:110",
-  "id": "dollys-dream",
+  "name": "kindness-factory",
+  "id": "kindness-factory",
   "suggest": [
-    "dollys dream",
-    "Dolly\u0027s Dream"
+    "kindness-factory"
   ],
-  "url": "https://dollysdream.org.au/",
   "status": "DRAFT"
 }
