@@ -1,16 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Kindness Factory",
-  "name": "kindness-factory",
-  "logo": "https://media.good-loop.com/uploads/standard/68777498__2297050080344808__6788500814135558144__n-1818167842982799165.jpg#ccrop:90",
-  "id": "kindness-factory",
+  "created": "2023-02-20T12:25:35Z",
+  "name": "Queer Britain Museum Ltd",
+  "id": "queer-britain-museum-ltd",
   "suggest": [
-    "kindness-factory",
-    "Kindness Factory"
+    "Queer Britain Museum Ltd"
   ],
-  "url": "https://kindnessfactory.com/",
-  "status": "DRAFT"
+  "url": "https://queerbritain.org.uk/",
+  "crm": "4013971528@2506405019@monday.com",
+  "UNSDG": 10.0
 }
