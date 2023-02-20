@@ -1,14 +1,16 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-02-20T12:25:35Z",
-  "name": "Queer Britain Museum Ltd",
-  "id": "queer-britain-museum-ltd",
+  "displayName": "White Lion ",
+  "name": "white-lion",
+  "logo": "https://media.good-loop.com/uploads/standard/youth-ckmy-15392186734806683564.png#ccrop:95",
+  "id": "white-lion",
   "suggest": [
-    "Queer Britain Museum Ltd"
+    "white-lion",
+    "White Lion "
   ],
-  "url": "https://queerbritain.org.uk/",
-  "crm": "4013971528@2506405019@monday.com",
-  "UNSDG": 10.0,
-  "status": "PUBLISHED"
+  "url": "https://www.whitelion.asn.au/",
+  "status": "DRAFT"
 }
