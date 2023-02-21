@@ -1,15 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-02-20T16:57:19Z",
-  "name": "The Prince and Princess of Wales Hospice - Glasgow",
-  "id": "the-prince-and-princess-of-wales-hospice-glasgow",
+  "displayName": "World Literacy Foundation",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/WLF-LOGO-web-300x300-1-11363976005453944541.png#ccrop:134",
+  "id": "world-literacy-foundation",
   "suggest": [
-    "The Prince and Princess of Wales Hospice - Glasgow"
+    "",
+    "World Literacy Foundation"
   ],
-  "category": "health",
-  "url": "https://www.princeandprincessofwaleshospice.org.uk/",
-  "crm": "4015850801@2506405019@monday.com",
-  "UNSDG": 17.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
