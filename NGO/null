@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "World Literacy Foundation",
-  "name": "World Literacy Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/WLF-LOGO-web-300x300-1-11363976005453944541.png#ccrop:134",
-  "id": "world-literacy-foundation",
+  "displayName": "Reading is Fundamental",
+  "name": "Reading is Fundamental",
+  "logo": "https://media.good-loop.com/uploads/standard/RIF__logo-13120919749841932641.jpg#ccrop:131",
+  "id": "reading-is-fundamental",
   "suggest": [
-    "World Literacy Foundation",
-    "World Literacy Foundation"
+    "Reading is Fundamental",
+    "Reading is Fundamental"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
