@@ -4,12 +4,12 @@
   },
   "@type": "NGO",
   "displayName": "World Literacy Foundation",
-  "name": "",
+  "name": "World Literacy Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/WLF-LOGO-web-300x300-1-11363976005453944541.png#ccrop:134",
   "id": "world-literacy-foundation",
   "suggest": [
-    "",
+    "World Literacy Foundation",
     "World Literacy Foundation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
