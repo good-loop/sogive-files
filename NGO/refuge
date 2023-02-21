@@ -1,5 +1,8 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/Refuge-14182336050328828367.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -549,18 +552,33 @@
     "Refuge",
     "refuge"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "refuge",
+      "name": "Women (singular: woman) and children (singular: child) housed in refuges",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 46256789,
+        "value": "4625.6789951151424912668"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://www.refuge.org.uk/",
   "whyTags": "Domestic violence, crime",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "women (singular: woman) supported by donations",
+    "name": "Women (singular: woman) and children (singular: child) housed in refuges",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 30826910,
-      "value": "3082.6910810810814201771"
+      "value100p": 46256789,
+      "value": "4625.6789951151424912668"
     }
   },
   "meta": {
@@ -578,5 +596,5 @@
   "englandWalesCharityRegNum": "277424",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
