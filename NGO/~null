@@ -3,10 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "World Literacy Foundation",
   "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/WLF-LOGO-web-300x300-1-11363976005453944541.png",
   "id": "world-literacy-foundation",
   "suggest": [
-    ""
+    "",
+    "World Literacy Foundation"
   ],
   "status": "DRAFT"
 }
