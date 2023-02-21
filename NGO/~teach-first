@@ -1,0 +1,118 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/Homepage__school_partnerships__1920x1024_V2-3867439878677284197.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 17350.0,
+          "confidence": "high",
+          "name": "trainees in schools across England and Wales",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "2554.76",
+            "currency": "",
+            "value100p": 2.55476E7,
+            "value": 2554.76
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.teachfirst.org.uk/sites/default/files/2020-03/TF_Annual_Report_v6.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "57600000",
+          "currency": "GBP",
+          "value100p": 5.76E11,
+          "value": 5.76E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "13275000",
+          "currency": "GBP",
+          "value100p": 1.3275E11,
+          "value": 1.3275E7
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "9000000",
+        "currency": "",
+        "value100p": 9.0E10,
+        "value": 9000000.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "confidence": "high",
+  "description": "They train young professionals to become teachers, place old teachers that have gone out of teaching, and redirect young professionals that are interested in switching careers to the field of teaching.\n\nThey also coach teachers and school leaders on leadership and strategic governance. ",
+  "recommendation": "This is a good organization doing good work, but it is mainly a teacher\u0027s academy. Part of their revenue comes from what schools pay to them. Note that they recruit and train teachers, but they do not pay their salaries, their schools do. Their main source of funding seems to be the government - government outsources training and recruitment of teachers. ",
+  "suggest": [
+    "Teach First",
+    "teach-first"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "teach-first",
+      "name": "trainees in schools across England and Wales",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 25547600,
+        "value": "2554.76",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.teachfirst.org.uk/",
+  "whyTags": "Education",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "trainees in schools across England and Wales",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 25547600,
+      "value": "2554.76",
+      "name": ""
+    }
+  },
+  "name": "Teach First",
+  "logo": "https://media.good-loop.com/uploads/raw/t_first-12831241644853532277.jpg",
+  "@id": "teach-first",
+  "lastModified": "2020-12-20T20:11:21Z",
+  "englandWalesCharityRegNum": "1098294",
+  "summaryDescription": "Teach First trains teachers and places them in disadvantaged schools. ",
+  "uptodatedraft": "probably",
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
