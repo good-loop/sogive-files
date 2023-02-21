@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "White Lion ",
-  "name": "white-lion",
-  "logo": "https://media.good-loop.com/uploads/standard/youth-ckmy-15392186734806683564.png#ccrop:95",
-  "id": "white-lion",
+  "name": "World Literacy Foundation",
+  "id": "world-literacy-foundation",
   "suggest": [
-    "white-lion",
-    "White Lion "
+    "World Literacy Foundation"
   ],
-  "url": "https://www.whitelion.asn.au/",
   "status": "DRAFT"
 }
