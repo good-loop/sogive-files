@@ -1,15 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Reading is Fundamental",
-  "name": "Reading is Fundamental",
-  "logo": "https://media.good-loop.com/uploads/standard/Reading__Is__Fundamental__2018-12105497176948301022.png#ccrop:92",
-  "id": "reading-is-fundamental",
+  "created": "2023-02-22T10:12:41Z",
+  "name": "We Don\u0027t Waste",
+  "id": "we-don-t-waste",
   "suggest": [
-    "Reading is Fundamental",
-    "Reading is Fundamental"
+    "We Don\u0027t Waste"
   ],
-  "status": "MODIFIED"
+  "crm": "4026694417@2506405019@monday.com"
 }
