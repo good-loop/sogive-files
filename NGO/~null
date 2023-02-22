@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Reading is Fundamental",
-  "name": "Reading is Fundamental",
-  "logo": "https://media.good-loop.com/uploads/standard/Reading__Is__Fundamental__2018-12105497176948301022.png#ccrop:92",
-  "id": "reading-is-fundamental",
+  "name": "Visa Foundation",
+  "id": "visa-foundation",
   "suggest": [
-    "Reading is Fundamental",
-    "Reading is Fundamental"
+    "Visa Foundation"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
