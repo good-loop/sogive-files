@@ -588,7 +588,7 @@
   },
   "ready": false,
   "name": "Refuge",
-  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/Refuge__logo-427805594093069054.svg#ccrop:_ccrop:101",
+  "logo": "https://media.good-loop.com/uploads/standard/download_26-18138295556421002250.png#ccrop:107",
   "@id": "refuge",
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/refuge_logo_white.png",
   "lastModified": "2020-11-26T16:07:09Z",
@@ -596,5 +596,5 @@
   "englandWalesCharityRegNum": "277424",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
