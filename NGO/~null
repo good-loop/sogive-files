@@ -3,13 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Westpac Rescue Helicopter Service",
-  "name": "westpac-rescue-helicopter-service",
-  "logo": "https://media.good-loop.com/uploads/standard/wrh-logo-png-blk-15535163648211222871.png#ccrop:80",
-  "id": "westpac-rescue-helicopter-service",
+  "displayName": "Vital Voices Global Partnerships ",
+  "logo": "https://media.good-loop.com/uploads/standard/vital-voices-17763618550509128901.png#ccrop:119",
+  "id": "vital-voices-global-partnership",
   "suggest": [
-    "westpac-rescue-helicopter-service",
-    "Westpac Rescue Helicopter Service"
+    "Vital Voices Global Partnerships "
   ],
-  "status": "DRAFT"
+  "url": "https://www.vitalvoices.org/",
+  "status": "MODIFIED"
 }
