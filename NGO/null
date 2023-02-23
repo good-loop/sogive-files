@@ -1,12 +1,16 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-02-23T15:35:10Z",
-  "name": "Plan Intl",
-  "id": "plan-intl",
+  "displayName": "Vital Voices Global Partnerships ",
+  "name": "Vital Voices Global Partnerships ",
+  "logo": "https://media.good-loop.com/uploads/standard/166e2f9c-3451-43eb-9e3a-bb20bfffe892-20200314-012942-12675984264761353075.png#ccrop:111",
+  "id": "vital-voices-global-partnership",
   "suggest": [
-    "Plan Intl"
+    "Vital Voices Global Partnerships ",
+    "Vital Voices Global Partnerships "
   ],
-  "crm": "4035673310@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "url": "https://www.vitalvoices.org/",
+  "status": "DRAFT"
 }
