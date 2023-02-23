@@ -1,16 +1,11 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "unlisted": true,
-  "displayName": "Plan International",
-  "created": "2023-02-23T15:33:24Z",
-  "name": "Plan International",
-  "logo": "https://media.good-loop.com/uploads/standard/plan-international-logo-15876726914121525519.svg#ccrop:90",
-  "id": "plan-international",
+  "created": "2023-02-23T15:35:10Z",
+  "name": "Plan Intl",
+  "id": "plan-intl",
   "suggest": [
-    "Plan International",
-    "Plan International"
+    "Plan Intl"
   ],
-  "crm": "4035660850@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "crm": "4035673310@2506405019@monday.com"
 }
