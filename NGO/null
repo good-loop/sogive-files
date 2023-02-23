@@ -1,15 +1,16 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Westpac Rescue Helicopter Service",
-  "name": "westpac-rescue-helicopter-service",
-  "logo": "https://media.good-loop.com/uploads/standard/wrh-logo-png-blk-15535163648211222871.png#ccrop:80",
-  "id": "westpac-rescue-helicopter-service",
+  "unlisted": true,
+  "displayName": "Plan International",
+  "created": "2023-02-23T15:33:24Z",
+  "name": "Plan International",
+  "logo": "https://media.good-loop.com/uploads/standard/plan-international-logo-15876726914121525519.svg#ccrop:90",
+  "id": "plan-international",
   "suggest": [
-    "westpac-rescue-helicopter-service",
-    "Westpac Rescue Helicopter Service"
+    "Plan International",
+    "Plan International"
   ],
-  "status": "DRAFT"
+  "crm": "4035660850@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
