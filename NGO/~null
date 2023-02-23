@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "look-good-feel-better",
-  "logo": "https://media.good-loop.com/uploads/standard/LGFB-Long-Logo-Pink-Women-12130873408005820147.png",
-  "id": "look-good-feel-better",
+  "name": "westpac-rescue-helicopter-service",
+  "id": "westpac-rescue-helicopter-service",
   "suggest": [
-    "look-good-feel-better"
+    "westpac-rescue-helicopter-service"
   ],
-  "url": "https://lookgoodfeelbetter.co.uk/",
   "status": "DRAFT"
 }
