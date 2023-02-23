@@ -3,13 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Visa Foundation",
-  "name": "Visa Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/visa-foundation-2986937902141532741.jpg#ccrop:87",
-  "id": "visa-foundation",
+  "name": "look-good-feel-better",
+  "logo": "https://media.good-loop.com/uploads/standard/LGFB-Long-Logo-Pink-Women-12130873408005820147.png",
+  "id": "look-good-feel-better",
   "suggest": [
-    "Visa Foundation",
-    "Visa Foundation"
+    "look-good-feel-better"
   ],
+  "url": "https://lookgoodfeelbetter.co.uk/",
   "status": "DRAFT"
 }
