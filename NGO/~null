@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Westpac Helicopter ",
+  "displayName": "Westpac Rescue Helicopter Service",
   "name": "westpac-rescue-helicopter-service",
   "id": "westpac-rescue-helicopter-service",
   "suggest": [
     "westpac-rescue-helicopter-service",
-    "Westpac Helicopter "
+    "Westpac Rescue Helicopter Service"
   ],
   "status": "DRAFT"
 }
