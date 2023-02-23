@@ -4,11 +4,13 @@
   },
   "@type": "NGO",
   "displayName": "Vital Voices Global Partnerships ",
+  "name": "Vital Voices Global Partnerships ",
   "logo": "https://media.good-loop.com/uploads/standard/vital-voices-17763618550509128901.png#ccrop:119",
   "id": "vital-voices-global-partnership",
   "suggest": [
+    "Vital Voices Global Partnerships ",
     "Vital Voices Global Partnerships "
   ],
   "url": "https://www.vitalvoices.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
