@@ -306,6 +306,7 @@
   "stories": "tst",
   "noPublicDonations": false,
   "impact": "high",
+  "confidence": "high",
   "suggest": [
     "Against Malaria Foundation",
     "Against Malaria Foundation",
@@ -323,8 +324,6 @@
         "value100p": 38500,
         "value": "3.85"
       },
-      "amountGBP": 0.0,
-      "amountusd": 0.0,
       "n": 1.0
     }
   ],
