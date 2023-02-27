@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Accumulate",
-  "name": "Accumulate: The Art School for the Homeless",
-  "logo": "https://media.good-loop.com/uploads/standard/Y0fucKkp__400x400-2564394050679528321.jpg#ccrop:104",
-  "id": "accumulate",
+  "displayName": "Cocoon",
+  "name": "Cocoon",
+  "logo": "https://media.good-loop.com/uploads/standard/download_2-4329507398324929541.png#ccrop:110",
+  "id": "cocoon",
   "suggest": [
-    "Accumulate: The Art School for the Homeless",
-    "Accumulate"
+    "Cocoon",
+    "Cocoon"
   ],
   "status": "DRAFT"
 }
