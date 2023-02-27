@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "BC Parks Foundation",
+  "name": "bc-parks-foundation",
   "id": "bc-parks-foundation",
   "suggest": [
-    "BC Parks Foundation"
+    "bc-parks-foundation"
   ],
   "status": "DRAFT"
 }
