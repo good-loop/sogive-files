@@ -1,12 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "The National Alliance on Mental Illness",
-  "id": "national-alliance-",
+  "name": "BC Parks Foundation",
+  "id": "bc-parks-foundation",
   "suggest": [
-    "The National Alliance on Mental Illness"
+    "BC Parks Foundation"
   ],
   "status": "DRAFT"
 }
