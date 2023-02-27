@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "BC Parks Foundation",
-  "name": "BC Parks Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/og-logo-10413518837034656563.png#ccrop:108",
-  "id": "bc-parks-foundation",
+  "displayName": "Kids Gardening",
+  "name": "Kids Gardening",
+  "logo": "https://media.good-loop.com/uploads/standard/KG-TagLogo__4c-SQ-10671080612939763556.png#ccrop:103",
+  "id": "kids-gardening",
   "suggest": [
-    "BC Parks Foundation",
-    "BC Parks Foundation"
+    "Kids Gardening",
+    "Kids Gardening"
   ],
   "status": "DRAFT"
 }
