@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cocoon",
-  "name": "Cocoon",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-4329507398324929541.png#ccrop:110",
-  "id": "cocoon",
+  "name": "national alliance ",
+  "id": "national-alliance-",
   "suggest": [
-    "Cocoon",
-    "Cocoon"
+    "national alliance "
   ],
   "status": "DRAFT"
 }
