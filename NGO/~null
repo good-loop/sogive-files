@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Partnership For A Healthier America",
-  "name": "Partnership For A Healthier America",
-  "logo": "https://media.good-loop.com/uploads/standard/app-icon-5252543595231014401.png#ccrop:113",
-  "id": "partnership-for-a-healthier-america",
+  "name": "Accumulate",
+  "id": "accumulate",
   "suggest": [
-    "Partnership For A Healthier America",
-    "Partnership For A Healthier America"
+    "Accumulate"
   ],
   "status": "DRAFT"
 }
