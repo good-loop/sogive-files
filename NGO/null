@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Partnership For A Healthier America",
-  "name": "Partnership For A Healthier America",
-  "logo": "https://media.good-loop.com/uploads/standard/app-icon-5252543595231014401.png#ccrop:113",
-  "id": "partnership-for-a-healthier-america",
+  "displayName": "Accumulate",
+  "name": "Accumulate: The Art School for the Homeless",
+  "logo": "https://media.good-loop.com/uploads/standard/Y0fucKkp__400x400-2564394050679528321.jpg#ccrop:104",
+  "id": "accumulate",
   "suggest": [
-    "Partnership For A Healthier America",
-    "Partnership For A Healthier America"
+    "Accumulate: The Art School for the Homeless",
+    "Accumulate"
   ],
   "status": "DRAFT"
 }
