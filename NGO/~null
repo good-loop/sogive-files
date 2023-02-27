@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Kids Gardening",
   "name": "Kids Gardening",
   "id": "kids-gardening",
   "suggest": [
+    "Kids Gardening",
     "Kids Gardening"
   ],
   "status": "DRAFT"
