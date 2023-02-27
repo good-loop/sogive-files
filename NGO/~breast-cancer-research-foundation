@@ -1,0 +1,18 @@
+{
+  "circleCrop": 85.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Breast Cancer Research Foundation",
+  "name": "breast-cancer-research-foundation",
+  "logo": "https://media.good-loop.com/uploads/raw/Breast__Cancer__Research__Foundation__logo-7225857847251383651.svg",
+  "@id": "breast-cancer-research-foundation",
+  "suggest": [
+    "breast-cancer-research-foundation",
+    "Breast Cancer Research Foundation",
+    "breast-cancer-research-foundation"
+  ],
+  "id": "breast-cancer-research-foundation",
+  "status": "PUBLISHED"
+}
