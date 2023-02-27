@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "better-world-community-fund",
-  "id": "better-world-community-fund",
+  "name": "Partnership For A Healthier America",
+  "id": "partnership-for-a-healthier-america",
   "suggest": [
-    "better-world-community-fund"
+    "Partnership For A Healthier America"
   ],
   "status": "DRAFT"
 }
