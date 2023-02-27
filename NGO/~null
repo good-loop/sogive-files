@@ -1,9 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "bc-parks-foundation",
+  "name": "BC Parks Foundation",
   "id": "bc-parks-foundation",
   "suggest": [
-    "bc-parks-foundation"
+    "BC Parks Foundation"
   ],
   "status": "DRAFT"
 }
