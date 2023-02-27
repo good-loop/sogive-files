@@ -1,12 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-02-27T14:38:56Z",
-  "name": "flying Start",
-  "id": "flying-start",
+  "displayName": "Partnership For A Healthier America",
+  "name": "Partnership For A Healthier America",
+  "logo": "https://media.good-loop.com/uploads/standard/app-icon-5252543595231014401.png#ccrop:113",
+  "id": "partnership-for-a-healthier-america",
   "suggest": [
-    "flying Start"
+    "Partnership For A Healthier America",
+    "Partnership For A Healthier America"
   ],
-  "crm": "4051505931@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
