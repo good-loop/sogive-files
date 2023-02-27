@@ -1,16 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Vital Voices Global Partnerships ",
-  "name": "Vital Voices Global Partnerships ",
-  "logo": "https://media.good-loop.com/uploads/standard/166e2f9c-3451-43eb-9e3a-bb20bfffe892-20200314-012942-12675984264761353075.png#ccrop:111",
-  "id": "vital-voices-global-partnership",
+  "created": "2023-02-27T14:38:56Z",
+  "name": "flying Start",
+  "id": "flying-start",
   "suggest": [
-    "Vital Voices Global Partnerships ",
-    "Vital Voices Global Partnerships "
+    "flying Start"
   ],
-  "url": "https://www.vitalvoices.org/",
-  "status": "DRAFT"
+  "crm": "4051505931@2506405019@monday.com"
 }
