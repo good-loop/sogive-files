@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "C",
   "name": "Cocoon",
   "id": "cocoon",
   "suggest": [
-    "Cocoon"
+    "Cocoon",
+    "C"
   ],
   "status": "DRAFT"
 }
