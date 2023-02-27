@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "Accumulate",
+  "name": "accumulate",
   "id": "accumulate",
   "suggest": [
-    "Accumulate"
+    "accumulate"
   ],
   "status": "DRAFT"
 }
