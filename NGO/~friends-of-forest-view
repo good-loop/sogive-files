@@ -5,11 +5,12 @@
   },
   "@type": "NGO",
   "name": "Friends Of Forest View",
+  "logo": "https://media.good-loop.com/uploads/standard/1200px-HD__transparent__picture-14997299798193881590.png",
   "@id": "friends-of-forest-view",
   "suggest": [
     "Friends Of Forest View",
     "friends-of-forest-view"
   ],
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
