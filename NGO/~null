@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "unlisted": true,
-  "name": "vocational-training-centre",
-  "logo": "https://media.good-loop.com/uploads/standard/Vox_Zambia-585334895410013706.png",
-  "id": "vocational-training-centre",
+  "name": "primary-school-madagascar",
+  "id": "primary-school-madagascar",
   "suggest": [
-    "vocational-training-centre"
+    "primary-school-madagascar"
   ],
   "status": "DRAFT"
 }
