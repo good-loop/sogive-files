@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Sporthilfe",
   "name": "sporthilfe",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-6697140236174250032.png",
   "id": "sporthilfe",
   "suggest": [
     "sporthilfe",
