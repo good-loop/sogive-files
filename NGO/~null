@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Primary school build",
+  "displayName": "Primary school build, Madagascar",
   "name": "primary-school-madagascar",
   "id": "primary-school-madagascar",
   "suggest": [
     "primary-school-madagascar",
-    "Primary school build"
+    "Primary school build, Madagascar"
   ],
   "status": "DRAFT"
 }
