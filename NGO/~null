@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Primary school build, Madagascar",
-  "name": "primary-school-madagascar",
-  "logo": "https://media.good-loop.com/uploads/standard/Primary_school_construction_Madagascar_1-14200881691857529982.png",
-  "id": "primary-school-madagascar",
+  "name": "sporthilfe",
+  "id": "sporthilfe",
   "suggest": [
-    "primary-school-madagascar",
-    "Primary school build, Madagascar"
+    "sporthilfe"
   ],
-  "url": "",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
