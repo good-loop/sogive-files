@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Sporthilfe",
   "name": "sporthilfe",
   "id": "sporthilfe",
   "suggest": [
-    "sporthilfe"
+    "sporthilfe",
+    "Sporthilfe"
   ],
   "status": "DRAFT"
 }
