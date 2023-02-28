@@ -3,13 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Sporthilfe",
-  "name": "sporthilfe",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-6697140236174250032.png",
-  "id": "sporthilfe",
+  "name": "Sugi Project",
+  "logo": "https://media.good-loop.com/uploads/standard/SUGi__LOGO__COL-7248694228655116748.png#ccrop:88",
+  "id": "sugi-project",
   "suggest": [
-    "sporthilfe",
-    "Sporthilfe"
+    "Sugi Project"
   ],
   "status": "DRAFT"
 }
