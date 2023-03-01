@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Sport Dans La Ville",
-  "name": "sport-dans-la-ville",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-sport-dans-la-ville-18351995704627055032.svg#ccrop:65",
-  "id": "sport-dans-la-ville",
+  "name": "dsj",
+  "id": "dsj",
   "suggest": [
-    "sport-dans-la-ville",
-    "Sport Dans La Ville"
+    "dsj"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
