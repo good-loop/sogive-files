@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "dsj",
-  "name": "dsj",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-dsj-5823920273960364674.png#ccrop:81",
-  "id": "dsj",
+  "displayName": "Voice in Sport Foundation",
+  "name": "Voice in Sport",
+  "logo": "https://media.good-loop.com/uploads/standard/VISFlogo-12208736959610364061.png#ccrop:99",
+  "id": "voice-in-sport",
   "suggest": [
-    "dsj",
-    "dsj"
+    "Voice in Sport",
+    "Voice in Sport Foundation"
   ],
   "status": "DRAFT"
 }
