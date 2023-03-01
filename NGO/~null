@@ -5,11 +5,11 @@
   "@type": "NGO",
   "displayName": "Sport Dans La Ville",
   "name": "sport-dans-la-ville",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-sport-dans-la-ville-18351995704627055032.svg#ccrop:82",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-sport-dans-la-ville-18351995704627055032.svg#ccrop:65",
   "id": "sport-dans-la-ville",
   "suggest": [
     "sport-dans-la-ville",
     "Sport Dans La Ville"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
