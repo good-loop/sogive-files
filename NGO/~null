@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "dsj",
   "name": "dsj",
   "id": "dsj",
   "suggest": [
+    "dsj",
     "dsj"
   ],
   "status": "DRAFT"
