@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Sugi Project",
-  "logo": "https://media.good-loop.com/uploads/standard/SUGi__LOGO__COL-7248694228655116748.png#ccrop:88",
-  "id": "sugi-project",
+  "displayName": "Sport Dans La Ville",
+  "name": "sport-dans-la-ville",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-sport-dans-la-ville-18351995704627055032.svg#ccrop:82",
+  "id": "sport-dans-la-ville",
   "suggest": [
-    "Sugi Project"
+    "sport-dans-la-ville",
+    "Sport Dans La Ville"
   ],
   "status": "DRAFT"
 }
