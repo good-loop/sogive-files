@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Vo",
   "name": "Voice in Sport",
   "id": "voice-in-sport",
   "suggest": [
-    "Voice in Sport"
+    "Voice in Sport",
+    "Vo"
   ],
   "status": "DRAFT"
 }
