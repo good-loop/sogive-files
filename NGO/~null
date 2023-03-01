@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Sport Dans La Ville",
   "name": "sport-dans-la-ville",
   "id": "sport-dans-la-ville",
   "suggest": [
-    "sport-dans-la-ville"
+    "sport-dans-la-ville",
+    "Sport Dans La Ville"
   ],
   "status": "DRAFT"
 }
