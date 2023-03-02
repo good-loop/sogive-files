@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Bright Pink",
-  "name": "bright-pink",
-  "logo": "https://media.good-loop.com/uploads/standard/BP__MainLogo__RGB-13489406898955943450.png#ccrop:85",
-  "id": "bright-pink",
+  "displayName": "Stong Women Strong Girls",
+  "name": "strong-women-strong-girls",
+  "logo": "https://media.good-loop.com/uploads/standard/StrongWomenStrongGirls__Logo-14893604181807096097.jpg#ccrop:95",
+  "id": "strong-women-strong-girls",
   "suggest": [
-    "bright-pink",
-    "Bright Pink"
+    "strong-women-strong-girls",
+    "Stong Women Strong Girls"
   ],
-  "url": "https://www.brightpink.org/",
+  "url": "https://swsg.org/",
   "status": "DRAFT"
 }
