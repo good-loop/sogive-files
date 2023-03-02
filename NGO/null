@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "UN Women",
-  "name": "un-women",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_15-14208457645362050964.svg#ccrop:90",
-  "id": "un-women",
+  "displayName": "Bright Pink",
+  "name": "bright-pink",
+  "logo": "https://media.good-loop.com/uploads/standard/BP__MainLogo__RGB-13489406898955943450.png#ccrop:85",
+  "id": "bright-pink",
   "suggest": [
-    "un-women",
-    "UN Women"
+    "bright-pink",
+    "Bright Pink"
   ],
-  "url": "https://www.unwomen.org/en",
+  "url": "https://www.brightpink.org/",
   "status": "DRAFT"
 }
