@@ -3,12 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "her-project",
-  "logo": "https://media.good-loop.com/uploads/standard/herproject.logo-5687386635917277382.svg",
-  "id": "her-project",
+  "displayName": "UN Women",
+  "name": "un-women",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_15-14208457645362050964.svg#ccrop:90",
+  "id": "un-women",
   "suggest": [
-    "her-project"
+    "un-women",
+    "UN Women"
   ],
-  "url": "https://herproject.org/",
+  "url": "https://www.unwomen.org/en",
   "status": "DRAFT"
 }
