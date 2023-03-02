@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Bright Pink",
   "name": "bright-pink",
   "id": "bright-pink",
   "suggest": [
-    "bright-pink"
+    "bright-pink",
+    "Bright Pink"
   ],
   "status": "DRAFT"
 }
