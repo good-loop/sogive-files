@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Stong Women Strong Girls",
   "name": "strong-women-strong-girls",
   "id": "strong-women-strong-girls",
   "suggest": [
-    "strong-women-strong-girls"
+    "strong-women-strong-girls",
+    "Stong Women Strong Girls"
   ],
   "status": "DRAFT"
 }
