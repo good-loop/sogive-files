@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Bright Pink",
-  "name": "bright-pink",
-  "logo": "https://media.good-loop.com/uploads/standard/BP__MainLogo__RGB-13489406898955943450.png#ccrop:85",
-  "id": "bright-pink",
+  "name": "strong-women-strong-girls",
+  "id": "strong-women-strong-girls",
   "suggest": [
-    "bright-pink",
-    "Bright Pink"
+    "strong-women-strong-girls"
   ],
-  "url": "https://www.brightpink.org/",
   "status": "DRAFT"
 }
