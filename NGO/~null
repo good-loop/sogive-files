@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "UN  Women UK",
-  "logo": "https://media.good-loop.com/uploads/standard/New-logo-no-background-9050767213591664475.png#ccrop:85",
-  "id": "un-women-uk",
+  "name": "un-women",
+  "id": "un-women",
   "suggest": [
-    "UN  Women UK"
+    "un-women"
   ],
-  "url": "https://www.unwomenuk.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
