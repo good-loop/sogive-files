@@ -1,0 +1,14 @@
+{
+  "@type": "NGO",
+  "noPublicDonations": true,
+  "name": "Good-Loop Tree Planting",
+  "unsdg": "13",
+  "@id": "good-loop-tree-planting",
+  "suggest": [
+    "Good-Loop Tree Planting",
+    "good-loop-tree-planting"
+  ],
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "status": "DRAFT"
+}
