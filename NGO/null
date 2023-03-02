@@ -3,13 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Voice in Sport Foundation",
-  "name": "Voice in Sport Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/VISFlogo-12208736959610364061.png#ccrop:99",
-  "id": "voice-in-sport",
+  "name": "her-project",
+  "logo": "https://media.good-loop.com/uploads/standard/herproject.logo-5687386635917277382.svg",
+  "id": "her-project",
   "suggest": [
-    "Voice in Sport Foundation",
-    "Voice in Sport Foundation"
+    "her-project"
   ],
-  "status": "MODIFIED"
+  "url": "https://herproject.org/",
+  "status": "DRAFT"
 }
