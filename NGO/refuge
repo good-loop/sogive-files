@@ -549,7 +549,7 @@
   "noPublicDonations": false,
   "description": "Refuge is a United Kingdom charity providing specialist support for women and children experiencing domestic violence. Refuge provides a national network of specialist services, including emergency refuge accommodation (refuges), community outreach, independent domestic violence advocacy (IDVAs), culturally specific services and a team of child support workers. Refuge also runs the Freephone 24-Hour National Domestic Violence Helpline in partnership with Women\u0027s Aid.",
   "suggest": [
-    "Refuge",
+    "Refuge ",
     "refuge"
   ],
   "impacts": [
@@ -587,8 +587,8 @@
     }
   },
   "ready": false,
-  "name": "Refuge",
-  "logo": "https://media.good-loop.com/uploads/standard/download_26-18138295556421002250.png#ccrop:107",
+  "name": "Refuge ",
+  "logo": "https://media.good-loop.com/uploads/standard/download_26-18138295556421002250.png#ccrop:108",
   "@id": "refuge",
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/refuge_logo_white.png",
   "lastModified": "2020-11-26T16:07:09Z",
@@ -596,5 +596,5 @@
   "englandWalesCharityRegNum": "277424",
   "uk_giftaid": true,
   "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
