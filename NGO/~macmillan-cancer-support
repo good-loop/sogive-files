@@ -1,0 +1,922 @@
+{
+  "scotlandCharityRegNum": "SC039907",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 775055.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: Not clear whether this adding up of beneficiaries is correct e.g. doesn\u0027t overlap, or could be missing some beneficiaries"
+            }
+          },
+          "confidence": "low",
+          "name": "People (singular: person) supported ",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value100p": 1.217E12,
+          "value": 1.217E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://www.macmillan.org.uk/Documents/AboutUs/RaiseAndSpend/AnnualReviews/AnnualReport2013.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Not clear whether this adding up of beneficiaries is correct e.g. doesn\u0027t overlap, or could be missing some beneficiaries",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 5800000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "people (singular: person) reached and supported",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "This is an average of lots of different types of support for cancer sufferers themselves and their families, including intensive support from a nurse or light-touch help such as reading something on the website.",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "Your donation enabled XXX people to receive support with regard to the cancer suffered by them or a friend or family member, be it through being helped by a nurse or reading information on the Macmillan website",
+      "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Macmillan%20Dave.PNG?raw\u003dtrue",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "p16-17 of 2015 accounts: http://apps.charitycommission.gov.uk/Accounts/Ends17/0000261017_AC_20151231_E_C.pdf",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.40491E12,
+          "value": 2.40491E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA8011398\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "Cost per beneficiary looks materially cheaper than the previous set of accounts (2013 accounts) but this is proabbly because we were only capturing a subset of the beneficiaries from that set of accounts, whereas this set of accounts counts up all the beneficiaries. Breakdown is provided: 2m people living with cancer, 0.6m carers, 3.2m family and friends. The information on the page in the accounts shows that these people reached are a mixture, some receiving a relatively \"intensive\" intervention, such as help from a nurse, but others are just calling a helpline, or even just seeing info on a website",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA8475201\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "start_raw": "2016-01-01",
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "245591000",
+          "currency": "GBP",
+          "value100p": 2.45591E12,
+          "value": 2.45591E8
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "5849000",
+          "currency": "GBP",
+          "value100p": 5.849E10,
+          "value": 5849000.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "name": "overall",
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "end_raw": "2016-12-31",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 626000.0,
+          "meta": {
+            "all": {
+              "source": "https://Source: p16 of accounts"
+            }
+          },
+          "name": "people (singular: person) supported by nurses"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "58896000",
+          "currency": "GBP",
+          "value100p": 5.8896E11,
+          "value": 5.8896E7
+        }
+      ],
+      "name": "Healthcare"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "25094000",
+          "currency": "GBP",
+          "value100p": 2.5094E11,
+          "value": 2.5094E7
+        }
+      ],
+      "name": "Information and support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "40435000",
+          "currency": "GBP",
+          "value100p": 4.0435E11,
+          "value": 4.0435E7
+        }
+      ],
+      "name": "Financial support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "14607000",
+          "currency": "GBP",
+          "value100p": 1.4607E11,
+          "value": 1.4607E7
+        }
+      ],
+      "name": "Practical and emotional support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "6256000",
+          "currency": "GBP",
+          "value100p": 6.256E10,
+          "value": 6256000.0
+        }
+      ],
+      "name": "Learning and development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "2824000",
+          "currency": "GBP",
+          "value100p": 2.824E10,
+          "value": 2824000.0
+        }
+      ],
+      "name": "Inclusion"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "name": "projectCosts",
+          "raw": "25128000",
+          "currency": "GBP",
+          "value100p": 2.5128E11,
+          "value": 2.5128E7
+        }
+      ],
+      "name": "Campaigning and raising awareness"
+    },
+    {
+      "outputs": [
+        {
+          "number": 8300000.0,
+          "meta": {
+            "all": {
+              "notes": "The 2019 annual report indicates \"8.3m supported by Macmillan in total, either through our high impact support or lighter touch support such as our website or cancer information.\" (p.8 of the report, p.5 of pdf). The \u0027reach of MacMillan\u0027s services\u0027 factsheet (2020 edition, using 2019 figures), indicates that they reached ~7 million through their website."
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) reached and supported",
+          "description": "This refers to the total number of people supported by Macmillan, both high-impact support and lighter touch support such as people accessing their website "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        },
+        {
+          "@type": "Citation"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://be.macmillan.org.uk/Downloads/beMacmillan%20PDFs/Reach%20of%20Macmillan\u0027s%20Services%20fact%20sheet%202020%20(2019%20data)%20FINAL.pdf"
+        },
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "245,739,000",
+          "currency": "GBP",
+          "value100p": 2.45739E12,
+          "value": 2.45739E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "8262000",
+          "currency": "GBP",
+          "value100p": 8.262E10,
+          "value": 8262000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Cost of trading activities is on p.84 of the 2019 annual report (p.43 of the pdf)"
+        },
+        "reserves": {
+          "notes": "p.77 of annual report. Total unrestricted funds are £14.550m, but £3.184m are designated. This leaves £11.366m"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "11366000",
+        "currency": "",
+        "value100p": 1.1366E11,
+        "value": 1.1366E7
+      },
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 1206510.0,
+          "meta": {
+            "all": {
+              "notes": "Numbers are from p.5-7 of \u0027the reach of Macmillan services\u0027 factsheet"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) reached and supported by a healthcare professional",
+          "description": "This is mostly patients (plus some friends/family) receiving support from a range of healthcare professionals (mostly nurses and allied health professionals, and some doctors). It is likely that some individuals saw several different healthcare professionals."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://be.macmillan.org.uk/Downloads/beMacmillan%20PDFs/Reach%20of%20Macmillan\u0027s%20Services%20fact%20sheet%202020%20(2019%20data)%20FINAL.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "59,900,000",
+          "currency": "GBP",
+          "value100p": 5.99E11,
+          "value": 5.99E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.55 of annual report (p.28 of pdf)"
+        }
+      },
+      "name": "Healthcare",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "28480000",
+          "currency": "GBP",
+          "value100p": 2.848E11,
+          "value": 2.848E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.85 of annual report (p.43 of pdf)"
+        }
+      },
+      "name": "Information and support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "34497000",
+          "currency": "GBP",
+          "value100p": 3.4497E11,
+          "value": 3.4497E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.85 of annual report (p.43 of pdf)"
+        }
+      },
+      "name": "Financial support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16972000",
+          "currency": "GBP",
+          "value100p": 1.6972E11,
+          "value": 1.6972E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.85 of annual report (p.43 of pdf)"
+        }
+      },
+      "name": "Practical and emotional support"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5153000",
+          "currency": "GBP",
+          "value100p": 5.153E10,
+          "value": 5153000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.85 of annual report (p.43 of pdf)"
+        }
+      },
+      "name": "Learning and development"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10383924\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d261017"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "35796000",
+          "currency": "GBP",
+          "value100p": 3.5796E11,
+          "value": 3.5796E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Project costs are on p.85 of annual report (p.43 of pdf)"
+        }
+      },
+      "name": "Campaigning and raising awareness"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Macmillan Cancer Support provides support and information to those affected by cancer in the UK. They do this through their nursing services, by providing information (e.g. online), by providing financial support (including financial advice and grants to cancer sufferers), and by campaigning. They also provide a helpline for information and emotional support. Macmillan also undertake a limited amount of research. The research they do is focused on how to improve cancer services.",
+  "recommendation": "**Summary**\n\n**Macmillan Cancer Support is rated as Not Recommended (tentative) on the SoGive ratings scale**\n\n- Macmillan Cancer Support provides support and information to those affected by cancer in the UK.\n- Macmillan’s largest area of spending is their provision of healthcare services. These are focused on improving patient experience and quality of care, rather than providing cancer treatments.\n- Based on their 2019 annual report, we estimate that it costs around £50 per person reached by these services. This means that for Macmillan’s healthcare services to achieve a similar cost-effectiveness to the SoGive Gold Standard, it would require a gain in wellbeing equivalent to averting an average of 3 months of severe depression per person.\n- While we believe Macmillan’s healthcare services likely do help improve the wellbeing of people affected by cancer, we think it is unlikely they have an impact this large, and Macmillan provide no evidence to suggest otherwise.\n- Overall we think Macmillan is unlikely to come close to the SoGive Gold Standard. However, if Macmillan were to provide robust evidence that the impact of their services on their beneficiaries’ quality or length of life was unexpectedly large, we would reconsider our position.\n\n\n\n**The SoGive approach**\n\nUnder the SoGive [two question method](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-analysis-methodology.html?view\u003dsidebar), we first consider two questions:\n- How much does it cost for the charity to do something?\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)?\n\nWe explore these questions in the next section. From this information, we then estimate the charity’s cost-effectiveness. We then compare this with the SoGive Gold Standard benchmarks, which gives us an indication of how the charity compares to the most cost-effective charities we know about.\n\n\n**More about what Macmillan Cancer Support does -  how they spend your donations**\n\nMacmillan Cancer Support provides support and information to those affected by cancer in the UK. They do this through their healthcare services (£59.9m spent directly on this in 2019), by providing information and support services including a helpline (£28.5m), by providing financial support (£34.5m) and practical and emotional support (£17m), and learning and development (£5.1m). They also undertake campaigning and raising awareness (£35.8m); this includes a limited amount of research (£5.2m) which is focused on how to improve cancer services ([2019 annual report](https://www.macmillan.org.uk/_images/2019-annual-report-and-accounts_tcm9-358602.pdf), p.55, details on p.85). Total expenditure on donor-funded charitable activities for 2019 was around £237.5m.\n\nMacmillan estimate that in 2019 they reached 8.3 million people. This includes 5.7 million reached through their printed information resources, and 7 million through their online support ([reach of services 2020 report](https://be.macmillan.org.uk/Downloads/beMacmillan%20PDFs/Reach%20of%20Macmillan%27s%20Services%20fact%20sheet%202020%20(2019%20data)%20FINAL.pdf), p.4). They estimate that 1.9 million unique people received what they call ‘high impact’ support (face-to-face and phone services). For their healthcare services, an estimated 1.029 million people were reached by Macmillan nurses, 170k were reached by allied health professionals, and around 6,400 were reached by Macmillan doctors (reach of services 2020 report, p.5-6). Macmillan claim that their financial support services helped 153,000 people obtain nearly £394m in benefits and other financial gains (2019 annual report, p.28). Campaigns mentioned in the annual report include improving end of life care, demanding an increase in frontline cancer professionals, and improving financial support for people with cancer from banks and government. Other campaigns relate to raising awareness of the services Macmillan provides. Please note that the numbers in this paragraph cannot simply be added to get to the total estimate of 8.3 million people reached, as one individual can use multiple services.\n\n**Cost-effectiveness analysis - how does Macmillan Cancer Support compare to the most cost-effective charities?**\n\nAfter a review of the work of Macmillan Cancer Support under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-Standard for charity cost-effectiveness. To receive a firm Gold ranking, a charity has to achieve a high impact per pound donated (such as averting one year of severe depression for £200, or doubling consumption (spending) for one year for £50), and also provide robust evidence on the effectiveness of their work. The process used to determine the SoGive Gold Standard benchmarks is set out [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar), and for more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\n*Healthcare services*\n\nMacmillan’s healthcare services are focused on improving patient experience and quality of care, rather than providing cancer treatments (the latter is provided by the NHS). There is some evidence that access to Macmillan nurses does improve patient experience of care, such as having access to easy-to-understand information and choice about their care ([impact brief for clinical nurse specialists]( https://www.macmillan.org.uk/about-us/what-we-do/evidence/research-publications/impact-briefs.html), p.8).\n\nHowever, no evidence is provided to indicate the overall impact on patient quality of life compared to not having access to such nurses. In 2019, £59.9m was spent on healthcare services. As around 1.2 million people were reached by these services, this implies a cost of around £50 per person. As noted, SoGive have a Gold Standard benchmark of £200 to avert one year of severe depression. This means that for Macmillan’s healthcare services to achieve a similar cost-effectiveness to the SoGive Gold Standard, it would require a gain in wellbeing equivalent to averting an average of 3 months of severe depression per person (£200 for one year implies £50 for 3 months). While we believe Macmillan’s healthcare services likely do help improve the wellbeing of people affected by cancer, we think it is unlikely they have an impact this large. Indeed, if they did have an impact this big, we would expect these services to already be fully funded by the NHS, as this would be significantly more cost-effective than the services and treatments that the NHS is typically willing to fund.\n\n*Information and support services*\n\nWhile the millions reached through their printed resources and online information may also receive some benefit, we note that there are multiple other sources of information for cancer (e.g. NHS staff and website, other cancer charity websites). Macmillan do have an [impact report](https://www.macmillan.org.uk/_images/Information-Resources_tcm9-283176.pdf)  based on 2014 data which indicates beneficiaries feel more informed and experience reduced anxiety due to provision of information from Macmillan. However, this does not appear to be based on a validated tool to measure mental wellbeing, nor does it compare those who received information from Macmillan to a control group who did not.\n\n*Financial support services*\n\nFor their financial support services, Macmillan indicate that 153,000 people obtained nearly £394m in benefits and other financial gains in 2019. This implies an average gain of around £2.5k per recipient. There is some evidence that this can help alleviate anxiety and even depression (as noted in Macmillan’s [impact briefs on grants and benefits advice](https://www.macmillan.org.uk/about-us/what-we-do/evidence/research-publications/impact-briefs.html)), however no figures are provided that indicate the impact per beneficiary. Furthermore, since the financial support services cost Macmillan around £34.5m to provide support to 153,000 people, this implies they are spending around £225 per person supported, which in turn results in an average gain of £2.5k per person. However, to meet the Gold Standard benchmark, a charity which works to improve financial wellbeing should be able to spend £50 or less to double someone’s consumption (spending) for one year. Since Macmillan works in the UK, spending £225 for a one-off gain of £2.5k per person will, in the vast majority of cases, not come close to doubling someone’s consumption - and for £225 we would in fact need to see significantly more than a doubling of consumption to meet the Gold Standard.\n\n\n*Campaigns*\n\nIn order to estimate the impact of Macmillan’s campaigns, we would need more information on how many beneficiaries each campaign is expected to impact per year, and the expected impact on length and/or quality of life for each beneficiary. We would then need to assess the extent to which Macmillan had been responsible for any changes (rather than e.g. other cancer charities).\n\n*Overall*\n\nOverall we think Macmillan is unlikely to come close to the SoGive Gold-Standard. However, if Macmillan were to provide robust evidence that the impact of their services on their beneficiaries’ quality or length of life was unexpectedly large, we would reconsider our position. The strongest evidence could come from randomised controlled trials that used a validated generic tool to assess quality of life in an intervention group compared to a control group - the use of a generic tool would have the advantage of allowing Macmillan to compare the impact of their different services on the same scale, while also allowing SoGive to more easily compare Macmillan as a whole with the Gold Standard benchmarks. \n\n\n**Conclusion**\n\nBased on the above, we rate Macmillan Cancer Support as Not Recommended (tentative) under the SoGive methodology. This means:\n- We do not have (or, occasionally, have not been able to verify) good evidence that the charity’s work is effective\n- We do have some indication of cost-effectiveness, and believe that the cost-effectiveness underperforms the Gold Standard, likely by a substantial margin\n",
+  "nextAction": "n/a",
+  "whyTags": "Cancer, Health",
+  "ready": true,
+  "logo": "https://media.good-loop.com/uploads/raw/yE11d0zi-3117818256438421016.jpg#ccrop:109",
+  "modified": false,
+  "@id": "macmillan-cancer-support",
+  "wikipedia": "https://en.wikipedia.org/wiki/Macmillan_Cancer_Support",
+  "summaryDescription": "Macmillan Cancer Support provides support and information to those affected by cancer in the UK.\n\n\n",
+  "uptodatedraft": "probably",
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Macmillan%20Dave.PNG?raw\u003dtrue",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "Macmillan Cancer support",
+    "macmillan-cancer-support"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "macmillan-cancer-support",
+      "name": "people (singular: person) reached and supported by a healthcare professional",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 496473,
+        "value": "49.6473299019485910500000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.macmillan.org.uk/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) reached and supported by a healthcare professional",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 496473,
+      "value": "49.6473299019485910500000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Macmillan Cancer support",
+  "englandWalesCharityRegNum": "261017",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "MODIFIED"
+}
