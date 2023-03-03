@@ -286,7 +286,19 @@
       "isRep": true
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "name": "malaria net(s)",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "407",
+            "currency": "",
+            "value100p": 4070000.0,
+            "value": 407.0
+          }
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
@@ -386,5 +398,5 @@
   "suggestedDonations": [
     {}
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
