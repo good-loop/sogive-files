@@ -284,6 +284,35 @@
       ],
       "name": "overall",
       "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://web.archive.org/web/20230303181323/https://www.givewell.org/charities/amf"
+        }
+      ],
+      "year": 2023.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
     }
   ],
   "@type": "NGO",
@@ -357,5 +386,5 @@
   "suggestedDonations": [
     {}
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
