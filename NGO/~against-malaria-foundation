@@ -288,6 +288,11 @@
     {
       "outputs": [
         {
+          "meta": {
+            "all": {
+              "notes": "Source is GiveWell"
+            }
+          },
           "confidence": "high",
           "name": "malaria net(s)",
           "costPerBeneficiary": {
