@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Stong Women Strong Girls",
-  "name": "strong-women-strong-girls",
-  "logo": "https://media.good-loop.com/uploads/standard/StrongWomenStrongGirls__Logo-14893604181807096097.jpg#ccrop:95",
-  "id": "strong-women-strong-girls",
+  "name": "the-goldsmiths-company-charity",
+  "id": "the-goldsmiths-company-charity",
   "suggest": [
-    "strong-women-strong-girls",
-    "Stong Women Strong Girls"
+    "the-goldsmiths-company-charity"
   ],
-  "url": "https://swsg.org/",
   "status": "DRAFT"
 }
