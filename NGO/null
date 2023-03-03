@@ -1,16 +1,34 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "circleCrop": "110.0",
+  "images": "https://app.sogive.org/uploads/anon/cfrn_frog-2651669301322684230.png",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Stong Women Strong Girls",
-  "name": "strong-women-strong-girls",
-  "logo": "https://media.good-loop.com/uploads/standard/StrongWomenStrongGirls__Logo-14893604181807096097.jpg#ccrop:95",
-  "id": "strong-women-strong-girls",
-  "suggest": [
-    "strong-women-strong-girls",
-    "Stong Women Strong Girls"
+  "created": "2023-03-03T08:46:21Z",
+  "description": "The Rainforest Coalition aims to bring together both developing and industrialized nations for the purpose of creating community-driven, environmentally sustainable economic growth.\n\nThe primary strategy of the Coalition is to bring about the reform of international frameworks, both legal and economic, to correct market failures that result in unsustainable outcomes, and to create economic incentives for the preservation of areas of high biodiversity and endemism worldwide. The Coalition supports the Forests Now Declaration calling for changes in the Kyoto Protocol and other international carbon markets to include land use and forestry.\n\nThe Coalition has been instrumental in the establishment of the World Bank\u0027s Forest Carbon Partnership Facility and the United Nations\u0027 UN-REDD program. Further, based upon these efforts by the Coalition, various industrialized countries (including Norway, the UK, Germany, France, Japan, Australia, Finland, and others) have currently pledged around US$3.0 billion for capacity building and incentives to reduce rates of deforestation in participating developing countries.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "coalition-for-rainforest-nations",
+      "name": "tonne(s) of CO2eq averted",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1000,
+        "value": "0.1"
+      },
+      "amountGBP": 0.0,
+      "amountUSD": 0.0,
+      "n": 1.0
+    }
   ],
-  "url": "https://swsg.org/",
-  "status": "DRAFT"
+  "suggest": [
+    "Coalition for Rainforest Nations"
+  ],
+  "url": "https://www.rainforestcoalition.org/",
+  "name": "Coalition for Rainforest Nations",
+  "logo": "https://app.sogive.org/uploads/anon/Cfrn_logo-7658522147945456723.png",
+  "summaryDescription": "The Coalition for Rainforest Nations (CfRN) is an intergovernmental organisation of more than\n50 rainforest nations which works to promote environmental sustainability while creating\nopportunities for economic advancement within tropically forested developing countries",
+  "crm": "4080354054@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
