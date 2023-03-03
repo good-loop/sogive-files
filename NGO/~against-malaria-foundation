@@ -288,14 +288,15 @@
     {
       "outputs": [
         {
+          "confidence": "high",
           "name": "malaria net(s)",
           "costPerBeneficiary": {
             "@type": "Money",
             "name": "",
-            "raw": "407",
+            "raw": "4.07",
             "currency": "",
-            "value100p": 4070000.0,
-            "value": 407.0
+            "value100p": 40700.0,
+            "value": 4.07
           }
         }
       ],
