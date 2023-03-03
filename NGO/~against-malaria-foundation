@@ -290,7 +290,7 @@
         {
           "meta": {
             "all": {
-              "notes": "Source is GiveWell"
+              "notes": "Source is GiveWell, which says: \"We estimate that the cost to purchase and distribute an AMF-funded net is $5.19, or $4.89 excluding in-kind contributions from governments. \""
             }
           },
           "confidence": "high",
