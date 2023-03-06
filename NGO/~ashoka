@@ -7,12 +7,12 @@
   "noPublicDonations": true,
   "description": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
   "suggest": [
-    "Ashoka",
+    "Ashoka ",
     "ashoka"
   ],
   "url": "https://www.ashoka.org/",
   "ready": false,
-  "name": "Ashoka",
+  "name": "Ashoka ",
   "modified": true,
   "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/logo-157164415507884249.svg#ccrop:_ccrop:85",
   "@id": "ashoka",
@@ -21,6 +21,6 @@
   "summaryDescription": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
   "englandWalesCharityRegNum": "328469",
   "uptodatedraft": "probably",
-  "status": "PUBLISHED",
+  "status": "MODIFIED",
   "usCharityRegNum": "51-0255908"
 }
