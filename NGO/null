@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Every Monday Matters",
-  "name": "every-Monday-matters",
-  "logo": "https://media.good-loop.com/uploads/standard/EMM-LOGO-High-Res-2020-ow07oxevuoygeyynwlwqgsvm6ll98cweeltlt4k5c0-4674908583090752862.png#ccrop:80",
-  "id": "every-monday-matters",
+  "displayName": "Austin Habitat For Humanity ",
+  "name": "habitat-for-humanity-austin \u003d",
+  "logo": "https://media.good-loop.com/uploads/standard/organization__logo__d7310841-f46e-415a-8065-7be49454334d-6489252093686470398.jpg#ccrop:80",
+  "id": "habitat-for-humanity-austin--",
   "suggest": [
-    "every-Monday-matters",
-    "Every Monday Matters"
+    "habitat-for-humanity-austin \u003d",
+    "Austin Habitat For Humanity "
   ],
-  "url": "https://www.everymondaymatters.com/",
+  "url": "https://www.habitat.org/",
   "status": "DRAFT"
 }
