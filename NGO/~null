@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Austin Habitat For Humanity ",
   "name": "habitat-for-humanity-austin \u003d",
   "id": "habitat-for-humanity-austin--",
   "suggest": [
-    "habitat-for-humanity-austin \u003d"
+    "habitat-for-humanity-austin \u003d",
+    "Austin Habitat For Humanity "
   ],
   "status": "DRAFT"
 }
