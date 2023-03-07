@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Coastal Conservation Association",
-  "name": "coastal-conservation-association",
-  "logo": "https://media.good-loop.com/uploads/standard/SOC-CCALogo-12655206924046516569.png",
-  "id": "coastal-conservation-association",
+  "displayName": "The Conservation Alliance",
+  "name": " the-conservation-alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/tca-logo-4869098432618163416.svg#ccrop:90",
+  "id": "-the-conservation-alliance",
   "suggest": [
-    "coastal-conservation-association",
-    "Coastal Conservation Association"
+    " the-conservation-alliance",
+    "The Conservation Alliance"
   ],
-  "url": "https://www.joincca.org/",
+  "url": "https://www.conservationalliance.com/",
   "status": "DRAFT"
 }
