@@ -3,15 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Trip Advisor Foundation",
-  "unlisted": true,
-  "name": "trip-advisor-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/TRIP__FOUNDATION__LOGO-3821775762435736770.png#ccrop:90",
-  "id": "trip-advisor-foundation",
+  "displayName": "Every Monday Matters",
+  "name": "every-Monday-matters",
+  "logo": "https://media.good-loop.com/uploads/standard/EMM-LOGO-High-Res-2020-ow07oxevuoygeyynwlwqgsvm6ll98cweeltlt4k5c0-4674908583090752862.png#ccrop:80",
+  "id": "every-monday-matters",
   "suggest": [
-    "trip-advisor-foundation",
-    "Trip Advisor Foundation"
+    "every-Monday-matters",
+    "Every Monday Matters"
   ],
-  "url": "",
+  "url": "https://www.everymondaymatters.com/",
   "status": "DRAFT"
 }
