@@ -5,10 +5,12 @@
   "@type": "NGO",
   "displayName": "Every Monday Matters",
   "name": "every-Monday-matters",
+  "logo": "https://media.good-loop.com/uploads/standard/EMM-LOGO-High-Res-2020-ow07oxevuoygeyynwlwqgsvm6ll98cweeltlt4k5c0-4674908583090752862.png",
   "id": "every-monday-matters",
   "suggest": [
     "every-Monday-matters",
     "Every Monday Matters"
   ],
+  "url": "https://www.everymondaymatters.com/",
   "status": "DRAFT"
 }
