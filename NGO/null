@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Conservation Alliance",
-  "name": " the-conservation-alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/tca-logo-4869098432618163416.svg#ccrop:90",
-  "id": "-the-conservation-alliance",
+  "created": "2023-03-07T21:43:40Z",
+  "name": "Raincoast Conservation Foundation",
+  "id": "raincoast-conservation-foundation",
   "suggest": [
-    " the-conservation-alliance",
-    "The Conservation Alliance"
+    "Raincoast Conservation Foundation"
   ],
-  "url": "https://www.conservationalliance.com/",
-  "status": "DRAFT"
+  "category": "environment",
+  "url": "https://www.raincoast.org/",
+  "crm": "4103299656@2506405019@monday.com",
+  "UNSDG": 13.0
 }
