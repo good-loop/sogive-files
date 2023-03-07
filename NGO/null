@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Goldsmiths Company Charity",
-  "name": "the-goldsmiths-company-charity",
-  "logo": "https://media.good-loop.com/uploads/standard/Goldsmiths-750x430-5455431560025900110.jpg",
-  "id": "the-goldsmiths-company-charity",
+  "displayName": "Zero Hour",
+  "name": "zero-hour",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2021-10-20_at_10.23.29-4294432476780123449.png#ccrop:90",
+  "id": "zero-hour",
   "suggest": [
-    "the-goldsmiths-company-charity",
-    "The Goldsmiths Company Charity"
+    "zero-hour",
+    "Zero Hour"
   ],
-  "url": "https://www.thegoldsmiths.co.uk/charity/general-charity/overview/",
+  "url": "https://www.zerohour.uk/",
   "status": "DRAFT"
 }
