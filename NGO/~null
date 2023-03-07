@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Every Monday Matters",
   "name": "every-Monday-matters",
   "id": "every-monday-matters",
   "suggest": [
-    "every-Monday-matters"
+    "every-Monday-matters",
+    "Every Monday Matters"
   ],
   "status": "DRAFT"
 }
