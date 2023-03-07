@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Trip Advisor ",
+  "displayName": "Trip Advisor Foundation",
   "name": "trip-advisor-foundation",
   "id": "trip-advisor-foundation",
   "suggest": [
     "trip-advisor-foundation",
-    "Trip Advisor "
+    "Trip Advisor Foundation"
   ],
   "status": "DRAFT"
 }
