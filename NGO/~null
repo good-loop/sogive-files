@@ -5,11 +5,12 @@
   "@type": "NGO",
   "displayName": "Austin Habitat For Humanity ",
   "name": "habitat-for-humanity-austin \u003d",
+  "logo": "https://media.good-loop.com/uploads/standard/organization__logo__d7310841-f46e-415a-8065-7be49454334d-6489252093686470398.jpg#ccrop:80",
   "id": "habitat-for-humanity-austin--",
   "suggest": [
     "habitat-for-humanity-austin \u003d",
     "Austin Habitat For Humanity "
   ],
-  "url": "",
+  "url": "https://www.habitat.org/",
   "status": "DRAFT"
 }
