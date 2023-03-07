@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Trip Advisor Foundation",
+  "unlisted": true,
   "name": "trip-advisor-foundation",
   "logo": "https://media.good-loop.com/uploads/standard/TRIP__FOUNDATION__LOGO-3821775762435736770.png#ccrop:90",
   "id": "trip-advisor-foundation",
