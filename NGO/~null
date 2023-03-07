@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Coastal Conservation Association",
-  "name": "coastal-conservation-association",
-  "logo": "https://media.good-loop.com/uploads/standard/SOC-CCALogo-12655206924046516569.png",
-  "id": "coastal-conservation-association",
+  "name": " the-conservation-alliance",
+  "id": "-the-conservation-alliance",
   "suggest": [
-    "coastal-conservation-association",
-    "Coastal Conservation Association"
+    " the-conservation-alliance"
   ],
-  "url": "https://www.joincca.org/",
   "status": "DRAFT"
 }
