@@ -3,14 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Zero Hour",
-  "name": "zero-hour",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2021-10-20_at_10.23.29-4294432476780123449.png#ccrop:90",
-  "id": "zero-hour",
+  "displayName": "Trip Advisor Foundation",
+  "unlisted": true,
+  "name": "trip-advisor-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/TRIP__FOUNDATION__LOGO-3821775762435736770.png#ccrop:90",
+  "id": "trip-advisor-foundation",
   "suggest": [
-    "zero-hour",
-    "Zero Hour"
+    "trip-advisor-foundation",
+    "Trip Advisor Foundation"
   ],
-  "url": "https://www.zerohour.uk/",
+  "url": "",
   "status": "DRAFT"
 }
