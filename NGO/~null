@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Trip Advisor ",
   "name": "trip-advisor-foundation",
   "id": "trip-advisor-foundation",
   "suggest": [
-    "trip-advisor-foundation"
+    "trip-advisor-foundation",
+    "Trip Advisor "
   ],
   "status": "DRAFT"
 }
