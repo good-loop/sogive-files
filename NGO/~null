@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Zero Hour",
   "name": "zero-hour",
   "id": "zero-hour",
   "suggest": [
-    "zero-hour"
+    "zero-hour",
+    "Zero Hour"
   ],
   "status": "DRAFT"
 }
