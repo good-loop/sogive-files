@@ -5,10 +5,12 @@
   "@type": "NGO",
   "displayName": "Homes For Our Troops",
   "name": "homes-for-our-troops",
+  "logo": "https://media.good-loop.com/uploads/standard/Homes-for-our-Troops-285x300-14216725078204587103.png#ccrop:99",
   "id": "homes-for-our-troops",
   "suggest": [
     "homes-for-our-troops",
     "Homes For Our Troops"
   ],
+  "url": "",
   "status": "DRAFT"
 }
