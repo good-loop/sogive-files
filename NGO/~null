@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "The Conservation Alliance",
-  "name": " the-conservation-alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/tca-logo-4869098432618163416.svg#ccrop:90",
-  "id": "-the-conservation-alliance",
+  "name": "suwd",
+  "id": "suwd",
   "suggest": [
-    " the-conservation-alliance",
-    "The Conservation Alliance"
+    "suwd"
   ],
-  "url": "https://www.conservationalliance.com/",
   "status": "DRAFT"
 }
