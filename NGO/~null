@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Step Up Womens Network",
-  "name": "suwn",
-  "id": "suwd",
+  "name": "homes-for-our-troops",
+  "id": "homes-for-our-troops",
   "suggest": [
-    "suwn",
-    "Step Up Womens Network"
+    "homes-for-our-troops"
   ],
   "status": "DRAFT"
 }
