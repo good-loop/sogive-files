@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "S",
+  "displayName": "Step Up Womens Network",
   "name": "suwn",
   "id": "suwd",
   "suggest": [
     "suwn",
-    "S"
+    "Step Up Womens Network"
   ],
   "status": "DRAFT"
 }
