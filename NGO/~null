@@ -5,11 +5,12 @@
   "@type": "NGO",
   "displayName": "Community Solutions",
   "name": "community-solutions",
+  "logo": "https://media.good-loop.com/uploads/standard/CS__rgb-5850008282204557737.jpg#ccrop:90",
   "id": "community-solutions",
   "suggest": [
     "community-solutions",
     "Community Solutions"
   ],
-  "url": "",
+  "url": "https://community.solutions/",
   "status": "DRAFT"
 }
