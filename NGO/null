@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Homes For Our Troops",
-  "name": "homes-for-our-troops",
-  "logo": "https://media.good-loop.com/uploads/standard/Homes-for-our-Troops-285x300-14216725078204587103.png#ccrop:90",
-  "id": "homes-for-our-troops",
+  "displayName": "Community Solutions",
+  "name": "community-solutions",
+  "logo": "https://media.good-loop.com/uploads/standard/CS__rgb-5850008282204557737.jpg#ccrop:90",
+  "id": "community-solutions",
   "suggest": [
-    "homes-for-our-troops",
-    "Homes For Our Troops"
+    "community-solutions",
+    "Community Solutions"
   ],
-  "url": "https://www.hfotusa.org/",
+  "url": "https://community.solutions/",
   "status": "DRAFT"
 }
