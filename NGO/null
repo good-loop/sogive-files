@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Community Solutions",
-  "name": "community-solutions",
-  "logo": "https://media.good-loop.com/uploads/standard/CS__rgb-5850008282204557737.jpg#ccrop:90",
-  "id": "community-solutions",
+  "displayName": "Sustainable Hospitality Alliance  ",
+  "name": "sustainable-hospitality-alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/Sustainable-Hospitality-Alliance-logo-169-11393757236358472698.png",
+  "id": "sustainable-hospitality-alliance",
   "suggest": [
-    "community-solutions",
-    "Community Solutions"
+    "sustainable-hospitality-alliance",
+    "Sustainable Hospitality Alliance  "
   ],
-  "url": "https://community.solutions/",
+  "url": "https://sustainablehospitalityalliance.org/",
   "status": "DRAFT"
 }
