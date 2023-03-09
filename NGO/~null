@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Hands on Educational Services Inc..",
+  "unlisted": true,
   "name": "hands-on-educational-services",
   "logo": "https://media.good-loop.com/uploads/standard/HANDS-LOGO-15162499880142383802.jpg#ccrop:110",
   "id": "hands-on-educational-services",
