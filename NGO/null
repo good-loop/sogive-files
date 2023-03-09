@@ -3,14 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Sustainable Hospitality Alliance  ",
-  "name": "sustainable-hospitality-alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/Sustainable-Hospitality-Alliance-logo-169-11393757236358472698.png",
-  "id": "sustainable-hospitality-alliance",
+  "displayName": "Hands on Educational Services Inc..",
+  "unlisted": true,
+  "name": "hands-on-educational-services",
+  "logo": "https://media.good-loop.com/uploads/standard/HANDS-LOGO-15162499880142383802.jpg#ccrop:110",
+  "id": "hands-on-educational-services",
   "suggest": [
-    "sustainable-hospitality-alliance",
-    "Sustainable Hospitality Alliance  "
+    "hands-on-educational-services",
+    "Hands on Educational Services Inc.."
   ],
-  "url": "https://sustainablehospitalityalliance.org/",
+  "url": "https://handsoneducation.net/home/",
   "status": "DRAFT"
 }
