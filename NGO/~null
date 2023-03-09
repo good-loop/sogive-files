@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Hands on Educational Services inc..",
+  "displayName": "Hands on Educational Services Inc..",
   "name": "hands-on-educational-services",
   "id": "hands-on-educational-services",
   "suggest": [
     "hands-on-educational-services",
-    "Hands on Educational Services inc.."
+    "Hands on Educational Services Inc.."
   ],
   "status": "DRAFT"
 }
