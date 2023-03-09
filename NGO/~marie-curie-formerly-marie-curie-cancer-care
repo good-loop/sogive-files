@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -1347,5 +1350,5 @@
   "englandWalesCharityRegNum": "207994",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
