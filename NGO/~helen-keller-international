@@ -40,7 +40,7 @@
             }
           },
           "name": "annual dose(s) of Vitamin A supplement(s) delivered",
-          "description": "Vitamin A supplements cost around  $2.18 (~£1.65) per child per year for two doses",
+          "description": "Vitamin A supplements cost around  $2.20 (~£1.65) per child per year for two doses",
           "costPerBeneficiary": {
             "@type": "Money",
             "raw": "1.65",
