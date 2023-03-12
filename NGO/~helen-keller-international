@@ -43,10 +43,10 @@
           "description": "Vitamin A supplements cost around  $2.18 (~£1.59) per child per year for two doses",
           "costPerBeneficiary": {
             "@type": "Money",
-            "raw": "1.59",
+            "raw": "1.65",
             "currency": "GBP",
-            "value100p": 15900.0,
-            "value": 1.59
+            "value100p": 16500.0,
+            "value": 1.65
           }
         }
       ],
@@ -112,8 +112,8 @@
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 15900,
-        "value": "1.59"
+        "value100p": 16500,
+        "value": "1.65"
       },
       "n": 1.0
     }
@@ -129,8 +129,8 @@
       "@class": "com.goodloop.data.Money",
       "year": 0,
       "currency": "GBP",
-      "value100p": 15900,
-      "value": "1.59"
+      "value100p": 16500,
+      "value": "1.65"
     }
   },
   "name": "Helen Keller International",
