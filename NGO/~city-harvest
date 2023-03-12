@@ -1,0 +1,21 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/city-harvest-2-14423036119030726096.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "City Harvest",
+  "suggest": [
+    "city-harvest",
+    "City Harvest",
+    "city-harvest"
+  ],
+  "url": "https://www.cityharvest.org.uk/",
+  "name": "city-harvest",
+  "logo": "https://media.good-loop.com/uploads/standard/uploads__2-1912162414avatar-15624657959362372498.png#ccrop:_ccrop:_ccrop:90",
+  "@id": "city-harvest",
+  "id": "city-harvest",
+  "englandWalesCharityRegNum": "1163055",
+  "summaryDescription": "City Harvest puts surplus food to good use in a sustainable way.\nWe get surplus food safely to the hungry.\nWhile thousands of Londoners go hungry each day, safe, healthy and usable food is being disposed of. City Harvest collects this nutritious surplus food from all segments of the food industry including restaurants, grocers, manufacturers, wholesalers, hotels and caterers.",
+  "status": "PUBLISHED"
+}
