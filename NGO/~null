@@ -1,8 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "DICK;S SPORTING GOODS FOUNDATION",
   "name": "DICK;S SPORTING GOODS FOUNDATION",
   "id": "dick-s-sporting-goods-foundation",
   "suggest": [
+    "DICK;S SPORTING GOODS FOUNDATION",
     "DICK;S SPORTING GOODS FOUNDATION"
   ],
   "status": "DRAFT"
