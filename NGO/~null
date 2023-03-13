@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Conservation Volunteers New Zealand",
-  "name": "Conservation Volunteers New Zealand",
-  "logo": "https://media.good-loop.com/uploads/standard/CVNZ-Transparent-2-15725864528416661229.png",
-  "id": "conservation-volunteers-new-zealand",
+  "name": "DICK;S SPORTING GOODS FOUNDATION",
+  "id": "dick-s-sporting-goods-foundation",
   "suggest": [
-    "Conservation Volunteers New Zealand",
-    "Conservation Volunteers New Zealand"
+    "DICK;S SPORTING GOODS FOUNDATION"
   ],
-  "url": "https://conservationvolunteers.co.nz/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
