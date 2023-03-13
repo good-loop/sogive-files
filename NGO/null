@@ -1,15 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-02-22T10:12:41Z",
-  "name": "We Don\u0027t Waste",
-  "id": "we-don-t-waste",
+  "displayName": "DICK;S SPORTING GOODS FOUNDATION",
+  "name": "DICK;S SPORTING GOODS FOUNDATION",
+  "logo": "https://media.good-loop.com/uploads/standard/download_8-7450726479315458869.png#ccrop:92",
+  "id": "dick-s-sporting-goods-foundation",
   "suggest": [
-    "We Don\u0027t Waste"
+    "DICK;S SPORTING GOODS FOUNDATION",
+    "DICK;S SPORTING GOODS FOUNDATION"
   ],
-  "category": "health",
-  "url": "www.wedontwaste.org",
-  "crm": "4125472783@2506405019@monday.com",
-  "UNSDG": 2.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
