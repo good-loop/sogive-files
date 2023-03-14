@@ -2,8 +2,10 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "notes": "Project for Bumble",
   "@type": "NGO",
   "displayName": "Inclusive arts \u0026 culture",
+  "unlisted": true,
   "name": "inclusive-arts-and-culture",
   "logo": "https://media.good-loop.com/uploads/standard/Inclusive_arts_Culture-17215975075104937517.png",
   "id": "inclusive-arts-and-culture",
