@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "notes": "Project for Bumble",
   "@type": "NGO",
-  "displayName": "Women\u0027s health ",
-  "name": "womens-health",
-  "logo": "https://media.good-loop.com/uploads/standard/Womens_health-3748904581544385502.png#ccrop:105",
-  "id": "womens-health",
+  "name": "inclusive-arts-and-culture",
+  "id": "inclusive-arts-and-culture",
   "suggest": [
-    "womens-health",
-    "Women\u0027s health "
+    "inclusive-arts-and-culture"
   ],
   "status": "DRAFT"
 }
