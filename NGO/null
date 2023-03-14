@@ -4,13 +4,14 @@
   },
   "notes": "Project for Bumble",
   "@type": "NGO",
-  "displayName": "Women\u0027s health ",
-  "name": "womens-health",
-  "logo": "https://media.good-loop.com/uploads/standard/Womens_health-3748904581544385502.png#ccrop:105",
-  "id": "womens-health",
+  "displayName": "Inclusive arts \u0026 culture",
+  "unlisted": true,
+  "name": "inclusive-arts-and-culture",
+  "logo": "https://media.good-loop.com/uploads/standard/Inclusive_arts_Culture-17215975075104937517.png",
+  "id": "inclusive-arts-and-culture",
   "suggest": [
-    "womens-health",
-    "Women\u0027s health "
+    "inclusive-arts-and-culture",
+    "Inclusive arts \u0026 culture"
   ],
   "status": "DRAFT"
 }
