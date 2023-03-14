@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "DICK;S SPORTING GOODS FOUNDATION",
-  "name": "DICK;S SPORTING GOODS FOUNDATION",
-  "logo": "https://media.good-loop.com/uploads/standard/SM__19__1C__solid__HORIZstroke-5153512312408087876.png",
-  "id": "dick-s-sporting-goods-foundation",
+  "name": "action-against-violence-and-exploitation",
+  "id": "action-against-violence-and-exploitation",
   "suggest": [
-    "DICK;S SPORTING GOODS FOUNDATION",
-    "DICK;S SPORTING GOODS FOUNDATION"
+    "action-against-violence-and-exploitation"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
