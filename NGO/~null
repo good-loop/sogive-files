@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "ACTIVE",
   "name": "action-against-violence-and-exploitation",
   "id": "action-against-violence-and-exploitation",
   "suggest": [
-    "action-against-violence-and-exploitation"
+    "action-against-violence-and-exploitation",
+    "ACTIVE"
   ],
   "status": "DRAFT"
 }
