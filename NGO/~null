@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "The Duncan Hospital",
+  "unlisted": true,
   "name": "the-duncan-hospital",
   "logo": "https://media.good-loop.com/uploads/standard/cropped-Duncan-Logo-13308079175138815521.png#ccrop:104",
   "id": "the-duncan-hospital",
