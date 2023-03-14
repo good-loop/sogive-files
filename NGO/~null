@@ -1,18 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "notes": "Project for Bumble",
   "@type": "NGO",
-  "displayName": "Human Rights",
-  "unlisted": true,
-  "name": "human-rights",
-  "logo": "https://media.good-loop.com/uploads/standard/Human_Rights-7537985794978137671.png",
-  "id": "human-rights",
+  "name": "womens-health",
+  "id": "womens-health",
   "suggest": [
-    "human-rights",
-    "Human Rights"
+    "womens-health"
   ],
-  "url": "",
   "status": "DRAFT"
 }
