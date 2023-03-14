@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Inclusive arts ",
+  "displayName": "Inclusive arts \u0026 culture",
   "name": "inclusive-arts-and-culture",
   "id": "inclusive-arts-and-culture",
   "suggest": [
     "inclusive-arts-and-culture",
-    "Inclusive arts "
+    "Inclusive arts \u0026 culture"
   ],
   "status": "DRAFT"
 }
