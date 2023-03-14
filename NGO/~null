@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "ACTIVE",
+  "unlisted": true,
   "name": "action-against-violence-and-exploitation",
   "logo": "https://media.good-loop.com/uploads/standard/306832311__462490912578680__6964537594651500014__n-13755737429905941766.jpg",
   "id": "action-against-violence-and-exploitation",
