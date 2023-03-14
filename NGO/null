@@ -3,15 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Duncan Hospital",
+  "displayName": "Little Africa",
   "unlisted": true,
-  "name": "the-duncan-hospital",
-  "logo": "https://media.good-loop.com/uploads/standard/cropped-Duncan-Logo-13308079175138815521.png#ccrop:104",
-  "id": "the-duncan-hospital",
+  "name": "little-africa",
+  "logo": "https://media.good-loop.com/uploads/standard/LITTLE-AFRICA-LOGO2-10-2048x858-3909017248488524001.png",
+  "id": "little-africa",
   "suggest": [
-    "the-duncan-hospital",
-    "The Duncan Hospital"
+    "little-africa",
+    "Little Africa"
   ],
-  "url": "https://duncanhospital-eha.org/",
+  "url": "https://littleafrica.fr/en/",
   "status": "DRAFT"
 }
