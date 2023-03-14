@@ -2,13 +2,16 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "notes": "Project for Bumble",
   "@type": "NGO",
   "displayName": "Human Rights",
+  "unlisted": true,
   "name": "human-rights",
   "id": "human-rights",
   "suggest": [
     "human-rights",
     "Human Rights"
   ],
+  "url": "",
   "status": "DRAFT"
 }
