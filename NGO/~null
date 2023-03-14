@@ -3,15 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Little Africa",
-  "unlisted": true,
-  "name": "little-africa",
-  "logo": "https://media.good-loop.com/uploads/standard/LITTLE-AFRICA-LOGO2-10-2048x858-3909017248488524001.png",
-  "id": "little-africa",
+  "name": "human-rights",
+  "id": "human-rights",
   "suggest": [
-    "little-africa",
-    "Little Africa"
+    "human-rights"
   ],
-  "url": "https://littleafrica.fr/en/",
   "status": "DRAFT"
 }
