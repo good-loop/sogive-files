@@ -4,15 +4,13 @@
   },
   "notes": "Project for Bumble",
   "@type": "NGO",
-  "displayName": "Human Rights",
-  "unlisted": true,
-  "name": "human-rights",
-  "logo": "https://media.good-loop.com/uploads/standard/Human_Rights-7537985794978137671.png",
-  "id": "human-rights",
+  "displayName": "Women\u0027s health ",
+  "name": "womens-health",
+  "logo": "https://media.good-loop.com/uploads/standard/Womens_health-3748904581544385502.png#ccrop:105",
+  "id": "womens-health",
   "suggest": [
-    "human-rights",
-    "Human Rights"
+    "womens-health",
+    "Women\u0027s health "
   ],
-  "url": "",
   "status": "DRAFT"
 }
