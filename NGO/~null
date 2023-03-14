@@ -3,15 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "ACTIVE",
-  "unlisted": true,
-  "name": "action-against-violence-and-exploitation",
-  "logo": "https://media.good-loop.com/uploads/standard/306832311__462490912578680__6964537594651500014__n-13755737429905941766.jpg",
-  "id": "action-against-violence-and-exploitation",
+  "name": "the-duncan-hospital",
+  "id": "the-duncan-hospital",
   "suggest": [
-    "action-against-violence-and-exploitation",
-    "ACTIVE"
+    "the-duncan-hospital"
   ],
-  "url": "https://www.facebook.com/ACTVEPhilippines/",
   "status": "DRAFT"
 }
