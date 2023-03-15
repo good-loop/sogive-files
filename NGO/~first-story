@@ -1,0 +1,82 @@
+{
+  "circleCrop": 90.0,
+  "images": "https://firststory.org.uk/wp-content/uploads/2020/01/YWF2019-6-scaled.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends39/0001122939_AC_20180630_E_C.pdf"
+        }
+      ],
+      "start_raw": "2017-07-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "887072",
+          "currency": "GBP",
+          "value100p": 8.87072E9,
+          "value": 887072.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2151",
+          "currency": "GBP",
+          "value100p": 2.151E7,
+          "value": 2151.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "209810",
+          "currency": "GBP",
+          "value100p": 2.0981E9,
+          "value": 209810.0
+        }
+      ],
+      "name": "overall",
+      "start": "2017-07-01",
+      "end": "2018-06-30",
+      "end_raw": "2018-06-30"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "First Story",
+  "description": "First Story\u0027s strap line is \u0027Changing Lives Through Writing\u0027. Its stated mission is to empower young people from low-income communities to find their own voices and, in doing so, to thrive in education and in life. The charity primarily works in state secondary schools serving low-income communities and its operating regions are Greater London, the East Midlands and the North of England.",
+  "recommendation": "This charity achieves a bronze rating.\n\nUnder the SoGive methodology, we ask two questions: how much does it cost a charity to do a thing, and what is the thing (or what does the beneficiary get for your money).\n\nIt seems that the cost for a young person from a disadvantaged community to get access to an intensive, regular writing workshop is around £300. This is subject to a number of assumptions, which are expanded upon below.\n\nUnder the SoGive methodology, we compare this with a recommended charity, which may achieve a life saved equivalent outcome for around £1,500. Our question is then whether we would rather save one life or allow 5 children to undergo this training.\n\nTo answer this, we have to consider how much positive impact is achieved by each workshop.\n\nThe charity boasts an impact report, which not all charities do. However the content is light and the evidence base is not strong. The impact report suggests that the following outcomes are achieved:\n• young people\u0027s attitudes to creative writing and whether they find writing outside of the curriculum a fun and fulfilling activity; \n• their confidence and competence in reading aloud; \n• students\u0027 range of writing techniques and skills, and their confidence in\nusing them; \n• their persistence when writing;\n• students\u0027 confidence in\nexperimenting with writing;\n• their ability to review and reflect on\ntheir own work; and\n• young people\u0027s self-belief in their\nability. \n\nOur concerns when reviewing this include:\nThe fact that the outcomes were assessed purely based on self-assessment in surveys. We consider this a weak basis for determining outcomes, because of the many shortcomings of surveys. (Having said this, we recognise that this is better than nothing, and many other charities don\u0027t even have surveys)\nThe fact that no quantification was provided in the impact report -- i.e. no indication of sample size, effect size, odds ratio, or p-value. We suspect that if the effect size were material, it would likely be reported.\n\nOn balance, therefore, we think that the mostly likely outcomes achieved are fairly modest, and indeed concerns about whether the charity is impactful at all are legitimate in this context. And even under relatively generous assumptions about the amount of impact achieved, it seems unlikely that this will compete with a SoGive-recommended charity.\n\nThis is before considering whether we believe that philanthropy is the right way to fund the activity. We are aware from the First Story accounts that First Story receives some of its funding from fees received (presumably from schools). As the benefits to this are so clearly educational, it\u0027s unclear why, after ten years, the charity continues to exist as a charity and hasn\u0027t lobbied for it to be funded by the government. \n\nAddendum on numbers/costs:\nIn determining the cost per young person getting a writing workshop, we had to contend with the fact that the annual report and accounts indicate the number of young people receiving and intensive workshop, however they also indicate several other achievements, such as the young people attending anthology launch parties, reaching teachers in schools, issuing a resource pack, and other things. This means that the c £900k spent didn\u0027t only result in c2,000 young people getting a workshop, it funded other things as well. So for example, if only half the cost went on the workshops, then we should be adjusting the cost down by a factor of half. Note that we also adjusted the cost down because some of the cost was already funded by schools, so we treated it as though donors are not funding those costs.\n",
+  "suggest": [
+    "First Story",
+    "First Story",
+    "first-story"
+  ],
+  "url": "https://firststory.org.uk/",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2018.0]"
+  },
+  "name": "First Story",
+  "modified": false,
+  "logo": "https://i.imgur.com/1UxQYhn.jpeg",
+  "@id": "first-story",
+  "id": "first-story",
+  "wikipedia": "https://en.wikipedia.org/wiki/First_Story",
+  "englandWalesCharityRegNum": "1122939",
+  "summaryDescription": "First Story is an English non-profit organisation that encourages young people to write creatively for pleasure and agency.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
