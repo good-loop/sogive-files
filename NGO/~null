@@ -2,16 +2,15 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "notes": "Project for Bumble",
   "@type": "NGO",
-  "displayName": "Inclusive arts \u0026 culture",
-  "unlisted": true,
-  "name": "inclusive-arts-and-culture",
-  "logo": "https://media.good-loop.com/uploads/standard/Inclusive_arts_Culture-17215975075104937517.png",
-  "id": "inclusive-arts-and-culture",
+  "displayName": "Girls Gotta Run",
+  "name": "Girls Gotta Run",
+  "logo": "https://media.good-loop.com/uploads/standard/girls_gotta_run-7088973878600783628.png#ccrop:96",
+  "id": "girls-gotta-run",
   "suggest": [
-    "inclusive-arts-and-culture",
-    "Inclusive arts \u0026 culture"
+    "Girls Gotta Run",
+    "Girls Gotta Run"
   ],
-  "status": "DRAFT"
+  "url": "https://www.girlsgottarun.org/",
+  "status": "PUBLISHED"
 }
