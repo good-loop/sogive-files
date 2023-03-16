@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Girls Gotta Run",
-  "name": "Girls Gotta Run",
-  "logo": "https://media.good-loop.com/uploads/standard/girls_gotta_run-7088973878600783628.png#ccrop:96",
-  "id": "girls-gotta-run",
+  "name": "cone-exchange",
+  "id": "cone-exchange",
   "suggest": [
-    "Girls Gotta Run",
-    "Girls Gotta Run"
+    "cone-exchange"
   ],
-  "url": "https://www.girlsgottarun.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
