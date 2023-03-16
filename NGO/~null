@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "cone-exchange",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_1-16363265557103494588.png",
-  "id": "cone-exchange",
+  "displayName": "Nuestra Tierra Conservation Project",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO1-12305327512556978651.png",
+  "id": "nuestra-tierra-conservation-project",
   "suggest": [
-    "cone-exchange"
+    "Nuestra Tierra Conservation Project"
   ],
-  "url": "https://www.coneexchange.org/about-us/",
+  "url": "https://www.nuestra-tierra.org/",
   "status": "DRAFT"
 }
