@@ -1,16 +1,11 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "UNHCR",
-  "name": "UNHCR",
-  "logo": "https://media.good-loop.com/uploads/standard/download-10927929576435440143.png#ccrop:82",
-  "id": "unhcr",
+  "created": "2023-03-17T12:53:26Z",
+  "name": "Princes Exchange Foundation",
   "suggest": [
-    "UNHCR",
-    "UNHCR"
+    "Princes Exchange Foundation"
   ],
-  "url": "https://www.unhcr.org/uk/",
-  "status": "MODIFIED"
+  "crm": "4160468374@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
