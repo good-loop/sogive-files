@@ -5,7 +5,7 @@
   },
   "@type": "NGO",
   "name": "Speakers for Schools",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-5382705961403827816.png",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-5382705961403827816.png#ccrop:92",
   "@id": "speakers-for-schools",
   "suggest": [
     "Speakers for Schools",
@@ -13,5 +13,5 @@
   ],
   "url": "www.speakers4schools.org",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
