@@ -1,11 +1,11 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-03-17T12:53:26Z",
-  "name": "Princes Exchange Foundation",
+  "created": "2023-03-17T16:09:12Z",
+  "name": "reforest action",
+  "id": "reforest-action",
   "suggest": [
-    "Princes Exchange Foundation"
+    "reforest action"
   ],
-  "crm": "4160468374@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "crm": "4161861832@2506405019@monday.com"
 }
