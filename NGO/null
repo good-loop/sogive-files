@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Smallpeice Trust",
-  "name": "smallpeice-trust",
-  "logo": "https://media.good-loop.com/uploads/standard/the-smallpeice-trust-logo-vector-xs-13060133964160196303.png#ccrop:89",
-  "id": "smallpeice-trust",
+  "displayName": "UNHCR",
+  "name": "UNHCR",
+  "logo": "https://media.good-loop.com/uploads/standard/download-10927929576435440143.png#ccrop:82",
+  "id": "unhcr",
   "suggest": [
-    "smallpeice-trust",
-    "The Smallpeice Trust"
+    "UNHCR",
+    "UNHCR"
   ],
-  "url": "https://www.smallpeicetrust.org.uk/",
+  "url": "https://www.unhcr.org/uk/",
   "status": "MODIFIED"
 }
