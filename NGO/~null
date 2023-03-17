@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Nuestra Tierra Conservation Project",
-  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-474427147853752641.png#ccrop:110",
-  "id": "nuestra-tierra-conservation-project",
+  "name": "UNHCR",
+  "id": "unhcr",
   "suggest": [
-    "Nuestra Tierra Conservation Project"
+    "UNHCR"
   ],
-  "url": "https://www.nuestra-tierra.org/",
   "status": "DRAFT"
 }
