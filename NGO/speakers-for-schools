@@ -1,0 +1,17 @@
+{
+  "scotlandCharityRegNum": "SC046586",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "Speakers for Schools",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-5382705961403827816.png",
+  "@id": "speakers-for-schools",
+  "suggest": [
+    "Speakers for Schools",
+    "speakers-for-schools"
+  ],
+  "url": "www.speakers4schools.org",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
