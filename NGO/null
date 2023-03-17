@@ -3,12 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "cone-exchange",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_1-16363265557103494588.png",
-  "id": "cone-exchange",
+  "displayName": "UNHCR",
+  "name": "UNHCR",
+  "logo": "https://media.good-loop.com/uploads/standard/download-10927929576435440143.png#ccrop:82",
+  "id": "unhcr",
   "suggest": [
-    "cone-exchange"
+    "UNHCR",
+    "UNHCR"
   ],
-  "url": "https://www.coneexchange.org/about-us/",
   "status": "DRAFT"
 }
