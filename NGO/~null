@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "The Smallpeice Trust",
   "name": "smallpeice-trust",
   "id": "smallpeice-trust",
   "suggest": [
-    "smallpeice-trust"
+    "smallpeice-trust",
+    "The Smallpeice Trust"
   ],
   "status": "DRAFT"
 }
