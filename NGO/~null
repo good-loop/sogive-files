@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "UNHCR",
-  "name": "UNHCR",
-  "logo": "https://media.good-loop.com/uploads/standard/download-10927929576435440143.png#ccrop:82",
-  "id": "unhcr",
+  "name": "CARE USA",
+  "id": "care-usa",
   "suggest": [
-    "UNHCR",
-    "UNHCR"
+    "CARE USA"
   ],
-  "url": "https://www.unhcr.org/uk/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
