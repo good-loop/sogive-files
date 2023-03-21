@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "Alex\u0027s Lemonade Stand",
-  "logo": "https://media.good-loop.com/uploads/standard/ALSFsquare-76184380331363449.jpg#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/alsf-logo-14786805333807569097.png",
   "id": "alex-s-lemonade-stand",
   "suggest": [
     "Alex\u0027s Lemonade Stand"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
