@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "CARE",
-  "name": "CARE USA",
-  "logo": "https://media.good-loop.com/uploads/standard/care-logo-featured-image-10601887116101567427.jpg#ccrop:194",
-  "id": "care-usa",
+  "name": "No Kid Hungry",
+  "id": "alex-s-lemonade-stand",
   "suggest": [
-    "CARE USA",
-    "CARE"
+    "No Kid Hungry"
   ],
   "status": "DRAFT"
 }
