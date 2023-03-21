@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "Alex\u0027s Lemonade Stand ",
-  "logo": "https://media.good-loop.com/uploads/standard/alsf__open__1200-585301630348526612.jpg#ccrop:172",
-  "id": "alex-s-lemonade-stand",
+  "name": "TELUS Health for Good",
+  "id": "telus-health-for-good",
   "suggest": [
-    "Alex\u0027s Lemonade Stand "
+    "TELUS Health for Good"
   ],
   "status": "DRAFT"
 }
