@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "TELUS Health for Good",
-  "logo": "https://media.good-loop.com/uploads/standard/channels4__profile-16834105804081082244.jpg",
-  "id": "telus-health-for-good",
+  "displayName": "Hilton Global Foundation",
+  "name": "Hilton Global Foundation ",
+  "logo": "https://media.good-loop.com/uploads/standard/download_9-12975093756497062827.png#ccrop:94",
+  "id": "hilton-global-foundation",
   "suggest": [
-    "TELUS Health for Good"
+    "Hilton Global Foundation ",
+    "Hilton Global Foundation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
