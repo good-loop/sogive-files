@@ -3,13 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Hilton Global Foundation",
-  "name": "Hilton Global Foundation ",
-  "logo": "https://media.good-loop.com/uploads/standard/download_9-12975093756497062827.png#ccrop:90",
-  "id": "hilton-global-foundation",
+  "displayName": "Fake Charities ",
+  "unlisted": true,
+  "name": "fake-charities",
+  "logo": "https://media.good-loop.com/uploads/standard/Starling__Bank__Logo-12238684940398222770.png",
+  "id": "fake-charities",
   "suggest": [
-    "Hilton Global Foundation ",
-    "Hilton Global Foundation"
+    "fake-charities",
+    "Fake Charities "
   ],
-  "status": "MODIFIED"
+  "url": "",
+  "status": "DRAFT"
 }
