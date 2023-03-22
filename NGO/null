@@ -3,15 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Fake Charities ",
-  "unlisted": true,
-  "name": "fake-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/Starling__Bank__Logo-12238684940398222770.png",
-  "id": "fake-charities",
+  "displayName": "Matthew 25 Ministeries",
+  "name": "Matthew 25 Ministeries",
+  "logo": "https://media.good-loop.com/uploads/standard/M25M-2017-Logo__WEB-8487793319248146898.png",
+  "id": "ministeries",
   "suggest": [
-    "fake-charities",
-    "Fake Charities "
+    "Matthew 25 Ministeries",
+    "Matthew 25 Ministeries"
   ],
-  "url": "",
+  "url": "https://m25m.org/",
   "status": "DRAFT"
 }
