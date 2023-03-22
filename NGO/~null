@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Hilton Global Foundation",
   "name": "Hilton Global Foundation",
   "id": "hilton-global-foundation",
   "suggest": [
+    "Hilton Global Foundation",
     "Hilton Global Foundation"
   ],
   "status": "DRAFT"
