@@ -4,12 +4,12 @@
   },
   "@type": "NGO",
   "displayName": "Hilton Global Foundation",
-  "name": "Hilton Global Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/download_9-12975093756497062827.png#ccrop:84",
+  "name": "Hilton Global Foundation ",
+  "logo": "https://media.good-loop.com/uploads/standard/download_9-12975093756497062827.png#ccrop:91",
   "id": "hilton-global-foundation",
   "suggest": [
-    "Hilton Global Foundation",
+    "Hilton Global Foundation ",
     "Hilton Global Foundation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
