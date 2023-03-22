@@ -1,17 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Fake Charities ",
-  "unlisted": true,
-  "name": "fake-charities",
-  "logo": "https://media.good-loop.com/uploads/standard/Starling__Bank__Logo-12238684940398222770.png",
-  "id": "fake-charities",
+  "name": "ministeries",
+  "id": "ministeries",
   "suggest": [
-    "fake-charities",
-    "Fake Charities "
+    "ministeries"
   ],
-  "url": "",
   "status": "DRAFT"
 }
