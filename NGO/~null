@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Fake Charities ",
+  "unlisted": true,
   "name": "fake-charities",
   "id": "fake-charities",
   "suggest": [
