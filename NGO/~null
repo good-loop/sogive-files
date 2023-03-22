@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Matthew 25 Ministeries",
   "name": "Matthew 25 Ministeries",
-  "logo": "https://media.good-loop.com/uploads/standard/M25M-2017-Logo__WEB-8487793319248146898.png",
+  "logo": "https://media.good-loop.com/uploads/standard/M25M-2017-Logo__WEB-8487793319248146898.png#ccrop:90",
   "id": "ministeries",
   "suggest": [
     "Matthew 25 Ministeries",
     "Matthew 25 Ministeries"
   ],
   "url": "https://m25m.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
