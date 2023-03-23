@@ -1,0 +1,78 @@
+{
+  "ukCompanyRegNum": "04677253",
+  "images": "https://media.good-loop.com/uploads/raw/ChooseLove-6386613836440866704.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": true,
+  "suggest": [
+    "Help Refugees",
+    "help-refugees"
+  ],
+  "url": "https://helprefugees.org/",
+  "whyTags": "Refugees",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": ""
+    }
+  },
+  "name": "Help Refugees",
+  "logo": "https://media.good-loop.com/uploads/raw/blackred-250-min-14939107930862230824-1673622806893208551.png",
+  "@id": "help-refugees",
+  "englandWalesCharityRegNum": "Receives donations via Prism the Gift Fund (1099682)",
+  "summaryDescription": "We are pioneering a new movement in humanitarian aid: fast, flexible, and transparent.\nWe get your funds to the people who need them most as quickly as possible. 89% of your donations go directly towards supporting refugees.",
+  "uk_giftaid": false,
+  "status": "DRAFT"
+}
