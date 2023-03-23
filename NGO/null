@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Fake Charity Yes",
-  "unlisted": true,
-  "ready": false,
-  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-11665782592689431690.svg",
-  "id": "fake-charity-yes",
+  "displayName": "Marine Mammal Center",
+  "name": "marine-mammal-center",
+  "logo": "https://media.good-loop.com/uploads/standard/The__Marine__Mammal__Center__logo-5250042132205302942.png#ccrop:90",
+  "id": "marine-mammal-center",
   "suggest": [
-    "Fake Charity Yes"
+    "marine-mammal-center",
+    "Marine Mammal Center"
   ],
-  "url": "",
+  "url": "https://www.marinemammalcenter.org/",
   "status": "DRAFT"
 }
