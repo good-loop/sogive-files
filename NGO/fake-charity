@@ -6,7 +6,7 @@
   "@type": "NGO",
   "displayName": "fake charity",
   "name": "fake-charity",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-14306190055410265065.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-14306190055410265065.svg#ccrop:90",
   "@id": "fake-charity",
   "suggest": [
     "fake-charity",
@@ -14,5 +14,5 @@
     "fake-charity"
   ],
   "id": "fake-charity",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
