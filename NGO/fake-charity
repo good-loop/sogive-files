@@ -1,0 +1,18 @@
+{
+  "circleCrop": 170.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "fake charity",
+  "name": "fake-charity",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-14306190055410265065.svg",
+  "@id": "fake-charity",
+  "suggest": [
+    "fake-charity",
+    "fake charity",
+    "fake-charity"
+  ],
+  "id": "fake-charity",
+  "status": "DRAFT"
+}
