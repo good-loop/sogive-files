@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Marine Mammal Center",
-  "name": "marine-mammal-center",
-  "logo": "https://media.good-loop.com/uploads/standard/The__Marine__Mammal__Center__logo-5250042132205302942.png#ccrop:90",
-  "id": "marine-mammal-center",
+  "created": "2023-03-23T18:36:13Z",
+  "name": "UK National Parks Foundation",
+  "id": "uk-national-parks-foundation",
   "suggest": [
-    "marine-mammal-center",
-    "Marine Mammal Center"
+    "UK National Parks Foundation"
   ],
-  "url": "https://www.marinemammalcenter.org/",
-  "status": "DRAFT"
+  "category": "environment",
+  "url": "www.nationalparks.uk",
+  "crm": "4193980019@2506405019@monday.com",
+  "UNSDG": 13.0
 }
