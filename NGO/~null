@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "International Bird Rescue",
-  "name": "international-bird-rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/IBR__Logo__2022__Horizontal__Large__OceanBlue-1-15872532995449225548.jpg#ccrop:105",
-  "id": "international-bird-rescue",
+  "name": "marine-mammal-center",
+  "id": "marine-mammal-center",
   "suggest": [
-    "international-bird-rescue",
-    "International Bird Rescue"
+    "marine-mammal-center"
   ],
-  "url": "https://www.birdrescue.org/",
   "status": "DRAFT"
 }
