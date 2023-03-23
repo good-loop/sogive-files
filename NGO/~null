@@ -5,11 +5,12 @@
   "@type": "NGO",
   "displayName": "America\u0027s Tooth Fairy",
   "name": "America\u0027s Tooth Fairy",
-  "logo": "https://www.americastoothfairy.org/",
+  "logo": "",
   "id": "americastoothfairy",
   "suggest": [
     "America\u0027s Tooth Fairy",
     "America\u0027s Tooth Fairy"
   ],
+  "url": "https://www.americastoothfairy.org/",
   "status": "DRAFT"
 }
