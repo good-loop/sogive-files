@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "International Bird Rescue",
-  "name": "international-bird-rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/IBR__Logo__2022__Horizontal__Large__OceanBlue-1-15872532995449225548.jpg#ccrop:105",
-  "id": "international-bird-rescue",
+  "displayName": "Fake Charity Yes",
+  "unlisted": true,
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-11665782592689431690.svg",
+  "id": "fake-charity-yes",
   "suggest": [
-    "international-bird-rescue",
-    "International Bird Rescue"
+    "Fake Charity Yes"
   ],
-  "url": "https://www.birdrescue.org/",
+  "url": "",
   "status": "DRAFT"
 }
