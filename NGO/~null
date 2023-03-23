@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "America\u0027s Tooth Fairy",
   "name": "America\u0027s Tooth Fairy",
   "id": "americastoothfairy",
   "suggest": [
+    "America\u0027s Tooth Fairy",
     "America\u0027s Tooth Fairy"
   ],
   "status": "DRAFT"
