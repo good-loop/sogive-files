@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "America\u0027s Tooth Fairy",
-  "name": "America\u0027s Tooth Fairy",
-  "logo": "https://media.good-loop.com/uploads/standard/5b9bf458899c18aec4ce87c8__AT__Logo__no-tag__400-17225840437012953875.png",
-  "id": "americastoothfairy",
+  "name": "international-bird-rescue",
+  "id": "international-bird-rescue",
   "suggest": [
-    "America\u0027s Tooth Fairy",
-    "America\u0027s Tooth Fairy"
+    "international-bird-rescue"
   ],
-  "url": "https://www.americastoothfairy.org/",
   "status": "DRAFT"
 }
