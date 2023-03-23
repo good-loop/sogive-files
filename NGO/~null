@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Marine Mamma; Center",
-  "name": "marine-mammal-center",
-  "id": "marine-mammal-center",
+  "displayName": "Fake Charity Yes",
+  "unlisted": true,
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/Skyscanner__Logo__LockupHorizontal__SkyBlue__RGB-356783585844554943.svg#ccrop:90",
+  "id": "fake-charity-yes",
   "suggest": [
-    "marine-mammal-center",
-    "Marine Mamma; Center"
+    "Fake Charity Yes"
   ],
   "url": "",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
