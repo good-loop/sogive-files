@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Marine Mamma Center",
+  "displayName": "Marine Mammal Center",
   "name": "marine-mammal-center",
   "id": "marine-mammal-center",
   "suggest": [
     "marine-mammal-center",
-    "Marine Mamma Center"
+    "Marine Mammal Center"
   ],
   "url": "",
   "status": "DRAFT"
