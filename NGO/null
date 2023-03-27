@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Barbie Dream Gap",
   "name": "barbie-dream-gap",
-  "logo": "https://media.good-loop.com/uploads/standard/bb__dream-gap__logo2-13444840025825414474.png",
+  "logo": "https://media.good-loop.com/uploads/standard/bb__dream-gap__logo2-13444840025825414474.png#ccrop:91",
   "id": "barbie-dream-gap",
   "suggest": [
     "barbie-dream-gap",
     "Barbie Dream Gap"
   ],
   "url": "https://shop.mattel.com/pages/barbie-dream-gap",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
