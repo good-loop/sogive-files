@@ -4,10 +4,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Bank of Scotland Foundation",
   "name": "Bank of Scotland Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/Header-Logo-11446614775054137445.png",
   "@id": "bank-of-scotland-foundation",
   "suggest": [
+    "Bank of Scotland Foundation",
     "Bank of Scotland Foundation",
     "bank-of-scotland-foundation"
   ],
