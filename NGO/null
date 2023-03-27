@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Vegeterian Charity",
-  "name": "the-vegeterian-charity",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-F431433_1-6886120172949168995.png",
-  "id": "the-vegeterian-charity",
+  "displayName": "Barbie Dream Gap",
+  "name": "barbie-dream-gap",
+  "logo": "https://media.good-loop.com/uploads/standard/bb__dream-gap__logo2-13444840025825414474.png",
+  "id": "barbie-dream-gap",
   "suggest": [
-    "the-vegeterian-charity",
-    "The Vegeterian Charity"
+    "barbie-dream-gap",
+    "Barbie Dream Gap"
   ],
+  "url": "https://shop.mattel.com/pages/barbie-dream-gap",
   "status": "DRAFT"
 }
