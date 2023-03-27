@@ -5,6 +5,7 @@
   },
   "@type": "NGO",
   "name": "Bank of Scotland Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Header-Logo-11446614775054137445.png",
   "@id": "bank-of-scotland-foundation",
   "suggest": [
     "Bank of Scotland Foundation",
@@ -12,5 +13,5 @@
   ],
   "url": "www.bankofscotlandfoundation.org",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
