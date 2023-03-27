@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The fruit planting tree foundation",
-  "name": "the-fruit-planting-tree-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/8e4db9__b50b80325f6f46afa6a4f6d1cc97925a__mv2_1-16730749806984557770.png",
-  "id": "the-fruit-planting-tree-foundation",
+  "name": "barbie-dream-gap",
+  "id": "barbie-dream-gap",
   "suggest": [
-    "the-fruit-planting-tree-foundation",
-    "The fruit planting tree foundation"
+    "barbie-dream-gap"
   ],
   "status": "DRAFT"
 }
