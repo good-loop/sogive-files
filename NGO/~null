@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Marine Mammal Center",
-  "name": "marine-mammal-center",
-  "logo": "https://media.good-loop.com/uploads/standard/The__Marine__Mammal__Center__logo-5250042132205302942.png#ccrop:90",
-  "id": "marine-mammal-center",
+  "name": "barbiedreamgap",
+  "id": "barbiedreamgap",
   "suggest": [
-    "marine-mammal-center",
-    "Marine Mammal Center"
+    "barbiedreamgap"
   ],
-  "url": "https://www.marinemammalcenter.org/",
   "status": "DRAFT"
 }
