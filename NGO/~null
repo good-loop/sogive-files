@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "The fruit planting tree foundation",
   "name": "the-fruit-planting-tree-foundation",
   "id": "the-fruit-planting-tree-foundation",
   "suggest": [
-    "the-fruit-planting-tree-foundation"
+    "the-fruit-planting-tree-foundation",
+    "The fruit planting tree foundation"
   ],
   "status": "DRAFT"
 }
