@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Barbie Dream Gap",
-  "name": "barbie-dream-gap",
-  "logo": "https://media.good-loop.com/uploads/standard/bb__dream-gap__logo2-13444840025825414474.png#ccrop:91",
-  "id": "barbie-dream-gap",
+  "displayName": "The Farm Link Project",
+  "name": "The Farm Link Project",
+  "logo": "https://media.good-loop.com/uploads/standard/611d5f0613c0bd7422767294__Farmlink_Logo_Castleton_Green-p-500-11233976433736382619.png#ccrop:89",
+  "id": "the-farm-link-project",
   "suggest": [
-    "barbie-dream-gap",
-    "Barbie Dream Gap"
+    "The Farm Link Project",
+    "The Farm Link Project"
   ],
-  "url": "https://shop.mattel.com/pages/barbie-dream-gap",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
