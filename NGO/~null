@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Barbie Dream Gap",
-  "name": "barbiedreamgap",
-  "logo": "https://media.good-loop.com/uploads/standard/bb__dream-gap__logo2-4388474187887266344.png",
-  "id": "barbiedreamgap",
+  "name": "the-vegeterian-charity",
+  "id": "the-vegeterian-charity",
   "suggest": [
-    "barbiedreamgap",
-    "Barbie Dream Gap"
+    "the-vegeterian-charity"
   ],
-  "url": "https://shop.mattel.com/pages/barbie-dream-gap",
   "status": "DRAFT"
 }
