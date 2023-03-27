@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The Vegeterian Charity",
-  "name": "the-vegeterian-charity",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-F431433_1-6886120172949168995.png",
-  "id": "the-vegeterian-charity",
+  "name": "the-fruit-planting-tree-foundation",
+  "id": "the-fruit-planting-tree-foundation",
   "suggest": [
-    "the-vegeterian-charity",
-    "The Vegeterian Charity"
+    "the-fruit-planting-tree-foundation"
   ],
   "status": "DRAFT"
 }
