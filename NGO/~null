@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "The Farm Link Project",
-  "logo": "https://media.good-loop.com/uploads/standard/611d5f0613c0bd7422767294__Farmlink_Logo_Castleton_Green-p-500-11233976433736382619.png#ccrop:89",
-  "id": "the-farm-link-project",
+  "name": "Toys for tots",
+  "id": "toys-for-tots",
   "suggest": [
-    "The Farm Link Project"
+    "Toys for tots"
   ],
   "status": "DRAFT"
 }
