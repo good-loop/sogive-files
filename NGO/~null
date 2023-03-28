@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Toys for tots",
+  "displayName": "Toys for Tots",
+  "name": "Toys for Tots",
   "id": "toys-for-tots",
   "suggest": [
-    "Toys for tots"
+    "Toys for Tots",
+    "Toys for Tots"
   ],
   "status": "DRAFT"
 }
