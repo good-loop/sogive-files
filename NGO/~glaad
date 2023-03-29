@@ -1,0 +1,16 @@
+{
+  "circleCrop": 85.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "glaad",
+  "logo": "https://media.good-loop.com/uploads/raw/1200px-Glaadorangelogo.svg-3015257644330579895.png#ccrop:90",
+  "@id": "glaad",
+  "suggest": [
+    "glaad",
+    "glaad"
+  ],
+  "id": "glaad",
+  "status": "MODIFIED"
+}
