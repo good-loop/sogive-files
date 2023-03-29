@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Teach First",
   "name": "teach-first",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-10379113472486384259.svg",
   "id": "teach-first",
   "suggest": [
     "teach-first",
