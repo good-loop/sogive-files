@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Good Sports",
-  "name": "Good Sports",
-  "logo": "https://media.good-loop.com/uploads/standard/nb-foundation-good-sports-logo-15359308321996959529.png#ccrop:98",
-  "id": "good-sports",
+  "name": "Boston Childrens\u0027 Hospital",
+  "id": "boston-childrens--hospital",
   "suggest": [
-    "Good Sports",
-    "Good Sports"
+    "Boston Childrens\u0027 Hospital"
   ],
   "status": "DRAFT"
 }
