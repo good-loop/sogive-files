@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Good Sports",
-  "name": "Good Sports",
-  "logo": "https://media.good-loop.com/uploads/standard/nb-foundation-good-sports-logo-15359308321996959529.png#ccrop:98",
-  "id": "good-sports",
+  "displayName": "Boston Childrens\u0027 Hospital",
+  "name": "Boston Children\u0027s Hospital",
+  "logo": "https://media.good-loop.com/uploads/standard/nb-foundation-boston-childrens-hospital-logo-8370185640120356093.png#ccrop:90",
+  "id": "boston-childrens--hospital",
   "suggest": [
-    "Good Sports",
-    "Good Sports"
+    "Boston Children\u0027s Hospital",
+    "Boston Childrens\u0027 Hospital"
   ],
   "status": "DRAFT"
 }
