@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Teach First",
-  "name": "teach-first",
-  "logo": "https://media.good-loop.com/uploads/standard/logo.svg_2-17887255104034426709.png",
-  "id": "teach-first",
+  "displayName": "Good Sports",
+  "name": "Good Sports",
+  "logo": "https://media.good-loop.com/uploads/standard/nb-foundation-good-sports-logo-15359308321996959529.png#ccrop:98",
+  "id": "good-sports",
   "suggest": [
-    "teach-first",
-    "Teach First"
+    "Good Sports",
+    "Good Sports"
   ],
-  "url": "https://www.teachfirst.org.uk/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
