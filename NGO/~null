@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "name": "Boston Childrens\u0027 Hospital",
   "id": "boston-childrens--hospital",
