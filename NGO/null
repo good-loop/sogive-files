@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "dress-for-success",
-  "name": "Dress for Success",
-  "logo": "https://media.good-loop.com/uploads/standard/wk0121-about-us-corporate-responsibility-dress-for-success-logo-3962854122076005754.png#ccrop:79",
-  "id": "dress-for-success",
+  "displayName": "trust for public land",
+  "name": "trust for public land",
+  "logo": "https://media.good-loop.com/uploads/standard/tpl-logo-11843534902140421540.svg#ccrop:91",
+  "id": "trust-for-public-land",
   "suggest": [
-    "Dress for Success",
-    "dress-for-success"
+    "trust for public land",
+    "trust for public land"
   ],
   "status": "DRAFT"
 }
