@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Toys for Tots",
-  "name": "Toys for Tots",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo-Toys-for-Tots_1-3628238785208051975.jpg#ccrop:104",
-  "id": "toys-for-tots",
+  "displayName": "Teach First",
+  "name": "teach-first",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-10379113472486384259.svg",
+  "id": "teach-first",
   "suggest": [
-    "Toys for Tots",
-    "Toys for Tots"
+    "teach-first",
+    "Teach First"
   ],
+  "url": "https://www.teachfirst.org.uk/",
   "status": "DRAFT"
 }
