@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Boston Childrens\u0027 Hospital",
-  "name": "Boston Children\u0027s Hospital",
-  "logo": "https://media.good-loop.com/uploads/standard/nb-foundation-boston-childrens-hospital-logo-8370185640120356093.png#ccrop:90",
-  "id": "boston-childrens--hospital",
+  "displayName": "dress-for-success",
+  "name": "Dress for Success",
+  "logo": "https://media.good-loop.com/uploads/standard/wk0121-about-us-corporate-responsibility-dress-for-success-logo-3962854122076005754.png#ccrop:89",
+  "id": "dress-for-success",
   "suggest": [
-    "Boston Children\u0027s Hospital",
-    "Boston Childrens\u0027 Hospital"
+    "Dress for Success",
+    "dress-for-success"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
