@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Teach First",
   "name": "teach-first",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-10379113472486384259.svg",
+  "logo": "https://media.good-loop.com/uploads/standard/logo.svg_2-17887255104034426709.png",
   "id": "teach-first",
   "suggest": [
     "teach-first",
     "Teach First"
   ],
   "url": "https://www.teachfirst.org.uk/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
