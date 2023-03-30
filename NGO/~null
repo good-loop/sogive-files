@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Volunteers in Medicine",
-  "name": "Volunteers in Medicine",
-  "logo": "https://media.good-loop.com/uploads/standard/teaserbox__903653848-14772010588076464938.jpg#ccrop:82",
-  "id": "-the-national-association-of-free-and-charitable-clinics",
+  "name": "run-fund",
+  "id": "run-fund",
   "suggest": [
-    "Volunteers in Medicine",
-    "Volunteers in Medicine"
+    "run-fund"
   ],
   "status": "DRAFT"
 }
