@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Aetna Foundation",
-  "name": "Aetna Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/CVS__Aetna__Foundation__Logo-11788894347757021114.jpg#ccrop:90",
-  "id": "aetna-foundation",
+  "displayName": "Volunteers in Medicine",
+  "name": "Volunteers in Medicine",
+  "logo": "https://media.good-loop.com/uploads/standard/teaserbox__903653848-14772010588076464938.jpg#ccrop:82",
+  "id": "-the-national-association-of-free-and-charitable-clinics",
   "suggest": [
-    "Aetna Foundation",
-    "Aetna Foundation"
+    "Volunteers in Medicine",
+    "Volunteers in Medicine"
   ],
   "status": "DRAFT"
 }
