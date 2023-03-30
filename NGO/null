@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "NBA Foundation",
-  "name": "NBA Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_4-8193020167442886731.png#ccrop:81",
-  "id": "nba-foundation",
+  "displayName": "Aetna Foundation",
+  "name": "Aetna Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/CVS__Aetna__Foundation__Logo-11788894347757021114.jpg#ccrop:90",
+  "id": "aetna-foundation",
   "suggest": [
-    "NBA Foundation",
-    "NBA Foundation"
+    "Aetna Foundation",
+    "Aetna Foundation"
   ],
   "status": "DRAFT"
 }
