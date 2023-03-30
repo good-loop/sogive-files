@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Aetna Foundation",
+  "displayName": "Volunteers in Medicine",
   "name": "Volunteers in Medicine",
   "logo": "https://media.good-loop.com/uploads/standard/CVS__Aetna__Foundation__Logo-11788894347757021114.jpg#ccrop:90",
   "id": "aetna-foundation",
   "suggest": [
     "Volunteers in Medicine",
-    "Aetna Foundation"
+    "Volunteers in Medicine"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
