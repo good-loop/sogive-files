@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Aetna Foundation",
   "name": "Aetna Foundation",
   "id": "aetna-foundation",
   "suggest": [
+    "Aetna Foundation",
     "Aetna Foundation"
   ],
   "status": "DRAFT"
