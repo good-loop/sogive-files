@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": " The National Association of Free \u0026 Charitable Clinics",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-nafcc-2020-white-16x9-13320672481150006336.jpg#ccrop:102",
-  "id": "-the-national-association-of-free-and-charitable-clinics",
+  "displayName": "Aetna Foundation",
+  "name": "Volunteers in Medicine",
+  "logo": "https://media.good-loop.com/uploads/standard/CVS__Aetna__Foundation__Logo-11788894347757021114.jpg#ccrop:90",
+  "id": "aetna-foundation",
   "suggest": [
-    " The National Association of Free \u0026 Charitable Clinics"
+    "Volunteers in Medicine",
+    "Aetna Foundation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
