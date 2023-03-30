@@ -1,5 +1,4 @@
 {
-  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Give%20Directly%20Alex.PNG?raw\u003dtrue",
   "projects": [
     {
       "outputs": [
@@ -75,9 +74,18 @@
   ],
   "@type": "NGO",
   "displayName": "Give Directly",
+  "recommendation": "What do they do? GiveDirectly (givedirectly.org) transfers cash to households in developing countries via mobile phone-linked payment services. It targets extremely low-income households. (More)\n\nDoes it work? We believe that this approach faces an unusually low burden of proof, and that the available evidence supports the idea that unconditional cash transfers significantly help people. GiveDirectly has a track record of effectively delivering cash to low-income households. GiveDirectly has one major randomized controlled trial (RCT) of its impact and several more RCTs in progress. (More)\n\nWhat do you get for your dollar? The proportion of total expenses that GiveDirectly has delivered directly to recipients is approximately 83% overall. This estimate averages across multiple program types and relies on several rough assumptions about what costs to include and exclude. (More)\n\nIs there room for more funding? We believe that GiveDirectly is highly likely to be constrained by funding next year. It expects to use additional funding primarily for standard cash transfers and to unlock grants for projects in new countries from other funders who require GiveDirectly to provide matching funding for their contributions. We estimate that GiveDirectly could use more than $200 million in additional funding in 2018-2019. (More)\n\nGiveDirectly is recommended because of its:\n\nFocus on a program with a low burden of proof and a strong track record. (More)\nStrong process for ensuring that cash is well-targeted and consistently reaches its intended targets. (More)\nDocumented success in transferring a high portion of funds raised directly to recipients. (More)\nStandout transparency (more).\nRoom for more funding. We believe that GiveDirectly can use substantial additional funding productively. (More)\nMajor open questions include:\n\nWhile GiveDirectly has one major RCT of its activities in Kenya, there is still limited evidence on the impact of the type of transfers (large, one-time transfers; and, going forward, unconditional long-term income transfers) that GiveDirectly generally provides, particularly the long-term impact of such transfers. There are currently several ongoing experimental evaluations of GiveDirectly\u0027s programs, including a long-term RCT.\nWe believe GiveDirectly\u0027s basic income guarantee program is likely less cost-effective than GiveDirectly\u0027s standard cash transfer campaigns. In 2016-2017, GiveDirectly chose to fundraise extensively for the basic income study, and some donors who previously supported standard cash transfers supported the basic income project instead. GiveDirectly had a large funding gap for standard cash transfer campaigns in 2017 relative to growth projections. It is unclear if these donors, particularly the largest donors, would have continued to support standard cash transfers in the absence of the basic income project.\n\nWe sourced this analysis from our trusted partner GiveWell",
+  "whyTags": "International aid, poverty",
+  "ready": false,
+  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Give%20Directly%20logo.png?raw\u003dtrue",
+  "modified": true,
+  "@id": "give-directly",
+  "summaryDescription": "GiveDirectly sends money directly to the poor with no strings attached. High quality research suggests this money is largely spent on capital investment such as housing/land and livestock. ",
+  "uptodatedraft": "probably",
+  "images": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Give%20Directly%20Alex.PNG?raw\u003dtrue",
   "noPublicDonations": false,
   "impact": "slightly-low",
-  "recommendation": "What do they do? GiveDirectly (givedirectly.org) transfers cash to households in developing countries via mobile phone-linked payment services. It targets extremely low-income households. (More)\n\nDoes it work? We believe that this approach faces an unusually low burden of proof, and that the available evidence supports the idea that unconditional cash transfers significantly help people. GiveDirectly has a track record of effectively delivering cash to low-income households. GiveDirectly has one major randomized controlled trial (RCT) of its impact and several more RCTs in progress. (More)\n\nWhat do you get for your dollar? The proportion of total expenses that GiveDirectly has delivered directly to recipients is approximately 83% overall. This estimate averages across multiple program types and relies on several rough assumptions about what costs to include and exclude. (More)\n\nIs there room for more funding? We believe that GiveDirectly is highly likely to be constrained by funding next year. It expects to use additional funding primarily for standard cash transfers and to unlock grants for projects in new countries from other funders who require GiveDirectly to provide matching funding for their contributions. We estimate that GiveDirectly could use more than $200 million in additional funding in 2018-2019. (More)\n\nGiveDirectly is recommended because of its:\n\nFocus on a program with a low burden of proof and a strong track record. (More)\nStrong process for ensuring that cash is well-targeted and consistently reaches its intended targets. (More)\nDocumented success in transferring a high portion of funds raised directly to recipients. (More)\nStandout transparency (more).\nRoom for more funding. We believe that GiveDirectly can use substantial additional funding productively. (More)\nMajor open questions include:\n\nWhile GiveDirectly has one major RCT of its activities in Kenya, there is still limited evidence on the impact of the type of transfers (large, one-time transfers; and, going forward, unconditional long-term income transfers) that GiveDirectly generally provides, particularly the long-term impact of such transfers. There are currently several ongoing experimental evaluations of GiveDirectly\u0027s programs, including a long-term RCT.\nWe believe GiveDirectly\u0027s basic income guarantee program is likely less cost-effective than GiveDirectly\u0027s standard cash transfer campaigns. In 2016-2017, GiveDirectly chose to fundraise extensively for the basic income study, and some donors who previously supported standard cash transfers supported the basic income project instead. GiveDirectly had a large funding gap for standard cash transfer campaigns in 2017 relative to growth projections. It is unclear if these donors, particularly the largest donors, would have continued to support standard cash transfers in the absence of the basic income project.\n\nWe sourced this analysis from our trusted partner GiveWell",
+  "confidence": "medium",
   "suggest": [
     "Give Directly",
     "Give Directly",
@@ -99,7 +107,6 @@
     }
   ],
   "url": "https://www.givedirectly.org/",
-  "whyTags": "International aid, poverty",
   "howTags": "Direct Work",
   "recommended": true,
   "simpleImpact": {
@@ -119,13 +126,7 @@
       "notes": "Yes"
     }
   },
-  "ready": false,
   "name": "Give Directly",
-  "logo": "https://github.com/winterstein/SoGive/blob/master/webroot/img/external/Give%20Directly%20logo.png?raw\u003dtrue",
-  "modified": true,
-  "@id": "give-directly",
-  "summaryDescription": "GiveDirectly sends money directly to the poor with no strings attached. High quality research suggests this money is largely spent on capital investment such as housing/land and livestock. ",
   "uk_giftaid": false,
-  "uptodatedraft": "probably",
   "status": "PUBLISHED"
 }
