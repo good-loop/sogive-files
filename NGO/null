@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "trust for public land",
-  "name": "trust for public land",
-  "logo": "https://media.good-loop.com/uploads/standard/tpl-logo-11843534902140421540.svg#ccrop:91",
-  "id": "trust-for-public-land",
+  "displayName": "NBA Foundation",
+  "name": "NBA Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_4-8193020167442886731.png#ccrop:81",
+  "id": "nba-foundation",
   "suggest": [
-    "trust for public land",
-    "trust for public land"
+    "NBA Foundation",
+    "NBA Foundation"
   ],
   "status": "DRAFT"
 }
