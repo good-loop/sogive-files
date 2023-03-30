@@ -1,32 +1,16 @@
 {
-  "images": "",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-03-30T13:44:33Z",
-  "name": "Trees for Cities",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "trees-for-cities",
-      "name": "",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 237138,
-        "value": "23.713881791144808578602"
-      },
-      "amountGBP": 0.0,
-      "amountUSD": 0.0,
-      "n": 1.0
-    }
-  ],
+  "displayName": "Run Fund",
+  "name": "run-fund",
+  "logo": "https://media.good-loop.com/uploads/standard/runfund-5919595648376015556.jpg",
+  "id": "run-fund",
   "suggest": [
-    "Trees for Cities"
+    "run-fund",
+    "Run Fund"
   ],
-  "category": "environment",
-  "url": "www.treesforcities.org",
-  "crm": "4230679792@2506405019@monday.com",
-  "UNSDG": 11.0,
-  "status": "PUBLISHED"
+  "url": "https://www.michelobultra.com/runfund",
+  "status": "DRAFT"
 }
