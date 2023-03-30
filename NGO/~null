@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Run Fund",
   "name": "run-fund",
-  "logo": "https://media.good-loop.com/uploads/standard/FiMuNjOXEBU2F7o-1562981383534233716.jpg#ccrop:128",
+  "logo": "https://media.good-loop.com/uploads/standard/FiMuNjOXEBU2F7o-1562981383534233716.jpg#ccrop:130",
   "id": "run-fund",
   "suggest": [
     "run-fund",
     "Run Fund"
   ],
   "url": "https://www.michelobultra.com/runfund",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
