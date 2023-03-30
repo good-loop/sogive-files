@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Aetna Foundation",
-  "name": "Aetna Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/CVS__Aetna__Foundation__Logo-11788894347757021114.jpg",
-  "id": "aetna-foundation",
+  "name": " The National Association of Free \u0026 Charitable Clinics",
+  "id": "-the-national-association-of-free-and-charitable-clinics",
   "suggest": [
-    "Aetna Foundation",
-    "Aetna Foundation"
+    " The National Association of Free \u0026 Charitable Clinics"
   ],
   "status": "DRAFT"
 }
