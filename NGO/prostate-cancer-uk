@@ -1,5 +1,8 @@
 {
   "scotlandCharityRegNum": "SC039332",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -436,7 +439,7 @@
   "UNSDG": "3",
   "whyTags": "Cancer, Health, Research, Saving lives",
   "ready": true,
-  "logo": "https://media.good-loop.com/uploads/raw/Prostate-Cancer__2020-470x271-391769440441024819.png",
+  "logo": "https://media.good-loop.com/uploads/raw/Prostate-Cancer__2020-470x271-391769440441024819.png#ccrop:89",
   "modified": true,
   "@id": "prostate-cancer-uk",
   "wikipedia": "https://en.wikipedia.org/wiki/National_Cancer_Research_Institute",
@@ -489,5 +492,5 @@
   "englandWalesCharityRegNum": "1005541",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
