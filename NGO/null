@@ -6,10 +6,12 @@
   "@type": "NGO",
   "unlisted": true,
   "ready": false,
+  "displayName": "self-reported",
   "name": "unknown",
   "id": "unknown",
   "suggest": [
-    "unknown"
+    "unknown",
+    "self-reported"
   ],
   "summaryDescription": "Details unknown at this time.",
   "status": "DRAFT"
