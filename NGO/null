@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Run Fund",
-  "name": "run-fund",
-  "logo": "https://media.good-loop.com/uploads/standard/FiMuNjOXEBU2F7o-1562981383534233716.jpg#ccrop:130",
-  "id": "run-fund",
+  "displayName": "Queer Britain ",
+  "name": "queer-britain",
+  "logo": "https://media.good-loop.com/uploads/standard/queer-britian-5468701765515776024.png",
+  "id": "queer-britain",
   "suggest": [
-    "run-fund",
-    "Run Fund"
+    "queer-britain",
+    "Queer Britain "
   ],
-  "url": "https://www.michelobultra.com/runfund",
-  "status": "DRAFT"
+  "url": "https://queerbritain.org.uk/",
+  "status": "MODIFIED"
 }
