@@ -392,6 +392,9 @@
   "meta": {
     "noPublicDonations": {
       "notes": "Yes"
+    },
+    "recommendation": {
+      "notes": "https://docs.google.com/document/d/1HRtVsWVAbEGrZNZRzoDbM60nokFd0SasSrcQYHe0e6c/edit"
     }
   },
   "name": "Against Malaria Foundation",
