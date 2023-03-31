@@ -2,7 +2,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "notes": "This marks \"We tried to find the charitybut could not get details at this time\"",
+  "notes": "This marks \"We tried to find the charity but could not get details at this time\" -- which is different from just blank - no-one has looked.",
   "@type": "NGO",
   "unlisted": true,
   "ready": false,
