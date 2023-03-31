@@ -2,17 +2,13 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "notes": "This marks \"We\u0027ve been reliably told this is being done. We tried to find the charity but could not get details at this time\" -- which is different from just blank - no-one has looked at this bit of data-entry.",
   "@type": "NGO",
-  "unlisted": true,
-  "ready": false,
-  "displayName": "self-reported",
-  "name": "unknown",
-  "id": "unknown",
+  "displayName": "Age UK Kensington \u0026 Chelsea",
+  "logo": "https://media.good-loop.com/uploads/standard/age-uk-kensington-and-chelsea-logo-rgb-12601300496688912208.png",
+  "id": "age-uk-kensington-chelsea",
   "suggest": [
-    "unknown",
-    "self-reported"
+    "Age UK Kensington \u0026 Chelsea"
   ],
-  "summaryDescription": "Details unknown at this time.",
+  "url": "https://www.ageuk.org.uk/kensingtonandchelsea/",
   "status": "PUBLISHED"
 }
