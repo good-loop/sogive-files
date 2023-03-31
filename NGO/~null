@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Queer Britain ",
-  "name": "queer-britain",
-  "logo": "https://media.good-loop.com/uploads/standard/queer-britian-5468701765515776024.png",
-  "id": "queer-britain",
+  "name": "unknown",
+  "id": "unknown",
   "suggest": [
-    "queer-britain",
-    "Queer Britain "
+    "unknown"
   ],
-  "url": "https://queerbritain.org.uk/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
