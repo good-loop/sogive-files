@@ -1,18 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "notes": "This marks \"We\u0027ve been reliably told this is being done. We tried to find the charity but could not get details at this time\" -- which is different from \"blank - no-one has looked at this bit of data-entry\".",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "unlisted": true,
-  "ready": false,
-  "displayName": "self-reported",
-  "name": "unknown",
-  "id": "unknown",
+  "created": "2023-03-31T19:31:27Z",
+  "name": "Fair Game (Football) Ltd",
+  "id": "fair-game-football-ltd",
   "suggest": [
-    "unknown",
-    "self-reported"
+    "Fair Game (Football) Ltd"
   ],
-  "summaryDescription": "Details unknown at this time.",
-  "status": "MODIFIED"
+  "url": "www,fairgameuk.org",
+  "crm": "4240084346@2506405019@monday.com",
+  "UNSDG": 11.0
 }
