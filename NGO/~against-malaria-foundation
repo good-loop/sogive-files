@@ -330,7 +330,8 @@
           "currency": "GBP"
         }
       ],
-      "name": "overall"
+      "name": "overall",
+      "isRep": true
     }
   ],
   "@type": "NGO",
@@ -363,13 +364,13 @@
     {
       "@class": "com.goodloop.data.charity.Impact",
       "charity": "against-malaria-foundation",
-      "name": "malaria nets (singular: net)",
+      "name": "malaria net(s)",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
-        "currency": "GBP",
-        "value100p": 38500,
-        "value": "3.85"
+        "value100p": 40700,
+        "value": "4.07",
+        "name": ""
       },
       "n": 1.0
     }
@@ -380,13 +381,13 @@
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "malaria nets (singular: net)",
+    "name": "malaria net(s)",
     "costPerBeneficiary": {
       "@class": "com.goodloop.data.Money",
       "year": 0,
-      "currency": "GBP",
-      "value100p": 38500,
-      "value": "3.85"
+      "value100p": 40700,
+      "value": "4.07",
+      "name": ""
     }
   },
   "meta": {
