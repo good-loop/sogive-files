@@ -1,14 +1,16 @@
 {
-  "xero": "c06f6851-6c98-47e6-abd9-ee3b785613d7@xero.com",
+  "xero": "508be2c3-109c-4228-a21f-9c67efece3a1@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "American Forests",
-  "created": "2023-04-03T22:02:49Z",
-  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
-  "id": "american-forests",
+  "displayName": "Gordon Parks Foundation",
+  "created": "2023-04-03T22:02:56Z",
+  "name": "Gordon Parks Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/1578432152232-205696783827781434.png#ccrop:80",
+  "id": "gordon-parks-foundation",
   "suggest": [
-    "American Forests"
+    "Gordon Parks Foundation",
+    "Gordon Parks Foundation"
   ],
-  "url": "https://www.americanforests.org/",
+  "url": "https://www.gordonparksfoundation.org/",
   "status": "PUBLISHED"
 }
