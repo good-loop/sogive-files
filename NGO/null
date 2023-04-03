@@ -1,17 +1,19 @@
 {
-  "xero": "a49c7960-7e84-4b56-a580-b6a91de0985a@xero.com",
-  "circleCrop": "90.0",
+  "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#0fb2b7",
   "@type": "NGO",
-  "displayName": "Great Barrier Reef Foundation",
-  "created": "2023-04-03T21:28:30Z",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/XVNiWjIjUCAkAdZSLpUXJvKU-2029011295087958033.png#ccrop:74",
-  "id": "great-barrier-reef-foundation",
+  "created": "2023-04-03T21:42:23Z",
   "suggest": [
-    "",
-    "Great Barrier Reef Foundation"
+    "Gold Standard"
   ],
-  "url": "https://www.barrierreef.org/",
+  "url": "https://www.goldstandard.org/",
+  "UNSDG": 13.0,
+  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc@xero.com",
+  "name": "Gold Standard",
+  "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
   "status": "PUBLISHED"
 }
