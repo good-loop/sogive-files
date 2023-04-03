@@ -1,17 +1,17 @@
 {
-  "xero": "d6728516-7c1b-4c6f-a712-ba3e9cc23e25@xero.com",
+  "xero": "a49c7960-7e84-4b56-a580-b6a91de0985a@xero.com",
+  "circleCrop": "90.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Opening Doors London",
-  "created": "2023-04-03T21:28:07Z",
+  "displayName": "Great Barrier Reef Foundation",
+  "created": "2023-04-03T21:28:30Z",
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/6c8abdca-bd6a-4434-b724-995f96e64210-4488897424816081723.png#ccrop:95",
-  "id": "opening-doors-london",
+  "logo": "https://media.good-loop.com/uploads/standard/XVNiWjIjUCAkAdZSLpUXJvKU-2029011295087958033.png#ccrop:74",
+  "id": "great-barrier-reef-foundation",
   "suggest": [
     "",
-    "Opening Doors London"
+    "Great Barrier Reef Foundation"
   ],
-  "summaryDescription": "Opening Doors London is the UK\u0027s largest charity helping connect LGBTQ+ people over 50 with activities, events, support and information.",
-  "url": "https://www.openingdoors.lgbt/",
+  "url": "https://www.barrierreef.org/",
   "status": "PUBLISHED"
 }
