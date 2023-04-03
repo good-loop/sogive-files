@@ -1,14 +1,16 @@
 {
-  "xero": "1b9f68b1-0f1e-4764-a04e-5413d2efe96e@xero.com",
+  "xero": "b6a92981-3846-4d0c-84d3-10d526eba78e@xero.com",
+  "images": "https://imgur.com/a/ZLj4e",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Gurls Talk",
-  "created": "2023-04-03T22:00:31Z",
-  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
-  "id": "gurls-talk",
+  "created": "2023-04-03T22:00:39Z",
+  "name": "Corali Dance Company",
+  "description": "Corali has an established methodology of artistic collaboration and they specialise in dance-performance created by artists with learning disabilities.\n\nCorali has two main strands of activity:\n\nPerformance\nCorali devise and tour original performance work made by a core group of permanent company members (who have a learning disability) and artistic collaborators. Corali is best known for its site-specific performances and for its partnerships with high profile venues such as Tate Modern and The South Bank Centre.\n\nEngagement\nCorali delivers a full engagement programme that provides outreach, education and training in a range of settings such as special schools, colleges, youth clubs and arts institutions. This programme includes Arts Award courses, choreographic mentoring, and placements.",
+  "logo": "https://imgur.com/a/X5y4G",
   "suggest": [
-    "Gurls Talk"
+    "Corali Dance Company"
   ],
-  "url": "https://www.gurlstalk.com/",
+  "summaryDescription": "Corali offers dance and art activities for adults, children, and young people with learning disabilities in South East London.",
+  "url": "http://www.corali.org.uk/",
   "status": "DRAFT"
 }
