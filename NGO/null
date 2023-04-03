@@ -1,16 +1,14 @@
 {
-  "xero": "c96bcd1a-8fb7-46a0-8974-afd0059b0fab@xero.com",
-  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
+  "xero": "1b9f68b1-0f1e-4764-a04e-5413d2efe96e@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "created": "2023-04-03T22:00:25Z",
-  "description": "Chashama helps create a more diverse, equitable, and inclusive world by partnering with property owners to transform unused real estate. These spaces are used for artists, small businesses, and for free community-centric art classes. ",
-  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
-  "id": "chashama",
+  "displayName": "Gurls Talk",
+  "created": "2023-04-03T22:00:31Z",
+  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
+  "id": "gurls-talk",
   "suggest": [
-    "ChaShaMa"
+    "Gurls Talk"
   ],
-  "url": "https://chashama.org/",
-  "status": "PUBLISHED"
+  "url": "https://www.gurlstalk.com/",
+  "status": "DRAFT"
 }
