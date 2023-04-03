@@ -1,16 +1,19 @@
 {
-  "xero": "9edfa6a1-aef3-4752-8915-79c3d38da247@xero.com",
+  "images": "https://media.good-loop.com/uploads/standard/FareShare-3-small-1854840328290494917.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Rainbow Railroad",
-  "created": "2023-04-03T22:01:18Z",
-  "name": "Rainbow Railroad",
-  "logo": "https://media.good-loop.com/uploads/standard/download_16-14540494298079540495.png#ccrop:99",
-  "id": "rainbow-railroad",
+  "displayName": "Food Bank AUs",
+  "created": "2023-04-03T22:01:29Z",
+  "description": "FareShare is the UK’s national network of charitable food redistributors, the food we redistribute is nutritious and good to eat. It reaches charities across the UK, including school breakfast clubs, older people’s lunch clubs, homeless shelters, and community cafes. Every week we provide enough food to create almost a million meals for vulnerable people.",
   "suggest": [
-    "Rainbow Railroad",
-    "Rainbow Railroad"
+    "Food Bank",
+    "Food Bank AUs"
   ],
-  "url": "https://www.rainbowrailroad.org/",
-  "status": "PUBLISHED"
+  "url": "https://fareshare.org.uk/",
+  "xero": "f99a1c1c-b4b7-401e-8d64-6266c8de5eba@xero.com",
+  "name": "Food Bank",
+  "logo": "https://media.good-loop.com/uploads/standard/download_22-17546510594497735025.png#ccrop:86",
+  "category": "human services",
+  "subcategory": "Food Banks and Food Distribution",
+  "status": "MODIFIED"
 }
