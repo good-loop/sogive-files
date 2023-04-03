@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Lenovo Foundation",
   "name": "Lenovo Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/lenovo-foundation-lockup-08-2022-12284840452114300712.png",
+  "logo": "https://media.good-loop.com/uploads/standard/lenovo-foundation-lockup-08-2022-12284840452114300712.png#ccrop:92",
   "id": "lenovo-foundation",
   "suggest": [
+    "Lenovo Foundation",
     "Lenovo Foundation"
   ],
   "status": "DRAFT"
