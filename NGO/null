@@ -1,15 +1,16 @@
 {
-  "xero": "e404d6ed-017e-4033-955a-7b5075f813fc@xero.com",
+  "xero": "c96bcd1a-8fb7-46a0-8974-afd0059b0fab@xero.com",
+  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Outward Bound Trust",
-  "created": "2023-04-03T22:00:14Z",
-  "name": "The Outward Bound Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/Outward-Bound-Trust-logo-13312999572987774104.jpeg#ccrop:110",
+  "displayName": "ChaShaMa",
+  "created": "2023-04-03T22:00:25Z",
+  "description": "Chashama helps create a more diverse, equitable, and inclusive world by partnering with property owners to transform unused real estate. These spaces are used for artists, small businesses, and for free community-centric art classes. ",
+  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
+  "id": "chashama",
   "suggest": [
-    "The Outward Bound Trust",
-    "The Outward Bound Trust"
+    "ChaShaMa"
   ],
-  "url": "https://www.outwardbound.org/",
+  "url": "https://chashama.org/",
   "status": "PUBLISHED"
 }
