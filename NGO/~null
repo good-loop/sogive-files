@@ -2,15 +2,16 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Care International",
-  "name": "care-international-charity",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-16972277493456658830.png",
-  "id": "care-international-charity",
+  "created": "2023-03-17T16:09:12Z",
+  "displayName": "Reforest ",
+  "name": "reforest action",
+  "id": "reforest-action",
   "suggest": [
-    "care-international-charity",
-    "Care International"
+    "reforest action",
+    "Reforest "
   ],
-  "url": "https://www.care-international.org/",
-  "status": "DRAFT"
+  "crm": "4161861832@2506405019@monday.com",
+  "status": "MODIFIED"
 }
