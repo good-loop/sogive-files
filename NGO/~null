@@ -3,13 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Lenovo Foundation",
-  "name": "Lenovo Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/lenovo-foundation-lockup-08-2022-12284840452114300712.png#ccrop:92",
-  "id": "lenovo-foundation",
+  "displayName": "Black Girls Code",
+  "logo": "https://media.good-loop.com/uploads/standard/download_10-3954948035024307654.png#ccrop:80",
+  "altlogo": "https://media.good-loop.com/uploads/standard/BGC-logo-white-01_1-6644309273547269818.svg#ccrop:90",
+  "id": "black-girls-code",
   "suggest": [
-    "Lenovo Foundation",
-    "Lenovo Foundation"
+    "Black Girls Code"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
