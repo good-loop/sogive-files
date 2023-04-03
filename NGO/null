@@ -2,18 +2,16 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-03-17T16:09:12Z",
-  "displayName": "Reforest\u0027Action",
-  "name": "reforest action",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-reforest-action-2018-fond-transparent-8359505208769065811.png#ccrop:90",
-  "id": "reforest-action",
+  "displayName": "Fake",
+  "unlisted": true,
+  "name": "charity-fake",
+  "logo": "https://media.good-loop.com/uploads/standard/og-logo-black-v2-99302465214991345.png#ccrop:90",
+  "id": "charity-fake",
   "suggest": [
-    "reforest action",
-    "Reforest\u0027Action"
+    "charity-fake",
+    "Fake"
   ],
-  "url": "https://www.reforestaction.com",
-  "crm": "4161861832@2506405019@monday.com",
+  "url": "",
   "status": "DRAFT"
 }
