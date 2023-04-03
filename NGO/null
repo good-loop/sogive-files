@@ -1,14 +1,18 @@
 {
-  "xero": "9b0bf61b-f65c-48e7-aaf2-5eb4a807ba5e@xero.com",
+  "images": "https://media.good-loop.com/uploads/raw/vivaconagua-10616691129953763740.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Women In Football",
-  "created": "2023-04-03T21:59:33Z",
-  "logo": "https://media.good-loop.com/uploads/standard/WIF__PREFERRED__LOGO-3168628917842801428.png",
-  "id": "women-in-footbal",
+  "displayName": "Viva Con Agua",
+  "created": "2023-04-03T21:59:40Z",
   "suggest": [
-    "Women In Football"
+    "conagua",
+    "Viva Con Agua"
   ],
-  "url": "https://www.womeninfootball.co.uk/",
+  "url": "https://www.vivaconagua.org/en/",
+  "xero": "679467b2-8ac7-4681-8070-00c113a324e2@xero.com",
+  "name": "conagua",
+  "logo": "https://media.good-loop.com/uploads/raw/viva-con-agua-logo-334538360323765504.png#ccrop:_ccrop:_ccrop:90",
+  "id": "conagua",
+  "summaryDescription": "Viva con aqua supports clean drinking water worldwide through the motto of \"Water for All - All for Water\". Viva con aqua supports water, sanitation and hygiene projects (WASH) with local and international partner organizations and together, they have already been able to reach over 3 million people. Our Levi Strauss \u0026 Co. team in Germany has partnered with Viva con Aqua in the past few years to raise awareness supporting the cause through various initiatives presented to the Levi’s fans.",
   "status": "PUBLISHED"
 }
