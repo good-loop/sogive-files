@@ -1,13 +1,16 @@
 {
-  "xero": "1bc02688-97ba-4190-b0b8-8f5f8b76fe10@xero.com",
+  "xero": "9edfa6a1-aef3-4752-8915-79c3d38da247@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Ocean Foundation",
-  "created": "2023-04-03T22:01:11Z",
-  "logo": "https://media.good-loop.com/uploads/standard/the-ocean-foundation-logo-vector-469738881737751125.png#ccrop:90",
-  "id": "the-ocean-foundation",
+  "displayName": "Rainbow Railroad",
+  "created": "2023-04-03T22:01:18Z",
+  "name": "Rainbow Railroad",
+  "logo": "https://media.good-loop.com/uploads/standard/download_16-14540494298079540495.png#ccrop:99",
+  "id": "rainbow-railroad",
   "suggest": [
-    "The Ocean Foundation"
+    "Rainbow Railroad",
+    "Rainbow Railroad"
   ],
+  "url": "https://www.rainbowrailroad.org/",
   "status": "PUBLISHED"
 }
