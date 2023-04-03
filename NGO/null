@@ -1,19 +1,18 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/FareShare-3-small-1854840328290494917.jpeg",
+  "images": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs__37635100589-4012061159743912612.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Food Bank AUs",
-  "created": "2023-04-03T22:01:29Z",
-  "description": "FareShare is the UK’s national network of charitable food redistributors, the food we redistribute is nutritious and good to eat. It reaches charities across the UK, including school breakfast clubs, older people’s lunch clubs, homeless shelters, and community cafes. Every week we provide enough food to create almost a million meals for vulnerable people.",
+  "displayName": "The National Deaf Children\u0027s Society",
+  "created": "2023-04-03T22:02:17Z",
+  "description": "NDCS vision is \"a world without barriers for every deaf child\", and their ambition is that \"by 2030 no deaf child will be left behind\". To achieve this, NDCS has a continued focus on three key areas:\n- **Overcoming barriers in local and national services**.\n- **Overcoming barriers in language and communication**.\n- **Overcoming barriers to independence**.\n-",
   "suggest": [
-    "Food Bank",
-    "Food Bank AUs"
+    "The National Deaf Children\u0027s Society",
+    "The National Deaf Children\u0027s Society"
   ],
-  "url": "https://fareshare.org.uk/",
-  "xero": "f99a1c1c-b4b7-401e-8d64-6266c8de5eba@xero.com",
-  "name": "Food Bank",
-  "logo": "https://media.good-loop.com/uploads/standard/download_22-17546510594497735025.png#ccrop:86",
-  "category": "human services",
-  "subcategory": "Food Banks and Food Distribution",
-  "status": "MODIFIED"
+  "url": "https://www.ndcs.org.uk",
+  "xero": "1214d261-a58d-494d-8945-85ec58608d12@xero.com",
+  "name": "The National Deaf Children\u0027s Society",
+  "logo": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs-8666677042428446531.png",
+  "summaryDescription": "The National Deaf Children\u0027s Society\u0027s (NDCS) objective is to further the education and relieve the needs of deaf children.",
+  "status": "PUBLISHED"
 }
