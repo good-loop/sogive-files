@@ -1,16 +1,17 @@
 {
-  "xero": "8429dc91-ce64-48c7-8839-db5d4c457d64@xero.com",
+  "xero": "d6728516-7c1b-4c6f-a712-ba3e9cc23e25@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "SoLa I Can Foundation",
-  "created": "2023-04-03T21:26:40Z",
-  "name": "SoLa I Can Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/SOLA-I-CAN-10897794090523641144.png#ccrop:60",
-  "id": "sola-i-can-foundation",
+  "displayName": "Opening Doors London",
+  "created": "2023-04-03T21:28:07Z",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/6c8abdca-bd6a-4434-b724-995f96e64210-4488897424816081723.png#ccrop:95",
+  "id": "opening-doors-london",
   "suggest": [
-    "SoLa I Can Foundation",
-    "SoLa I Can Foundation"
+    "",
+    "Opening Doors London"
   ],
-  "url": "https://www.solaican.org/",
-  "status": "MODIFIED"
+  "summaryDescription": "Opening Doors London is the UK\u0027s largest charity helping connect LGBTQ+ people over 50 with activities, events, support and information.",
+  "url": "https://www.openingdoors.lgbt/",
+  "status": "PUBLISHED"
 }
