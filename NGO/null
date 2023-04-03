@@ -1,18 +1,14 @@
 {
-  "images": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs__37635100589-4012061159743912612.jpg",
+  "xero": "c06f6851-6c98-47e6-abd9-ee3b785613d7@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The National Deaf Children\u0027s Society",
-  "created": "2023-04-03T22:02:17Z",
-  "description": "NDCS vision is \"a world without barriers for every deaf child\", and their ambition is that \"by 2030 no deaf child will be left behind\". To achieve this, NDCS has a continued focus on three key areas:\n- **Overcoming barriers in local and national services**.\n- **Overcoming barriers in language and communication**.\n- **Overcoming barriers to independence**.\n-",
+  "displayName": "American Forests",
+  "created": "2023-04-03T22:02:49Z",
+  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
+  "id": "american-forests",
   "suggest": [
-    "The National Deaf Children\u0027s Society",
-    "The National Deaf Children\u0027s Society"
+    "American Forests"
   ],
-  "url": "https://www.ndcs.org.uk",
-  "xero": "1214d261-a58d-494d-8945-85ec58608d12@xero.com",
-  "name": "The National Deaf Children\u0027s Society",
-  "logo": "https://app.sogive.org/uploads/10215864836869234facebook/ndcs-8666677042428446531.png",
-  "summaryDescription": "The National Deaf Children\u0027s Society\u0027s (NDCS) objective is to further the education and relieve the needs of deaf children.",
+  "url": "https://www.americanforests.org/",
   "status": "PUBLISHED"
 }
