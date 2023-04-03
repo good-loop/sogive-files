@@ -1,19 +1,18 @@
 {
-  "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
+  "images": "https://media.good-loop.com/uploads/raw/RivercleanupBA_sep2020_1-18434864768453734526.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#0fb2b7",
   "@type": "NGO",
-  "created": "2023-04-03T21:42:23Z",
+  "displayName": "River Cleanup",
+  "created": "2023-04-03T21:57:54Z",
   "suggest": [
-    "Gold Standard"
+    "River-Clean-Up",
+    "River Cleanup"
   ],
-  "url": "https://www.goldstandard.org/",
-  "UNSDG": 13.0,
-  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc@xero.com",
-  "name": "Gold Standard",
-  "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
+  "url": "https://www.river-cleanup.org/en",
+  "xero": "fddec2bf-e7f2-494f-acaf-e444da8311bf@xero.com",
+  "name": "River-Clean-Up",
+  "logo": "https://media.good-loop.com/uploads/standard/river-clean-up-300x294_1-5992685773844556360.png#ccrop:75",
+  "id": "river-clean-up",
+  "summaryDescription": "River Cleanup is an organization which works towards cleaning up and educating people around the issue of waste as every year, about 8 billion kgs of plastic waste ends up in our seas and oceans, and 80% of that waste ends up there via rivers. River Cleanup has already triggered awareness in 100,000 people worldwide of this plastic problem and actively invests in smart technology to catch floating waste. Levi Strauss \u0026 Co. Europe has partnered with River Cleanup around some employee teambuilding cleanup combined with an information session on how to reduce the use of single-use items in 2020.",
   "status": "PUBLISHED"
 }
