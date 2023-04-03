@@ -1,18 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/vivaconagua-10616691129953763740.png",
+  "xero": "6c4b71a4-b63a-4ff3-9d72-703141bd4ebc@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Viva Con Agua",
-  "created": "2023-04-03T21:59:40Z",
+  "displayName": "Terrance Higgins Trust",
+  "created": "2023-04-03T21:59:58Z",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_6-301562784957715972.svg#ccrop:_ccrop:65",
+  "id": "terrance-higgins-trust",
   "suggest": [
-    "conagua",
-    "Viva Con Agua"
+    "Terrance Higgins Trust"
   ],
-  "url": "https://www.vivaconagua.org/en/",
-  "xero": "679467b2-8ac7-4681-8070-00c113a324e2@xero.com",
-  "name": "conagua",
-  "logo": "https://media.good-loop.com/uploads/raw/viva-con-agua-logo-334538360323765504.png#ccrop:_ccrop:_ccrop:90",
-  "id": "conagua",
-  "summaryDescription": "Viva con aqua supports clean drinking water worldwide through the motto of \"Water for All - All for Water\". Viva con aqua supports water, sanitation and hygiene projects (WASH) with local and international partner organizations and together, they have already been able to reach over 3 million people. Our Levi Strauss \u0026 Co. team in Germany has partnered with Viva con Aqua in the past few years to raise awareness supporting the cause through various initiatives presented to the Levi’s fans.",
+  "url": "https://www.tht.org.uk/",
   "status": "PUBLISHED"
 }
