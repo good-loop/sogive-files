@@ -1,16 +1,18 @@
 {
-  "xero": "bb521e66-fb9b-4471-b824-106b663e6b0b@xero.com",
+  "images": "https://media.good-loop.com/uploads/standard/thurgood_marshall_-10064739373520053292.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Bounce Cinema",
-  "created": "2023-04-03T21:58:19Z",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/Bounce_Cinema_Film_Fund-1234075920823363839.png#ccrop:80",
-  "id": "bounce-cinema",
+  "displayName": "Thurgood Marshall College Fund",
+  "created": "2023-04-03T21:58:29Z",
+  "description": "Established in 1987, the Thurgood Marshall College Fund (TMCF) is the nation’s largest organization exclusively representing the Black College Community. TMCF member-schools include the publicly-supported Historically Black Colleges and Universities (HBCUs) and Predominantly Black Institutions (PBIs). Publicly-supported HBCUs enroll over 80% of all students attending HBCUs. Through scholarships, capacity building and research initiatives, innovative programs, and strategic partnerships, TMCF is a vital resource in the K-12 and higher education space. The organization is also a source for top employers seeking top talent for competitive internships and good jobs.",
   "suggest": [
-    "",
-    "Bounce Cinema"
+    "Thurgood Marshall College Fund",
+    "Thurgood Marshall College Fund"
   ],
-  "url": "https://www.bouncecinema.com/",
+  "url": "https://www.tmcf.org/",
+  "xero": "64d6ae0a-8d86-44a3-8c23-44e4d95c9a58@xero.com",
+  "name": "Thurgood Marshall College Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/download_19-12631027652450681588.png#ccrop:129",
+  "id": "thurgood",
   "status": "PUBLISHED"
 }
