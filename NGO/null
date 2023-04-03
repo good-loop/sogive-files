@@ -1,30 +1,13 @@
 {
-  "xero": "ee69ccbd-5eaa-42e5-a771-c1c44d44a664@xero.com",
+  "xero": "1bc02688-97ba-4190-b0b8-8f5f8b76fe10@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-04-03T22:01:02Z",
-  "name": "Solar Aid",
-  "description": "Solar Aid is a charity which exists to promote the sale of solar lamps in sub Saharan Africa.",
-  "logo": "https://media.good-loop.com/uploads/standard/SolarAid-logo-orangeblack-RGB_-_825_x_484-16076087127364306015.png#ccrop:120",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "solar-aid",
-      "name": "solar light(s) sold",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 111492,
-        "value": "11.149244949990194839500"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "The Ocean Foundation",
+  "created": "2023-04-03T22:01:11Z",
+  "logo": "https://media.good-loop.com/uploads/standard/the-ocean-foundation-logo-vector-469738881737751125.png#ccrop:90",
+  "id": "the-ocean-foundation",
   "suggest": [
-    "Solar Aid"
+    "The Ocean Foundation"
   ],
-  "summaryDescription": "Solar Aid combats poverty and climate change by promoting the sale of solar lamps in Sub-Saharan Africa. Solar Aid aims to eliminate the kerosene lamp, which is a source of greenhouse gases and health problems",
-  "url": "https://solar-aid.org/",
   "status": "PUBLISHED"
 }
