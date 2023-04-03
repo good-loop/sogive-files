@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Age UK Kensington \u0026 Chelsea",
-  "logo": "https://media.good-loop.com/uploads/standard/age-uk-kensington-and-chelsea-logo-rgb-12601300496688912208.png",
-  "id": "age-uk-kensington-chelsea",
+  "name": "Lenovo Foundation",
+  "id": "lenovo-foundation",
   "suggest": [
-    "Age UK Kensington \u0026 Chelsea"
+    "Lenovo Foundation"
   ],
-  "url": "https://www.ageuk.org.uk/kensingtonandchelsea/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
