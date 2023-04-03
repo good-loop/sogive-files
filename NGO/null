@@ -1,41 +1,30 @@
 {
-  "circleCrop": "100.0",
-  "images": "https://media.good-loop.com/uploads/standard/104684217__122591412815065__623746812783951028__n-11683816546159789937.jpeg",
+  "xero": "ee69ccbd-5eaa-42e5-a771-c1c44d44a664@xero.com",
   "@class": "com.goodloop.data.NGO",
-  "color": "#000000",
   "@type": "NGO",
-  "displayName": "Black Minds Matter UK",
-  "created": "2023-04-03T22:00:55Z",
-  "description": "Black Minds Matter UK was founded in June 2020 by Agnes Mwakatuma and Annie Heyes and connects Black individuals and families with free mental health services- by professional Black therapists to support their mental health.\n\nTheir vision is to make mental health topics more relevant and accessible for all Black people in the U.K., removing the stigma and remodelling the services to be relevant for the Black community.",
-  "suggest": [
-    "black-minds-matter",
-    "Black Minds Matter UK"
-  ],
-  "xero": "ab38a723-f29e-4b02-b562-33796e0e25b1@xero.com",
-  "headerImage": "https://media.good-loop.com/uploads/standard/th-15490201564386777892.jpeg",
-  "name": "black-minds-matter",
-  "logo": "https://media.good-loop.com/uploads/standard/BMM-561929584911281987.png",
-  "id": "black-minds-matter",
-  "category": "human services",
-  "extendedDescription": "Black Minds Matter UK is a charity and initiative changing the face of Black mental health by making mental health resources more relevant and accessible for all Black people in the U.K.\n\nThey\u0027re on a mission to connect Black individuals and families with free mental health services - by providing fully funded 12 weeks of therapy with certified Black therapists.\n\nWithin their first month of operation, approximately 2600 signed up to their waiting list to access therapy with BMM UK. By December 2020, the over 500 individuals had started therapy, and since then BMMUK has continued to support Black individuals and a families across the UK.\n\n£60 can fund one initial therapy assessment for a Black individual or family, but every penny donated to BMMUK will make a positive difference.",
-  "subcategory": "Social Services",
-  "summaryDescription": "Black Minds Matter UK is a fully registered charity operating in the UK; connecting Black individuals and families with free mental health services- by professional Black therapists to support their mental health. ",
-  "imageList": [
+  "created": "2023-04-03T22:01:02Z",
+  "name": "Solar Aid",
+  "description": "Solar Aid is a charity which exists to promote the sale of solar lamps in sub Saharan Africa.",
+  "logo": "https://media.good-loop.com/uploads/standard/SolarAid-logo-orangeblack-RGB_-_825_x_484-16076087127364306015.png#ccrop:120",
+  "impacts": [
     {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/104697002__123849026022637__6816458913332338437__n-13958547038213098170.jpeg",
-      "created": "2023-04-03T22:00:55Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/186548035__303005541440317__833669335613571793__n-1297670777682176545.jpeg",
-      "created": "2023-04-03T22:00:55Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/217617039__340242144383323__4090145152812314736__n-16818903429406185623.png",
-      "created": "2023-04-03T22:00:55Z"
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "solar-aid",
+      "name": "solar light(s) sold",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 111492,
+        "value": "11.149244949990194839500"
+      },
+      "n": 1.0
     }
   ],
+  "suggest": [
+    "Solar Aid"
+  ],
+  "summaryDescription": "Solar Aid combats poverty and climate change by promoting the sale of solar lamps in Sub-Saharan Africa. Solar Aid aims to eliminate the kerosene lamp, which is a source of greenhouse gases and health problems",
+  "url": "https://solar-aid.org/",
   "status": "PUBLISHED"
 }
