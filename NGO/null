@@ -1,21 +1,19 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/1459213__878592504287__1255605911__n__grande-16079779446798351320.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "WeForest",
-  "created": "2023-04-03T22:03:21Z",
+  "displayName": "Help Musicians UK",
+  "created": "2023-04-03T22:03:31Z",
+  "description": "For 100 years, Help Musicians has been providing help, support and opportunities to empower musicians at all stages of their lives.\n\nWe’re an independent charity which aims to make a meaningful difference to the lives of musicians, offering a wide spectrum of support which includes: Health \u0026 Welfare services, Creative development funding, ground-breaking research, a mental health helpline for the entire music industry and an incredibly popular hearing health scheme which aims to prevent hearing problems that would otherwise bring musicians’ careers to an untimely end.",
   "suggest": [
-    "we-forest",
-    "WeForest"
+    "Help Musicians UK"
   ],
-  "url": "https://www.weforest.org/",
-  "UNSDG": 13.0,
-  "xero": "b7b4f550-c70b-41e6-87b2-95b21acecb32@xero.com",
-  "name": "we-forest",
-  "logo": "https://media.good-loop.com/uploads/standard/WF__Logo-500px-RGB__2__1-16742688197090123680.jpg#ccrop:85",
-  "id": "we-forest",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "summaryDescription": "We imagine a world where communities and nations sustainably manage their forests and natural resources for the benefit of our climate, the environment and humanity.",
+  "url": "https://www.helpmusicians.org.uk/",
+  "xero": "c996a969-b528-4b65-867a-8dfe48665e2e@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
+  "id": "help-musicians",
+  "category": "arts culture humanities",
+  "subcategory": "Performing Arts",
+  "summaryDescription": "",
   "status": "PUBLISHED"
 }
