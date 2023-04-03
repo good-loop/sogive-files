@@ -1,17 +1,16 @@
 {
-  "xero": "bd4073b6-6cc6-42fb-8ff1-cfc31bf9f9c0@xero.com",
-  "images": "https://media.good-loop.com/uploads/standard/BoSti__Bodensee__Copyright__Sven__Schulz__komprimiert-1721679633230408215.jpeg",
+  "xero": "8429dc91-ce64-48c7-8839-db5d4c457d64@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Bodensee Stiftung",
-  "created": "2023-04-03T21:24:22Z",
-  "name": "bodensee-stiftung",
-  "description": "In den letzten 25 Jahren hat die Bodensee-Stiftung in 42 Projekten als Projektkoordinator oder Partner mitgewirkt. Diese Projekte wurden in den 5 Handlungsfeldern Energiewende, Landwirtschaft und Klima, Natur- und Gewässerschutz, Unternehmen und biologische Vielfalt und kommunales Nachhaltigkeitsmanagement) umgesetzt mit einem gesamten Projektvolumen von knapp 35 Millionen Euro.\n\nDavon wurden 8,2 Millionen Euro für Umwelt- und Naturschutz in der Bodenseeregion investiert.\n\n \n\n",
-  "logo": "https://media.good-loop.com/uploads/standard/bodensee_stiftung-2977333136725397906.png#ccrop:90",
+  "displayName": "SoLa I Can Foundation",
+  "created": "2023-04-03T21:26:40Z",
+  "name": "SoLa I Can Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/SOLA-I-CAN-10897794090523641144.png#ccrop:60",
+  "id": "sola-i-can-foundation",
   "suggest": [
-    "bodensee-stiftung",
-    "Bodensee Stiftung"
+    "SoLa I Can Foundation",
+    "SoLa I Can Foundation"
   ],
-  "url": "https://www.bodensee-stiftung.org/",
-  "status": "PUBLISHED"
+  "url": "https://www.solaican.org/",
+  "status": "MODIFIED"
 }
