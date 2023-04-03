@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-03-17T16:09:12Z",
-  "name": "reforest action",
-  "id": "reforest-action",
+  "name": "care-international-charity",
+  "id": "care-international-charity",
   "suggest": [
-    "reforest action"
+    "care-international-charity"
   ],
-  "crm": "4161861832@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
