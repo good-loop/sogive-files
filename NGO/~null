@@ -5,12 +5,12 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-03-17T16:09:12Z",
-  "displayName": "Reforest\u0027Action",
+  "displayName": "Reforest \u0027Action",
   "name": "reforest action",
   "id": "reforest-action",
   "suggest": [
     "reforest action",
-    "Reforest\u0027Action"
+    "Reforest \u0027Action"
   ],
   "crm": "4161861832@2506405019@monday.com",
   "status": "DRAFT"
