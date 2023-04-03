@@ -1,15 +1,16 @@
 {
-  "xero": "09131ed3-62fb-44b4-8235-254df128ba67@xero.com",
-  "images": "https://media.good-loop.com/uploads/standard/0aa383__490ffb7980334a61a4e025b8217265fe__mv2-15362506271546773708.png",
+  "xero": "bb521e66-fb9b-4471-b824-106b663e6b0b@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Heal Rewilding",
-  "created": "2023-04-03T21:58:12Z",
-  "logo": "https://media.good-loop.com/uploads/standard/cause-logo-5198cce2e62d3d4e9a394ac421efabb8-8951281928131037452.png#ccrop:90",
-  "id": "heal-rewilding",
+  "displayName": "Bounce Cinema",
+  "created": "2023-04-03T21:58:19Z",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/Bounce_Cinema_Film_Fund-1234075920823363839.png#ccrop:80",
+  "id": "bounce-cinema",
   "suggest": [
-    "Heal Rewilding"
+    "",
+    "Bounce Cinema"
   ],
-  "url": "https://www.healrewilding.org.uk/",
+  "url": "https://www.bouncecinema.com/",
   "status": "PUBLISHED"
 }
