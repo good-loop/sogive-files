@@ -1,16 +1,16 @@
 {
-  "xero": "508be2c3-109c-4228-a21f-9c67efece3a1@xero.com",
+  "xero": "821db7e7-bb28-45af-8fcd-29dffcba2538@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Gordon Parks Foundation",
-  "created": "2023-04-03T22:02:56Z",
-  "name": "Gordon Parks Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/1578432152232-205696783827781434.png#ccrop:80",
-  "id": "gordon-parks-foundation",
+  "displayName": "Code Crew",
+  "created": "2023-04-03T22:03:06Z",
+  "name": "Code Crew",
+  "logo": "https://media.good-loop.com/uploads/standard/codecrew-18435244869398287687.png",
+  "id": "code-crew",
   "suggest": [
-    "Gordon Parks Foundation",
-    "Gordon Parks Foundation"
+    "Code Crew",
+    "Code Crew"
   ],
-  "url": "https://www.gordonparksfoundation.org/",
+  "url": "https://www.code-crew.org/",
   "status": "PUBLISHED"
 }
