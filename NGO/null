@@ -1,17 +1,16 @@
 {
-  "xero": "c7b0b71c-3ef6-4dc8-8171-3c6235e2e00c@xero.com",
-  "images": "https://media.good-loop.com/uploads/raw/Alder_Hay-13893425102866549608.jpeg",
+  "xero": "b347286b-3f2a-4ff6-85ef-13babd5f80c8@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Alder Hey Children\u0027s Charity",
-  "created": "2023-04-03T21:59:10Z",
-  "name": "alder-hey-",
-  "description": "Alder Hey Children\u0027s Charity helps keep families together in neonatal care. The new surgical neonatal unit at Alder Hey will give families the best environment in which to thrive, every step of the way.",
-  "logo": "https://media.good-loop.com/uploads/raw/alderhey-logo-49593635459597152.svg",
+  "displayName": "Freedom4Girls",
+  "created": "2023-04-03T21:59:19Z",
+  "name": "Freedom4Girls",
+  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png#ccrop:83",
+  "id": "freedom4girls",
   "suggest": [
-    "alder-hey-",
-    "Alder Hey Children\u0027s Charity"
+    "Freedom4Girls",
+    "Freedom4Girls"
   ],
-  "url": "https://www.alderheycharity.org/",
+  "url": "https://www.freedom4girls.co.uk/",
   "status": "PUBLISHED"
 }
