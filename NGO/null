@@ -1,16 +1,14 @@
 {
-  "xero": "b347286b-3f2a-4ff6-85ef-13babd5f80c8@xero.com",
+  "xero": "9b0bf61b-f65c-48e7-aaf2-5eb4a807ba5e@xero.com",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Freedom4Girls",
-  "created": "2023-04-03T21:59:19Z",
-  "name": "Freedom4Girls",
-  "logo": "https://media.good-loop.com/uploads/standard/products__cartoon3-500x326-5741527912265307568.png#ccrop:83",
-  "id": "freedom4girls",
+  "displayName": "Women In Football",
+  "created": "2023-04-03T21:59:33Z",
+  "logo": "https://media.good-loop.com/uploads/standard/WIF__PREFERRED__LOGO-3168628917842801428.png",
+  "id": "women-in-footbal",
   "suggest": [
-    "Freedom4Girls",
-    "Freedom4Girls"
+    "Women In Football"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
+  "url": "https://www.womeninfootball.co.uk/",
   "status": "PUBLISHED"
 }
