@@ -1,14 +1,15 @@
 {
-  "xero": "c736a3de-3ce6-40a2-847c-dd525e01cb61@xero.com",
+  "xero": "09131ed3-62fb-44b4-8235-254df128ba67@xero.com",
+  "images": "https://media.good-loop.com/uploads/standard/0aa383__490ffb7980334a61a4e025b8217265fe__mv2-15362506271546773708.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Native Forest Restoration Trust",
-  "created": "2023-04-03T21:58:01Z",
-  "logo": "https://media.good-loop.com/uploads/standard/nfrtlogo__sidetypo__01-5784420233606838695.png#ccrop:90",
-  "id": "native-forest-restoration-trust",
+  "displayName": "Heal Rewilding",
+  "created": "2023-04-03T21:58:12Z",
+  "logo": "https://media.good-loop.com/uploads/standard/cause-logo-5198cce2e62d3d4e9a394ac421efabb8-8951281928131037452.png#ccrop:90",
+  "id": "heal-rewilding",
   "suggest": [
-    "Native Forest Restoration Trust"
+    "Heal Rewilding"
   ],
-  "url": "https://www.nfrt.org.nz/",
+  "url": "https://www.healrewilding.org.uk/",
   "status": "PUBLISHED"
 }
