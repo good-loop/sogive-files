@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Lenovo Foundation",
-  "name": "Lenovo Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/LenovoFoundation__Logo__Pixels-325x215-8512179890523217115.jpg",
-  "id": "lenovo-foundation",
+  "displayName": "Care International",
+  "name": "care-international-charity",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-16972277493456658830.png",
+  "id": "care-international-charity",
   "suggest": [
-    "Lenovo Foundation",
-    "Lenovo Foundation"
+    "care-international-charity",
+    "Care International"
   ],
+  "url": "https://www.care-international.org/",
   "status": "DRAFT"
 }
