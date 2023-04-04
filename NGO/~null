@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "name": "Hockey 4 Youth",
   "id": "hockey-4-youth",
