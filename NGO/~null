@@ -1,17 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Fake",
-  "unlisted": true,
-  "name": "charity-fake",
-  "logo": "https://media.good-loop.com/uploads/standard/og-logo-black-v2-99302465214991345.png#ccrop:90",
-  "id": "charity-fake",
+  "name": "hockey",
+  "id": "hockey",
   "suggest": [
-    "charity-fake",
-    "Fake"
+    "hockey"
   ],
-  "url": "",
   "status": "DRAFT"
 }
