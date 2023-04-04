@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "PWHPA",
-  "logo": "https://media.good-loop.com/uploads/standard/PWHPA-Logo-14626418396444468204.png",
+  "logo": "https://media.good-loop.com/uploads/standard/PWHPA-Logo-14626418396444468204.png#ccrop:111",
   "id": "pwhpa",
   "suggest": [
     "PWHPA"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
