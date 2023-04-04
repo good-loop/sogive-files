@@ -1,12 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-04-04T13:48:42Z",
-  "name": "Gens Charity",
-  "id": "gens-charity",
+  "displayName": "FAI",
+  "name": "Fundación Agroecológica Iguazú",
+  "logo": "https://media.good-loop.com/uploads/standard/logofai-2908163306629899019.png#ccrop:103",
+  "id": "fundaci-n-agroecol-gica-iguaz-",
   "suggest": [
-    "Gens Charity"
+    "Fundación Agroecológica Iguazú",
+    "FAI"
   ],
-  "crm": "4256301685@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
