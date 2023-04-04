@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "FAI",
   "name": "Fundación Agroecológica Iguazú",
   "id": "fundaci-n-agroecol-gica-iguaz-",
   "suggest": [
-    "Fundación Agroecológica Iguazú"
+    "Fundación Agroecológica Iguazú",
+    "FAI"
   ],
   "status": "DRAFT"
 }
