@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "You Can Play Project",
-  "logo": "https://media.good-loop.com/uploads/standard/YCP11__SquareLogo__M1highres-383311787173436133.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/YCP11__SquareLogo__M1highres-383311787173436133.jpg#ccrop:65",
   "id": "you-can-play-project",
   "suggest": [
     "You Can Play Project"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
