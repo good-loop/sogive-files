@@ -1,0 +1,348 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 7.0,
+          "meta": {
+            "all": {
+              "notes": "p.20 annual report "
+            }
+          },
+          "confidence": "medium",
+          "name": "role model(s) appointed",
+          "description": "This refers to disabled scientists appointed as role models for social media and speaking events. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5decc727b05d1d24b3b8f0a9/t/5f0ee550c4688b31d3becec9/1594811735857/FINAL+%28approved%29+2019+Annual+Report+and+Accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "325",
+          "currency": "GBP",
+          "value100p": 3250000.0,
+          "value": 325.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.10 annual report"
+        }
+      },
+      "name": "Role Models",
+      "description": "Lightyear Foundation highlights the accomplishments of disabled scientists through social media and speaking events. "
+    },
+    {
+      "outputs": [
+        {
+          "number": 817.0,
+          "meta": {
+            "all": {
+              "notes": "p.18 annual report. \nThey also have outreach sessions for more students, but this appears to be a minor part of their work in this project. "
+            }
+          },
+          "confidence": "medium",
+          "name": "children (singular: child) regularly attending workshops",
+          "description": "This refers to STEMM workshops regularly attended by disable children.  "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5decc727b05d1d24b3b8f0a9/t/5f0ee550c4688b31d3becec9/1594811735857/FINAL+%28approved%29+2019+Annual+Report+and+Accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "13,402",
+          "currency": "GBP",
+          "value100p": 1.3402E8,
+          "value": 13402.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.10 annual report "
+        },
+        "isRep": {
+          "notes": "Together with inspiration days, this comprises 94% of total project costs. "
+        }
+      },
+      "name": "Active Learning Workshops ",
+      "description": "Lightyear Foundation delivers STEMM workshops for disabled children, using sensory equipment and communication aids. ",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5decc727b05d1d24b3b8f0a9/t/5f0ee550c4688b31d3becec9/1594811735857/FINAL+%28approved%29+2019+Annual+Report+and+Accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "30947",
+          "currency": "GBP",
+          "value100p": 3.0947E8,
+          "value": 30947.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.6 annual report"
+        },
+        "reserves": {
+          "notes": "p.5 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "4180",
+        "currency": "GBP",
+        "value100p": 4.18E7,
+        "value": 4180.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5decc727b05d1d24b3b8f0a9/t/5f0ee550c4688b31d3becec9/1594811735857/FINAL+%28approved%29+2019+Annual+Report+and+Accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "974",
+          "currency": "GBP",
+          "value100p": 9740000.0,
+          "value": 974.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.10 annual report"
+        }
+      },
+      "name": "SEN in STEMM",
+      "description": "Lightyear Foundation chairs roundtable events to share best practice and provides ongoing support to maintain a network of organisations in the sector. "
+    },
+    {
+      "outputs": [
+        {
+          "number": 93.0,
+          "meta": {
+            "all": {
+              "notes": "p.20 annual report"
+            }
+          },
+          "confidence": "medium",
+          "name": "young people (singular: person) attending a STEMM workplace",
+          "description": "This refers to young adults and students exploring a STEMM workplace for a day. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://static1.squarespace.com/static/5decc727b05d1d24b3b8f0a9/t/5f0ee550c4688b31d3becec9/1594811735857/FINAL+%28approved%29+2019+Annual+Report+and+Accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5634",
+          "currency": "GBP",
+          "value100p": 5.634E7,
+          "value": 5634.0
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.10 annual report"
+        },
+        "isRep": {
+          "notes": "Together with active learning workshops, this comprises 94% of total project costs. "
+        }
+      },
+      "name": "Work Inspiration Days",
+      "description": "Lightyear Foundation runs Inspiration Days to help young people visit a STEMM workplace and meet STEMM professionals. ",
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "lightyear foundation",
+  "description": "[Lightyear Foundation](https://www.lightyearfoundation.org/) appoints disabled STEMM professionals as role models, delivers STEMM workshops, chairs roundtable events to share best practice, and brings young people to a STEMM workplace for a day.  ",
+  "whyTags": "Youth, education",
+  "imageCaption": "Active Learning Workshop",
+  "logo": "https://app.sogive.org/uploads/4345768482160962facebook/Lightyear_logo-1758022874985068993.png",
+  "@id": "lightyear-foundation",
+  "id": "lightyear-foundation",
+  "summaryDescription": "[Lightyear Foundation](https://www.lightyearfoundation.org/) supports young people with disabilities in pursuing STEMM (science, technology, engineering, mathematics and medicine) interests and careers. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/4345768482160962facebook/Lightyear_photo-11810435860673676508.png",
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Lightyear Foundation",
+    "lightyear foundation",
+    "lightyear-foundation"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "lightyear-foundation",
+      "name": "children (singular: child) regularly attending workshops",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 901050,
+        "value": "90.1050784948352979148233012193408518"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.lightyearfoundation.org/",
+  "howTags": "Direct work, research ",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "children (singular: child) regularly attending workshops",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 901050,
+      "value": "90.1050784948352979148233012193408518"
+    }
+  },
+  "name": "Lightyear Foundation",
+  "lastModified": "2020-10-29T22:33:33Z",
+  "englandWalesCharityRegNum": "1150231",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
