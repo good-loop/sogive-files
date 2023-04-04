@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "Hockey 4 Youth",
-  "logo": "https://media.good-loop.com/uploads/standard/H4Y__Logo__colour__web-500083772327416999.jpg#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/H4Y__Logo__colour__web-500083772327416999.jpg#ccrop:80",
   "id": "hockey-4-youth",
   "suggest": [
     "Hockey 4 Youth"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
