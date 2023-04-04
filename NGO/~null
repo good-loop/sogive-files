@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "You Can Play Project",
-  "logo": "https://media.good-loop.com/uploads/standard/YCP11__SquareLogo__M1highres-383311787173436133.jpg#ccrop:65",
-  "id": "you-can-play-project",
+  "name": "PWHPA",
+  "id": "pwhpa",
   "suggest": [
-    "You Can Play Project"
+    "PWHPA"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
