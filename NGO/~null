@@ -3,13 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "FAI",
-  "name": "Fundación Agroecológica Iguazú",
-  "logo": "https://media.good-loop.com/uploads/standard/logofai-2908163306629899019.png#ccrop:103",
-  "id": "fundaci-n-agroecol-gica-iguaz-",
+  "displayName": "Whole Planet",
+  "logo": "https://media.good-loop.com/uploads/standard/Website__Logo__1200-14507863419953492042.png#ccrop:98",
+  "id": "whole-planet",
   "suggest": [
-    "Fundación Agroecológica Iguazú",
-    "FAI"
+    "Whole Planet"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
