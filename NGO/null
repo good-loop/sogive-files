@@ -1,21 +1,11 @@
 {
-  "circleCrop": "83.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "",
-  "created": "2023-04-04T13:48:21Z",
-  "description": "",
+  "created": "2023-04-04T13:48:42Z",
+  "name": "Gens Charity",
+  "id": "gens-charity",
   "suggest": [
-    "new-charity",
-    ""
+    "Gens Charity"
   ],
-  "url": "",
-  "UNSDG": 3.0,
-  "name": "new-charity",
-  "logo": "",
-  "category": "health",
-  "subcategory": "Health and Wellbeing",
-  "summaryDescription": "",
-  "crm": "4256301685@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "crm": "4256301685@2506405019@monday.com"
 }
