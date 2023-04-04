@@ -1,0 +1,550 @@
+{
+  "scotlandCharityRegNum": "SC048239",
+  "ukCompanyRegNum": "SC417014",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "288685",
+          "currency": "GBP",
+          "value100p": 2.88685E9,
+          "value": 288685.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "2400",
+        "currency": "GBP",
+        "value100p": 2.4E7,
+        "value": 2400.0
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "27265",
+          "currency": "GBP",
+          "value100p": 2.7265E8,
+          "value": 27265.0
+        }
+      ],
+      "name": "Food Policy and Practice"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "40532",
+          "currency": "GBP",
+          "value100p": 4.0532E8,
+          "value": 40532.0
+        }
+      ],
+      "name": "Right to Food Advocacy"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "30882",
+          "currency": "GBP",
+          "value100p": 3.0882E8,
+          "value": 30882.0
+        }
+      ],
+      "name": "Scottish Food Coalition"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "41371",
+          "currency": "GBP",
+          "value100p": 4.1371E8,
+          "value": 41371.0
+        }
+      ],
+      "name": "A Menu For Change"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2696",
+          "currency": "GBP",
+          "value100p": 2.696E7,
+          "value": 2696.0
+        }
+      ],
+      "name": "Learning Towards Access to Land"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "48349",
+          "currency": "GBP",
+          "value100p": 4.8349E8,
+          "value": 48349.0
+        }
+      ],
+      "name": "Dignity Framework"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9532",
+          "currency": "GBP",
+          "value100p": 9.532E7,
+          "value": 9532.0
+        }
+      ],
+      "name": "Making a Living from Local Food"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "34879",
+          "currency": "GBP",
+          "value100p": 3.4879E8,
+          "value": 34879.0
+        }
+      ],
+      "name": "Pease Please"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3017",
+          "currency": "GBP",
+          "value100p": 3.017E7,
+          "value": 3017.0
+        }
+      ],
+      "name": "Scottish Food Coalition Partners"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1629",
+          "currency": "GBP",
+          "value100p": 1.629E7,
+          "value": 1629.0
+        }
+      ],
+      "name": "Community Learning Exchange"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/jgfAfO3UjOObnS4FsgTCKjyYynwYQwEHPg_4nalIHyA/application-pdf?X-Amz-Algorithm\u003dAWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256\u003dUNSIGNED-PAYLOAD\u0026X-Amz-Credential\u003dASIAWRGBDBV3P6FUXMM3%2F20201021%2Feu-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date\u003d20201021T132028Z\u0026X-Amz-Expires\u003d60\u0026X-Amz-Security-Token\u003dIQoJb3JpZ2luX2VjEC0aCWV1LXdlc3QtMiJGMEQCIFfGRqzdoYSZKGXYY5ZdAUVOba1BEdPWIWZVp2NSDVGaAiBL1m8R%2FGeLEJ2SaYieX87EZll%2FQt6whv7Imqn%2BI2g96Cq0Awh1EAMaDDQ0OTIyOTAzMjgyMiIMoDXe7cFVSA0WPwehKpEDyWqwcn957q9KePG3F7raSmtZc9ZONwKD7vogkCVHMw2ZV08CTzROEpbRyubz5ci8eR5QfBkF75RH8t2vvr2cZbKl6NdL%2FIzLWJD3ztun5JlcMnw1RU0ZY9MXWWay7LyKCOcUNm27WylzLmIDkLY1prboxIjvWfbsMXWUJ%2B1%2F9VdRGUmtE059lNaNh20Tmksdb6ujSHjLQXV0XDByzVWsKMJ8Ji3w0Xy8RbHwArRjLeut2hrGy0gdZpmjxlmXwkAwcCc%2FCLGKjj6Q0tf8UhrnGtST%2FGYiFlokdpTBYxTy8VT84E2IKzuvcobiPsbp%2FVcshqibpH6YRmeAT%2FBgtFNTYNDJj3nrLei%2FiBFeLcBUyNxlFYst1obMcETozr%2FVQ2VbFWW3SQOUvRFA8DIHE%2BzY2Xt7oYLZqJDPxifUG2SaGh35VbCAztj5JJE%2FaEM06PuKUw2m2NTJw3zRL0jThzDfTnrWeBiO0TRiPGO7NwhbC82YawiPvWfa9r%2FF78GWBc1s6qV9jtXLcUZLtn0zLykLojMw3szA%2FAU67AHwWgikF2sK9sHhhKqnqpJ04hCStCEpdq7bSKpmvdaAEcEuEGKfDIR4XZtHN4HbqUpkgsAfjbq33yS06CLQWhucFjo79XRNvpre1nm5939C2RM7YpyDTuT8nVkoX72dKWFUC2KeloSAynyxriMBCpKTg%2FAxBcFWtRXsvba7N3Jm3vGvWlDmI0%2FK%2Bp4cK%2B2m%2FF2ope%2Fk7lN72QBgGyG3P1tT%2B%2FSDngL0V4xFj6%2F86DqB2MDMuGawSawyYmRSmib1RPNbfN0L3WscyiDOrTgE9bZNdMnDzJKBaoYgVLNfiYUj2EJG%2FXsJS47C2I42pw%3D%3D\u0026X-Amz-SignedHeaders\u003dhost\u0026X-Amz-Signature\u003d13d0cb7f21f1fb50df56a1da914d5fb5ec800530dd7cdc7706d405f51f9a31f3"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "612",
+          "currency": "GBP",
+          "value100p": 6120000.0,
+          "value": 612.0
+        }
+      ],
+      "name": "Employed Internships Programme"
+    }
+  ],
+  "@type": "NGO",
+  "description": "Nourish Scotland seeks to promote sustainable food systems, encourage communities to participate in the development of food public policy, prevent and relieve food poverty, and promote the right to food.",
+  "whyTags": "food, agriculture, poverty",
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/nourish_scotland_logo_2-8049945063466660726.jpg",
+  "@id": "nourish-scotland",
+  "id": "nourish-scotland",
+  "summaryDescription": "Nourish Scotland campaigns and advocates for improved food systems.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/nourish_scotland_cover_2-11834042369835062997.jpg",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Nourish Scotland",
+    "nourish-scotland"
+  ],
+  "url": "https://www.nourishscotland.org/",
+  "howTags": "campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "meta": {
+    "englandWalesCharityRegNum": {
+      "notes": "I don\u0027t think this is registered in England and Wales"
+    },
+    "whereTags": {
+      "notes": "Just participating in a research project in South Asia."
+    }
+  },
+  "name": "Nourish Scotland",
+  "lastModified": "2020-10-26T10:55:21Z",
+  "whereTags": "Scotland, South Asia",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
