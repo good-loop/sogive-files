@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "CHEO Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/CHEO_Foundation_Logo-01-13766129474020540653.svg",
-  "id": "cheo-foundation",
+  "name": "McMaster Children\u0027s Hospital Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/McMaster_Logo-01-6629071672817708305.svg",
+  "id": "mcmaster-children-s-hospital-foundation",
   "suggest": [
-    "CHEO Foundation"
+    "McMaster Children\u0027s Hospital Foundation"
   ],
   "status": "DRAFT"
 }
