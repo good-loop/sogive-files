@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Girls Who Code",
-  "logo": "https://media.good-loop.com/uploads/standard/GWC__Logo__2020__-__Teal-4012620366882096655.png#ccrop:87",
-  "altlogo": "https://media.good-loop.com/uploads/standard/clipart4215200-11918664054271109353.png#ccrop:85",
-  "id": "girls-who-code",
+  "name": "Sick Kids Foundation",
+  "id": "sick-kids-foundation",
   "suggest": [
-    "Girls Who Code"
+    "Sick Kids Foundation"
   ],
   "status": "DRAFT"
 }
