@@ -3,17 +3,21 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "color": "#0fb2b7",
   "@type": "NGO",
+  "created": "2023-04-03T21:42:23Z",
   "suggest": [
     "Gold Standard",
     "gold-standard"
   ],
   "url": "https://www.goldstandard.org/",
-  "UNSDG": "13",
+  "UNSDG": 13.0,
   "whyTags": "environment",
+  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc@xero.com",
   "name": "Gold Standard",
   "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
+  "unsdg": "13",
   "@id": "gold-standard",
   "wikipedia": "https://en.wikipedia.org/wiki/Gold_Standard_(carbon_offset_standard)",
   "category": "environment",
