@@ -1,0 +1,247 @@
+{
+  "ukCompanyRegNum": "00894054",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1520.0,
+          "meta": {
+            "all": {
+              "notes": "p.14",
+              "source": "https://www.macintyrecharity.org/download/file/4922/"
+            }
+          },
+          "confidence": "medium",
+          "name": "people (singular: person) helped",
+          "description": "This refers to people who were helped by supported living services, education programs, transition support, and consultations."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.macintyrecharity.org/download/file/4922/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "57582000",
+          "currency": "GBP",
+          "value100p": 5.7582E11,
+          "value": 5.7582E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "2315000",
+        "currency": "GBP",
+        "value100p": 2.315E10,
+        "value": 2315000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1112.0,
+          "meta": {
+            "all": {
+              "notes": "p.17. Funraising costs too small to make a difference.",
+              "source": "https://www.macintyrecharity.org/download/file/4922/"
+            }
+          },
+          "confidence": "medium",
+          "name": "adults (singular: adult) helped",
+          "description": "This refers to the adults receiving consultations and assisted living services at home and in care homes"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.macintyrecharity.org/download/file/4922/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "38342000",
+          "currency": "GBP",
+          "value100p": 3.8342E11,
+          "value": 3.8342E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "Adult support services"
+    },
+    {
+      "outputs": [
+        {
+          "number": 423.0,
+          "meta": {
+            "all": {
+              "notes": "p.16-17. This is a rough estimate and is likely inaccurate because a)school enrollment are calculated based on school year rather than enrollment year; b) school enrollment for the MacIntyre school is from 2020 rather than 2019; c)we don\u0027t know the exact number of children who lived in the care home, which has 4-5 available spaces, one of which is specifically designated for emergency use. Fundraising cost too small to make a difference here.",
+              "source": "https://www.macintyrecharity.org/download/file/4922/, https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/110564"
+            }
+          },
+          "confidence": "low",
+          "name": "young people (singular: person) helped",
+          "description": "This refers to students who go to the four schools under McIntyre Care, young people who participated in further education programs, and children in the charity\u0027s care home."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.macintyrecharity.org/download/file/4922/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "19174000",
+          "currency": "GBP",
+          "value100p": 1.9174E11,
+          "value": 1.9174E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        }
+      },
+      "name": "Children \u0026 Young People Services"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "MacIntyre Care",
+  "description": "Operating across England and Wales, the charity offers support to people living in registered care homes and within their own homes. MacIntyre Care also provides education, consulting services, career support, socialization opportunities, and support during life-changing transitions.",
+  "recommendation": "**MacIntyre Care achieves a Bronze assessment under the SoGive rating methodology.**\n\nMacIntyre Care operates across England and Wales, providing education and support to people with learning disabilities, autism, and other complex needs. The charity cares for disabled people both in registered care homes and within their own residences. The charity also offers consulting services, support during life-changing transitions, education opportunities, career services, and socialisation help.\n\n**More about what MacIntyre Care does**\n\nThe charity supported 1,520 individuals during the 2018/19 financial year, spending around £38,000 on each individual on average. We assume that the charity charges its beneficiaries no fees, as a search through the charity’s official website did not provide any evidence to the contrary.\n\nThe charity spent about 67% of its charitable expenses on adult support services, which included consultations, support during major life transitions, career assistance, socialisation opportunities, and care services at home and in residential facilities. This project covered 1,112 individuals during the financial year and spent £35,000 on a typical beneficiary.\n\nChildren \u0026 young people services accounted for about 33% of the charitable expenditures. This project involved schooling for roughly 212 students, residential or short-break programmes for 18 students, continued education for 189 students, and a care home service that has 5 available spots, one of which is reserved for emergencies. Thus, around 423 individuals benefitted from this project. The charity allocated an average of about £45,000 to each beneficiary in this project.\n\nIf you would like to learn more about the projects of MacIntyre Care, you can check [their annual report](https://www.macintyrecharity.org/download/file/4922/).\n\n**Benchmarking**\n\nAfter a review of the work of MacIntyre Care under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £3,000 per life saved) and also provide robust evidence on the effectiveness of their work.\n\nBased on the annual report, we understand that it costs £38,000 on average to provide an individual with education or support during one year. With the same amount of money, a Gold charity can achieve an outcome as good as saving 12 lives. Similar conclusions could be drawn from project-specific data on adult support services and children \u0026 young people services. With £35,000 and £45,000 respectively, the amount of money allocated to the average beneficiary could have allowed a Gold charity to achieve an outcome as good as saving 11 or 15 lives. We see providing one individual with education and support during one year as a less positive outcome than saving about a dozen lives. For this reason, it is likely that a donation to MacIntyre Care will achieve less positive impact than the same amount of money given to a Gold-rated organisation.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here]()\n\n**Conclusion**\n\nMacIntyre Care achieves a Bronze assessment under the SoGive methodology.\n\nWhen we describe a charity as Bronze-rated, we mean that\n- we expect, but cannot prove, that the charity\u0027s work likely has a positive impact\n- we have good reason to believe that the charity underperforms compared to a Gold-rated charity (i.e. achieves less positive impact per pound donated than a Gold-rated charity), and is highly likely to underperform a Silver-rated charity as well.\n",
+  "UNSDG": "0",
+  "whyTags": "Youth, Education, Disabilities",
+  "logo": "https://pbs.twimg.com/profile_images/1012272866132463616/OcB5tW80.jpg",
+  "@id": "macintyre-care",
+  "id": "macintyre-care",
+  "summaryDescription": "[MacIntyre Care](https://www.macintyrecharity.org/download/file/4922/) provides education and support to people with learning disabilities, autism, and other complex needs.",
+  "uptodatedraft": "probably",
+  "images": "https://www.macintyrecharity.org/images/custom/c5/107aa36175437826d84da25c1fa495/w560/h437/fx42.1/fy56.5/wpojpeg/images/uploads/c5107aa36175437826d84da25c1fa495.webp",
+  "impact": "low",
+  "confidence": "medium",
+  "suggest": [
+    "MacIntyre Care",
+    "MacIntyre Care",
+    "macintyre-care"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "macintyre-care",
+      "name": "people (singular: person) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 378828947,
+        "value": "37882.8947368421016264000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.macintyrecharity.org/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "people (singular: person) helped",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 378828947,
+      "value": "37882.8947368421016264000"
+    }
+  },
+  "name": "MacIntyre Care",
+  "lastModified": "2020-12-20T16:34:12Z",
+  "category": "human services",
+  "subcategory": "Social Services",
+  "englandWalesCharityRegNum": "250840",
+  "whereTags": "England, Wales",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
