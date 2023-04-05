@@ -14,7 +14,7 @@
   "url": "https://www.goldstandard.org/",
   "UNSDG": 13.0,
   "whyTags": "environment",
-  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc@xero.com",
+  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc",
   "name": "Gold Standard",
   "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
   "unsdg": "13",
@@ -23,6 +23,6 @@
   "category": "environment",
   "subcategory": "Climate Action",
   "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
-  "status": "DRAFT",
+  "status": "MODIFIED",
   "crm": "2866784930@monday.com"
 }
