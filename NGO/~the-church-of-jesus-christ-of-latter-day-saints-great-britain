@@ -614,6 +614,11 @@
           "currency": "GBP"
         }
       ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Using the income "
+        }
+      },
       "name": "overall"
     }
   ],
