@@ -625,7 +625,8 @@
       "outputs": [
         {
           "number": 186803.0,
-          "name": "Church member(s) supported"
+          "name": "Church member(s) supported",
+          "description": "This"
         }
       ],
       "data-src": [
