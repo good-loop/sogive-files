@@ -662,7 +662,8 @@
           "value": 2.595E7
         }
       ],
-      "name": "Provision of worship facilities"
+      "name": "Provision of worship facilities",
+      "isRep": true
     },
     {
       "outputs": [],
@@ -779,12 +780,34 @@
     "The Church of Jesus Christ of Latter Day Saints",
     "the-church-of-jesus-christ-of-latter-day-saints-great-britain"
   ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-church-of-jesus-christ-of-latter-day-saints-great-britain",
+      "name": "Church member(s) supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1389163,
+        "value": "138.91639855890967200000"
+      },
+      "n": 1.0
+    }
+  ],
   "url": "https://uk.churchofjesuschrist.org/",
   "howTags": "Direct Work",
   "simpleImpact": {
     "number": 1.0,
     "@type": "Output",
-    "name": "No Outputs! for project Project[overall 2019.0]"
+    "name": "Church member(s) supported",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 1389163,
+      "value": "138.91639855890967200000"
+    }
   },
   "meta": {
     "scotlandCharityRegNum": {
