@@ -1,12 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "McMaster Children\u0027s Hospital Foundation",
-  "id": "mcmaster-children-s-hospital-foundation",
+  "name": "Guyra Paraguay",
+  "id": "guyra-paraguay",
   "suggest": [
-    "McMaster Children\u0027s Hospital Foundation"
+    "Guyra Paraguay"
   ],
   "status": "DRAFT"
 }
