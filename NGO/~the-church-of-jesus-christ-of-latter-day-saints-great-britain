@@ -622,7 +622,12 @@
       "name": "overall"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 186803.0,
+          "name": "Church member(s) supported"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
