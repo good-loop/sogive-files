@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Guyra Paraguay",
   "name": "Guyra Paraguay",
   "id": "guyra-paraguay",
   "suggest": [
+    "Guyra Paraguay",
     "Guyra Paraguay"
   ],
   "status": "DRAFT"
