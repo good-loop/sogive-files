@@ -650,7 +650,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "25950000",
+          "currency": "GBP",
+          "value100p": 2.595E11,
+          "value": 2.595E7
         }
       ],
       "name": "Provision of worship facilities"
