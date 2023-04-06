@@ -603,7 +603,10 @@
         {
           "@type": "Money",
           "name": "tradingCosts",
-          "currency": "GBP"
+          "raw": "312000",
+          "currency": "GBP",
+          "value100p": 3.12E9,
+          "value": 312000.0
         },
         {
           "@type": "Money",
