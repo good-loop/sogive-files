@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Guyra Paraguay",
-  "name": "Guyra Paraguay",
-  "logo": "https://media.good-loop.com/uploads/standard/guyra-logo-3617660389383067794.jpg#ccrop:98",
-  "id": "guyra-paraguay",
+  "displayName": "15 percent pledge",
+  "name": "15 percent pledge",
+  "logo": "https://media.good-loop.com/uploads/standard/15__Percent__Pledge__logo__Dark-18406283834246364334.png#ccrop:98",
+  "id": "15-percent-pledge",
   "suggest": [
-    "Guyra Paraguay",
-    "Guyra Paraguay"
+    "15 percent pledge",
+    "15 percent pledge"
   ],
   "status": "DRAFT"
 }
