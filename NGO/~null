@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "15 percent pledge",
   "name": "15 percent pledge",
   "id": "15-percent-pledge",
   "suggest": [
+    "15 percent pledge",
     "15 percent pledge"
   ],
   "status": "DRAFT"
