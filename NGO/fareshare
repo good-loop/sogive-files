@@ -1,0 +1,78 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "",
+      "location": ""
+    }
+  ],
+  "color": "#7cc242",
+  "@type": "NGO",
+  "displayName": "Fare Share",
+  "noPublicDonations": false,
+  "suggest": [
+    "",
+    "Fare Share",
+    "fareshare"
+  ],
+  "url": "https://fareshare.org.uk/",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/ezgif-1-d37f0e640315-11202219187013135599.png#ccrop:140",
+  "unsdg": "2",
+  "@id": "fareshare",
+  "logo_white": "https://as.good-loop.com/vert/fareshare_logo_white.png",
+  "lastModified": "2020-10-28T13:23:18Z",
+  "category": "human services",
+  "subcategory": "Food Banks and Food Distribution",
+  "englandWalesCharityRegNum": "1100051",
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
