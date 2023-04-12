@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "unlisted": true,
-  "ready": false,
-  "name": "FIRST BOOK",
-  "logo": "https://media.good-loop.com/uploads/standard/First__Book__Logo__2018-15215314862103015822.png#ccrop:82",
-  "id": "first-book-",
+  "name": "Women",
+  "id": "women",
   "suggest": [
-    "FIRST BOOK"
+    "Women"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
