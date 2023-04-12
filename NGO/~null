@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "edmonton humane society",
   "name": "edmonton humane society",
   "id": "edmonton-humane-society",
   "suggest": [
+    "edmonton humane society",
     "edmonton humane society"
   ],
   "status": "DRAFT"
