@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "autism speaks",
-  "name": "autism awareness",
-  "logo": "https://media.good-loop.com/uploads/standard/Autism_Speaks_New_Logo-9269306024313942794.png#ccrop:117",
-  "id": "autism-speaks",
+  "name": "edmonton humane society",
+  "id": "edmonton-humane-society",
   "suggest": [
-    "autism awareness",
-    "autism speaks"
+    "edmonton humane society"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
