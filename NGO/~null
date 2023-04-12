@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "autism speaks",
   "name": "autism speaks",
   "id": "autism-speaks",
   "suggest": [
+    "autism speaks",
     "autism speaks"
   ],
   "status": "DRAFT"
