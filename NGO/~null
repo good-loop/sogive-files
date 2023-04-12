@@ -6,10 +6,10 @@
   "unlisted": true,
   "ready": false,
   "name": "FIRST BOOK",
-  "logo": "https://media.good-loop.com/uploads/standard/First__Book__Logo__2018-15215314862103015822.png",
+  "logo": "https://media.good-loop.com/uploads/standard/First__Book__Logo__2018-15215314862103015822.png#ccrop:82",
   "id": "first-book-",
   "suggest": [
     "FIRST BOOK"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
