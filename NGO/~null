@@ -5,11 +5,11 @@
   "@type": "NGO",
   "displayName": "edmonton humane society",
   "name": "edmonton humane society",
-  "logo": "https://media.good-loop.com/uploads/standard/EHS-2338077159730661069.png#ccrop:125",
+  "logo": "https://media.good-loop.com/uploads/standard/EHS-2338077159730661069.png#ccrop:119",
   "id": "edmonton-humane-society",
   "suggest": [
     "edmonton humane society",
     "edmonton humane society"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
