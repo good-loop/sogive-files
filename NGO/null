@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "autism speaks",
-  "name": "autism speaks",
-  "logo": "https://media.good-loop.com/uploads/standard/Autism_Speaks_New_Logo-9269306024313942794.png#ccrop:117",
-  "id": "autism-speaks",
+  "displayName": "edmonton humane society",
+  "name": "edmonton humane society",
+  "logo": "https://media.good-loop.com/uploads/standard/EHS-2338077159730661069.png#ccrop:125",
+  "id": "edmonton-humane-society",
   "suggest": [
-    "autism speaks",
-    "autism speaks"
+    "edmonton humane society",
+    "edmonton humane society"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
