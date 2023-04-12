@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Women",
+  "name": "Women Win",
   "id": "women",
   "suggest": [
-    "Women"
+    "Women Win"
   ],
   "status": "DRAFT"
 }
