@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Women Win",
-  "name": "Women Win",
-  "logo": "https://media.good-loop.com/uploads/standard/Women__Win__logo-13615502315817861554.png",
-  "id": "women",
+  "displayName": "autism speaks",
+  "name": "autism speaks",
+  "logo": "https://media.good-loop.com/uploads/standard/2020-autism-speaks-new-logo-design-11082603039389007867.jpg#ccrop:166",
+  "id": "autism-speaks",
   "suggest": [
-    "Women Win",
-    "Women Win"
+    "autism speaks",
+    "autism speaks"
   ],
   "status": "DRAFT"
 }
