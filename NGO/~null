@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "displayName": "autism speaks",
-  "name": "autism speaks",
+  "name": "autism awareness",
   "logo": "https://media.good-loop.com/uploads/standard/Autism_Speaks_New_Logo-9269306024313942794.png#ccrop:117",
   "id": "autism-speaks",
   "suggest": [
-    "autism speaks",
+    "autism awareness",
     "autism speaks"
   ],
   "status": "PUBLISHED"
