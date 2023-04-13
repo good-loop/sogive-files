@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "BGC Canada",
-  "logo": "https://media.good-loop.com/uploads/standard/BGCC-Logo-Web__Colour-10245979000868984461.png",
+  "logo": "https://media.good-loop.com/uploads/standard/BGCC-Logo-Web__Colour-10245979000868984461.png#ccrop:90",
   "id": "bgc-canada",
   "suggest": [
     "BGC Canada"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
