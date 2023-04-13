@@ -3,11 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "BGC Canada",
-  "logo": "https://media.good-loop.com/uploads/standard/BGCC-Logo-Web__Colour-10245979000868984461.png#ccrop:90",
-  "id": "bgc-canada",
+  "displayName": "Toplum Gönüllüleri",
+  "name": "tog",
+  "logo": "https://media.good-loop.com/uploads/standard/tog-toplum-gonulluleri-vakfi-mentorluk-bulusmasi-5892290537383973212.png#ccrop:76",
+  "id": "tog",
   "suggest": [
-    "BGC Canada"
+    "tog",
+    "Toplum Gönüllüleri"
   ],
-  "status": "MODIFIED"
+  "url": "https://www.tog.org.tr/en/",
+  "status": "DRAFT"
 }
