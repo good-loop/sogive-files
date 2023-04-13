@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "edmonton humane society",
-  "name": "edmonton humane society",
-  "logo": "https://media.good-loop.com/uploads/standard/EHS-2338077159730661069.png#ccrop:119",
-  "id": "edmonton-humane-society",
+  "name": "BGC Canada",
+  "id": "bgc-canada",
   "suggest": [
-    "edmonton humane society",
-    "edmonton humane society"
+    "BGC Canada"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
