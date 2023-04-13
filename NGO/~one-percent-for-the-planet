@@ -8,6 +8,7 @@
   "@type": "NGO",
   "displayName": "1% Percent For The Planet ",
   "description": "1% for the Planet is a global organisation that exists to ensure our planet and future generations thrive. They inspire businesses and individuals to support environmental nonprofits through membership and everyday actions. They make environmental giving easy and effective through partnership advising, impact storytelling and third-party certification.\n\nStarted in 2002 by Yvon Chouinard, founder of Patagonia, and Craig Mathews, founder of Blue Ribbon Flies, their business members and individual members have given hundreds of millions of dollars to their approved nonprofit partners to date. Today, 1% for the Planet’s global network consists of thousands of businesses, individuals and environmental nonprofits working toward a better future for all. ",
+  "altlogo": "https://media.good-loop.com/uploads/standard/1ftp__Primary__Horizontal__White-5481440098979013387.png",
   "suggest": [
     "1% Percent For The Planet",
     "1% Percent For The Planet ",
@@ -46,5 +47,5 @@
       "@type": "ImageObject"
     }
   ],
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
