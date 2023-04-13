@@ -7,7 +7,7 @@
   "created": "2023-03-17T16:09:12Z",
   "displayName": "Reforest\u0027Action",
   "name": "reforest action",
-  "logo": "https://media.good-loop.com/uploads/standard/ReforestAction_-_LOGO-4427094194156360022.png",
+  "logo": "https://media.good-loop.com/uploads/standard/reforest-logo-5277774006781358147.png",
   "id": "reforest-action",
   "suggest": [
     "reforest action",
@@ -15,5 +15,5 @@
   ],
   "url": "https://www.reforestaction.com",
   "crm": "4161861832@2506405019@monday.com",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
