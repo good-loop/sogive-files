@@ -1,0 +1,16 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "The Albert Kennedy Trust",
+  "logo": "https://media.good-loop.com/uploads/raw/aktlogo-2316993325239184213.jpg",
+  "@id": "the-albert-kennedy-trust",
+  "suggest": [
+    "The Albert Kennedy Trust",
+    "the-albert-kennedy-trust"
+  ],
+  "id": "the-albert-kennedy-trust",
+  "englandWalesCharityRegNum": "1093815",
+  "status": "PUBLISHED"
+}
