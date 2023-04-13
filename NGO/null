@@ -1,15 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "P Flag",
-  "name": "P FLAG",
-  "logo": "https://media.good-loop.com/uploads/standard/PFLAG__logo.svg-14796944239646174419.png#ccrop:75",
-  "id": "p-flag",
+  "created": "2023-04-13T14:55:37Z",
+  "name": "REFOREST\u0027ACTION (PRIVATE COMPANY)",
+  "id": "reforest-action-private-company",
   "suggest": [
-    "P FLAG",
-    "P Flag"
+    "REFOREST\u0027ACTION (PRIVATE COMPANY)"
   ],
-  "status": "DRAFT"
+  "category": "environment",
+  "url": "www.reforestaction.com",
+  "crm": "4304089400@2506405019@monday.com",
+  "UNSDG": 15.0
 }
