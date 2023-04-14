@@ -1,15 +1,15 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-04-13T14:55:37Z",
-  "name": "REFOREST\u0027ACTION (PRIVATE COMPANY)",
-  "id": "reforest-action-private-company",
+  "displayName": "Women In Sport",
+  "created": "2023-04-14T10:50:35Z",
+  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
+  "id": "women-in-sport",
   "suggest": [
-    "REFOREST\u0027ACTION (PRIVATE COMPANY)"
+    "Women In Sport"
   ],
-  "category": "environment",
-  "url": "www.reforestaction.com",
-  "crm": "4304089400@2506405019@monday.com",
-  "UNSDG": 15.0,
+  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
+  "crm": "4309235683@2506405019@monday.com",
+  "UNSDG": 5.0,
   "status": "PUBLISHED"
 }
