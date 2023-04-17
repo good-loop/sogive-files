@@ -1,15 +1,13 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Women In Sport",
-  "created": "2023-04-14T10:50:35Z",
-  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
-  "id": "women-in-sport",
+  "name": "Canadian Men\u0027s Health Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/Canadian_Mens_Health_Foundation-6782924810485494836.png",
+  "id": "canadian-men-s-health-foundation",
   "suggest": [
-    "Women In Sport"
+    "Canadian Men\u0027s Health Foundation"
   ],
-  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
-  "crm": "4309235683@2506405019@monday.com",
-  "UNSDG": 5.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
