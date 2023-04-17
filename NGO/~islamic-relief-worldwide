@@ -1,0 +1,1704 @@
+{
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "1,945,357",
+          "currency": "GBP",
+          "value100p": 1.945357E10,
+          "value": 1945357.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "56057",
+          "currency": "GBP",
+          "value100p": 5.6057E8,
+          "value": 56057.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20151231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigning for change",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Number not clear"
+            }
+          },
+          "confidence": "low",
+          "name": "people with protected lives and dignity",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "65,489,734",
+          "currency": "GBP",
+          "value100p": 6.5489734E11,
+          "value": 6.5489734E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1929560",
+          "currency": "GBP",
+          "value100p": 1.92956E10,
+          "value": 1929560.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "",
+      "name": "protecting life and dignity",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1500000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "listed as 1.5m with \u0027access\u0027 to healthcare. This also seems to be specifically for a Syria project? see bottom pg. 20"
+            }
+          },
+          "confidence": "low",
+          "name": "person(s) receive access to water and healthcare",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "12,144,652",
+          "currency": "GBP",
+          "value100p": 1.2144652E11,
+          "value": 1.2144652E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "356998",
+          "currency": "GBP",
+          "value100p": 3.56998E9,
+          "value": 356998.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "",
+      "name": "empowering communities access to healthcare and water",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 55000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "orphan(s) and child (plural: children) cared for",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "26,172,484",
+          "currency": "GBP",
+          "value100p": 2.6172484E11,
+          "value": 2.6172484E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "770053",
+          "currency": "GBP",
+          "value100p": 7.70053E9,
+          "value": 770053.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "",
+      "name": "empowering communities caring for orphans and children",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 290000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "\u0027Accessed\u0027? pg. 24"
+            }
+          },
+          "confidence": "medium",
+          "name": "person(s) accessed education",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "3,486,494",
+          "currency": "GBP",
+          "value100p": 3.486494E10,
+          "value": 3486494.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "103263",
+          "currency": "GBP",
+          "value100p": 1.03263E9,
+          "value": 103263.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "",
+      "name": "empowering communities supporting education",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": "",
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "sustainable livelihood(s) provided",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "5,186,445",
+          "currency": "GBP",
+          "value100p": 5.186445E10,
+          "value": 5186445.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "153420",
+          "currency": "GBP",
+          "value100p": 1.5342E9,
+          "value": 153420.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "https://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": true,
+      "analysisComment": "",
+      "name": "empowering communities sustainable livelihoods",
+      "analyst": "Shivani",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3833160.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2018.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "128562290",
+          "currency": "GBP",
+          "value100p": 1.2856229E12,
+          "value": 1.2856229E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3363454",
+          "currency": "GBP",
+          "value100p": 3.363454E10,
+          "value": 3363454.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2018-01-01",
+      "reserves": {
+        "@type": "Money",
+        "raw": " 37507804",
+        "currency": "GBP",
+        "value100p": 3.7507804E11,
+        "value": 3.7507804E7
+      },
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "https://www.islamic-relief.org/wp-content/uploads/2019/07/IslamicReliefWorld-AnnualReportandFinancialStatements-2018.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01T00:00:00Z",
+      "ready": false,
+      "analysisComment": "See calcs. Note that the list of beneficiaries may not be comprehensive (lack of clarity in annual report) hence this is caveated figure",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2018-12-31",
+      "location": "",
+      "end_raw": "2018-12-31T00:00:00Z"
+    },
+    {
+      "outputs": [
+        {
+          "number": 1400000.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "emergency food and medical supplies",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 2000000.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "qurbani meat distribution",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 300000.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "healthcare on west bank",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 133160.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20131231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "typhoon haiyan response",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 5512146.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 9.2387946E11,
+          "value": 9.2387946E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 6100.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 5.543277E10,
+          "value": 5543277.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "sustainable livelihoods",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 12200.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 7.391036E10,
+          "value": 7391036.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "access to healthcare and water",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 40300.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 8.314915E10,
+          "value": 8314915.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "caring for orphans children in need",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 9.23879E9,
+          "value": 923879.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigning for change",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 850000.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 6.929096E11,
+          "value": 6.929096E7
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "protecting life and dignity",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 3546.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value100p": 9.23879E9,
+          "value": 923879.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": false,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends58/0000328158_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "supporting education",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 4600000.0,
+          "@type": "Output",
+          "name": "",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "isRep": false,
+      "ready": false,
+      "analysisComment": "",
+      "name": "qurbani meat distribution",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 9502747.0,
+          "confidence": "medium",
+          "name": "people (singular: person) reached",
+          "description": "This is the total global reach figure cited on p.11 of the 2019 annual report"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.islamic-relief.org/annual-reports/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "128074000",
+          "currency": "GBP",
+          "value100p": 1.28074E12,
+          "value": 1.28074E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3220000",
+          "currency": "GBP",
+          "value100p": 3.22E10,
+          "value": 3220000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Annual costs are on p.80. Trading costs are \u0027Operating and administrative costs\u0027 of trading subsidiaries, on p.78."
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "9394000",
+        "currency": "",
+        "value100p": 9.394E10,
+        "value": 9394000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.islamic-relief.org/annual-reports/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1934000",
+          "currency": "GBP",
+          "value100p": 1.934E10,
+          "value": 1934000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report"
+        }
+      },
+      "name": "Campaigning for change"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "60247000",
+          "currency": "GBP",
+          "value100p": 6.0247E11,
+          "value": 6.0247E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report\n"
+        }
+      },
+      "name": "Protecting life and dignity"
+    },
+    {
+      "outputs": [
+        {
+          "number": 301000.0,
+          "confidence": "medium",
+          "name": "People (singular: person) provided with healthcare, clean water, sanitation, and hygiene",
+          "description": "p.32 of 2019 annual report"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "11702000",
+          "currency": "GBP",
+          "value100p": 1.1702E11,
+          "value": 1.1702E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report"
+        }
+      },
+      "name": "Empowering communities: Access to healthcare and water"
+    },
+    {
+      "outputs": [
+        {
+          "number": 64000.0,
+          "name": "Orphans (singular: orphan) sponsored",
+          "description": "p.38 of 2019 annual report"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "26377000",
+          "currency": "GBP",
+          "value100p": 2.6377E11,
+          "value": 2.6377E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report"
+        }
+      },
+      "name": "Empowering communities: Caring for orphans and children",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 57500.0,
+          "name": "People (singular: person) given access to education",
+          "description": "p.13 of 2019 annual report"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.islamic-relief.org/annual-reports/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4364000",
+          "currency": "GBP",
+          "value100p": 4.364E10,
+          "value": 4364000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report"
+        }
+      },
+      "name": "Empowering communities: Supporting education"
+    },
+    {
+      "outputs": [
+        {
+          "number": 704000.0,
+          "confidence": "medium",
+          "name": "People (singular: person) empowered to earn a reliable living",
+          "description": "p.13 of 2019 annual report"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://www.islamic-relief.org/annual-reports/"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8593000",
+          "currency": "GBP",
+          "value100p": 8.593E10,
+          "value": 8593000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.80 of 2019 annual report"
+        }
+      },
+      "name": "Empowering communities: Sustainable livelihoods"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Islamic Relief Worldwide",
+  "description": "Islamic Relief Worldwide is an NGO that provides relief in the form of financial donations as well as direct work in all parts of the world. The organisation that started operating in 1984 first aimed at providing aid and assistance to relieve poverty and suffering worldwide, but later expanded it\u0027s range of operations to enable sustainable development in various communities- by means of provision of water, food, shelter, health and education. They aim to function in accordance with the Islamic principles of compassion, justice, custodianship, sincerity and excellence. Over the 35 years since their founding, they have expanded to have 40 offices in over 100 countries.",
+  "recommendation": "**Islamic Relief Worldwide is rated as More information needed (promising) on the SoGive ratings scale.**\n\nIslamic Relief Worldwide is an NGO that responds to disasters and emergencies and also seeks to promote sustainable economic and social development by working with local communities.\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what Islamic Relief Worldwide does**\n\nIslamic Relief Worldwide’s annual report for 2019 indicates a total expenditure of around £128m, of which £110.6m was direct spending on charitable activities (p.80 of annual report). This covers three areas of expenditure: humanitarian programmes (£59.9m, 54.2%), development programmes (£49.2m, 44.5%), and campaigning and advocacy (£1.5m, 1.4%)(p.15). Funding for these programmes largely comes from country-level Islamic Relief organisations - for example, Islamic Relief USA provided £29m to Islamic Relief Worldwide.\n\nTheir humanitarian programmes included helping people living in conflict, such as Yemen (3.4m people helped) and Syria (2.3m people reached)(p.13). Specific activities within the humanitarian programmes include distribution of Ramadan food packs to 908,000 people, provision of Qurbani meat to 3.14 million people, provision of winter survival items to 74,000 people, and helping 31,500 people reduce their vulnerability to disaster (p.12-13).\n\nThey claim their development programmes benefited 5.15 million people (p.13, 32). This includes 704,000 empowered to earn a living, 301,000 people provided with healthcare, water, sanitation, and hygiene, and 57,500 people provided with access to education (p.12-13, 32). Additionally, they indicate that 64,000 orphans in total are now receiving sponsorship, of which 9,000 are new for 2019 (p.43). This is described under the campaigns section of the annual report (as the campaigns are presumably how they recruit new sponsors), but the actual sponsorship funding for this (£26.4m, p.80) is associated with the development programmes area.\n\nAs well as the orphan sponsorship programme, other campaigns include projects against gender-based violence, campaigning to tackle climate change, and projects in support of refugees (p.40).\n\nOverall, Islamic Relief Worldwide indicate that they supported around 9.5 million people during 2019 (p.11). If you would like to learn more about the work of Islamic Relief Worldwide, you can check their [2019 annual report](https://www.islamic-relief.org.uk/about-us/annual-reports/).\n\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of Islamic Relief Worldwide under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-Standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as saving a life for £5000, or £50 to double someone’s consumption (spending) for one year), and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html)\n\nConsidering the charity as a whole, their total expenditure of £128m, and provision of support to a total of 9.5m people, implies an average cost of around £13.50 per person supported. This initially looks like it could be promising in terms of cost-effectiveness.\n\nTotal numbers supported by their humanitarian programmes are not clearly specified. There must be some overlap between the humanitarian and development programmes, as simply adding the numbers supported in Yemen (3.4m) and Syria (2.3m) alone to the number of people who benefit from the development programmes (5.15m) exceeds the total number of people they claim to have supported. \n\nHowever, in terms of numbers reached, most of the benefits of the humanitarian programmes appear to relate to the provision of food. While the charity clearly undertakes some activities that are centred around prevention and treatment of malnutrition (p.28), it is not clear that the food provision as a whole is optimised to prevent starvation or malnutrition. Rather, it appears there is some focus around ensuring access to food in a way that is consistent with Islamic traditions. With regards to the provision of Qurbani meat, this raises ethical issues around animal welfare.  \n\nAs their humanitarian programmes cost £59.9m, in order to be comparable with the Gold Standard, they would need to achieve the equivalent of saving nearly 12,000 lives (i.e. £59.9m divided by the £5000 per life saved Gold Standard). This would equate to saving the life of 0.2% (1 out of 500) of those reached in Yemen and Syria, which seems plausible.\n\nAs their development programmes reached 5.15 million people at a cost of £49.2m, this implies a cost of around £9.50 per person. However, in the annual report it is not stated how most of these 5.15 million people benefited. Of the examples included in the report, the cost per person is higher. For example, the cost of caring for 64,000 orphans comes to £26.4m (p.80), implying a cost of £412 per orphan. Provision of healthcare, water, sanitation, and hygiene to 301,000 people costs £11.7m (p.80), indicating a cost of £39 per person. Provision of education to 57,500 costs £4.4m, indicating a cost of £76 per person. Being ‘empowered to earn a living’ cost £8.6m to reach 704,000 people, indicating a cost of £12 per person.\n\nGiven the very low proportion of spending on campaigning and advocacy, we have not considered their cost-effectiveness.\n\nOverall, given the low costs per person helped, Islamic Relief Worldwide could plausibly reach the SoGive Gold Standard. However, to reach a firm assessment we would need more information, especially:\n- More clarity around the actual number of people helped and robust evidence on how much they benefited, particularly for (a) their humanitarian programmes, which make up over half their spending, and (b) the orphan sponsorship programme, which makes up nearly a quarter of total spending\n- An understanding of the potential animal welfare harms of providing Qurbani meat\n\n\n**Conclusion**\n\nBased on the above, we rate Islamic Relief Worldwide as \"More info needed (promising)\" under the SoGive methodology. This means:\n- We do have some indication of cost-effectiveness, and see the possibility that cost-effectiveness matches or exceeds the Gold Standard, but this depends on further data and analysis.\n\n",
+  "whyTags": "Muslim, International aid, Poverty, Disaster response",
+  "imageCaption": "Islamic Relief staff speak with refugees in Moria ‘camp’, on Lesvos. It hosts many Afghans sheltering in tents outside the overcrowded official detention centre.",
+  "ready": true,
+  "modified": true,
+  "logo": "https://app.sogive.org/uploads/10222083806261236facebook/IRW__Logo-14757071449112285790.jpg",
+  "@id": "islamic-relief-worldwide",
+  "wikipedia": "https://en.wikipedia.org/wiki/Islamic_Relief",
+  "summaryDescription": "Islamic Relief Worldwide is an NGO that responds to disasters and emergencies and also seeks to promote sustainable economic and social development by working with local communities.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/10222083806261236facebook/Greece-Lesvos-refugees-3-11522261851904043190.jpg",
+  "stories": "Islamic Relief staff speak with refugees in Moria ‘camp’, on Lesvos. It hosts many Afghans sheltering in tents outside the overcrowded official detention centre.",
+  "noPublicDonations": false,
+  "impact": "more-info-needed-promising",
+  "confidence": "medium",
+  "suggest": [
+    "Islamic Relief Worldwide",
+    "Islamic Relief Worldwide",
+    "islamic-relief-worldwide"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "islamic-relief-worldwide",
+      "name": "Orphans (singular: orphan) sponsored",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 4121406,
+        "value": "412.140625000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.islamic-relief.org/",
+  "howTags": "Direct Work, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "Orphans (singular: orphan) sponsored",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 4121406,
+      "value": "412.140625000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Islamic Relief Worldwide",
+  "lastModified": "2020-08-27T14:05:50Z",
+  "englandWalesCharityRegNum": "328158",
+  "whereTags": "Developing World",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
