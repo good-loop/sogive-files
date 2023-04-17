@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Canadian Men\u0027s Health Foundation",
+  "name": "Canadian Mens Health Foundation",
   "logo": "https://media.good-loop.com/uploads/standard/Canadian_Mens_Health_Foundation-6782924810485494836.png",
   "id": "canadian-men-s-health-foundation",
   "suggest": [
-    "Canadian Men\u0027s Health Foundation"
+    "Canadian Mens Health Foundation"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
