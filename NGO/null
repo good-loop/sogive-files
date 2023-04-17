@@ -1,15 +1,14 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-04-17T15:44:09Z",
-  "name": "World Happiness Foundation",
-  "id": "world-happiness-foundation",
+  "name": "warrior-homestead",
+  "logo": "https://media.good-loop.com/uploads/standard/download-18227041917934105067.png#ccrop:104",
+  "id": "warrior-homestead",
   "suggest": [
-    "World Happiness Foundation"
+    "warrior-homestead"
   ],
-  "category": "education",
-  "url": "www.worldhappiness.foundation",
-  "crm": "4320811543@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT",
+  "crm": "warrior homesteads@monday.com"
 }
