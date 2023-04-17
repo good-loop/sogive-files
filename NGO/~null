@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "P Flag",
-  "name": "P FLAG",
-  "logo": "https://media.good-loop.com/uploads/standard/PFLAG__logo.svg-14796944239646174419.png#ccrop:75",
-  "id": "p-flag",
+  "name": "Canadian Men\u0027s Health Foundation",
+  "id": "canadian-men-s-health-foundation",
   "suggest": [
-    "P FLAG",
-    "P Flag"
+    "Canadian Men\u0027s Health Foundation"
   ],
   "status": "DRAFT"
 }
