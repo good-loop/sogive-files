@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "Warrior Homestead",
+  "name": "warrior-homestead",
   "id": "warrior-homestead",
   "suggest": [
-    "Warrior Homestead"
+    "warrior-homestead"
   ],
   "status": "DRAFT"
 }
