@@ -8,5 +8,6 @@
   "suggest": [
     "sage"
   ],
-  "status": "DRAFT"
+  "status": "DRAFT",
+  "crm": "sage@monday.com"
 }
