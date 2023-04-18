@@ -8,5 +8,6 @@
   "suggest": [
     "airbnb.org"
   ],
-  "status": "DRAFT"
+  "status": "DRAFT",
+  "crm": "airbnb.org@monday.com"
 }
