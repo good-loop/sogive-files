@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "name": "sage",
-  "logo": "https://media.good-loop.com/uploads/standard/design-756x548-13-12305546860135282076.png",
+  "logo": "https://media.good-loop.com/uploads/standard/design-756x548-13-12305546860135282076.png#ccrop:95",
   "id": "sage",
   "suggest": [
     "sage"
   ],
-  "status": "DRAFT",
+  "status": "MODIFIED",
   "crm": "sage@monday.com"
 }
