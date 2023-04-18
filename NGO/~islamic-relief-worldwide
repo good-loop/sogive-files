@@ -1740,7 +1740,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "17200000",
+          "currency": "GBP",
+          "value100p": 1.72E11,
+          "value": 1.72E7
         }
       ],
       "name": "Providing access to health and water"
