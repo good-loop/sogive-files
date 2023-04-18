@@ -1703,7 +1703,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "34100000",
+          "currency": "GBP",
+          "value100p": 3.41E11,
+          "value": 3.41E7
         }
       ],
       "name": "Caring for orphans and children in need"
