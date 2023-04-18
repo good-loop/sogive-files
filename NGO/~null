@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "airbnb.org",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-04-18_175356-8361263122158536752.png#ccrop:103",
-  "id": "airbnb-org",
+  "name": "sage",
+  "id": "sage",
   "suggest": [
-    "airbnb.org"
+    "sage"
   ],
-  "status": "DRAFT",
-  "crm": "airbnb.org@monday.com"
+  "status": "DRAFT"
 }
