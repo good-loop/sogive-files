@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "airbnb.org",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-04-18_175356-8361263122158536752.png#ccrop:133",
   "id": "airbnb-org",
   "suggest": [
     "airbnb.org"
