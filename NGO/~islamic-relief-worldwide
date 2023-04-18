@@ -1786,7 +1786,12 @@
       "name": "Sustainable livelihoods"
     },
     {
-      "outputs": [],
+      "outputs": [
+        {
+          "number": 1.18E7,
+          "name": "people (singular: person) helped or empowered"
+        }
+      ],
       "data-src": [
         {
           "@type": "Citation",
