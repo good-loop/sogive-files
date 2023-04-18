@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "sage",
+  "logo": "https://media.good-loop.com/uploads/standard/design-756x548-13-12305546860135282076.png",
   "id": "sage",
   "suggest": [
     "sage"
