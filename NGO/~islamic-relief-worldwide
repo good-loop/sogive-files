@@ -1777,7 +1777,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "12900000",
+          "currency": "GBP",
+          "value100p": 1.29E11,
+          "value": 1.29E7
         }
       ],
       "name": "Sustainable livelihoods"
