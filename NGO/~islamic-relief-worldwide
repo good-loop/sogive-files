@@ -1666,7 +1666,10 @@
         {
           "@type": "Money",
           "name": "projectCosts",
-          "currency": "GBP"
+          "raw": "83400000",
+          "currency": "GBP",
+          "value100p": 8.34E11,
+          "value": 8.34E7
         }
       ],
       "name": "Protecting Life and Dignity"
@@ -1803,5 +1806,5 @@
   "englandWalesCharityRegNum": "328158",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
