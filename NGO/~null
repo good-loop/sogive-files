@@ -5,10 +5,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-03-23T18:36:13Z",
-  "displayName": "National Parks ",
+  "displayName": "National Parks UK",
   "suggest": [
     "UK National Parks Foundation",
-    "National Parks "
+    "National Parks UK"
   ],
   "url": "https://www.nationalparks.uk/",
   "UNSDG": 13.0,
