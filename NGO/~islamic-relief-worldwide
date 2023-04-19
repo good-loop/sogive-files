@@ -1882,6 +1882,9 @@
   "meta": {
     "noPublicDonations": {
       "notes": "Yes"
+    },
+    "recommendation": {
+      "notes": "https://docs.google.com/document/d/1SZsexaO_zKmn2et_HKE1AtYRlUXF_wP93wXJMbgDyjY/edit"
     }
   },
   "name": "Islamic Relief Worldwide",
