@@ -5,14 +5,15 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-03-23T18:36:13Z",
-  "name": "UK National Parks Foundation",
-  "id": "uk-national-parks-foundation",
   "suggest": [
     "UK National Parks Foundation"
   ],
-  "category": "environment",
   "url": "https://www.nationalparks.uk/",
-  "crm": "4193980019@2506405019@monday.com",
   "UNSDG": 13.0,
+  "name": "UK National Parks Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/National-Parks-logo-stacked-left-11836444279419305386.png#ccrop:99",
+  "id": "uk-national-parks-foundation",
+  "category": "environment",
+  "crm": "4193980019@2506405019@monday.com",
   "status": "DRAFT"
 }
