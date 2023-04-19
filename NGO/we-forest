@@ -1,22 +1,28 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/1459213__878592504287__1255605911__n__grande-16079779446798351320.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "displayName": "WeForest",
+  "created": "2023-04-03T22:03:21Z",
   "suggest": [
     "we-forest",
     "WeForest",
     "we-forest"
   ],
   "url": "https://www.weforest.org/",
-  "UNSDG": "13",
+  "UNSDG": 13.0,
   "whyTags": "environment",
+  "xero": "b7b4f550-c70b-41e6-87b2-95b21acecb32@xero.com",
   "name": "we-forest",
-  "logo": "https://media.good-loop.com/uploads/standard/WF__Logo-500px-RGB__2__1-16742688197090123680.jpg#ccrop:85",
+  "logo": "https://media.good-loop.com/uploads/standard/we-forest-logo-16085304084485470582.png",
   "@id": "we-forest",
   "id": "we-forest",
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
   "summaryDescription": "We imagine a world where communities and nations sustainably manage their forests and natural resources for the benefit of our climate, the environment and humanity.",
   "whereTags": "Africa, Belgium, France",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
