@@ -2,13 +2,20 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "sage",
-  "logo": "https://media.good-loop.com/uploads/standard/design-756x548-13-12305546860135282076.png#ccrop:95",
-  "id": "sage",
+  "created": "2023-03-23T18:36:13Z",
+  "displayName": "National Parks UK",
   "suggest": [
-    "sage"
+    "UK National Parks Foundation",
+    "National Parks UK"
   ],
-  "status": "MODIFIED",
-  "crm": "sage@monday.com"
+  "url": "https://www.nationalparks.uk/",
+  "UNSDG": 13.0,
+  "name": "UK National Parks Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/National-Parks-logo-stacked-left-11836444279419305386.png",
+  "id": "uk-national-parks-foundation",
+  "category": "environment",
+  "crm": "4193980019@2506405019@monday.com",
+  "status": "DRAFT"
 }
