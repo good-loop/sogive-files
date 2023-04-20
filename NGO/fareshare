@@ -48,6 +48,7 @@
   "@type": "NGO",
   "displayName": "Fare Share",
   "noPublicDonations": false,
+  "altlogo": "https://media.good-loop.com/uploads/standard/fareshare__white__logo-39845383255233697.png",
   "suggest": [
     "",
     "Fare Share",
@@ -74,5 +75,5 @@
   "subcategory": "Food Banks and Food Distribution",
   "englandWalesCharityRegNum": "1100051",
   "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
