@@ -3,14 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Trees For Cities",
-  "name": "trees-for-cities-uk",
-  "logo": "https://media.good-loop.com/uploads/standard/TFC__Logo__Small__Dark-Green__RGB__1601459014-2484078996858179360.png#ccrop:90",
-  "id": "trees-for-cities-uk",
+  "name": "Uncommon Construction",
+  "logo": "https://media.good-loop.com/uploads/standard/UNCOMMON-CONSTRUCTION__dfbcd4814c95b38e12f562bd869bde0f-10900310545047838511.png",
+  "id": "uncommon-construction",
   "suggest": [
-    "trees-for-cities-uk",
-    "Trees For Cities"
+    "Uncommon Construction"
   ],
-  "url": "https://www.treesforcities.org/",
   "status": "DRAFT"
 }
