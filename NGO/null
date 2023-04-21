@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "Uncommon Construction",
-  "logo": "https://media.good-loop.com/uploads/standard/UNCOMMON-CONSTRUCTION__dfbcd4814c95b38e12f562bd869bde0f-10900310545047838511.png",
+  "logo": "https://media.good-loop.com/uploads/standard/UNCOMMON-CONSTRUCTION__dfbcd4814c95b38e12f562bd869bde0f-10900310545047838511.png#ccrop:85",
   "id": "uncommon-construction",
   "suggest": [
     "Uncommon Construction"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
