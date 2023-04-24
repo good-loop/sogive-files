@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "Nedic",
-  "logo": "https://media.good-loop.com/uploads/standard/NEDIC-VER-RGB-31866946062456505.png#ccrop:80",
-  "id": "nedic",
+  "name": "Aneb Quebec",
+  "id": "aneb-quebec",
   "suggest": [
-    "Nedic"
+    "Aneb Quebec"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
