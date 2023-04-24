@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "pflag",
+  "logo": "https://media.good-loop.com/uploads/standard/greater-boston-logo-cropped-15502412658968684493.png",
   "id": "pflag",
   "suggest": [
     "pflag"
