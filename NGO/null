@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "Nedic",
-  "logo": "https://media.good-loop.com/uploads/standard/NEDIC-VER-RGB-31866946062456505.png",
+  "logo": "https://media.good-loop.com/uploads/standard/NEDIC-VER-RGB-31866946062456505.png#ccrop:80",
   "id": "nedic",
   "suggest": [
     "Nedic"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
