@@ -1,15 +1,13 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-04-21T15:36:01Z",
-  "name": "People Know How",
-  "id": "people-know-how",
+  "name": "Nedic",
+  "logo": "https://media.good-loop.com/uploads/standard/NEDIC-VER-RGB-31866946062456505.png",
+  "id": "nedic",
   "suggest": [
-    "People Know How"
+    "Nedic"
   ],
-  "category": "community",
-  "url": "https://peopleknowhow.org",
-  "crm": "4348754769@2506405019@monday.com",
-  "UNSDG": 10.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
