@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Tankproof",
   "name": "tankproof",
   "id": "tankproof",
   "suggest": [
-    "tankproof"
+    "tankproof",
+    "Tankproof"
   ],
   "status": "DRAFT"
 }
