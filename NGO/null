@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Nedic",
-  "logo": "https://media.good-loop.com/uploads/standard/NEDIC-VER-RGB-31866946062456505.png#ccrop:80",
-  "id": "nedic",
+  "name": "Aneb Quebec",
+  "logo": "https://media.good-loop.com/uploads/standard/aneb__logo-1024x602-1-8885660434424751025.png",
+  "id": "aneb-quebec",
   "suggest": [
-    "Nedic"
+    "Aneb Quebec"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
