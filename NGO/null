@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Tankproof",
-  "name": "tankproof",
-  "logo": "https://media.good-loop.com/uploads/standard/TankproofLogo-17160044733571285364.png#ccrop:89",
-  "id": "tankproof",
+  "name": "pflag",
+  "logo": "https://media.good-loop.com/uploads/standard/greater-boston-logo-cropped-15502412658968684493.png",
+  "id": "pflag",
   "suggest": [
-    "tankproof",
-    "Tankproof"
+    "pflag"
   ],
-  "url": "https://www.tankproof.org/about",
+  "url": "https://pflag.org/",
   "status": "DRAFT"
 }
