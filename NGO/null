@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "pflag",
-  "logo": "https://media.good-loop.com/uploads/standard/greater-boston-logo-cropped-15502412658968684493.png",
-  "id": "pflag",
+  "name": "pronto",
+  "logo": "https://media.good-loop.com/uploads/standard/1900847ecab01de36dc580f947512695-5947945920044039890.jpeg",
+  "id": "pronto",
   "suggest": [
-    "pflag"
+    "pronto"
   ],
-  "url": "https://pflag.org/",
+  "url": "https://www.prontolongisland.org/",
   "status": "DRAFT"
 }
