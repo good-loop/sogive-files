@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Make A Wish France",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-makeawish-blue-01-14023920727267357099.svg",
-  "id": "make-a-wish-france",
+  "name": "hopital-necker-enfants-malades",
+  "logo": "https://media.good-loop.com/uploads/standard/Hopital-01-7289596091661376271.svg",
+  "id": "hopital-necker-enfants-malades",
   "suggest": [
-    "Make A Wish France"
+    "hopital-necker-enfants-malades"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
