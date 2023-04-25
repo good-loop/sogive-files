@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "pflag",
-  "logo": "https://media.good-loop.com/uploads/standard/greater-boston-logo-cropped-15502412658968684493.png",
-  "id": "pflag",
+  "name": "pronto",
+  "id": "pronto",
   "suggest": [
-    "pflag"
+    "pronto"
   ],
-  "url": "https://pflag.org/",
   "status": "DRAFT"
 }
