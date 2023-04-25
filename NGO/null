@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "hopital-necker-enfants-malades",
-  "logo": "https://media.good-loop.com/uploads/standard/Hopital-01-7289596091661376271.svg",
-  "id": "hopital-necker-enfants-malades",
+  "name": "pflag",
+  "logo": "https://media.good-loop.com/uploads/standard/greater-boston-logo-cropped-15502412658968684493.png#ccrop:78",
+  "id": "pflag",
   "suggest": [
-    "hopital-necker-enfants-malades"
+    "pflag"
   ],
-  "status": "DRAFT"
+  "url": "https://pflag.org/",
+  "status": "PUBLISHED"
 }
