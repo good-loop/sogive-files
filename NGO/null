@@ -3,12 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "black-mamas-matter",
-  "logo": "https://media.good-loop.com/uploads/standard/cropped-BMMA__primarylogo__watercolor-12486949807235857579.png",
-  "id": "black-mamas-matter",
+  "name": "Make A Wish France",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-makeawish-white-15438942036936536488.svg",
+  "id": "make-a-wish-france",
   "suggest": [
-    "black-mamas-matter"
+    "Make A Wish France"
   ],
-  "url": "https://blackmamasmatter.org/",
   "status": "DRAFT"
 }
