@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "hopital-necker-enfants-malades",
+  "logo": "https://media.good-loop.com/uploads/standard/Hopital-01-7289596091661376271.svg",
   "id": "hopital-necker-enfants-malades",
   "suggest": [
     "hopital-necker-enfants-malades"
