@@ -1,13 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "Make A Wish France",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-makeawish-blue-01-14023920727267357099.svg#ccrop:90",
-  "id": "make-a-wish-france",
+  "created": "2023-04-26T01:24:13Z",
+  "name": "Dylan\u0027s Wings of Change",
+  "id": "dylan-s-wings-of-change",
   "suggest": [
-    "Make A Wish France"
+    "Dylan\u0027s Wings of Change"
   ],
-  "status": "MODIFIED"
+  "category": "education",
+  "url": "https://www.dylanswingsofchange.org/",
+  "crm": "4368663989@2506405019@monday.com",
+  "UNSDG": 4.0
 }
