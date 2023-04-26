@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Make A Wish France",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-makeawish-blue-01-14023920727267357099.svg#ccrop:90",
-  "id": "make-a-wish-france",
+  "name": "Cancer Research",
+  "id": "cancer-research",
   "suggest": [
-    "Make A Wish France"
+    "Cancer Research"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
