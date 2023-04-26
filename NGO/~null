@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "Cancer Research",
+  "logo": "https://media.good-loop.com/uploads/standard/cancer-research-uk-seeklogo.com-9432341278330286629.svg",
   "id": "cancer-research",
   "suggest": [
     "Cancer Research"
