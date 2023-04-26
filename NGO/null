@@ -1,13 +1,16 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "Cancer Research UK",
-  "logo": "https://media.good-loop.com/uploads/standard/cancer-research-uk-seeklogo.com-9432341278330286629.svg#ccrop:90",
-  "id": "cancer-research",
+  "displayName": "TCV Scotland, The Conservation Volunteers Scotland",
+  "created": "2023-04-26T16:07:49Z",
+  "name": "The Conservation Volunteers",
   "suggest": [
-    "Cancer Research UK"
+    "The Conservation Volunteers",
+    "TCV Scotland, The Conservation Volunteers Scotland"
   ],
-  "status": "DRAFT"
+  "category": "environment",
+  "url": "www.tcv.org.uk",
+  "crm": "4372578098@2506405019@monday.com",
+  "UNSDG": 11.0,
+  "status": "PUBLISHED"
 }
