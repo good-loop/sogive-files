@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "SES NSW",
-  "name": "ses-nsw",
-  "logo": "https://media.good-loop.com/uploads/standard/ses-logo-1834927422043385929.png#ccrop:89",
-  "id": "ses-nsw",
+  "name": "australian-resistance-corps",
+  "id": "australian-resistance-corps",
   "suggest": [
-    "ses-nsw",
-    "SES NSW"
+    "australian-resistance-corps"
   ],
-  "url": "https://www.ses.nsw.gov.au/",
   "status": "DRAFT"
 }
