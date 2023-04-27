@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Australian Resilience Corps",
-  "name": "australian-resilience-corps",
-  "logo": "https://media.good-loop.com/uploads/standard/LOGO-1-1627841923784216296.png#ccrop:83",
-  "id": "australian-resistance-corps",
+  "name": "givit",
+  "id": "givit",
   "suggest": [
-    "australian-resilience-corps",
-    "Australian Resilience Corps"
+    "givit"
   ],
-  "url": "https://www.resiliencecorps.org.au/",
   "status": "DRAFT"
 }
