@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "SES NSW",
-  "name": "ses-nsw",
-  "logo": "https://media.good-loop.com/uploads/standard/ses-logo-1834927422043385929.png#ccrop:89",
-  "id": "ses-nsw",
+  "displayName": "Australian Resilience Corps",
+  "name": "australian-resilience-corps",
+  "logo": "https://media.good-loop.com/uploads/standard/LOGO-1-1627841923784216296.png#ccrop:83",
+  "id": "australian-resistance-corps",
   "suggest": [
-    "ses-nsw",
-    "SES NSW"
+    "australian-resilience-corps",
+    "Australian Resilience Corps"
   ],
-  "url": "https://www.ses.nsw.gov.au/",
+  "url": "https://www.resiliencecorps.org.au/",
   "status": "DRAFT"
 }
