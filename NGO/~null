@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "SES NSW",
   "name": "ses-nsw",
+  "logo": "https://media.good-loop.com/uploads/standard/ses-logo-1834927422043385929.png",
   "id": "ses-nsw",
   "suggest": [
     "ses-nsw",
