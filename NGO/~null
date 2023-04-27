@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Australian Resistance-corps",
+  "displayName": "Australian Resistance Corps",
   "name": "australian-resistance-corps",
   "id": "australian-resistance-corps",
   "suggest": [
     "australian-resistance-corps",
-    "Australian Resistance-corps"
+    "Australian Resistance Corps"
   ],
   "status": "DRAFT"
 }
