@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "SES NSW",
   "name": "ses-nsw",
   "id": "ses-nsw",
   "suggest": [
-    "ses-nsw"
+    "ses-nsw",
+    "SES NSW"
   ],
   "status": "DRAFT"
 }
