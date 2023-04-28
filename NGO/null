@@ -3,14 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Australian Resilience Corps",
-  "name": "australian-resilience-corps",
-  "logo": "https://media.good-loop.com/uploads/standard/LOGO-1-1627841923784216296.png#ccrop:83",
-  "id": "australian-resistance-corps",
+  "name": "The Simon Foundation for Continence",
+  "logo": "https://media.good-loop.com/uploads/standard/1e01095138e516921c70cf631a5072a7-16477046340228598841.jpg",
+  "id": "the-simon-foundation-for-continence",
   "suggest": [
-    "australian-resilience-corps",
-    "Australian Resilience Corps"
+    "The Simon Foundation for Continence"
   ],
-  "url": "https://www.resiliencecorps.org.au/",
   "status": "DRAFT"
 }
