@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "givit",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-teal-9218241400503888888.svg#ccrop:84",
-  "id": "givit",
+  "name": "The Simon Foundation for Continence",
+  "id": "the-simon-foundation-for-continence",
   "suggest": [
-    "givit"
+    "The Simon Foundation for Continence"
   ],
-  "url": "https://www.givit.org.au/",
   "status": "DRAFT"
 }
