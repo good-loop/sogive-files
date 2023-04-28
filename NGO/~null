@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Humble Design",
   "name": "humble-design",
   "id": "humble-design",
   "suggest": [
-    "humble-design"
+    "humble-design",
+    "Humble Design"
   ],
   "status": "DRAFT"
 }
