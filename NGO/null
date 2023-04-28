@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "The Simon Foundation for Continence",
-  "logo": "https://media.good-loop.com/uploads/standard/1e01095138e516921c70cf631a5072a7-16477046340228598841.jpg",
+  "logo": "https://media.good-loop.com/uploads/standard/1e01095138e516921c70cf631a5072a7-16477046340228598841.jpg#ccrop:90",
   "id": "the-simon-foundation-for-continence",
   "suggest": [
     "The Simon Foundation for Continence"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
