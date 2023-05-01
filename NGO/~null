@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "weact",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-12803042886493067707.png#ccrop:89",
-  "id": "weact",
+  "name": "intersectional-environmentalist",
+  "id": "intersectional-environmentalist",
   "suggest": [
-    "weact"
+    "intersectional-environmentalist"
   ],
-  "url": "https://www.weact.org/",
   "status": "DRAFT"
 }
