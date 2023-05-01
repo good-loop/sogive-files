@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Humble Design",
-  "name": "humble-design",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__National__Tag__Horizontal__FullColor-9089548727898008015.png#ccrop:91",
-  "id": "humble-design",
+  "name": "weact",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-12803042886493067707.png#ccrop:89",
+  "id": "weact",
   "suggest": [
-    "humble-design",
-    "Humble Design"
+    "weact"
   ],
-  "url": "https://www.humbledesign.org/",
-  "status": "MODIFIED"
+  "url": "https://www.weact.org/",
+  "status": "DRAFT"
 }
