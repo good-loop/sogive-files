@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Humble Design",
-  "name": "humble-design",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo__National__Tag__Horizontal__FullColor-9089548727898008015.png#ccrop:91",
-  "id": "humble-design",
+  "name": "weact",
+  "id": "weact",
   "suggest": [
-    "humble-design",
-    "Humble Design"
+    "weact"
   ],
-  "url": "https://www.humbledesign.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
