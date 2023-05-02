@@ -4,16 +4,16 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "American Red Cross",
+  "displayName": "Red Cross",
   "name": "red-cross",
   "logo": "https://media.good-loop.com/uploads/raw/american__red__cross-6205563053105212151.png#ccrop:98",
   "@id": "american-red-cross",
   "suggest": [
     "red-cross",
-    "American Red Cross",
+    "Red Cross",
     "american-red-cross"
   ],
   "id": "american-red-cross",
   "url": "https://www.redcross.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
