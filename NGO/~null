@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "intersectional-environmentalist",
-  "logo": "https://media.good-loop.com/uploads/standard/PrimaryLogo-11318392937421269223.png#ccrop:91",
-  "id": "intersectional-environmentalist",
+  "name": "Fidelity Charitable",
+  "id": "fidelity-charitable",
   "suggest": [
-    "intersectional-environmentalist"
+    "Fidelity Charitable"
   ],
-  "url": "https://www.intersectionalenvironmentalist.com/about",
   "status": "DRAFT"
 }
