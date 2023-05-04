@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Jump Start",
   "name": "jump-start",
   "id": "jump-start",
   "suggest": [
-    "jump-start"
+    "jump-start",
+    "Jump Start"
   ],
   "status": "DRAFT"
 }
