@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Jump Start",
-  "name": "jump-start",
-  "logo": "https://media.good-loop.com/uploads/standard/footer-logo-12124722196202291744.png#ccrop:85",
-  "id": "jump-start",
+  "displayName": "CEE",
+  "name": "council-for-economic-education",
+  "logo": "https://media.good-loop.com/uploads/standard/CEE-logo-light2x-3099035722219332006.png#ccrop:85",
+  "id": "council-for-economic-education",
   "suggest": [
-    "jump-start",
-    "Jump Start"
+    "council-for-economic-education",
+    "CEE"
   ],
-  "url": "https://www.jumpstart.org/",
+  "url": "https://www.councilforeconed.org/about/",
   "status": "DRAFT"
 }
