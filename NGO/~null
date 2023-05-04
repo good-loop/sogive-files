@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Just Like Us",
   "name": "just-like-us",
   "logo": "https://media.good-loop.com/uploads/standard/just-like-us-5338243330662566007.svg#ccrop:85",
   "id": "just-like-us",
   "suggest": [
-    "just-like-us"
+    "just-like-us",
+    "Just Like Us"
   ],
   "url": "https://www.justlikeus.org/",
   "status": "DRAFT"
