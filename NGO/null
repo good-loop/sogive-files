@@ -3,11 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Fidelity Charitable",
-  "logo": "https://media.good-loop.com/uploads/standard/fidcharitablelglogo-01-15814213112007390748.svg#ccrop:96",
-  "id": "fidelity-charitable",
+  "displayName": "Jump Start",
+  "name": "jump-start",
+  "logo": "https://media.good-loop.com/uploads/standard/footer-logo-12124722196202291744.png#ccrop:85",
+  "id": "jump-start",
   "suggest": [
-    "Fidelity Charitable"
+    "jump-start",
+    "Jump Start"
   ],
+  "url": "https://www.jumpstart.org/",
   "status": "DRAFT"
 }
