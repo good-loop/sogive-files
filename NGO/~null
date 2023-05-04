@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "CEE",
-  "name": "council-for-economic-education",
-  "logo": "https://media.good-loop.com/uploads/standard/CEE-logo-light2x-3099035722219332006.png#ccrop:85",
-  "id": "council-for-economic-education",
+  "name": "just-like-us",
+  "id": "just-like-us",
   "suggest": [
-    "council-for-economic-education",
-    "CEE"
+    "just-like-us"
   ],
-  "url": "https://www.councilforeconed.org/about/",
   "status": "DRAFT"
 }
