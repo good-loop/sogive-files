@@ -1,0 +1,23 @@
+{
+  "circleCrop": 70.0,
+  "images": "https://media.good-loop.com/uploads/raw/MindOutImage-13546800477765936107.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "MindOut",
+  "suggest": [
+    "MindOut LGBT Mental Health Project",
+    "MindOut",
+    "mindout-lgbt-mental-health-project"
+  ],
+  "url": "https://mindout.org.uk/",
+  "whyTags": "LGBT, Mental Health",
+  "name": "MindOut LGBT Mental Health Project",
+  "logo": "https://media.good-loop.com/uploads/raw/NEW-MindOut-new-logo-6435167724411386877.png",
+  "@id": "mindout-lgbt-mental-health-project",
+  "id": "mindout-lgbt-mental-health-project",
+  "englandWalesCharityRegNum": "1140098",
+  "summaryDescription": "MindOut works to improve the mental health and wellbeing of LGBTQ communities and to make mental health a community concern.",
+  "status": "PUBLISHED"
+}
