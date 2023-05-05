@@ -6,6 +6,7 @@
   "unlisted": true,
   "ready": false,
   "name": "None",
+  "description": "Marker for when there is no charity or NGO involved.",
   "id": "none",
   "suggest": [
     "None"
