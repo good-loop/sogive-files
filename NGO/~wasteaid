@@ -1,5 +1,8 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/WasteAid__ROLE-Foundation__Waste-management-training-12-5-2021-Bali__Indonesia__2021-scaled-15543595016975081259.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "displayName": "Waste Aid",
   "suggest": [
@@ -21,5 +24,5 @@
   "englandWalesCharityRegNum": "1160263",
   "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
   "whereTags": "Africa \u0026 Asia",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
