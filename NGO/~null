@@ -3,15 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "unlisted": true,
-  "ready": true,
-  "impact": "low",
-  "confidence": "high",
-  "name": "None",
-  "description": "Marker for when there is no charity or NGO involved.",
-  "id": "none",
+  "name": "Tech4Families",
+  "id": "tech4families",
   "suggest": [
-    "None"
+    "Tech4Families"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
