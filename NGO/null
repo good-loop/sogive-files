@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Rise",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-10_150126-12977779305211358423.png#ccrop:105",
-  "id": "rise",
+  "displayName": "Jackie Robinson Foundation",
+  "name": "Jackie Robinson Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-7408717659723278139.jpg#ccrop:114",
+  "id": "jackie-robinson-foundation",
   "suggest": [
-    "Rise"
+    "Jackie Robinson Foundation",
+    "Jackie Robinson Foundation"
   ],
   "status": "DRAFT"
 }
