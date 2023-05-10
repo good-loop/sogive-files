@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Jackie Robinson Foundation",
-  "name": "Jackie Robinson Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-7408717659723278139.jpg#ccrop:114",
-  "id": "jackie-robinson-foundation",
+  "name": "Change Capital Fund",
+  "id": "change-capital-fund",
   "suggest": [
-    "Jackie Robinson Foundation",
-    "Jackie Robinson Foundation"
+    "Change Capital Fund"
   ],
   "status": "DRAFT"
 }
