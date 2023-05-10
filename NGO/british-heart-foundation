@@ -1,5 +1,8 @@
 {
   "scotlandCharityRegNum": "SC039426",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -463,7 +466,7 @@
   "whyTags": "Health",
   "ready": true,
   "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-5513067594268715697.png#ccrop:70",
+  "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-9807891336815029518.png#ccrop:80",
   "@id": "british-heart-foundation",
   "summaryDescription": "BHF fights heart and circulatory disease primarily through research, but also through education, such as training on CPR.",
   "uptodatedraft": "probably",
@@ -516,5 +519,5 @@
   "englandWalesCharityRegNum": "225971",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
