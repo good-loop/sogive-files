@@ -1,0 +1,26 @@
+{
+  "images": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-25_at_00.59.34-191281951532729284.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "description": "[Juvenis’](https://www.juvenis.org.uk/) offers bespoke support and training enabling young people who are having difficulties at school, at home or in the community to turn around their lives and (re)engage with employment, education, or training.",
+  "suggest": [
+    "Juvenis",
+    "juvenis"
+  ],
+  "url": "https://www.juvenis.org.uk/",
+  "whyTags": "Violence, Youth",
+  "howTags": "Direct Work ",
+  "name": "Juvenis",
+  "logo": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-25_at_00.59.10-12320666276447697825.png",
+  "@id": "juvenis",
+  "lastModified": "2020-10-26T17:40:40Z",
+  "id": "juvenis",
+  "englandWalesCharityRegNum": "1168544",
+  "summaryDescription": "[Juvenis’](https://www.juvenis.org.uk/) main focus is on supporting young people from vulnerable and disenfranchised communities, especially those at risk of offending and criminal behaviours.",
+  "uptodatedraft": "probably",
+  "whereTags": "London",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
