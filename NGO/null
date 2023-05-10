@@ -3,12 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "It Gets Better Project",
-  "logo": "https://media.good-loop.com/uploads/standard/Full-Color-Stacked-IGBP-RGB-12575494388967096085.png#ccrop:75",
-  "id": "it-gets-better-project",
+  "name": "Rise",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-10_150126-12977779305211358423.png#ccrop:105",
+  "id": "rise",
   "suggest": [
-    "It Gets Better Project"
+    "Rise"
   ],
-  "url": "https://itgetsbetter.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
