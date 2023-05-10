@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Tech4Families",
-  "logo": "https://media.good-loop.com/uploads/standard/t4f-logo-with-text-x250-y55-4019475307253345251.png#ccrop:96",
-  "id": "tech4families",
+  "displayName": "It Gets Better Project",
+  "logo": "https://media.good-loop.com/uploads/standard/Full-Color-Stacked-IGBP-RGB-12575494388967096085.png#ccrop:75",
+  "id": "it-gets-better-project",
   "suggest": [
-    "Tech4Families"
+    "It Gets Better Project"
   ],
+  "url": "https://itgetsbetter.org/",
   "status": "PUBLISHED"
 }
