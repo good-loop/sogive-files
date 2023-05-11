@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "It Gets Better Canada",
   "name": "it-gets-better-canada",
   "id": "it-gets-better-canada",
   "suggest": [
-    "it-gets-better-canada"
+    "it-gets-better-canada",
+    "It Gets Better Canada"
   ],
   "status": "DRAFT"
 }
