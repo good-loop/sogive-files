@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Year Up",
-  "name": "Year Up",
-  "logo": "https://media.good-loop.com/uploads/standard/image-2865336189278592306.png#ccrop:131",
-  "id": "year-up",
+  "name": "Boston Medical  Center",
+  "id": "boston-medical--center",
   "suggest": [
-    "Year Up",
-    "Year Up"
+    "Boston Medical  Center"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
