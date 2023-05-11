@@ -79,8 +79,10 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "International Rescue Committee",
   "description": "Internation Rescue Committee provides access to health services, treats malnutrition, supports mobile clinics, hospitals, and health care centres, provides clean water, provides access to education, and helps resettle refugees. ",
   "suggest": [
+    "International Rescue Committee",
     "International Rescue Committee",
     "international-rescue-committee"
   ],
