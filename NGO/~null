@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Change Capital Fund",
-  "name": "Change Capital Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/download_3-18359173858811915024.png#ccrop:92",
-  "id": "change-capital-fund",
+  "name": "Year Up",
+  "id": "year-up",
   "suggest": [
-    "Change Capital Fund",
-    "Change Capital Fund"
+    "Year Up"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
