@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "American Society of Interior Designers",
-  "name": "American Society of Interior Designers",
-  "logo": "https://media.good-loop.com/uploads/standard/asid-new-logo-14302169414543273909.jpg",
-  "id": "american-society-of-interior-designers",
+  "displayName": "IKEA Foundation",
+  "name": "IKEA Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/unnamed-17413285110216283498.jpg#ccrop:101",
+  "id": "ikea-foundation",
   "suggest": [
-    "American Society of Interior Designers",
-    "American Society of Interior Designers"
+    "IKEA Foundation",
+    "IKEA Foundation"
   ],
   "status": "DRAFT"
 }
