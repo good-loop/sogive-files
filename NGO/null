@@ -2,15 +2,15 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "",
   "@type": "NGO",
-  "displayName": "Boston Medical  Center",
-  "name": "Boston Medical  Center",
-  "logo": "https://media.good-loop.com/uploads/standard/image_2-11677446327016767542.png#ccrop:139",
-  "id": "boston-medical--center",
+  "displayName": "It Gets Better Canada",
+  "name": "it-gets-better-canada",
+  "logo": "https://media.good-loop.com/uploads/standard/IGB-RGB-Canada-01-450x375-7229554234429567845.png#ccrop:88",
+  "id": "it-gets-better-canada",
   "suggest": [
-    "Boston Medical  Center",
-    "Boston Medical  Center"
+    "it-gets-better-canada",
+    "It Gets Better Canada"
   ],
-  "status": "PUBLISHED"
+  "url": "https://itgetsbettercanada.org/",
+  "status": "DRAFT"
 }
