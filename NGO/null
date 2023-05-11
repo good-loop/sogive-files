@@ -5,11 +5,11 @@
   "@type": "NGO",
   "displayName": "Year Up",
   "name": "Year Up",
-  "logo": "https://media.good-loop.com/uploads/standard/image-2865336189278592306.png",
+  "logo": "https://media.good-loop.com/uploads/standard/image-2865336189278592306.png#ccrop:131",
   "id": "year-up",
   "suggest": [
     "Year Up",
     "Year Up"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
