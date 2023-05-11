@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "It Gets Better Canada",
-  "name": "it-gets-better-canada",
-  "logo": "https://media.good-loop.com/uploads/standard/IGB-RGB-Canada-01-450x375-7229554234429567845.png#ccrop:88",
-  "id": "it-gets-better-canada",
+  "displayName": "American Society of Interior Designers",
+  "name": "American Society of Interior Designers",
+  "logo": "https://media.good-loop.com/uploads/standard/asid-new-logo-14302169414543273909.jpg",
+  "id": "american-society-of-interior-designers",
   "suggest": [
-    "it-gets-better-canada",
-    "It Gets Better Canada"
+    "American Society of Interior Designers",
+    "American Society of Interior Designers"
   ],
-  "url": "https://itgetsbettercanada.org/",
   "status": "DRAFT"
 }
