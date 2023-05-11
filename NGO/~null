@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "The Alpha Workshops",
   "name": "The Alpha Workshops",
   "id": "the-alpha-workshops",
   "suggest": [
+    "The Alpha Workshops",
     "The Alpha Workshops"
   ],
   "status": "DRAFT"
