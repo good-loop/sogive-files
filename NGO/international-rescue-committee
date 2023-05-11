@@ -1,5 +1,8 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/IRC_photo-9385266334601124446.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -76,8 +79,10 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "International Rescue Committee",
   "description": "Internation Rescue Committee provides access to health services, treats malnutrition, supports mobile clinics, hospitals, and health care centres, provides clean water, provides access to education, and helps resettle refugees. ",
   "suggest": [
+    "International Rescue Committee",
     "International Rescue Committee",
     "international-rescue-committee"
   ],
@@ -90,11 +95,11 @@
     "name": "No Outputs! for project Project[overall 2020.0]"
   },
   "name": "International Rescue Committee",
-  "logo": "https://media.good-loop.com/uploads/standard/International-Rescue-Committee-2862091540521300748.jpg#ccrop:189",
+  "logo": "https://media.good-loop.com/uploads/standard/image_1-6850197023328621661.png#ccrop:131",
   "@id": "international-rescue-committee",
   "englandWalesCharityRegNum": "1065972",
   "summaryDescription": "Internation Rescue Committee works globally to help people affected by conflict, disasters, and poverty. ",
   "whereTags": "Developing world ",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
