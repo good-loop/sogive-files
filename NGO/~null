@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Solid Black",
-  "name": "solid-black",
-  "logo": "https://media.good-loop.com/uploads/standard/solidblack__stacked.4b63630-14038351469365864234.png#ccrop:92",
-  "id": "solid-black",
+  "name": "Girls Opportunity Alliance",
+  "id": "girls-opportunity-alliance",
   "suggest": [
-    "solid-black",
-    "Solid Black"
+    "Girls Opportunity Alliance"
   ],
-  "url": "https://www.doritos.com/solidblack/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
