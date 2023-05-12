@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Girls Opportunity Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/girls-14233160055152245319.png",
-  "id": "girls-opportunity-alliance",
+  "name": "The Circle",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-12_153100-9635136243091834109.png",
+  "id": "the-circle",
   "suggest": [
-    "Girls Opportunity Alliance"
+    "The Circle"
   ],
   "status": "DRAFT"
 }
