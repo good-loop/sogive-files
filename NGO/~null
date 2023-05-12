@@ -4,13 +4,13 @@
   },
   "@type": "NGO",
   "displayName": "Solid Black",
-  "name": "solid_black",
+  "name": "solid-black",
   "logo": "https://media.good-loop.com/uploads/standard/solidblack__stacked.4b63630-14038351469365864234.png#ccrop:92",
   "id": "solid-black",
   "suggest": [
-    "solid_black",
+    "solid-black",
     "Solid Black"
   ],
   "url": "https://www.doritos.com/solidblack/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
