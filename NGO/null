@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "The Circle",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-12_153100-9635136243091834109.png#ccrop:103",
-  "id": "the-circle",
+  "displayName": "LPGA*USGA Girls Golf",
+  "name": "Girls Golf",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-15_133319-4577308783798733887.png#ccrop:105",
+  "id": "girls-golf",
   "suggest": [
-    "The Circle"
+    "Girls Golf",
+    "LPGA*USGA Girls Golf"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
