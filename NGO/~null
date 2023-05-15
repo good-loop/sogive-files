@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "LPGA*USGA Girls Golf",
   "name": "Girls Golf",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2023-05-15_133319-4577308783798733887.png",
   "id": "girls-golf",
   "suggest": [
     "Girls Golf",
