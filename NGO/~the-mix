@@ -3,6 +3,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://media.good-loop.com/uploads/standard/the-mix-6774045794894698615.jpeg",
   "@type": "NGO",
   "displayName": "The Mix",
   "description": "The Mix is a free and confidential multi-channel support service for young people aged 13-25 years. It helps young people take on embarrassing problems and weird questions.",
@@ -12,10 +13,11 @@
     "the-mix"
   ],
   "url": "https://www.themix.org.uk/",
+  "headerImage": "https://media.good-loop.com/uploads/standard/the-mix-5569182012178923778.jpeg",
   "name": "the-mix",
   "logo": "https://media.good-loop.com/uploads/raw/TheMix_favicon__no_strap_CMYK_1-3385144509013763827.png",
   "@id": "the-mix",
   "id": "the-mix",
   "summaryDescription": "",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
