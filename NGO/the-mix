@@ -1,0 +1,19 @@
+{
+  "circleCrop": 60.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "The Mix",
+  "name": "the-mix",
+  "logo": "https://media.good-loop.com/uploads/raw/TheMix_favicon__no_strap_CMYK_1-3385144509013763827.png",
+  "@id": "the-mix",
+  "suggest": [
+    "the-mix",
+    "The Mix",
+    "the-mix"
+  ],
+  "id": "the-mix",
+  "url": "https://www.themix.org.uk/",
+  "status": "DRAFT"
+}
