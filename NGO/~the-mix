@@ -6,7 +6,7 @@
   "images": "https://media.good-loop.com/uploads/standard/the-mix-6774045794894698615.jpeg",
   "@type": "NGO",
   "displayName": "The Mix",
-  "description": "The Mix is a free and confidential multi-channel support service for young people aged 13-25 years. It helps young people take on embarrassing problems and weird questions.",
+  "description": "The Mix is the UK\u0027s leading digital charity for under 25s, reaching over 6 million young people each year. Whatever issue a young person is facing, The Mix is always there for them - via our website, over the phone or via social media. Our support is free, confidential and anonymous and can be accessed wherever young people are. We connect young people to experts and their peers to talk about everything from money to mental health, homelessness to jobs, break-ups to drugs and more. No topic is out of bounds, and we are completely non-judgemental.",
   "suggest": [
     "the-mix",
     "The Mix",
@@ -19,5 +19,5 @@
   "@id": "the-mix",
   "id": "the-mix",
   "summaryDescription": "",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
