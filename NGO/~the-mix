@@ -5,16 +5,17 @@
   },
   "@type": "NGO",
   "displayName": "The Mix",
-  "name": "the-mix",
-  "logo": "https://media.good-loop.com/uploads/raw/TheMix_favicon__no_strap_CMYK_1-3385144509013763827.png",
-  "@id": "the-mix",
+  "description": "The Mix is a free and confidential multi-channel support service for young people aged 13-25 years. It helps young people take on embarrassing problems and weird questions.",
   "suggest": [
     "the-mix",
     "The Mix",
     "the-mix"
   ],
+  "url": "https://www.themix.org.uk/",
+  "name": "the-mix",
+  "logo": "https://media.good-loop.com/uploads/raw/TheMix_favicon__no_strap_CMYK_1-3385144509013763827.png",
+  "@id": "the-mix",
   "id": "the-mix",
   "summaryDescription": "The Mix is a free and confidential multi-channel support service for young people aged 13-25 years. It helps young people take on embarrassing problems and weird questions.",
-  "url": "https://www.themix.org.uk/",
   "status": "PUBLISHED"
 }
