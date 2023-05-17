@@ -1,16 +1,13 @@
 {
-  "xero": "87206932-5992-4d8d-8fad-bb2462fc215d",
-  "images": "https://media.good-loop.com/uploads/standard/bruce-peninsula-parkbus-uphill-nccstaff-slide-5483272474143453104.jpg",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "The Nature Conservancy Canada",
-  "created": "2023-05-16T01:00:10Z",
-  "description": "The Nature Conservancy of Canada (NCC) is the country’s unifying force for nature, working to deliver large-scale, permanent land conservation. With nature we are building a thriving world.",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_10-7845505107749162601.png#ccrop:90",
-  "id": "the-nature-conservancy-canada",
+  "name": "women win",
+  "logo": "https://media.good-loop.com/uploads/standard/Women__Win__logo-10212940463436063712.png",
+  "id": "women-win-",
   "suggest": [
-    "The Nature Conservancy Canada"
+    "women win"
   ],
-  "url": "https://www.natureconservancy.ca/en/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
