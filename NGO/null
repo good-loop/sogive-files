@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Alex\u0027s Lemonade Stand",
-  "logo": "https://media.good-loop.com/uploads/standard/ALSFsquare-7743519182160653984.jpg#ccrop:65",
-  "id": "alex-s-lemonade-stand",
+  "displayName": "Point Foundation",
+  "name": "Point Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/download_6-12023159746544876975.png#ccrop:101",
+  "id": "point-foundation",
   "suggest": [
-    "Alex\u0027s Lemonade Stand"
+    "Point Foundation",
+    "Point Foundation"
   ],
   "status": "DRAFT"
 }
