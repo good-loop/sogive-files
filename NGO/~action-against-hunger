@@ -1,0 +1,161 @@
+{
+  "scotlandCharityRegNum": "SC048317",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": ""
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Average expenditure per beneficiary is tracked in goal 4 (p32) of the 2014 annual progress report. Looks like this is not calculated on a consistent basis with other calcs in this database; in particular don\u0027t believe that the full cost base is included (I think it\u0027s just the cost of the logistics function)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 2.12E7,
+          "meta": {
+            "all": {
+              "notes": "Source: Financial Statement 2018, Page 6"
+            }
+          },
+          "confidence": "low",
+          "name": "people (singular: person) reached",
+          "description": "This refers to more than 21 million people in 47 countries reached in 2018. Nevertheless, it is not specified in which of their 4 main programmes (nutrition, water/sanitation, mental health, food security) how much money was spent on which specific projects."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/1047501"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.actionagainsthunger.org.uk/publications-and-reports/uk-annual-report-and-financial-statements-2018"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "43,024,478",
+          "currency": "GBP",
+          "value100p": 4.3024478E11,
+          "value": 4.3024478E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "Source: Financial Report 2018, page 27. They state their reserves represent around 6 months of general expenditure."
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "1700000",
+        "currency": "GBP",
+        "value100p": 1.7E10,
+        "value": 1700000.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "description": "Action against Hunger are operating projects in 46, mostly developing, countries worldwide. The content of their projects range from nutrition, water/hygiene/sanitation and mental health programmes. They also implemented food security and livelihood programmes.",
+  "recommendation": "On the one hand, AAH provides a very informative, transparent website. They publish their financial reports on their website and list how many people are reached through each of their four main programmes.\nOn the other hand, the SOFA is unfortunately not very detailed. There is just the overall costs of all projects together stated, not divided into the four main programmes, which makes it impossible to calculate a decisive cost-efficiency-analysis.",
+  "whyTags": "hunger, water, sanitation, international aid, poverty, mental health, emergency aid",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Eng_Col_RGB_-_Copy.png",
+  "modified": false,
+  "@id": "action-against-hunger",
+  "summaryDescription": "Action against Hunger is an internationally operating charity committed to saving the lives of malnourished children and supporting their families to fight hunger.",
+  "uptodatedraft": "probably",
+  "images": "https://reliefweb.int/sites/reliefweb.int/files/styles/attachment-large/public/resources-pdf-previews/651556-Action-Against-Hunger-2015-Annual-Report-web.compressed.png?itok\u003dMSEdhuSf",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Action against hunger",
+    "action-against-hunger"
+  ],
+  "url": "https://www.actionagainsthunger.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "notes": "High level of transparency here - they publish their annual reports and financial statements on their website. Stating that 91pence of every pound spent goes to the projects (5p on fundraising and 4p on supportive costs). Source: https://www.actionagainsthunger.org.uk/about-action-against-hunger/where-your-money-goes"
+    }
+  },
+  "name": "Action against hunger",
+  "lastModified": "2020-12-20T14:28:27Z",
+  "englandWalesCharityRegNum": "1047501",
+  "whereTags": "international, developing world",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
