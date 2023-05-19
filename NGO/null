@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Point Foundation",
-  "name": "Point Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/download_5-7267391126308144887.png#ccrop:115",
-  "id": "point-foundation",
+  "displayName": "Seek HER Foundation",
+  "name": "seek-her-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/SeekHer_logo_black-2321970658818657283.png#ccrop:90",
+  "id": "seek-her-foundation",
   "suggest": [
-    "Point Foundation",
-    "Point Foundation"
+    "seek-her-foundation",
+    "Seek HER Foundation"
   ],
+  "url": "https://seekher.org/",
   "status": "DRAFT"
 }
