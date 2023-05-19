@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Seek Her Foundation",
+  "displayName": "Seek HER Foundation",
   "name": "seek-her-foundation",
   "id": "seek-her-foundation",
   "suggest": [
     "seek-her-foundation",
-    "Seek Her Foundation"
+    "Seek HER Foundation"
   ],
   "status": "DRAFT"
 }
