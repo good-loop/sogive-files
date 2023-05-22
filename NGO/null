@@ -3,14 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Seek HER Foundation",
-  "name": "seek-her-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/SeekHer_logo_black-2321970658818657283.png#ccrop:90",
-  "id": "seek-her-foundation",
+  "displayName": "Susan G. Komen",
+  "name": "susan-g-Komen",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo_22-2931971706573178918.png#ccrop:90",
+  "id": "susan-g-coman",
   "suggest": [
-    "seek-her-foundation",
-    "Seek HER Foundation"
+    "susan-g-Komen",
+    "Susan G. Komen"
   ],
-  "url": "https://seekher.org/",
   "status": "DRAFT"
 }
