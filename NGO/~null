@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Susan G. Koman",
-  "name": "susan-g-coman",
+  "displayName": "Susan G. Komen",
+  "name": "susan-g-Komen",
   "id": "susan-g-coman",
   "suggest": [
-    "susan-g-coman",
-    "Susan G. Koman"
+    "susan-g-Komen",
+    "Susan G. Komen"
   ],
   "status": "DRAFT"
 }
