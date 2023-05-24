@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Susan G. Komen",
-  "name": "susan-g-Komen",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_22-2931971706573178918.png#ccrop:90",
-  "id": "susan-g-coman",
+  "displayName": "Cancer research",
+  "unlisted": true,
+  "name": "cancer-research-fake",
+  "logo": "https://media.good-loop.com/uploads/standard/Cancer_research-8622289646807392004.png",
+  "id": "cancer-research-fake",
   "suggest": [
-    "susan-g-Komen",
-    "Susan G. Komen"
+    "cancer-research-fake",
+    "Cancer research"
   ],
   "status": "DRAFT"
 }
