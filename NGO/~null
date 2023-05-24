@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Creasearch",
+  "displayName": "Cancer research",
   "name": "cancer-research-fake",
   "id": "cancer-research-fake",
   "suggest": [
     "cancer-research-fake",
-    "Creasearch"
+    "Cancer research"
   ],
   "status": "DRAFT"
 }
