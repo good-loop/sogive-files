@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Support group programs",
+  "unlisted": true,
   "name": "support-group-programs-fake",
   "id": "support-group-programs-fake",
   "suggest": [
