@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Cadian",
   "name": "canadian-cancer-society",
   "id": "canadian-cancer-society",
   "suggest": [
-    "canadian-cancer-society"
+    "canadian-cancer-society",
+    "Cadian"
   ],
   "status": "DRAFT"
 }
