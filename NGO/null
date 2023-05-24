@@ -6,11 +6,11 @@
   "displayName": "Cancer prevention education",
   "unlisted": true,
   "name": "cancer-prevention-education-fake",
-  "logo": "https://media.good-loop.com/uploads/standard/Cancer_research_1-13812996639816381693.png",
+  "logo": "https://media.good-loop.com/uploads/standard/Cancer_research_1-13812996639816381693.png#ccrop:90",
   "id": "cancer-prevention-education-fake",
   "suggest": [
     "cancer-prevention-education-fake",
     "Cancer prevention education"
   ],
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
