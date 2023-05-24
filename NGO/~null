@@ -3,13 +3,15 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Susan G. Komen",
-  "name": "susan-g-Komen",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_22-2931971706573178918.png#ccrop:90",
-  "id": "susan-g-coman",
+  "displayName": "The Nature Conservancy",
+  "name": "The Nature Conservancy",
+  "logo": "https://media.good-loop.com/uploads/standard/tnc-logo-6490814153672030218.svg#ccrop:90",
+  "description": "Nature Valley\u0027s Tree Planters",
+  "id": "the-nature-conservancy",
   "suggest": [
-    "susan-g-Komen",
-    "Susan G. Komen"
+    "The Nature Conservancy",
+    "The Nature Conservancy"
   ],
-  "status": "DRAFT"
+  "url": "https://www.nature.org/en-us/",
+  "status": "PUBLISHED"
 }
