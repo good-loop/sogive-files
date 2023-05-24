@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Cancer research",
+  "unlisted": true,
   "name": "cancer-research-fake",
   "logo": "https://media.good-loop.com/uploads/standard/Cancer_research-8622289646807392004.png",
   "id": "cancer-research-fake",
