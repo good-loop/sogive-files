@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Cancer prevention education",
   "name": "cancer-prevention-education-fake",
   "id": "cancer-prevention-education-fake",
   "suggest": [
-    "cancer-prevention-education-fake"
+    "cancer-prevention-education-fake",
+    "Cancer prevention education"
   ],
   "status": "DRAFT"
 }
