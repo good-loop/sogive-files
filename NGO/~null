@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "displayName": "Cancer prevention education",
+  "unlisted": true,
   "name": "cancer-prevention-education-fake",
   "id": "cancer-prevention-education-fake",
   "suggest": [
