@@ -15,13 +15,13 @@
   "UNSDG": "13",
   "whyTags": "environment",
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/raw/rainforest____logo____2020-15107753302741255120-15989915227519125030.png",
+  "logo": "https://media.good-loop.com/uploads/raw/rainforest____logo____2020-15107753302741255120-15989915227519125030.png#ccrop:90",
   "@id": "rainforest-alliance",
   "id": "rainforest-alliance",
   "wikipedia": "https://en.wikipedia.org/wiki/Rainforest_Alliance",
   "category": "environment",
   "subcategory": "Environmental Protection and Conservation",
   "summaryDescription": "The Rainforest Alliance is an international non-profit organization working at the intersection of business, agriculture, and forests to make responsible business the new normal. We are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
-  "status": "MODIFIED",
+  "status": "PUBLISHED",
   "usCharityRegNum": " 13-3377893"
 }
