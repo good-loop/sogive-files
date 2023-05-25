@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "CPAC",
-  "name": "cpac",
-  "logo": "https://media.good-loop.com/uploads/standard/CF__logo__lrg-8101118375937594751.png#ccrop:80",
-  "id": "cpac",
+  "name": "unite-for-change",
+  "id": "unite-for-change",
   "suggest": [
-    "cpac",
-    "CPAC"
+    "unite-for-change"
   ],
-  "url": "https://cpac-canada.ca/",
   "status": "DRAFT"
 }
