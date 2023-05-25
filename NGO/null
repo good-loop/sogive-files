@@ -1,19 +1,16 @@
 {
   "t4gTheme": {
-    "backgroundColor": "#fddb3d",
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/2023-05-24_13_46_19-13229987593246194117.png",
-  "headerImage": "https://media.good-loop.com/uploads/standard/2023-05-24_13_46_19-13229987593246194117.png",
   "@type": "NGO",
-  "displayName": "Canadian Cancer Society ",
-  "name": "canadian-cancer-society",
-  "logo": "https://media.good-loop.com/uploads/standard/ccs-logo-en-11836687307123168833.svg#ccrop:85",
-  "id": "canadian-cancer-society",
+  "displayName": "CPAC",
+  "name": "cpac",
+  "logo": "https://media.good-loop.com/uploads/standard/CF__logo__lrg-8101118375937594751.png#ccrop:80",
+  "id": "cpac",
   "suggest": [
-    "canadian-cancer-society",
-    "Canadian Cancer Society "
+    "cpac",
+    "CPAC"
   ],
-  "url": "https://cancer.ca/en/",
+  "url": "https://cpac-canada.ca/",
   "status": "DRAFT"
 }
