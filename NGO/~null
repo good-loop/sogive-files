@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Swarovski Foundation",
   "name": "Swarovski-foundation",
   "id": "swarovski-foundation",
   "suggest": [
-    "Swarovski-foundation"
+    "Swarovski-foundation",
+    "Swarovski Foundation"
   ],
   "status": "DRAFT"
 }
