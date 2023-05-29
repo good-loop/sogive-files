@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "FoodCorps",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-fc-11595361337210642659.svg",
   "id": "foodcorps",
   "suggest": [
     "FoodCorps"
