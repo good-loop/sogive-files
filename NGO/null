@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "FoodCorps",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-fc-11595361337210642659.svg#ccrop:90",
-  "id": "foodcorps",
+  "name": "Food Cycle LA",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-2016415091423894486.png#ccrop:85",
+  "id": "food-cycle-la",
   "suggest": [
-    "FoodCorps"
+    "Food Cycle LA"
   ],
   "status": "DRAFT"
 }
