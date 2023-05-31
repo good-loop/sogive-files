@@ -1,15 +1,13 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-05-31T08:24:56Z",
-  "name": "SINTRATA",
-  "id": "sintrata",
+  "name": "Telefono Azzurro",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-telefono-azzurro-6235416533163373024.png#ccrop:95",
+  "id": "telefono-azzurro",
   "suggest": [
-    "SINTRATA"
+    "Telefono Azzurro"
   ],
-  "category": "civil rights",
-  "url": "www.sintrata.org",
-  "crm": "4561997900@2506405019@monday.com",
-  "UNSDG": 5.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
