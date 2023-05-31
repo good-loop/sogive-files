@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Telefono Azzurro",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-telefono-azzurro-6235416533163373024.png#ccrop:95",
-  "id": "telefono-azzurro",
+  "name": "CIAI",
+  "id": "ciai",
   "suggest": [
-    "Telefono Azzurro"
+    "CIAI"
   ],
   "status": "DRAFT"
 }
