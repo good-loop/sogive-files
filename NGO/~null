@@ -1,9 +1,9 @@
 {
   "@type": "NGO",
-  "name": "Associazione Cucciolo",
-  "id": "associazione-cucciolo",
+  "name": "frc",
+  "id": "frc",
   "suggest": [
-    "Associazione Cucciolo"
+    "frc"
   ],
   "status": "DRAFT"
 }
