@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "Mujer Opina",
-  "logo": "https://media.good-loop.com/uploads/standard/logo2-12644430328833297110.jpg#ccrop:79",
-  "id": "mujer-opina",
+  "name": "Telefono Azzurro",
+  "id": "telefono-azzurro",
   "suggest": [
-    "Mujer Opina"
+    "Telefono Azzurro"
   ],
   "status": "DRAFT"
 }
