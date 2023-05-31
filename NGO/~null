@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "CIAI",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-CIAI__oriz2x-2048x461-7964721567642847415.png",
-  "id": "ciai",
+  "name": "Associazione Cucciolo",
+  "id": "associazione-cucciolo",
   "suggest": [
-    "CIAI"
+    "Associazione Cucciolo"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
