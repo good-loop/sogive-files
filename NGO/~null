@@ -4,9 +4,10 @@
   },
   "@type": "NGO",
   "name": "CIAI",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-CIAI__oriz2x-2048x461-7964721567642847415.png",
   "id": "ciai",
   "suggest": [
     "CIAI"
   ],
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
