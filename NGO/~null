@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "frc",
-  "logo": "https://media.good-loop.com/uploads/standard/fondazione-reggio-children-15614159249066088535.svg#ccrop:95",
-  "id": "frc",
+  "name": "wellbeing of women",
+  "id": "wellbeing-of-women",
   "suggest": [
-    "frc"
+    "wellbeing of women"
   ],
   "status": "DRAFT"
 }
