@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "wellbeing-of-women",
-  "logo": "https://media.good-loop.com/uploads/standard/wellbeing-of-women-logo1x__1-7071084871127269501.png#ccrop:60",
-  "id": "wellbeing-of-women",
+  "displayName": "Boys-and-girls-club-america",
+  "name": "Boys \u0026 Girls Club America",
+  "logo": "https://media.good-loop.com/uploads/standard/Boys____Girls__Clubs__of__America__logo.svg-4438710879463368036.png#ccrop:92",
+  "id": "boys-and-girls-club-america",
   "suggest": [
-    "wellbeing-of-women"
+    "Boys \u0026 Girls Club America",
+    "Boys-and-girls-club-america"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
