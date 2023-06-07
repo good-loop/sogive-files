@@ -1,12 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Boys-and-girls-club-america",
-  "name": "Boys \u0026 Girls Club America",
-  "logo": "https://media.good-loop.com/uploads/standard/Boys____Girls__Clubs__of__America__logo.svg-4438710879463368036.png#ccrop:90",
-  "id": "boys-and-girls-club-america",
+  "name": "donors chose",
+  "logo": "https://media.good-loop.com/uploads/standard/DonorsChoose__Logo-17350206333412879315.jpg",
+  "id": "donors-chose",
   "suggest": [
-    "Boys \u0026 Girls Club America",
-    "Boys-and-girls-club-america"
+    "donors chose"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
