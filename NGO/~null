@@ -1,13 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "donors chose",
-  "logo": "https://media.good-loop.com/uploads/standard/DonorsChoose__Logo-17350206333412879315.jpg#ccrop:90",
-  "id": "donors-chose",
+  "name": "Fare Share",
+  "id": "fare-share",
   "suggest": [
-    "donors chose"
+    "Fare Share"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
