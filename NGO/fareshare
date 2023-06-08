@@ -1,4 +1,5 @@
 {
+  "images": "",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
@@ -75,5 +76,5 @@
   "subcategory": "Food Banks and Food Distribution",
   "englandWalesCharityRegNum": "1100051",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
