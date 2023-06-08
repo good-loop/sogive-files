@@ -2,6 +2,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "",
   "projects": [
     {
       "outputs": [],
@@ -66,7 +67,7 @@
     }
   },
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/FareShare-2-11488158753500431732.jpg",
+  "logo": "",
   "unsdg": "2",
   "@id": "fareshare",
   "logo_white": "https://as.good-loop.com/vert/fareshare_logo_white.png",
