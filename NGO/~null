@@ -1,12 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "bissell-pet-foundation",
+  "name": "bissell pet foundation",
   "id": "bissell-pet-foundation",
   "suggest": [
-    "bissell-pet-foundation"
+    "bissell pet foundation"
   ],
   "status": "DRAFT"
 }
