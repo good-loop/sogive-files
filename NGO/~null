@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Fare_Share",
+  "name": "Fare Share",
   "logo": "https://media.good-loop.com/uploads/standard/FareShare-2-18356144852245612452.jpg",
   "id": "fare-share",
   "suggest": [
-    "Fare_Share"
+    "Fare Share"
   ],
   "status": "DRAFT"
 }
