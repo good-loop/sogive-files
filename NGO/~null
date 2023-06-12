@@ -1,6 +1,10 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "name": "Fare_Share",
+  "logo": "https://media.good-loop.com/uploads/standard/FareShare-2-18356144852245612452.jpg",
   "id": "fare-share",
   "suggest": [
     "Fare_Share"
