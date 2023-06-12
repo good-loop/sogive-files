@@ -1,0 +1,17 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "World Water Council",
+  "name": "world-water-council",
+  "logo": "https://media.good-loop.com/uploads/raw/CfUOqN-u-8718616188307212863.jpeg",
+  "@id": "world-water-council",
+  "suggest": [
+    "world-water-council",
+    "World Water Council",
+    "world-water-council"
+  ],
+  "id": "world-water-council",
+  "status": "PUBLISHED"
+}
