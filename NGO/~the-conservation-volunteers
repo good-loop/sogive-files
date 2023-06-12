@@ -1,0 +1,25 @@
+{
+  "scotlandCharityRegNum": "SC039302",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@class": "com.goodloop.data.NGO",
+  "@type": "NGO",
+  "displayName": "TCV Scotland, The Conservation Volunteers Scotland",
+  "created": "2023-04-26T16:07:49Z",
+  "suggest": [
+    "The Conservation Volunteers",
+    "TCV Scotland, The Conservation Volunteers Scotland",
+    "the-conservation-volunteers"
+  ],
+  "url": "https://www.tcv.org.uk/",
+  "UNSDG": 11.0,
+  "name": "The Conservation Volunteers",
+  "logo": "https://media.good-loop.com/uploads/standard/tcv-logo-small-3631806729538120375.png#ccrop:80",
+  "@id": "the-conservation-volunteers",
+  "id": "the-conservation-volunteers",
+  "category": "environment",
+  "uk_giftaid": true,
+  "crm": "4372578098@2506405019@monday.com",
+  "status": "PUBLISHED"
+}
