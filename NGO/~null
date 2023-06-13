@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Serious Fun ",
   "name": "serious-fun-childrens-network",
   "logo": "https://media.good-loop.com/uploads/standard/SF-Logo-8500655001086452770.png#ccrop:90",
   "id": "serious-fun-childrens-network",
   "suggest": [
-    "serious-fun-childrens-network"
+    "serious-fun-childrens-network",
+    "Serious Fun "
   ],
   "url": "",
   "status": "DRAFT"
