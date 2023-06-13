@@ -1,0 +1,108 @@
+{
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/imogen_cooper_music_trust_cover-5185793290003603361.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 9.0,
+          "confidence": "medium",
+          "name": "students educated",
+          "description": "This refers either to a student attending one of the charity\u0027s masterclasses, receiving support to perform at a concert, receiving recording support, or receiving voice lessons."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001162347_AC_20191231_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10438321\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5062613"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "38149",
+          "currency": "GBP",
+          "value100p": 3.8149E8,
+          "value": 38149.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "33320",
+        "currency": "GBP",
+        "value100p": 3.332E8,
+        "value": 33320.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "impact": "low",
+  "confidence": "medium",
+  "description": "The Imogen Cooper Music Trust holds masterclass courses for two to four participants, often in a secluded private home, where they study alongside Imogen Cooper. The courses typically take place twice a year. The participants are normally about to finish post-graduate studies and begin professional music careers. The students can also receive support to perform concerts or record music after the masterclass.",
+  "suggest": [
+    "Imogen Cooper Music Trust",
+    "imogen-cooper-music-trust"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "imogen-cooper-music-trust",
+      "name": "students educated",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 42387777,
+        "value": "4238.7777777777773539"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.imogen-cooper.com/music-trust",
+  "whyTags": "education",
+  "howTags": "direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "students educated",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 42387777,
+      "value": "4238.7777777777773539"
+    }
+  },
+  "name": "Imogen Cooper Music Trust",
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/imogen_cooper_music_trust-4721086309064636441.jpg",
+  "@id": "imogen-cooper-music-trust",
+  "lastModified": "2020-11-11T18:00:34Z",
+  "id": "imogen-cooper-music-trust",
+  "englandWalesCharityRegNum": "1162347",
+  "summaryDescription": "The Imogen Cooper Music Trust offers gifted young musicians opportunities to study with concert pianist Imogen Cooper.",
+  "uptodatedraft": "probably",
+  "whereTags": "uk, france",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
