@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Fare Share",
-  "logo": "https://media.good-loop.com/uploads/standard/FareShare-2-01-18163838464793350206.jpg",
-  "id": "fare-share",
+  "displayName": "Mental Health Ireland",
+  "logo": "https://media.good-loop.com/uploads/standard/mhi-main__logo-18287514277207264732.png",
+  "id": "mental-health-ireland",
   "suggest": [
-    "Fare Share"
+    "Mental Health Ireland"
   ],
-  "status": "DRAFT"
+  "url": "https://www.mentalhealthireland.ie/",
+  "status": "PUBLISHED"
 }
