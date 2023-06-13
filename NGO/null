@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Bissell Pet Foundation",
-  "name": "bissell pet foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/BPF__Logo-1-5174392889824711024.svg#ccrop:79",
-  "id": "bissell-pet-foundation",
+  "displayName": "Serious fun Children\u0027s Network",
+  "name": "serious-fun-childrens-network",
+  "logo": "https://media.good-loop.com/uploads/standard/SF-Logo-8500655001086452770.png#ccrop:90",
+  "id": "serious-fun-childrens-network",
   "suggest": [
-    "bissell pet foundation",
-    "Bissell Pet Foundation"
+    "serious-fun-childrens-network",
+    "Serious fun Children\u0027s Network"
   ],
-  "url": "https://www.bissellpetfoundation.org/",
-  "status": "PUBLISHED"
+  "url": "",
+  "status": "DRAFT"
 }
