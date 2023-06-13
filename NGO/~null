@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Mental Health Ireland",
-  "logo": "https://media.good-loop.com/uploads/standard/mhi-main__logo-18287514277207264732.png",
-  "id": "mental-health-ireland",
+  "name": "serious-fun-childrens-network",
+  "id": "serious-fun-childrens-network",
   "suggest": [
-    "Mental Health Ireland"
+    "serious-fun-childrens-network"
   ],
-  "url": "https://www.mentalhealthireland.ie/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
