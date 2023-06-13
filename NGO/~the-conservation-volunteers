@@ -12,10 +12,10 @@
     "TCV Scotland, The Conservation Volunteers Scotland",
     "the-conservation-volunteers"
   ],
-  "url": "https://www.tcv.org.uk",
+  "url": "www.tcv.org.uk",
   "UNSDG": 11.0,
   "name": "The Conservation Volunteers",
-  "logo": "",
+  "logo": "https://media.good-loop.com/uploads/standard/tcv-logo-small-3631806729538120375.png",
   "@id": "the-conservation-volunteers",
   "id": "the-conservation-volunteers",
   "category": "environment",
