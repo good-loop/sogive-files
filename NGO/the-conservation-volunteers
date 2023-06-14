@@ -3,7 +3,7 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/hero-2019-3019821770581326433.jpg",
+  "images": "",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "displayName": "TCV Scotland, The Conservation Volunteers Scotland",
@@ -22,5 +22,5 @@
   "category": "environment",
   "uk_giftaid": true,
   "crm": "4372578098@2506405019@monday.com",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
