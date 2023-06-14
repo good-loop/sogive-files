@@ -1,15 +1,13 @@
 {
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-14T10:52:39Z",
-  "name": "test hubspot",
-  "id": "test-hubspot",
+  "displayName": "Coral Reef Alliance",
+  "name": "Coral Reef Alliance",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-coral-1729415056960520722.png#ccrop:89",
+  "id": "coral",
   "suggest": [
-    "test hubspot"
+    "Coral Reef Alliance",
+    "Coral Reef Alliance"
   ],
-  "category": "environment",
-  "url": "sdfsd",
-  "crm": "4641356256@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "url": "https://coral.org/en/",
+  "status": "DRAFT"
 }
