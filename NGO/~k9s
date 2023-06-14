@@ -1,0 +1,25 @@
+{
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/K9S__image-17852373704860778389.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "K9S for Warriors",
+  "description": "K9s For Warriors is ending veteran suicide and returning our Warriors to a life of dignity and independence. They rescue and train shelter dogs to be paired as Service Dogs for Warriors with service-connected Post-Traumatic Stress, Traumatic Brain Injury and/or Military Sexual Trauma.",
+  "suggest": [
+    "K9s",
+    "K9S for Warriors",
+    "k9s"
+  ],
+  "url": "https://www.k9sforwarriors.org/",
+  "name": "K9s",
+  "logo": "https://app.sogive.org/uploads/katalingood-loop.comemail/K9s__for__warriors-2120157456772194812.jpg",
+  "@id": "k9s",
+  "summaryDescription": "We are the nation\u0027s largest provider of Service Dogs for disabled American veterans.",
+  "uptodatedraft": "probably",
+  "suggestedDonations": [
+    {}
+  ],
+  "status": "PUBLISHED",
+  "usCharityRegNum": "27-5219467"
+}
