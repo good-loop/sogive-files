@@ -15,11 +15,11 @@
   "url": "https://www.tcv.org.uk/",
   "UNSDG": 11.0,
   "name": "The Conservation Volunteers",
-  "logo": "https://media.good-loop.com/uploads/standard/The__Conservation__Volunteers__logo-11418398979188482953.png",
+  "logo": "https://media.good-loop.com/uploads/standard/The__Conservation__Volunteers__logo-11418398979188482953.png#ccrop:80",
   "@id": "the-conservation-volunteers",
   "id": "the-conservation-volunteers",
   "category": "environment",
   "uk_giftaid": true,
   "crm": "4372578098@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
