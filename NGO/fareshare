@@ -67,7 +67,7 @@
     }
   },
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/1602683760-18344606039828869793.jpg#ccrop:84",
+  "logo": "https://media.good-loop.com/uploads/standard/FairShare__logo-16666307329547344972.png",
   "unsdg": "2",
   "@id": "fareshare",
   "logo_white": "https://as.good-loop.com/vert/fareshare_logo_white.png",
@@ -76,5 +76,5 @@
   "subcategory": "Food Banks and Food Distribution",
   "englandWalesCharityRegNum": "1100051",
   "uptodatedraft": "probably",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
