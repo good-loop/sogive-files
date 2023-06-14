@@ -1,11 +1,11 @@
 {
   "@type": "NGO",
-  "displayName": "Coral",
-  "name": "coral",
+  "displayName": "Coral Reef Alliance",
+  "name": "Coral Reef Alliance",
   "id": "coral",
   "suggest": [
-    "coral",
-    "Coral"
+    "Coral Reef Alliance",
+    "Coral Reef Alliance"
   ],
   "status": "DRAFT"
 }
