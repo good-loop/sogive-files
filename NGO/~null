@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Cxmmunity",
-  "name": "cxmmunity",
-  "logo": "https://media.good-loop.com/uploads/standard/download_1-13687531722334504887.png#ccrop:120",
-  "id": "cxmmunity",
+  "name": "Voyage Youth",
+  "id": "voyage-youth",
   "suggest": [
-    "cxmmunity",
-    "Cxmmunity"
+    "Voyage Youth"
   ],
-  "url": "https://www.cxmmunity.co/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
