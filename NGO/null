@@ -1,13 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Coral Reef Alliance",
-  "name": "Coral Reef Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-coral-1729415056960520722.png#ccrop:89",
-  "id": "coral",
+  "name": "Marine Conservation Society",
+  "logo": "https://media.good-loop.com/uploads/standard/MCS__Logo-419820410623969147.jpg#ccrop:85",
+  "id": "marine-conservation-",
   "suggest": [
-    "Coral Reef Alliance",
-    "Coral Reef Alliance"
+    "Marine Conservation Society"
   ],
-  "url": "https://coral.org/en/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
