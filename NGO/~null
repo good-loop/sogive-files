@@ -5,12 +5,14 @@
   },
   "@type": "NGO",
   "displayName": "Greening Australia",
+  "name": "Greening Australia",
   "logo": "https://media.good-loop.com/uploads/standard/GreeningAustralia__Logo__Stacked__2-17388514846648614936.png#ccrop:90",
   "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
   "id": "greening-australia",
   "suggest": [
+    "Greening Australia",
     "Greening Australia"
   ],
   "url": "https://www.greeningaustralia.org.au",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
