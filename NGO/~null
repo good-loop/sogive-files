@@ -1,13 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Coral Reef Alliance",
-  "name": "Coral Reef Alliance",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-coral-1729415056960520722.png#ccrop:89",
-  "id": "coral",
+  "name": "Marine Conservation ",
+  "id": "marine-conservation-",
   "suggest": [
-    "Coral Reef Alliance",
-    "Coral Reef Alliance"
+    "Marine Conservation "
   ],
-  "url": "https://coral.org/en/",
   "status": "DRAFT"
 }
