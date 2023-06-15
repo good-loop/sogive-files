@@ -1,0 +1,1352 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 2.57E8,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value100p": 1.19689E12,
+          "value": 1.19689E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "2014 annual report, downloaded from https://www.rspca.org.uk/utilities/aboutus/reports"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "For the number of beneficiaries, I simply counted the 257m fish and animals reared under RSPCA welfare standards; there are in fact several other types of intervention, but the number of beneficiaries for the others is small enough that it is unlikely to materially impact anything. Whether or not it\u0027s appropriate to include these animals is debatable - to a certain extent you could argue that for many (most?) of the animals affected here, it could be that those who undertake these standards would in fact have chosen to treat the animals decently anyway, suggesting that for many of the 257 million animals, they are unaffected.  (although of course, the work done here is still of value)",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.17128E12,
+          "value": 1.17128E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.658E10,
+          "value": 3658000.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 7.889E10,
+          "value": 7889000.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 221903.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Sami: I looked at the report and couldn\u0027t find the 221k number. Assuming it\u0027s real. this casts doubt on the numbers I found. But this could be explained by having access to different reports."
+            }
+          },
+          "confidence": "medium",
+          "name": "animals treated",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "This largely refers to outpatient treatments in RSPCA\u0027s hospitals, although it includes some operations",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.714302E11,
+          "value": 4.714302E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.472314E10,
+          "value": 1472314.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.795E10,
+          "value": 4795000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": true,
+      "analysisComment": "",
+      "name": "field animal welfare hospitals and animal centres",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.4117743E11,
+          "value": 4.4117743E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.377832E10,
+          "value": 1377832.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.026E10,
+          "value": 2026000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "field animal welfare inspectorate",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 143004.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Confidence comments: apparent inconsistency though, the spend is for all prosecution-related work, impact is apparently just for one part of it"
+            }
+          },
+          "confidence": "low",
+          "name": "complaint(s) investigated",
+          "start": "2015-01-01T00:00:00Z",
+          "description": "complaints of alleged cruelty investigated",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.974868E10,
+          "value": 3974868.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.24138E9,
+          "value": 124138.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.3503E9,
+          "value": 435030.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "field animal welfare prosecutions animal care",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 9.054651E10,
+          "value": 9054651.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.82784E9,
+          "value": 282784.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "support to branches",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.783445E10,
+          "value": 5783445.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.80622E9,
+          "value": 180622.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 6.3297E9,
+          "value": 632970.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "prosecutions legal",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.068815E10,
+          "value": 3068815.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 9.5842E8,
+          "value": 95842.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "campaigns communications publications",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.919186E10,
+          "value": 1919186.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.9938E8,
+          "value": 59938.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "science",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.242588E10,
+          "value": 1242588.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.8807E8,
+          "value": 38807.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "education",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 8.23685E9,
+          "value": 823685.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 2.5724E8,
+          "value": 25724.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "currency": "GBP"
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends99/0000219099_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "international",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "145982000",
+          "currency": "GBP",
+          "value100p": 1.45982E12,
+          "value": 1.45982E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "1392000",
+          "currency": "GBP",
+          "value100p": 1.392E10,
+          "value": 1392000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": "p43: general - pension"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "78250000",
+        "currency": "GBP",
+        "value100p": 7.825E11,
+        "value": 7.825E7
+      }
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "43049000",
+          "currency": "GBP",
+          "value100p": 4.3049E11,
+          "value": 4.3049E7
+        }
+      ],
+      "name": "Field animal welfare: hospitals and animal centres ",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 185297.0,
+          "meta": {
+            "all": {
+              "notes": "p. 5"
+            }
+          },
+          "confidence": "medium",
+          "name": "welfare incidents (singular: incident) dealt with by the inspectorate",
+          "description": "Inspectors investigate complaints about animal in poor conditions, sometimes providing advice and sometimes initiating a prosecution process.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "324.47",
+            "currency": "",
+            "value100p": 3244700.0,
+            "value": 324.47
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "50807000",
+          "currency": "GBP",
+          "value100p": 5.0807E11,
+          "value": 5.0807E7
+        }
+      ],
+      "name": "inspectorate ",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 1179.0,
+          "meta": {
+            "all": {
+              "notes": "p. 10"
+            }
+          },
+          "confidence": "medium",
+          "name": "cases (singular: case) reported to RSPCA Prosecutions Department",
+          "description": "This refers to treatments for animals whose owners are prosecuted for animal cruelty.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "4994.44",
+            "currency": "",
+            "value100p": 4.99444E7,
+            "value": 4994.44
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4,976000",
+          "currency": "GBP",
+          "value100p": 4.976E10,
+          "value": 4976000.0
+        }
+      ],
+      "name": "prosecutions - animal care",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8,396000",
+          "currency": "GBP",
+          "value100p": 8.396E10,
+          "value": 8396000.0
+        }
+      ],
+      "name": "Support to branches "
+    },
+    {
+      "outputs": [
+        {
+          "number": 1179.0,
+          "meta": {
+            "all": {
+              "notes": "p. 5"
+            }
+          },
+          "confidence": "medium",
+          "name": "cases (singular: case) reported to RSPCA Prosecutions Department",
+          "description": "This relates to payments for the prosecution of animal abusers, which may result in imprisonment, bans on animal ownership, community service, and fines.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "4478.54",
+            "currency": "",
+            "value100p": 4.47854E7,
+            "value": 4478.54
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4,462000",
+          "currency": "GBP",
+          "value100p": 4.462E10,
+          "value": 4462000.0
+        }
+      ],
+      "name": "Prosecutions - legal"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 5,049000",
+          "currency": "GBP",
+          "value100p": 5.049E10,
+          "value": 5049000.0
+        }
+      ],
+      "name": "Campaigns, communication, publications"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "2,370000",
+          "currency": "GBP",
+          "value100p": 2.37E10,
+          "value": 2370000.0
+        }
+      ],
+      "name": "Science"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": " 2,255000",
+          "currency": "GBP",
+          "value100p": 2.255E10,
+          "value": 2255000.0
+        }
+      ],
+      "name": "Education"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "821000",
+          "currency": "GBP",
+          "value100p": 8.21E9,
+          "value": 821000.0
+        }
+      ],
+      "name": "International"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "RSPCA",
+  "description": "The charity aims to promote kindness and suppress cruelty to animals through education, prevention, and rescue work. The RSPCA works mainly across England and Wales but also has impacts across the world.",
+  "recommendation": "**To assign a firm rating to the RSPCA under the SoGive rating methodology, we would need more information.**\n\nThe Royal Society for the Prevention of Cruelty to Animals works to improve welfare for animals. The charity aims to promote kindness and reduce cruelty to animals through education, prevention, and rescue work. The RSPCA works mainly across England and Wales but also has impacts across the world ([Annual Report](https://view.pagetiger.com/rspcatrusteesreport2019/rspcatrusteesreport2019) p. 7)).\n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- how much does it cost for the charity to do something\n- what is the thing (or what does the beneficiary get for the donor\u0027s money)\n\n**More about What the RSPCA Does**\n\nAs calculated using the charity’s annual report, the RSPCA spent about £145 million during the 2019 financial year (Annual Report p. 29, 36). The report stated that the £145 million was used for 9 purposes, which we describe in this section.\n\nAbout 42% of the charitable expenditures (£61 million) was directed towards the \"inspectorate\" (Annual Report p. 36). RSPCA inspectors investigate complaints about animals suffering from abuse by humans or other kinds of poor conditions, and the investigations sometimes result in the provision of advice and sometimes in prosecution. During the 2019 financial year, the inspectorate dealt with 185,297 incidents (Annual Report p. 5). However, the annual report does not provide comprehensive information about the number of live animals involved in an average incident. Sometimes, the animal or animals involved in the incident would be already [dead](https://www.rspca.org.uk/utilities/jobs/profiles/inspector) when or soon after the inspector arrives at the scene. Sometimes, only one live animal is involved in an incident (Annual report p. 9). However, there may also be [large-scale organised and commercial animal cruelty](https://www.rspca.org.uk/whatwedo/endcruelty/investigatingcruelty). The distribution of the number of animals may have very large outliers, preventing an accurate estimate of the average amount of money spent on an animal.\n\nFor cases that call for prosecution of animal abusers, an additional 8% of the charitable expenditures or £11 million was expended (Annual Report p. 36). In 2019, the charity prosecuted 1,179 cases, resulting in 1,450 convictions ([Prosecutions Annual Report](https://www.rspca.org.uk/documents/1494939/7712578/Prosecutions+Annual+Report+2019+%28PDF+1.83MB%29.pdf/5a5a3644-ea97-606e-cce1-373159a0a7c6?t\u003d1583770854006), p. 30). Roughly half of this money was spent on providing care to the animals involved. One of the animals rescued, a dog who was shot multiple times and left to die, made an almost full recovery at a cost of [£5,000](Prosecutions Annual Report p. 6). Given the information provided by the charity, however, it is again difficult to calculate an average amount of money spent on each animal, as the cases involved an owner of 69 horses (Prosecutions Annual Report p. 22), another owner of 100 pigs (Prosecutions Annual Report p. 24), and an entire pet shop full of animals (Prosecutions Annual Report p. 13). In 2019, 49 out of 1418 RSPCA convictions under the 2006 Animal Welfare Act involved farmed animals (Prosecutions Annual Report p. 32). \n\nThe other half of the £11 million was spent on the legal proceedings. Legal actions can improve animal welfare in mainly two ways. Firstly, animal abusers may be forbidden from owning animals again, so these abusers will not be able to abuse animals in the future (Prosecutions Annual Report p. 2). Secondly, prosecuting animal abusers signals that laws like the 2006 Animal Welfare Act are actually enforceable, so potential animal abusers would be deterred from abusing animals. The charity’s report provides no estimate of the number of animals helped through these two channels.\n\nAbout 35% of the charitable expenditures or £51 million was directed towards hospitals and animal centers (Annual Report p. 36). During the financial year, the hospitals and animal centers carried out [218,939](https://www.rspca.org.uk/whatwedo/latest/facts) microchippings, neutering, and other treatments, but the annual report does not indicate if this was all the work that the hospitals and animal centers did. The RSPCA and its branches microchipped 37,172 animals (Annual Report p. 11). [The point of microchipping](https://www.rspca.org.uk/adviceandwelfare/pets/general/microchipping) an animal is that if it is lost and then found by somebody else, one can scan the microchip to access the owner’s contact information. The RSPCA and its branches neutered 60,461 animals, preventing unwanted animals from being born as well as diseases like testicular cancer (Annual Report p. 11). The charity provides little comprehensive information about what the other 121,306 treatments entail. Most of the RSPCA’s treatments are [not free](https://www.rspca.org.uk/whatwedo/care/vetcare), but some are provided at a subsidized rate, which may motivate owners to seek treatment for animals that might otherwise be denied help. The charity does not indicate how many such animals there could be.\n\nWe should note that the RSPCA’s branches are separate charities and receive an additional £10 million not included in the £51 million (Annual Report p. 36). £10 million accounts for roughly 7% of the charity’s total spending. This amount of money may be used to rehome animals, but the charity did not provide comprehensive information on all the uses of this money (Annual Report p. 9).\n\nAbout 4% of the charitable expenditures or £6 million was directed towards campaigns, communications, and publications (Annual Report p. 32). The RSPCA’s advocacy with governmental and corporate actors seems to have made an impact. In the 2019 election, the Conservative Party’s manifesto contained 10 proposals to improve animal welfare in England, many of which were taken from an RSPCA manifesto (Annual Report p. 12). The Agriculture Bill recognised animal welfare as a public good and based support payments to farmers partly on animal welfare standards (Annual Report p. 12). A ban on circuses that display wild animals was realised in 2020 (Annual Report p. 12), and finally, two supermarket retailers signed up to the \"Better Chicken Commitment\" (Annual Report p.13).\n\nHowever, much remains unknown to us about the RSPCA’s campaigns. Firstly, the charity’s report does not include the amount of money spent on any of the campaigns. Secondly, the charity did not provide any information on the number of animals that might benefit from successful campaigns and the extent of such benefit. Let us take the \"Better Chicken Commitment\" as an example. How many additional chickens would be spared from suffering as a result of the commitment? How intense is the suffering? In light of the fact that other organisations like [Compassion in World Farming](https://betterchicken.org.uk/) also work on the \"Better Chicken Commitment,\" how much contribution did the RSPCA make to the concerted campaign on the \"Better Chicken Commitment\"? Thirdly, we do not know the pace at which the RSPCA is making progress in all its campaigns. How many months of campaigning did it take for the two retailers to make the commitment? Would there have been a similar improvement in chicken welfare if the RSPCA did not pressure the retailers? With regard to the speed at which the RSPCA’s campaigns are taking effect, the only piece of information we have from the annual report is that it took four decades of campaigning for the ban on wild animal circuses to take effect. To learn more about how SoGive approaches campaigns, see [this blog post](http://thinkingaboutcharity.blogspot.com/2021/04/sogive-three-question-method-for.html?view\u003dsidebar).\n\nAbout 2% of the charitable expenditures or £3 million was directed towards science (Annual Report p. 36). The RSPCA employs roughly 20 postgraduate and postdoctoral animal [researchers](https://science.rspca.org.uk/) to work on how to best care for companion animals, farmed animals, lab animals, and wild animals. Similar to what we have observed for the charity’s campaigns, the charity did not report the amount of money spent on each research project. Nor does the charity give a comprehensive indication of the overall population of animals that may benefit from the research. We do know, however, that the RSPCA intermittently updates a set of RSPCA Welfare Standards, and approximately 137 million animals were reared under such standards in 2019 (Annual Report p. 5). Finally, we do not know the pace at which the research team is making progress. In 2019 the charity made some updates to the welfare standards of at least some animals, such as [turkeys](https://science.rspca.org.uk/sciencegroup/farmanimals/standards/turkeys). However, a key uncertainty is the extent to which the 137 million animals would be living under a different (worse) set of circumstances, had the welfare standard not been updated.\n\nAnother 2% of the charitable expenditures or £3 million was directed towards education (Annual Report p. 36). An example initiative that falls under this category is \"Generation Kind,\" a prevention program that encouraged roughly 100,000 young people to promote animal welfare in a year (Annual Report p. 14). Another program called #DogKind educated the public about separation anxiety among dogs through social media, radio, and public events. 29% of the public heard about the campaign, and among them, 46% said their perception of canine separation anxiety changed a lot, and 83% said that they would be more likely to seek help for their dogs if they had separation anxiety (Annual Report p. 14). Again, similar to what is observed for the charity’s campaigns, we do not have a breakdown of the £3 million into smaller projects. We do not have an overall measure of the number of animals involved. How many animals would those 100,000 young people grow up to help as a result of the charity’s activities? We also do not know the extent to which the RSPCA contributes to education in animal welfare. For example, would the 100,000 young people learn about animal welfare elsewhere had the RSPCA not provided its programs?\n\nFinally, less than 1% of the charitable expenditures or about £1 million was used internationally (Annual Report p. 36). One example initiative in this category is a conference in Athens called RSPCA International Focus on Severe Suffering, which attracted 100 participants from 16 countries (Annual Report p. 12). Another example entails animal welfare education and advocacy in China (Annual Report p. 12). Again, the charity does not provide information on funding breakdown, number of potential animal beneficiaries, and the pace of progress.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of the RSPCA under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £5,000 per human life saved or £5 to avert the suffering of one chicken who is living in very poor conditions) and also provide robust evidence on the effectiveness of their work. For more information on how we define our rankings, click [here](http://thinkingaboutcharity.blogspot.com/2021/04/sogives-gold-standard-benchmarks.html?view\u003dsidebar)\n\nWe could not gather enough information from the annual report to perform a detailed analysis, or form opinions about the RSPCA’s work under the SoGive methodology. This is mainly because the report did not contain information on the total number of animals helped by any of the charity’s nine spending programs.\n\nThe inspectorate spent £60 million on 185,297 incidents, indicating an average of roughly £300 per incident. This means that on average, each incident investigation needs to achieve an outcome as good as saving 60 chickens from intense suffering for the project to achieve the SoGive Gold Standard. \n\nThe prosecution team spent £6 million on caring for animals in 1,179 cases, spending an average of roughly £5,000 per case. This means that on average, the animal care component of each prosecution needs to achieve an outcome as good as saving 1,000 chickens from intense suffering, or saving a human life, for the project to achieve the SoGive Gold Standard.\n\nWhile sometimes zero live animals are involved in a case handled by the inspectorate or prosecution team, we cannot exclude the possibility that there could be some incidents that involve a huge number of animals that allows the average to reach 60 or 1,000.\n\nThe prosecution team spent £5 million on legal fees in 1,179 cases, spending an average of roughly £4,000 per case. This means that on average, each case must achieve an impact as good as preventing the suffering of 800 chickens to achieve the SoGive Gold Standard. We cannot determine from the charity’s annual report whether the charity can achieve this impact through animal ownership bans on the abusers and through the deterrent power of animal welfare law.\n\nThe charity’s £2 million spending on science involves a very large output number. Every year, 137 million animals are reared under the RSPCA Welfare Standards, and this is not even all the work done by the charity’s researchers. Therefore, the 2019 updates of the welfare standards reach each animal at a price of at most £0.015 (i.e. less than 2p). For the same amount of money that can achieve an outcome as good as averting the suffering of 1 chicken, the 2019 updates to the RSPCA Welfare can reach at least 340 animals. This is potentially highly cost-effective. However, we do not really know the extent to which each animal’s life was improved by the update. Furthermore, even if this project does have high cost effectiveness, the spending on this project accounts for less than 3% of the charity’s charitable expenditure, so the charity’s overall cost-effectiveness could still be relatively low.\n\nStill, taking the [importance, neglectedness, and tractability](https://www.openphilanthropy.org/research/cause-selection) of farmed animal welfare into consideration, we note that the Open Philanthropy project has made several [grants](https://www.openphilanthropy.org/search/ss360/RSPCA) to the RSPCA in recognition of the potential cost-effectiveness of the charity’s projects on farm animal welfare. These grants relate to chicken farming, fish farming, farm animal welfare in Asia, and the RSPCA’s organizational development.\n\nOn the other hand, the organisation Animal Charity Evaluators examined the overall cause areas and methods that the RSPCA’s work involves, and decided that the [RSPCA](https://animalcharityevaluators.org/charity-review/rspca/) is not a likely candidate for a [top charity or standout charity](https://animalcharityevaluators.org/charity-reviews/evaluating-charities/evaluation-process/).\n\nWe cannot exclude the possibility that some of the RSPCA’s work, like the creation of the RSPCA Welfare Standards, have surpassed SoGive’s Gold Standard. Other RSPCA projects, like microchipping, appear to be below the Gold Standard. For most of the RSPCA’s work, however, we would need more information, which mainly includes an estimate of the number of animals reached by the charity’s nine areas of spending. For example, how many live animals are involved in an average inspection or prosecution? How many animals do the RSPCA’s hospitals and centers help? How many of those animals are helped by the RSPCA UK and not its local branches?\n\n**Conclusion**\n\nTo be able to rate the RSPCA, we would need more information about the impact of their work. \n\n",
+  "whyTags": "Animals",
+  "UNSDG": "0",
+  "ready": true,
+  "modified": false,
+  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/rspca-5804800565146652593.png#ccrop:85",
+  "@id": "royal-society-for-the-prevention-of-cruelty-to-animals",
+  "wikipedia": "https://en.wikipedia.org/wiki/Royal_Society_for_the_Prevention_of_Cruelty_to_Animals",
+  "summaryDescription": "The Royal Society for the Prevention of Cruelty to Animals works to improve welfare for animals.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/rspca-7149979038407757538.jpg",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Royal Society for the Prevention of Cruelty to Animals",
+    "RSPCA",
+    "royal-society-for-the-prevention-of-cruelty-to-animals"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "royal-society-for-the-prevention-of-cruelty-to-animals",
+      "name": "welfare incidents (singular: incident) dealt with by the inspectorate",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 3244700,
+        "value": "324.47",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.rspca.org.uk/",
+  "howTags": "Direct Work, Campaigning, Makes grants to organisations, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "welfare incidents (singular: incident) dealt with by the inspectorate",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 3244700,
+      "value": "324.47",
+      "name": ""
+    }
+  },
+  "whoTags": "Animals",
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    },
+    "description": {
+      "notes": "Old description pasted here:\n\"A unique animal welfare charity\nWe\u0027re proud to be the oldest welfare charity around.\nWe were the first to introduce a law to protect animals and work hard to ensure that all animals can live free from pain and suffering. \nWe campaign, investigate, rescue, and rehome  to reduce animal suffering.\"",
+      "source": "https://www.rspca.org.uk/whatwedo"
+    }
+  },
+  "name": "Royal Society for the Prevention of Cruelty to Animals",
+  "location": "UK",
+  "lastModified": "2020-12-17T03:21:28Z",
+  "category": "animals",
+  "subcategory": "Animal Rights, Welfare, and Services",
+  "englandWalesCharityRegNum": "219099",
+  "uk_giftaid": true,
+  "whereTags": "United Kingdom, Global",
+  "status": "PUBLISHED"
+}
