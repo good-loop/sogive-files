@@ -3,14 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Swiss Cetacean Society",
-  "name": "Swiss Cetacean Society",
-  "logo": "https://media.good-loop.com/uploads/standard/b854db__5efac0951cb14ac39fb9b37bcfac22f0__mv2-15023183245887790689.png#ccrop:95",
-  "id": "swiss-cetacean-society",
+  "displayName": "International Animal Rescue",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-10278092580379973684.svg",
+  "id": "international-animal-rescue",
   "suggest": [
-    "Swiss Cetacean Society",
-    "Swiss Cetacean Society"
+    "International Animal Rescue"
   ],
-  "url": "https://en.swisscetaceansociety.org/",
-  "status": "MODIFIED"
+  "url": "https://www.internationalanimalrescue.org/",
+  "status": "PUBLISHED"
 }
