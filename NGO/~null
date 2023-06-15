@@ -1,21 +1,16 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/ntd-research-launch-2018-high-res-328-15978124770599557255.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/Good__Loop__x__GA__image-8712433093212477949.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Planet Ark",
-  "description": "Planet Ark Environmental Foundation is an Australian not-for-profit organisation that helps individuals, communities, governments and businesses reduce their impact on the environment. We are one of Australia’s leading environmental behaviour change organisations, with a focus on working collaboratively and positively.",
+  "displayName": "Greening Australia",
+  "logo": "https://media.good-loop.com/uploads/standard/GreeningAustralia__Logo__Stacked__2-17388514846648614936.png#ccrop:90",
+  "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
+  "id": "greening-australia",
   "suggest": [
-    "Planet Ark",
-    "Planet Ark"
+    "Greening Australia"
   ],
-  "url": "https://planetark.org/",
-  "name": "Planet Ark",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-planetark-16966111885978789380.png#ccrop:90",
-  "unsdg": "13",
-  "id": "planet-ark",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "status": "DRAFT"
+  "url": "https://www.greeningaustralia.org.au",
+  "status": "PUBLISHED"
 }
