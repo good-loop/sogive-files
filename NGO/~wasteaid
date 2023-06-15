@@ -6,7 +6,7 @@
   "@type": "NGO",
   "displayName": "Waste Aid",
   "suggest": [
-    "Wasye Aid",
+    "Waste Aid",
     "Waste Aid",
     "wasteaid"
   ],
@@ -15,7 +15,7 @@
   "howTags": "Direct Work",
   "whyTags": "Environment \u0026 Climate Change \u0026 Waste \u0026 Poverty \u0026 Employment \u0026 Education",
   "ready": false,
-  "name": "Wasye Aid",
+  "name": "Waste Aid",
   "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
   "@id": "wasteaid",
   "wikipedia": "https://en.wikipedia.org/wiki/WaterAid",
