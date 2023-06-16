@@ -1,0 +1,19 @@
+{
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/ditch_the_label-81811591110441735.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Ditch the Label",
+  "name": "Sport Inspired",
+  "@id": "sport-inspired",
+  "suggest": [
+    "Sport Inspired",
+    "Ditch the Label",
+    "sport-inspired"
+  ],
+  "summaryDescription": "As a leading and global youth organisation, we’re here to help young people overcome the issues that affect and hold them back the most. Our core strands of support include bullying, digital wellbeing, mental health, relationships and identity.",
+  "englandWalesCharityRegNum": "1156329",
+  "uptodatedraft": "probably",
+  "status": "MODIFIED"
+}
