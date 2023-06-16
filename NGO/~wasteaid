@@ -17,6 +17,7 @@
   "ready": false,
   "name": "Waste Aid",
   "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
+  "unsdg": "11",
   "@id": "wasteaid",
   "wikipedia": "https://en.wikipedia.org/wiki/WaterAid",
   "category": "environment",
@@ -24,5 +25,5 @@
   "englandWalesCharityRegNum": "1160263",
   "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
   "whereTags": "Africa \u0026 Asia",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
