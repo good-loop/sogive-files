@@ -606,6 +606,7 @@
   "ready": true,
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/standard/CP__Logo9-15264067979158471030.jpg#ccrop:80",
+  "unsdg": "15",
   "@id": "cats-protection",
   "wikipedia": "https://en.wikipedia.org/wiki/Cats_Protection",
   "summaryDescription": "Cats Protection, formerly The Cat Protection League, aims to improve cat welfare both through direct work and by educating the public.",
@@ -630,8 +631,6 @@
         "value100p": 11118888,
         "value": "1111.888888888888887777000"
       },
-      "amountGBP": 0.0,
-      "amountusd": 0.0,
       "n": 1.0
     }
   ],
@@ -659,5 +658,5 @@
   "englandWalesCharityRegNum": "203644",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
