@@ -1,0 +1,23 @@
+{
+  "images": "https://media.good-loop.com/uploads/standard/BoSti__Bodensee__Copyright__Sven__Schulz__komprimiert-1721679633230408215.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@class": "com.goodloop.data.NGO",
+  "@type": "NGO",
+  "displayName": "Bodensee Stiftung",
+  "created": "2023-04-03T21:24:22Z",
+  "description": "In den letzten 25 Jahren hat die Bodensee-Stiftung in 42 Projekten als Projektkoordinator oder Partner mitgewirkt. Diese Projekte wurden in den 5 Handlungsfeldern Energiewende, Landwirtschaft und Klima, Natur- und Gewässerschutz, Unternehmen und biologische Vielfalt und kommunales Nachhaltigkeitsmanagement) umgesetzt mit einem gesamten Projektvolumen von knapp 35 Millionen Euro.\n\nDavon wurden 8,2 Millionen Euro für Umwelt- und Naturschutz in der Bodenseeregion investiert.\n\n \n\n",
+  "suggest": [
+    "bodensee-stiftung",
+    "Bodensee Stiftung",
+    "bodensee-stiftung"
+  ],
+  "url": "https://www.bodensee-stiftung.org/",
+  "xero": "bd4073b6-6cc6-42fb-8ff1-cfc31bf9f9c0@xero.com",
+  "name": "bodensee-stiftung",
+  "logo": "https://media.good-loop.com/uploads/standard/bodensee_stiftung-2977333136725397906.png#ccrop:90",
+  "@id": "bodensee-stiftung",
+  "wikipedia": "https://de.wikipedia.org/wiki/Bodensee-Stiftung",
+  "status": "PUBLISHED"
+}
