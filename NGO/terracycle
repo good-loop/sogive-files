@@ -1,18 +1,22 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/terracycle-boat-6352872261498677191.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
   "displayName": "Terracycle Global Foundation",
-  "name": "terracycle",
-  "logo": "https://media.good-loop.com/uploads/raw/terracycle-8805284507604640710.png#ccrop:85",
-  "@id": "terracycle",
   "suggest": [
     "terracycle",
     "Terracycle Global Foundation",
     "terracycle"
   ],
+  "url": "https://www.terracyclefoundation.org/",
+  "name": "terracycle",
+  "logo": "https://media.good-loop.com/uploads/raw/terracycle-8805284507604640710.png#ccrop:85",
+  "unsdg": "12",
+  "@id": "terracycle",
   "id": "terracycle",
   "summaryDescription": "Our mission is to address the complex challenges of collecting and recycling waste in emerging countries and communities. The TerraCycle Global Foundation engages with local communities in emerging regions to offer collection and recycling platforms for waste, with a special emphasis on preventing plastic pollution from entering our aquatic systems.",
-  "url": "https://www.terracyclefoundation.org/",
-  "status": "DRAFT",
+  "status": "MODIFIED",
   "usCharityRegNum": "83-1677129"
 }
