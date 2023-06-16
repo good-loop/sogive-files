@@ -53,7 +53,7 @@
   "noPublicDonations": false,
   "description": "Our assistance dogs are trained to meet the needs of individuals with even the most complex physical disabilities. We currently help adults aged 18 and over (both civilians and former service personnel) who have a physical disability or condition that affects their daily life and limits their independence.",
   "suggest": [
-    "CANINE PARTNERS FOR INDEPENDENCE",
+    "Canine Partners for Independence",
     "canine-partners-for-independence"
   ],
   "simpleImpact": {
@@ -66,10 +66,10 @@
       "notes": "Yes"
     }
   },
-  "name": "CANINE PARTNERS FOR INDEPENDENCE",
-  "logo": "https://media.good-loop.com/uploads/standard/cp-logo-14215768424552209884.png",
+  "name": "Canine Partners for Independence",
+  "logo": "https://media.good-loop.com/uploads/standard/cp-logo-14215768424552209884.png#ccrop:84",
   "@id": "canine-partners-for-independence",
   "lastModified": "2020-10-26T12:44:17Z",
   "uptodatedraft": "probably",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
