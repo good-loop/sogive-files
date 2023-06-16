@@ -2,21 +2,11 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-01T11:37:32Z",
-  "displayName": "Bee Friendly Trust",
-  "altlogo": "https://media.good-loop.com/uploads/standard/Bee-Friendly-Logo-WHITE-RGB-oboel02b384vipwzbpi9zjzrdq2kflelt0a0qh78jk-15535714902859911979.png",
+  "name": "migrant-help-uk",
+  "id": "migrant-help-uk",
   "suggest": [
-    "Bee Friendly Trust",
-    "Bee Friendly Trust"
+    "migrant-help-uk"
   ],
-  "url": "https://beefriendlytrust.org/",
-  "UNSDG": 15.0,
-  "name": "Bee Friendly Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/Bee-Friendly-Logo-GOLD-13477538995651107022.png",
-  "id": "bee-friendly-trust",
-  "category": "environment",
-  "crm": "4570892500@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
