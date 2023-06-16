@@ -13,6 +13,7 @@
   "url": "https://www.terracyclefoundation.org/",
   "name": "terracycle",
   "logo": "https://media.good-loop.com/uploads/raw/terracycle-8805284507604640710.png#ccrop:85",
+  "unsdg": "12",
   "@id": "terracycle",
   "id": "terracycle",
   "summaryDescription": "Our mission is to address the complex challenges of collecting and recycling waste in emerging countries and communities. The TerraCycle Global Foundation engages with local communities in emerging regions to offer collection and recycling platforms for waste, with a special emphasis on preventing plastic pollution from entering our aquatic systems.",
