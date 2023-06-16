@@ -5,14 +5,17 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-06-01T11:37:32Z",
-  "name": "Bee Friendly Trust",
-  "id": "bee-friendly-trust",
+  "displayName": "Bee Friendly Trust",
   "suggest": [
+    "Bee Friendly Trust",
     "Bee Friendly Trust"
   ],
-  "category": "environment",
-  "url": "www.beefriendlytrust.org",
-  "crm": "4570892500@2506405019@monday.com",
+  "url": "",
   "UNSDG": 15.0,
+  "name": "Bee Friendly Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/Bee-Friendly-Logo-GOLD-13477538995651107022.png",
+  "id": "bee-friendly-trust",
+  "category": "environment",
+  "crm": "4570892500@2506405019@monday.com",
   "status": "PUBLISHED"
 }
