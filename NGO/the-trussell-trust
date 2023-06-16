@@ -91,6 +91,7 @@
   "ready": false,
   "logo": "https://media.good-loop.com/uploads/standard/trussell-8187236671737861665.svg#ccrop:75",
   "modified": false,
+  "unsdg": "2",
   "@id": "the-trussell-trust",
   "summaryDescription": "Aims to end hunger and poverty in the UK",
   "uptodatedraft": "probably",
@@ -141,5 +142,5 @@
   "englandWalesCharityRegNum": "1110522",
   "whereTags": "UK",
   "uk_giftaid": true,
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
