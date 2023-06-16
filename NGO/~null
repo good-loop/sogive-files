@@ -1,20 +1,14 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Good__Loop__x__GA__image-8712433093212477949.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Greening Australia",
-  "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
+  "displayName": "Waste Aid",
+  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-14034647970953569604.png",
+  "id": "waste-aid",
   "suggest": [
-    "Greening Australia",
-    "Greening Australia"
+    "Waste Aid"
   ],
-  "url": "https://www.greeningaustralia.org.au",
-  "name": "Greening Australia",
-  "logo": "https://media.good-loop.com/uploads/standard/GreeningAustralia__Logo__Stacked__2-17388514846648614936.png#ccrop:90",
-  "unsdg": "14",
-  "id": "greening-australia",
-  "category": "environment",
+  "url": "https://wasteaid.org/",
   "status": "PUBLISHED"
 }
