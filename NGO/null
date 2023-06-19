@@ -1,19 +1,19 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/forest-14983741186714295.jpeg",
+  "images": "https://media.good-loop.com/uploads/raw/the-recycling-partnership-6784733048362315921.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "National Park Foundation",
-  "created": "2023-06-19T15:25:04Z",
+  "displayName": "The Recycling Partnership",
+  "created": "2023-06-19T15:25:11Z",
   "suggest": [
-    "national-park-foundation",
-    "National Park Foundation"
+    "the-recycling-partnership",
+    "The Recycling Partnership"
   ],
-  "url": "https://www.nationalparks.org/",
-  "xero": "2f72a31c-2a76-4852-8477-e19207c135de",
-  "name": "national-park-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/img__up__fnd-kp-npf-logo-10041746207194137985.jpeg#ccrop:110",
-  "id": "national-park-foundation",
-  "summaryDescription": "Working together with a growing community of passionate park champions, the National Park Foundation strives to ensure that all people are able to discover their own personal connections to national parks, because they don\u0027t just stand for where America has been - they inspire where we go next.",
-  "usCharityRegNum": "\t52-1086761",
+  "url": "https://recyclingpartnership.org/",
+  "xero": "45dbf414-9dd6-4a3a-be2f-b4c3e7c967b6",
+  "name": "the-recycling-partnership",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-16677849843844238401.png#ccrop:90",
+  "id": "the-recycling-partnership",
+  "summaryDescription": "As a leading, national force for improving recycling, The Recycling Partnership puts private dollars to work in communities because we know that when we invest in a system to protect resources, empower sustainable action and unlock opportunity, everyone wins. The Recycling Partnership catalyzes improvements through leveraged seed grants, partnerships, and its extensive reach to spark commitment, investment, and standards across the system. ",
+  "usCharityRegNum": "37-1622018",
   "status": "PUBLISHED"
 }
