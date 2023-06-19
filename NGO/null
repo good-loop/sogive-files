@@ -1,20 +1,33 @@
 {
-  "circleCrop": "85.0",
-  "images": "https://media.good-loop.com/uploads/standard/img-sfondo-800x417-10870691381098208389.png",
+  "scotlandCharityRegNum": "SC046150",
+  "images": "https://app.sogive.org/uploads/10101530321497487facebook/TuringTrustPhoto-8379978891835166076.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Arché",
-  "created": "2023-06-19T12:39:23Z",
-  "description": "Arché welcome mothers and children with problems related to maltreatment, immigration, social and psychological distress into our communities and we help them to redesign a better future.\n\nArché has in its mission the vocation to welcome. In difference, in difficulty, in illness but also in hope, acceptance means finding a common ground of dialogue and mutual trust in everyday life. It means being there, so that the journey is less tiring. For Arché, hospitality does not mean creating addiction but giving awareness every day of the possibility of a better life.",
-  "suggest": [
-    "fondazione-arche",
-    "Arché"
+  "created": "2023-06-19T15:24:16Z",
+  "description": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-turing-trust",
+      "name": "people (singular: person) taught digital skills from donated computers",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 57800,
+        "value": "5.78"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://arche.it/",
-  "xero": "884d0133-34c6-4c83-9dbb-e222c99f104f",
-  "name": "fondazione-arche",
-  "logo": "https://media.good-loop.com/uploads/standard/Arche_Logo-14981663702342393724.png",
-  "id": "fondazione-arche",
-  "category": "arts culture humanities",
+  "suggest": [
+    "The Turing Trust"
+  ],
+  "url": "www.turingtrust.co.uk",
+  "xero": "f11e29d3-b697-49c1-b550-910de7eafc57",
+  "name": "The Turing Trust",
+  "logo": "https://app.sogive.org/uploads/10101530321497487facebook/Turing_Trust-5742973618326953979.jpg",
+  "englandWalesCharityRegNum": "1156687",
+  "summaryDescription": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
   "status": "PUBLISHED"
 }
