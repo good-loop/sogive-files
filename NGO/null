@@ -1,26 +1,20 @@
 {
-  "circleCrop": "80.0",
-  "images": "https://media.good-loop.com/uploads/raw/Surfers-Against-Sewage-1-1024x512-8179448059935295295.jpeg",
+  "circleCrop": "74.0",
+  "images": "https://media.good-loop.com/uploads/raw/Parley_image-11659090260283467418.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#42c5e2",
   "@type": "NGO",
-  "displayName": "Surfers Against Sewage",
-  "created": "2023-06-19T15:24:23Z",
-  "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
+  "displayName": "Parley",
+  "created": "2023-06-19T15:24:53Z",
+  "description": "Parley for the Oceans addresses major threats towards our oceans, the most important ecosystem of our planet. \nWe believe the power for change lies in the hands of the consumer - given we all have a choice - and the power to shape this new consumer mindset lies in the hands of the creative industries.",
   "suggest": [
-    "Surfers Against Sewage",
-    "Surfers Against Sewage"
+    "parley",
+    "Parley"
   ],
-  "url": "https://www.sas.org.uk/",
-  "UNSDG": 14.0,
-  "xero": "dbfc9d40-7af0-43f0-9f7b-ea0f5697ead2",
-  "name": "Surfers Against Sewage",
-  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
-  "txtColor": "#0a0a0a",
-  "id": "surfers",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "englandWalesCharityRegNum": "1145877",
-  "summaryDescription": "Surfers Against Sewage is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes and Porthtowan on the north coast of Cornwall. ",
-  "status": "PUBLISHED"
+  "url": "https://www.parley.tv/#fortheoceans",
+  "xero": "5d141a71-602d-4dfa-a4b1-e252d9fd4df6",
+  "name": "parley",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__48__4416179951-1409035133766614632.png",
+  "id": "parley",
+  "usCharityRegNum": "464671330",
+  "status": "DRAFT"
 }
