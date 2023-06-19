@@ -1,25 +1,16 @@
 {
-  "scotlandCharityRegNum": "1069229",
-  "ukCompanyRegNum": "3462405",
-  "circleCrop": "70.0",
-  "images": "https://media.good-loop.com/uploads/raw/tree-3822149__1920-9426502681125979215.jpg",
+  "xero": "68a3d451-b966-43ef-b275-32180e327310",
+  "images": "https://media.good-loop.com/uploads/raw/quercus-96557743234875001.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Forest of Marston Vale",
-  "created": "2023-06-19T12:36:11Z",
-  "description": "Forest of Marston Vale is planting trees and using woodlands to make life better for people and wildlife in the Marston Vale forest. Our Levi Strauss \u0026 Co. colleagues in the UK have supported the mission of the Forest of Marston Vale by planting 300 trees in one day back in 2020!",
+  "created": "2023-06-19T12:37:40Z",
+  "name": "quercus",
+  "logo": "https://media.good-loop.com/uploads/raw/logo_quercus-10748863882831580244.png",
+  "id": "quercus",
   "suggest": [
-    "Forest of Marston Vale",
-    "Forest of Marston Vale"
+    "quercus"
   ],
-  "url": "https://www.marstonvale.org",
-  "xero": "0fe22e9e-5ce5-4e30-a1b0-bee38123e78f",
-  "name": "Forest of Marston Vale",
-  "logo": "https://media.good-loop.com/uploads/standard/the-forest-of-marston-vale-trust-logo-12946462390537032321.jpeg#ccrop:_ccrop:70",
-  "id": "forest-of-marston-vale",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "englandWalesCharityRegNum": "1069229",
-  "summaryDescription": "Forest of Marston Vale is planting trees and using woodlands to make life better for people and wildlife in the Marston Vale forest. Our Levi Strauss \u0026 Co. colleagues in the UK have supported the mission of the Forest of Marston Vale by planting 300 trees in one day back in 2020!",
-  "status": "PUBLISHED"
+  "summaryDescription": "A Quercus é uma Organização Não Governamental de Ambiente (ONGA) portuguesa fundada a 31 de outubro de 1985.\nÉ uma associação independente, apartidária, de âmbito nacional, sem fins lucrativos e constituída por cidadãos que se juntaram em torno do mesmo interesse pela Conservação da Natureza e dos Recursos Naturais e na Defesa do Ambiente em geral, numa perspectiva de desenvolvimento sustentado.",
+  "url": "https://www.quercus.pt/",
+  "status": "DRAFT"
 }
