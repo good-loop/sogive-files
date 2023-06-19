@@ -1,33 +1,26 @@
 {
-  "scotlandCharityRegNum": "SC046150",
-  "images": "https://app.sogive.org/uploads/10101530321497487facebook/TuringTrustPhoto-8379978891835166076.jpg",
+  "circleCrop": "80.0",
+  "images": "https://media.good-loop.com/uploads/raw/Surfers-Against-Sewage-1-1024x512-8179448059935295295.jpeg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#42c5e2",
   "@type": "NGO",
-  "created": "2023-06-19T15:24:16Z",
-  "description": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "the-turing-trust",
-      "name": "people (singular: person) taught digital skills from donated computers",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 57800,
-        "value": "5.78"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Surfers Against Sewage",
+  "created": "2023-06-19T15:24:23Z",
+  "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
   "suggest": [
-    "The Turing Trust"
+    "Surfers Against Sewage",
+    "Surfers Against Sewage"
   ],
-  "url": "www.turingtrust.co.uk",
-  "xero": "f11e29d3-b697-49c1-b550-910de7eafc57",
-  "name": "The Turing Trust",
-  "logo": "https://app.sogive.org/uploads/10101530321497487facebook/Turing_Trust-5742973618326953979.jpg",
-  "englandWalesCharityRegNum": "1156687",
-  "summaryDescription": "The Turing Trust supports education in sub-Saharan Africa by reusing computers and improving teacher training using ICT.\n\nWe provide skills development in the UK while reducing waste and contributing to an environmentally friendly society.",
+  "url": "https://www.sas.org.uk/",
+  "UNSDG": 14.0,
+  "xero": "dbfc9d40-7af0-43f0-9f7b-ea0f5697ead2",
+  "name": "Surfers Against Sewage",
+  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
+  "txtColor": "#0a0a0a",
+  "id": "surfers",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "1145877",
+  "summaryDescription": "Surfers Against Sewage is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes and Porthtowan on the north coast of Cornwall. ",
   "status": "PUBLISHED"
 }
