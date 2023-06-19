@@ -1,0 +1,367 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/annual-report-008-1-1192561686174591538.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1742000.0,
+          "confidence": "medium",
+          "name": "people helped",
+          "description": "This refers to beneficiaries of WASH, climate, farming, and energy projects. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "18.36",
+            "currency": "",
+            "value100p": 183600.0,
+            "value": 18.36
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://dc13acdbed8b8361ed10.b-cdn.net/wp-content/uploads/2021/01/Global-2019-20-Annual-Report.pdf"
+        }
+      ],
+      "year": 20.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "31978000",
+          "currency": "GBP",
+          "value100p": 3.1978E11,
+          "value": 3.1978E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "8100000",
+        "currency": "",
+        "value100p": 8.1E10,
+        "value": 8100000.0
+      },
+      "isRep": false
+    },
+    {
+      "outputs": [
+        {
+          "number": 2035000.0,
+          "confidence": "medium",
+          "name": "People (singular: person) helped ",
+          "description": "This refers to beneficiaries of WASH, climate, farming, and energy projects. ",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "18.61",
+            "currency": "",
+            "value100p": 186100.0,
+            "value": 18.61
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://dc13acdbed8b8361ed10.b-cdn.net/wp-content/uploads/2019/12/Practical-Action-2019-Annual-Report.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "37863000",
+          "currency": "GBP",
+          "value100p": 3.7863E11,
+          "value": 3.7863E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall"
+    },
+    {
+      "outputs": [
+        {
+          "number": 268000.0,
+          "confidence": "medium",
+          "name": "People (singular: person) benefitting of clean energy",
+          "description": "",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "36.29",
+            "currency": "",
+            "value100p": 362900.0,
+            "value": 36.29
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9726000",
+          "currency": "GBP",
+          "value100p": 9.726E10,
+          "value": 9726000.0
+        }
+      ],
+      "name": "Energy that transforms"
+    },
+    {
+      "outputs": [
+        {
+          "number": 828000.0,
+          "confidence": "medium",
+          "name": "beneficiaries",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "12.59",
+            "currency": "",
+            "value100p": 125900.0,
+            "value": 12.59
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "10423000",
+          "currency": "GBP",
+          "value100p": 1.0423E11,
+          "value": 1.0423E7
+        }
+      ],
+      "name": "Farming that works"
+    },
+    {
+      "outputs": [
+        {
+          "number": 478000.0,
+          "name": "beneficiaries",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "18.24",
+            "currency": "",
+            "value100p": 182400.0,
+            "value": 18.24
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8717000",
+          "currency": "GBP",
+          "value100p": 8.717E10,
+          "value": 8717000.0
+        }
+      ],
+      "name": "Cities fit for people"
+    },
+    {
+      "outputs": [
+        {
+          "number": 461000.0,
+          "name": "beneficiaries",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "name": "",
+            "raw": "8.98",
+            "currency": "",
+            "value100p": 89800.0,
+            "value": 8.98
+          }
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4138000",
+          "currency": "GBP",
+          "value100p": 4.138E10,
+          "value": 4138000.0
+        }
+      ],
+      "name": "Resilience that protects"
+    }
+  ],
+  "@type": "NGO",
+  "impact": "medium",
+  "confidence": "low",
+  "description": "Practical Action has 4 different pillars.\n\n1) The organization promotes the use of agroecology: An approach to farming and food production that values people and planet. An approach that offers a sustainable alternative to intensive agriculture. Providing the potential to transform the lives of millions of farming families struggling to adapt to a changing climate\n\n2) Electricity and Clean cooking:\n\nPractical Action brings rural communities, displaced people, energy providers and decision makers together to find sustainable, clean energy solutions that enable people to access electricity. \nThey help commercial providers of mini-grids, biogas and solar systems reach poor and remote communities profitably for all, reducing harmful smoke inhalation by spreading the use of cleaner cooking stoves and fuels.\n\n3) Water and waste management: The organization develops safe water and waste management systems in urban and rural communities. \n\n4) Climate Change resilience: Education on climate change resilience, disaster readiness, and promotion of environmentally friendly technology.",
+  "recommendation": "This charity should be checked by a more experienced analyst. It looks very impressive. \n\nTheir most important and cost-effective project is on farming, helping roughly a million persons a year. We need to understand if every year it is a different million people or there is some overlap, and to which extend. Then we need to understand how impactful is the assistance. What is the improved income for farmers after benefitting of Practical Action\u0027s services? This information is not in their Annual Report or website, and it might be worth it to approach them for internal evaluation data.\n\nHowever, this is far more promising and cost-effective that other charities I have looked at, and I think it is worth examining.  If only 1 out of 7 farmers served was in extreme poverty and after the intervention it is not, their intervention would compete with the gold standard. Other projects have similar numbers.",
+  "suggest": [
+    "Practical Action",
+    "practical-action"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "practical-action",
+      "name": "People (singular: person) helped ",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "value100p": 186100,
+        "value": "18.61",
+        "name": ""
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://practicalaction.org/",
+  "whyTags": "Water/Sanitation/Hygiene/WASH/Climate Change/energy",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "People (singular: person) helped ",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "value100p": 186100,
+      "value": "18.61",
+      "name": ""
+    }
+  },
+  "name": "Practical Action",
+  "logo": "https://media.good-loop.com/uploads/raw/practical-action-logo-highres-300dpi-1-771x335-16347751414164557793.jpg",
+  "@id": "practical-action",
+  "englandWalesCharityRegNum": "247257",
+  "summaryDescription": "Practical Action works with communities to develop ingenious solutions for agriculture, water and waste management, climate resilience and clean energy access. ",
+  "whereTags": "Kenya, Malawi, Rwanda, Sudan, Zimbabwe, Bangladesh, India, Nepal. Bolivia, Peru ",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
