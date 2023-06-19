@@ -1,16 +1,20 @@
 {
-  "xero": "68a3d451-b966-43ef-b275-32180e327310",
-  "images": "https://media.good-loop.com/uploads/raw/quercus-96557743234875001.png",
+  "circleCrop": "85.0",
+  "images": "https://media.good-loop.com/uploads/standard/img-sfondo-800x417-10870691381098208389.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-19T12:37:40Z",
-  "name": "quercus",
-  "logo": "https://media.good-loop.com/uploads/raw/logo_quercus-10748863882831580244.png",
-  "id": "quercus",
+  "displayName": "Arché",
+  "created": "2023-06-19T12:39:23Z",
+  "description": "Arché welcome mothers and children with problems related to maltreatment, immigration, social and psychological distress into our communities and we help them to redesign a better future.\n\nArché has in its mission the vocation to welcome. In difference, in difficulty, in illness but also in hope, acceptance means finding a common ground of dialogue and mutual trust in everyday life. It means being there, so that the journey is less tiring. For Arché, hospitality does not mean creating addiction but giving awareness every day of the possibility of a better life.",
   "suggest": [
-    "quercus"
+    "fondazione-arche",
+    "Arché"
   ],
-  "summaryDescription": "A Quercus é uma Organização Não Governamental de Ambiente (ONGA) portuguesa fundada a 31 de outubro de 1985.\nÉ uma associação independente, apartidária, de âmbito nacional, sem fins lucrativos e constituída por cidadãos que se juntaram em torno do mesmo interesse pela Conservação da Natureza e dos Recursos Naturais e na Defesa do Ambiente em geral, numa perspectiva de desenvolvimento sustentado.",
-  "url": "https://www.quercus.pt/",
-  "status": "DRAFT"
+  "url": "https://arche.it/",
+  "xero": "884d0133-34c6-4c83-9dbb-e222c99f104f",
+  "name": "fondazione-arche",
+  "logo": "https://media.good-loop.com/uploads/standard/Arche_Logo-14981663702342393724.png",
+  "id": "fondazione-arche",
+  "category": "arts culture humanities",
+  "status": "PUBLISHED"
 }
