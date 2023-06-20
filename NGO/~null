@@ -2,15 +2,17 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "images": "https://media.good-loop.com/uploads/standard/dac8e2__f107c2ce634441f58fbda8ce3c5006c1~mv2-15220575156367481691.jpg",
   "@type": "NGO",
-  "displayName": "Leukemia and Lymphoma Society",
-  "name": "leukemia-and-lymphoma-society",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-1835170537231088337.svg#ccrop:86",
-  "id": "leukemia-and-lymphoma-society",
+  "displayName": "Swiss Cetacean Society",
+  "name": "Swiss Cetacean Society",
+  "logo": "https://media.good-loop.com/uploads/standard/b854db__5efac0951cb14ac39fb9b37bcfac22f0__mv2-15023183245887790689.png#ccrop:95",
+  "unsdg": "14",
+  "id": "swiss-cetacean-society",
   "suggest": [
-    "leukemia-and-lymphoma-society",
-    "Leukemia and Lymphoma Society"
+    "Swiss Cetacean Society",
+    "Swiss Cetacean Society"
   ],
-  "url": "https://www.lls.org/",
-  "status": "DRAFT"
+  "url": "https://en.swisscetaceansociety.org/",
+  "status": "PUBLISHED"
 }
