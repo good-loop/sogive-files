@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Leukemia ",
+  "displayName": "Leukemia and Lymphoma Society",
   "name": "leukemia-and-lymphoma-society",
   "id": "leukemia-and-lymphoma-society",
   "suggest": [
     "leukemia-and-lymphoma-society",
-    "Leukemia "
+    "Leukemia and Lymphoma Society"
   ],
   "status": "DRAFT"
 }
