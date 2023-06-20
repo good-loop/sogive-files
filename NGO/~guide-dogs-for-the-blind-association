@@ -1,0 +1,1219 @@
+{
+  "circleCrop": 120.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 823.0,
+          "year": 2013.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2013-01-01T00:00:00Z",
+          "end": "2013-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2013.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 5.28E9,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 5.28E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2013.0,
+          "@type": "MonetaryAmount",
+          "start": "2013-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2013-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2013-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2013.0,
+          "@type": "Citation",
+          "url": "https://www.guidedogs.org.uk/media/4836277/2013-gd-annual-report-and-accounts.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "If anything might be a slightly generous estimate. From their report: \u0027We trained 823 guide dog partnerships in 2013 but our high attainment expectations mean that some partnerships did not qualify until 2014\u0027. From email sent on 3rd May 2016, the cost is c ?50k over the dog\u0027s lifetime",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2013-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 847.0,
+          "year": 2014.0,
+          "@type": "Output",
+          "name": "",
+          "start": "2014-01-01T00:00:00Z",
+          "end": "2014-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2014.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 9.4E9,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 9.4E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2014.0,
+          "@type": "MonetaryAmount",
+          "start": "2014-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2014-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2014-01-01T00:00:00Z",
+      "isRep": true,
+      "data-src": [
+        {
+          "year": 2014.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20141231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "If anything might be a slightly generous estimate. From their report: \u0027We trained 823 guide dog partnerships in 2013 but our high attainment expectations mean that some partnerships did not qualify until 2014\u0027",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2014-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 10000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "People (singular: person) supported",
+          "start": "2105-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2105-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 1.044E12,
+          "value": 1.044E8
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2105-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2105-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 6.6E10,
+          "value": 6600000.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2105-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        }
+      ],
+      "start": "2105-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "Number listed for income from beneficiaries is unsure. In the financial report the charity list income from charitable activities as \"sales of rehabilitation services under contract and ancillary training\". Sales implies that it could be income from beneficiaries, but contract implies that it does not. Since the total number 0.9 million is small in comparison to the overall expenditure of 104.4 million we decided to list it as 0.",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 843.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) matched with a guide dog",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 8.9859155E11,
+          "value": 8.9859155E7
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "value100": 5.68075117E8,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 5680751.17
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "provision of guide dogs and other adult mobility services",
+      "analyst": "Letycia",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 1788.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "Children (singular: child) and their families (singular: family) supported",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 45.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "buddy dog(s) placed with children (singular: child) with sight loss",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 6.208451E10,
+          "value": 6208451.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 3.9248826E9,
+          "value": 392488.26
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "provision of children s services",
+      "analyst": "Letycia",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 4.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "Research project(s) conducted",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 1.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "Technology development advanced",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 8.16901E9,
+          "value": 816901.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 5.164319E8,
+          "value": 51643.19
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "research and development",
+      "analyst": "Letycia",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 4300.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "Volunteer(s) trained",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 0.0
+        },
+        {
+          "number": 30000.0,
+          "year": 2015.0,
+          "@type": "Output",
+          "name": "people (singular: person) campaigned",
+          "start": "2015-01-01T00:00:00Z",
+          "end": "2015-12-31T00:00:00Z",
+          "order": 1.0
+        }
+      ],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "year": 2015.0,
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 7.515493E10,
+          "value": 7515493.0
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value100p": 4.7511737E9,
+          "value": 475117.37
+        },
+        {
+          "value100": 0.0,
+          "year": 2015.0,
+          "@type": "MonetaryAmount",
+          "start": "2015-01-01T00:00:00Z",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "end": "2015-12-31T00:00:00Z",
+          "value": 0.0
+        },
+        {
+          "@type": "MonetaryAmount",
+          "name": "projectCosts",
+          "value": 0.0
+        }
+      ],
+      "start": "2015-01-01T00:00:00Z",
+      "isRep": false,
+      "data-src": [
+        {
+          "year": 2015.0,
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20151231_E_C.pdf"
+        }
+      ],
+      "ready": false,
+      "analysisComment": "",
+      "name": "advocacy and awareness",
+      "analyst": "Letycia",
+      "end": "2015-12-31T00:00:00Z",
+      "location": ""
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "106300000",
+          "currency": "GBP",
+          "value100p": 1.063E12,
+          "value": 1.063E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 950.0,
+          "meta": {
+            "all": {
+              "notes": "\n£83,586 \u003d £106.3m total spend / £66.8m charitable spend / 950 dogs"
+            }
+          },
+          "name": "dog(s) receiving advanced training",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "83586",
+            "currency": "GBP",
+            "value100p": 8.3586E8,
+            "value": 83586.0
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "79406737",
+          "currency": "GBP",
+          "value100p": 7.9406737E11,
+          "value": 7.9406737E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "49900000",
+          "currency": "GBP",
+          "value100p": 4.99E11,
+          "value": 4.99E7
+        }
+      ],
+      "name": "Provision of guide dogs services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31",
+      "isRep": true
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5300000",
+          "currency": "GBP",
+          "value100p": 5.3E10,
+          "value": 5300000.0
+        }
+      ],
+      "name": "Provision of other adult mobility services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4800000",
+          "currency": "GBP",
+          "value100p": 4.8E10,
+          "value": 4800000.0
+        }
+      ],
+      "name": "Provision of other children\u0027s services",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1100000",
+          "currency": "GBP",
+          "value100p": 1.1E10,
+          "value": 1100000.0
+        }
+      ],
+      "name": "Research and development",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends17/0000209617_AC_20181231_E_C.pdf"
+        }
+      ],
+      "start_raw": "2018-01-01",
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5700000",
+          "currency": "GBP",
+          "value100p": 5.7E10,
+          "value": 5700000.0
+        }
+      ],
+      "name": "Advocacy and awareness",
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "end_raw": "2018-12-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "113400000",
+          "currency": "GBP",
+          "value100p": 1.134E12,
+          "value": 1.134E8
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "2700000",
+          "currency": "GBP",
+          "value100p": 2.7E10,
+          "value": 2700000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "name": "overall",
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "132400000",
+        "currency": "",
+        "value100p": 1.324E12,
+        "value": 1.324E8
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 685.0,
+          "name": "guide dogs (singular: dog) who go (singular: goes) on to receive advanced training",
+          "description": ""
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617"
+        },
+        {
+          "@type": "Citation",
+          "url": "https://www.guidedogs.org.uk/-/media/project/guidedogs/guidedogsdotorg/files/about-us/finance-and-governance/reports-and-accounts/guide-dogs-report-and-financial-statements-2018.pdf/"
+        },
+        {
+          "@type": "Citation"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "51800000",
+          "currency": "GBP",
+          "value100p": 5.18E11,
+          "value": 5.18E7
+        }
+      ],
+      "name": "Provision of guide dogs services",
+      "description": "",
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 4600.0,
+          "name": "Occasions (singular: occasion) of adult mobility services provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "8000000",
+          "currency": "GBP",
+          "value100p": 8.0E10,
+          "value": 8000000.0
+        }
+      ],
+      "name": "Provision of other adult mobility services",
+      "start": "2019-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "outputs": [
+        {
+          "number": 7300.0,
+          "name": "Occasions (singular: occasion) of children\u0027s services provided"
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5500000",
+          "currency": "GBP",
+          "value100p": 5.5E10,
+          "value": 5500000.0
+        }
+      ],
+      "name": "Provision of children\u0027s services"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "600000",
+          "currency": "GBP",
+          "value100p": 6.0E9,
+          "value": 600000.0
+        }
+      ],
+      "name": "Research and development"
+    },
+    {
+      "outputs": [],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "9800000",
+          "currency": "GBP",
+          "value100p": 9.8E10,
+          "value": 9800000.0
+        }
+      ],
+      "name": "Advocacy and awareness"
+    }
+  ],
+  "@type": "NGO",
+  "recommendation": "**The Guide Dogs for the Blind Association is rated as Not Recommended (firm) on the SoGive ratings scale.**\n\nThe Guide Dogs for the Blind Association provides guide dogs to blind and visually impaired people across the UK. They also engage in other projects related to visual impairments. \n\nUnder the SoGive [two question method](http://thinkingaboutcharity.blogspot.com/2019/08/the-sogive-approach-to-assessing.html), we consider two questions:\n- How much does it cost for the charity to do something\n- What benefit is provided (or what does the beneficiary get for the donor\u0027s money)\n\n**More about what the Guide Dogs for the Blind Association does**\n\nThe primary activity of the Guide Dogs for the Blind Association is providing guide dogs to blind and visually impaired people. This work involves breeding, training, and matching the dogs with their owners. According to their [2019 annual report](https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10329364\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d209617 ), £51,800,000 was spent that year on this project (p.50). Though they did not provide the exact number of dogs that were trained, according to their 2018 annual report, the number of guide dog partnerships they created was 685 (p.16). This yields a cost of around £75,620 per dog.\n\nThe Guide Dogs for the Blind Association also engages in advocacy and awareness for the rights of people with visual impairments. Namely, they campaign to improve accessibility in public transport, town centers, and other public services. According to their 2019 annual report, £9,800,000 was spent that year on this project (p.50).\n\nIn addition, the Guide Dogs for the Blind Association engages in research projects. This includes research into their breeding and training programs to enhance performance of their dogs, the impact of guide dogs on families, and other issues affecting those with visual impairments. According to their 2019 annual report, £600,000 was spent that year on this project (p.50).\n\nThe Guide Dogs for the Blind Association also provides services for children with visual impairments. This includes mobility and orientation training, as well as general independent living such as cooking, using technology, and maintaining their appearance. According to their 2019 annual report, £5,500,000 was spent that year on this project (p.50), allowing them to provide these services on over 7,300 occasions (p.8). This yields a cost of around £753 per occasion.\n\nMobility services like these are also provided to adults. According to their 2019 annual report, £8,000,000 was spent that year on this project (p.50), and they provided these services on 4,600 occasions (p.8). This yields a cost of around £1,739 per occasion.\n\n**Cost-effectiveness analysis**\n\nAfter a review of the work of the Guide Dogs for the Blind Association under the two-question method, the next step in the SoGive process involves comparing this charity to SoGive’s Gold-standard for charity cost-effectiveness. To receive a Gold ranking, a charity has to achieve a high impact per pound donated (such as £5000 per life saved, or £200 to avert one year of severe depression) and also provide robust evidence on the effectiveness of their work.\n\nFor more information on how we define our Gold, Silver, and Bronze rankings, click [here](https://thinkingaboutcharity.blogspot.com/2021/04/sogive-assigns-ratings-to-charities-or.html).\n\nWe do not consider the Guide Dogs for the Blind Association’s guide dog provision service to be cost-effective compared to the SoGive Gold-standard. This is because for the cost of providing one guide dog to a blind and visually impaired person, a SoGive Gold-rated charity could achieve outcomes equivalent to saving 15 lives. This means a donation going towards this project could achieve much greater outcomes if directed at another organization.\n\nBased on their 2019 annual report, we do not have enough information about the outcomes of the Guide Dogs for the Blind Association’s campaigning in order to conduct a judgement of its cost-effectiveness. In order to make this assessment, we would need more information about the campaigning work that was funded that year as well as the impacts that were brought about by it compared to the counterfactual scenario (i.e the outcome that would have otherwise occurred). \n\nBased on their 2019 annual report, we do not have enough information about the outcomes of the Guide Dogs for the Blind Association’s research in order to conduct a judgement of its cost-effectiveness. However, this project entails less than 1% of the Guide Dogs for the Blind Association’s charity expenditure, so it is unlikely that it will be pivotal when making a cost-effectiveness assessment for the organization overall. \n\nFor the provision of mobility services to both children and adults, it is unclear exactly what is meant by the service being provided on one \"occasion\" of the service being provided. In order to conduct an assessment, we would need more information on what each occasion entails and what benefit an individual gets from a given occasion.\n\nNevertheless, since 68% of the Guide Dogs for the Blind’s charity expenditure consists of guide dog provision, this gives us enough information to make a judgment despite the gaps in information about the other projects. Our assessment of the guide dog provision project leads us to believe that a donation to the Guide Dogs for the Blind Association is not cost-effective, because a given donation achieves significantly less impact than it would at a SoGive Gold-rated charity.\n\n**Conclusion**\n\nBased on the above, we rate the Guide Dogs for the Blind as Not Recommended (firm) under the SoGive methodology. ",
+  "whyTags": "Blindness, Health, animals",
+  "UNSDG": "3",
+  "ready": true,
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2021-08-02_at_15.14.13-15333381459902056122.png",
+  "modified": false,
+  "@id": "guide-dogs-for-the-blind-association",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Guide_Dogs_for_the_Blind_Association",
+  "summaryDescription": "The Guide Dogs for the Blind Association provides guide dogs to blind and visually impaired people across the UK. They also engage in other projects related to visual impairments. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/sanjaysogive.orgemail/guide-dogs-venice-__-rodd-harnesses-12949665880907776468.jpg",
+  "noPublicDonations": false,
+  "impact": "low",
+  "confidence": "high",
+  "suggest": [
+    "Guide Dogs",
+    "guide-dogs-for-the-blind-association"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "guide-dogs-for-the-blind-association",
+      "name": "guide dogs (singular: dog) who go (singular: goes) on to receive advanced training",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 756204379,
+        "value": "75620.43795620437200000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.guidedogs.org.uk/",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "guide dogs (singular: dog) who go (singular: goes) on to receive advanced training",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 756204379,
+      "value": "75620.43795620437200000"
+    }
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Guide Dogs",
+  "englandWalesCharityRegNum": "209617",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
