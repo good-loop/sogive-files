@@ -728,6 +728,7 @@
   "ready": true,
   "modified": false,
   "logo": "https://media.good-loop.com/uploads/raw/download-9621293462672588031.png#ccrop:90",
+  "unsdg": "6",
   "@id": "wateraid",
   "wikipedia": "https://en.wikipedia.org/wiki/WaterAid",
   "summaryDescription": "WaterAid is an international charity that transforms lives by improving access to safe water, hygiene, and sanitation.",
