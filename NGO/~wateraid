@@ -754,7 +754,6 @@
         "value100p": 60776,
         "value": "6.07768469154607796700000"
       },
-      "amountGBP": 0.0,
       "n": 1.0
     }
   ],
@@ -783,8 +782,9 @@
   },
   "name": "WaterAid",
   "lastModified": "2020-10-28T13:15:16Z",
+  "category": "health",
   "englandWalesCharityRegNum": "288701",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
