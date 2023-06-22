@@ -2,16 +2,13 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "images": "https://media.good-loop.com/uploads/standard/GTRA-international-animal-rescue-12808649622232777983.jpg",
   "@type": "NGO",
-  "displayName": "International Animal Rescue",
-  "name": "International Animal Rescue",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-10278092580379973684.svg",
-  "id": "international-animal-rescue",
+  "name": "lulac",
+  "logo": "https://media.good-loop.com/uploads/standard/logo__top-7309322678345338022.png",
+  "id": "lulac",
   "suggest": [
-    "International Animal Rescue",
-    "International Animal Rescue"
+    "lulac"
   ],
-  "url": "https://www.internationalanimalrescue.org/",
-  "status": "PUBLISHED"
+  "url": "https://lulac.org/",
+  "status": "DRAFT"
 }
