@@ -1,9 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "giving the basics",
-  "id": "giving-the-basics",
+  "name": "Deja Tu Huella Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/logo_DTH__0-13626387353353130687.png#ccrop:90",
+  "id": "deja-tu-huella-fund",
   "suggest": [
-    "giving the basics"
+    "Deja Tu Huella Fund"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
