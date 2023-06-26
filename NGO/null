@@ -1,17 +1,20 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/wellmari-14814157006125116977.png",
+  "images": "https://media.good-loop.com/uploads/raw/feeding-_Gainsborough-10325067603847789659.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:59:35Z",
+  "displayName": "Feeding Gainsborough",
+  "created": "2023-06-26T11:59:38Z",
   "suggest": [
-    "vellmari"
+    "Feeding Gainsborough",
+    "Feeding Gainsborough"
   ],
-  "url": "https://asociacionvellmari.com/",
-  "UNSDG": 14.0,
-  "name": "vellmari",
-  "id": "vellmari",
-  "category": "environment",
-  "summaryDescription": "Located in a privileged spot in the heart of the Port of La Savina, just a few meters away from the only entry point to the island and surrounded by different amenities and services, Vellmari Diving Center has everything needed for the maximum comfort and enjoyment of its customers.\nFounded in 1993, its more than 25 years of experience in the diving industry make this Dive Center a winner bet where fun and safety go hand-in-hand, and whose pioneering projects have served as an international benchmark.\nVellmari is an SSI Platinum Instructor Training Center, which means it is qualified to teach any diving course from introductory to professional levels.",
-  "crm": "2506405289@2506405019@monday.com",
+  "url": "https://feedingbritain.org/what-we-do/where-we-work/gainsborough/#:~:text\u003dFeeding%20Gainsborough%20is%20a%20partnership,of%20the%20community%20in%20need.",
+  "UNSDG": 2.0,
+  "name": "Feeding Gainsborough",
+  "id": "feeding-gainsborough",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1163986",
+  "summaryDescription": "Feeding Gainsborough is a partnership between Eudaimonia, Disability Network West Lindsey, Affordable Foods and Bread and Roses, aiming to repurpose surplus food and support members of the community in need.\nThe network offers a year-round provision including food parcel deliveries, community pantries, freshly cooked meals from their fully equipped food trucks and a meal service from the newly developed STANS Pocket Park. Healthy Holiday programmes further provide free cooked meals and activities to children and their families.",
+  "crm": "2506405283@2506405019@monday.com",
   "status": "PUBLISHED"
 }
