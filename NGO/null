@@ -1,25 +1,49 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/ashoka-17949608415072747000.png",
+  "circleCrop": "85.0",
+  "images": "https://media.good-loop.com/uploads/standard/YWT-22-13716586207518383151.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:57:58Z",
-  "description": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
+  "displayName": "Young Women\u0027s Trust",
+  "created": "2023-06-26T11:58:01Z",
+  "description": "Young Women’s Trust offers support to young women aged 18 to 30, who are living on low or no pay and want to build a better future. They campaign for young women’s equality in the workplace and their research examines what young women’s lives are really like.",
   "suggest": [
-    "Ashoka "
+    "young-womens-trust",
+    "Young Women\u0027s Trust"
   ],
-  "url": "https://www.ashoka.org/",
-  "UNSDG": 8.0,
-  "name": "Ashoka ",
-  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/logo-157164415507884249.svg#ccrop:_ccrop:85",
-  "logo_white": "https://as.good-loop.com/uploads/anon/nkd0xq15njjom1g-501341448175478959.jpg",
-  "id": "ashoka",
-  "category": "education",
-  "englandWalesCharityRegNum": "328469",
-  "summaryDescription": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
-  "usCharityRegNum": "51-0255908",
-  "crm": "2506405524@2506405019@monday.com",
+  "url": "",
+  "UNSDG": 5.0,
+  "quote": "\"Young Women’s Trust stands up for equality for young women in the UK. They do this by carrying out policy research, campaigning for change and reaching out to young women across the UK, helping them get skills and opportunities to speak truth to power. They hold women at the heart of what they do and want to get women’s experiences understood by the government.\"- Yogi, a young woman involved in their work",
+  "headerImage": "https://media.good-loop.com/uploads/standard/YWT-92-6531397425252690862.jpg",
+  "name": "young-womens-trust",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-orange-3754456854548072900.png",
+  "id": "the-young-womens-trust",
+  "category": "human services",
+  "extendedDescription": "On average, young women take home around 22% less than young men. Young women are more likely to be doing unpaid caring work, like caring for children or younger siblings. So they are more likely to be in part-time jobs, not able to get enough hours or to progress or not working at all.\n\n      \nYoung women have been hit especially hard by the rising cost of living and are more likely than young men to be struggling to make ends meet. This is because young women were already earning less to start with.\n      \n\n\"Young Women’s Trust stands up for equality for young women in the UK. They do this by carrying out policy research, campaigning for change and reaching out to young women across the UK, helping them get skills and opportunities to speak truth to power. They hold women at the heart of what they do and want to get women’s experiences understood by the government.\"- Yogi, a young woman involved in their work.",
+  "summaryDescription": "Young Women’s Trust offers support to young women aged 18 to 30, who are living on low or no pay and want to build a better future. They campaign for young women’s equality in the workplace and their research examines what young women’s lives are really like.",
+  "imageList": [
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-92-6876959792875257969.jpg",
+      "created": "2023-06-26T11:58:01Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-47-17127445911019605630.jpg",
+      "created": "2023-06-26T11:58:01Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/YWT-50-14101705086015361662.jpg",
+      "created": "2023-06-26T11:58:01Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "created": "2023-06-26T11:58:01Z"
+    }
+  ],
+  "crm": "2506405523@2506405019@monday.com",
   "status": "PUBLISHED"
 }
