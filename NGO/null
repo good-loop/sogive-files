@@ -1,21 +1,24 @@
 {
+  "images": "https://media.good-loop.com/uploads/raw/terracycle-boat-6352872261498677191.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Nuestra Tierra Conservation Project",
-  "created": "2023-06-26T11:56:54Z",
+  "displayName": "Terracycle Global Foundation",
+  "created": "2023-06-26T11:56:57Z",
   "suggest": [
-    "Nuestra Tierra Conservation Project",
-    "Nuestra Tierra Conservation Project"
+    "terracycle",
+    "Terracycle Global Foundation"
   ],
-  "url": "https://www.nuestra-tierra.org/",
-  "UNSDG": 15.0,
-  "name": "Nuestra Tierra Conservation Project",
-  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-474427147853752641.png#ccrop:110",
-  "id": "nuestra-tierra-conservation-project",
+  "url": "https://www.terracyclefoundation.org/",
+  "UNSDG": 12.0,
+  "name": "terracycle",
+  "logo": "https://media.good-loop.com/uploads/raw/terracycle-8805284507604640710.png#ccrop:85",
+  "id": "terracycle",
   "category": "environment",
-  "crm": "2506405875@2506405019@monday.com",
+  "summaryDescription": "Our mission is to address the complex challenges of collecting and recycling waste in emerging countries and communities. The TerraCycle Global Foundation engages with local communities in emerging regions to offer collection and recycling platforms for waste, with a special emphasis on preventing plastic pollution from entering our aquatic systems.",
+  "usCharityRegNum": "83-1677129",
+  "crm": "2506405815@2506405019@monday.com",
   "status": "PUBLISHED"
 }
