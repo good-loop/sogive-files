@@ -1,19 +1,21 @@
 {
-  "ukCompanyRegNum": "04474904",
-  "circleCrop": "90.0",
+  "images": "https://media.good-loop.com/uploads/standard/thurgood_marshall_-10064739373520053292.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "International Medical Corps",
-  "created": "2023-06-26T11:55:54Z",
+  "displayName": "Thurgood Marshall College Fund",
+  "created": "2023-04-03T21:58:29Z",
+  "description": "Established in 1987, the Thurgood Marshall College Fund (TMCF) is the nation’s largest organization exclusively representing the Black College Community. TMCF member-schools include the publicly-supported Historically Black Colleges and Universities (HBCUs) and Predominantly Black Institutions (PBIs). Publicly-supported HBCUs enroll over 80% of all students attending HBCUs. Through scholarships, capacity building and research initiatives, innovative programs, and strategic partnerships, TMCF is a vital resource in the K-12 and higher education space. The organization is also a source for top employers seeking top talent for competitive internships and good jobs.",
   "suggest": [
-    "international-medical-corps",
-    "International Medical Corps"
+    "Thurgood Marshall College Fund",
+    "Thurgood Marshall College Fund"
   ],
-  "url": "https://internationalmedicalcorps.org.uk/",
-  "name": "international-medical-corps",
-  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/int__med__corps__logo-14951200879590896979.jpg",
-  "id": "international-medical-corps",
-  "summaryDescription": "International Medical Corps is working to relieve the suffering of those impacted by war, natural disaster and disease by delivering vital healthcare services that focus on training, helping devastated populations return to self-reliance.",
-  "crm": "2640348108@2506405019@monday.com",
+  "url": "https://www.tmcf.org/",
+  "UNSDG": 4.0,
+  "xero": "64d6ae0a-8d86-44a3-8c23-44e4d95c9a58@xero.com",
+  "name": "Thurgood Marshall College Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/download_19-12631027652450681588.png#ccrop:129",
+  "id": "thurgood",
+  "category": "education",
+  "crm": "2640283086@2506405019@monday.com",
   "status": "PUBLISHED"
 }
