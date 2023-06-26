@@ -1,37 +1,23 @@
 {
-  "scotlandCharityRegNum": "SC043084",
-  "images": "https://media.good-loop.com/uploads/raw/UWT-18136980437469878935.jpg",
+  "ukCompanyRegNum": "09389239",
+  "images": "https://media.good-loop.com/uploads/raw/Alder_Hay-13893425102866549608.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Ummah Welfare Trust (Amanat Charity Trust)",
-  "created": "2023-06-26T11:56:45Z",
-  "description": "Ummah Welfare Trust provides support to the most desperate communities around the world by providing financial assistance, emergency relief, construction projects, education, water and sanitation, medical aid, and income generation projects. ",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "amanat-charity-trust",
-      "name": "people (singular: person) supported with financial assistance",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 680000,
-        "value": "68.0",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Alder Hey Children\u0027s Charity",
+  "created": "2023-04-03T21:59:10Z",
+  "description": "Alder Hey Children\u0027s Charity helps keep families together in neonatal care. The new surgical neonatal unit at Alder Hey will give families the best environment in which to thrive, every step of the way.",
   "suggest": [
-    "Amanat Charity Trust",
-    "Ummah Welfare Trust (Amanat Charity Trust)"
+    "alder-hey-",
+    "Alder Hey Children\u0027s Charity"
   ],
-  "url": "https://uwt.org/",
-  "name": "Amanat Charity Trust",
-  "logo": "https://media.good-loop.com/uploads/raw/c922a400-def6-4154-be5a-e0690f52aebe-15809224457083002880.jpeg",
-  "id": "amanat-charity-trust",
-  "englandWalesCharityRegNum": "1000851",
-  "summaryDescription": "Ummah Welfare Trust aims to sustainably support lives and livelihood of the most desperate communities around the world with education, infrastructure and relief. ",
-  "crm": "2602429998@2506405019@monday.com",
+  "url": "https://www.alderheycharity.org/",
+  "UNSDG": 3.0,
+  "xero": "c7b0b71c-3ef6-4dc8-8171-3c6235e2e00c@xero.com",
+  "name": "alder-hey-",
+  "logo": "https://media.good-loop.com/uploads/raw/alderhey-logo-49593635459597152.svg",
+  "id": "alder-hey",
+  "category": "health",
+  "englandWalesCharityRegNum": "1160661",
+  "crm": "2602427653@2506405019@monday.com",
   "status": "PUBLISHED"
 }
