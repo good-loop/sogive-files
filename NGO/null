@@ -1,21 +1,36 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/vivaconagua-10616691129953763740.png",
+  "circleCrop": "65.0",
+  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/ptp-6463648908077869373.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Viva Con Agua",
-  "created": "2023-04-03T21:59:40Z",
-  "suggest": [
-    "conagua",
-    "Viva Con Agua"
+  "created": "2023-06-26T11:59:22Z",
+  "description": "The Prince\u0027s Trust is a charity in the United Kingdom founded in 1976 by Charles, Prince of Wales. They aim to help young people aged 11 to 30 who are unemployed and those at risk of unemployment because they have struggled at school. They want to bring young people together from different backgrounds, cultures and faiths, so that they can make a positive difference in their communities. The Prince\u0027s Trust provides practical support, enabling young people to overcome their problems and get their lives on track. This is done by delivering programmes and basic financial support, which help young people to develop the confidence and skills they need to get a job or start a business.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "prince-s-trust",
+      "name": "young people supported",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 9458390,
+        "value": "945.839010585892409342000"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://www.vivaconagua.org/en/",
-  "UNSDG": 6.0,
-  "xero": "679467b2-8ac7-4681-8070-00c113a324e2@xero.com",
-  "name": "conagua",
-  "logo": "https://media.good-loop.com/uploads/raw/viva-con-agua-logo-334538360323765504.png#ccrop:_ccrop:_ccrop:90",
-  "id": "conagua",
-  "category": "environment",
-  "summaryDescription": "Viva con aqua supports clean drinking water worldwide through the motto of \"Water for All - All for Water\". Viva con aqua supports water, sanitation and hygiene projects (WASH) with local and international partner organizations and together, they have already been able to reach over 3 million people. Our Levi Strauss \u0026 Co. team in Germany has partnered with Viva con Aqua in the past few years to raise awareness supporting the cause through various initiatives presented to the Levi’s fans.",
-  "crm": "2506405347@2506405019@monday.com",
+  "suggest": [
+    "Prince\u0027s Trust"
+  ],
+  "url": "https://www.princes-trust.org.uk/",
+  "UNSDG": 8.0,
+  "name": "Prince\u0027s Trust",
+  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-The__Princes__Trust.svg-14504134976233229155.png",
+  "id": "prince-s-trust",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1079675",
+  "summaryDescription": "The Prince\u0027s Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training.",
+  "crm": "2506405343@2506405019@monday.com",
   "status": "PUBLISHED"
 }
