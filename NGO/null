@@ -1,39 +1,23 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/1__2hO4ZJvYY9xrCUqcIfsZoQ-7957036313561483287.jpeg",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Cancer Research UK",
-  "created": "2023-06-26T11:57:03Z",
-  "description": "Cancer Research UK is a charity funding cancer research in England, Wales and Scotland as well as worldwide with a vision to cure all forms of cancer. They have a history going back over 100 years and aim to increase 10-year cancer survival rates from 50% in 2010 to 75% by 2030. They also provide information about cancer to the general public and influence health policy through campaigning.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "cancer-research-uk",
-      "name": "years (singular: year) of life saved",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 16000000,
-        "value": "1600.0",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "No Kid Hungry",
+  "created": "2023-06-26T11:56:18Z",
+  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
   "suggest": [
-    "Cancer research UK",
-    "Cancer Research UK"
+    "No Kid Hungry",
+    "No Kid Hungry"
   ],
-  "url": "https://www.cancerresearchuk.org/",
-  "UNSDG": 3.0,
-  "name": "Cancer research UK",
-  "logo": "https://media.good-loop.com/uploads/standard/cancer-research-uk-logo-vector-9875106092719643323.png#ccrop:90",
-  "lastModified": "2020-10-15T16:42:17Z",
-  "id": "cancer-research-uk",
-  "category": "health",
-  "englandWalesCharityRegNum": "1089464",
-  "summaryDescription": "Cancer Research UK is the largest funder of cancer research in the UK and among the top funders of such research worldwide.",
-  "crm": "2506405748@2506405019@monday.com",
+  "url": "https://www.nokidhungry.org/",
+  "UNSDG": 2.0,
+  "name": "No Kid Hungry",
+  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
+  "lastModified": "2020-10-12T12:07:04Z",
+  "id": "no-kid-hungry",
+  "category": "human services",
+  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
+  "usCharityRegNum": "52-1367538",
+  "crm": "2506405725@2506405019@monday.com",
   "status": "PUBLISHED"
 }
