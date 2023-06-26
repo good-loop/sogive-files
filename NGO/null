@@ -1,24 +1,18 @@
 {
-  "scotlandCharityRegNum": "SC037554",
-  "images": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/parkinsons-640x422-7364440436289532497.png",
+  "images": "https://media.good-loop.com/uploads/raw/abae-1920301059708066881.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Parkinson\u0027s UK",
-  "created": "2023-06-26T11:56:00Z",
-  "description": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning. They operate across the UK and believe a cure will be found by overcoming the symptoms of Parkinson\u0027s one by one.",
+  "created": "2023-06-26T11:56:03Z",
   "suggest": [
-    "Parkinson\u0027s Disease Society Of The United Kingdom",
-    "Parkinson\u0027s UK"
+    "abae"
   ],
-  "url": "https://www.parkinsons.org.uk",
-  "UNSDG": 3.0,
-  "name": "Parkinson\u0027s Disease Society Of The United Kingdom",
-  "logo": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/logo-9840701543890193685.png",
-  "lastModified": "2020-08-31T12:41:42Z",
-  "id": "parkinson-s-disease-society-of-the-united-kingdom",
-  "category": "health",
-  "englandWalesCharityRegNum": "258197",
-  "summaryDescription": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning.",
-  "crm": "2640254028@2506405019@monday.com",
+  "url": "https://abae.pt/",
+  "UNSDG": 13.0,
+  "name": "abae",
+  "logo": "https://media.good-loop.com/uploads/raw/logo_abae-2654280752796109621.jpeg",
+  "id": "abae",
+  "category": "environment",
+  "summaryDescription": "A Associação Bandeira Azul da Europa (ABAE) é uma Organização não Governamental de Ambiente (ONGA), sem fins lucrativos, dedicada à Educação para o Desenvolvimento Sustentável e à gestão e reconhecimento de boas práticas ambientais.\nA ABAE faz parte da Fundação para a Educação Ambiental (FEE), a qual agrupa entidades internacionais que, em conjunto promovem actividades de Educação Ambiental para a Sustentabilidade, oriundas de mais de 60 países.",
+  "crm": "2640224612@2506405019@monday.com",
   "status": "PUBLISHED"
 }
