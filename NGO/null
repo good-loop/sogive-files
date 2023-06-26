@@ -1,23 +1,19 @@
 {
-  "scotlandCharityRegNum": "SC041981",
-  "circleCrop": "95.0",
+  "circleCrop": "99.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Movember Foundation",
-  "created": "2023-06-26T11:57:40Z",
+  "created": "2023-06-26T11:57:43Z",
   "suggest": [
-    "Movember Europe",
-    "Movember Foundation"
+    "denis-miki-foundation"
   ],
-  "url": "https://uk.movember.com/?home",
-  "UNSDG": 3.0,
-  "name": "Movember Europe",
-  "logo": "https://as.good-loop.com/vert/movember_logo.png",
-  "logo_white": "https://as.good-loop.com/vert/movember_logo_white.png",
-  "id": "movember-europe",
-  "category": "health",
-  "englandWalesCharityRegNum": "1137948",
-  "summaryDescription": "Movember are the leading charity changing the face of men’s health.\n\nMental health and suicide prevention, prostate cancer and testicular cancer - Movember are taking them all on.",
-  "crm": "2506405587@2506405019@monday.com",
+  "url": "https://denismikifoundation.org/",
+  "UNSDG": 1.0,
+  "name": "denis-miki-foundation",
+  "logo": "https://media.good-loop.com/uploads/raw/DMF_logo-17162435344730161651.jpg",
+  "id": "denis-miki-foundation",
+  "category": "community development",
+  "subcategory": "Housing and Neighborhood Development",
+  "summaryDescription": "Denis Miki Foundation (DMF) was formed out of the need to meet the challenges of the impact of the economic crisis and unemployment which greatly affects Cameroon as a country.",
+  "crm": "2506405581@2506405019@monday.com",
   "status": "PUBLISHED"
 }
