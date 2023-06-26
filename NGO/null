@@ -1,24 +1,17 @@
 {
-  "scotlandCharityRegNum": "SC046788",
-  "images": "https://media.good-loop.com/uploads/raw/600x200-3727022380717813771.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#88aa55",
   "@type": "NGO",
-  "displayName": "Project Seagrass",
-  "created": "2023-06-26T11:55:42Z",
+  "displayName": "Native Forest Restoration Trust",
+  "created": "2023-04-03T21:58:01Z",
   "suggest": [
-    "Project Seagrass",
-    "Project Seagrass"
+    "Native Forest Restoration Trust"
   ],
-  "url": "https://www.projectseagrass.org/",
-  "UNSDG": 14.0,
-  "name": "Project Seagrass",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-dark-15239524310837345482.png#ccrop:90",
-  "logo_white": "https://www.projectseagrass.org/wp-content/uploads/2020/04/white-logo-300x120.png",
-  "id": "project-seagrass",
+  "url": "https://www.nfrt.org.nz/",
+  "UNSDG": 15.0,
+  "xero": "c736a3de-3ce6-40a2-847c-dd525e01cb61@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/nfrtlogo__sidetypo__01-5784420233606838695.png#ccrop:90",
+  "id": "native-forest-restoration-trust",
   "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "englandWalesCharityRegNum": "1162824",
-  "crm": "2641587017@2506405019@monday.com",
+  "crm": "2641578516@2506405019@monday.com",
   "status": "PUBLISHED"
 }
