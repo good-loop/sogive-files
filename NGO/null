@@ -1,18 +1,20 @@
 {
+  "ukCompanyRegNum": "3031098",
+  "circleCrop": "90.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:09Z",
-  "description": "For nearly 60 years, WWF has worked to help people and nature thrive.\nAs the world’s leading conservation organization, WWF works in more than 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.",
+  "displayName": "The Mix",
+  "created": "2023-06-26T11:56:12Z",
+  "description": "The Mix is here to take on the embarrassing problems, weird questions, and please-don’t-make-me-say-it-out-loud thoughts that people under 25 have in order to give them the best support through our digital and phone services.",
   "suggest": [
-    "turtle-nest-mapping"
+    "Youthnet",
+    "The Mix"
   ],
-  "url": "https://www.worldwildlife.org/",
-  "UNSDG": 15.0,
-  "name": "turtle-nest-mapping",
-  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/TurtleNestMapping-18177864296343292029.png",
-  "lastModified": "2020-08-31T01:14:43Z",
-  "id": "turtle-nest-mapping",
-  "summaryDescription": "Our mission is to conserve nature and reduce the most pressing threats to the diversity of life on Earth.",
-  "crm": "2640212544@2506405019@monday.com",
+  "url": "https://themix.org.uk",
+  "name": "Youthnet",
+  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/TheMix__logo-11474155643739291607.png",
+  "id": "youthnet",
+  "englandWalesCharityRegNum": "01048995",
+  "crm": "2602491537@2506405019@monday.com",
   "status": "PUBLISHED"
 }
