@@ -1,16 +1,36 @@
 {
+  "images": "",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Brook Advisory",
-  "created": "2023-06-26T11:57:15Z",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_1-10946059868341228115.png#ccrop:90",
-  "id": "brook",
-  "suggest": [
-    "Brook Advisory"
+  "displayName": "The British Red Cross",
+  "created": "2023-06-26T11:57:18Z",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "the-british-red-cross-society",
+      "name": "Individuals (singular: individual) provided with first aid and crisis education",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1215710,
+        "value": "121.571072319201999000000"
+      },
+      "n": 1.0
+    }
   ],
-  "category": "human services",
-  "url": "https://www.brook.org.uk/",
-  "crm": "2506405676@2506405019@monday.com",
+  "suggest": [
+    "The British Red Cross Society",
+    "The British Red Cross"
+  ],
+  "url": "https://www.redcross.org.uk/",
   "UNSDG": 3.0,
+  "name": "The British Red Cross Society",
+  "logo": "https://media.good-loop.com/uploads/raw/british-red-cross-6761924690720045747.jpeg",
+  "id": "the-british-red-cross-society",
+  "category": "human services",
+  "englandWalesCharityRegNum": "220949",
+  "summaryDescription": "The British Red Cross Society is the United Kingdom body of the Red Cross, an international volunteer network dedicated to helping people prepare for, deal with and recover from crises (such as accidents or natural disasters).",
+  "crm": "2506405652@2506405019@monday.com",
   "status": "PUBLISHED"
 }
