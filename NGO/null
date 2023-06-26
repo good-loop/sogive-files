@@ -1,24 +1,20 @@
 {
-  "scotlandCharityRegNum": "SC039280",
-  "images": "https://app.sogive.org/uploads/2205928196130096facebook/Preterm_baby-5503705973416699322.jpeg",
+  "images": "https://media.good-loop.com/uploads/raw/Green_kayak-8752531797496940148.png",
   "@class": "com.goodloop.data.NGO",
-  "color": "#91004b",
   "@type": "NGO",
-  "displayName": "Tommys",
-  "created": "2023-06-26T12:01:01Z",
-  "description": "Areas of work include:\n- 4 research centres\n- Centres also have clinics providing antenatal care for women who are at high risk of having miscarriage, stillbirth and premature birth\n- Free evidence-based pregnancy information service",
+  "displayName": "Green Kayak",
+  "created": "2023-06-26T12:01:04Z",
+  "description": "GreenKayak is an environmental NGO that engages volunteers in the fight against environmental pollution while kayaking. \n\nWe offer everyone to jump aboard a GreenKayak and paddle for free under two simple conditions:\n\n* Spend your time on the water collecting waste.\n* Share this experience on your social media using #GreenKayak.\n\nSince 2017, tens of thousands of people have paddled our stable double-sit-on-top GreenKayaks in the harbors, rivers, and lakes of five European countries, and collected more than 42 tons of trash. Think about how big a plastic bag is and how much it weighs, now imagine the pile of waste collected - it’s a waste-mountain!",
   "suggest": [
-    "Tommy\u0027s",
-    "Tommys"
+    "green-kayak",
+    "Green Kayak"
   ],
-  "url": "https://www.tommys.org",
-  "UNSDG": 3.0,
-  "name": "Tommy\u0027s",
-  "logo": "https://media.good-loop.com/uploads/standard/tommys_logo.png",
-  "logo_white": "https://as.good-loop.com/vert/tommys_logo_white.png",
-  "id": "tommy-s",
-  "category": "health",
-  "summaryDescription": "Funding research into stillbirth, premature birth and miscarriage, and providing information for parents-to-be.",
-  "crm": "2506405069@2506405019@monday.com",
+  "url": "https://www.greenkayak.org/",
+  "UNSDG": 15.0,
+  "name": "green-kayak",
+  "logo": "https://media.good-loop.com/uploads/raw/8x8cm__grn__kvadrat-5417436745893775411.jpg",
+  "id": "green-kayak",
+  "category": "environment",
+  "crm": "2506405068@2506405019@monday.com",
   "status": "PUBLISHED"
 }
