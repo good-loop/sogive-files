@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Ibs Network",
   "name": "ibs network",
-  "logo": "https://media.good-loop.com/uploads/standard/pngwing.com-17920950373783099158.png",
+  "logo": "https://media.good-loop.com/uploads/standard/ibs-logo-3717397001232874669.png",
   "id": "ibs",
   "suggest": [
     "ibs network",
     "Ibs Network"
   ],
   "url": "https://www.theibsnetwork.org/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
