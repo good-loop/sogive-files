@@ -1,22 +1,25 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
+  "circleCrop": "110.0",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Amnesty__fellgood-10410803962049040907.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Help Musicians UK",
-  "created": "2023-04-03T22:03:31Z",
-  "description": "For 100 years, Help Musicians has been providing help, support and opportunities to empower musicians at all stages of their lives.\n\nWe’re an independent charity which aims to make a meaningful difference to the lives of musicians, offering a wide spectrum of support which includes: Health \u0026 Welfare services, Creative development funding, ground-breaking research, a mental health helpline for the entire music industry and an incredibly popular hearing health scheme which aims to prevent hearing problems that would otherwise bring musicians’ careers to an untimely end.",
+  "created": "2023-06-26T11:58:28Z",
+  "description": "",
   "suggest": [
-    "Help Musicians UK"
+    "Amnesty International"
   ],
-  "url": "https://www.helpmusicians.org.uk/",
-  "UNSDG": 8.0,
-  "xero": "c996a969-b528-4b65-867a-8dfe48665e2e@xero.com",
-  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
-  "id": "help-musicians",
-  "category": "arts culture humanities",
-  "subcategory": "Performing Arts",
-  "englandWalesCharityRegNum": "228089",
-  "summaryDescription": "",
-  "crm": "2506405474@2506405019@monday.com",
+  "url": "https://www.amnesty.org/en/",
+  "UNSDG": 16.0,
+  "name": "Amnesty International",
+  "logo": "https://media.good-loop.com/uploads/standard/Amnesty-International-Logo-500x314-5736832719967591732.jpeg",
+  "lastModified": "2020-10-02T13:34:04Z",
+  "id": "amnesty-international",
+  "category": "human services",
+  "englandWalesCharityRegNum": "294230",
+  "summaryDescription": "Amnesty International is a global movement of more than 10 million people in over 150 countries and territories who campaign to end abuses of human rights.",
+  "crm": "2506405468@2506405019@monday.com",
   "status": "PUBLISHED"
 }
