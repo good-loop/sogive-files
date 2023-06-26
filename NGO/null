@@ -1,20 +1,15 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/connie-1-18442442946391275680.jpeg",
+  "images": "",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "(RED)",
-  "created": "2023-06-26T11:58:37Z",
-  "description": "(RED) partners with the world’s greatest brands to create (RED) products and experiences-all of which raise money for the Global Fund, one of the world’s largest funders for global health. Every action you take with (RED) helps save lives.\n\nThe money raised by (RED)’s partners and campaigns goes directly to strengthen health systems and support life-saving programs in the communities where pandemics hit hardest.",
+  "created": "2023-06-26T11:58:40Z",
+  "name": "ALZHEIMER SCOTLAND ACTION ON DEMENTIA",
+  "id": "alzheimer-scotland-action-on-dementia",
   "suggest": [
-    "",
-    "(RED)"
+    "ALZHEIMER SCOTLAND ACTION ON DEMENTIA"
   ],
-  "url": "https://www.red.org/",
-  "UNSDG": 3.0,
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/REDLogo-Red-10813027973538416933.png#ccrop:80",
-  "id": "red",
-  "category": "human services",
-  "crm": "2506405451@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "category": "health",
+  "url": "https://www.alzscot.org/",
+  "crm": "2506405449@2506405019@monday.com",
+  "UNSDG": 3.0
 }
