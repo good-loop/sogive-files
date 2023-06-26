@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "ibs",
+  "name": "ibs network",
   "id": "ibs",
   "suggest": [
-    "ibs"
+    "ibs network"
   ],
   "status": "DRAFT"
 }
