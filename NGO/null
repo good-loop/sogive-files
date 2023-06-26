@@ -1,18 +1,22 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "scotlandCharityRegNum": "SC040717",
+  "images": "https://media.good-loop.com/uploads/raw/RMHC-14928393044846403491.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Women Win",
-  "created": "2023-06-26T12:00:52Z",
-  "logo": "https://media.good-loop.com/uploads/standard/womenwin-logo-7124322235539057839.svg#ccrop:85",
-  "id": "women-win",
+  "displayName": "Ronald McDonald House Charities",
+  "created": "2023-06-26T12:00:55Z",
   "suggest": [
-    "Women Win"
+    "rmhc",
+    "Ronald McDonald House Charities"
   ],
-  "url": "https://www.womenwin.org/",
-  "crm": "2506405076@2506405019@monday.com",
-  "UNSDG": 5.0,
+  "url": "https://rmhc.org.uk/",
+  "UNSDG": 3.0,
+  "name": "rmhc",
+  "logo": "https://media.good-loop.com/uploads/raw/Vertical_without_tagline-5893606775664770653.jpg",
+  "id": "rmhc",
+  "category": "human services",
+  "englandWalesCharityRegNum": "802047",
+  "summaryDescription": "The best medical care for your child isn’t always close to home. Families often find themselves travelling long distances to get to their child’s hospital. Our Houses offer a place to cook, rest and recharge so that families can support their child in hospital, for as long as they need.",
+  "crm": "2506405072@2506405019@monday.com",
   "status": "PUBLISHED"
 }
