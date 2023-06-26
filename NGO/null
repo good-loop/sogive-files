@@ -1,25 +1,24 @@
 {
-  "circleCrop": "110.0",
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Amnesty__fellgood-10410803962049040907.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "ukCompanyRegNum": "8186281",
+  "circleCrop": "95.0",
+  "images": "http://www.helenbamber.org/wp-content/uploads/2011/09/referrals-300x192.jpg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#495da3",
   "@type": "NGO",
-  "created": "2023-06-26T11:58:28Z",
-  "description": "",
+  "displayName": "Helen Bamber Foundation",
+  "created": "2023-06-26T11:58:31Z",
   "suggest": [
-    "Amnesty International"
+    "helenbamber",
+    "Helen Bamber Foundation"
   ],
-  "url": "https://www.amnesty.org/en/",
-  "UNSDG": 16.0,
-  "name": "Amnesty International",
-  "logo": "https://media.good-loop.com/uploads/standard/Amnesty-International-Logo-500x314-5736832719967591732.jpeg",
-  "lastModified": "2020-10-02T13:34:04Z",
-  "id": "amnesty-international",
+  "url": "http://www.helenbamber.org/",
+  "UNSDG": 3.0,
+  "name": "helenbamber",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/Logo__HelenBamber.scaled.500w-433012525190062809.png",
+  "id": "helenbamber",
   "category": "human services",
-  "englandWalesCharityRegNum": "294230",
-  "summaryDescription": "Amnesty International is a global movement of more than 10 million people in over 150 countries and territories who campaign to end abuses of human rights.",
-  "crm": "2506405468@2506405019@monday.com",
+  "englandWalesCharityRegNum": "1149652",
+  "summaryDescription": "The Helen Bamber Foundation helps asylum seekers and refugees who have survived extreme violence and abuse achieve sustained recovery.",
+  "crm": "2506405458@2506405019@monday.com",
   "status": "PUBLISHED"
 }
