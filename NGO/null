@@ -1,22 +1,25 @@
 {
-  "circleCrop": "85.0",
-  "images": "https://media.good-loop.com/uploads/standard/img-sfondo-800x417-10870691381098208389.png",
+  "images": "https://media.good-loop.com/uploads/raw/WasteAid__ROLE-Foundation__Waste-management-training-12-5-2021-Bali__Indonesia__2021-scaled-15543595016975081259.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Arché",
-  "created": "2023-06-19T12:39:23Z",
-  "description": "Arché welcome mothers and children with problems related to maltreatment, immigration, social and psychological distress into our communities and we help them to redesign a better future.\n\nArché has in its mission the vocation to welcome. In difference, in difficulty, in illness but also in hope, acceptance means finding a common ground of dialogue and mutual trust in everyday life. It means being there, so that the journey is less tiring. For Arché, hospitality does not mean creating addiction but giving awareness every day of the possibility of a better life.",
+  "displayName": "Waste Aid",
+  "created": "2023-06-26T11:59:16Z",
   "suggest": [
-    "fondazione-arche",
-    "Arché"
+    "Waste Aid",
+    "Waste Aid"
   ],
-  "url": "https://arche.it/",
-  "UNSDG": 8.0,
-  "xero": "884d0133-34c6-4c83-9dbb-e222c99f104f",
-  "name": "fondazione-arche",
-  "logo": "https://media.good-loop.com/uploads/standard/Arche_Logo-14981663702342393724.png",
-  "id": "fondazione-arche",
-  "category": "arts culture humanities",
-  "crm": "2506405373@2506405019@monday.com",
+  "url": "https://wasteaid.org/",
+  "UNSDG": 12.0,
+  "name": "Waste Aid",
+  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
+  "id": "wasteaid",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "englandWalesCharityRegNum": "1160263",
+  "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
+  "crm": "2506405366@2506405019@monday.com",
   "status": "PUBLISHED"
 }
