@@ -1,39 +1,28 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Centrepoint__feelgood-5344638632925428133.png",
+  "images": "",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
+  "color": "#7cc242",
   "@type": "NGO",
-  "displayName": "Centrepoint",
-  "created": "2023-06-26T11:59:47Z",
-  "description": "Centrepoint provides homeless young people with accommodation, health support and life skills in order to get them back into education, training and employment. Centrepoint is the UK\u0027s leading youth homelessness charity - together with their partners, they support over 14,000 young people every year.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "centrepoint-soho",
-      "name": "people (singular: person) in supported housing",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 102505119,
-        "value": "10250.5119453924914317000"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Fare Share",
+  "created": "2023-06-26T11:59:51Z",
+  "altlogo": "https://media.good-loop.com/uploads/standard/fareshare__white__logo-39845383255233697.png",
   "suggest": [
-    "Centrepoint Soho",
-    "Centrepoint"
+    "",
+    "Fare Share"
   ],
-  "url": "https://centrepoint.org.uk/",
-  "UNSDG": 3.0,
-  "name": "Centrepoint Soho",
-  "logo": "https://media.good-loop.com/uploads/standard/a0b85c53c680fceeec79d7ca9377202d8d15e9c2-2104239180289271690.png#ccrop:95",
-  "logo_white": "https://as.good-loop.com/uploads/anon/centrepoint__400x400-7412698800116786485.jpg",
-  "lastModified": "2020-12-08T13:56:36Z",
-  "id": "centrepoint-soho",
+  "url": "https://fareshare.org.uk/",
+  "UNSDG": 2.0,
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/FairShare__logo-16666307329547344972.png",
+  "logo_white": "https://as.good-loop.com/vert/fareshare_logo_white.png",
+  "lastModified": "2020-10-28T13:23:18Z",
+  "id": "fareshare",
   "category": "human services",
-  "englandWalesCharityRegNum": "292411",
-  "summaryDescription": "Centrepoint Soho works to give homeless young people a future, regardless of their background or start in life. ",
-  "crm": "2506405268@2506405019@monday.com",
+  "subcategory": "Food Banks and Food Distribution",
+  "englandWalesCharityRegNum": "1100051",
+  "crm": "2506405266@2506405019@monday.com",
   "status": "PUBLISHED"
 }
