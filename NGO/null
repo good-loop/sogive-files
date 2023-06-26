@@ -1,43 +1,24 @@
 {
-  "scotlandCharityRegNum": "SC039426",
-  "images": "https://media.good-loop.com/uploads/raw/bhf-3571690302142809668.jpeg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "ukCompanyRegNum": "1048995",
+  "circleCrop": "75.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "British Heart Foundation (BHF)",
-  "created": "2023-06-26T11:56:33Z",
-  "description": "The research funded by the British Heart Foundation covers a broad range of heart and cardiovascular conditions, including heart attacks, angina and coronary heart disease, high blood pressure, stroke and diabetes. A sizable minority of BHF\u0027s work is on preventative work such as providing training on CPR in schools, community groups and workplaces, and also making defibrillators more widely available. BHF has also identified a link between exposure to air pollution and risk of stroke and circulatory disease. BHF furthermore has one of the largest networks of charity shops.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "british-heart-foundation",
-      "name": "year(s) of healthy life gained",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 17000000,
-        "value": "1700.0",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Americares",
+  "created": "2023-06-26T11:56:36Z",
+  "description": "Americares saves lives and improves health for people affected by poverty or disaster so they can reach their full potential. \nSince their founding in 1979, Americares has delivered more than $17 billion in quality medical aid and innovative health programs to 164 countries, including the U.S.",
   "suggest": [
-    "British Heart Foundation",
-    "British Heart Foundation (BHF)"
+    "Americares",
+    "Americares"
   ],
-  "url": "https://www.bhf.org.uk/",
+  "url": "https://www.americares.org/",
   "UNSDG": 3.0,
-  "name": "British Heart Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-9807891336815029518.png#ccrop:80",
-  "lastModified": "2020-10-16T12:56:38Z",
-  "id": "british-heart-foundation",
+  "name": "Americares",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/americares-4096553405448195934.png",
+  "lastModified": "2020-12-08T13:19:59Z",
+  "id": "americares",
   "category": "health",
-  "englandWalesCharityRegNum": "225971",
-  "summaryDescription": "BHF fights heart and circulatory disease primarily through research, but also through education, such as training on CPR.",
-  "crm": "2602433705@2506405019@monday.com",
+  "summaryDescription": "Americares saves lives and improves health for people affected by poverty or disaster so they can reach their full potential. ",
+  "usCharityRegNum": "061008595",
+  "crm": "2602430934@2506405019@monday.com",
   "status": "PUBLISHED"
 }
