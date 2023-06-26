@@ -1,23 +1,20 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Good__Loop__x__GA__image-8712433093212477949.png",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/raw/earthwatch-767-460-17707272222594659351.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Greening Australia",
-  "created": "2023-06-26T12:00:40Z",
-  "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
+  "displayName": "Earthwatch",
+  "created": "2023-06-26T12:00:43Z",
   "suggest": [
-    "Greening Australia",
-    "Greening Australia"
+    "earth-watch",
+    "Earthwatch"
   ],
-  "url": "https://www.greeningaustralia.org.au",
-  "UNSDG": 15.0,
-  "name": "Greening Australia",
-  "logo": "https://media.good-loop.com/uploads/standard/GreeningAustralia__Logo__Stacked__2-17388514846648614936.png#ccrop:90",
-  "id": "greening-australia",
+  "url": "https://earthwatch.org/",
+  "UNSDG": 13.0,
+  "name": "earth-watch",
+  "logo": "https://media.good-loop.com/uploads/standard/download_4-3655054388239998979.jpg#ccrop:90",
+  "id": "earth-watch",
   "category": "environment",
-  "crm": "2506405101@2506405019@monday.com",
+  "summaryDescription": "Earthwatch is a worldwide non-profit organization unlocking the potential in people and the environment. Since 1971, Earthwatch has connected volunteers and partners with scientists undertaking vital field research around the globe.",
+  "crm": "2506405100@2506405019@monday.com",
   "status": "PUBLISHED"
 }
