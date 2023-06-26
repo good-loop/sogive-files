@@ -1,26 +1,21 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/farm-grow-2-copy-17942272920391749111.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "circleCrop": "105.0",
+  "images": "https://media.good-loop.com/uploads/raw/Waterorg-153844004730746517.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Rainforest Alliance",
-  "created": "2023-06-26T11:59:01Z",
-  "description": "The Rainforest Alliance is an international non-profit organisation working at the intersection of business, agriculture, and forests to make responsible business the new normal. They are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
+  "displayName": "Water.org",
+  "created": "2023-06-26T11:59:04Z",
+  "description": "Water.org is a global nonprofit organization working to bring water and sanitation to the world. We want to make it safe, accessible, and cost-effective.\n\nWe help people get access to safe water and sanitation through affordable financing, such as small loans. We give our everything every day to empower people in need with these life-changing resources - giving women hope, children health and families a bright future.",
   "suggest": [
-    "",
-    "Rainforest Alliance"
+    "Water.org",
+    "Water.org"
   ],
-  "url": "https://www.rainforest-alliance.org/",
-  "UNSDG": 13.0,
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/raw/rainforest____logo____2020-15107753302741255120-15989915227519125030.png#ccrop:90",
-  "id": "rainforest-alliance",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "summaryDescription": "The Rainforest Alliance is an international non-profit organization working at the intersection of business, agriculture, and forests to make responsible business the new normal. We are building an alliance to protect forests, improve the livelihoods of farmers and forest communities, promote their human rights, and help them mitigate and adapt to the climate crisis.",
-  "usCharityRegNum": " 13-3377893",
-  "crm": "2506405408@2506405019@monday.com",
+  "url": "https://water.org/",
+  "UNSDG": 6.0,
+  "name": "Water.org",
+  "logo": "https://media.good-loop.com/uploads/standard/Waterorg__Resources__Logo-RV.original-10437064506712624654.jpg#ccrop:145",
+  "id": "water-org",
+  "category": "community development",
+  "crm": "2506405386@2506405019@monday.com",
   "status": "PUBLISHED"
 }
