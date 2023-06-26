@@ -1,16 +1,25 @@
 {
+  "scotlandCharityRegNum": "SC043677",
+  "ukCompanyRegNum": "3663181 ",
+  "circleCrop": "93.0",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/unicef_uk_cover-14979283266506777897.jpg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#00adef",
   "@type": "NGO",
-  "displayName": "Emma\u0027s Torch",
-  "created": "2023-06-26T12:00:19Z",
-  "logo": "https://media.good-loop.com/uploads/standard/emmas-torch-white-201571087891200974.svg",
-  "id": "emmas-torch",
+  "created": "2023-06-26T12:00:22Z",
+  "description": "Unicef UK is one of 33 Unicef national organisations based in industrialised countries. Unicef helps to provide children with clean water, life-saving food and vaccines, as well as education and protection from violence and exploitation. This includes, for example, working to change government policies and practices that are harmful to child rights in the UK and internationally. The UK organisation is a registered charity that raises funds for Unicef’s emergency and development work around the world and advocates for lasting change for children worldwide. ",
   "suggest": [
-    "Emma\u0027s Torch"
+    "Unicef UK"
   ],
-  "category": "community",
-  "url": "https://emmastorch.org/",
-  "crm": "2506405183@2506405019@monday.com",
-  "UNSDG": 8.0,
+  "url": "https://www.unicef.org.uk/",
+  "UNSDG": 16.0,
+  "name": "Unicef UK",
+  "logo": "https://media.good-loop.com/uploads/standard/UNICEF-logo-13265941851299519765.png#ccrop:85",
+  "lastModified": "2020-11-13T14:24:06Z",
+  "id": "unicef-uk",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1072612",
+  "summaryDescription": "Unicef UK works to improve outcomes for children, both in the UK and internationally. ",
+  "crm": "2506405164@2506405019@monday.com",
   "status": "PUBLISHED"
 }
