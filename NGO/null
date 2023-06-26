@@ -1,21 +1,19 @@
 {
-  "circleCrop": "105.0",
-  "images": "https://media.good-loop.com/uploads/raw/Waterorg-153844004730746517.jpeg",
+  "images": "https://media.good-loop.com/uploads/raw/quercus-96557743234875001.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Water.org",
-  "created": "2023-06-26T11:59:04Z",
-  "description": "Water.org is a global nonprofit organization working to bring water and sanitation to the world. We want to make it safe, accessible, and cost-effective.\n\nWe help people get access to safe water and sanitation through affordable financing, such as small loans. We give our everything every day to empower people in need with these life-changing resources - giving women hope, children health and families a bright future.",
+  "created": "2023-06-19T12:37:40Z",
   "suggest": [
-    "Water.org",
-    "Water.org"
+    "quercus"
   ],
-  "url": "https://water.org/",
-  "UNSDG": 6.0,
-  "name": "Water.org",
-  "logo": "https://media.good-loop.com/uploads/standard/Waterorg__Resources__Logo-RV.original-10437064506712624654.jpg#ccrop:145",
-  "id": "water-org",
-  "category": "community development",
-  "crm": "2506405386@2506405019@monday.com",
+  "url": "https://www.quercus.pt/",
+  "UNSDG": 11.0,
+  "xero": "68a3d451-b966-43ef-b275-32180e327310",
+  "name": "quercus",
+  "logo": "https://media.good-loop.com/uploads/raw/logo_quercus-10748863882831580244.png",
+  "id": "quercus",
+  "category": "environment",
+  "summaryDescription": "A Quercus é uma Organização Não Governamental de Ambiente (ONGA) portuguesa fundada a 31 de outubro de 1985.\nÉ uma associação independente, apartidária, de âmbito nacional, sem fins lucrativos e constituída por cidadãos que se juntaram em torno do mesmo interesse pela Conservação da Natureza e dos Recursos Naturais e na Defesa do Ambiente em geral, numa perspectiva de desenvolvimento sustentado.",
+  "crm": "2506405378@2506405019@monday.com",
   "status": "PUBLISHED"
 }
