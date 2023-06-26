@@ -1,23 +1,16 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/5f492d137d859002b2324c31__anti-bullying-newsletter-431212238513675589.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#42b59d",
   "@type": "NGO",
-  "displayName": "The Diana Award",
-  "created": "2023-06-26T12:01:10Z",
-  "description": "The Diana Awards\u0027 Anti-Bullying Programme provides resources and support for people who are experiencing bullying behaviour, those who want to support someone who is experiencing bullying behaviour and for people like us, who are passionate about promoting an anti-bullying culture and communities of kindness.",
+  "displayName": "Women In Sport",
+  "created": "2023-04-14T10:50:35Z",
+  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
+  "id": "women-in-sport",
   "suggest": [
-    "The Diana Award",
-    "The Diana Award"
+    "Women In Sport"
   ],
-  "url": "https://diana-award.org.uk/anti-bullying/",
-  "UNSDG": 8.0,
-  "name": "The Diana Award",
-  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2021-09-20_155353-14517508325547122124.png#ccrop:_ccrop:_ccrop:_ccrop:150",
-  "txtColor": "#000000",
-  "id": "the-diana-award",
-  "category": "education",
-  "subcategory": "Youth Education",
-  "crm": "2506405065@2506405019@monday.com",
+  "englandWalesCharityRegNum": "1060267",
+  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
+  "crm": "4309235683@2506405019@monday.com",
+  "UNSDG": 5.0,
   "status": "PUBLISHED"
 }
