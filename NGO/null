@@ -1,18 +1,39 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/0aa383__490ffb7980334a61a4e025b8217265fe__mv2-15362506271546773708.png",
+  "images": "https://media.good-loop.com/uploads/raw/Magic_Breakfast-16375618464311329949.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Heal Rewilding",
-  "created": "2023-04-03T21:58:12Z",
-  "suggest": [
-    "Heal Rewilding"
+  "displayName": "Magic Breakfast",
+  "created": "2023-05-06T01:00:07Z",
+  "description": "Magic Breakfast provides breakfasts for school students in partner schools, including primary and secondary schools, Special Education Needs schools, and Pupil Referral Units across the UK. Magic Breakfast also provides advice to partner schools on breakfast provision and campaigns for government funding of breakfast provision in disadvantaged areas. ",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "magic-breakfast",
+      "name": "Breakfast meal(s) provided",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 4800,
+        "value": "0.48"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://www.healrewilding.org.uk/",
-  "UNSDG": 15.0,
-  "xero": "09131ed3-62fb-44b4-8235-254df128ba67@xero.com",
-  "logo": "https://media.good-loop.com/uploads/standard/cause-logo-5198cce2e62d3d4e9a394ac421efabb8-8951281928131037452.png#ccrop:90",
-  "id": "heal-rewilding",
-  "category": "environment",
-  "crm": "2506405418@2506405019@monday.com",
+  "suggest": [
+    "Magic Breakfast",
+    "Magic Breakfast"
+  ],
+  "url": "https://www.magicbreakfast.com/",
+  "UNSDG": 2.0,
+  "xero": "4550ecb2-ada7-420a-8538-49be2c8b40ca",
+  "name": "Magic Breakfast",
+  "logo": "https://media.good-loop.com/uploads/standard/magic__breakfast__logo-16073117015786421608.jpg#ccrop:105",
+  "lastModified": "2020-10-28T13:35:30Z",
+  "id": "magic-breakfast",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1102510",
+  "summaryDescription": "Magic Breakfast provides breakfasts to vulnerable schoolchildren to alleviate hunger and help reduce this barrier to learning. ",
+  "crm": "2506405411@2506405019@monday.com",
   "status": "PUBLISHED"
 }
