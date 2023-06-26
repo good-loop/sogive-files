@@ -1,26 +1,20 @@
 {
-  "circleCrop": "90.0",
-  "images": "https://media.good-loop.com/uploads/standard/two-people-talking-in-an-office-2-13807590611664442662.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "circleCrop": "97.0",
   "@class": "com.goodloop.data.NGO",
+  "color": "#0a0a0a",
   "@type": "NGO",
-  "displayName": "mind",
-  "created": "2023-06-26T11:57:46Z",
-  "description": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
+  "created": "2023-06-26T11:57:49Z",
+  "description": "At the intersection of transportation and maternal healthcare, Moving Health found a massive gap in emergency care and locally made solutions. Geographically neglected areas often find themselves without any realistic, sustainable form of emergency transportation. Their mission is to fill this gap, by making sure every family is confident that they will be connected to healthcare when they need it most.",
   "suggest": [
-    "mind",
-    "mind"
+    "The-Okoa-Project"
   ],
-  "url": "https://www.mind.org.uk/",
-  "UNSDG": 3.0,
-  "headerImage": "https://media.good-loop.com/uploads/standard/two-people-talking-in-an-office-2-3955822609639736013.jpg",
-  "name": "mind",
-  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg#ccrop:90",
-  "id": "mind",
-  "category": "health",
-  "summaryDescription": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
-  "crm": "2506405570@2506405019@monday.com",
+  "url": "https://www.moving.health/",
+  "UNSDG": 9.0,
+  "name": "The-Okoa-Project",
+  "logo": "https://media.good-loop.com/uploads/raw/color_logo-011-12198423519895942229.png",
+  "id": "the-okoa-project",
+  "category": "human services",
+  "summaryDescription": "Moving Health (Previously: The Okoa Project) connects people to the medical care they need, when they need it most. ",
+  "crm": "2506405553@2506405019@monday.com",
   "status": "PUBLISHED"
 }
