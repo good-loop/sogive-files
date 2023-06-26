@@ -1,36 +1,23 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/challenge-series-900x500-10589319524503565400.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Ambitious About Autism",
-  "created": "2023-06-26T11:54:05Z",
+  "displayName": "No Kid Hungry",
+  "created": "2023-06-26T11:56:18Z",
+  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
   "suggest": [
-    "Ambitious About Autism",
-    "Ambitious About Autism"
+    "No Kid Hungry",
+    "No Kid Hungry"
   ],
-  "url": "https://www.ambitiousaboutautism.org.uk/",
-  "UNSDG": 10.0,
-  "simpleImpact": {
-    "@class": "com.goodloop.data.charity.Impact",
-    "name": "could provide an autistic young person with 1.1 careers support. With only 29% of autistic young people in any kind of employment, providing this support is vital.",
-    "amount": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 200000,
-      "value": "20.0"
-    },
-    "n": 1.0
-  },
-  "headerImage": "https://media.good-loop.com/uploads/standard/challenge-series-900x500-3785499909215557786.jpg",
-  "name": "Ambitious About Autism",
-  "logo": "https://media.good-loop.com/uploads/standard/Ambitious-about-Auitism-logo-8381974465545810377.jpg#ccrop:115",
-  "id": "ambitious-about-autism",
-  "englandWalesCharityRegNum": "1063184",
-  "summaryDescription": "The voices of autistic children and young people are at the heart of everything that we do. We want to help create a world where voices of autistic children and young people are heard, included and supported.",
-  "crm": "3981524690@2506405019@monday.com",
+  "url": "https://www.nokidhungry.org/",
+  "UNSDG": 2.0,
+  "name": "No Kid Hungry",
+  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
+  "lastModified": "2020-10-12T12:07:04Z",
+  "id": "no-kid-hungry",
+  "category": "human services",
+  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
+  "usCharityRegNum": "52-1367538",
+  "crm": "2602471172@2506405019@monday.com",
   "status": "PUBLISHED"
 }
