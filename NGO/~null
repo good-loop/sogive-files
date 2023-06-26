@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Ibs Network",
-  "name": "ibs network",
-  "logo": "https://media.good-loop.com/uploads/standard/ibs-logo-4112350258906443417.png",
-  "id": "ibs",
+  "name": "HBCU Founders Initiative",
+  "id": "hbcu-founders-initiative",
   "suggest": [
-    "ibs network",
-    "Ibs Network"
+    "HBCU Founders Initiative"
   ],
-  "url": "https://www.theibsnetwork.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
