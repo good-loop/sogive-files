@@ -1,16 +1,25 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
+  "images": "https://media.good-loop.com/uploads/raw/1459213__878592504287__1255605911__n__grande-16079779446798351320.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Freedom 4 Girls",
-  "created": "2023-06-26T11:58:43Z",
-  "logo": "https://media.good-loop.com/uploads/standard/Freedom-4-girls-circle-14175763583139389080.png#ccrop:120",
-  "id": "freedom-4-girls",
+  "displayName": "WeForest",
+  "created": "2023-04-03T22:03:21Z",
   "suggest": [
-    "Freedom 4 Girls"
+    "we-forest",
+    "WeForest"
   ],
-  "url": "https://www.freedom4girls.co.uk/",
-  "crm": "2506405448@2506405019@monday.com",
-  "UNSDG": 5.0,
+  "url": "https://www.weforest.org/",
+  "UNSDG": 13.0,
+  "xero": "b7b4f550-c70b-41e6-87b2-95b21acecb32@xero.com",
+  "name": "we-forest",
+  "logo": "https://media.good-loop.com/uploads/standard/we-forest-logo-5523187251370629858.png#ccrop:75",
+  "id": "we-forest",
+  "category": "environment",
+  "subcategory": "Environmental Protection and Conservation",
+  "summaryDescription": "We imagine a world where communities and nations sustainably manage their forests and natural resources for the benefit of our climate, the environment and humanity.",
+  "crm": "2506405442@2506405019@monday.com",
   "status": "PUBLISHED"
 }
