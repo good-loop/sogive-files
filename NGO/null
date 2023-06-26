@@ -1,43 +1,23 @@
 {
-  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/rspca-7149979038407757538.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "circleCrop": "78.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "RSPCA",
-  "created": "2023-06-26T12:00:34Z",
-  "description": "The charity aims to promote kindness and suppress cruelty to animals through education, prevention, and rescue work. The RSPCA works mainly across England and Wales but also has impacts across the world.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "royal-society-for-the-prevention-of-cruelty-to-animals",
-      "name": "welfare incidents (singular: incident) dealt with by the inspectorate",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 3244700,
-        "value": "324.47",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "ChangemakerxChange",
+  "created": "2023-06-26T12:00:37Z",
+  "description": "At the heart of ChangemakerXchange is a community of over 900 changemakers from across the world working on a vast range of social and environmental issues. They join the community via 5-day summits which foster lasting connections, nurture wellbeing, and enable peer-learning and meaningful collaborations. We then provide members with ongoing activities, so that they may create, sustain and scale their positive impact.",
   "suggest": [
-    "Royal Society for the Prevention of Cruelty to Animals",
-    "RSPCA"
+    "changemakerxchange",
+    "ChangemakerxChange"
   ],
-  "url": "https://www.rspca.org.uk/",
-  "UNSDG": 0.0,
-  "name": "Royal Society for the Prevention of Cruelty to Animals",
-  "logo": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/rspca-5804800565146652593.png#ccrop:85",
-  "lastModified": "2020-12-17T03:21:28Z",
-  "id": "royal-society-for-the-prevention-of-cruelty-to-animals",
-  "category": "animals",
-  "subcategory": "Animal Rights, Welfare, and Services",
-  "englandWalesCharityRegNum": "219099",
-  "summaryDescription": "The Royal Society for the Prevention of Cruelty to Animals works to improve welfare for animals.",
-  "crm": "2506405131@2506405019@monday.com",
+  "url": "https://changemakerxchange.org/",
+  "UNSDG": 17.0,
+  "name": "changemakerxchange",
+  "logo": "https://media.good-loop.com/uploads/raw/cxc__logotype-9666639344564619197.png",
+  "id": "changemakerxchange",
+  "category": "human services",
+  "subcategory": "Youth Development",
+  "englandWalesCharityRegNum": "HRB 217457 B",
+  "summaryDescription": "A global community of young social innovators.",
+  "crm": "2506405130@2506405019@monday.com",
   "status": "PUBLISHED"
 }
