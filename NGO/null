@@ -1,20 +1,21 @@
 {
-  "circleCrop": "97.0",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/HubHub-5360316559446859021.png",
   "@class": "com.goodloop.data.NGO",
-  "color": "#0a0a0a",
   "@type": "NGO",
-  "created": "2023-06-26T11:57:49Z",
-  "description": "At the intersection of transportation and maternal healthcare, Moving Health found a massive gap in emergency care and locally made solutions. Geographically neglected areas often find themselves without any realistic, sustainable form of emergency transportation. Their mission is to fill this gap, by making sure every family is confident that they will be connected to healthcare when they need it most.",
+  "displayName": "Hubbub",
+  "created": "2023-06-26T11:57:52Z",
   "suggest": [
-    "The-Okoa-Project"
+    "",
+    "Hubbub"
   ],
-  "url": "https://www.moving.health/",
-  "UNSDG": 9.0,
-  "name": "The-Okoa-Project",
-  "logo": "https://media.good-loop.com/uploads/raw/color_logo-011-12198423519895942229.png",
-  "id": "the-okoa-project",
-  "category": "human services",
-  "summaryDescription": "Moving Health (Previously: The Okoa Project) connects people to the medical care they need, when they need it most. ",
-  "crm": "2506405553@2506405019@monday.com",
+  "url": "https://www.hubbub.org.uk/",
+  "UNSDG": 13.0,
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/Hubbub-18268438176542104305.jpeg#ccrop:85",
+  "id": "hubbub",
+  "category": "environment",
+  "englandWalesCharityRegNum": "1158700",
+  "summaryDescription": "Everything we do at Hubbub aims to inspire ways of living that are good for the environment as well as each of us; it\u0027s our charitable purpose. Since 2014 we\u0027ve been experimenting with ways of doing this, and it\u0027s led us to designing and installing all kinds of playful creative and disruptive campaigns, as well as collaborating with some large and unique partners. ",
+  "crm": "2506405541@2506405019@monday.com",
   "status": "PUBLISHED"
 }
