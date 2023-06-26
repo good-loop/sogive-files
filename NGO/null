@@ -1,20 +1,23 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/united_way-6672435385506092361.jpeg",
+  "circleCrop": "74.0",
+  "images": "https://media.good-loop.com/uploads/raw/Parley_image-11659090260283467418.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "United Way Dallas",
-  "created": "2023-06-26T12:00:13Z",
-  "description": "United Way is engaged in nearly 1,800 communities across more than 40 countries and territories worldwide. As the largest privately-funded nonprofit in the world, we create solutions that build stronger communities. We\u0027re improving education, strengthening financial stability and making communities healthier.",
+  "displayName": "Parley",
+  "created": "2023-06-19T15:24:53Z",
+  "description": "Parley for the Oceans addresses major threats towards our oceans, the most important ecosystem of our planet. \nWe believe the power for change lies in the hands of the consumer - given we all have a choice - and the power to shape this new consumer mindset lies in the hands of the creative industries.",
   "suggest": [
-    "United Way Dallas",
-    "United Way Dallas"
+    "parley",
+    "Parley"
   ],
-  "url": "https://unitedwaydallas.org/",
-  "UNSDG": 10.0,
-  "name": "United Way Dallas",
-  "logo": "https://media.good-loop.com/uploads/standard/UWMD__Logo__For__Print__Use-12461748434047240162.jpg#ccrop:80",
-  "id": "unitedwaydallas",
-  "category": "community",
-  "crm": "2506405205@2506405019@monday.com",
+  "url": "https://www.parley.tv/#fortheoceans",
+  "UNSDG": 14.0,
+  "xero": "5d141a71-602d-4dfa-a4b1-e252d9fd4df6",
+  "name": "parley",
+  "logo": "https://media.good-loop.com/uploads/standard/imageedit__48__4416179951-1409035133766614632.png",
+  "id": "parley",
+  "category": "environment",
+  "usCharityRegNum": "464671330",
+  "crm": "2506405194@2506405019@monday.com",
   "status": "PUBLISHED"
 }
