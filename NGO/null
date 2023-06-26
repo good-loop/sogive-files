@@ -1,16 +1,20 @@
 {
+  "images": "https://media.good-loop.com/uploads/raw/unispourlesport-12884239442929956037.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Challenged Athletes Foundation",
-  "created": "2023-06-26T12:00:00Z",
-  "logo": "https://media.good-loop.com/uploads/standard/challenged-athletes-foundation-white-1891063249741089811.svg",
-  "id": "challenged-athletes-foundation",
+  "displayName": "Unis Pour Le Sport",
+  "created": "2023-06-26T12:00:03Z",
   "suggest": [
-    "Challenged Athletes Foundation"
+    "unis",
+    "Unis Pour Le Sport"
   ],
-  "category": "human services",
-  "url": "https://www.challengedathletes.org/",
-  "crm": "2506405240@2506405019@monday.com",
-  "UNSDG": 10.0,
+  "url": "https://www.unispourlesport.com/",
+  "UNSDG": 4.0,
+  "name": "unis",
+  "logo": "https://media.good-loop.com/uploads/raw/Unis_pur_le_sport-1507208979760378731.png",
+  "id": "unis",
+  "category": "education",
+  "summaryDescription": "Our team of dedicated athletes-coaches help sport enthusiasts of all levels and ages reach their athletics goals. We provide personalized training programs, private lessons and free training guides.",
+  "crm": "2506405227@2506405019@monday.com",
   "status": "PUBLISHED"
 }
