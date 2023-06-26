@@ -1,19 +1,20 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/quercus-96557743234875001.png",
+  "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-19T12:37:40Z",
+  "displayName": "All Stars Project Inc.",
+  "created": "2023-06-26T11:59:10Z",
+  "description": "The All Stars Project is a national nonprofit organization that provides free performing arts and afterschool development programs to underserved youth and their families around the country. Using the developmental power of performance, ASP transforms the lives of youth from poor and underserved communities in partnership with caring adults giving everyone the chance to grow.  ASP’s award-winning programs, celebrating their 40th anniversary this year, bring people from all racial, economic and social walks of life together to create something positive, new and transformative for all involved.",
   "suggest": [
-    "quercus"
+    "",
+    "All Stars Project Inc."
   ],
-  "url": "https://www.quercus.pt/",
-  "UNSDG": 11.0,
-  "xero": "68a3d451-b966-43ef-b275-32180e327310",
-  "name": "quercus",
-  "logo": "https://media.good-loop.com/uploads/raw/logo_quercus-10748863882831580244.png",
-  "id": "quercus",
-  "category": "environment",
-  "summaryDescription": "A Quercus é uma Organização Não Governamental de Ambiente (ONGA) portuguesa fundada a 31 de outubro de 1985.\nÉ uma associação independente, apartidária, de âmbito nacional, sem fins lucrativos e constituída por cidadãos que se juntaram em torno do mesmo interesse pela Conservação da Natureza e dos Recursos Naturais e na Defesa do Ambiente em geral, numa perspectiva de desenvolvimento sustentado.",
-  "crm": "2506405378@2506405019@monday.com",
+  "url": "",
+  "UNSDG": 10.0,
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/ASINC__K3262_illustrator_1-4582890770458554082.svg#ccrop:120",
+  "id": "all-stars-project",
+  "category": "community",
+  "crm": "2506405375@2506405019@monday.com",
   "status": "PUBLISHED"
 }
