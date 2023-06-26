@@ -1,21 +1,37 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
+  "scotlandCharityRegNum": "SC041990",
+  "images": "https://media.good-loop.com/uploads/raw/hero-banner-large2-optim-8628263666478650441.jpg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#e35205",
   "@type": "NGO",
-  "displayName": "No Kid Hungry",
-  "created": "2023-06-26T11:56:18Z",
-  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
-  "suggest": [
-    "No Kid Hungry",
-    "No Kid Hungry"
+  "created": "2023-06-26T11:56:21Z",
+  "description": "The MS Society funds and promotes research to develop new treatments and services for people with MS and to understand the causes of MS. They provide support to people affected by MS, seek to raise awareness and understanding, and improve care and support. ",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "multiple-sclerosis-society",
+      "name": "people (singular: Person) reached through the MS Helpline or a volunteer group",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 2322483,
+        "value": "232.24832214765099417000"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://www.nokidhungry.org/",
-  "name": "No Kid Hungry",
-  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
-  "lastModified": "2020-10-12T12:07:04Z",
-  "id": "no-kid-hungry",
-  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
-  "usCharityRegNum": "52-1367538",
-  "crm": "2602471172@2506405019@monday.com",
+  "suggest": [
+    "Multiple Sclerosis Society"
+  ],
+  "url": "https://www.mssociety.org.uk/",
+  "name": "Multiple Sclerosis Society",
+  "logo": "https://as.good-loop.com/vert/ms_society_logo.png",
+  "logo_white": "https://as.good-loop.com/vert/ms_society_logo_white.png",
+  "lastModified": "2020-11-15T19:59:55Z",
+  "id": "multiple-sclerosis-society",
+  "englandWalesCharityRegNum": "1139257",
+  "summaryDescription": "The MS Society promotes research into treatments for MS and supports people affected by MS.",
+  "crm": "2602462871@2506405019@monday.com",
   "status": "PUBLISHED"
 }
