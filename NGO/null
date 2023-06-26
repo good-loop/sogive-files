@@ -1,25 +1,24 @@
 {
-  "circleCrop": "90.0",
-  "images": "https://media.good-loop.com/uploads/raw/DSCEJ_Impact_Hub-16985794247073907129.jpeg",
+  "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
+  "color": "#0fb2b7",
   "@type": "NGO",
-  "displayName": "DSCEJ",
-  "created": "2023-06-26T11:55:14Z",
-  "description": "The Deep South Center for Environmental Justice is dedicated to improving the lives of children and families harmed by pollution and vulnerable to climate change in the Gulf Coast Region through research, education, community and student engagement for policy change, as well as health and safety training for environmental careers.",
+  "created": "2023-04-03T21:42:23Z",
   "suggest": [
-    "deep-south-centre-for-environmental-justice",
-    "DSCEJ"
+    "Gold Standard"
   ],
-  "url": "https://www.dscej.org/",
+  "url": "https://www.goldstandard.org/",
   "UNSDG": 13.0,
-  "name": "deep-south-centre-for-environmental-justice",
-  "logo": "https://media.good-loop.com/uploads/raw/211-10484051397039759575.png",
-  "id": "deep-south-centre-for-environmental-justice",
+  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc",
+  "name": "Gold Standard",
+  "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
+  "id": "gold-standard",
   "category": "environment",
   "subcategory": "Climate Action",
-  "crm": "3141155249@2506405019@monday.com",
+  "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
+  "crm": "2866784930@2506405019@monday.com",
   "status": "PUBLISHED"
 }
