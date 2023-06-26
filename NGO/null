@@ -1,27 +1,39 @@
 {
-  "circleCrop": "80.0",
-  "images": "https://media.good-loop.com/uploads/raw/Surfers-Against-Sewage-1-1024x512-8179448059935295295.jpeg",
+  "images": "https://media.good-loop.com/uploads/raw/1__2hO4ZJvYY9xrCUqcIfsZoQ-7957036313561483287.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#42c5e2",
   "@type": "NGO",
-  "displayName": "Surfers Against Sewage",
-  "created": "2023-06-19T15:24:23Z",
-  "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
-  "suggest": [
-    "Surfers Against Sewage",
-    "Surfers Against Sewage"
+  "displayName": "Cancer Research UK",
+  "created": "2023-06-26T11:57:03Z",
+  "description": "Cancer Research UK is a charity funding cancer research in England, Wales and Scotland as well as worldwide with a vision to cure all forms of cancer. They have a history going back over 100 years and aim to increase 10-year cancer survival rates from 50% in 2010 to 75% by 2030. They also provide information about cancer to the general public and influence health policy through campaigning.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "cancer-research-uk",
+      "name": "years (singular: year) of life saved",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 16000000,
+        "value": "1600.0",
+        "name": ""
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://www.sas.org.uk/",
-  "UNSDG": 14.0,
-  "xero": "dbfc9d40-7af0-43f0-9f7b-ea0f5697ead2",
-  "name": "Surfers Against Sewage",
-  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
-  "txtColor": "#0a0a0a",
-  "id": "surfers",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "englandWalesCharityRegNum": "1145877",
-  "summaryDescription": "Surfers Against Sewage is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes and Porthtowan on the north coast of Cornwall. ",
-  "crm": "2506405796@2506405019@monday.com",
+  "suggest": [
+    "Cancer research UK",
+    "Cancer Research UK"
+  ],
+  "url": "https://www.cancerresearchuk.org/",
+  "UNSDG": 3.0,
+  "name": "Cancer research UK",
+  "logo": "https://media.good-loop.com/uploads/standard/cancer-research-uk-logo-vector-9875106092719643323.png#ccrop:90",
+  "lastModified": "2020-10-15T16:42:17Z",
+  "id": "cancer-research-uk",
+  "category": "health",
+  "englandWalesCharityRegNum": "1089464",
+  "summaryDescription": "Cancer Research UK is the largest funder of cancer research in the UK and among the top funders of such research worldwide.",
+  "crm": "2506405748@2506405019@monday.com",
   "status": "PUBLISHED"
 }
