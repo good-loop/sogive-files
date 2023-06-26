@@ -1,20 +1,27 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/earthwatch-767-460-17707272222594659351.jpeg",
+  "circleCrop": "90.0",
+  "images": "https://media.good-loop.com/uploads/raw/team-8513716636189677553.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Earthwatch",
-  "created": "2023-06-26T12:00:43Z",
+  "displayName": "Tree Nation",
+  "created": "2023-04-03T21:58:50Z",
+  "description": "Tree-Nation is a non-profit organisation that allows citizens and companies to plant trees all around the world and offset their CO2 emissions.",
   "suggest": [
-    "earth-watch",
-    "Earthwatch"
+    "tree-nation",
+    "Tree Nation"
   ],
-  "url": "https://earthwatch.org/",
-  "UNSDG": 13.0,
-  "name": "earth-watch",
-  "logo": "https://media.good-loop.com/uploads/standard/download_4-3655054388239998979.jpg#ccrop:90",
-  "id": "earth-watch",
+  "url": "https://tree-nation.com/",
+  "UNSDG": 15.0,
+  "xero": "5a3b064b-10c8-4dfe-b4ca-645982e59df2@xero.com",
+  "name": "tree-nation",
+  "logo": "https://media.good-loop.com/uploads/raw/Tree-Nation__Logo__Square__TransparentBG-300x155_1-6260741652136807001.png#ccrop:85",
+  "id": "tree-nation",
   "category": "environment",
-  "summaryDescription": "Earthwatch is a worldwide non-profit organization unlocking the potential in people and the environment. Since 1971, Earthwatch has connected volunteers and partners with scientists undertaking vital field research around the globe.",
-  "crm": "2506405100@2506405019@monday.com",
+  "subcategory": "Environmental Protection and Conservation",
+  "summaryDescription": "Tree-Nation is a non-profit organisation that allows citizens and companies to plant trees all around the world and offset their CO2 emissions.",
+  "crm": "2506405094@2506405019@monday.com",
   "status": "PUBLISHED"
 }
