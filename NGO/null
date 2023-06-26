@@ -1,15 +1,16 @@
 {
-  "images": "",
+  "images": "https://media.good-loop.com/uploads/standard/East__africa-12308803095863778315.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:58:40Z",
-  "name": "ALZHEIMER SCOTLAND ACTION ON DEMENTIA",
-  "id": "alzheimer-scotland-action-on-dementia",
+  "displayName": "Freedom 4 Girls",
+  "created": "2023-06-26T11:58:43Z",
+  "logo": "https://media.good-loop.com/uploads/standard/Freedom-4-girls-circle-14175763583139389080.png#ccrop:120",
+  "id": "freedom-4-girls",
   "suggest": [
-    "ALZHEIMER SCOTLAND ACTION ON DEMENTIA"
+    "Freedom 4 Girls"
   ],
-  "category": "health",
-  "url": "https://www.alzscot.org/",
-  "crm": "2506405449@2506405019@monday.com",
-  "UNSDG": 3.0
+  "url": "https://www.freedom4girls.co.uk/",
+  "crm": "2506405448@2506405019@monday.com",
+  "UNSDG": 5.0,
+  "status": "PUBLISHED"
 }
