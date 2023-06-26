@@ -1,27 +1,17 @@
 {
-  "scotlandCharityRegNum": "1069229",
-  "ukCompanyRegNum": "3462405",
-  "circleCrop": "70.0",
-  "images": "https://media.good-loop.com/uploads/raw/tree-3822149__1920-9426502681125979215.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Forest of Marston Vale",
-  "created": "2023-06-19T12:36:11Z",
-  "description": "Forest of Marston Vale is planting trees and using woodlands to make life better for people and wildlife in the Marston Vale forest. Our Levi Strauss \u0026 Co. colleagues in the UK have supported the mission of the Forest of Marston Vale by planting 300 trees in one day back in 2020!",
+  "displayName": "Gurls Talk",
+  "created": "2023-04-03T22:00:31Z",
   "suggest": [
-    "Forest of Marston Vale",
-    "Forest of Marston Vale"
+    "Gurls Talk"
   ],
-  "url": "https://www.marstonvale.org",
-  "UNSDG": 15.0,
-  "xero": "0fe22e9e-5ce5-4e30-a1b0-bee38123e78f",
-  "name": "Forest of Marston Vale",
-  "logo": "https://media.good-loop.com/uploads/standard/the-forest-of-marston-vale-trust-logo-12946462390537032321.jpeg#ccrop:_ccrop:70",
-  "id": "forest-of-marston-vale",
-  "category": "environment",
-  "subcategory": "Environmental Protection and Conservation",
-  "englandWalesCharityRegNum": "1069229",
-  "summaryDescription": "Forest of Marston Vale is planting trees and using woodlands to make life better for people and wildlife in the Marston Vale forest. Our Levi Strauss \u0026 Co. colleagues in the UK have supported the mission of the Forest of Marston Vale by planting 300 trees in one day back in 2020!",
-  "crm": "2506405281@2506405019@monday.com",
+  "url": "https://www.gurlstalk.com/",
+  "UNSDG": 5.0,
+  "xero": "1b9f68b1-0f1e-4764-a04e-5413d2efe96e@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/preloader-6557056747691778939.png",
+  "id": "gurls-talk",
+  "category": "human services",
+  "crm": "2506405276@2506405019@monday.com",
   "status": "PUBLISHED"
 }
