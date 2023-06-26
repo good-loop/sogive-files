@@ -1,22 +1,42 @@
 {
-  "circleCrop": "76.0",
+  "scotlandCharityRegNum": "SC044347",
+  "ukCompanyRegNum": "05378928",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/CALM-13859279846901904474.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Justdiggit",
-  "created": "2023-06-26T11:57:09Z",
-  "description": "We are on a mission to regreen Africa and cool down the planet. Together with millions of farmers, and together with you.\nAll of us are living in a global climate crisis. Our planet is warming fast. Luckily, there is a solution: If nature is brought back by applying cost-effective nature-based solutions, we can mitigate global warming by 37%! This will benefit nature, biodiversity and people everywhere, and help cool down our planet.",
-  "suggest": [
-    "justdiggit",
-    "Justdiggit"
+  "displayName": "CALM",
+  "created": "2023-06-26T11:57:12Z",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "campaign-against-living-miserably",
+      "name": "Active rescues",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 102118644,
+        "value": "10211.864406779660254237288135593216000"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://justdiggit.org/",
-  "UNSDG": 13.0,
-  "name": "justdiggit",
-  "logo": "https://media.good-loop.com/uploads/raw/logo.855d848c-16134042277012795628.svg",
-  "id": "justdiggit",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Cooling down the planet together.",
-  "crm": "2506405722@2506405019@monday.com",
+  "suggest": [
+    "Campaign Against Living Miserably",
+    "CALM"
+  ],
+  "url": "https://www.thecalmzone.net/",
+  "UNSDG": 3.0,
+  "name": "Campaign Against Living Miserably",
+  "logo": "https://media.good-loop.com/uploads/standard/calm-logo-3501509936567420785.svg#ccrop:80",
+  "id": "campaign-against-living-miserably",
+  "category": "health",
+  "subcategory": "Mental Health",
+  "englandWalesCharityRegNum": "1110621",
+  "summaryDescription": "The Campaign Against Living Miserably (CALM) is leading a movement against suicide. Every week 125 people in the UK take their own lives, and 75% of all UK suicides are male.\nCALM exists to change this. ",
+  "crm": "2506405691@2506405019@monday.com",
   "status": "PUBLISHED"
 }
