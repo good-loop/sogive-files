@@ -1,23 +1,22 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
+  "circleCrop": "76.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "No Kid Hungry",
-  "created": "2023-06-26T11:56:18Z",
-  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
+  "displayName": "Justdiggit",
+  "created": "2023-06-26T11:57:09Z",
+  "description": "We are on a mission to regreen Africa and cool down the planet. Together with millions of farmers, and together with you.\nAll of us are living in a global climate crisis. Our planet is warming fast. Luckily, there is a solution: If nature is brought back by applying cost-effective nature-based solutions, we can mitigate global warming by 37%! This will benefit nature, biodiversity and people everywhere, and help cool down our planet.",
   "suggest": [
-    "No Kid Hungry",
-    "No Kid Hungry"
+    "justdiggit",
+    "Justdiggit"
   ],
-  "url": "https://www.nokidhungry.org/",
-  "UNSDG": 2.0,
-  "name": "No Kid Hungry",
-  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
-  "lastModified": "2020-10-12T12:07:04Z",
-  "id": "no-kid-hungry",
-  "category": "human services",
-  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
-  "usCharityRegNum": "52-1367538",
-  "crm": "2506405725@2506405019@monday.com",
+  "url": "https://justdiggit.org/",
+  "UNSDG": 13.0,
+  "name": "justdiggit",
+  "logo": "https://media.good-loop.com/uploads/raw/logo.855d848c-16134042277012795628.svg",
+  "id": "justdiggit",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "summaryDescription": "Cooling down the planet together.",
+  "crm": "2506405722@2506405019@monday.com",
   "status": "PUBLISHED"
 }
