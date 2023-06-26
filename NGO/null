@@ -1,19 +1,19 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/terrence-higgings-16150517139874397129.jpeg",
+  "circleCrop": "65.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:55:21Z",
-  "description": "Our mission is to eradicate HIV transmission in the UK, to empower and support people living with HIV to lead healthy lives, to amplify the voices of those living with and affected by HIV across public and political arenas to eradicate discrimination, and to enable people to enjoy good sexual health.\n\nOur work helps us to directly support over 100,000 people every year. Our current activities include the promotion of better HIV, sexual health and general health by education of the public through initiatives such as our campaigning work, the provision of HIV and sexual health programmes and material such as our digital service offer THT at Home, Work Positive, and the information we produce as part of our delivery of the National HIV Prevention programme in England, care and support services such as our complementary therapy services and counselling, clinical services in the form of HIV, blood borne virus (BBV) and STI testing, and advice, information and advocacy through our free-to-call helpline, THT Direct.",
+  "displayName": "British Menopause Society",
+  "created": "2023-06-26T11:55:24Z",
   "suggest": [
-    "Terrence Higgins Trust"
+    "the-british-menopause-society",
+    "British Menopause Society"
   ],
-  "url": "https://www.tht.org.uk/",
+  "url": "https://thebms.org.uk/",
   "UNSDG": 3.0,
-  "name": "Terrence Higgins Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/THT__COLOUR-300x300-17469380069855893159.png#ccrop:120",
-  "id": "terrence-higgins-trust",
-  "category": "health",
-  "englandWalesCharityRegNum": "288527",
-  "crm": "2742425831@2506405019@monday.com",
+  "name": "the-british-menopause-society",
+  "logo": "https://media.good-loop.com/uploads/standard/62Yzc2wP-8865052043269331991.jpeg#ccrop:105",
+  "id": "the-british-menopause-society",
+  "category": "human services",
+  "crm": "2712413901@2506405019@monday.com",
   "status": "PUBLISHED"
 }
