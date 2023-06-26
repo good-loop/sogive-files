@@ -1,18 +1,22 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/SGS-Team-1024x653-8636297374478365521.jpeg",
+  "images": "https://media.good-loop.com/uploads/standard/HelpMusiciansUK-12379334775671545908.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Small Green Shoots",
-  "created": "2023-06-26T11:58:22Z",
-  "description": "Small Green Shoots is a youth-led charity offering an alternative to the conventional system for education, training and entry into the jobs market. We help young people facing difficult life circumstances gain access to the entertainment and creative industries through paid classroom learning, vocational training, internships and access to creative grants. This allows our young workers (the \"Shoots\") to build a career, rather than just seek a job.\n\nIt’s in this way, Small Green Shoots has established itself as a trusted partner to a wide variety of music and creative businesses, empowering them to diversify their workforce.\n\nThrough careful planning, resilience and accumulation of reserves through grants, donations and commercial activity, we managed to support and retain all of Shoots throughout the pandemic. We ensured that they were paid, had a routine and mentorship throughout this emotionally and economically challenging time. This ability to look at the Shoots entire needs both at home and work, really allow us to help them on the right path for life.",
+  "displayName": "Help Musicians UK",
+  "created": "2023-04-03T22:03:31Z",
+  "description": "For 100 years, Help Musicians has been providing help, support and opportunities to empower musicians at all stages of their lives.\n\nWe’re an independent charity which aims to make a meaningful difference to the lives of musicians, offering a wide spectrum of support which includes: Health \u0026 Welfare services, Creative development funding, ground-breaking research, a mental health helpline for the entire music industry and an incredibly popular hearing health scheme which aims to prevent hearing problems that would otherwise bring musicians’ careers to an untimely end.",
   "suggest": [
-    "Small Green Shoots"
+    "Help Musicians UK"
   ],
-  "url": "https://www.smallgreenshoots.co.uk/",
+  "url": "https://www.helpmusicians.org.uk/",
   "UNSDG": 8.0,
-  "logo": "https://media.good-loop.com/uploads/standard/SGS__Black-14045559112703190631.png#ccrop:80",
-  "id": "small-green-shoots",
-  "category": "education",
-  "crm": "2506405484@2506405019@monday.com",
+  "xero": "c996a969-b528-4b65-867a-8dfe48665e2e@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/HMLogo__BLACK__2020-8734209049677187991.jpeg#ccrop:90",
+  "id": "help-musicians",
+  "category": "arts culture humanities",
+  "subcategory": "Performing Arts",
+  "englandWalesCharityRegNum": "228089",
+  "summaryDescription": "",
+  "crm": "2506405474@2506405019@monday.com",
   "status": "PUBLISHED"
 }
