@@ -1,18 +1,42 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
+  "circleCrop": "97.0",
+  "images": "https://media.good-loop.com/uploads/standard/imaa1__1024x1024-12018998148646413382.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "ChaShaMa",
-  "created": "2023-04-03T22:00:25Z",
-  "description": "Chashama helps create a more diverse, equitable, and inclusive world by partnering with property owners to transform unused real estate. These spaces are used for artists, small businesses, and for free community-centric art classes. ",
-  "suggest": [
-    "ChaShaMa"
+  "displayName": "Eden Reforestation Projects",
+  "created": "2023-06-26T12:00:31Z",
+  "description": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "eden-reforestation-projects",
+      "name": "tree(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 1559,
+        "value": "0.15588235294",
+        "name": ""
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://chashama.org/",
-  "UNSDG": 8.0,
-  "xero": "c96bcd1a-8fb7-46a0-8974-afd0059b0fab@xero.com",
-  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
-  "id": "chashama",
-  "crm": "2506405155@2506405019@monday.com",
+  "suggest": [
+    "Eden Reforestation Projects",
+    "Eden Reforestation Projects"
+  ],
+  "url": "https://edenprojects.org/",
+  "UNSDG": 13.0,
+  "name": "Eden Reforestation Projects",
+  "logo": "https://media.good-loop.com/uploads/standard/Eden1-6927057335990565767.png#ccrop:90",
+  "id": "eden-reforestation-projects",
+  "category": "environment",
+  "subcategory": "Climate Action",
+  "summaryDescription": "Eden aims to reduce extreme poverty and restore healthy forests by employing local people to plant millions of trees every year.",
+  "crm": "2506405141@2506405019@monday.com",
   "status": "PUBLISHED"
 }
