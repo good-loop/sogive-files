@@ -1,23 +1,23 @@
 {
-  "circleCrop": "78.0",
+  "images": "https://media.good-loop.com/uploads/standard/Good__Loop__x__GA__image-8712433093212477949.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "ChangemakerxChange",
-  "created": "2023-06-26T12:00:37Z",
-  "description": "At the heart of ChangemakerXchange is a community of over 900 changemakers from across the world working on a vast range of social and environmental issues. They join the community via 5-day summits which foster lasting connections, nurture wellbeing, and enable peer-learning and meaningful collaborations. We then provide members with ongoing activities, so that they may create, sustain and scale their positive impact.",
+  "displayName": "Greening Australia",
+  "created": "2023-06-26T12:00:40Z",
+  "description": "Greening Australia has been restoring Australia’s unique landscapes and protecting biodiversity at scale through collaborative, science-based programs for 40 years. Greening Australia is committed to tackling Australia’s greatest environmental challenges in ways that work for communities, economies, and nature; planting millions of native trees and plants, protecting hundreds of native species, and supporting Traditional Owners’ aspirations for restoring country.",
   "suggest": [
-    "changemakerxchange",
-    "ChangemakerxChange"
+    "Greening Australia",
+    "Greening Australia"
   ],
-  "url": "https://changemakerxchange.org/",
-  "UNSDG": 17.0,
-  "name": "changemakerxchange",
-  "logo": "https://media.good-loop.com/uploads/raw/cxc__logotype-9666639344564619197.png",
-  "id": "changemakerxchange",
-  "category": "human services",
-  "subcategory": "Youth Development",
-  "englandWalesCharityRegNum": "HRB 217457 B",
-  "summaryDescription": "A global community of young social innovators.",
-  "crm": "2506405130@2506405019@monday.com",
+  "url": "https://www.greeningaustralia.org.au",
+  "UNSDG": 15.0,
+  "name": "Greening Australia",
+  "logo": "https://media.good-loop.com/uploads/standard/GreeningAustralia__Logo__Stacked__2-17388514846648614936.png#ccrop:90",
+  "id": "greening-australia",
+  "category": "environment",
+  "crm": "2506405101@2506405019@monday.com",
   "status": "PUBLISHED"
 }
