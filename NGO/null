@@ -1,18 +1,16 @@
 {
+  "scotlandCharityRegNum": "SC045386",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Orchid Project",
-  "created": "2023-06-26T11:58:04Z",
+  "created": "2023-06-26T11:58:07Z",
+  "name": "Horatio\u0027s Garden",
+  "id": "horatio-s-garden",
   "suggest": [
-    "The Orchid Project",
-    "The Orchid Project"
+    "Horatio\u0027s Garden"
   ],
-  "url": "https://www.theorchardproject.org.uk/",
-  "UNSDG": 15.0,
-  "name": "The Orchid Project",
-  "logo": "https://media.good-loop.com/uploads/standard/orchid_project-9130880318323852935.png",
-  "id": "orchid-project",
-  "category": "community",
-  "crm": "2506405521@2506405019@monday.com",
+  "category": "environment",
+  "url": "",
+  "crm": "2506405520@2506405019@monday.com",
+  "UNSDG": 11.0,
   "status": "PUBLISHED"
 }
