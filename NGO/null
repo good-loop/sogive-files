@@ -1,21 +1,22 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/unnamed-16483051725449231195.jpeg",
+  "images": "https://media.good-loop.com/uploads/raw/forest-14983741186714295.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Ihtiyac Haritasi",
-  "created": "2023-06-26T11:57:31Z",
-  "description": "7 Ekim 2015 tarihinde UNDP\u0027nin (Avrasya ve BDT Bölge Ofisi) Sosyal Fayda Zirvesi\u0027nde başlatılan ve ardından kullanıma açılan, ihtiyaç sahiplerini ve destekçileri online platformda buluşturan bir sosyal kooperatiftir. Bir sosyal girişim olan İhtiyaç Haritası\u0027nın temel noktası, sokak hayvanlarından okul malzemelerine ve hatta bir sosyal proje için gönüllü olacak kişilere kadar her türlü ihtiyacın talep edilebilmesidir. Para talepleri, kişisel veya yemek talepleri onaylanmamakta ve platformda yayınlanmamaktadır. Ana sayfada, farklı şehirlerde sayıların yer aldığı ve kaç ihtiyaç ve desteğin dahil edildiğini gösteren bir harita gösteriliyor. İhtiyaç Haritası online çalıştığı için internet erişimi olan her şehre, her eve ve her kişiye ulaşabilir.",
+  "displayName": "National Park Foundation",
+  "created": "2023-06-19T15:25:04Z",
   "suggest": [
-    "",
-    "Ihtiyac Haritasi"
+    "national-park-foundation",
+    "National Park Foundation"
   ],
-  "url": "https://www.ihtiyacharitasi.org/",
-  "UNSDG": 10.0,
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/ih__logo__sevde-14543580189657098360.png#ccrop:60",
-  "id": "ihtiyac-haritasi",
-  "category": "research",
-  "subcategory": "Social and Public Policy Research",
-  "crm": "2506405621@2506405019@monday.com",
+  "url": "https://www.nationalparks.org/",
+  "UNSDG": 15.0,
+  "xero": "2f72a31c-2a76-4852-8477-e19207c135de",
+  "name": "national-park-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/img__up__fnd-kp-npf-logo-10041746207194137985.jpeg#ccrop:110",
+  "id": "national-park-foundation",
+  "category": "environment",
+  "summaryDescription": "Working together with a growing community of passionate park champions, the National Park Foundation strives to ensure that all people are able to discover their own personal connections to national parks, because they don\u0027t just stand for where America has been - they inspire where we go next.",
+  "usCharityRegNum": "\t52-1086761",
+  "crm": "2506405603@2506405019@monday.com",
   "status": "PUBLISHED"
 }
