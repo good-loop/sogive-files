@@ -1,18 +1,18 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:06Z",
+  "created": "2023-06-26T11:56:09Z",
   "description": "For nearly 60 years, WWF has worked to help people and nature thrive.\nAs the world’s leading conservation organization, WWF works in more than 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.",
   "suggest": [
-    "wildlife-blood-sampling"
+    "turtle-nest-mapping"
   ],
   "url": "https://www.worldwildlife.org/",
   "UNSDG": 15.0,
-  "name": "wildlife-blood-sampling",
-  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/WildlifeBloodSampling-18251956412322623248.png",
-  "lastModified": "2020-08-28T13:08:11Z",
-  "id": "wildlife-blood-sampling",
+  "name": "turtle-nest-mapping",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/TurtleNestMapping-18177864296343292029.png",
+  "lastModified": "2020-08-31T01:14:43Z",
+  "id": "turtle-nest-mapping",
   "summaryDescription": "Our mission is to conserve nature and reduce the most pressing threats to the diversity of life on Earth.",
-  "crm": "2640213007@2506405019@monday.com",
+  "crm": "2640212544@2506405019@monday.com",
   "status": "PUBLISHED"
 }
