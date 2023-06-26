@@ -1,20 +1,25 @@
 {
-  "scotlandCharityRegNum": "SC040341",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/ashoka-17949608415072747000.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Outward Bound Trust",
-  "created": "2023-04-03T22:00:14Z",
+  "created": "2023-06-26T11:57:58Z",
+  "description": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
   "suggest": [
-    "The Outward Bound Trust",
-    "The Outward Bound Trust"
+    "Ashoka "
   ],
-  "url": "https://www.outwardbound.org/",
-  "UNSDG": 3.0,
-  "xero": "e404d6ed-017e-4033-955a-7b5075f813fc@xero.com",
-  "name": "The Outward Bound Trust",
-  "logo": "https://media.good-loop.com/uploads/standard/Outward-Bound-Trust-logo-13312999572987774104.jpeg#ccrop:110",
-  "id": "the-outward-bound-trust",
+  "url": "https://www.ashoka.org/",
+  "UNSDG": 8.0,
+  "name": "Ashoka ",
+  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/logo-157164415507884249.svg#ccrop:_ccrop:85",
+  "logo_white": "https://as.good-loop.com/uploads/anon/nkd0xq15njjom1g-501341448175478959.jpg",
+  "id": "ashoka",
   "category": "education",
-  "crm": "2506405538@2506405019@monday.com",
+  "englandWalesCharityRegNum": "328469",
+  "summaryDescription": "Ashoka cultivates a community of change leaders who see that the world now requires everyone to be a changemaker. Together, we collaborate to transform institutions and cultures worldwide so they support changemaking for the good of society.",
+  "usCharityRegNum": "51-0255908",
+  "crm": "2506405524@2506405019@monday.com",
   "status": "PUBLISHED"
 }
