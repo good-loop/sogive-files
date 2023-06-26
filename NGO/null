@@ -1,12 +1,15 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "HBCU Founders Initiative",
-  "name": "HBCU Founders Initiative",
-  "logo": "https://media.good-loop.com/uploads/standard/HBCUFI-Web-17252355503545411349.png#ccrop:99",
-  "id": "hbcu-founders-initiative",
+  "displayName": "The HBCU Foundation",
+  "name": "The HBCU Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/hand-logo-copy-2-white-TM-symbol-4277274253498613986.png#ccrop:97",
+  "id": "the-hbcu-foundation",
   "suggest": [
-    "HBCU Founders Initiative",
-    "HBCU Founders Initiative"
+    "The HBCU Foundation",
+    "The HBCU Foundation"
   ],
   "status": "DRAFT"
 }
