@@ -1,16 +1,22 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Women In Sport",
-  "created": "2023-04-14T10:50:35Z",
-  "logo": "https://media.good-loop.com/uploads/standard/women-in-sport-uk-wsmg-1700527098547369990.png",
-  "id": "women-in-sport",
+  "displayName": "National Parks UK",
+  "created": "2023-03-23T18:36:13Z",
   "suggest": [
-    "Women In Sport"
+    "UK National Parks Foundation",
+    "National Parks UK"
   ],
-  "englandWalesCharityRegNum": "1060267",
-  "url": "https://www.womeninsport.org/get-involved/charitable-foundations/",
-  "crm": "4309235683@2506405019@monday.com",
-  "UNSDG": 5.0,
+  "url": "https://www.nationalparks.uk/",
+  "UNSDG": 13.0,
+  "name": "UK National Parks Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/National-Parks-logo-stacked-left-11836444279419305386.png",
+  "id": "uk-national-parks-foundation",
+  "category": "environment",
+  "englandWalesCharityRegNum": "1182566",
+  "crm": "4193980019@2506405019@monday.com",
   "status": "PUBLISHED"
 }
