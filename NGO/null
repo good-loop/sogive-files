@@ -1,37 +1,42 @@
 {
-  "scotlandCharityRegNum": "SC041990",
-  "images": "https://media.good-loop.com/uploads/raw/hero-banner-large2-optim-8628263666478650441.jpg",
+  "scotlandCharityRegNum": "SC037479 ",
+  "ukCompanyRegNum": "02031836",
+  "images": "https://app.sogive.org/uploads/2646944015572784facebook/micaela-making-macaroons-image-m.jpg____2360x1324__q50__progressive__subsampling-2__upscale-37392268068314998.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#e35205",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:21Z",
-  "description": "The MS Society funds and promotes research to develop new treatments and services for people with MS and to understand the causes of MS. They provide support to people affected by MS, seek to raise awareness and understanding, and improve care and support. ",
+  "displayName": "Make-A-Wish UK",
+  "created": "2023-06-26T11:56:24Z",
+  "description": "Make-A-Wish UK has a group of [volunteers and staff members](https://www.make-a-wish.org.uk/about-us/what-we-do/our-story/) who aim to bring joy to ailing children. The charity claims that [research](https://assets.make-a-wish.org.uk/live/media/filer_public/e1/1b/e11be253-bb90-4270-9a19-2fda07fbdaf6/make-a-wish-uk-2019-annual-accounts.pdf) has shown that wish-granting also strengthens family bonds previously strained because of the child\u0027s illness. A subsidiary company called [Make-A-Wish Promotions Ltd](https://www.make-a-wish.org.uk/about-us/what-we-do/charity-information/) directs all of its profits to Make-a-wish UK.",
   "impacts": [
     {
       "@class": "com.goodloop.data.charity.Impact",
-      "charity": "multiple-sclerosis-society",
-      "name": "people (singular: Person) reached through the MS Helpline or a volunteer group",
+      "charity": "make-a-wish-uk",
+      "name": "Wishes granted",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 2322483,
-        "value": "232.24832214765099417000"
+        "value100p": 119891400,
+        "value": "11989.14",
+        "name": ""
       },
       "n": 1.0
     }
   ],
   "suggest": [
-    "Multiple Sclerosis Society"
+    "Make a wish UK",
+    "Make-A-Wish UK"
   ],
-  "url": "https://www.mssociety.org.uk/",
-  "name": "Multiple Sclerosis Society",
-  "logo": "https://as.good-loop.com/vert/ms_society_logo.png",
-  "logo_white": "https://as.good-loop.com/vert/ms_society_logo_white.png",
-  "lastModified": "2020-11-15T19:59:55Z",
-  "id": "multiple-sclerosis-society",
-  "englandWalesCharityRegNum": "1139257",
-  "summaryDescription": "The MS Society promotes research into treatments for MS and supports people affected by MS.",
-  "crm": "2602462871@2506405019@monday.com",
+  "url": "https://www.make-a-wish.org.uk/",
+  "UNSDG": 3.0,
+  "name": "Make a wish UK",
+  "logo": "https://media.good-loop.com/uploads/raw/make_a_wish-16370189613665191384.jpg",
+  "lastModified": "2020-10-05T10:32:52Z",
+  "id": "make-a-wish-uk",
+  "category": "health",
+  "subcategory": "Patient and Family Support",
+  "englandWalesCharityRegNum": "295672",
+  "summaryDescription": "Make-A-Wish UK grants what it considers as life-altering wishes for children with critical illnesses.",
+  "crm": "2602459419@2506405019@monday.com",
   "status": "PUBLISHED"
 }
