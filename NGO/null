@@ -1,18 +1,18 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/abae-1920301059708066881.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:03Z",
+  "created": "2023-06-26T11:56:06Z",
+  "description": "For nearly 60 years, WWF has worked to help people and nature thrive.\nAs the world’s leading conservation organization, WWF works in more than 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.",
   "suggest": [
-    "abae"
+    "wildlife-blood-sampling"
   ],
-  "url": "https://abae.pt/",
-  "UNSDG": 13.0,
-  "name": "abae",
-  "logo": "https://media.good-loop.com/uploads/raw/logo_abae-2654280752796109621.jpeg",
-  "id": "abae",
-  "category": "environment",
-  "summaryDescription": "A Associação Bandeira Azul da Europa (ABAE) é uma Organização não Governamental de Ambiente (ONGA), sem fins lucrativos, dedicada à Educação para o Desenvolvimento Sustentável e à gestão e reconhecimento de boas práticas ambientais.\nA ABAE faz parte da Fundação para a Educação Ambiental (FEE), a qual agrupa entidades internacionais que, em conjunto promovem actividades de Educação Ambiental para a Sustentabilidade, oriundas de mais de 60 países.",
-  "crm": "2640224612@2506405019@monday.com",
+  "url": "https://www.worldwildlife.org/",
+  "UNSDG": 15.0,
+  "name": "wildlife-blood-sampling",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/WildlifeBloodSampling-18251956412322623248.png",
+  "lastModified": "2020-08-28T13:08:11Z",
+  "id": "wildlife-blood-sampling",
+  "summaryDescription": "Our mission is to conserve nature and reduce the most pressing threats to the diversity of life on Earth.",
+  "crm": "2640213007@2506405019@monday.com",
   "status": "PUBLISHED"
 }
