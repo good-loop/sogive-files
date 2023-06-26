@@ -1,40 +1,21 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/Medical__equipment.width-765-4581998476604392917.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/standard/unnamed-16483051725449231195.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#4c3c90",
   "@type": "NGO",
-  "displayName": "Great Ormond Street Hospital Children\u0027s Charity",
-  "created": "2023-06-26T11:57:28Z",
-  "description": "Great Ormond Street Hospital Children\u0027s Charity provides funds to support various activities, such as research, caring for patient\u0027s and their families, providing medical equipment and creating child-centered spaces for GOSH patients.",
+  "displayName": "Ihtiyac Haritasi",
+  "created": "2023-06-26T11:57:31Z",
+  "description": "7 Ekim 2015 tarihinde UNDP\u0027nin (Avrasya ve BDT Bölge Ofisi) Sosyal Fayda Zirvesi\u0027nde başlatılan ve ardından kullanıma açılan, ihtiyaç sahiplerini ve destekçileri online platformda buluşturan bir sosyal kooperatiftir. Bir sosyal girişim olan İhtiyaç Haritası\u0027nın temel noktası, sokak hayvanlarından okul malzemelerine ve hatta bir sosyal proje için gönüllü olacak kişilere kadar her türlü ihtiyacın talep edilebilmesidir. Para talepleri, kişisel veya yemek talepleri onaylanmamakta ve platformda yayınlanmamaktadır. Ana sayfada, farklı şehirlerde sayıların yer aldığı ve kaç ihtiyaç ve desteğin dahil edildiğini gösteren bir harita gösteriliyor. İhtiyaç Haritası online çalıştığı için internet erişimi olan her şehre, her eve ve her kişiye ulaşabilir.",
   "suggest": [
-    "Great Ormond Street Hospital Children\u0027s Charity",
-    "Great Ormond Street Hospital Children\u0027s Charity"
+    "",
+    "Ihtiyac Haritasi"
   ],
-  "url": "https://www.gosh.org/",
-  "UNSDG": 3.0,
-  "name": "Great Ormond Street Hospital Children\u0027s Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/GOSHC-logo-9661333574769111950.svg#ccrop:93",
-  "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/great-ormond-street-hospital-charity-white.png",
-  "lastModified": "2020-11-16T16:23:17Z",
-  "id": "great-ormond-street-hospital-childrens-charity",
-  "category": "health",
-  "englandWalesCharityRegNum": "1160024",
-  "summaryDescription": "Great Ormond Street Hospital Children\u0027s Charity raises money for Great Ormond Street Hospital (GOSH), a London-based hospital providing care for children.",
-  "imageList": [
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/Shorthand__image.width-765-15276638087079597860.jpg",
-      "created": "2023-06-26T11:57:28Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/Family__support__homepage.edit.width-765-4116181874632440626.jpg",
-      "created": "2023-06-26T11:57:28Z"
-    }
-  ],
-  "crm": "2506405630@2506405019@monday.com",
+  "url": "https://www.ihtiyacharitasi.org/",
+  "UNSDG": 10.0,
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/ih__logo__sevde-14543580189657098360.png#ccrop:60",
+  "id": "ihtiyac-haritasi",
+  "category": "research",
+  "subcategory": "Social and Public Policy Research",
+  "crm": "2506405621@2506405019@monday.com",
   "status": "PUBLISHED"
 }
