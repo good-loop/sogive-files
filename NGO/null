@@ -1,14 +1,37 @@
 {
-  "scotlandCharityRegNum": "SC046970",
+  "scotlandCharityRegNum": "SC043084",
+  "images": "https://media.good-loop.com/uploads/raw/UWT-18136980437469878935.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:42Z",
-  "name": "B.J.O. Amara Association",
-  "id": "b-j-o-amara-association",
-  "suggest": [
-    "B.J.O. Amara Association"
+  "displayName": "Ummah Welfare Trust (Amanat Charity Trust)",
+  "created": "2023-06-26T11:56:45Z",
+  "description": "Ummah Welfare Trust provides support to the most desperate communities around the world by providing financial assistance, emergency relief, construction projects, education, water and sanitation, medical aid, and income generation projects. ",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "amanat-charity-trust",
+      "name": "people (singular: person) supported with financial assistance",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 680000,
+        "value": "68.0",
+        "name": ""
+      },
+      "n": 1.0
+    }
   ],
-  "url": "www.bjoamaraassociation.org",
-  "crm": "2602430189@2506405019@monday.com",
+  "suggest": [
+    "Amanat Charity Trust",
+    "Ummah Welfare Trust (Amanat Charity Trust)"
+  ],
+  "url": "https://uwt.org/",
+  "name": "Amanat Charity Trust",
+  "logo": "https://media.good-loop.com/uploads/raw/c922a400-def6-4154-be5a-e0690f52aebe-15809224457083002880.jpeg",
+  "id": "amanat-charity-trust",
+  "englandWalesCharityRegNum": "1000851",
+  "summaryDescription": "Ummah Welfare Trust aims to sustainably support lives and livelihood of the most desperate communities around the world with education, infrastructure and relief. ",
+  "crm": "2602429998@2506405019@monday.com",
   "status": "PUBLISHED"
 }
