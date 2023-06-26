@@ -1,17 +1,21 @@
 {
-  "scotlandCharityRegNum": "SC042944",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "National Literacy Trust",
-  "created": "2023-06-26T11:56:15Z",
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/MFL-supporters-National-Literacy-Trust-logo-e1591286973800-7317939493532399602.png#ccrop:120_noscale",
-  "id": "national-literacy-trust",
+  "displayName": "No Kid Hungry",
+  "created": "2023-06-26T11:56:18Z",
+  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
   "suggest": [
-    "",
-    "National Literacy Trust"
+    "No Kid Hungry",
+    "No Kid Hungry"
   ],
-  "url": "https://literacytrust.org.uk/",
-  "crm": "2602483757@2506405019@monday.com",
+  "url": "https://www.nokidhungry.org/",
+  "name": "No Kid Hungry",
+  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
+  "lastModified": "2020-10-12T12:07:04Z",
+  "id": "no-kid-hungry",
+  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
+  "usCharityRegNum": "52-1367538",
+  "crm": "2602471172@2506405019@monday.com",
   "status": "PUBLISHED"
 }
