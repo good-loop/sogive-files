@@ -1,24 +1,41 @@
 {
-  "scotlandCharityRegNum": "SC045970",
+  "circleCrop": "81.0",
+  "images": "https://media.good-loop.com/uploads/standard/learn-to-smile-2833323225014937539.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#e61d77",
+  "color": "#dabc45",
   "@type": "NGO",
-  "displayName": "Coppafeel!",
-  "created": "2023-06-26T11:58:13Z",
-  "description": "[Coppafeel]https://coppafeel.org/wp-content/uploads/2019/11/CF-Annual-Report-2018_screen.pdf) encourages young people to check their boobs and pecs regularly from a young age, educates them on the signs and symptoms of breast cancer, and empowers them to seek advice from a doctor if symptoms persist.",
+  "displayName": "SMILE Through Sport",
+  "created": "2023-06-26T11:58:16Z",
+  "description": "\nSMILE Through Sport was founded in 2013 by Paralympic athlete, Stephen Miller, to provide the opportunity for disabled people of all ages across the North East to access high quality sport and physical activity. \n\nSMILE Through Sport provides events, sessions and activities which disabled people can participate it. \n\nTheir primary objectives are:\n\n- To promote the health of disabled people\n\n- Create opportunities for disabled people to participate in sport and physical activity\n\n- To support all providers of sport and physical activity to include disabled people",
   "suggest": [
-    "CoppaFeel",
-    "Coppafeel!"
+    "smile-through-sport",
+    "SMILE Through Sport"
   ],
-  "url": "https://www.coppafeel.org",
-  "UNSDG": 3.0,
-  "name": "CoppaFeel",
-  "logo": "https://media.good-loop.com/uploads/standard/coppafeel_logo.svg",
-  "lastModified": "2020-10-20T22:07:02Z",
-  "id": "coppafeel",
-  "category": "health",
-  "englandWalesCharityRegNum": "1132366",
-  "summaryDescription": "[Coppafeel](https://coppafeel.org/our-charity/) educates people about breast cancer and encourages them to check their breasts. ",
-  "crm": "2506405514@2506405019@monday.com",
+  "url": "https://smilethroughsport.com",
+  "UNSDG": 10.0,
+  "headerImage": "https://media.good-loop.com/uploads/standard/STS36-1500x630-14942075287852147372.jpeg",
+  "name": "smile-through-sport",
+  "logo": "https://media.good-loop.com/uploads/raw/Smileonwhite_1-11897212155822113846.jpg",
+  "id": "smile-through-sport",
+  "extendedDescription": "\nSMILE Through Sport is a registered charity existing to benefit the North East community. \n\nTheir work relies solely on donations and without the support of their wonderful donors and volunteers they would be unable to continue their work.\n\nBy supporting SMILE you are allowing them to continue their work and enabling disabled people to be active and part of a supportive community.\n\n- £5 provides an at home sport pack for a 7 year old with Autism\n\n- £15 gifts a sport activity box to be used by a local care home to enable their residents to get active\n\n- £45 enables SMILE to deliver an hour of community sport to adults with physical disabilities\n\n- £300 allows 12 young people with learning disabilities to train to be sports leaders of the future",
+  "summaryDescription": "Smile Through Sport was founded to provide the opportunity for disabled people of all ages across the North East to access high quality sport and physical activity.",
+  "imageList": [
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/SMILEAthletics-17885964257206138123.jpg",
+      "created": "2023-06-26T11:58:16Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Stephen-Mi-1855683214vepic-8780590055422065150.jpeg",
+      "created": "2023-06-26T11:58:16Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/86969751__1843005935832425__8766241238564208640__o-690x1030-1954590939041612210.jpeg",
+      "created": "2023-06-26T11:58:16Z"
+    }
+  ],
+  "crm": "2506405506@2506405019@monday.com",
   "status": "PUBLISHED"
 }
