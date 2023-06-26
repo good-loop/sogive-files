@@ -1,16 +1,18 @@
 {
-  "scotlandCharityRegNum": "SC045386",
+  "images": "https://media.good-loop.com/uploads/raw/rosa-7445227194251719452.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:58:07Z",
-  "name": "Horatio\u0027s Garden",
-  "id": "horatio-s-garden",
+  "created": "2023-06-26T11:58:10Z",
   "suggest": [
-    "Horatio\u0027s Garden"
+    "rosa"
   ],
-  "category": "environment",
-  "url": "",
-  "crm": "2506405520@2506405019@monday.com",
-  "UNSDG": 11.0,
+  "url": "https://rosauk.org/",
+  "UNSDG": 5.0,
+  "name": "rosa",
+  "id": "rosa",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1124856",
+  "summaryDescription": "Rosa helps to strengthen specialist women’s organisations so they can meet the needs of the women and girls they work with. We do this by bringing in new sources of funding, investing resources into the women’s sector, and building a community of organisations rooted in the power of collective action.",
+  "crm": "2506405517@2506405019@monday.com",
   "status": "PUBLISHED"
 }
