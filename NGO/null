@@ -1,25 +1,21 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/WasteAid__ROLE-Foundation__Waste-management-training-12-5-2021-Bali__Indonesia__2021-scaled-15543595016975081259.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/raw/vivaconagua-10616691129953763740.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Waste Aid",
-  "created": "2023-06-26T11:59:16Z",
+  "displayName": "Viva Con Agua",
+  "created": "2023-04-03T21:59:40Z",
   "suggest": [
-    "Waste Aid",
-    "Waste Aid"
+    "conagua",
+    "Viva Con Agua"
   ],
-  "url": "https://wasteaid.org/",
-  "UNSDG": 12.0,
-  "name": "Waste Aid",
-  "logo": "https://media.good-loop.com/uploads/standard/wasteaid-logo-117256749304238599.png",
-  "id": "wasteaid",
+  "url": "https://www.vivaconagua.org/en/",
+  "UNSDG": 6.0,
+  "xero": "679467b2-8ac7-4681-8070-00c113a324e2@xero.com",
+  "name": "conagua",
+  "logo": "https://media.good-loop.com/uploads/raw/viva-con-agua-logo-334538360323765504.png#ccrop:_ccrop:_ccrop:90",
+  "id": "conagua",
   "category": "environment",
-  "subcategory": "Climate Action",
-  "englandWalesCharityRegNum": "1160263",
-  "summaryDescription": "WasteAid is an independent UK charity (non-profit), set up by waste management professionals to share practical and low-cost waste management know-how with communities in low-income countries.\n",
-  "crm": "2506405366@2506405019@monday.com",
+  "summaryDescription": "Viva con aqua supports clean drinking water worldwide through the motto of \"Water for All - All for Water\". Viva con aqua supports water, sanitation and hygiene projects (WASH) with local and international partner organizations and together, they have already been able to reach over 3 million people. Our Levi Strauss \u0026 Co. team in Germany has partnered with Viva con Aqua in the past few years to raise awareness supporting the cause through various initiatives presented to the Levi’s fans.",
+  "crm": "2506405347@2506405019@monday.com",
   "status": "PUBLISHED"
 }
