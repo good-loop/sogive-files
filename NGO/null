@@ -1,40 +1,24 @@
 {
-  "scotlandCharityRegNum": "SC037717",
-  "images": "https://media.good-loop.com/uploads/standard/helpline_image750x459px_1_2-130199716920600824.jpg",
+  "scotlandCharityRegNum": "SC039280",
+  "images": "https://app.sogive.org/uploads/2205928196130096facebook/Preterm_baby-5503705973416699322.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#108633",
+  "color": "#91004b",
   "@type": "NGO",
-  "displayName": "NSPCC",
-  "created": "2023-06-26T12:00:58Z",
-  "description": "The National Society for the Prevention of Cruelty to Children focuses on protecting children today and preventing abuse tomorrow in the UK and the Channel Islands.\n\nWhether you’re a parent or carer looking for advice, you’re worried about a child, or if you’re a professional in need of information and guidance, you can contact them any day, online or over the phone.\n\nIt’s just one of the ways the NSPCC protects children and prevents abuse. Thank you for your support.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "the-national-society-for-the-prevention-of-cruelty-to-children",
-      "name": "children (singular: child) reached",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 549455,
-        "value": "54.94550000"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Tommys",
+  "created": "2023-06-26T12:01:01Z",
+  "description": "Areas of work include:\n- 4 research centres\n- Centres also have clinics providing antenatal care for women who are at high risk of having miscarriage, stillbirth and premature birth\n- Free evidence-based pregnancy information service",
   "suggest": [
-    "The National Society for the Prevention of Cruelty to Children",
-    "NSPCC"
+    "Tommy\u0027s",
+    "Tommys"
   ],
-  "url": "https://www.nspcc.org.uk/",
-  "UNSDG": 0.0,
-  "name": "The National Society for the Prevention of Cruelty to Children",
-  "logo": "https://media.good-loop.com/uploads/standard/NSPCC__official__logo-8580840245037848753.svg#ccrop:90",
-  "id": "the-national-society-for-the-prevention-of-cruelty-to-children",
-  "category": "human services",
-  "subcategory": "Children\u0027s and Family Services",
-  "englandWalesCharityRegNum": "216401",
-  "summaryDescription": "The National Society for the Prevention of Cruelty to Children focuses on protecting children in the UK and the Channel Islands.",
-  "crm": "2506405071@2506405019@monday.com",
+  "url": "https://www.tommys.org",
+  "UNSDG": 3.0,
+  "name": "Tommy\u0027s",
+  "logo": "https://media.good-loop.com/uploads/standard/tommys_logo.png",
+  "logo_white": "https://as.good-loop.com/vert/tommys_logo_white.png",
+  "id": "tommy-s",
+  "category": "health",
+  "summaryDescription": "Funding research into stillbirth, premature birth and miscarriage, and providing information for parents-to-be.",
+  "crm": "2506405069@2506405019@monday.com",
   "status": "PUBLISHED"
 }
