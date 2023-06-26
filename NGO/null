@@ -1,18 +1,16 @@
 {
-  "scotlandCharityRegNum": "SC039570",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:59:57Z",
+  "displayName": "Challenged Athletes Foundation",
+  "created": "2023-06-26T12:00:00Z",
+  "logo": "https://media.good-loop.com/uploads/standard/challenged-athletes-foundation-white-1891063249741089811.svg",
+  "id": "challenged-athletes-foundation",
   "suggest": [
-    "Save The Children"
+    "Challenged Athletes Foundation"
   ],
-  "url": "https://www.savethechildren.org.uk/",
-  "UNSDG": 1.0,
-  "name": "Save The Children",
-  "logo": "https://media.good-loop.com/uploads/raw/Screenshot_2021-08-16_at_11.19.28-5335965932323022156.png",
-  "id": "save-the-children",
   "category": "human services",
-  "englandWalesCharityRegNum": "213890",
-  "crm": "2506405242@2506405019@monday.com",
+  "url": "https://www.challengedathletes.org/",
+  "crm": "2506405240@2506405019@monday.com",
+  "UNSDG": 10.0,
   "status": "PUBLISHED"
 }
