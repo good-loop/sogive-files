@@ -1,27 +1,24 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/PC__pine__marten.5a457561a7f8cc250728088513873b10-3562370483249103435.jpg#noscale",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "scotlandCharityRegNum": "SC046788",
+  "images": "https://media.good-loop.com/uploads/raw/600x200-3727022380717813771.jpeg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#88aa55",
   "@type": "NGO",
-  "displayName": "Rewilding Britain",
-  "created": "2023-06-26T11:55:39Z",
-  "description": "",
-  "altlogo": "https://media.good-loop.com/uploads/standard/rwb-logo-white-11861830733515654117.svg",
+  "displayName": "Project Seagrass",
+  "created": "2023-06-26T11:55:42Z",
   "suggest": [
-    "REWILDING BRITAIN",
-    "Rewilding Britain"
+    "Project Seagrass",
+    "Project Seagrass"
   ],
-  "url": "https://www.rewildingbritain.org.uk/",
-  "UNSDG": 15.0,
-  "headerImage": "https://media.good-loop.com/uploads/standard/james-armes-os5HT3WFYEE-unsplash-452140256449817134.jpg#noscale",
-  "name": "REWILDING BRITAIN",
-  "logo": "https://media.good-loop.com/uploads/standard/rwb-logo-12571758618532683633.svg#ccrop:85",
-  "id": "rewilding-britain",
+  "url": "https://www.projectseagrass.org/",
+  "UNSDG": 14.0,
+  "name": "Project Seagrass",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-dark-15239524310837345482.png#ccrop:90",
+  "logo_white": "https://www.projectseagrass.org/wp-content/uploads/2020/04/white-logo-300x120.png",
+  "id": "project-seagrass",
   "category": "environment",
-  "englandWalesCharityRegNum": "1159373",
-  "summaryDescription": "We want to make the world a better place by restoring wild nature and building a rewilding movement across Britain.",
-  "crm": "2641591967@2506405019@monday.com",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "1162824",
+  "crm": "2641587017@2506405019@monday.com",
   "status": "PUBLISHED"
 }
