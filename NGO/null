@@ -1,36 +1,25 @@
 {
-  "circleCrop": "65.0",
-  "images": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/ptp-6463648908077869373.jpg",
+  "circleCrop": "98.0",
+  "images": "https://media.good-loop.com/uploads/raw/love-the-oceans-sogive-17840938315301389587.png",
   "@class": "com.goodloop.data.NGO",
+  "color": "#000000",
   "@type": "NGO",
-  "created": "2023-06-26T11:59:22Z",
-  "description": "The Prince\u0027s Trust is a charity in the United Kingdom founded in 1976 by Charles, Prince of Wales. They aim to help young people aged 11 to 30 who are unemployed and those at risk of unemployment because they have struggled at school. They want to bring young people together from different backgrounds, cultures and faiths, so that they can make a positive difference in their communities. The Prince\u0027s Trust provides practical support, enabling young people to overcome their problems and get their lives on track. This is done by delivering programmes and basic financial support, which help young people to develop the confidence and skills they need to get a job or start a business.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "prince-s-trust",
-      "name": "young people supported",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 9458390,
-        "value": "945.839010585892409342000"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Love the Oceans",
+  "created": "2023-04-03T22:00:46Z",
+  "description": "Supporting marine conservation work in Jangamo Bay, Mozambique. Love The Oceans is supporting the community to protect and study the diverse ocean life found here, including many species of sharks, rays and the famous humpback whales. We use research, education and diving to drive action towards a more sustainable future. \n\nOur ultimate goal is to support the community in establishing a Marine Protected Area for the Inhambane Province in Mozambique, achieving higher biodiversity whilst protecting endangered species. ",
   "suggest": [
-    "Prince\u0027s Trust"
+    "",
+    "Love the Oceans"
   ],
-  "url": "https://www.princes-trust.org.uk/",
-  "UNSDG": 8.0,
-  "name": "Prince\u0027s Trust",
-  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/1200px-The__Princes__Trust.svg-14504134976233229155.png",
-  "id": "prince-s-trust",
-  "category": "human services",
-  "englandWalesCharityRegNum": "1079675",
-  "summaryDescription": "The Prince\u0027s Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training.",
-  "crm": "2506405343@2506405019@monday.com",
+  "url": "https://lovetheoceans.org/",
+  "UNSDG": 14.0,
+  "xero": "653f423f-4fca-4a71-9eee-c1ff2cb853c9@xero.com",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/Logoname-5950773496283629902.png#ccrop:80",
+  "id": "love-the-oceans",
+  "category": "environment",
+  "englandWalesCharityRegNum": "1184402 ",
+  "summaryDescription": "Love The Oceans is working to protect and study the diverse ocean life found in Jangamo Bay, Mozambique, including many species of sharks, rays and the famous humpback whales. We use research, education and diving to drive action towards a more sustainable future. Our ultimate goal is to establish a Marine Protected Area for the Inhambane Province in Mozambique, achieving higher biodiversity whilst protecting endangered species. ",
+  "crm": "2506405325@2506405019@monday.com",
   "status": "PUBLISHED"
 }
