@@ -1,16 +1,23 @@
 {
-  "scotlandCharityRegNum": "SC044072",
+  "circleCrop": "80.0",
+  "images": "https://media.good-loop.com/uploads/raw/About-Veganuary-2486623057588506041.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:59:29Z",
-  "name": "Playlist for Life",
-  "id": "playlist-for-life",
+  "displayName": "Veganuary",
+  "created": "2023-06-26T11:59:32Z",
+  "description": "Veganuary is a non-profit organisation that encourages people worldwide to try vegan for January and beyond. During the 2021 campaign, more than 500,000 people took our pledge to try a vegan diet, while more than 825 new vegan products and menu options were launched in our key campaign countries.\n\nThroughout the year, Veganuary encourages and supports people and businesses alike to move to a plant-based diet as a way of protecting the environment, preventing animal suffering, and improving the health of millions of people.",
   "suggest": [
-    "Playlist for Life"
+    "veganuary",
+    "Veganuary"
   ],
+  "url": "https://veganuary.com/",
+  "UNSDG": 11.0,
+  "name": "veganuary",
+  "logo": "https://media.good-loop.com/uploads/standard/Veganuary-heart-9326605761299246616.jpg#ccrop:70",
+  "id": "veganuary",
   "category": "health",
-  "url": "www.playlistforlife.org.uk",
-  "crm": "2506405315@2506405019@monday.com",
-  "UNSDG": 3.0,
+  "englandWalesCharityRegNum": "1168566",
+  "summaryDescription": "Veganuary is a non-profit organisation that encourages people worldwide to try vegan for January and beyond. During the 2021 campaign, more than 500,000 people took our pledge to try a vegan diet, while more than 825 new vegan products and menu options were launched in our key campaign countries.\n\nThroughout the year, Veganuary encourages and supports people and businesses alike to move to a plant-based diet as a way of protecting the environment, preventing animal suffering, and improving the health of millions of people.",
+  "crm": "2506405309@2506405019@monday.com",
   "status": "PUBLISHED"
 }
