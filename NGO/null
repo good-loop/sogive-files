@@ -1,23 +1,17 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Canine-Partners__feelgood-6797519647401551362.png",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Canine Partners for Independence",
-  "created": "2023-06-26T11:56:27Z",
-  "description": "Our assistance dogs are trained to meet the needs of individuals with even the most complex physical disabilities. We currently help adults aged 18 and over (both civilians and former service personnel) who have a physical disability or condition that affects their daily life and limits their independence.",
+  "created": "2023-06-26T11:56:30Z",
+  "description": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis. We are part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.",
   "suggest": [
-    "CANINE PARTNERS FOR INDEPENDENCE",
-    "Canine Partners for Independence"
+    "camden-food-bank"
   ],
-  "UNSDG": 15.0,
-  "name": "CANINE PARTNERS FOR INDEPENDENCE",
-  "logo": "https://media.good-loop.com/uploads/standard/cp-logo-14215768424552209884.png#ccrop:84",
-  "lastModified": "2020-10-26T12:44:17Z",
-  "id": "canine-partners-for-independence",
-  "category": "animals",
-  "crm": "2602440965@2506405019@monday.com",
+  "url": "https://camden.foodbank.org.uk/",
+  "name": "camden-food-bank",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/camden.food.bank-8217567470109768729-4781341358346574581.jpg",
+  "lastModified": "2020-08-28T13:05:41Z",
+  "id": "camden-food-bank",
+  "summaryDescription": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis.",
+  "crm": "2602437077@2506405019@monday.com",
   "status": "PUBLISHED"
 }
