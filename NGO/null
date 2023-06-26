@@ -1,17 +1,19 @@
 {
-  "scotlandCharityRegNum": "SC039168",
+  "ukCompanyRegNum": "04474904",
+  "circleCrop": "90.0",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Soil Association",
-  "created": "2023-06-26T11:55:51Z",
-  "name": "Soil Association Ltd",
-  "id": "soil-association-ltd",
+  "displayName": "International Medical Corps",
+  "created": "2023-06-26T11:55:54Z",
   "suggest": [
-    "Soil Association Ltd",
-    "Soil Association"
+    "international-medical-corps",
+    "International Medical Corps"
   ],
-  "url": "www.soilassociation.org",
-  "crm": "2640381292@2506405019@monday.com",
-  "UNSDG": 15.0,
+  "url": "https://internationalmedicalcorps.org.uk/",
+  "name": "international-medical-corps",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/int__med__corps__logo-14951200879590896979.jpg",
+  "id": "international-medical-corps",
+  "summaryDescription": "International Medical Corps is working to relieve the suffering of those impacted by war, natural disaster and disease by delivering vital healthcare services that focus on training, helping devastated populations return to self-reliance.",
+  "crm": "2640348108@2506405019@monday.com",
   "status": "PUBLISHED"
 }
