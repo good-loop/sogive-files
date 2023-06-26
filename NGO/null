@@ -1,23 +1,16 @@
 {
-  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/NoKidHungry__feelgood-14135460749338804179.jpg",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "No Kid Hungry",
-  "created": "2023-06-26T11:56:18Z",
-  "description": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world. After 25 years of successfully investing in local nonprofits and helping find the best approaches to eradicating poverty and hunger, Share Our Strength launched No Kid Hungry in 2010.\n\nAs a child hunger organization, ending childhood hunger is our primary focus, though Share Our Strength continues to invest in and develop other campaigns.",
+  "displayName": "Ibs Network",
+  "name": "ibs network",
+  "logo": "https://media.good-loop.com/uploads/standard/pngwing.com-17920950373783099158.png",
+  "id": "ibs",
   "suggest": [
-    "No Kid Hungry",
-    "No Kid Hungry"
+    "ibs network",
+    "Ibs Network"
   ],
-  "url": "https://www.nokidhungry.org/",
-  "UNSDG": 2.0,
-  "name": "No Kid Hungry",
-  "logo": "https://media.good-loop.com/uploads/standard/NKH__2018__logo__black-8329278108819410002.png",
-  "lastModified": "2020-10-12T12:07:04Z",
-  "id": "no-kid-hungry",
-  "category": "human services",
-  "summaryDescription": "No Kid Hungry is a national campaign run by Share Our Strength, a nonprofit working to solve problems of hunger and poverty in the United States and around the world.",
-  "usCharityRegNum": "52-1367538",
-  "crm": "2506405725@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "url": "https://www.theibsnetwork.org/",
+  "status": "MODIFIED"
 }
