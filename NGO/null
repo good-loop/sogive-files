@@ -1,25 +1,18 @@
 {
-  "circleCrop": "111.0",
-  "images": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-26_at_18.12.24-16466437032056565230.png",
+  "images": "https://media.good-loop.com/uploads/standard/spacetoconnect-6650-11263973050253364390.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#000000",
   "@type": "NGO",
-  "displayName": "RSPB",
-  "created": "2023-06-26T12:00:25Z",
-  "description": "[Royal Society for the Protection of Birds](https://www.rspb.org.uk/), the largest wildlife conservation charity in Europe, Royal Society for the Protection of Birds (RSPB) promotes conservation and protection of birds and the wider environment through public awareness campaigns, petitions, and through the operation of nature reserves throughout the United Kingdom.",
+  "displayName": "ChaShaMa",
+  "created": "2023-04-03T22:00:25Z",
+  "description": "Chashama helps create a more diverse, equitable, and inclusive world by partnering with property owners to transform unused real estate. These spaces are used for artists, small businesses, and for free community-centric art classes. ",
   "suggest": [
-    "Royal Society for the Protection of Birds",
-    "RSPB"
+    "ChaShaMa"
   ],
-  "url": "https://www.rspb.org.uk/",
-  "UNSDG": 15.0,
-  "name": "Royal Society for the Protection of Birds",
-  "logo": "https://media.good-loop.com/uploads/raw/Screenshot_2021-09-08_124533-5356323224953346833.png",
-  "lastModified": "2020-11-27T14:52:34Z",
-  "id": "royal-society-for-the-protection-of-birds",
-  "category": "animals",
-  "englandWalesCharityRegNum": "207076",
-  "summaryDescription": "Royal Society for the Protection of Birds works to promote the conservation and protection of birds.",
-  "crm": "2506405157@2506405019@monday.com",
+  "url": "https://chashama.org/",
+  "UNSDG": 8.0,
+  "xero": "c96bcd1a-8fb7-46a0-8974-afd0059b0fab@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/Chashama__Logo__Black_002-16340549997762120861.png",
+  "id": "chashama",
+  "crm": "2506405155@2506405019@monday.com",
   "status": "PUBLISHED"
 }
