@@ -1,57 +1,23 @@
 {
-  "circleCrop": "74.0",
-  "images": "https://media.good-loop.com/uploads/standard/edited_2-13043592478090842141.jpeg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/standard/5f492d137d859002b2324c31__anti-bullying-newsletter-431212238513675589.jpg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#4f8ddc",
+  "color": "#42b59d",
   "@type": "NGO",
-  "displayName": "1% Percent For The Planet ",
-  "created": "2023-06-26T12:01:07Z",
-  "description": "1% for the Planet is a global organisation that exists to ensure our planet and future generations thrive. They inspire businesses and individuals to support environmental nonprofits through membership and everyday actions. They make environmental giving easy and effective through partnership advising, impact storytelling and third-party certification.\n\nStarted in 2002 by Yvon Chouinard, founder of Patagonia, and Craig Mathews, founder of Blue Ribbon Flies, their business members and individual members have given hundreds of millions of dollars to their approved nonprofit partners to date. Today, 1% for the Planet’s global network consists of thousands of businesses, individuals and environmental nonprofits working toward a better future for all. ",
-  "altlogo": "https://media.good-loop.com/uploads/standard/1ftp__Primary__Horizontal__White-5481440098979013387.png",
+  "displayName": "The Diana Award",
+  "created": "2023-06-26T12:01:10Z",
+  "description": "The Diana Awards\u0027 Anti-Bullying Programme provides resources and support for people who are experiencing bullying behaviour, those who want to support someone who is experiencing bullying behaviour and for people like us, who are passionate about promoting an anti-bullying culture and communities of kindness.",
   "suggest": [
-    "1% Percent For The Planet",
-    "1% Percent For The Planet "
+    "The Diana Award",
+    "The Diana Award"
   ],
-  "url": "https://onepercentfortheplanet.org/",
-  "UNSDG": 13.0,
-  "headerImage": "https://media.good-loop.com/uploads/standard/1105x622__hardy__l__0001-13444713393559282633.jpg",
-  "name": "1% Percent For The Planet",
-  "logo": "https://media.good-loop.com/uploads/standard/1ftp__Primary__Horizontal__Black-1-4198043237559775171.png#ccrop:90",
-  "id": "one-percent-for-the-planet",
-  "category": "environment",
-  "extendedDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.\n\n1% For The Planet was founded to prevent greenwashing, certify reputable giving and provide accountability. The 1% For The Planet certification is given to businesses and individuals that meet their high-bar commitment-donate 1% of annual sales or salary to environmental causes. \n\nFor every $1 contributed, 1% for the Planet will leverage $13 in impact to on-the-ground environmental organisations. ",
-  "subcategory": "Environmental Protection and Conservation",
-  "summaryDescription": "Only 3% of total philanthropic giving goes to environmental causes...1% For The Planet is on a mission to change that.",
-  "imageList": [
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/1105x622__hardy__l__0001-542131630836105443.jpg",
-      "created": "2023-06-26T12:01:07Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/C45CB2E0-3181-465D-93B4-3FD75842F4E4__1__201__a-1-17053322733886608181.jpg",
-      "created": "2023-06-26T12:01:07Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/TakeActionHero-01-2-14304436180398811729.jpg",
-      "created": "2023-06-26T12:01:07Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/BigGreen-E19__118-2-4238137989616402388.jpeg",
-      "created": "2023-06-26T12:01:07Z"
-    },
-    {
-      "@class": "com.goodloop.data.ImageObject",
-      "contentUrl": "https://media.good-loop.com/uploads/raw/Screen-Shot-2020-07-20-at-12-00-07-PM-__1__-3140639695286275968.jpg",
-      "created": "2023-06-26T12:01:07Z"
-    }
-  ],
-  "crm": "2506405067@2506405019@monday.com",
+  "url": "https://diana-award.org.uk/anti-bullying/",
+  "UNSDG": 8.0,
+  "name": "The Diana Award",
+  "logo": "https://media.good-loop.com/uploads/standard/Screenshot_2021-09-20_155353-14517508325547122124.png#ccrop:_ccrop:_ccrop:_ccrop:150",
+  "txtColor": "#000000",
+  "id": "the-diana-award",
+  "category": "education",
+  "subcategory": "Youth Education",
+  "crm": "2506405065@2506405019@monday.com",
   "status": "PUBLISHED"
 }
