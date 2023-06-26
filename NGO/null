@@ -1,18 +1,24 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/rosa-7445227194251719452.png",
+  "scotlandCharityRegNum": "SC045970",
   "@class": "com.goodloop.data.NGO",
+  "color": "#e61d77",
   "@type": "NGO",
-  "created": "2023-06-26T11:58:10Z",
+  "displayName": "Coppafeel!",
+  "created": "2023-06-26T11:58:13Z",
+  "description": "[Coppafeel]https://coppafeel.org/wp-content/uploads/2019/11/CF-Annual-Report-2018_screen.pdf) encourages young people to check their boobs and pecs regularly from a young age, educates them on the signs and symptoms of breast cancer, and empowers them to seek advice from a doctor if symptoms persist.",
   "suggest": [
-    "rosa"
+    "CoppaFeel",
+    "Coppafeel!"
   ],
-  "url": "https://rosauk.org/",
-  "UNSDG": 5.0,
-  "name": "rosa",
-  "id": "rosa",
-  "category": "human services",
-  "englandWalesCharityRegNum": "1124856",
-  "summaryDescription": "Rosa helps to strengthen specialist women’s organisations so they can meet the needs of the women and girls they work with. We do this by bringing in new sources of funding, investing resources into the women’s sector, and building a community of organisations rooted in the power of collective action.",
-  "crm": "2506405517@2506405019@monday.com",
+  "url": "https://www.coppafeel.org",
+  "UNSDG": 3.0,
+  "name": "CoppaFeel",
+  "logo": "https://media.good-loop.com/uploads/standard/coppafeel_logo.svg",
+  "lastModified": "2020-10-20T22:07:02Z",
+  "id": "coppafeel",
+  "category": "health",
+  "englandWalesCharityRegNum": "1132366",
+  "summaryDescription": "[Coppafeel](https://coppafeel.org/our-charity/) educates people about breast cancer and encourages them to check their breasts. ",
+  "crm": "2506405514@2506405019@monday.com",
   "status": "PUBLISHED"
 }
