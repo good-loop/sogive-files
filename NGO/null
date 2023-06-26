@@ -1,17 +1,17 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Native Forest Restoration Trust",
-  "created": "2023-04-03T21:58:01Z",
+  "displayName": "American Forests",
+  "created": "2023-04-03T22:02:49Z",
   "suggest": [
-    "Native Forest Restoration Trust"
+    "American Forests"
   ],
-  "url": "https://www.nfrt.org.nz/",
+  "url": "https://www.americanforests.org/",
   "UNSDG": 15.0,
-  "xero": "c736a3de-3ce6-40a2-847c-dd525e01cb61@xero.com",
-  "logo": "https://media.good-loop.com/uploads/standard/nfrtlogo__sidetypo__01-5784420233606838695.png#ccrop:90",
-  "id": "native-forest-restoration-trust",
+  "xero": "c06f6851-6c98-47e6-abd9-ee3b785613d7@xero.com",
+  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
+  "id": "american-forests",
   "category": "environment",
-  "crm": "2641578516@2506405019@monday.com",
+  "crm": "2641515809@2506405019@monday.com",
   "status": "PUBLISHED"
 }
