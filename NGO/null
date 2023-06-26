@@ -1,17 +1,43 @@
 {
+  "scotlandCharityRegNum": "SC039426",
+  "images": "https://media.good-loop.com/uploads/raw/bhf-3571690302142809668.jpeg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:56:30Z",
-  "description": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis. We are part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.",
-  "suggest": [
-    "camden-food-bank"
+  "displayName": "British Heart Foundation (BHF)",
+  "created": "2023-06-26T11:56:33Z",
+  "description": "The research funded by the British Heart Foundation covers a broad range of heart and cardiovascular conditions, including heart attacks, angina and coronary heart disease, high blood pressure, stroke and diabetes. A sizable minority of BHF\u0027s work is on preventative work such as providing training on CPR in schools, community groups and workplaces, and also making defibrillators more widely available. BHF has also identified a link between exposure to air pollution and risk of stroke and circulatory disease. BHF furthermore has one of the largest networks of charity shops.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "british-heart-foundation",
+      "name": "year(s) of healthy life gained",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 17000000,
+        "value": "1700.0",
+        "name": ""
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://camden.foodbank.org.uk/",
-  "name": "camden-food-bank",
-  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/camden.food.bank-8217567470109768729-4781341358346574581.jpg",
-  "lastModified": "2020-08-28T13:05:41Z",
-  "id": "camden-food-bank",
-  "summaryDescription": "We don’t think anyone in our community should have to face going hungry. That’s why we provide three days’ nutritionally balanced emergency food and support to local people who are referred to us in crisis.",
-  "crm": "2602437077@2506405019@monday.com",
+  "suggest": [
+    "British Heart Foundation",
+    "British Heart Foundation (BHF)"
+  ],
+  "url": "https://www.bhf.org.uk/",
+  "UNSDG": 3.0,
+  "name": "British Heart Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/British__Heart__Foundation-9807891336815029518.png#ccrop:80",
+  "lastModified": "2020-10-16T12:56:38Z",
+  "id": "british-heart-foundation",
+  "category": "health",
+  "englandWalesCharityRegNum": "225971",
+  "summaryDescription": "BHF fights heart and circulatory disease primarily through research, but also through education, such as training on CPR.",
+  "crm": "2602433705@2506405019@monday.com",
   "status": "PUBLISHED"
 }
