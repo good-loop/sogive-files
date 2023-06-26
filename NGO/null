@@ -1,20 +1,20 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/nba__900x600logo__609800-7533886477998772794.png",
+  "images": "https://media.good-loop.com/uploads/standard/connie-1-18442442946391275680.jpeg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The National Brain Appeal",
-  "created": "2023-06-26T11:58:34Z",
-  "description": "The National Brain Appeal raises funds to advance treatment and research at The National Hospital for Neurology \u0026 Neurosurgery and the UCL Queen Square Institute of Neurology - together known as ‘Queen Square’",
+  "displayName": "(RED)",
+  "created": "2023-06-26T11:58:37Z",
+  "description": "(RED) partners with the world’s greatest brands to create (RED) products and experiences-all of which raise money for the Global Fund, one of the world’s largest funders for global health. Every action you take with (RED) helps save lives.\n\nThe money raised by (RED)’s partners and campaigns goes directly to strengthen health systems and support life-saving programs in the communities where pandemics hit hardest.",
   "suggest": [
-    "The National Brain Appeal",
-    "The National Brain Appeal"
+    "",
+    "(RED)"
   ],
-  "url": "https://www.nationalbrainappeal.org/",
+  "url": "https://www.red.org/",
   "UNSDG": 3.0,
-  "name": "The National Brain Appeal",
-  "logo": "https://media.good-loop.com/uploads/standard/national-brain-appeal-logo-15571612859182782791.jpeg#ccrop:90",
-  "id": "the-national-brain-appeal",
-  "category": "health",
-  "crm": "2506405457@2506405019@monday.com",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/REDLogo-Red-10813027973538416933.png#ccrop:80",
+  "id": "red",
+  "category": "human services",
+  "crm": "2506405451@2506405019@monday.com",
   "status": "PUBLISHED"
 }
