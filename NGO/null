@@ -1,16 +1,46 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "scotlandCharityRegNum": "SC039479",
+  "circleCrop": "90.0",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "color": "#00aeef",
   "@type": "NGO",
-  "displayName": "Single Mom Strong",
-  "created": "2023-06-26T11:58:49Z",
-  "logo": "https://media.good-loop.com/uploads/standard/single-mom-strong-6502572522574794360.png",
-  "id": "single-mom-strong",
-  "suggest": [
-    "Single Mom Strong"
+  "displayName": "WaterAid",
+  "description": "",
+  "UNSDG": 6.0,
+  "logo": "https://media.good-loop.com/uploads/raw/download-9621293462672588031.png#ccrop:90",
+  "id": "wateraid",
+  "summaryDescription": "WaterAid is an international charity that transforms lives by improving access to safe water, hygiene, and sanitation.",
+  "usCharityRegNum": "30-018-1674",
+  "crm": "2506405423@2506405019@monday.com",
+  "images": "https://app.sogive.org/uploads/eve.hannah2outlook.comemail/wateraid-6917308218398840751.jpg",
+  "@class": "com.goodloop.data.NGO",
+  "created": "2023-06-26T11:58:52Z",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "wateraid",
+      "name": "Sanitation Interventions (singular: Intervention)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 60776,
+        "value": "6.07768469154607796700000"
+      },
+      "n": 1.0
+    }
   ],
-  "category": "human services",
-  "url": "",
-  "crm": "2506405428@2506405019@monday.com",
-  "UNSDG": 5.0,
+  "suggest": [
+    "WaterAid",
+    "WaterAid"
+  ],
+  "url": "https://www.wateraid.org/",
+  "name": "WaterAid",
+  "lastModified": "2020-10-28T13:15:16Z",
+  "category": "international",
+  "subcategory": "International Development",
+  "englandWalesCharityRegNum": "288701",
   "status": "PUBLISHED"
 }
