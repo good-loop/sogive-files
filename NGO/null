@@ -1,15 +1,36 @@
 {
+  "images": "https://media.good-loop.com/uploads/standard/challenge-series-900x500-10589319524503565400.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-02-20T12:25:35Z",
-  "name": "Queer Britain Museum Ltd",
-  "id": "queer-britain-museum-ltd",
+  "displayName": "Ambitious About Autism",
+  "created": "2023-06-26T11:54:05Z",
   "suggest": [
-    "Queer Britain Museum Ltd"
+    "Ambitious About Autism",
+    "Ambitious About Autism"
   ],
-  "englandWalesCharityRegNum": "1180240",
-  "url": "https://queerbritain.org.uk/",
-  "crm": "4013971528@2506405019@monday.com",
+  "url": "https://www.ambitiousaboutautism.org.uk/",
   "UNSDG": 10.0,
+  "simpleImpact": {
+    "@class": "com.goodloop.data.charity.Impact",
+    "name": "could provide an autistic young person with 1.1 careers support. With only 29% of autistic young people in any kind of employment, providing this support is vital.",
+    "amount": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 200000,
+      "value": "20.0"
+    },
+    "n": 1.0
+  },
+  "headerImage": "https://media.good-loop.com/uploads/standard/challenge-series-900x500-3785499909215557786.jpg",
+  "name": "Ambitious About Autism",
+  "logo": "https://media.good-loop.com/uploads/standard/Ambitious-about-Auitism-logo-8381974465545810377.jpg#ccrop:115",
+  "id": "ambitious-about-autism",
+  "englandWalesCharityRegNum": "1063184",
+  "summaryDescription": "The voices of autistic children and young people are at the heart of everything that we do. We want to help create a world where voices of autistic children and young people are heard, included and supported.",
+  "crm": "3981524690@2506405019@monday.com",
   "status": "PUBLISHED"
 }
