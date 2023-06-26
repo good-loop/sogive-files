@@ -1,24 +1,22 @@
 {
-  "ukCompanyRegNum": "1048995",
-  "circleCrop": "75.0",
+  "circleCrop": "85.0",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Americares",
-  "created": "2023-06-26T11:56:36Z",
-  "description": "Americares saves lives and improves health for people affected by poverty or disaster so they can reach their full potential. \nSince their founding in 1979, Americares has delivered more than $17 billion in quality medical aid and innovative health programs to 164 countries, including the U.S.",
+  "displayName": "Red Cross",
+  "created": "2023-06-26T11:56:39Z",
   "suggest": [
-    "Americares",
-    "Americares"
+    "red-cross",
+    "Red Cross"
   ],
-  "url": "https://www.americares.org/",
+  "url": "https://www.redcross.org/",
   "UNSDG": 3.0,
-  "name": "Americares",
-  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/americares-4096553405448195934.png",
-  "lastModified": "2020-12-08T13:19:59Z",
-  "id": "americares",
-  "category": "health",
-  "summaryDescription": "Americares saves lives and improves health for people affected by poverty or disaster so they can reach their full potential. ",
-  "usCharityRegNum": "061008595",
-  "crm": "2602430934@2506405019@monday.com",
+  "name": "red-cross",
+  "logo": "https://media.good-loop.com/uploads/standard/British__Red__Cross__fc40ed26b76c58eba36b21e5e9defe01-1943121802986267341.jpg#ccrop:136",
+  "id": "american-red-cross",
+  "category": "human services",
+  "crm": "2602430453@2506405019@monday.com",
   "status": "PUBLISHED"
 }
