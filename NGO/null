@@ -1,21 +1,24 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/thurgood_marshall_-10064739373520053292.jpeg",
+  "scotlandCharityRegNum": "SC037554",
+  "images": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/parkinsons-640x422-7364440436289532497.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Thurgood Marshall College Fund",
-  "created": "2023-04-03T21:58:29Z",
-  "description": "Established in 1987, the Thurgood Marshall College Fund (TMCF) is the nation’s largest organization exclusively representing the Black College Community. TMCF member-schools include the publicly-supported Historically Black Colleges and Universities (HBCUs) and Predominantly Black Institutions (PBIs). Publicly-supported HBCUs enroll over 80% of all students attending HBCUs. Through scholarships, capacity building and research initiatives, innovative programs, and strategic partnerships, TMCF is a vital resource in the K-12 and higher education space. The organization is also a source for top employers seeking top talent for competitive internships and good jobs.",
+  "displayName": "Parkinson\u0027s UK",
+  "created": "2023-06-26T11:56:00Z",
+  "description": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning. They operate across the UK and believe a cure will be found by overcoming the symptoms of Parkinson\u0027s one by one.",
   "suggest": [
-    "Thurgood Marshall College Fund",
-    "Thurgood Marshall College Fund"
+    "Parkinson\u0027s Disease Society Of The United Kingdom",
+    "Parkinson\u0027s UK"
   ],
-  "url": "https://www.tmcf.org/",
-  "UNSDG": 4.0,
-  "xero": "64d6ae0a-8d86-44a3-8c23-44e4d95c9a58@xero.com",
-  "name": "Thurgood Marshall College Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/download_19-12631027652450681588.png#ccrop:129",
-  "id": "thurgood",
-  "category": "education",
-  "crm": "2640283086@2506405019@monday.com",
+  "url": "https://www.parkinsons.org.uk",
+  "UNSDG": 3.0,
+  "name": "Parkinson\u0027s Disease Society Of The United Kingdom",
+  "logo": "https://app.sogive.org/uploads/mohit15hotmail.co.ukemail/logo-9840701543890193685.png",
+  "lastModified": "2020-08-31T12:41:42Z",
+  "id": "parkinson-s-disease-society-of-the-united-kingdom",
+  "category": "health",
+  "englandWalesCharityRegNum": "258197",
+  "summaryDescription": "This charity supports those in the UK who may either suffer or are affected by someone with Parkinson\u0027s. They also fund research into Parkinson\u0027s and help by volunteering, fundraising and campaigning.",
+  "crm": "2640254028@2506405019@monday.com",
   "status": "PUBLISHED"
 }
