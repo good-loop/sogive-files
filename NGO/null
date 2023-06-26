@@ -1,17 +1,17 @@
 {
+  "scotlandCharityRegNum": "SC039168",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "American Forests",
-  "created": "2023-04-03T22:02:49Z",
+  "displayName": "Soil Association",
+  "created": "2023-06-26T11:55:51Z",
+  "name": "Soil Association Ltd",
+  "id": "soil-association-ltd",
   "suggest": [
-    "American Forests"
+    "Soil Association Ltd",
+    "Soil Association"
   ],
-  "url": "https://www.americanforests.org/",
+  "url": "www.soilassociation.org",
+  "crm": "2640381292@2506405019@monday.com",
   "UNSDG": 15.0,
-  "xero": "c06f6851-6c98-47e6-abd9-ee3b785613d7@xero.com",
-  "logo": "https://media.good-loop.com/uploads/standard/Primary-Logo-12485707808173367308.png#ccrop:90",
-  "id": "american-forests",
-  "category": "environment",
-  "crm": "2641515809@2506405019@monday.com",
   "status": "PUBLISHED"
 }
