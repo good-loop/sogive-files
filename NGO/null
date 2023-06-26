@@ -1,24 +1,19 @@
 {
-  "images": "https://www.goldstandard.org/sites/default/files/gs_header2.jpg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/standard/terrence-higgings-16150517139874397129.jpeg",
   "@class": "com.goodloop.data.NGO",
-  "color": "#0fb2b7",
   "@type": "NGO",
-  "created": "2023-04-03T21:42:23Z",
+  "created": "2023-06-26T11:55:21Z",
+  "description": "Our mission is to eradicate HIV transmission in the UK, to empower and support people living with HIV to lead healthy lives, to amplify the voices of those living with and affected by HIV across public and political arenas to eradicate discrimination, and to enable people to enjoy good sexual health.\n\nOur work helps us to directly support over 100,000 people every year. Our current activities include the promotion of better HIV, sexual health and general health by education of the public through initiatives such as our campaigning work, the provision of HIV and sexual health programmes and material such as our digital service offer THT at Home, Work Positive, and the information we produce as part of our delivery of the National HIV Prevention programme in England, care and support services such as our complementary therapy services and counselling, clinical services in the form of HIV, blood borne virus (BBV) and STI testing, and advice, information and advocacy through our free-to-call helpline, THT Direct.",
   "suggest": [
-    "Gold Standard"
+    "Terrence Higgins Trust"
   ],
-  "url": "https://www.goldstandard.org/",
-  "UNSDG": 13.0,
-  "xero": "de6eb2b6-4a50-44d4-a6a1-aad48da1a1fc",
-  "name": "Gold Standard",
-  "logo": "https://media.good-loop.com/uploads/raw/GS__Logo__Secondary-17676701736129606086.png",
-  "id": "gold-standard",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "summaryDescription": "Gold Standard for the Global Goals sets the standard for climate and development interventions to quantify, certify and maximise their impact -- creating value for people around the world and the planet we share. ",
-  "crm": "2866784930@2506405019@monday.com",
+  "url": "https://www.tht.org.uk/",
+  "UNSDG": 3.0,
+  "name": "Terrence Higgins Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/THT__COLOUR-300x300-17469380069855893159.png#ccrop:120",
+  "id": "terrence-higgins-trust",
+  "category": "health",
+  "englandWalesCharityRegNum": "288527",
+  "crm": "2742425831@2506405019@monday.com",
   "status": "PUBLISHED"
 }
