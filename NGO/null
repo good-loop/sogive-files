@@ -1,20 +1,17 @@
 {
-  "ukCompanyRegNum": "3031098",
-  "circleCrop": "90.0",
+  "scotlandCharityRegNum": "SC042944",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "The Mix",
-  "created": "2023-06-26T11:56:12Z",
-  "description": "The Mix is here to take on the embarrassing problems, weird questions, and please-don’t-make-me-say-it-out-loud thoughts that people under 25 have in order to give them the best support through our digital and phone services.",
+  "displayName": "National Literacy Trust",
+  "created": "2023-06-26T11:56:15Z",
+  "name": "",
+  "logo": "https://media.good-loop.com/uploads/standard/MFL-supporters-National-Literacy-Trust-logo-e1591286973800-7317939493532399602.png#ccrop:120_noscale",
+  "id": "national-literacy-trust",
   "suggest": [
-    "Youthnet",
-    "The Mix"
+    "",
+    "National Literacy Trust"
   ],
-  "url": "https://themix.org.uk",
-  "name": "Youthnet",
-  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/TheMix__logo-11474155643739291607.png",
-  "id": "youthnet",
-  "englandWalesCharityRegNum": "01048995",
-  "crm": "2602491537@2506405019@monday.com",
+  "url": "https://literacytrust.org.uk/",
+  "crm": "2602483757@2506405019@monday.com",
   "status": "PUBLISHED"
 }
