@@ -1,24 +1,27 @@
 {
-  "images": "https://media.good-loop.com/uploads/raw/terracycle-boat-6352872261498677191.png",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "circleCrop": "80.0",
+  "images": "https://media.good-loop.com/uploads/raw/Surfers-Against-Sewage-1-1024x512-8179448059935295295.jpeg",
   "@class": "com.goodloop.data.NGO",
+  "color": "#42c5e2",
   "@type": "NGO",
-  "displayName": "Terracycle Global Foundation",
-  "created": "2023-06-26T11:56:57Z",
+  "displayName": "Surfers Against Sewage",
+  "created": "2023-06-19T15:24:23Z",
+  "description": "Set up as a single-issue campaign group in 1990, Surfers Against Sewage led a nationwide campaign for improved water quality. In 2012, Surfers Against Sewage was recognised as a national marine conservation charity focused on the protection of waves, oceans, beaches, marine wildlife and coastal communities. Today the organisation represents an ever-expanding supporter base and campaigns on a diverse range of issues. SAS campaigns for both the UK\u0027s coastal environment and the health of all surfers and other recreational waters users. Recently, SAS has expanded its remit into the protection of the wave resource and surfing spots through the Protect Our Waves (POW) campaign. Since 1990, SAS has secured a multitude of campaign successes on behalf of all water users.",
   "suggest": [
-    "terracycle",
-    "Terracycle Global Foundation"
+    "Surfers Against Sewage",
+    "Surfers Against Sewage"
   ],
-  "url": "https://www.terracyclefoundation.org/",
-  "UNSDG": 12.0,
-  "name": "terracycle",
-  "logo": "https://media.good-loop.com/uploads/raw/terracycle-8805284507604640710.png#ccrop:85",
-  "id": "terracycle",
+  "url": "https://www.sas.org.uk/",
+  "UNSDG": 14.0,
+  "xero": "dbfc9d40-7af0-43f0-9f7b-ea0f5697ead2",
+  "name": "Surfers Against Sewage",
+  "logo": "https://media.good-loop.com/uploads/standard/SAS-PNG-LOGO-17721173277903951391.png#ccrop:90",
+  "txtColor": "#0a0a0a",
+  "id": "surfers",
   "category": "environment",
-  "summaryDescription": "Our mission is to address the complex challenges of collecting and recycling waste in emerging countries and communities. The TerraCycle Global Foundation engages with local communities in emerging regions to offer collection and recycling platforms for waste, with a special emphasis on preventing plastic pollution from entering our aquatic systems.",
-  "usCharityRegNum": "83-1677129",
-  "crm": "2506405815@2506405019@monday.com",
+  "subcategory": "Environmental Protection and Conservation",
+  "englandWalesCharityRegNum": "1145877",
+  "summaryDescription": "Surfers Against Sewage is a marine conservation charity working with communities to protect oceans, waves, beaches and marine life. It was created in 1990 by a group of Cornish surfers from the villages of St Agnes and Porthtowan on the north coast of Cornwall. ",
+  "crm": "2506405796@2506405019@monday.com",
   "status": "PUBLISHED"
 }
