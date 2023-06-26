@@ -1,20 +1,22 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/all-stars-project-inc-13636475576245283942.jpeg",
+  "circleCrop": "85.0",
+  "images": "https://media.good-loop.com/uploads/standard/img-sfondo-800x417-10870691381098208389.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "All Stars Project Inc.",
-  "created": "2023-06-26T11:59:10Z",
-  "description": "The All Stars Project is a national nonprofit organization that provides free performing arts and afterschool development programs to underserved youth and their families around the country. Using the developmental power of performance, ASP transforms the lives of youth from poor and underserved communities in partnership with caring adults giving everyone the chance to grow.  ASP’s award-winning programs, celebrating their 40th anniversary this year, bring people from all racial, economic and social walks of life together to create something positive, new and transformative for all involved.",
+  "displayName": "Arché",
+  "created": "2023-06-19T12:39:23Z",
+  "description": "Arché welcome mothers and children with problems related to maltreatment, immigration, social and psychological distress into our communities and we help them to redesign a better future.\n\nArché has in its mission the vocation to welcome. In difference, in difficulty, in illness but also in hope, acceptance means finding a common ground of dialogue and mutual trust in everyday life. It means being there, so that the journey is less tiring. For Arché, hospitality does not mean creating addiction but giving awareness every day of the possibility of a better life.",
   "suggest": [
-    "",
-    "All Stars Project Inc."
+    "fondazione-arche",
+    "Arché"
   ],
-  "url": "",
-  "UNSDG": 10.0,
-  "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/ASINC__K3262_illustrator_1-4582890770458554082.svg#ccrop:120",
-  "id": "all-stars-project",
-  "category": "community",
-  "crm": "2506405375@2506405019@monday.com",
+  "url": "https://arche.it/",
+  "UNSDG": 8.0,
+  "xero": "884d0133-34c6-4c83-9dbb-e222c99f104f",
+  "name": "fondazione-arche",
+  "logo": "https://media.good-loop.com/uploads/standard/Arche_Logo-14981663702342393724.png",
+  "id": "fondazione-arche",
+  "category": "arts culture humanities",
+  "crm": "2506405373@2506405019@monday.com",
   "status": "PUBLISHED"
 }
