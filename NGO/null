@@ -1,36 +1,69 @@
 {
-  "images": "",
-  "@class": "com.goodloop.data.NGO",
+  "scotlandCharityRegNum": "SC037843",
+  "circleCrop": "88.0",
+  "t4gTheme": {
+    "backdropImages": [
+      {
+        "contentUrl": "https://media.good-loop.com/uploads/raw/background1-13672768390484107874.jpg",
+        "@type": "ImageObject"
+      }
+    ],
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "The British Red Cross",
-  "created": "2023-06-26T11:57:18Z",
+  "displayName": "Dogs Trust",
+  "description": "Dogs Trust operates a network of rehoming centres across the UK; each provides dog accommodation, puppy houses, isolation blocks and treatment rooms. Dogs Trust provides financial assistance to allow owners in genuine need to have their dogs neutered through participating veterinary practices. They provide dog training and educational material on responsible dog ownership.",
+  "UNSDG": 15.0,
+  "headerImage": "https://media.good-loop.com/uploads/standard/dogs.-trust-header-5361347819789917756.jpg",
+  "logo": "https://media.good-loop.com/uploads/raw/Dogs__Trust__Logo__RGB-12024779637570618182.jpg",
+  "id": "dogs-trust",
+  "summaryDescription": "Dogs Trust, formerly known as the National Canine Defence League, is an animal welfare charity and humane society in the United Kingdom which specialises in the well-being of dogs.",
+  "crm": "2506405646@2506405019@monday.com",
+  "images": "https://media.good-loop.com/uploads/standard/v800__sam3-3132902669773307209.jpeg",
+  "@class": "com.goodloop.data.NGO",
+  "created": "2023-06-26T11:57:22Z",
   "impacts": [
     {
       "@class": "com.goodloop.data.charity.Impact",
-      "charity": "the-british-red-cross-society",
-      "name": "Individuals (singular: individual) provided with first aid and crisis education",
+      "charity": "dogs-trust",
+      "name": "Dogs cared for",
       "amount": {
         "@class": "com.goodloop.data.Money",
         "year": 0,
         "currency": "GBP",
-        "value100p": 1215710,
-        "value": "121.571072319201999000000"
+        "value100p": 55560500,
+        "value": "5556.05",
+        "name": ""
       },
       "n": 1.0
     }
   ],
   "suggest": [
-    "The British Red Cross Society",
-    "The British Red Cross"
+    "Dogs Trust",
+    "Dogs Trust"
   ],
-  "url": "https://www.redcross.org.uk/",
-  "UNSDG": 3.0,
-  "name": "The British Red Cross Society",
-  "logo": "https://media.good-loop.com/uploads/raw/british-red-cross-6761924690720045747.jpeg",
-  "id": "the-british-red-cross-society",
-  "category": "human services",
-  "englandWalesCharityRegNum": "220949",
-  "summaryDescription": "The British Red Cross Society is the United Kingdom body of the Red Cross, an international volunteer network dedicated to helping people prepare for, deal with and recover from crises (such as accidents or natural disasters).",
-  "crm": "2506405652@2506405019@monday.com",
+  "url": "https://www.dogstrust.org.uk/",
+  "name": "Dogs Trust",
+  "lastModified": "2020-11-18T06:10:26Z",
+  "category": "animals",
+  "extendedDescription": "£1-5 could pay for a range of treats for a rehoming centre which are vital in training dogs for their forever homes.\n\n£16 could buy one Sampling Kit for their ground-breaking Generation Pup study, studying dogs throughout their lifetime, helping them see how we can stop health or behaviour problems before they start.\n\n£25 could pay for a full vet check for a dog as soon as they arrive at Dogs Trust.\n\n£27 - £31 could cover the cost of all necessary vaccinations to keep their dogs healthy whilst they wait for their forever home.\n\n£40 could cover the cost of caring for one dog for one day at one of their rehoming centres.",
+  "englandWalesCharityRegNum": "227523",
+  "imageList": [
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/th-14244337042014394512.jpeg",
+      "created": "2023-06-26T11:57:22Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/Dogs-Trust-Pic-15286723547296456447.jpeg",
+      "created": "2023-06-26T11:57:22Z"
+    },
+    {
+      "@class": "com.goodloop.data.ImageObject",
+      "contentUrl": "https://media.good-loop.com/uploads/raw/th_6-17756688130873638043.jpeg",
+      "created": "2023-06-26T11:57:22Z"
+    }
+  ],
   "status": "PUBLISHED"
 }
