@@ -1,23 +1,17 @@
 {
-  "circleCrop": "80.0",
-  "images": "https://media.good-loop.com/uploads/raw/About-Veganuary-2486623057588506041.jpg",
+  "images": "https://media.good-loop.com/uploads/raw/wellmari-14814157006125116977.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Veganuary",
-  "created": "2023-06-26T11:59:32Z",
-  "description": "Veganuary is a non-profit organisation that encourages people worldwide to try vegan for January and beyond. During the 2021 campaign, more than 500,000 people took our pledge to try a vegan diet, while more than 825 new vegan products and menu options were launched in our key campaign countries.\n\nThroughout the year, Veganuary encourages and supports people and businesses alike to move to a plant-based diet as a way of protecting the environment, preventing animal suffering, and improving the health of millions of people.",
+  "created": "2023-06-26T11:59:35Z",
   "suggest": [
-    "veganuary",
-    "Veganuary"
+    "vellmari"
   ],
-  "url": "https://veganuary.com/",
-  "UNSDG": 11.0,
-  "name": "veganuary",
-  "logo": "https://media.good-loop.com/uploads/standard/Veganuary-heart-9326605761299246616.jpg#ccrop:70",
-  "id": "veganuary",
-  "category": "health",
-  "englandWalesCharityRegNum": "1168566",
-  "summaryDescription": "Veganuary is a non-profit organisation that encourages people worldwide to try vegan for January and beyond. During the 2021 campaign, more than 500,000 people took our pledge to try a vegan diet, while more than 825 new vegan products and menu options were launched in our key campaign countries.\n\nThroughout the year, Veganuary encourages and supports people and businesses alike to move to a plant-based diet as a way of protecting the environment, preventing animal suffering, and improving the health of millions of people.",
-  "crm": "2506405309@2506405019@monday.com",
+  "url": "https://asociacionvellmari.com/",
+  "UNSDG": 14.0,
+  "name": "vellmari",
+  "id": "vellmari",
+  "category": "environment",
+  "summaryDescription": "Located in a privileged spot in the heart of the Port of La Savina, just a few meters away from the only entry point to the island and surrounded by different amenities and services, Vellmari Diving Center has everything needed for the maximum comfort and enjoyment of its customers.\nFounded in 1993, its more than 25 years of experience in the diving industry make this Dive Center a winner bet where fun and safety go hand-in-hand, and whose pioneering projects have served as an international benchmark.\nVellmari is an SSI Platinum Instructor Training Center, which means it is qualified to teach any diving course from introductory to professional levels.",
+  "crm": "2506405289@2506405019@monday.com",
   "status": "PUBLISHED"
 }
