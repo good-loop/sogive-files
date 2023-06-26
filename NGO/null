@@ -1,18 +1,18 @@
 {
-  "scotlandCharityRegNum": "SC038890",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Learning Through Landscapes",
-  "created": "2023-06-26T12:00:49Z",
+  "displayName": "Women Win",
+  "created": "2023-06-26T12:00:52Z",
+  "logo": "https://media.good-loop.com/uploads/standard/womenwin-logo-7124322235539057839.svg#ccrop:85",
+  "id": "women-win",
   "suggest": [
-    "The Learning Through Landscapes Trust",
-    "Learning Through Landscapes"
+    "Women Win"
   ],
-  "url": "www.ltl.org.uk",
-  "UNSDG": 4.0,
-  "name": "The Learning Through Landscapes Trust",
-  "id": "the-learning-through-landscapes-trust",
-  "category": "education",
-  "crm": "2506405077@2506405019@monday.com",
+  "url": "https://www.womenwin.org/",
+  "crm": "2506405076@2506405019@monday.com",
+  "UNSDG": 5.0,
   "status": "PUBLISHED"
 }
