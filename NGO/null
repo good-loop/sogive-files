@@ -1,43 +1,21 @@
 {
-  "scotlandCharityRegNum": "13867",
-  "ukCompanyRegNum": "SC111538",
-  "circleCrop": "85.0",
-  "images": "https://app.sogive.org/uploads/anon/image1-6414824924964014968.png",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "SEAD Fund",
-  "created": "2023-06-26T11:56:51Z",
-  "description": "Provides small grants for projects that promote social justice and environmental care.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "sead",
-      "name": "project(s) funded",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 9000000,
-        "value": "900.0"
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Nuestra Tierra Conservation Project",
+  "created": "2023-06-26T11:56:54Z",
   "suggest": [
-    "SEAD",
-    "SEAD Fund"
+    "Nuestra Tierra Conservation Project",
+    "Nuestra Tierra Conservation Project"
   ],
-  "url": "https://sead.org.uk",
-  "UNSDG": 17.0,
-  "name": "SEAD",
-  "logo": "https://media.good-loop.com/uploads/raw/logo-green-bulb-name-16001527828519160492.png",
-  "lastModified": "2020-08-13T20:02:09Z",
-  "id": "sead",
-  "category": "community",
-  "summaryDescription": "Provides small grants for projects that promote social justice and environmental care.",
-  "crm": "2525940415@2506405019@monday.com",
+  "url": "https://www.nuestra-tierra.org/",
+  "UNSDG": 15.0,
+  "name": "Nuestra Tierra Conservation Project",
+  "logo": "https://media.good-loop.com/uploads/standard/NUESTRATIERRA__LOGO__Tagline-normalfont-474427147853752641.png#ccrop:110",
+  "id": "nuestra-tierra-conservation-project",
+  "category": "environment",
+  "crm": "2506405875@2506405019@monday.com",
   "status": "PUBLISHED"
 }
