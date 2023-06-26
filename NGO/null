@@ -1,19 +1,26 @@
 {
-  "circleCrop": "99.0",
+  "circleCrop": "90.0",
+  "images": "https://media.good-loop.com/uploads/standard/two-people-talking-in-an-office-2-13807590611664442662.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-26T11:57:43Z",
+  "displayName": "mind",
+  "created": "2023-06-26T11:57:46Z",
+  "description": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
   "suggest": [
-    "denis-miki-foundation"
+    "mind",
+    "mind"
   ],
-  "url": "https://denismikifoundation.org/",
-  "UNSDG": 1.0,
-  "name": "denis-miki-foundation",
-  "logo": "https://media.good-loop.com/uploads/raw/DMF_logo-17162435344730161651.jpg",
-  "id": "denis-miki-foundation",
-  "category": "community development",
-  "subcategory": "Housing and Neighborhood Development",
-  "summaryDescription": "Denis Miki Foundation (DMF) was formed out of the need to meet the challenges of the impact of the economic crisis and unemployment which greatly affects Cameroon as a country.",
-  "crm": "2506405581@2506405019@monday.com",
+  "url": "https://www.mind.org.uk/",
+  "UNSDG": 3.0,
+  "headerImage": "https://media.good-loop.com/uploads/standard/two-people-talking-in-an-office-2-3955822609639736013.jpg",
+  "name": "mind",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo_5-13170971813516385582.svg#ccrop:90",
+  "id": "mind",
+  "category": "health",
+  "summaryDescription": "What we do. We provide advice and support to empower anyone experiencing a mental health problem. We campaign to improve services, raise awareness and promote understanding.",
+  "crm": "2506405570@2506405019@monday.com",
   "status": "PUBLISHED"
 }
