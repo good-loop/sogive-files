@@ -1,42 +1,23 @@
 {
-  "scotlandCharityRegNum": "SC037479 ",
-  "ukCompanyRegNum": "02031836",
-  "images": "https://app.sogive.org/uploads/2646944015572784facebook/micaela-making-macaroons-image-m.jpg____2360x1324__q50__progressive__subsampling-2__upscale-37392268068314998.jpg",
+  "images": "https://app.sogive.org/uploads/katalingood-loop.comemail/Canine-Partners__feelgood-6797519647401551362.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Make-A-Wish UK",
-  "created": "2023-06-26T11:56:24Z",
-  "description": "Make-A-Wish UK has a group of [volunteers and staff members](https://www.make-a-wish.org.uk/about-us/what-we-do/our-story/) who aim to bring joy to ailing children. The charity claims that [research](https://assets.make-a-wish.org.uk/live/media/filer_public/e1/1b/e11be253-bb90-4270-9a19-2fda07fbdaf6/make-a-wish-uk-2019-annual-accounts.pdf) has shown that wish-granting also strengthens family bonds previously strained because of the child\u0027s illness. A subsidiary company called [Make-A-Wish Promotions Ltd](https://www.make-a-wish.org.uk/about-us/what-we-do/charity-information/) directs all of its profits to Make-a-wish UK.",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "make-a-wish-uk",
-      "name": "Wishes granted",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 119891400,
-        "value": "11989.14",
-        "name": ""
-      },
-      "n": 1.0
-    }
-  ],
+  "displayName": "Canine Partners for Independence",
+  "created": "2023-06-26T11:56:27Z",
+  "description": "Our assistance dogs are trained to meet the needs of individuals with even the most complex physical disabilities. We currently help adults aged 18 and over (both civilians and former service personnel) who have a physical disability or condition that affects their daily life and limits their independence.",
   "suggest": [
-    "Make a wish UK",
-    "Make-A-Wish UK"
+    "CANINE PARTNERS FOR INDEPENDENCE",
+    "Canine Partners for Independence"
   ],
-  "url": "https://www.make-a-wish.org.uk/",
-  "UNSDG": 3.0,
-  "name": "Make a wish UK",
-  "logo": "https://media.good-loop.com/uploads/raw/make_a_wish-16370189613665191384.jpg",
-  "lastModified": "2020-10-05T10:32:52Z",
-  "id": "make-a-wish-uk",
-  "category": "health",
-  "subcategory": "Patient and Family Support",
-  "englandWalesCharityRegNum": "295672",
-  "summaryDescription": "Make-A-Wish UK grants what it considers as life-altering wishes for children with critical illnesses.",
-  "crm": "2602459419@2506405019@monday.com",
+  "UNSDG": 15.0,
+  "name": "CANINE PARTNERS FOR INDEPENDENCE",
+  "logo": "https://media.good-loop.com/uploads/standard/cp-logo-14215768424552209884.png#ccrop:84",
+  "lastModified": "2020-10-26T12:44:17Z",
+  "id": "canine-partners-for-independence",
+  "category": "animals",
+  "crm": "2602440965@2506405019@monday.com",
   "status": "PUBLISHED"
 }
