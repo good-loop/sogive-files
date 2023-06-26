@@ -1,23 +1,43 @@
 {
-  "ukCompanyRegNum": "09389239",
-  "images": "https://media.good-loop.com/uploads/raw/Alder_Hay-13893425102866549608.jpeg",
+  "scotlandCharityRegNum": "13867",
+  "ukCompanyRegNum": "SC111538",
+  "circleCrop": "85.0",
+  "images": "https://app.sogive.org/uploads/anon/image1-6414824924964014968.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Alder Hey Children\u0027s Charity",
-  "created": "2023-04-03T21:59:10Z",
-  "description": "Alder Hey Children\u0027s Charity helps keep families together in neonatal care. The new surgical neonatal unit at Alder Hey will give families the best environment in which to thrive, every step of the way.",
-  "suggest": [
-    "alder-hey-",
-    "Alder Hey Children\u0027s Charity"
+  "displayName": "SEAD Fund",
+  "created": "2023-06-26T11:56:51Z",
+  "description": "Provides small grants for projects that promote social justice and environmental care.",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "sead",
+      "name": "project(s) funded",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 9000000,
+        "value": "900.0"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://www.alderheycharity.org/",
-  "UNSDG": 3.0,
-  "xero": "c7b0b71c-3ef6-4dc8-8171-3c6235e2e00c@xero.com",
-  "name": "alder-hey-",
-  "logo": "https://media.good-loop.com/uploads/raw/alderhey-logo-49593635459597152.svg",
-  "id": "alder-hey",
-  "category": "health",
-  "englandWalesCharityRegNum": "1160661",
-  "crm": "2602427653@2506405019@monday.com",
+  "suggest": [
+    "SEAD",
+    "SEAD Fund"
+  ],
+  "url": "https://sead.org.uk",
+  "UNSDG": 17.0,
+  "name": "SEAD",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-green-bulb-name-16001527828519160492.png",
+  "lastModified": "2020-08-13T20:02:09Z",
+  "id": "sead",
+  "category": "community",
+  "summaryDescription": "Provides small grants for projects that promote social justice and environmental care.",
+  "crm": "2525940415@2506405019@monday.com",
   "status": "PUBLISHED"
 }
