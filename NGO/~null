@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "ibs network",
+  "logo": "https://media.good-loop.com/uploads/standard/ibs-logo-4112350258906443417.png",
   "id": "ibs",
   "suggest": [
     "ibs network"
