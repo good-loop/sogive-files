@@ -1,15 +1,16 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-02-22T10:12:41Z",
-  "name": "We Don\u0027t Waste",
-  "id": "we-don-t-waste",
+  "created": "2023-03-07T17:08:37Z",
+  "name": "Guts UK Charity",
+  "id": "guts-uk-charity",
   "suggest": [
-    "We Don\u0027t Waste"
+    "Guts UK Charity"
   ],
   "category": "health",
-  "url": "www.wedontwaste.org",
-  "crm": "4125472783@2506405019@monday.com",
-  "UNSDG": 2.0,
+  "englandWalesCharityRegNum": "1137029",
+  "url": "https://gutscharity.org.uk",
+  "crm": "4101154379@2506405019@monday.com",
+  "UNSDG": 3.0,
   "status": "PUBLISHED"
 }
