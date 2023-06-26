@@ -1,24 +1,35 @@
 {
-  "images": "https://media.good-loop.com/uploads/standard/ntd-research-launch-2018-high-res-328-15978124770599557255.jpeg",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "images": "https://media.good-loop.com/uploads/raw/Helicopter-11856315256010344867.jpg",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Planet Ark",
-  "created": "2023-06-26T12:00:07Z",
-  "description": "Planet Ark Environmental Foundation is an Australian not-for-profit organisation that helps individuals, communities, governments and businesses reduce their impact on the environment. We are one of Australia’s leading environmental behaviour change organisations, with a focus on working collaboratively and positively.",
-  "suggest": [
-    "Planet Ark",
-    "Planet Ark"
+  "created": "2023-06-26T12:00:10Z",
+  "description": "The charity provide pre-hospital care through emergency transportation, via helicopters (during daylight hours) and rapid response cars (during night or adverse weather conditions). They also provide training, research and education in pre-hospital medicine",
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "london-s-air-ambulance",
+      "name": "patient(s) helped",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 20899971,
+        "value": "2089.9971771347918849598"
+      },
+      "n": 1.0
+    }
   ],
-  "url": "https://planetark.org/",
-  "UNSDG": 13.0,
-  "name": "Planet Ark",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-planetark-16966111885978789380.png#ccrop:90",
-  "id": "planet-ark",
-  "category": "environment",
-  "subcategory": "Climate Action",
-  "crm": "2506405213@2506405019@monday.com",
+  "suggest": [
+    "London\u0027s Air Ambulance"
+  ],
+  "url": "https://www.londonsairambulance.org.uk/",
+  "UNSDG": 3.0,
+  "name": "London\u0027s Air Ambulance",
+  "logo": "https://media.good-loop.com/uploads/raw/logo-10174190964542362292.jpg",
+  "id": "london-s-air-ambulance",
+  "category": "health",
+  "englandWalesCharityRegNum": "801013",
+  "summaryDescription": "London’s Air Ambulance provides rapid response and cutting-edge care to those with life-threatening injuries in London",
+  "crm": "2506405207@2506405019@monday.com",
   "status": "PUBLISHED"
 }
