@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Red Start ",
   "name": "red-start-educate",
   "id": "red-start-educate",
   "suggest": [
-    "red-start-educate"
+    "red-start-educate",
+    "Red Start "
   ],
   "status": "DRAFT"
 }
