@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Ibs Network",
-  "name": "ibs network",
-  "logo": "https://media.good-loop.com/uploads/standard/charity_copy-13373560698709684789.png",
-  "id": "ibs",
+  "displayName": "Red Start ",
+  "name": "red-start-educate",
+  "logo": "https://media.good-loop.com/uploads/standard/redstart-footer-sl-logo-2720864076160155911.png#ccrop:70",
+  "id": "red-start-educate",
   "suggest": [
-    "ibs network",
-    "Ibs Network"
+    "red-start-educate",
+    "Red Start "
   ],
-  "url": "https://www.theibsnetwork.org/",
-  "status": "MODIFIED"
+  "url": "https://redstarteducate.org/",
+  "status": "DRAFT"
 }
