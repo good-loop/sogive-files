@@ -55,10 +55,13 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "The Brain Tumour Charity ",
   "name": "The Brain Tumour Charity",
   "@id": "the-brain-tumour-charity",
   "suggest": [
     "The Brain Tumour Charity",
+    "The Brain Tumour Charity ",
     "the-brain-tumour-charity"
-  ]
+  ],
+  "status": "DRAFT"
 }
