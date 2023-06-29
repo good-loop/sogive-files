@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Red Start ",
-  "name": "red-start-educate",
-  "logo": "https://media.good-loop.com/uploads/standard/redstart-footer-sl-logo-2720864076160155911.png#ccrop:70",
-  "id": "red-start-educate",
+  "created": "2023-06-29T00:13:09Z",
+  "name": "Fundación Mexicana de Vitiligo y Enfermedades de la Piel",
+  "id": "fundacion-mexicana-de-vitiligo-y-enfermedades-de-la-piel",
   "suggest": [
-    "red-start-educate",
-    "Red Start "
+    "Fundación Mexicana de Vitiligo y Enfermedades de la Piel"
   ],
-  "url": "https://redstarteducate.org/",
-  "status": "DRAFT"
+  "category": "health",
+  "url": "https://fundacionmexicanadevitiligo.com",
+  "crm": "4723618073@2506405019@monday.com",
+  "UNSDG": 3.0
 }
