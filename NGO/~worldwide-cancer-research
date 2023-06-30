@@ -55,10 +55,13 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Worldwide Cancer Research",
   "name": "Worldwide Cancer Research",
   "@id": "worldwide-cancer-research",
   "suggest": [
     "Worldwide Cancer Research",
+    "Worldwide Cancer Research",
     "worldwide-cancer-research"
-  ]
+  ],
+  "status": "DRAFT"
 }
