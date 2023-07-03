@@ -1,15 +1,11 @@
 {
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-29T00:13:09Z",
-  "name": "Fundación Mexicana de Vitiligo y Enfermedades de la Piel",
-  "id": "fundacion-mexicana-de-vitiligo-y-enfermedades-de-la-piel",
+  "name": "rise-against-hunger",
+  "logo": "https://media.good-loop.com/uploads/standard/Rise-Against-Hunger-Logo-7890706301318244433.png#ccrop:89",
+  "id": "rise-against-hunger",
   "suggest": [
-    "Fundación Mexicana de Vitiligo y Enfermedades de la Piel"
+    "rise-against-hunger"
   ],
-  "category": "health",
-  "url": "https://fundacionmexicanadevitiligo.com",
-  "crm": "4723618073@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "url": "https://www.riseagainsthunger.org/",
+  "status": "DRAFT"
 }
