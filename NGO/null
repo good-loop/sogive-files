@@ -1,11 +1,14 @@
 {
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "rise-against-hunger",
-  "logo": "https://media.good-loop.com/uploads/standard/Rise-Against-Hunger-Logo-7890706301318244433.png#ccrop:89",
-  "id": "rise-against-hunger",
+  "created": "2023-07-03T13:27:46Z",
+  "name": "Rare Breeds Survival Trust",
+  "id": "rare-breeds-survival-trust",
   "suggest": [
-    "rise-against-hunger"
+    "Rare Breeds Survival Trust"
   ],
-  "url": "https://www.riseagainsthunger.org/",
-  "status": "DRAFT"
+  "category": "animals",
+  "url": "https://www.rbst.org.uk/",
+  "crm": "4744166829@2506405019@monday.com",
+  "UNSDG": 13.0
 }
