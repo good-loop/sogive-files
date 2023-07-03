@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Red Start ",
-  "name": "red-start-educate",
-  "logo": "https://media.good-loop.com/uploads/standard/redstart-footer-sl-logo-2720864076160155911.png#ccrop:70",
-  "id": "red-start-educate",
+  "name": "rise-against-hunger",
+  "id": "rise-against-hunger",
   "suggest": [
-    "red-start-educate",
-    "Red Start "
+    "rise-against-hunger"
   ],
-  "url": "https://redstarteducate.org/",
   "status": "DRAFT"
 }
