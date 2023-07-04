@@ -1,16 +1,17 @@
 {
-  "scotlandCharityRegNum": "SC039681",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Stonewall Scotland",
-  "created": "2023-07-04T13:25:22Z",
-  "name": "Stonewall Equality Limited",
+  "displayName": "Rare Breeds Survival Trust",
+  "name": "rbst",
+  "logo": "https://media.good-loop.com/uploads/standard/RBSTlogo-7413753986807838463.png#ccrop:92",
+  "altlogo": "https://media.good-loop.com/uploads/standard/RBSTlogo-6705000480920226321.png#ccrop:91",
+  "id": "rbst",
   "suggest": [
-    "Stonewall Equality Limited",
-    "Stonewall Scotland"
+    "rbst",
+    "Rare Breeds Survival Trust"
   ],
-  "url": "www.stonewall.org.uk",
-  "crm": "4750741407@2506405019@monday.com",
-  "UNSDG": 10.0,
-  "status": "PUBLISHED"
+  "url": "https://www.rbst.org.uk/",
+  "status": "MODIFIED"
 }
