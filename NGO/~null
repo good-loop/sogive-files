@@ -1,9 +1,11 @@
 {
   "@type": "NGO",
+  "displayName": "Rare Breeds Survival Trust",
   "name": "rbst",
   "id": "rbst",
   "suggest": [
-    "rbst"
+    "rbst",
+    "Rare Breeds Survival Trust"
   ],
   "status": "DRAFT"
 }
