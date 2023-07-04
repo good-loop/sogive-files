@@ -5,7 +5,8 @@
   "@type": "NGO",
   "displayName": "Rare Breeds Survival Trust",
   "name": "rbst",
-  "logo": "https://media.good-loop.com/uploads/standard/High__res__logo-7701018220732445549.jpg#ccrop:89",
+  "logo": "https://media.good-loop.com/uploads/standard/RBSTlogo-7413753986807838463.png#ccrop:92",
+  "altlogo": "https://media.good-loop.com/uploads/standard/RBSTlogo-6705000480920226321.png#ccrop:91",
   "id": "rbst",
   "suggest": [
     "rbst",
