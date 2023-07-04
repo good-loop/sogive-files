@@ -1,15 +1,13 @@
 {
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-07-03T13:27:46Z",
-  "name": "Rare Breeds Survival Trust",
-  "id": "rare-breeds-survival-trust",
+  "displayName": "Rare Breeds Survival Trust",
+  "name": "rbst",
+  "logo": "https://media.good-loop.com/uploads/standard/High__res__logo-7701018220732445549.jpg#ccrop:89",
+  "id": "rbst",
   "suggest": [
+    "rbst",
     "Rare Breeds Survival Trust"
   ],
-  "category": "animals",
   "url": "https://www.rbst.org.uk/",
-  "crm": "4744166829@2506405019@monday.com",
-  "UNSDG": 13.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
