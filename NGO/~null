@@ -1,11 +1,9 @@
 {
   "@type": "NGO",
-  "name": "rise-against-hunger",
-  "logo": "https://media.good-loop.com/uploads/standard/Rise-Against-Hunger-Logo-7890706301318244433.png#ccrop:89",
-  "id": "rise-against-hunger",
+  "name": "rbst",
+  "id": "rbst",
   "suggest": [
-    "rise-against-hunger"
+    "rbst"
   ],
-  "url": "https://www.riseagainsthunger.org/",
   "status": "DRAFT"
 }
