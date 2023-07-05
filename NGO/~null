@@ -1,9 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "CAMH Foundation",
+  "name": "camh-foundation",
   "id": "camh-foundation",
   "suggest": [
-    "CAMH Foundation"
+    "camh-foundation"
   ],
   "status": "DRAFT"
 }
