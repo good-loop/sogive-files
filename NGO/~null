@@ -1,17 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Rare Breeds Survival Trust",
-  "name": "rbst",
-  "logo": "https://media.good-loop.com/uploads/standard/RBSTlogo-318228318438606875.png#ccrop:93",
-  "altlogo": "https://media.good-loop.com/uploads/standard/High__res__logo-1761317215520779456.png",
-  "id": "rbst",
+  "name": "CAMH Foundation",
+  "id": "camh-foundation",
   "suggest": [
-    "rbst",
-    "Rare Breeds Survival Trust"
+    "CAMH Foundation"
   ],
-  "url": "https://www.rbst.org.uk/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
