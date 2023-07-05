@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "camh-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/camh-logo-17971490059462297265.png",
   "id": "camh-foundation",
   "suggest": [
     "camh-foundation"
