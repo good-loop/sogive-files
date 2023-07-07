@@ -1,15 +1,19 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-07-06T09:58:26Z",
-  "name": "Trekstock",
-  "id": "trekstock",
+  "displayName": "british-gas-energy-trust",
+  "created": "2023-06-26T11:55:33Z",
   "suggest": [
-    "Trekstock"
+    "British Gas Energy Trust",
+    "british-gas-energy-trust"
   ],
-  "category": "health",
-  "url": "www.trekstock.com",
-  "crm": "4762661421@2506405019@monday.com",
-  "UNSDG": 3.0,
+  "url": "https://www.britishgas.co.uk/energy/british-gas-energy-trust.html?source\u003dBGet-Google-PPC\u0026cid\u003dPPC.cid_cname\u003dUK_Brand_BG_Energy_Energy%20Trust_Modern%20Search\u0026gclid\u003dCjwKCAjw9-KTBhBcEiwAr19ig4MAwXXozHskmmiYyaUpV6aLGKW__g4yfnCDsCDh3lMP2bhu0LFlYBoCuQcQAvD_BwE\u0026gclsrc\u003daw.ds",
+  "UNSDG": 7.0,
+  "xero": "4ac67abe-094f-4e32-a5f7-cdf5e484b891",
+  "name": "British Gas Energy Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/BGET__STACKED__RGB-01-14871837243918779617.png",
+  "id": "british-gas-energy-trust",
+  "category": "human services",
+  "crm": "2659180725@2506405019@monday.com",
   "status": "PUBLISHED"
 }
