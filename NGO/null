@@ -1,15 +1,14 @@
 {
-  "xero": "97a49c1a-0508-407f-b048-ec464e5f1144",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-01-30T09:33:01Z",
-  "name": "Dwayne Simpson Foundation CIC",
-  "id": "dwayne-simpson-foundation-cic",
+  "created": "2023-07-07T18:54:06Z",
+  "name": "LULAC National Educational Service Centers",
+  "id": "lulac-national-educational-service-centers",
   "suggest": [
-    "Dwayne Simpson Foundation CIC"
+    "LULAC National Educational Service Centers"
   ],
-  "url": "www.dsfcic.co.uk",
-  "crm": "3891950927@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "category": "education",
+  "url": "https://www.lnesc.org/",
+  "crm": "4772800655@2506405019@monday.com",
+  "UNSDG": 4.0
 }
