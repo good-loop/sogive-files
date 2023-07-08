@@ -1,15 +1,14 @@
 {
+  "xero": "e9d48af3-f98e-4b62-8f64-0f1a116cdb43",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-07-07T18:54:06Z",
-  "name": "LULAC National Educational Service Centers",
-  "id": "lulac-national-educational-service-centers",
+  "displayName": "Root Capital",
+  "created": "2023-07-08T01:00:07Z",
+  "logo": "https://media.good-loop.com/uploads/standard/RootCapital__Logo__Green__RGB-14892658452212155111.png#ccrop:90",
+  "id": "root-capital",
   "suggest": [
-    "LULAC National Educational Service Centers"
+    "Root Capital"
   ],
-  "category": "education",
-  "url": "https://www.lnesc.org/",
-  "crm": "4772800655@2506405019@monday.com",
-  "UNSDG": 4.0,
+  "url": "https://rootcapital.org/",
   "status": "PUBLISHED"
 }
