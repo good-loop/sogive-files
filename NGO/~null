@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "American Lung Association",
   "name": "American Lung Association",
   "id": "american-lung-association",
   "suggest": [
+    "American Lung Association",
     "American Lung Association"
   ],
   "status": "DRAFT"
