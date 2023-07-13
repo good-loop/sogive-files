@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "American Lung Association",
-  "name": "American Lung Association",
-  "logo": "https://media.good-loop.com/uploads/standard/unnamed_3-13332293135744965151.jpg",
-  "id": "american-lung-association",
+  "name": "cancer care",
+  "id": "cancer-care",
   "suggest": [
-    "American Lung Association",
-    "American Lung Association"
+    "cancer care"
   ],
   "status": "DRAFT"
 }
