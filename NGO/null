@@ -1,14 +1,15 @@
 {
-  "xero": "e9d48af3-f98e-4b62-8f64-0f1a116cdb43",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Root Capital",
-  "created": "2023-07-08T01:00:07Z",
-  "logo": "https://media.good-loop.com/uploads/standard/RootCapital__Logo__Green__RGB-14892658452212155111.png#ccrop:90",
-  "id": "root-capital",
+  "displayName": "American Lung Association",
+  "name": "American Lung Association",
+  "logo": "https://media.good-loop.com/uploads/standard/unnamed_3-13332293135744965151.jpg",
+  "id": "american-lung-association",
   "suggest": [
-    "Root Capital"
+    "American Lung Association",
+    "American Lung Association"
   ],
-  "url": "https://rootcapital.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
