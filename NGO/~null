@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "camh-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/camh-logo-17971490059462297265.png#ccrop:90",
-  "id": "camh-foundation",
+  "name": "American Lung Association",
+  "id": "american-lung-association",
   "suggest": [
-    "camh-foundation"
+    "American Lung Association"
   ],
   "status": "DRAFT"
 }
