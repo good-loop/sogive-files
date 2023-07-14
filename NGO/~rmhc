@@ -1,0 +1,27 @@
+{
+  "scotlandCharityRegNum": "SC040717",
+  "images": "https://media.good-loop.com/uploads/raw/RMHC-14928393044846403491.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@class": "com.goodloop.data.NGO",
+  "@type": "NGO",
+  "displayName": "Ronald McDonald House Charities",
+  "created": "2023-06-26T12:00:55Z",
+  "suggest": [
+    "rmhc",
+    "Ronald McDonald House Charities",
+    "rmhc"
+  ],
+  "url": "https://rmhc.org.uk/",
+  "UNSDG": 3.0,
+  "name": "rmhc",
+  "logo": "https://media.good-loop.com/uploads/raw/Vertical_without_tagline-5893606775664770653.jpg",
+  "id": "rmhc",
+  "@id": "rmhc",
+  "category": "human services",
+  "englandWalesCharityRegNum": "802047",
+  "summaryDescription": "The best medical care for your child isn’t always close to home. Families often find themselves travelling long distances to get to their child’s hospital. Our Houses offer a place to cook, rest and recharge so that families can support their child in hospital, for as long as they need.",
+  "status": "PUBLISHED",
+  "crm": "2506405072@2506405019@monday.com"
+}
