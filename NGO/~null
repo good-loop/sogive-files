@@ -2,14 +2,17 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Cancer Care",
-  "name": "Cancer care",
-  "logo": "https://media.good-loop.com/uploads/standard/cclogo-8593124210125980487.jpg#ccrop:101",
-  "id": "cancer-care",
+  "created": "2023-02-22T10:12:41Z",
+  "name": "We Don\u0027t Waste",
+  "id": "we-don-t-waste",
   "suggest": [
-    "Cancer care",
-    "Cancer Care"
+    "We Don\u0027t Waste"
   ],
-  "status": "DRAFT"
+  "category": "health",
+  "url": "www.wedontwaste.org",
+  "crm": "4026694417@2506405019@monday.com",
+  "status": "PUBLISHED",
+  "UNSDG": 2.0
 }
