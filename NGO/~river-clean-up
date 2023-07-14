@@ -1,17 +1,26 @@
 {
   "images": "https://media.good-loop.com/uploads/raw/RivercleanupBA_sep2020_1-18434864768453734526.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "displayName": "River Cleanup",
-  "name": "River-Clean-Up",
-  "logo": "https://media.good-loop.com/uploads/standard/river-clean-up-300x294_1-5992685773844556360.png#ccrop:75",
-  "@id": "river-clean-up",
+  "created": "2023-04-03T21:57:54Z",
   "suggest": [
     "River-Clean-Up",
     "River Cleanup",
     "river-clean-up"
   ],
-  "id": "river-clean-up",
-  "summaryDescription": "River Cleanup is an organization which works towards cleaning up and educating people around the issue of waste as every year, about 8 billion kgs of plastic waste ends up in our seas and oceans, and 80% of that waste ends up there via rivers. River Cleanup has already triggered awareness in 100,000 people worldwide of this plastic problem and actively invests in smart technology to catch floating waste. Levi Strauss \u0026 Co. Europe has partnered with River Cleanup around some employee teambuilding cleanup combined with an information session on how to reduce the use of single-use items in 2020.",
   "url": "https://www.river-cleanup.org/en",
-  "status": "DRAFT"
+  "UNSDG": 14.0,
+  "xero": "fddec2bf-e7f2-494f-acaf-e444da8311bf@xero.com",
+  "name": "River-Clean-Up",
+  "logo": "https://media.good-loop.com/uploads/standard/river-clean-up-300x294_1-5992685773844556360.png#ccrop:75",
+  "@id": "river-clean-up",
+  "id": "river-clean-up",
+  "category": "environment",
+  "summaryDescription": "River Cleanup is an organization which works towards cleaning up and educating people around the issue of waste as every year, about 8 billion kgs of plastic waste ends up in our seas and oceans, and 80% of that waste ends up there via rivers. River Cleanup has already triggered awareness in 100,000 people worldwide of this plastic problem and actively invests in smart technology to catch floating waste. Levi Strauss \u0026 Co. Europe has partnered with River Cleanup around some employee teambuilding cleanup combined with an information session on how to reduce the use of single-use items in 2020.",
+  "status": "PUBLISHED",
+  "crm": "2506405502@2506405019@monday.com"
 }
