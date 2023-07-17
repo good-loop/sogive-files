@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "The Wildlife Trusts",
-  "name": "The Wildlife Trusts",
-  "logo": "https://media.good-loop.com/uploads/standard/TWT__LOGO-5554089553312002579.png#ccrop:90",
-  "id": "the-wildlife-trusts",
+  "name": "fundacion",
+  "id": "fundacion",
   "suggest": [
-    "The Wildlife Trusts",
-    "The Wildlife Trusts"
+    "fundacion"
   ],
-  "url": "https://www.wildlifetrusts.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
