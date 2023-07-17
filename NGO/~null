@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "pets on wheels",
-  "name": "pets on wheels",
-  "logo": "https://media.good-loop.com/uploads/standard/images_2-8777849513668386777.png#ccrop:81",
-  "id": "pets-on-wheels",
+  "displayName": "Active Cheshire",
+  "name": "Active Cheshire",
+  "logo": "https://media.good-loop.com/uploads/standard/Clientdetail__logo__600__ActiveCheshire-320x212-2246462628321819208.png#ccrop:82",
+  "id": "active-cheshire",
   "suggest": [
-    "pets on wheels",
-    "pets on wheels"
+    "Active Cheshire",
+    "Active Cheshire"
   ],
-  "status": "DRAFT"
+  "url": "https://activecheshire.org/",
+  "status": "PUBLISHED"
 }
