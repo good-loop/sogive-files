@@ -1,15 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Cancer Care",
-  "name": "Cancer Care",
-  "logo": "https://media.good-loop.com/uploads/standard/cclogo-8593124210125980487.jpg#ccrop:101",
-  "id": "cancer-care",
+  "displayName": "Fundación Mexicana de Vitiligo",
+  "name": "Fundación Mexicana de Vitiligo",
+  "logo": "https://media.good-loop.com/uploads/standard/cropped-Logotipo-FMV-01-12665461887389592477.png",
+  "id": "fundacion",
   "suggest": [
-    "Cancer Care",
-    "Cancer Care"
+    "Fundación Mexicana de Vitiligo",
+    "Fundación Mexicana de Vitiligo"
   ],
+  "url": "https://fundacionmexicanadevitiligo.com/",
   "status": "DRAFT"
 }
