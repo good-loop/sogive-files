@@ -1,13 +1,9 @@
 {
   "@type": "NGO",
-  "displayName": "Fundación Mexicana de Vitiligo",
-  "name": "Fundación Mexicana de Vitiligo",
-  "logo": "https://media.good-loop.com/uploads/standard/cropped-Logotipo-FMV-01-12665461887389592477.png",
-  "id": "fundacion",
+  "name": "pets on wheels",
+  "id": "pets-on-wheels",
   "suggest": [
-    "Fundación Mexicana de Vitiligo",
-    "Fundación Mexicana de Vitiligo"
+    "pets on wheels"
   ],
-  "url": "https://fundacionmexicanadevitiligo.com/",
   "status": "DRAFT"
 }
