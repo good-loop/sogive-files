@@ -1,8 +1,10 @@
 {
   "@type": "NGO",
+  "displayName": "Fundación Mexicana de Vitiligo",
   "name": "Fundación Mexicana de Vitiligo",
   "id": "fundacion",
   "suggest": [
+    "Fundación Mexicana de Vitiligo",
     "Fundación Mexicana de Vitiligo"
   ],
   "status": "DRAFT"
