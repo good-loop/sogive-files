@@ -1,12 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "fundacion",
+  "name": "Fundación Mexicana de Vitiligo",
   "id": "fundacion",
   "suggest": [
-    "fundacion"
+    "Fundación Mexicana de Vitiligo"
   ],
   "status": "DRAFT"
 }
