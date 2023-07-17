@@ -3,9 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Tufts University \u0026 Child Obesity 180",
   "name": "Tufts University \u0026 Child Obesity 180",
   "id": "tufts-university-and-child-obesity-180",
   "suggest": [
+    "Tufts University \u0026 Child Obesity 180",
     "Tufts University \u0026 Child Obesity 180"
   ],
   "status": "DRAFT"
