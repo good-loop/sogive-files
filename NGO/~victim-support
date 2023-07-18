@@ -148,8 +148,10 @@
     }
   ],
   "@type": "NGO",
+  "displayName": "Victim Support",
   "noPublicDonations": false,
   "suggest": [
+    "Victim Support",
     "Victim Support",
     "victim-support"
   ],
@@ -191,5 +193,6 @@
   "@id": "victim-support",
   "englandWalesCharityRegNum": "298028",
   "whereTags": "United Kingdom",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
