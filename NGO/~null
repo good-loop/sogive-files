@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "lulac",
-  "logo": "https://media.good-loop.com/uploads/standard/50-Year_Logo-8675328444423817466.png",
-  "id": "lulac",
+  "name": "shelter-wa",
+  "id": "shelter-wa",
   "suggest": [
-    "lulac"
+    "shelter-wa"
   ],
-  "url": "https://lulac.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
