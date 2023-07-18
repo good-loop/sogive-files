@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Shelter WA",
   "name": "shelter-wa",
   "id": "shelter-wa",
   "suggest": [
-    "shelter-wa"
+    "shelter-wa",
+    "Shelter WA"
   ],
   "status": "DRAFT"
 }
