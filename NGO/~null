@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Breast Cancer Research Foundation",
-  "name": "bcrf",
-  "id": "bcrf",
+  "name": "crime-stoppers-uk",
+  "id": "crime-stoppers-uk",
   "suggest": [
-    "bcrf",
-    "Breast Cancer Research Foundation"
+    "crime-stoppers-uk"
   ],
-  "url": "https://www.bcrf.org/",
   "status": "DRAFT"
 }
