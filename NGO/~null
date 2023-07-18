@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "CrimeStoppers",
   "name": "crime-stoppers-uk",
   "logo": "https://media.good-loop.com/uploads/standard/crimestoppers-8518932915014447502.svg#ccrop:90",
   "id": "crime-stoppers-uk",
   "suggest": [
-    "crime-stoppers-uk"
+    "crime-stoppers-uk",
+    "CrimeStoppers"
   ],
   "url": "https://crimestoppers-uk.org/",
   "status": "DRAFT"
