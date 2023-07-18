@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Shelter WA",
-  "name": "shelter-wa",
-  "logo": "https://media.good-loop.com/uploads/standard/Shelter-WA-logo__Horizontal-300x70-6733389966366612684.png#ccrop:92",
-  "id": "shelter-wa",
+  "name": "Bunuba Cultural Conservation Institute",
+  "id": "bunuba-cultural-conservation-institute",
   "suggest": [
-    "shelter-wa",
-    "Shelter WA"
+    "Bunuba Cultural Conservation Institute"
   ],
-  "url": "https://www.shelterwa.org.au/",
   "status": "DRAFT"
 }
