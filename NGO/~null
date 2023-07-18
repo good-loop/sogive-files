@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Bunuba Cultural Conservation Institute",
+  "name": "bunuba-cultural-conservation-institute",
   "id": "bunuba-cultural-conservation-institute",
   "suggest": [
-    "Bunuba Cultural Conservation Institute"
+    "bunuba-cultural-conservation-institute"
   ],
   "status": "DRAFT"
 }
