@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "onegirl",
+  "name": "one girl",
   "id": "onegirl",
   "suggest": [
-    "onegirl"
+    "one girl"
   ],
   "status": "DRAFT"
 }
