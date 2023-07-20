@@ -3,15 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Kode with Klossy",
-  "name": "kode-with-klossy",
-  "logo": "https://media.good-loop.com/uploads/standard/download-1209392188018134111.jpg#ccrop:107",
-  "altlogo": "https://media.good-loop.com/uploads/standard/download_1-8500891271558289970.jpg#ccrop:107",
-  "id": "kode-with-klossy",
+  "displayName": "One Girl",
+  "name": "one girl",
+  "logo": "https://media.good-loop.com/uploads/standard/ljtsprdiytc40w-5710623031828652704.svg#ccrop:92",
+  "id": "onegirl",
   "suggest": [
-    "kode-with-klossy",
-    "Kode with Klossy"
+    "one girl",
+    "One Girl"
   ],
-  "url": "https://www.kodewithklossy.com/",
-  "status": "MODIFIED"
+  "url": "https://www.onegirl.org.au/",
+  "status": "DRAFT"
 }
