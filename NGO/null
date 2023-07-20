@@ -3,13 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "1-million-women",
-  "logo": "https://media.good-loop.com/uploads/standard/1MillionWomen__b9f49d94a4be7faeab78414496e8b451-2463185946399282645.png#ccrop:91",
-  "altlogo": "https://media.good-loop.com/uploads/standard/1millwomenblack-12568569449886970557.png#ccrop:91",
-  "id": "1-million-women",
+  "displayName": "YWCA",
+  "name": "ywca",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-color-11802576036119888655.png#ccrop:63",
+  "id": "ywca",
   "suggest": [
-    "1-million-women"
+    "ywca",
+    "YWCA"
   ],
-  "url": "https://www.1millionwomen.com.au/",
-  "status": "MODIFIED"
+  "url": "https://www.ywca.org.nz/",
+  "status": "DRAFT"
 }
