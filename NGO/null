@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "One Girl",
-  "name": "one girl",
-  "logo": "https://media.good-loop.com/uploads/standard/ljtsprdiytc40w-5710623031828652704.svg#ccrop:92",
-  "id": "onegirl",
+  "displayName": "SisterWorks",
+  "name": "sisterworks",
+  "logo": "https://media.good-loop.com/uploads/standard/SisterWorks_logo-9025413961934346250.png#ccrop:95",
+  "altlogo": "https://media.good-loop.com/uploads/standard/SisterWorks_logoblack-299003180197820731.png#ccrop:92",
+  "id": "sisterworks",
   "suggest": [
-    "one girl",
-    "One Girl"
+    "sisterworks",
+    "SisterWorks"
   ],
-  "url": "https://www.onegirl.org.au/",
   "status": "DRAFT"
 }
