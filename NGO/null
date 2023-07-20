@@ -3,11 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Indigo Love of Reading Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-en-11670074472437108775.svg#ccrop:80",
-  "id": "indigo-love-of-reading-foundation",
+  "name": "Central Texas Food Bank",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-120967186268439893.png#ccrop:80",
+  "id": "central-texas-food-bank",
   "suggest": [
-    "Indigo Love of Reading Foundation"
+    "Central Texas Food Bank"
   ],
   "status": "DRAFT"
 }
