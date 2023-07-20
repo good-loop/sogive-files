@@ -4,10 +4,10 @@
   },
   "@type": "NGO",
   "name": "Central Texas Food Bank",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-120967186268439893.png#ccrop:72",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-120967186268439893.png#ccrop:70",
   "id": "central-texas-food-bank",
   "suggest": [
     "Central Texas Food Bank"
   ],
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
