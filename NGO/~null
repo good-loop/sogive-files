@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "SisterWorks",
-  "name": "sisterworks",
-  "logo": "https://media.good-loop.com/uploads/standard/SisterWorks_logo-9025413961934346250.png#ccrop:95",
-  "altlogo": "https://media.good-loop.com/uploads/standard/SisterWorks_logoblack-299003180197820731.png#ccrop:92",
-  "id": "sisterworks",
+  "name": "1-million-women",
+  "id": "1-million-women",
   "suggest": [
-    "sisterworks",
-    "SisterWorks"
+    "1-million-women"
   ],
   "status": "DRAFT"
 }
