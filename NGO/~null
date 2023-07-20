@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "SisterWorks",
   "name": "sisterworks",
   "id": "sisterworks",
   "suggest": [
-    "sisterworks"
+    "sisterworks",
+    "SisterWorks"
   ],
   "status": "DRAFT"
 }
