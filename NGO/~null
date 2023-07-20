@@ -3,15 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Kode with Klossy",
-  "name": "kode-with-klossy",
-  "logo": "https://media.good-loop.com/uploads/standard/download-1209392188018134111.jpg#ccrop:107",
-  "altlogo": "https://media.good-loop.com/uploads/standard/download_1-8500891271558289970.jpg",
-  "id": "kode-with-klossy",
+  "name": "onegirl",
+  "id": "onegirl",
   "suggest": [
-    "kode-with-klossy",
-    "Kode with Klossy"
+    "onegirl"
   ],
-  "url": "https://www.kodewithklossy.com/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
