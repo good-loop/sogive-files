@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "YWCA",
-  "name": "ywca",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-color-11802576036119888655.png#ccrop:63",
-  "id": "ywca",
+  "displayName": "Art Of Living",
+  "name": "art-of-living",
+  "logo": "https://media.good-loop.com/uploads/standard/artofliving__logo__1__0__0-10071368589898946907.png#ccrop:79",
+  "id": "art-of-living",
   "suggest": [
-    "ywca",
-    "YWCA"
+    "art-of-living",
+    "Art Of Living"
   ],
-  "url": "https://www.ywca.org.nz/",
+  "url": "https://www.artofliving.org/nz-en/women-empowerment-0",
   "status": "DRAFT"
 }
