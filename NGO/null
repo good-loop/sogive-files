@@ -6,11 +6,12 @@
   "displayName": "Kode with Klossy",
   "name": "kode-with-klossy",
   "logo": "https://media.good-loop.com/uploads/standard/download-1209392188018134111.jpg#ccrop:107",
+  "altlogo": "https://media.good-loop.com/uploads/standard/download_1-8500891271558289970.jpg#ccrop:107",
   "id": "kode-with-klossy",
   "suggest": [
     "kode-with-klossy",
     "Kode with Klossy"
   ],
   "url": "https://www.kodewithklossy.com/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
