@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Art Of Living",
   "name": "art-of-living",
   "id": "art-of-living",
   "suggest": [
-    "art-of-living"
+    "art-of-living",
+    "Art Of Living"
   ],
   "status": "DRAFT"
 }
