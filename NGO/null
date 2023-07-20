@@ -3,11 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Central Texas Food Bank",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-120967186268439893.png#ccrop:70",
-  "id": "central-texas-food-bank",
+  "displayName": "Kode with Klossy",
+  "name": "kode-with-klossy",
+  "logo": "https://media.good-loop.com/uploads/standard/download-1209392188018134111.jpg#ccrop:107",
+  "id": "kode-with-klossy",
   "suggest": [
-    "Central Texas Food Bank"
+    "kode-with-klossy",
+    "Kode with Klossy"
   ],
-  "status": "PUBLISHED"
+  "url": "https://www.kodewithklossy.com/",
+  "status": "DRAFT"
 }
