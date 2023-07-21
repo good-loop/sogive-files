@@ -2,19 +2,14 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-06-13T20:33:28Z",
-  "displayName": "Fondo Semillas A.C.",
+  "displayName": "College Football Playoff Foundation",
+  "name": "College Football Playoff Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/1540162813214-11509859404915810720.jpg#ccrop:103",
+  "id": "college-football-playoff-foundation",
   "suggest": [
-    "Fondo Semillas A.C.",
-    "Fondo Semillas A.C."
+    "College Football Playoff Foundation",
+    "College Football Playoff Foundation"
   ],
-  "url": "https://semillas.org.mx/",
-  "UNSDG": 5.0,
-  "name": "Fondo Semillas A.C.",
-  "logo": "https://media.good-loop.com/uploads/standard/cropped-Logo-Semillas-horizontal-color-sandia-izquierda-2048x585-10658181967689129913.png#ccrop:90",
-  "id": "fondo-semillas-a-c",
-  "crm": "4638492685@2506405019@monday.com",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
