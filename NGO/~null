@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Fundacion Origen",
   "name": "fundacion-origen",
   "id": "fundacion-origen",
   "suggest": [
-    "fundacion-origen"
+    "fundacion-origen",
+    "Fundacion Origen"
   ],
   "status": "DRAFT"
 }
