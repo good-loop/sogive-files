@@ -4,18 +4,14 @@
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-05-31T08:24:56Z",
-  "displayName": "SINTRATA",
+  "created": "2023-06-13T20:33:28Z",
+  "name": "Fondo Semillas A.C.",
+  "id": "fondo-semillas-a-c",
   "suggest": [
-    "SINTRATA",
-    "SINTRATA"
+    "Fondo Semillas A.C."
   ],
-  "url": "https://sintrata.org/",
+  "url": "www.semillas.org.mx",
+  "crm": "4638492685@2506405019@monday.com",
   "UNSDG": 5.0,
-  "name": "SINTRATA",
-  "logo": "https://media.good-loop.com/uploads/standard/Sintrata__logo__50x253-7099649627818797798.png#ccrop:90",
-  "id": "sintrata",
-  "category": "civil rights",
-  "crm": "4561997900@2506405019@monday.com",
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
