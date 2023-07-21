@@ -6,14 +6,15 @@
   "@type": "NGO",
   "created": "2023-06-13T20:33:28Z",
   "displayName": "Fondo Semillas A.C.",
-  "name": "Fondo Semillas A.C.",
-  "id": "fondo-semillas-a-c",
   "suggest": [
     "Fondo Semillas A.C.",
     "Fondo Semillas A.C."
   ],
   "url": "https://semillas.org.mx/",
-  "crm": "4638492685@2506405019@monday.com",
   "UNSDG": 5.0,
+  "name": "Fondo Semillas A.C.",
+  "logo": "https://media.good-loop.com/uploads/standard/cropped-Logo-Semillas-horizontal-color-sandia-izquierda-2048x585-10658181967689129913.png#ccrop:95",
+  "id": "fondo-semillas-a-c",
+  "crm": "4638492685@2506405019@monday.com",
   "status": "PUBLISHED"
 }
