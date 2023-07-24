@@ -1,0 +1,97 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001117244_AC_20190131_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9858800\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3D1117244%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d4015135"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "2157346",
+          "currency": "GBP",
+          "value100p": 2.157346E10,
+          "value": 2157346.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": "31-01-2018 to 31-01-2019"
+        },
+        "reserves": {
+          "notes": "Funds brought over at January 31 2019"
+        }
+      },
+      "name": "overall",
+      "start": "2018-02-01",
+      "end": "2019-01-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "809504",
+        "currency": "GBP",
+        "value100p": 8.09504E9,
+        "value": 809504.0
+      },
+      "isRep": true
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Share Action",
+  "description": "ShareAction works to promote ethical and responsible investment for the public benefit in order to advance: the relief of poverty, protection of the environment, promotion of human rights, sustainable development, and\ncompliance with the law and ethical standards of conduct. To complement this core object share ShareAction works to advance the education of the public in the principles and effects of ethical and responsible investment (Rl); and to undertake and promote research relating to ethical and responsible investment, making the results publicly available.\n\nThe organisation purchases FTSE company shares or borrows them from \"donors\" in order to be considered a substantive shareholder, and then lobbies FTSE companies to use fair labor practices, divest from fossil fuels, and promote transparency in company disclosures related to their interests. ShareAction also works with share holders and savers, helping them understand the financial power of their pension, and helping them to invest it in a socially responsible way.",
+  "recommendation": "**To rate ShareAction under the SoGive methodology, we would need more information**\n\nShareAction is a lobbying group which encourages responsible investing and produces policy reports, as well as recommendations for asset managers. The organisation purchases or borrows shares in FTSE companies in order to lobby for the use of fair labour practices, divestment from fossil fuels, and transparency in company disclosures. ShareAction also works with shareholders and savers directly, helping them to invest in a socially responsible way.\n\nUnder the SoGive two question method, we consider these questions:\nHow much does it cost for the charity to do something?\nWhat is the thing (or, what does the beneficiary get for the donor\u0027s money)\n\n**Costs**\nIn 2018 ShareAction spent £2.1 million.\n\nAfter ShareAction’s campaigning in 2018, Standard Chartered Bank (SCB) decided to withdraw from all coal financing opportunities worldwide. 60 other companies received investor induced letters from ShareAction, and 6 committed to using 100% renewable electricity. With ShareAction, more than 120 investors lobbied 90 companies to disclose meaningful data on their workforces, allowing for future lobbying opportunities related to providing living wages to employees.\n\n**Benchmarking**\nTo receive a Gold ranking, a charity must demonstrate that it is highly impactful not just overall, but per pound donated (e.g. saving a life for £3000), and it must provide robust evidence of effectiveness of its work. \n\nIn some cases, ShareAction’s work has preceded changes in company policy resulting in more socially responsible behaviour. However, it is difficult to say how much of this change can be directly attributed to ShareAction’s work, or how the company may have behaved without ShareAction. \n\nOur approach to addressing this sort of question is called the SoGive three-question method, and involves investigating the following questions: \nHow much benefit was achieved from a change in corporate behaviour that ShareAction successfully lobbied for, \nhow much it cost for ShareAction to lobby for it; and \nhow much sooner the policy change was made as a result of their work.\nThis element is to capture \n(a) how remote was the change? (e.g. was the company inclined to make the change anyway and needed very little persuading, or was it only achieved through changing people’s minds significantly) \n(b) how much of the change was attributable to ShareAction? (e.g. would other groups lobbying for this change have acknowledged that ShareAction accounted for the majority of the outcome, and most, say, 70% of the credit goes to them, or were they only a helper, and a small proportion of the credit goes to them?) \n\nFurther information needed would pertain to ShareAction’s definition of \"socially responsible investments,\" as well as figures detailing how much money was (re)allocated to different areas deemed as responsible. It would also be helpful to know how ShareAction prioritises its funding and lobbying decisions, and whether they consider the importance, tractability, and neglectedness of issues in doing so. Evidence for such a framework would help us be more confident that ShareAction’s projects are chosen as a function of their potential impact, meaning that their future work can be highly impactful.\n\nIt appears ShareAction could also threaten divestment in a company with socially irresponsible policies, leading to voluntary reallocation of a company’s funds. Or, if a company does not redirect their funds voluntarily, ShareAction might be able to actually divest from the company, potentially causing sufficient financial harm to the company that it would reinvest its remaining assets in similarly responsible ways. It would be useful to know the extent to which ShareAction uses this as a persuasion technique, or, to which it prefers redirecting assets held in personal savings instead of corporate lobbying. \n\n**Conclusion**\nGiven that we don’t have the information we need to answer the SoGive two-question method (or rather the specific variant that applies in this case, namely the SoGive three-question method) we would need more information to evaluate ShareAction.\n",
+  "UNSDG": "0",
+  "whyTags": "investing, climate change, fair wages",
+  "imageCaption": "ERIN meeting brining together civil society organisations across Europe committed to a sustainable investment system",
+  "logo": "https://app.sogive.org/uploads/violetbuxwal.comemail/Screenshot_2020-10-19_at_07.50.53-2409811954754132547.png",
+  "@id": "fairshare-educational-foundation",
+  "id": "fairshare-educational-foundation",
+  "wikipedia": "https://en.wikipedia.org/wiki/ShareAction",
+  "summaryDescription": "ShareAction is a lobbying group which encourages responsible investing and produces policy reports as well as recommendations for asset managers. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/violetbuxwal.comemail/Screenshot_2020-10-19_at_07.51.16-4363974969149297669.png",
+  "noPublicDonations": false,
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "suggest": [
+    "Fairshare Educational Foundation",
+    "Share Action",
+    "fairshare-educational-foundation"
+  ],
+  "url": "https://shareaction.org/",
+  "howTags": "campaigning, lobbying, research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "Fairshare Educational Foundation",
+  "lastModified": "2020-11-13T22:42:23Z",
+  "englandWalesCharityRegNum": "1117244",
+  "whereTags": "UK, USA, EU",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
