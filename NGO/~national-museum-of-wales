@@ -1,0 +1,336 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/magnifying-glass-13097109322072756636.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 1814864.0,
+          "confidence": "medium",
+          "name": "museum visit(s)",
+          "description": "This refers to one visit to any of the museums run by the charity. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10754327\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d525774"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "32529000",
+          "currency": "GBP",
+          "value100p": 3.2529E11,
+          "value": 3.2529E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "3182000",
+          "currency": "GBP",
+          "value100p": 3.182E10,
+          "value": 3182000.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "1619000",
+          "currency": "GBP",
+          "value100p": 1.619E10,
+          "value": 1619000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p48 for all. Income from Beneficiaries \u003d Other Income"
+        },
+        "reserves": {
+          "notes": "p.50. showing here the unrestricted funds excluding the pension deficit of £69 million"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "11864000",
+        "currency": "",
+        "value100p": 1.1864E11,
+        "value": 1.1864E7
+      }
+    },
+    {
+      "outputs": [
+        {
+          "number": 405407.0,
+          "meta": {
+            "all": {
+              "notes": "low confidence as not clear how to divide the expenditure between learning and engagement"
+            }
+          },
+          "confidence": "low",
+          "name": "education visit(s)",
+          "description": "This refers to formal or informal education visits to the museum. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10754327\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d525774"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "199000",
+          "currency": "GBP",
+          "value100p": 1.99E9,
+          "value": 199000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "3234000",
+          "currency": "GBP",
+          "value100p": 3.234E10,
+          "value": 3234000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p48/57"
+        }
+      },
+      "name": "Learning \u0026 Engagement"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10754327\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d525774"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "303000",
+          "currency": "GBP",
+          "value100p": 3.03E9,
+          "value": 303000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "7632000",
+          "currency": "GBP",
+          "value100p": 7.632E10,
+          "value": 7632000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p48/57"
+        }
+      },
+      "name": "Collections \u0026 Research"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10754327\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d525774"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "906000",
+          "currency": "GBP",
+          "value100p": 9.06E9,
+          "value": 906000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "16390000",
+          "currency": "GBP",
+          "value100p": 1.639E11,
+          "value": 1.639E7
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p48/57"
+        }
+      },
+      "name": "Gallery Development \u0026 Visitor Experience"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10754327\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d525774"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "211000",
+          "currency": "GBP",
+          "value100p": 2.11E9,
+          "value": 211000.0
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "632000",
+          "currency": "GBP",
+          "value100p": 6.32E9,
+          "value": 632000.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p48/57"
+        }
+      },
+      "name": "Governance"
+    }
+  ],
+  "@type": "NGO",
+  "suggest": [
+    "National Museum Of Wales",
+    "national-museum-of-wales"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "national-museum-of-wales",
+      "name": "museum visit(s)",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 152782,
+        "value": "15.2782798049881418800000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://museum.wales",
+  "whyTags": "Art",
+  "howTags": "Direct Work, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "museum visit(s)",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 152782,
+      "value": "15.2782798049881418800000"
+    }
+  },
+  "meta": {
+    "images": {
+      "notes": "https://museum.wales/media/50103/magnifying-glass.png"
+    },
+    "logo": {
+      "notes": "https://museum.wales/branding/"
+    }
+  },
+  "name": "National Museum Of Wales",
+  "logo": "https://media.good-loop.com/uploads/raw/NMW-16284334639441293085.png",
+  "@id": "national-museum-of-wales",
+  "englandWalesCharityRegNum": "525774",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
