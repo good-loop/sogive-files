@@ -1,5 +1,8 @@
 {
   "ukCompanyRegNum": "02463348",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -235,7 +238,7 @@
   "UNSDG": "0",
   "imageCaption": "Swedish pension fund divests from fossil fuels",
   "modified": true,
-  "logo": "https://app.sogive.org/uploads/2646944015572784facebook/gp-logo-17006946187178726733.svg#ccrop:95",
+  "logo": "https://media.good-loop.com/uploads/standard/Greenpeace-logo-5746617990827827470.png",
   "@id": "greenpeace",
   "wikipedia": "https://en.wikipedia.org/wiki/Greenpeace",
   "summaryDescription": "[Greenpeace](https://www.greenpeace.org.uk/challenges/) aims to protect the natural world for future generations.",
