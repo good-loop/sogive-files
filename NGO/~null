@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "College Football Playoff Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/1540162813214-11509859404915810720.jpg#ccrop:103",
-  "id": "college-football-playoff-foundation",
+  "name": "Texas Parks \u0026 Wildlife",
+  "id": "texas-parks-and-wildlife",
   "suggest": [
-    "College Football Playoff Foundation"
+    "Texas Parks \u0026 Wildlife"
   ],
   "status": "DRAFT"
 }
