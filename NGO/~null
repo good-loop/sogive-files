@@ -3,11 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Texas Parks \u0026 Wildlife",
-  "logo": "https://media.good-loop.com/uploads/standard/TEx-7627016226035689037.png#ccrop:65",
-  "id": "texas-parks-and-wildlife",
+  "displayName": "Dunkin\u0027 Joy in Childhood Foundation",
+  "name": "Dunkin\u0027 Joy in Childhood Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/DUNKIN__JICF__Logo__RGB-13254940458121690768.png#ccrop:84",
+  "id": "dunkin-joy-in-childhood-foundation",
   "suggest": [
-    "Texas Parks \u0026 Wildlife"
+    "Dunkin\u0027 Joy in Childhood Foundation",
+    "Dunkin\u0027 Joy in Childhood Foundation"
   ],
-  "status": "DRAFT"
+  "url": "https://www.joyinchildhoodfoundation.org/",
+  "status": "PUBLISHED"
 }
