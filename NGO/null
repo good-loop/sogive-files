@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Dunkin\u0027 Joy in Childhood Foundation",
-  "name": "Dunkin\u0027 Joy in Childhood Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/DUNKIN__JICF__Logo__RGB-13254940458121690768.png#ccrop:80",
-  "id": "dunkin-joy-in-childhood-foundation",
+  "created": "2023-07-27T16:39:35Z",
+  "name": "Instituto Chaikuni / The Chaikuni Institute",
+  "id": "instituto-chaikuni-the-chaikuni-institute",
   "suggest": [
-    "Dunkin\u0027 Joy in Childhood Foundation",
-    "Dunkin\u0027 Joy in Childhood Foundation"
+    "Instituto Chaikuni / The Chaikuni Institute"
   ],
-  "url": "https://www.joyinchildhoodfoundation.org/",
-  "status": "PUBLISHED"
+  "category": "environment",
+  "url": "https://chaikuni.org/",
+  "crm": "4885062481@2506405019@monday.com",
+  "UNSDG": 13.0
 }
