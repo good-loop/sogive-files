@@ -1,15 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-07-27T16:39:35Z",
-  "name": "Instituto Chaikuni / The Chaikuni Institute",
-  "id": "instituto-chaikuni-the-chaikuni-institute",
+  "displayName": "The New York Times Neediest Cases Fund",
+  "name": "The New York Times Neediest Cases Fund",
+  "logo": "https://media.good-loop.com/uploads/standard/EoKh2NoXIAE__lIw-13818776306968438106.png#ccrop:129",
+  "id": "the-new-york-times-neediest-cases-fund",
   "suggest": [
-    "Instituto Chaikuni / The Chaikuni Institute"
+    "The New York Times Neediest Cases Fund",
+    "The New York Times Neediest Cases Fund"
   ],
-  "category": "environment",
-  "url": "https://chaikuni.org/",
-  "crm": "4885062481@2506405019@monday.com",
-  "UNSDG": 13.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
