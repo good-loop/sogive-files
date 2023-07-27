@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Dunkin\u0027 Joy in Childhood Foundation",
-  "name": "Dunkin\u0027 Joy in Childhood Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/DUNKIN__JICF__Logo__RGB-13254940458121690768.png#ccrop:80",
-  "id": "dunkin-joy-in-childhood-foundation",
+  "name": "The New York Times Neediest Cases Fund",
+  "id": "the-new-york-times-neediest-cases-fund",
   "suggest": [
-    "Dunkin\u0027 Joy in Childhood Foundation",
-    "Dunkin\u0027 Joy in Childhood Foundation"
+    "The New York Times Neediest Cases Fund"
   ],
-  "url": "https://www.joyinchildhoodfoundation.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
