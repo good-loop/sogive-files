@@ -1,8 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "The New York Times Neediest Cases Fund",
   "name": "The New York Times Neediest Cases Fund",
   "id": "the-new-york-times-neediest-cases-fund",
   "suggest": [
+    "The New York Times Neediest Cases Fund",
     "The New York Times Neediest Cases Fund"
   ],
   "status": "DRAFT"
