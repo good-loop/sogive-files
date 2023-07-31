@@ -5,6 +5,7 @@
   "color": "#c5ad2a",
   "@type": "NGO",
   "description": "Working in both the humanitarian and development context, Right To Play builds local capacity by training community leaders as coaches to deliver its programs in 18 countries affected by war, poverty, and disease in Africa, Asia, the Middle East, and North America. Right To Play is headquartered in Toronto, Canada and has national offices in Canada, Germany, Norway, the Netherlands, Switzerland, the United Kingdom and the United States. ",
+  "altlogo": "https://media.good-loop.com/uploads/standard/Right__To__Play__logo-7021383506837630706.png#ccrop:66",
   "suggest": [
     "Right to Play",
     "right-to-play"
@@ -21,5 +22,5 @@
   "summaryDescription": "Right To Play is a global organization that attempts to teach children in need with educational games.",
   "uptodatedraft": "probably",
   "whereTags": "africa, asia, middle east, north america",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
