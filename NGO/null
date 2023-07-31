@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "No Boundaries Cricket Club",
-  "name": "no-boundaries-cricket-club",
-  "logo": "https://media.good-loop.com/uploads/standard/Crest-with-infill-923x1024-7201428515829197656.jpg#ccrop:71",
-  "id": "no-boundaries-cricket-club",
+  "displayName": "Bat For A Chance",
+  "name": "bat-for-a-chance",
+  "logo": "https://media.good-loop.com/uploads/standard/BFAC__web-Lockup__2023__189x75px2x-Retina-9714444366004705986.png#ccrop:89",
+  "id": "bat-for-a-chance",
   "suggest": [
-    "no-boundaries-cricket-club",
-    "No Boundaries Cricket Club"
+    "bat-for-a-chance",
+    "Bat For A Chance"
   ],
-  "url": "https://noboundariescricketclub.com/",
-  "status": "PUBLISHED"
+  "url": "https://www.batforachance.org.uk/",
+  "status": "DRAFT"
 }
