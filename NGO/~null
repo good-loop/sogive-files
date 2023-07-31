@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "The New York Times Neediest Cases Fund",
-  "name": "The New York Times Neediest Cases Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_5-5009509120174369787.png",
-  "id": "the-new-york-times-neediest-cases-fund",
+  "name": "acfb",
+  "id": "acfb",
   "suggest": [
-    "The New York Times Neediest Cases Fund",
-    "The New York Times Neediest Cases Fund"
+    "acfb"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
