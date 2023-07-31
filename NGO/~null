@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Celutions ",
   "name": "celutions-uk",
   "id": "celutions-uk",
   "suggest": [
-    "celutions-uk"
+    "celutions-uk",
+    "Celutions "
   ],
   "status": "DRAFT"
 }
