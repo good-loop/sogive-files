@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "acfb",
-  "logo": "https://media.good-loop.com/uploads/standard/acfb__logo-14914539012763002550.svg#ccrop:90",
-  "id": "acfb",
+  "name": "LNFY",
+  "id": "lnfy",
   "suggest": [
-    "acfb"
+    "LNFY"
   ],
-  "url": "https://www.acfb.org/",
   "status": "DRAFT"
 }
