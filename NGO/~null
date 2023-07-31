@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Folds Of Honor",
   "name": "folds-of-honor",
+  "logo": "https://media.good-loop.com/uploads/standard/FoH-dark-12167551006261095355.svg",
   "id": "folds-of-honor",
   "suggest": [
     "folds-of-honor",
