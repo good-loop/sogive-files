@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "No Boundaries Cricket Club",
   "name": "no-boundaries-cricket-club",
-  "logo": "https://media.good-loop.com/uploads/standard/Crest-with-infill-923x1024-7201428515829197656.jpg#ccrop:77",
+  "logo": "https://media.good-loop.com/uploads/standard/Crest-with-infill-923x1024-7201428515829197656.jpg#ccrop:71",
   "id": "no-boundaries-cricket-club",
   "suggest": [
     "no-boundaries-cricket-club",
     "No Boundaries Cricket Club"
   ],
   "url": "https://noboundariescricketclub.com/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
