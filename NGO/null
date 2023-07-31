@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cricket Without Boundaries",
-  "name": "cricket-without-boundaries",
-  "logo": "https://media.good-loop.com/uploads/standard/cwb-bott-logo-15441916483464590765.png#ccrop:89",
-  "id": "cricket-without-boundaries",
+  "displayName": "No Boundaries Cricket Club",
+  "name": "no-boundaries-cricket-club",
+  "logo": "https://media.good-loop.com/uploads/standard/Crest-with-infill-923x1024-7201428515829197656.jpg#ccrop:77",
+  "id": "no-boundaries-cricket-club",
   "suggest": [
-    "cricket-without-boundaries",
-    "Cricket Without Boundaries"
+    "no-boundaries-cricket-club",
+    "No Boundaries Cricket Club"
   ],
-  "url": "https://cricketwithoutboundaries.com/",
+  "url": "https://noboundariescricketclub.com/",
   "status": "DRAFT"
 }
