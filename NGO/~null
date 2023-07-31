@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Folds Of Honor",
   "name": "folds-of-honor",
   "id": "folds-of-honor",
   "suggest": [
-    "folds-of-honor"
+    "folds-of-honor",
+    "Folds Of Honor"
   ],
   "status": "DRAFT"
 }
