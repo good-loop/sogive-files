@@ -1,0 +1,124 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 81.0,
+          "meta": {
+            "all": {
+              "notes": "I couldn\u0027t be sure that this figure is right, but it seems most likely. \nI added together the number of people in New Note Orchestra (p.3 annual report) and New Note Strummers (p.5) - i.e. 39+42\u003d81. \n\nSome people may even do both. "
+            }
+          },
+          "confidence": "low",
+          "name": "participant(s) in music sessions",
+          "description": "This refers to music sessions that help people recover from drug or alcohol addiction by creating music and building a community. "
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001161284_AC_20200331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10500838\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5058287"
+        }
+      ],
+      "year": 2020.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "75859",
+          "currency": "GBP",
+          "value100p": 7.5859E8,
+          "value": 75859.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "p.7 annual report"
+        },
+        "reserves": {
+          "notes": "p.8 annual report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "8932",
+        "currency": "GBP",
+        "value100p": 8.932E7,
+        "value": 8932.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "NEW NOTE PROJECTS",
+  "description": "[New Note Projects](https://www.newnote.co.uk/) provides a safe space with instruments and artistic directors for people recovering from addiction. New Note Projects aims to help participates become more confident, creative, and develop relationships with people away from drugs and alcohol. ",
+  "whyTags": "Music, mental health, addiction",
+  "imageCaption": "Music to ease addictions",
+  "logo": "https://app.sogive.org/uploads/4345768482160962facebook/New_Note_logo-15732419219314511924.png",
+  "@id": "new-note-projects",
+  "id": "new-note-projects",
+  "summaryDescription": "[New Note Projects](https://www.newnote.co.uk/) runs music sessions for people recovering from drug and alcohol addictions. ",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/4345768482160962facebook/New_Note_Photo-193385857522404632.png",
+  "impact": "low",
+  "confidence": "low",
+  "suggest": [
+    "New Note Projects",
+    "NEW NOTE PROJECTS",
+    "new-note-projects"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "new-note-projects",
+      "name": "participant(s) in music sessions",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 9365308,
+        "value": "936.530864197530787402"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.newnote.co.uk/",
+  "howTags": "Direct work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "participant(s) in music sessions",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 9365308,
+      "value": "936.530864197530787402"
+    }
+  },
+  "name": "New Note Projects",
+  "lastModified": "2020-11-16T10:26:03Z",
+  "englandWalesCharityRegNum": "1161284",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
