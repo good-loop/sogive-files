@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "BLAM",
-  "name": "blam-uk",
-  "logo": "https://media.good-loop.com/uploads/standard/Akwm4rK7__400x400-12103850675968776055.jpg#ccrop:85",
-  "id": "blam-uk",
+  "displayName": "Cricket Without Boundaries",
+  "name": "cricket-without-boundaries",
+  "logo": "https://media.good-loop.com/uploads/standard/cwb-bott-logo-15441916483464590765.png#ccrop:89",
+  "id": "cricket-without-boundaries",
   "suggest": [
-    "blam-uk",
-    "BLAM"
+    "cricket-without-boundaries",
+    "Cricket Without Boundaries"
   ],
-  "url": "https://blamuk.org/",
+  "url": "https://cricketwithoutboundaries.com/",
   "status": "DRAFT"
 }
