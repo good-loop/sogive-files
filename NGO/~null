@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "BLAM",
-  "name": "blam-uk",
-  "logo": "https://media.good-loop.com/uploads/standard/Akwm4rK7__400x400-12103850675968776055.jpg#ccrop:86",
-  "id": "blam-uk",
+  "name": "cricket-without-boundaries",
+  "id": "cricket-without-boundaries",
   "suggest": [
-    "blam-uk",
-    "BLAM"
+    "cricket-without-boundaries"
   ],
-  "url": "https://blamuk.org/",
   "status": "DRAFT"
 }
