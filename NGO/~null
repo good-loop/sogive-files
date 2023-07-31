@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "La Maison des Femmes",
-  "name": "la-maison-des-femmes",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-lmdf-stdenis-rvb-11685683129144477480.png#ccrop:65",
-  "id": "la-maison-des-femmes",
+  "name": "celutions-uk",
+  "id": "celutions-uk",
   "suggest": [
-    "la-maison-des-femmes",
-    "La Maison des Femmes"
+    "celutions-uk"
   ],
-  "url": "https://www.lamaisondesfemmes.fr/",
   "status": "DRAFT"
 }
