@@ -1,0 +1,25 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "color": "#c5ad2a",
+  "@type": "NGO",
+  "description": "Working in both the humanitarian and development context, Right To Play builds local capacity by training community leaders as coaches to deliver its programs in 18 countries affected by war, poverty, and disease in Africa, Asia, the Middle East, and North America. Right To Play is headquartered in Toronto, Canada and has national offices in Canada, Germany, Norway, the Netherlands, Switzerland, the United Kingdom and the United States. ",
+  "suggest": [
+    "Right to Play",
+    "right-to-play"
+  ],
+  "url": "https://www.righttoplay.org.uk/en-uk/",
+  "whyTags": "international aid, children, education",
+  "howTags": "direct work",
+  "name": "Right to Play",
+  "modified": false,
+  "logo": "https://www.righttoplay.org.uk/static/img/logos/logo-light@2x.png",
+  "@id": "right-to-play",
+  "wikipedia": "https://en.wikipedia.org/wiki/Right_To_Play",
+  "englandWalesCharityRegNum": "1112404",
+  "summaryDescription": "Right To Play is a global organization that attempts to teach children in need with educational games.",
+  "uptodatedraft": "probably",
+  "whereTags": "africa, asia, middle east, north america",
+  "status": "PUBLISHED"
+}
