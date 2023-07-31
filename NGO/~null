@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "La Maison des ",
   "name": "la-maison-des-femmes",
   "id": "la-maison-des-femmes",
   "suggest": [
-    "la-maison-des-femmes"
+    "la-maison-des-femmes",
+    "La Maison des "
   ],
   "status": "DRAFT"
 }
