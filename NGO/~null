@@ -1,12 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "lnfy",
+  "name": "LNFY",
   "id": "lnfy",
   "suggest": [
-    "lnfy"
+    "LNFY"
   ],
   "status": "DRAFT"
 }
