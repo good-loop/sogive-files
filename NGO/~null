@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Cricket Without Boundaries",
-  "name": "cricket-without-boundaries",
-  "id": "cricket-without-boundaries",
+  "name": "no-boundaries-cricket-club",
+  "id": "no-boundaries-cricket-club",
   "suggest": [
-    "cricket-without-boundaries",
-    "Cricket Without Boundaries"
+    "no-boundaries-cricket-club"
   ],
-  "url": "https://cricketwithoutboundaries.com/",
   "status": "DRAFT"
 }
