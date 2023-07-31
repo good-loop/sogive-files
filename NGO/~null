@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cricket Without-boundaries",
+  "displayName": "Cricket Without Boundaries",
   "name": "cricket-without-boundaries",
   "id": "cricket-without-boundaries",
   "suggest": [
     "cricket-without-boundaries",
-    "Cricket Without-boundaries"
+    "Cricket Without Boundaries"
   ],
   "status": "DRAFT"
 }
