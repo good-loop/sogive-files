@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "acfb",
-  "logo": "https://media.good-loop.com/uploads/standard/acfb__logo-14914539012763002550.svg#ccrop:90",
-  "id": "acfb",
+  "name": "LNFY",
+  "logo": "https://media.good-loop.com/uploads/standard/LNFY__Color-11286243722964648549.png#ccrop:86",
+  "id": "lnfy",
   "suggest": [
-    "acfb"
+    "LNFY"
   ],
-  "url": "https://www.acfb.org/",
-  "status": "PUBLISHED"
+  "url": "https://www.lnfy.org/",
+  "status": "DRAFT"
 }
