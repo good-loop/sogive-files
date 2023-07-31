@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Bat For A Chance",
-  "name": "bat-for-a-chance",
-  "logo": "https://media.good-loop.com/uploads/standard/BFAC__web-Lockup__2023__189x75px2x-Retina-9714444366004705986.png#ccrop:89",
-  "id": "bat-for-a-chance",
+  "displayName": "Folds Of Honor",
+  "name": "folds-of-honor",
+  "logo": "https://media.good-loop.com/uploads/standard/FoH-dark-12167551006261095355.svg",
+  "id": "folds-of-honor",
   "suggest": [
-    "bat-for-a-chance",
-    "Bat For A Chance"
+    "folds-of-honor",
+    "Folds Of Honor"
   ],
-  "url": "https://www.batforachance.org.uk/",
+  "url": "https://foldsofhonor.org/",
   "status": "DRAFT"
 }
