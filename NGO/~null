@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Bat For A Chance",
   "name": "bat-for-a-chance",
   "id": "bat-for-a-chance",
   "suggest": [
-    "bat-for-a-chance"
+    "bat-for-a-chance",
+    "Bat For A Chance"
   ],
   "status": "DRAFT"
 }
