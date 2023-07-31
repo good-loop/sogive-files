@@ -3,12 +3,11 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "LNFY",
-  "logo": "https://media.good-loop.com/uploads/standard/LNFY__Color-11286243722964648549.png#ccrop:86",
-  "id": "lnfy",
+  "name": "Sesame Workshop",
+  "logo": "https://media.good-loop.com/uploads/standard/Sesame-Workshop-logo-17079052720881109888.jpg#ccrop:85",
+  "id": "sesame-workshop",
   "suggest": [
-    "LNFY"
+    "Sesame Workshop"
   ],
-  "url": "https://www.lnfy.org/",
   "status": "DRAFT"
 }
