@@ -3,11 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Race For Life - Cancer Research UK",
-  "logo": "https://media.good-loop.com/uploads/standard/www.visitpeterborough-1336510927832185029.jpg",
-  "id": "race-for-life---cancer-research-uk",
+  "name": "Pedigree Relief Fund",
+  "id": "pedigree-relief-fund",
   "suggest": [
-    "Race For Life - Cancer Research UK"
+    "Pedigree Relief Fund"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
