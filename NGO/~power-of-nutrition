@@ -1,0 +1,230 @@
+{
+  "images": "https://media.good-loop.com/uploads/raw/Capture-9737412384082900362.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "420,000",
+          "currency": "GBP",
+          "value100p": 4.2E9,
+          "value": 420000.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    },
+    {
+      "outputs": [
+        {
+          "number": 100000.0,
+          "name": "bednet(s) distributed"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "400,000",
+          "currency": "GBP",
+          "value100p": 4.0E9,
+          "value": 400000.0
+        }
+      ],
+      "name": "Bednets"
+    },
+    {
+      "outputs": [
+        {
+          "number": 20000.0,
+          "name": "leaflet(s) distributed"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "20,000",
+          "currency": "GBP",
+          "value100p": 2.0E8,
+          "value": 20000.0
+        }
+      ],
+      "name": "Leaflets"
+    },
+    {
+      "outputs": [
+        {
+          "number": 3.0E7,
+          "meta": {
+            "all": {
+              "notes": "page 7:\nSince charity was established their expenditure amounted to  $156.1m and during those five years The Power of Nutrition has contributed to reaching approximately 30 million women and children with nutrition services.\n"
+            }
+          },
+          "confidence": "low",
+          "name": "lives (singular: life) ",
+          "description": "This represents the number of children and mothers that The Power of Nutrition reached with nutrition services in five years.",
+          "costPerBeneficiary": {
+            "@type": "Money",
+            "raw": "5.2",
+            "currency": "USD",
+            "value100p": 52000.0,
+            "value": 5.2
+          }
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10375102\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d5054594"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "$29,168,000.00",
+          "currency": "USD",
+          "value100p": 2.9168E11,
+          "value": 2.9168E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "USD"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "USD"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "no unrestricted reserves"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "currency": "USD"
+      }
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "description": "The Power of Nutrition is working to transform children\u0027s nutrition outcomes, save lives and protect children by: \n(1) unlocking financing for nutrition from new and non-traditional funding sources; and (2) making charitable investments (grants) to scale up quality, high-impact child and maternal nutrition programmes in sub-saharan africa and asia.",
+  "suggest": [
+    "Power of nutrition",
+    "power-of-nutrition"
+  ],
+  "url": "https://www.powerofnutrition.org",
+  "whyTags": "Hunger/Food/Nutrition",
+  "howTags": "Makes grants to organisations",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Power of nutrition",
+  "logo": "https://media.good-loop.com/uploads/raw/Capture-11379922520337273141.jpg",
+  "modified": false,
+  "@id": "power-of-nutrition",
+  "englandWalesCharityRegNum": "1160373",
+  "summaryDescription": "Investing in better nutrition for mothers and young children enables The Power of Nutrition to tackle the underlying cause of 45 percent of all child deaths globally - and will give millions of children the opportunity to reach their full potential.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": true,
+  "whereTags": "sub-saharan Africa, Asia",
+  "status": "DRAFT"
+}
