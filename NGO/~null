@@ -1,13 +1,27 @@
 {
+  "ukCompanyRegNum": "8186281",
+  "circleCrop": "95.0",
+  "images": "http://www.helenbamber.org/wp-content/uploads/2011/09/referrals-300x192.jpg",
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
+  "color": "#495da3",
   "@type": "NGO",
-  "name": "Pedigree Relief Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/Pedigree__Relief__Fund__Logo__CMYK-246899311344354181.png",
-  "id": "pedigree-relief-fund",
+  "displayName": "Helen Bamber Foundation",
+  "created": "2023-06-26T11:58:31Z",
   "suggest": [
-    "Pedigree Relief Fund"
+    "helenbamber",
+    "Helen Bamber Foundation"
   ],
-  "status": "DRAFT"
+  "url": "http://www.helenbamber.org/",
+  "UNSDG": 3.0,
+  "name": "helenbamber",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/Logo__HelenBamber.scaled.500w-433012525190062809.png",
+  "id": "helenbamber",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1149652",
+  "summaryDescription": "The Helen Bamber Foundation helps asylum seekers and refugees who have survived extreme violence and abuse achieve sustained recovery.",
+  "crm": "2506405458@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
