@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Folds Of Honor",
-  "name": "folds-of-honor",
-  "logo": "https://media.good-loop.com/uploads/standard/FoH-dark-12167551006261095355.svg",
-  "id": "folds-of-honor",
+  "name": "Race For Life - Cancer Research UK",
+  "id": "race-for-life---cancer-research-uk",
   "suggest": [
-    "folds-of-honor",
-    "Folds Of Honor"
+    "Race For Life - Cancer Research UK"
   ],
-  "url": "https://foldsofhonor.org/",
   "status": "DRAFT"
 }
