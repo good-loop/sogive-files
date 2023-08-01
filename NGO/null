@@ -1,12 +1,11 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-08-01T09:21:08Z",
-  "name": "Package: Good for People",
-  "id": "package-good-for-people",
+  "created": "2023-08-01T09:22:38Z",
+  "name": "Test Example Charity",
+  "id": "test-example-charity",
   "suggest": [
-    "Package: Good for People"
+    "Test Example Charity"
   ],
-  "crm": "4907603925@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "crm": "4907608857@2506405019@monday.com"
 }
