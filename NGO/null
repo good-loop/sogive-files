@@ -1,12 +1,27 @@
 {
+  "ukCompanyRegNum": "8186281",
+  "circleCrop": "95.0",
+  "images": "https://www.helenbamber.org/themes/custom/hb/images/helen_bamber_logo.svg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@class": "com.goodloop.data.NGO",
+  "color": "#495da3",
   "@type": "NGO",
-  "created": "2023-08-01T09:20:52Z",
-  "name": "Good for the Planet charities",
-  "id": "good-for-the-planet-charities",
+  "displayName": "Helen Bamber Foundation",
+  "created": "2023-06-26T11:58:31Z",
   "suggest": [
-    "Good for the Planet charities"
+    "helenbamber",
+    "Helen Bamber Foundation"
   ],
-  "crm": "4907602994@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "url": "http://www.helenbamber.org/",
+  "UNSDG": 3.0,
+  "name": "helenbamber",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/Logo__HelenBamber.scaled.500w-433012525190062809.png",
+  "id": "helenbamber",
+  "category": "human services",
+  "englandWalesCharityRegNum": "1149652",
+  "summaryDescription": "The Helen Bamber Foundation helps asylum seekers and refugees who have survived extreme violence and abuse achieve sustained recovery.",
+  "crm": "2506405458@2506405019@monday.com",
+  "status": "MODIFIED"
 }
