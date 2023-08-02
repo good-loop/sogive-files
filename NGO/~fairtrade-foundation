@@ -1,5 +1,7 @@
 {
-  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-cover-7205467632345817568.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -437,9 +439,16 @@
     }
   ],
   "@type": "NGO",
+  "description": "\nThe Fairtrade Foundation is the independent non-profit organisation that licenses use of the FAIRTRADE Mark on products in the UK in accordance with internationally agreed Fairtrade standards.  These standards comprise both minimum social, economic and environmental requirements, which producers must meet to be certified, plus progress requirements that encourage the continuous improvement of farmers’ organisations or the situation of estate workers.  That is, certified organizations have better prices, decent working conditions, local sustainability, and fair terms of trade for farmers and workers in the developing world. ",
+  "whyTags": "Climate change, Environment, Poverty, Women, Workers’ rights, Human Rights, Water",
+  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-logo-6865310755107036103.png",
+  "@id": "fairtrade-foundation",
+  "id": "fairtrade-foundation",
+  "summaryDescription": "The Fairtrade Foundation advocates for better prices, decent working conditions, local sustainability, and fair terms of trade for farmers and workers in the developing world.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-cover-7205467632345817568.png",
   "impact": "more-info-needed",
   "confidence": "medium",
-  "description": "\nThe Fairtrade Foundation is the independent non-profit organisation that licenses use of the FAIRTRADE Mark on products in the UK in accordance with internationally agreed Fairtrade standards.  These standards comprise both minimum social, economic and environmental requirements, which producers must meet to be certified, plus progress requirements that encourage the continuous improvement of farmers’ organisations or the situation of estate workers.  That is, certified organizations have better prices, decent working conditions, local sustainability, and fair terms of trade for farmers and workers in the developing world. ",
   "suggest": [
     "Fairtrade Foundation",
     "fairtrade-foundation"
@@ -460,7 +469,6 @@
     }
   ],
   "url": "https://www.fairtrade.org.uk/",
-  "whyTags": "Climate change, Environment, Poverty, Women, Workers’ rights, Human Rights, Water",
   "howTags": "Campaigning, Direct work",
   "simpleImpact": {
     "number": 1.0,
@@ -475,13 +483,8 @@
     }
   },
   "name": "Fairtrade Foundation",
-  "logo": "https://app.sogive.org/uploads/harlingraaol.comemail/fairtrade-logo-6865310755107036103.png",
-  "@id": "fairtrade-foundation",
   "lastModified": "2020-10-13T19:27:08Z",
-  "id": "fairtrade-foundation",
   "englandWalesCharityRegNum": "1043886",
-  "summaryDescription": "The Fairtrade Foundation advocates for better prices, decent working conditions, local sustainability, and fair terms of trade for farmers and workers in the developing world.",
-  "uptodatedraft": "probably",
   "whereTags": "UK, developing world",
   "uk_giftaid": true,
   "suggestedDonations": [],
