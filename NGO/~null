@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "World Fair Trade Organization",
   "name": "world-fair-trade-organization",
   "id": "world-fair-trade-organization",
   "suggest": [
-    "world-fair-trade-organization"
+    "world-fair-trade-organization",
+    "World Fair Trade Organization"
   ],
   "status": "DRAFT"
 }
