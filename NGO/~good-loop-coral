@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "Good-Loop Coral",
   "name": "good-loop-coral",
+  "unsdg": "14",
   "@id": "good-loop-coral",
   "suggest": [
     "good-loop-coral",
