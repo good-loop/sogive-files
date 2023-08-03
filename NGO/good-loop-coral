@@ -10,5 +10,6 @@
     "good-loop-coral"
   ],
   "category": "environment",
-  "status": "DRAFT"
+  "summaryDescription": "A label for Good-Loop to coordinate funding for coral planting (e.g. with the Great Barrier Reef Foundation).",
+  "status": "MODIFIED"
 }
