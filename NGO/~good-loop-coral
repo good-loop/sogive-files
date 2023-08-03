@@ -1,6 +1,7 @@
 {
   "@type": "NGO",
   "displayName": "Good-Loop Coral",
+  "noPublicDonations": true,
   "name": "good-loop-coral",
   "@id": "good-loop-coral",
   "suggest": [
