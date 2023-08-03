@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "Good-Loop Coral",
   "name": "good-loop-coral",
   "@id": "good-loop-coral",
   "suggest": [
     "good-loop-coral",
+    "Good-Loop Coral",
     "good-loop-coral"
-  ]
+  ],
+  "status": "DRAFT"
 }
