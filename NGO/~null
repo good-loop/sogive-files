@@ -1,15 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "World Fair Trade Organization",
-  "name": "world-fair-trade-organization",
-  "logo": "https://media.good-loop.com/uploads/standard/Ftomark-18357740045197705848.png",
-  "id": "world-fair-trade-organization",
+  "name": "girls with impact",
+  "id": "girls-with-impact",
   "suggest": [
-    "world-fair-trade-organization",
-    "World Fair Trade Organization"
+    "girls with impact"
   ],
   "status": "DRAFT"
 }
