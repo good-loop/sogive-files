@@ -1,9 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "new voices foundation",
-  "id": "new-voices-foundation",
+  "name": "girls with impact",
+  "id": "girls-with-impact",
   "suggest": [
-    "new voices foundation"
+    "girls with impact"
   ],
   "status": "DRAFT"
 }
