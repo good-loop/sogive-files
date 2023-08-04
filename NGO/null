@@ -1,13 +1,13 @@
 {
-  "xero": "df491d40-240a-459a-a197-ffca3862b88f",
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-08-03T01:00:21Z",
-  "name": "Operation Homefront",
-  "logo": "https://media.good-loop.com/uploads/standard/OH-Logo-2061830617349419834.png#ccrop:124",
-  "id": "operation-homefront",
+  "name": "girls with impact",
+  "logo": "https://media.good-loop.com/uploads/standard/Straight-NGLtagline976KB-701357790747230371.png#ccrop:90",
+  "id": "girls-with-impact",
   "suggest": [
-    "Operation Homefront"
+    "girls with impact"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
