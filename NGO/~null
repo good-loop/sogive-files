@@ -1,6 +1,5 @@
 {
   "regNums": {
-    "UK_Companies_House": "adadaf",
     "England_Wales_Charity_Commission": "dhdhdhdhd"
   },
   "t4gTheme": {
@@ -14,6 +13,6 @@
     "Test-NGO-for-Rabbits",
     "Test NGO for Rabbits with no hyphens"
   ],
-  "status": "DRAFT",
+  "status": "PUBLISHED",
   "crm": "TNGORABBIT@monday.com"
 }
