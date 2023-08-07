@@ -11,5 +11,6 @@
     "Test-NGO-for-Rabbits",
     "Test NGO for Rabbits with no hyphens"
   ],
-  "status": "DRAFT"
+  "status": "DRAFT",
+  "crm": "TNGORABBIT@monday.com"
 }
