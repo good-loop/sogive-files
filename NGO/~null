@@ -1,13 +1,13 @@
 {
+  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "new voices foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/nv__art__2022-02-small-2-17148110779241681984.png#ccrop:67",
-  "id": "new-voices-foundation",
+  "name": "Test-NGO-for-Rabbits",
+  "id": "test-ngo-for-rabbits",
   "suggest": [
-    "new voices foundation"
+    "Test-NGO-for-Rabbits"
   ],
   "status": "DRAFT"
 }
