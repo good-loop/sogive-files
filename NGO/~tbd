@@ -1,14 +1,20 @@
 {
-  "color": "",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "TBD: To Be Decided",
+  "impact": "very-low",
   "name": "TBD: To Be Decided",
   "description": "This is a placeholder for people who haven\u0027t picked their charity yet.",
+  "modified": true,
   "@id": "tbd",
   "suggest": [
     "TBD: To Be Decided",
+    "TBD: To Be Decided",
     "tbd"
   ],
-  "summaryDescription": "This is a placeholder for people who haven\u0027t picked their charity yet.",
-  "status": "DRAFT",
-  "whyTags": "cos"
+  "summaryDescription": "2020-10-25T19:16:08.800Z",
+  "uptodatedraft": "probably",
+  "status": "PUBLISHED"
 }
