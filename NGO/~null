@@ -4,10 +4,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Test NGO for Rabbits with no hyphens",
   "name": "Test-NGO-for-Rabbits",
   "id": "test-ngo-for-rabbits",
   "suggest": [
-    "Test-NGO-for-Rabbits"
+    "Test-NGO-for-Rabbits",
+    "Test NGO for Rabbits with no hyphens"
   ],
   "status": "DRAFT"
 }
