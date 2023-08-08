@@ -1,15 +1,15 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "created": "2023-08-08T06:29:43Z",
-  "name": "Save the Children South Africa",
-  "id": "save-the-children-south-africa",
+  "displayName": "Alex\u0027s Lemonade Stand Foundation",
+  "name": "Alex\u0027s Lemonade Stand",
+  "logo": "https://media.good-loop.com/uploads/standard/ALSF__Primary__Tag__RGB-9961513476559545033.png",
+  "id": "alex-s-lemonade-stand",
   "suggest": [
-    "Save the Children South Africa"
+    "Alex\u0027s Lemonade Stand",
+    "Alex\u0027s Lemonade Stand Foundation"
   ],
-  "category": "human services",
-  "url": "https://www.savethechildren.org.za/",
-  "crm": "4947950697@2506405019@monday.com",
-  "UNSDG": 10.0,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
