@@ -1,13 +1,16 @@
 {
+  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Royal Manchester Children\u0027s Hospital Charity",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-9931680159023385132.png#ccrop:95",
-  "id": "royal-manchester-children-s-hospital-charity",
+  "displayName": "Book Aid International",
+  "logo": "https://media.good-loop.com/uploads/standard/book-aid-international-logo-10C22ABEE2-seeklogo.com-17155439489682872924.png#ccrop:92",
+  "unsdg": "4",
+  "id": "book-aid",
   "suggest": [
-    "Royal Manchester Children\u0027s Hospital Charity"
+    "Book Aid International"
   ],
+  "url": "https://bookaid.org/",
   "status": "MODIFIED"
 }
