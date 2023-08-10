@@ -1,18 +1,13 @@
 {
-  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Book Aid International",
-  "name": "Book Aid International",
-  "logo": "https://media.good-loop.com/uploads/standard/book-aid-international-logo-10C22ABEE2-seeklogo.com-17155439489682872924.png#ccrop:92",
-  "unsdg": "4",
-  "id": "book-aid",
+  "name": "Habitat for Humanity Canada",
+  "logo": "https://media.good-loop.com/uploads/standard/habitat-logo-17753150265479859003.jpg#ccrop:98",
+  "id": "habitat-for-humanity-canada",
   "suggest": [
-    "Book Aid International",
-    "Book Aid International"
+    "Habitat for Humanity Canada"
   ],
-  "url": "https://bookaid.org/",
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
