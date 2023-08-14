@@ -1,0 +1,23 @@
+{
+  "circleCrop": 90.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Partners in Health",
+  "description": "Our mission is to provide a preferential option for the poor in health care. By establishing long-term relationships with sister organizations based in settings of poverty, Partners In Health strives to achieve two overarching goals: to bring the benefits of modern medical science to those most in need of them and to serve as an antidote to despair.",
+  "suggest": [
+    "partners-in-health",
+    "Partners in Health",
+    "partners-in-health"
+  ],
+  "url": "https://www.pih.org/",
+  "name": "partners-in-health",
+  "logo": "https://app.sogive.org/uploads/thepuppetmasterwinterwell.comemail/header-logo-orange-7705192167134464258.png",
+  "@id": "partners-in-health",
+  "lastModified": "2020-12-08T13:55:04Z",
+  "id": "partners-in-health",
+  "uptodatedraft": "probably",
+  "status": "DRAFT",
+  "usCharityRegNum": "04-3567502"
+}
