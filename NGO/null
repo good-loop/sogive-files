@@ -3,11 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Habitat for Humanity Canada",
-  "logo": "https://media.good-loop.com/uploads/standard/habitat-logo-17753150265479859003.jpg#ccrop:98",
-  "id": "habitat-for-humanity-canada",
+  "displayName": " National Association of Community Health Centers",
+  "name": " National Association of Community Health Centers",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-nafcc-2020-white-1x1-8553403727538527086.png#ccrop:111",
+  "id": "-national-association-of-community-health-centers",
   "suggest": [
-    "Habitat for Humanity Canada"
+    " National Association of Community Health Centers",
+    " National Association of Community Health Centers"
   ],
   "status": "DRAFT"
 }
