@@ -1,4 +1,7 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [
@@ -144,6 +147,13 @@
   "color": "#fe1220",
   "@type": "NGO",
   "displayName": "War child UK",
+  "whyTags": "International Aid, War",
+  "ready": false,
+  "modified": false,
+  "logo": "https://media.good-loop.com/uploads/standard/war-child-logo-png-transparent-10360390144768105134.png#ccrop:70",
+  "@id": "war-child-uk",
+  "summaryDescription": "War Child  protects children living in the world\u0027s most dangerous war zones",
+  "uptodatedraft": "probably",
   "noPublicDonations": false,
   "suggest": [
     "War child UK",
@@ -165,7 +175,6 @@
       "n": 1.0
     }
   ],
-  "whyTags": "International Aid, War",
   "howTags": "Direct Work, campaigning",
   "simpleImpact": {
     "number": 1.0,
@@ -185,16 +194,10 @@
       "notes": "Yes"
     }
   },
-  "ready": false,
   "name": "War child UK",
-  "modified": false,
-  "logo": "https://media.good-loop.com/uploads/standard/war-child-logo-png-transparent-10360390144768105134.png#ccrop:70",
-  "@id": "war-child-uk",
   "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/war_child_logo_white.png",
   "lastModified": "2020-10-28T13:22:29Z",
-  "summaryDescription": "War Child  protects children living in the world\u0027s most dangerous war zones",
   "englandWalesCharityRegNum": "1071659",
   "uk_giftaid": true,
-  "uptodatedraft": "probably",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
