@@ -3,13 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": " National Association of Community Health Centers",
-  "name": " National Association of Community Health Centers",
-  "logo": "https://media.good-loop.com/uploads/standard/new-nafc-logo-15794278876454855479.jpg#ccrop:99",
-  "id": "-national-association-of-community-health-centers",
+  "displayName": "CVS Health Foundation",
+  "name": "CVS Health Foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/CVS-Foundation-Partner-2022-e1664893179193-1409136889950387286.png#ccrop:103",
+  "id": "cvs-health-foundation",
   "suggest": [
-    " National Association of Community Health Centers",
-    " National Association of Community Health Centers"
+    "CVS Health Foundation",
+    "CVS Health Foundation"
   ],
-  "status": "MODIFIED"
+  "status": "DRAFT"
 }
