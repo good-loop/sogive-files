@@ -1,0 +1,28 @@
+{
+  "images": "https://app.sogive.org/uploads/danielgood-loop.comemail/lyowefa29-1-7523493078302894217.jpg",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "color": "#000000",
+  "@type": "NGO",
+  "displayName": "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)",
+  "description": "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA) is a women’s (CBO)\ncommunity based organization, founded by a group of underprivileged HIV/AIDS youths\nand women for people living with HIV/AIDS(PLHIV/A) in the year 2013. It is legally\nregistered with Lwengo District authorities on registration number CD/LDLG/2390. The\nmajor aim of our organisation is to empower poor rural youth, HIV/AIDS orphans, young\nHIV/AIDS widows and young mothers to break the vicious cycle of poverty through\neducation and self-help projects such as crop growing ,raising and selling of domestic\nanimals such as rabbits, goats and local pigs, thereby improving on their welfare and\ntheir dependants.",
+  "suggest": [
+    "LYOWEFA",
+    "Lwengo Youth and Women’s Effort Fighting HIV/AIDS (LYOWEFA)",
+    "lyowefa"
+  ],
+  "url": "https://lyowefa.org/",
+  "UNSDG": "1",
+  "whyTags": "international",
+  "name": "LYOWEFA",
+  "logo": "https://app.sogive.org/uploads/danielgood-loop.comemail/lyowefalogo2-5886177176363646326.png",
+  "@id": "lyowefa",
+  "lastModified": "2020-09-16T13:55:24Z",
+  "id": "lyowefa",
+  "category": "international",
+  "subcategory": "Children\u0027s and Family Services",
+  "whereTags": "Uganda Africa",
+  "uptodatedraft": "probably",
+  "status": "DRAFT"
+}
