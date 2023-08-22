@@ -1,0 +1,21 @@
+{
+  "circleCrop": 84.0,
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Gendered Intelligence",
+  "suggest": [
+    "gendered-intelligence",
+    "Gendered Intelligence",
+    "gendered-intelligence"
+  ],
+  "url": "http://genderedintelligence.co.uk/",
+  "name": "gendered-intelligence",
+  "logo": "https://media.good-loop.com/uploads/raw/gendered-intelligence-1185134841540224545.jpeg",
+  "@id": "gendered-intelligence",
+  "id": "gendered-intelligence",
+  "englandWalesCharityRegNum": "1182558",
+  "summaryDescription": "Gendered Intelligence, established in 2008, is a registered charity that exists to increase understandings of gender diversity and improve trans people\u0027s quality of life. We are a trans-led and trans-involving grassroots organisation with a wealth of lived experience, community connections of many kinds, and a depth and breadth of trans community knowledge that is second to none. We believe everyone can be intelligent about gender!",
+  "status": "DRAFT"
+}
