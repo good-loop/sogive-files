@@ -1,0 +1,84 @@
+{
+  "images": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-21_at_17.45.42-4122892084386262981.png",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://jubileedebt.org.uk/wp-content/uploads/2020/07/Jubilee-Debt-Campaign-2019-signed-accounts.pdf"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "272,193",
+          "currency": "GBP",
+          "value100p": 2.72193E9,
+          "value": 272193.0
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "maybe reserves too high?"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "98,527",
+        "currency": "GBP",
+        "value100p": 9.8527E8,
+        "value": 98527.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "impact": "more-info-needed",
+  "confidence": "medium",
+  "description": "[Jubilee Debt Campaign](https://jubileedebt.org.uk/) researches global debt issues, educates people about their causes and solutions, and campaigns in solidarity with indebted people and countries.",
+  "suggest": [
+    "Jubilee Debt Campaign",
+    "jubilee-debt-campaign"
+  ],
+  "url": "https://jubileedebt.org.uk/",
+  "whyTags": "Poverty",
+  "howTags": "Research, Campaigning",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2019.0]"
+  },
+  "name": "Jubilee Debt Campaign",
+  "logo": "https://app.sogive.org/uploads/1768763903270658facebook/Screen_Shot_2020-10-21_at_17.45.27-17256705190048873078.png",
+  "@id": "jubilee-debt-campaign",
+  "lastModified": "2020-11-27T14:02:42Z",
+  "id": "jubilee-debt-campaign",
+  "englandWalesCharityRegNum": "1055675",
+  "summaryDescription": "[Jubilee Debt Campaign](https://jubileedebt.org.uk/) works to end poverty caused by unjust debt through education, research, and campaigning.",
+  "uptodatedraft": "probably",
+  "uk_giftaid": true,
+  "whereTags": "UK, Global South",
+  "status": "DRAFT"
+}
