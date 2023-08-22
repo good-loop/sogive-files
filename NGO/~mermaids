@@ -1,0 +1,16 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "Mermaids",
+  "logo": "https://media.good-loop.com/uploads/raw/Mermaids__UK-1084524589351715747.jpg",
+  "@id": "mermaids",
+  "suggest": [
+    "Mermaids",
+    "mermaids"
+  ],
+  "id": "mermaids",
+  "englandWalesCharityRegNum": "1160575",
+  "status": "PUBLISHED"
+}
