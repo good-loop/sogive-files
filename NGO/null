@@ -2,18 +2,15 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-07-28T17:16:33Z",
+  "displayName": "Habitat for Humanity NYC WC",
+  "name": "habitat-for-humanity-nycwc",
+  "logo": "https://media.good-loop.com/uploads/standard/habitatnycwc1-2426061594727121163.png#ccrop:80",
+  "id": "habitat-for-humanity-nycwc",
   "suggest": [
-    "Imagine for Margo"
+    "habitat-for-humanity-nycwc",
+    "Habitat for Humanity NYC WC"
   ],
-  "url": "imagineformargo.org",
-  "UNSDG": 3.0,
-  "name": "Imagine for Margo",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-imagine-for-margo-desktop-9002971308165755066.svg#ccrop:90",
-  "id": "imagine-for-margo",
-  "category": "health",
-  "crm": "4891852100@2506405019@monday.com",
-  "status": "MODIFIED"
+  "url": "https://habitatnycwc.org/",
+  "status": "DRAFT"
 }
