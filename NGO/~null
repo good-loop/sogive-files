@@ -2,14 +2,17 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "CVS Health Foundation",
-  "name": "CVS Health Foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/CVS-Foundation-Partner-2022-e1664893179193-1409136889950387286.png#ccrop:102",
-  "id": "cvs-health-foundation",
+  "created": "2023-07-28T17:16:33Z",
+  "name": "Imagine for Margo",
+  "id": "imagine-for-margo",
   "suggest": [
-    "CVS Health Foundation",
-    "CVS Health Foundation"
+    "Imagine for Margo"
   ],
-  "status": "DRAFT"
+  "category": "health",
+  "url": "imagineformargo.org",
+  "crm": "4891852100@2506405019@monday.com",
+  "UNSDG": 3.0,
+  "status": "PUBLISHED"
 }
