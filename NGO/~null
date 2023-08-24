@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "Project C",
   "name": "project-c",
+  "logo": "https://media.good-loop.com/uploads/standard/projclogo-7192809082731306823.png",
   "id": "project-c",
   "suggest": [
     "project-c",
