@@ -1,15 +1,13 @@
 {
-  "xero": "32d49542-c4cf-4508-a30f-aa5ff87b3d34",
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Irish Wildlife Trust",
-  "created": "2023-08-24T01:00:05Z",
-  "description": "The Irish Wildlife Trust (IWT) is a non-governmental organisation and charity founded in 1979 (Charity no:  20010966). The Irish Wildlife Trust aims to conserve wildlife and the habitats it depends on throughout Ireland while encouraging a greater understanding and appreciation of the natural world and the need to protect it.  The Irish Wildlife Trust works to create a better future for Ireland’s biodiversity by motivating and supporting people to take action to protect biodiversity. They achieve this through wildlife walks and talks, citizen science projects, community \u0026 school education, practical conservation activities, and biodiversity campaigning and advocacy.",
-  "logo": "https://media.good-loop.com/uploads/standard/5eda0c1f4d0a70.07357728.png-4595496262840824546.png#ccrop:90",
-  "id": "irish-wildlife-trust",
+  "displayName": "Project C",
+  "name": "project-c",
+  "logo": "https://media.good-loop.com/uploads/standard/projclogo-7192809082731306823.png#ccrop:137",
+  "id": "project-c",
   "suggest": [
-    "Irish Wildlife Trust"
+    "project-c",
+    "Project C"
   ],
-  "url": "https://iwt.ie/",
-  "status": "PUBLISHED"
+  "url": "https://www.nationalgridus.com/project-c/",
+  "status": "DRAFT"
 }
