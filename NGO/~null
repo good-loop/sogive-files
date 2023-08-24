@@ -5,12 +5,12 @@
   "@type": "NGO",
   "displayName": "Project C",
   "name": "project-c",
-  "logo": "https://media.good-loop.com/uploads/standard/projclogo-7192809082731306823.png#ccrop:137",
+  "logo": "https://media.good-loop.com/uploads/standard/projclogo-7192809082731306823.png#ccrop:146",
   "id": "project-c",
   "suggest": [
     "project-c",
     "Project C"
   ],
   "url": "https://www.nationalgridus.com/project-c/",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
