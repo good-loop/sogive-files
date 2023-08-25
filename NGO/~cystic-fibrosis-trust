@@ -1,0 +1,506 @@
+{
+  "scotlandCharityRegNum": "SC040196",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [
+        {
+          "number": 11.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "",
+          "description": "see above. Example projects include physical activity for adolescenets with cystic fibrosis, joint disease in CF, restoring fluidity in the gut. (p7)"
+        },
+        {
+          "number": 14.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Very hard to put different research grants into one stat; may have to delete all, but worth mentioning in overall recommendation."
+            }
+          },
+          "confidence": "high",
+          "name": "",
+          "description": "Grants are awarded for innovative research projects that \"leverage funding from external sources\" (override cost per beneficiary?) - see pg 8, unsure if I fully understand."
+        },
+        {
+          "number": 1.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "",
+          "description": "Major Research centre focussing on different streams of research to ensure healthy lungs for those with SF. Fast rate of progress and high quality research, according to Indepenent Scientific Advisory Board. Outcomes involve increasing awareness in CF from CRC research community, grants to scope substantial programmes of research and research proposals submitted to Cancer Research UK."
+        },
+        {
+          "number": 1.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "",
+          "description": "Fund worth £250,000 to promote strategic research where matched funding unavailable. e.g. into AntiMicrobial Resistance."
+        },
+        {
+          "number": 130.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Advance-care planning work(s) registered",
+          "description": "Programme to support clinicians specialising in CF; supporting documenets downloaded over 600 times/"
+        },
+        {
+          "number": 2.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Fellow sponsored through Clinical Fellowship Programme",
+          "description": "(1 clinical fellow, 1 physiotherapy fellow. 1 Year programme to help them specialise in the management and care of CF and CF patients."
+        },
+        {
+          "number": 30.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Requests for data approved",
+          "description": "UK CF Registry is a database with anonymised data on 99% of people with CF in the UK. "
+        },
+        {
+          "number": 20.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Clinical Trial Accelerator centre(s) opened",
+          "description": "CFTUK is committed to making medicines more available to all people with CF; as therefore set up these centres to monitor and improve trial set-up times, retention rates, trial activity."
+        },
+        {
+          "number": 250.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "People with CF screened at Clinical Trial Centres",
+          "description": "151 of those added onto a trial."
+        },
+        {
+          "number": 10.5,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Should these 3 be a project of their own?"
+            }
+          },
+          "confidence": "high",
+          "name": "Day(s) of trial set-up time reduced",
+          "description": "Data pulled from pg 11, average wait time \"decreased from 7.8 weeks to 6.3 weeks\". 7.8 x 7 \u003d 54.5, 6.3 x 7 \u003d 44.1. Therefore ten days."
+        },
+        {
+          "number": 120.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "Unclear exactly what is meant by \u0027joined the campaign\u0027."
+            }
+          },
+          "confidence": "low",
+          "name": "MP(s) turned supportive of the CF Campaign",
+          "description": "they only specify they have engaeged with 230 MPs, which is \"an increase of more than double the MP Engagement\" from last year.\nNotably includes Matt Hancock and Vaughan Gething in Wales. p12"
+        },
+        {
+          "number": 950.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Welfare Grant(s) provided to people with CF",
+          "description": "Totalling £265,000, for spending on any urgent goods, needs or services to promote quality of life. Includes holiday grants, funeral grants and transplant grants."
+        },
+        {
+          "number": 8.0,
+          "@type": "Output",
+          "meta": {
+            "all": {
+              "notes": "An award to get CF people into self-employment"
+            }
+          },
+          "confidence": "high",
+          "name": "Helen Barrett Grant(s) awarded",
+          "description": "Totalling £10,000 "
+        },
+        {
+          "number": 356.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "People with CF advised",
+          "description": "welfare and rights advice service gives benefits advice to people with CF on how to navigate the benefits system across the UK."
+        },
+        {
+          "number": 3300.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "Helpline call(s) taken"
+        },
+        {
+          "number": 6.76E8,
+          "@type": "Output",
+          "confidence": "medium",
+          "name": "People reached through news coverage",
+          "description": "Aggregate number, covering forms of news from print to broadcasting (pg14)."
+        },
+        {
+          "number": 630.0,
+          "@type": "Output",
+          "confidence": "high",
+          "name": "CF Community member(s) involved",
+          "description": "Over the course of the year, these people with CF were involved in projects like the Clinical Trials Accelerator Platform."
+        }
+      ],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_fileName\u003d0001079049_AC_20190331_E_C.pdf\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA9839319\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_LIFERAY_SHARED_backToSearch\u003dhttps%3A%2F%2Fregister-of-charities.charitycommission.gov.uk%2Fcharity-search%3Fp_p_id%3Duk_gov_ccew_portlet_CharitySearchPortlet%26amp%3Bp_p_lifecycle%3D1%26amp%3Bp_p_state%3Dnormal%26amp%3Bp_p_mode%3Dview%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_cur%3D1%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_delta%3D20%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_keywords%3Dcystic%2Bfibrosis%2Btrust%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_orderByType%3Dasc%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_prevCol%3D%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_useSession%3Dtrue%26amp%3B_uk_gov_ccew_portlet_CharitySearchPortlet_priv_r_p_mvcRenderCommandName%3D%252Fsearch-results\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3967367"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "15,700,000",
+          "currency": "GBP",
+          "value100p": 1.57E11,
+          "value": 1.57E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value100p": 0.0,
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "year": {
+          "notes": ""
+        },
+        "reserves": {
+          "notes": "NB: recorded as \u0027operating reserves\u0027 on financial report"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "raw": "3393000",
+        "currency": "GBP",
+        "value100p": 3.393E10,
+        "value": 3393000.0
+      },
+      "isRep": true
+    },
+    {
+      "outputs": [
+        {
+          "number": 3.0,
+          "meta": {
+            "all": {
+              "notes": "NB 11 Others maintained."
+            }
+          },
+          "confidence": "high",
+          "name": "Strategic Research Centre(s) built",
+          "description": "Each SRC brings experts to tackle  problems caused by CF too large to be tackled by a single project (e.g. CF-related diabetes). Each SRC might hold 5-6 early-career researchers, creating effective \u0027clusters\u0027 of experts. (p6)\nOne example is the SRC on understanding the physiological and metabolic requirements of pseudomonas aeruginosa in cystic fibrosis airways.\nIssue of Override Cost of co-morbidities?"
+        },
+        {
+          "number": 14.0,
+          "meta": {
+            "all": {
+              "notes": "This has also led to 30+ Requests for data from other scientists and practitioners in the field, as well as the development of two full-time fellowships for CF specialists."
+            }
+          },
+          "confidence": "high",
+          "name": "Research Grant(s) awarded"
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "4,695,000",
+          "currency": "GBP",
+          "value100p": 4.695E10,
+          "value": 4695000.0
+        }
+      ],
+      "name": "Research"
+    },
+    {
+      "outputs": [
+        {
+          "number": 356.0,
+          "confidence": "high",
+          "name": "Person(s) with Cystice Fibrosis advised",
+          "description": "welfare and rights advice service gives benefits advice to people with CF on how to navigate the benefits system across the UK."
+        },
+        {
+          "number": 3300.0,
+          "meta": {
+            "all": {
+              "notes": ""
+            }
+          },
+          "confidence": "high",
+          "name": "Helpline call(s) taken"
+        },
+        {
+          "number": 67600.0,
+          "meta": {
+            "all": {
+              "notes": "Think I want to mention but not record as an output."
+            }
+          },
+          "confidence": "medium",
+          "name": "Person(s) reached via CFT in the news"
+        },
+        {
+          "number": 630.0,
+          "meta": {
+            "all": {
+              "notes": "Think I want to mention but not record as an output."
+            }
+          },
+          "confidence": "high",
+          "name": "CF Community Member(s)",
+          "description": "Over the course of the year, these people with CF were involved in projects like the Clinical Trials Accelerator Platform."
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "5,722,000",
+          "currency": "GBP",
+          "value100p": 5.722E10,
+          "value": 5722000.0
+        }
+      ],
+      "name": "Information, advice \u0026 support"
+    },
+    {
+      "outputs": [
+        {
+          "number": 10.5,
+          "meta": {
+            "all": {
+              "notes": "Including 20 Clinical Trial accelarators built"
+            }
+          },
+          "confidence": "high",
+          "name": "Day(s) reduced in Clinical Trial set-up "
+        },
+        {
+          "number": 950.0,
+          "meta": {
+            "all": {
+              "notes": "Among other grants (e.g. Helen Barrett grant - £10k for self-employment"
+            }
+          },
+          "confidence": "high",
+          "name": "Welfare Grant(s) provided",
+          "description": "Totalling £265,000, for spending on any urgent goods, needs or services to promote quality of life. Includes holiday grants, funeral grants and transplant grants."
+        },
+        {
+          "number": 250.0,
+          "confidence": "high",
+          "name": "Screening(s) of People with Cystic Fibrosis",
+          "description": "151 of those added onto a trial."
+        }
+      ],
+      "year": 2018.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "projectCosts",
+          "raw": "1,804,000",
+          "currency": "GBP",
+          "value100p": 1.804E10,
+          "value": 1804000.0
+        }
+      ],
+      "name": "Clinical Care"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://register-of-charities.charitycommission.gov.uk/charity-search?p_p_id\u003duk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet\u0026p_p_lifecycle\u003d2\u0026p_p_state\u003dmaximized\u0026p_p_mode\u003dview\u0026p_p_resource_id\u003d%2Faccounts-resource\u0026p_p_cacheability\u003dcacheLevelPage\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_objectiveId\u003dA10657583\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_mvcRenderCommandName\u003d%2Faccounts-and-annual-returns\u0026_uk_gov_ccew_onereg_charitydetails_web_portlet_CharityDetailsPortlet_priv_r_p_organisationNumber\u003d3967367"
+        }
+      ],
+      "year": 2019.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "@type": "Money",
+          "name": "annualCosts",
+          "raw": "16500000",
+          "currency": "GBP",
+          "value100p": 1.65E11,
+          "value": 1.65E7
+        },
+        {
+          "@type": "Money",
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "@type": "Money",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "reserves": {
+          "notes": "Annual Report, p. 9"
+        }
+      },
+      "name": "overall",
+      "reserves": {
+        "@type": "Money",
+        "name": "",
+        "raw": "6761000",
+        "currency": "",
+        "value100p": 6.761E10,
+        "value": 6761000.0
+      }
+    }
+  ],
+  "@type": "NGO",
+  "description": "Cystic Fibrosis Trust advances the health and aims to save lives of those living with Cystic Fibrosis. They give grants to individuals or organisations for research (into treatments), provide advocacy and advice for both patients and general public and support those living with CF.",
+  "whyTags": "Health, Saving Lives",
+  "logo": "https://app.sogive.org/uploads/harry.crichton-millerspc.ox.ac.ukemail/Cystic_Fibrosis_Trust_Logo-17374048884247798511.png",
+  "@id": "cystic-fibrosis-trust",
+  "summaryDescription": "Cystic Fibrosis Trust aims to enable those with CF to live a normal life. They research clinical treatments and raise awareness of CF.",
+  "uptodatedraft": "probably",
+  "images": "https://app.sogive.org/uploads/harry.crichton-millerspc.ox.ac.ukemail/Cystic_Fibrosis_Trust_Photo-11390321352209319337.png",
+  "impact": "more-info-needed",
+  "confidence": "low",
+  "suggest": [
+    "Cystic Fibrosis Trust",
+    "cystic-fibrosis-trust"
+  ],
+  "impacts": [
+    {
+      "@class": "com.goodloop.data.charity.Impact",
+      "charity": "cystic-fibrosis-trust",
+      "name": "",
+      "amount": {
+        "@class": "com.goodloop.data.Money",
+        "year": 0,
+        "currency": "GBP",
+        "value100p": 14272727272,
+        "value": "1427272.72727272728700000"
+      },
+      "n": 1.0
+    }
+  ],
+  "url": "https://www.cysticfibrosis.org.uk/",
+  "howTags": "Campaigning, Making grants to Organisations, Research",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "",
+    "costPerBeneficiary": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 14272727272,
+      "value": "1427272.72727272728700000"
+    }
+  },
+  "meta": {
+    "description": {
+      "notes": ""
+    }
+  },
+  "name": "Cystic Fibrosis Trust",
+  "lastModified": "2020-11-18T18:22:44Z",
+  "englandWalesCharityRegNum": "1079049",
+  "uk_giftaid": true,
+  "whereTags": "UK",
+  "status": "DRAFT"
+}
