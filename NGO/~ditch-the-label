@@ -1,0 +1,18 @@
+{
+  "images": "90",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "displayName": "Ditch The Label",
+  "name": "ditch-the-label",
+  "logo": "https://media.good-loop.com/uploads/raw/ditch-the-label-image-1-8766177524073909383.png",
+  "@id": "ditch-the-label",
+  "suggest": [
+    "ditch-the-label",
+    "Ditch The Label",
+    "ditch-the-label"
+  ],
+  "id": "ditch-the-label",
+  "status": "PUBLISHED"
+}
