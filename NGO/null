@@ -1,13 +1,13 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Project C",
-  "name": "project-c",
-  "logo": "https://media.good-loop.com/uploads/standard/projclogo-7192809082731306823.png#ccrop:137",
-  "id": "project-c",
+  "name": "England Golf Trust",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-EGT-retina-15705402633879467026.png#ccrop:95",
+  "id": "england-golf-trust",
   "suggest": [
-    "project-c",
-    "Project C"
+    "England Golf Trust"
   ],
-  "url": "https://www.nationalgridus.com/project-c/",
   "status": "DRAFT"
 }
