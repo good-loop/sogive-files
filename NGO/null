@@ -2,12 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "Solidarity Sports",
-  "logo": "https://media.good-loop.com/uploads/standard/SOLIDARITY__SPORTS-LOGO-NO__BACKGROUND-12160842245783384611.png#ccrop:99",
-  "id": "solidarity-sports",
+  "created": "2023-07-25T22:02:24Z",
   "suggest": [
-    "Solidarity Sports"
+    "Tackle This Together"
   ],
-  "status": "DRAFT"
+  "url": "wwwtacklethistogether.co.uk",
+  "UNSDG": 3.0,
+  "name": "Tackle This Together",
+  "logo": "https://media.good-loop.com/uploads/standard/tttlogo-11989893050586914489.png",
+  "id": "tackle-this-together",
+  "category": "health",
+  "crm": "4872640682@2506405019@monday.com",
+  "status": "MODIFIED"
 }
