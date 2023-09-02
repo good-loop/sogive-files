@@ -1,10 +1,12 @@
 {
+  "xero": "5cb43dd3-b604-4f42-a878-dea4ea500403",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "Family Action",
-  "logo": "https://media.good-loop.com/uploads/standard/logo2x-10034598015285481140.png#ccrop:95",
-  "id": "family-action-",
+  "created": "2023-09-02T01:00:05Z",
+  "name": "Japanese Organization for International Cooperation in Family Planning",
+  "id": "joi-cfp",
   "suggest": [
-    "Family Action"
+    "Japanese Organization for International Cooperation in Family Planning"
   ],
   "status": "DRAFT"
 }
