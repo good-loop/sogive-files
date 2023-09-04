@@ -1,12 +1,14 @@
 {
-  "xero": "5cb43dd3-b604-4f42-a878-dea4ea500403",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-02T01:00:05Z",
-  "name": "Japanese Organization for International Cooperation in Family Planning",
-  "id": "joi-cfp",
+  "created": "2023-09-04T11:03:14Z",
+  "name": "FoodCycle",
+  "id": "foodcycle",
   "suggest": [
-    "Japanese Organization for International Cooperation in Family Planning"
+    "FoodCycle"
   ],
-  "status": "DRAFT"
+  "category": "human services",
+  "url": "www.foodcycle,org.uk",
+  "crm": "5100619841@2506405019@monday.com",
+  "UNSDG": 2.0
 }
