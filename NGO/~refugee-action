@@ -1,0 +1,72 @@
+{
+  "images": "",
+  "projects": [
+    {
+      "outputs": [],
+      "adjustmentComment": "",
+      "donationWording": "",
+      "images": "",
+      "@type": "Project",
+      "stories_src": "",
+      "inputs": [
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "annualCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "fundraisingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "tradingCosts",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "value100": 0.0,
+          "@type": "MonetaryAmount",
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "isRep": true,
+      "ready": false,
+      "analysisComment": "",
+      "name": "overall",
+      "analyst": "Sanjay",
+      "location": ""
+    }
+  ],
+  "@type": "NGO",
+  "noPublicDonations": false,
+  "suggest": [
+    "Refugee action",
+    "refugee-action"
+  ],
+  "whyTags": "Refugees",
+  "howTags": "Direct Work",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "meta": {
+    "noPublicDonations": {
+      "notes": "Yes"
+    }
+  },
+  "name": "Refugee action",
+  "logo": "https://media.good-loop.com/uploads/raw/Refugee-Action-01-7115946651116149202.png",
+  "@id": "refugee-action",
+  "whereTags": "United Kingdom",
+  "uk_giftaid": true
+}
