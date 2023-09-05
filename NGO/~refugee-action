@@ -52,6 +52,7 @@
     "Refugee action",
     "refugee-action"
   ],
+  "url": "https://www.refugee-action.org.uk/",
   "whyTags": "Refugees",
   "howTags": "Direct Work",
   "simpleImpact": {
@@ -68,5 +69,6 @@
   "logo": "https://media.good-loop.com/uploads/raw/Refugee-Action-01-7115946651116149202.png",
   "@id": "refugee-action",
   "whereTags": "United Kingdom",
-  "uk_giftaid": true
+  "uk_giftaid": true,
+  "status": "DRAFT"
 }
