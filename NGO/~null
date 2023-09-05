@@ -2,17 +2,11 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-08-08T06:29:43Z",
-  "name": "Save the Children South Africa",
-  "id": "save-the-children-south-africa",
+  "name": "pizza-hut-foundation",
+  "id": "pizza-hut-foundation",
   "suggest": [
-    "Save the Children South Africa"
+    "pizza-hut-foundation"
   ],
-  "category": "human services",
-  "url": "https://www.savethechildren.org.za/",
-  "crm": "4947950697@2506405019@monday.com",
-  "UNSDG": 10.0,
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
