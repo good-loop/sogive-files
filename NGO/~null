@@ -5,7 +5,7 @@
   "suggest": [
     "FoodCycle"
   ],
-  "url": "www.foodcycle,org.uk",
+  "url": "https://foodcycle.org.uk/",
   "UNSDG": 2.0,
   "whyTags": "human services",
   "name": "FoodCycle",
@@ -13,5 +13,5 @@
   "id": "foodcycle",
   "category": "human services",
   "crm": "5100619841@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
