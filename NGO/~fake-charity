@@ -4,13 +4,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "fake charity",
+  "displayName": "fake charitye",
   "name": "fake-charity",
   "logo": "https://media.good-loop.com/uploads/standard/flowey-17939093404492433079.png",
   "@id": "fake-charity",
   "suggest": [
     "fake-charity",
-    "fake charity",
+    "fake charitye",
     "fake-charity"
   ],
   "id": "fake-charity",
