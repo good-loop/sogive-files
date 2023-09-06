@@ -2,7 +2,7 @@
   "@type": "NGO",
   "displayName": "American Red Cross",
   "name": "american-red-cross2",
-  "logo": "https://media.good-loop.com/uploads/raw/redcross-logo.png.img-3235626656053941417.png",
+  "logo": "https://media.good-loop.com/uploads/raw/redcross-logo.png.img-3235626656053941417.png#ccrop:97",
   "@id": "american-red-cross2",
   "suggest": [
     "american-red-cross2",
@@ -10,5 +10,5 @@
     "american-red-cross2"
   ],
   "url": "https://www.redcross.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
