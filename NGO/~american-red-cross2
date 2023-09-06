@@ -1,9 +1,12 @@
 {
   "@type": "NGO",
+  "displayName": "American Red Cross",
   "name": "american-red-cross2",
   "@id": "american-red-cross2",
   "suggest": [
     "american-red-cross2",
+    "American Red Cross",
     "american-red-cross2"
-  ]
+  ],
+  "status": "DRAFT"
 }
