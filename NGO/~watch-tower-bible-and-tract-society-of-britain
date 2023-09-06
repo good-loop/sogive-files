@@ -334,7 +334,7 @@
   "ready": true,
   "name": "WATCH TOWER BIBLE AND TRACT SOCIETY OF BRITAIN",
   "modified": false,
-  "logo": "https://app.sogive.org/uploads/kresina.richardgmail.comemail/jw-7129762438051150472.png",
+  "logo": "https://media.good-loop.com/uploads/raw/flowey-14541881542461196590.png",
   "@id": "watch-tower-bible-and-tract-society-of-britain",
   "category": "religion",
   "englandWalesCharityRegNum": "1077961",
@@ -342,5 +342,5 @@
   "uptodatedraft": "probably",
   "whereTags": "Worldwide",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
