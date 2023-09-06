@@ -2,6 +2,7 @@
   "@type": "NGO",
   "displayName": "American Red Cross",
   "name": "american-red-cross2",
+  "logo": "https://media.good-loop.com/uploads/raw/redcross-logo.png.img-3235626656053941417.png",
   "@id": "american-red-cross2",
   "suggest": [
     "american-red-cross2",
