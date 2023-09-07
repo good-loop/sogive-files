@@ -6,11 +6,12 @@
   "displayName": "Foundation Medicine",
   "name": "foundation-medicine",
   "logo": "https://media.good-loop.com/uploads/standard/logo_19-3081072349453120286.svg#ccrop:90",
+  "altlogo": "https://media.good-loop.com/uploads/standard/foundation-medicine-logo_2-16810460734529380731.svg#ccrop:90",
   "id": "foundation-medicine",
   "suggest": [
     "foundation-medicine",
     "Foundation Medicine"
   ],
   "url": "https://www.rochefoundationmedicine.com/cancertesting.html",
-  "status": "DRAFT"
+  "status": "MODIFIED"
 }
