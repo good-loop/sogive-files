@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Maui United Way",
-  "name": "united-way-maui",
-  "logo": "https://media.good-loop.com/uploads/standard/f1f05efa5c767973b3c688ccaaeb21714315e950-5450888699925869611.png#ccrop:70",
-  "id": "united-way-maui",
+  "created": "2023-09-07T17:52:08Z",
+  "name": "Canada\u0027s Children\u0027s Hospital Foundations",
+  "id": "canada-s-children-s-hospital-foundations",
   "suggest": [
-    "united-way-maui",
-    "Maui United Way"
+    "Canada\u0027s Children\u0027s Hospital Foundations"
   ],
-  "url": "https://mauiunitedway.org/",
-  "status": "MODIFIED"
+  "category": "health",
+  "url": "https://childrenshospitals.ca",
+  "crm": "5124584187@2506405019@monday.com",
+  "UNSDG": 3.0
 }
