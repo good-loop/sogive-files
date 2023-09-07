@@ -1,17 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Foundation Medicine",
-  "name": "foundation-medicine",
-  "logo": "https://media.good-loop.com/uploads/standard/logo_19-3081072349453120286.svg#ccrop:90",
-  "altlogo": "https://media.good-loop.com/uploads/standard/foundation-medicine-logo_2-16810460734529380731.svg#ccrop:80",
-  "id": "foundation-medicine",
+  "name": "united-way-maui",
+  "id": "united-way-maui",
   "suggest": [
-    "foundation-medicine",
-    "Foundation Medicine"
+    "united-way-maui"
   ],
-  "url": "https://www.rochefoundationmedicine.com/cancertesting.html",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
