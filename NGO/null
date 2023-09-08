@@ -1,15 +1,22 @@
 {
+  "images": "",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-07T17:52:08Z",
-  "name": "Canada\u0027s Children\u0027s Hospital Foundations",
-  "id": "canada-s-children-s-hospital-foundations",
+  "created": "2023-09-08T15:50:45Z",
   "suggest": [
-    "Canada\u0027s Children\u0027s Hospital Foundations"
+    "Refugee action"
   ],
-  "category": "health",
-  "url": "https://childrenshospitals.ca",
-  "crm": "5124584187@2506405019@monday.com",
-  "UNSDG": 3.0,
+  "url": "https://www.refugee-action.org.uk/",
+  "UNSDG": 10.0,
+  "simpleImpact": {
+    "@class": "com.goodloop.data.charity.Impact",
+    "name": "No Outputs! for project Project[overall null]"
+  },
+  "name": "Refugee action",
+  "logo": "https://media.good-loop.com/uploads/raw/Refugee-Action-01-7115946651116149202.png",
+  "id": "refugee-action",
+  "category": "human services",
+  "englandWalesCharityRegNum": "283660",
+  "crm": "5130366739@2506405019@monday.com",
   "status": "PUBLISHED"
 }
