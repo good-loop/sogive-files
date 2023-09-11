@@ -1,0 +1,17 @@
+{
+  "scotlandCharityRegNum": "SC040647",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "@type": "NGO",
+  "name": "The Urban Roots Initiative",
+  "logo": "https://media.good-loop.com/uploads/standard/ROOTS-10845889851767239127.png",
+  "@id": "the-urban-roots-initiative",
+  "suggest": [
+    "The Urban Roots Initiative",
+    "the-urban-roots-initiative"
+  ],
+  "url": "https://www.urbanroots.org.uk",
+  "uk_giftaid": true,
+  "status": "DRAFT"
+}
