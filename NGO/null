@@ -1,15 +1,14 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-08T15:52:10Z",
-  "name": "Honor and Remember, Inc",
-  "id": "honor-and-remember-inc",
+  "created": "2023-09-11T15:01:38Z",
+  "name": "MIND Us",
+  "id": "mind-us",
   "suggest": [
-    "Honor and Remember, Inc"
+    "MIND Us"
   ],
-  "category": "human services",
-  "url": "https://honorandremember.org",
-  "crm": "5130375764@2506405019@monday.com",
-  "UNSDG": 17.0,
-  "status": "PUBLISHED"
+  "category": "health",
+  "url": "https://mindus.nl/",
+  "crm": "5140115030@2506405019@monday.com",
+  "UNSDG": 3.0
 }
