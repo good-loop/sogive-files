@@ -1,5 +1,8 @@
 {
   "images": "",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "projects": [
     {
       "outputs": [],
@@ -68,10 +71,10 @@
     }
   },
   "name": "",
-  "logo": "https://media.good-loop.com/uploads/standard/new__vf__foundation__logo__horiz__rgb__red-16975740245771691170.jpeg#ccrop:99",
+  "logo": "https://media.good-loop.com/uploads/standard/new__vf__foundation__logo__horiz__rgb__red-16975740245771691170.jpeg#ccrop:98",
   "@id": "vodafone-foundation",
   "englandWalesCharityRegNum": "1089625",
   "whereTags": "Developing World",
   "uk_giftaid": true,
-  "status": "MODIFIED"
+  "status": "PUBLISHED"
 }
