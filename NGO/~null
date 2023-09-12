@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "United24",
-  "name": "united-24",
-  "logo": "https://media.good-loop.com/uploads/standard/UNITED24__logo.svg-10113398773466096699.png#ccrop:90",
-  "id": "united-24",
+  "name": "girls-helping-girls",
+  "id": "girls-helping-girls",
   "suggest": [
-    "united-24",
-    "United24"
+    "girls-helping-girls"
   ],
-  "url": "https://u24.gov.ua/",
   "status": "DRAFT"
 }
