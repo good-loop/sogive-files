@@ -3,12 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "faiths-4-change",
-  "logo": "https://media.good-loop.com/uploads/standard/f4c-logo-new-2-5796970507340704720.jpeg",
-  "id": "faiths-4-change",
+  "displayName": "United24",
+  "name": "united-24",
+  "logo": "https://media.good-loop.com/uploads/standard/UNITED24__logo.svg-10113398773466096699.png#ccrop:90",
+  "id": "united-24",
   "suggest": [
-    "faiths-4-change"
+    "united-24",
+    "United24"
   ],
-  "url": "https://www.faiths4change.org.uk/",
+  "url": "https://u24.gov.ua/",
   "status": "DRAFT"
 }
