@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "United24",
-  "name": "united-24",
-  "logo": "https://media.good-loop.com/uploads/standard/UNITED24__logo.svg-10113398773466096699.png#ccrop:90",
-  "id": "united-24",
+  "displayName": "Girls Helping Girls Period",
+  "name": "girls-helping-girls-period",
+  "logo": "https://media.good-loop.com/uploads/standard/girls__helping__girls__period-6873701376797142997.png#ccrop:79",
+  "id": "girls-helping-girls",
   "suggest": [
-    "united-24",
-    "United24"
+    "girls-helping-girls-period",
+    "Girls Helping Girls Period"
   ],
-  "url": "https://u24.gov.ua/",
+  "url": "https://girlshelpinggirlsperiod.org/",
   "status": "DRAFT"
 }
