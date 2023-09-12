@@ -1,11 +1,12 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "name": "urban-growth",
-  "logo": "https://media.good-loop.com/uploads/standard/UrbanGrowth-01__Lr-6318474618232276578.png",
-  "id": "urban-growth",
+  "name": "faiths-4-change",
+  "id": "faiths-4-change",
   "suggest": [
-    "urban-growth"
+    "faiths-4-change"
   ],
-  "url": "https://www.urbangrowth.london/",
   "status": "DRAFT"
 }
