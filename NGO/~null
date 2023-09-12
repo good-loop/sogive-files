@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Girls Helping Girls",
-  "name": "girls-helping-girls",
+  "displayName": "Girls Helping Girls Period",
+  "name": "girls-helping-girls-period",
   "id": "girls-helping-girls",
   "suggest": [
-    "girls-helping-girls",
-    "Girls Helping Girls"
+    "girls-helping-girls-period",
+    "Girls Helping Girls Period"
   ],
   "status": "DRAFT"
 }
