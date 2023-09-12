@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "faiths-4-change",
-  "logo": "https://media.good-loop.com/uploads/standard/f4c-logo-new-2-5796970507340704720.jpeg",
-  "id": "faiths-4-change",
+  "name": "united-24",
+  "id": "united-24",
   "suggest": [
-    "faiths-4-change"
+    "united-24"
   ],
-  "url": "https://www.faiths4change.org.uk/",
   "status": "DRAFT"
 }
