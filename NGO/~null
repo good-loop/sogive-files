@@ -1,16 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "displayName": "Maui United Way",
-  "name": "united-way-maui",
-  "logo": "https://media.good-loop.com/uploads/standard/f1f05efa5c767973b3c688ccaaeb21714315e950-5450888699925869611.png#ccrop:70",
-  "id": "united-way-maui",
+  "name": "urban-growth",
+  "id": "urban-growth",
   "suggest": [
-    "united-way-maui",
-    "Maui United Way"
+    "urban-growth"
   ],
-  "url": "https://mauiunitedway.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
