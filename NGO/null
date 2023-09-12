@@ -1,16 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Girls Helping Girls Period",
-  "name": "girls-helping-girls-period",
-  "logo": "https://media.good-loop.com/uploads/standard/girls__helping__girls__period-6873701376797142997.png#ccrop:79",
-  "id": "girls-helping-girls",
+  "created": "2023-09-12T19:05:07Z",
+  "name": "wirfueryannic e.V.",
+  "id": "wirfueryannic-e-v",
   "suggest": [
-    "girls-helping-girls-period",
-    "Girls Helping Girls Period"
+    "wirfueryannic e.V."
   ],
-  "url": "https://girlshelpinggirlsperiod.org/",
-  "status": "DRAFT"
+  "category": "health",
+  "url": "www.wirfueryannic.de",
+  "crm": "5149870906@2506405019@monday.com",
+  "UNSDG": 3.0
 }
