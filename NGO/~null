@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Girls Helping Girls Period",
-  "name": "girls-helping-girls-period",
-  "logo": "https://media.good-loop.com/uploads/standard/girls__helping__girls__period-6873701376797142997.png#ccrop:79",
-  "id": "girls-helping-girls",
+  "name": "Global Nature Fund",
+  "id": "global-nature-fund",
   "suggest": [
-    "girls-helping-girls-period",
-    "Girls Helping Girls Period"
+    "Global Nature Fund"
   ],
-  "url": "https://girlshelpinggirlsperiod.org/",
   "status": "DRAFT"
 }
