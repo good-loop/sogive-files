@@ -1,13 +1,14 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "name": "Global Nature Fund",
-  "logo": "https://media.good-loop.com/uploads/standard/18.01.15__GNF__Logo__RGB-1940723565254865095.jpg#ccrop:96",
-  "id": "global-nature-fund",
+  "created": "2023-09-14T12:59:31Z",
+  "name": "Fondazione Progetto Itaca ETS",
+  "id": "fondazione-progetto-itaca-ets",
   "suggest": [
-    "Global Nature Fund"
+    "Fondazione Progetto Itaca ETS"
   ],
-  "status": "DRAFT"
+  "category": "health",
+  "url": "https://progettoitaca.org/",
+  "crm": "5161626938@2506405019@monday.com",
+  "UNSDG": 3.0
 }
