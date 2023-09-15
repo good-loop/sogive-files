@@ -1,15 +1,14 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-14T12:59:31Z",
-  "name": "Fondazione Progetto Itaca ETS",
-  "id": "fondazione-progetto-itaca-ets",
+  "created": "2023-09-15T00:16:22Z",
+  "name": "Dress for Success Worldwide",
+  "id": "dress-for-success-worldwide",
   "suggest": [
-    "Fondazione Progetto Itaca ETS"
+    "Dress for Success Worldwide"
   ],
-  "category": "health",
-  "url": "https://progettoitaca.org/",
-  "crm": "5161626938@2506405019@monday.com",
-  "UNSDG": 3.0,
-  "status": "PUBLISHED"
+  "category": "community",
+  "url": "www.dressforsuccess.org",
+  "crm": "5166072920@2506405019@monday.com",
+  "UNSDG": 8.0
 }
