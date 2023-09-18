@@ -1,0 +1,129 @@
+{
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
+  "projects": [
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "http://apps.charitycommission.gov.uk/Accounts/Ends09/0001168309_AC_20170731_E_C.PDF"
+        }
+      ],
+      "start_raw": "2017-05-01",
+      "year": 2017.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "1424",
+          "currency": "GBP",
+          "value100p": 1.424E7,
+          "value": 1424.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "raw": "0",
+          "currency": "GBP",
+          "value": 0.0
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "note: period covers three months"
+        }
+      },
+      "name": "overall",
+      "start": "2017-05-01",
+      "end": "2017-07-31",
+      "reserves": {
+        "@type": "Money",
+        "raw": "65439",
+        "currency": "GBP",
+        "value100p": 6.5439E8,
+        "value": 65439.0
+      },
+      "end_raw": "2017-07-31"
+    },
+    {
+      "outputs": [],
+      "data-src": [
+        {
+          "@type": "Citation",
+          "url": "https://animalcharityevaluators.org/wp-content/uploads/2017/11/animal-equalitys-expenses-2016-2017.pdf"
+        }
+      ],
+      "year": 2016.0,
+      "@type": "Project",
+      "inputs": [
+        {
+          "name": "annualCosts",
+          "raw": "$2,636,658",
+          "currency": "GBP",
+          "value100p": 2.636658E10,
+          "value": 2636658.0
+        },
+        {
+          "name": "fundraisingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "tradingCosts",
+          "currency": "GBP"
+        },
+        {
+          "name": "incomeFromBeneficiaries",
+          "currency": "GBP"
+        }
+      ],
+      "meta": {
+        "inputs_meta": {
+          "notes": "Note US report for 2016"
+        }
+      },
+      "name": "overall"
+    }
+  ],
+  "@type": "NGO",
+  "displayName": "Animal Equality",
+  "description": "Animal Equality\u0027s vision is a world in which all animals are respected and protected.\nThrough investigations, corporate outreach, legal advocacy, and education Animal Equality aims to spare the most amount of animal suffering.\n",
+  "whyTags": "Animals",
+  "externalAssessments": "https://animalcharityevaluators.org/donation-advice/recommended-charities/",
+  "imageCaption": "Fundraising photo",
+  "modified": false,
+  "logo": "https://i.imgur.com/4ILVE4D.png",
+  "@id": "animal-equality",
+  "wikipedia": "https://en.wikipedia.org/wiki/Animal_Equality",
+  "summaryDescription": "Animal Equality is an international organisation working with society, governments, and companies to end cruelty to farmed animals.",
+  "uptodatedraft": "probably",
+  "usCharityRegNum": "47-2420444",
+  "images": "data:image/jpeg;base64,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\u003d",
+  "suggest": [
+    "Animal Equality",
+    "Animal Equality",
+    "animal-equality"
+  ],
+  "url": "http://www.animalequality.net/",
+  "howTags": "Advocacy, campaigning, education",
+  "simpleImpact": {
+    "number": 1.0,
+    "@type": "Output",
+    "name": "No Outputs! for project Project[overall 2017.0]"
+  },
+  "name": "Animal Equality",
+  "englandWalesCharityRegNum": "1168309",
+  "whereTags": "UK, Brazil, Germany, Spain, India, Italy, Mexico, USA",
+  "uk_giftaid": true,
+  "status": "PUBLISHED"
+}
