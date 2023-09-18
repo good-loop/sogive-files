@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Global Nature Fund",
-  "id": "global-nature-fund",
+  "name": "hope-foundation",
+  "id": "hope-foundation",
   "suggest": [
-    "Global Nature Fund"
+    "hope-foundation"
   ],
   "status": "DRAFT"
 }
