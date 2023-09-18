@@ -3,14 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Hope Foudnation",
-  "name": "hope-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/hope-9852555885801350528.svg#ccrop:85",
-  "id": "hope-foundation",
+  "displayName": "Fake Charity Yes",
+  "unlisted": true,
+  "ready": false,
+  "logo": "https://media.good-loop.com/uploads/standard/logo_ipsum-11665782592689431690.svg#ccrop:86",
+  "id": "fake-charity-yes",
   "suggest": [
-    "hope-foundation",
-    "Hope Foudnation"
+    "Fake Charity Yes"
   ],
-  "url": "https://quyhyvong.com/",
-  "status": "DRAFT"
+  "url": "",
+  "status": "PUBLISHED"
 }
