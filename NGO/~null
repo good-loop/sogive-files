@@ -4,6 +4,7 @@
   },
   "@type": "NGO",
   "name": "unloc",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-5797249108868450793.svg",
   "id": "unloc",
   "suggest": [
     "unloc"
