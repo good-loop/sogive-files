@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "unloc",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-5797249108868450793.svg",
-  "id": "unloc",
+  "name": "upchieve",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-12007735159042010467.png#ccrop:92",
+  "id": "upchieve",
   "suggest": [
-    "unloc"
+    "upchieve"
   ],
-  "url": "https://unloc.online/",
-  "status": "DRAFT"
+  "url": "https://upchieve.org/",
+  "status": "PUBLISHED"
 }
