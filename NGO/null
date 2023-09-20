@@ -3,12 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "foster-love",
-  "logo": "https://media.good-loop.com/uploads/standard/foster-love-logo-square-6166551180641792237.svg#ccrop:64",
-  "id": "foster-love",
+  "displayName": "Gates Foundation",
+  "name": "gates-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logolg-16630765562127974769.svg#ccrop:88",
+  "id": "gates-foundation",
   "suggest": [
-    "foster-love"
+    "gates-foundation",
+    "Gates Foundation"
   ],
-  "url": "https://www.fosterlove.com/",
+  "url": "https://www.gatesfoundation.org/",
   "status": "DRAFT"
 }
