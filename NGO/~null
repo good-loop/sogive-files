@@ -5,6 +5,7 @@
   "@type": "NGO",
   "displayName": "Gates Foundation",
   "name": "gates-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/logolg-16630765562127974769.svg",
   "id": "gates-foundation",
   "suggest": [
     "gates-foundation",
