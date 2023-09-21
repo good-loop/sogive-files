@@ -1,14 +1,15 @@
 {
+  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "dummmmmmy charrrrr",
-  "name": "dummy char",
-  "id": "dummy-char",
+  "displayName": "Cloud Strife Production 123 dummy",
+  "name": "Cloud-Strife-Prod-dummy",
+  "id": "cloud-strife-prod",
   "suggest": [
-    "dummy char",
-    "dummmmmmy charrrrr"
+    "Cloud-Strife-Prod-dummy",
+    "Cloud Strife Production 123 dummy"
   ],
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
