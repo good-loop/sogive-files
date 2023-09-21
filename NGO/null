@@ -4,12 +4,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cloud Strife Production 123 dummy",
-  "name": "Cloud-Strife-Prod",
-  "id": "cloud-strife-prod",
+  "displayName": "dummy charity 1233",
+  "name": "dummy-charity",
+  "id": "dummy-charity",
   "suggest": [
-    "Cloud-Strife-Prod",
-    "Cloud Strife Production 123 dummy"
+    "dummy-charity",
+    "dummy charity 1233"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
