@@ -5,8 +5,10 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-09-08T15:52:10Z",
+  "displayName": "Honor and Remember",
   "suggest": [
-    "Honor and Remember, Inc"
+    "Honor and Remember, Inc",
+    "Honor and Remember"
   ],
   "url": "https://honorandremember.org",
   "UNSDG": 17.0,
