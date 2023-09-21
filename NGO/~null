@@ -1,16 +1,13 @@
 {
+  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Gates Foundation",
-  "name": "gates-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/logolg-16630765562127974769.svg#ccrop:88",
-  "id": "gates-foundation",
+  "name": "dummy-charity",
+  "id": "dummy-charity",
   "suggest": [
-    "gates-foundation",
-    "Gates Foundation"
+    "dummy-charity"
   ],
-  "url": "https://www.gatesfoundation.org/",
   "status": "DRAFT"
 }
