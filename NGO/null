@@ -1,15 +1,15 @@
 {
-  "regNums": {},
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Cloud Strife Production 123 dummy",
-  "name": "Cloud-Strife-Prod-dummy",
-  "id": "cloud-strife-prod",
+  "displayName": "Homotopia",
+  "name": "homotopia",
+  "logo": "https://media.good-loop.com/uploads/standard/Homotopia__MasterLogo-1024x576-15492017558974712373.png#ccrop:90",
+  "id": "homotopia",
   "suggest": [
-    "Cloud-Strife-Prod-dummy",
-    "Cloud Strife Production 123 dummy"
+    "homotopia",
+    "Homotopia"
   ],
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
