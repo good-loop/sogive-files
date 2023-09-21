@@ -1,13 +1,9 @@
 {
-  "regNums": {},
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "dummy-charity",
-  "id": "dummy-charity",
+  "name": "dummy char",
+  "id": "dummy-char",
   "suggest": [
-    "dummy-charity"
+    "dummy char"
   ],
   "status": "DRAFT"
 }
