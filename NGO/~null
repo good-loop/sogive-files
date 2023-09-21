@@ -3,13 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Homotopia",
-  "name": "homotopia",
-  "logo": "https://media.good-loop.com/uploads/standard/Homotopia__MasterLogo-1024x576-15492017558974712373.png#ccrop:90",
-  "id": "homotopia",
+  "name": "kleider-stifung",
+  "id": "kleider-stifung",
   "suggest": [
-    "homotopia",
-    "Homotopia"
+    "kleider-stifung"
   ],
   "status": "DRAFT"
 }
