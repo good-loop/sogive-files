@@ -3,10 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
+  "displayName": "Kleider Stifung",
   "name": "kleider-stifung",
   "id": "kleider-stifung",
   "suggest": [
-    "kleider-stifung"
+    "kleider-stifung",
+    "Kleider Stifung"
   ],
   "status": "DRAFT"
 }
