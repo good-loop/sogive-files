@@ -1,21 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-08T15:52:10Z",
-  "displayName": "Honor and Remember",
+  "name": "nwa-thecallin",
+  "id": "nwa-thecallin",
   "suggest": [
-    "Honor and Remember, Inc",
-    "Honor and Remember"
+    "nwa-thecallin"
   ],
-  "url": "https://honorandremember.org",
-  "UNSDG": 17.0,
-  "name": "Honor and Remember, Inc",
-  "logo": "https://media.good-loop.com/uploads/standard/HonorAndRemember__Logo-8404346768366338872.png#ccrop:75",
-  "id": "honor-and-remember-inc",
-  "category": "human services",
-  "crm": "5130375764@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
