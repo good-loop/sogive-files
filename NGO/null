@@ -1,19 +1,14 @@
 {
-  "@class": "com.goodloop.data.NGO",
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
-  "displayName": "Plan International",
-  "created": "2023-02-23T15:33:24Z",
+  "name": "nwa-thecallin",
+  "logo": "https://media.good-loop.com/uploads/standard/download-17000698479338790181.png",
+  "id": "nwa-thecallin",
   "suggest": [
-    "Plan International",
-    "Plan International"
+    "nwa-thecallin"
   ],
-  "url": "https://plan-international.org",
-  "UNSDG": 5.0,
-  "unlisted": true,
-  "name": "Plan International",
-  "logo": "https://media.good-loop.com/uploads/standard/plan-international-logo-15876726914121525519.svg#ccrop:90",
-  "id": "plan-international",
-  "category": "human services",
-  "crm": "5232214447@2506405019@monday.com",
-  "status": "PUBLISHED"
+  "url": "https://www.nwagives.org/organization/Thecallinnwa",
+  "status": "DRAFT"
 }
