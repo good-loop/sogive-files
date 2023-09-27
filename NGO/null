@@ -1,21 +1,19 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-08T15:52:10Z",
-  "displayName": "Honor and Remember",
+  "displayName": "Plan International",
+  "created": "2023-02-23T15:33:24Z",
   "suggest": [
-    "Honor and Remember, Inc",
-    "Honor and Remember"
+    "Plan International",
+    "Plan International"
   ],
-  "url": "https://honorandremember.org",
-  "UNSDG": 17.0,
-  "name": "Honor and Remember, Inc",
-  "logo": "https://media.good-loop.com/uploads/standard/HonorAndRemember__Logo-8404346768366338872.png#ccrop:75",
-  "id": "honor-and-remember-inc",
+  "url": "https://plan-international.org",
+  "UNSDG": 5.0,
+  "unlisted": true,
+  "name": "Plan International",
+  "logo": "https://media.good-loop.com/uploads/standard/plan-international-logo-15876726914121525519.svg#ccrop:90",
+  "id": "plan-international",
   "category": "human services",
-  "crm": "5130375764@2506405019@monday.com",
-  "status": "MODIFIED"
+  "crm": "5232214447@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
