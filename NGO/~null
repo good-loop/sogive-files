@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "nwa-abilitree",
-  "logo": "https://media.good-loop.com/uploads/standard/download_1-8205633374925498711.png",
-  "id": "nwa-abilitree",
+  "name": "nwa-nwaws",
+  "id": "nwa-nwaws",
   "suggest": [
-    "nwa-abilitree"
+    "nwa-nwaws"
   ],
-  "url": "https://www.nwagives.org/organization/Abilitytree",
   "status": "DRAFT"
 }
