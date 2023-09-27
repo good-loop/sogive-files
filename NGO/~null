@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "name": "nwa-nwaws",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-3762746204139236139.png",
+  "logo": "https://media.good-loop.com/uploads/standard/download_2-3762746204139236139.png#ccrop:82",
   "id": "nwa-nwaws",
   "suggest": [
     "nwa-nwaws"
   ],
   "url": "https://www.nwagives.org/organization/Nwaws",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
