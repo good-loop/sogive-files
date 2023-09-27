@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "nwa-thecallin",
-  "logo": "https://media.good-loop.com/uploads/standard/download-17000698479338790181.png",
-  "id": "nwa-thecallin",
+  "name": "nwa-abilitree",
+  "id": "nwa-abilitree",
   "suggest": [
-    "nwa-thecallin"
+    "nwa-abilitree"
   ],
-  "url": "https://www.nwagives.org/organization/Thecallinnwa",
   "status": "DRAFT"
 }
