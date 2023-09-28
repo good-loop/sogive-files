@@ -3,10 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "newark",
+  "name": "Newark Working Kitchens",
   "id": "newark",
   "suggest": [
-    "newark"
+    "Newark Working Kitchens"
   ],
   "status": "DRAFT"
 }
