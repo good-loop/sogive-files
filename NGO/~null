@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "",
+  "displayName": "For The Breast Of Us",
   "name": "breast-of-us",
   "id": "breast-of-us",
   "suggest": [
     "breast-of-us",
-    ""
+    "For The Breast Of Us"
   ],
   "status": "DRAFT"
 }
