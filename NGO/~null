@@ -1,14 +1,9 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
   "@type": "NGO",
-  "name": "nwa-nwaws",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-3762746204139236139.png#ccrop:82",
-  "id": "nwa-nwaws",
+  "name": "living-beyond-breast-cancer",
+  "id": "living-beyond-breast-cancer",
   "suggest": [
-    "nwa-nwaws"
+    "living-beyond-breast-cancer"
   ],
-  "url": "https://www.nwagives.org/organization/Nwaws",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
