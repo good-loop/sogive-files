@@ -1,16 +1,13 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "For The Breast Of Us",
-  "name": "breast-of-us",
-  "logo": "https://media.good-loop.com/uploads/standard/FTBOU-Logo-3171528974298621835.png",
-  "id": "breast-of-us",
+  "created": "2023-09-28T14:28:09Z",
+  "name": "PFLAG, Inc.",
+  "id": "pflag-inc",
   "suggest": [
-    "breast-of-us",
-    "For The Breast Of Us"
+    "PFLAG, Inc."
   ],
-  "url": "https://www.breastofus.com/",
-  "status": "DRAFT"
+  "url": "www.pflag.org",
+  "crm": "5240599068@2506405019@monday.com",
+  "UNSDG": 10.0
 }
