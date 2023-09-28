@@ -1,9 +1,14 @@
 {
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
+  },
   "@type": "NGO",
+  "displayName": "Living Beyond Breast Cancer",
   "name": "living-beyond-breast-cancer",
   "id": "living-beyond-breast-cancer",
   "suggest": [
-    "living-beyond-breast-cancer"
+    "living-beyond-breast-cancer",
+    "Living Beyond Breast Cancer"
   ],
   "status": "DRAFT"
 }
