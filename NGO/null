@@ -3,12 +3,14 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "nwa-nwaws",
-  "logo": "https://media.good-loop.com/uploads/standard/download_2-3762746204139236139.png#ccrop:82",
-  "id": "nwa-nwaws",
+  "displayName": "Living Beyond Breast Cancer",
+  "name": "living-beyond-breast-cancer",
+  "logo": "https://media.good-loop.com/uploads/standard/dark-logo-9130644520144391573.png#ccrop:85",
+  "id": "living-beyond-breast-cancer",
   "suggest": [
-    "nwa-nwaws"
+    "living-beyond-breast-cancer",
+    "Living Beyond Breast Cancer"
   ],
-  "url": "https://www.nwagives.org/organization/Nwaws",
-  "status": "MODIFIED"
+  "url": "https://www.lbbc.org/",
+  "status": "DRAFT"
 }
