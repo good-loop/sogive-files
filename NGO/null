@@ -1,13 +1,19 @@
 {
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-09-28T14:28:09Z",
-  "name": "PFLAG, Inc.",
-  "id": "pflag-inc",
+  "displayName": "Plan International",
+  "created": "2023-02-23T15:33:24Z",
   "suggest": [
-    "PFLAG, Inc."
+    "Plan International",
+    "Plan International"
   ],
-  "url": "www.pflag.org",
-  "crm": "5240599068@2506405019@monday.com",
-  "UNSDG": 10.0
+  "url": "https://plan-international.org",
+  "UNSDG": 5.0,
+  "unlisted": true,
+  "name": "Plan International",
+  "logo": "https://media.good-loop.com/uploads/standard/plan-international-logo-15876726914121525519.svg#ccrop:90",
+  "id": "plan-international",
+  "category": "human services",
+  "crm": "5232214447@2506405019@monday.com",
+  "status": "PUBLISHED"
 }
