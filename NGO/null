@@ -3,12 +3,13 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "rare-diseases",
-  "logo": "https://media.good-loop.com/uploads/standard/NORD-40-Anniversary-Logo__HORIZ__RGB_copy-3263162278916850108.png#ccrop:78",
-  "id": "rare-diseases",
+  "displayName": "Travalyst",
+  "name": "travalyst",
+  "id": "travalyst",
   "suggest": [
-    "rare-diseases"
+    "travalyst",
+    "Travalyst"
   ],
-  "url": "https://rarediseases.org/",
-  "status": "MODIFIED"
+  "url": "https://travalyst.org/",
+  "status": "DRAFT"
 }
