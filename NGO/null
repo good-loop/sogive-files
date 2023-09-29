@@ -3,12 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "hfa",
-  "logo": "https://media.good-loop.com/uploads/standard/HFA__logo__5__nowords-8656012689789151491.jpeg",
-  "id": "hfa",
+  "name": "primary-immune",
+  "logo": "https://media.good-loop.com/uploads/standard/logo-idf-12657304478695980953.png",
+  "id": "primary-immune",
   "suggest": [
-    "hfa"
+    "primary-immune"
   ],
-  "url": "https://www.hemophiliafed.org/funding-policies/",
+  "url": "https://primaryimmune.org/",
   "status": "DRAFT"
 }
