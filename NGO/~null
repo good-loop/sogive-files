@@ -3,12 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "primary-immune",
-  "logo": "https://media.good-loop.com/uploads/standard/logo-idf-12657304478695980953.png#ccrop:88",
-  "id": "primary-immune",
+  "name": "rare-diseases",
+  "id": "rare-diseases",
   "suggest": [
-    "primary-immune"
+    "rare-diseases"
   ],
-  "url": "https://primaryimmune.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
