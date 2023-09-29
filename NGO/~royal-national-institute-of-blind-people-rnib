@@ -898,7 +898,7 @@
   "UNSDG": "3",
   "imageCaption": "RNIB",
   "ready": true,
-  "logo": "https://media.good-loop.com/uploads/standard/RNIBweb-20180907040906351-8091817110009183705.jpg#ccrop:90",
+  "logo": "https://media.good-loop.com/uploads/standard/RNIBweb-20180907040906351-8091817110009183705.jpg#ccrop:85",
   "modified": false,
   "@id": "royal-national-institute-of-blind-people-rnib",
   "summaryDescription": "The Royal National Institute of Blind People (RNIB) provides information, support, and advice to almost two million people in the UK with sight loss.",
@@ -952,5 +952,5 @@
   "englandWalesCharityRegNum": "226227",
   "whereTags": "United Kingdom",
   "uk_giftaid": true,
-  "status": "PUBLISHED"
+  "status": "MODIFIED"
 }
