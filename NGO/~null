@@ -4,11 +4,11 @@
   },
   "@type": "NGO",
   "name": "rare-diseases",
-  "logo": "https://media.good-loop.com/uploads/standard/NEW-Summit-Logo-FNL-01-8862393001137429108.jpeg",
+  "logo": "https://media.good-loop.com/uploads/standard/NORD-40-Anniversary-Logo__HORIZ__RGB_copy-3263162278916850108.png",
   "id": "rare-diseases",
   "suggest": [
     "rare-diseases"
   ],
   "url": "https://rarediseases.org/",
-  "status": "DRAFT"
+  "status": "PUBLISHED"
 }
