@@ -3,11 +3,12 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "name": "Newark Working Kitchens",
-  "logo": "https://media.good-loop.com/uploads/standard/newark__working__kitchens__logo1500-1290171871473538020.png#ccrop:99",
-  "id": "newark",
+  "name": "hfa",
+  "logo": "https://media.good-loop.com/uploads/standard/HFA__logo__5__nowords-8656012689789151491.jpeg",
+  "id": "hfa",
   "suggest": [
-    "Newark Working Kitchens"
+    "hfa"
   ],
+  "url": "https://www.hemophiliafed.org/funding-policies/",
   "status": "DRAFT"
 }
