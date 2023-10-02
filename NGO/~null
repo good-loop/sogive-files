@@ -5,14 +5,15 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-09-14T12:59:31Z",
-  "name": "Fondazione Progetto Itaca ETS",
-  "id": "fondazione-progetto-itaca-ets",
   "suggest": [
     "Fondazione Progetto Itaca ETS"
   ],
-  "category": "health",
   "url": "https://progettoitaca.org/",
-  "crm": "5161626938@2506405019@monday.com",
   "UNSDG": 3.0,
+  "name": "Fondazione Progetto Itaca ETS",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo_Progetto_Itaca-15158647628853622774.png",
+  "id": "fondazione-progetto-itaca-ets",
+  "category": "health",
+  "crm": "5161626938@2506405019@monday.com",
   "status": "PUBLISHED"
 }
