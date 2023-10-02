@@ -2,15 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Travalyst",
-  "name": "travalyst",
-  "logo": "https://media.good-loop.com/uploads/standard/Travalyst__Lockup__web-copy-1400x788-1809437197789396243.png",
-  "id": "travalyst",
+  "created": "2023-09-11T15:01:38Z",
   "suggest": [
-    "travalyst",
-    "Travalyst"
+    "MIND Us"
   ],
-  "url": "https://travalyst.org/",
+  "url": "https://mindus.nl/",
+  "UNSDG": 3.0,
+  "name": "MIND Us",
+  "logo": "https://media.good-loop.com/uploads/standard/Mind-Us-RGB-7795511822236622672.jpg#ccrop:70",
+  "id": "mind-us",
+  "category": "health",
+  "crm": "5140115030@2506405019@monday.com",
   "status": "MODIFIED"
 }
