@@ -5,14 +5,15 @@
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
   "created": "2023-09-12T19:05:07Z",
-  "name": "wirfueryannic e.V.",
-  "id": "wirfueryannic-e-v",
   "suggest": [
     "wirfueryannic e.V."
   ],
-  "category": "health",
   "url": "www.wirfueryannic.de",
-  "crm": "5149870906@2506405019@monday.com",
   "UNSDG": 3.0,
+  "name": "wirfueryannic e.V.",
+  "logo": "https://media.good-loop.com/uploads/standard/Logo__Wirfueryannic__Verlauf-14254195142598840480.png",
+  "id": "wirfueryannic-e-v",
+  "category": "health",
+  "crm": "5149870906@2506405019@monday.com",
   "status": "PUBLISHED"
 }
