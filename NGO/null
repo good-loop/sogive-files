@@ -1,16 +1,16 @@
 {
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
+  "xero": "65b75c76-3fcd-41f3-bc89-fc1c5940d903",
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Swarovski Foundation",
-  "name": "Swarovski-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/4f5ecf7c-159f-4be8-8ee1-9892aa90833e-1658978134813816329.png",
-  "id": "swarovski-foundation",
+  "created": "2023-03-07T17:08:37Z",
+  "name": "Guts UK Charity",
+  "id": "guts-uk-charity",
   "suggest": [
-    "Swarovski-foundation",
-    "Swarovski Foundation"
+    "Guts UK Charity"
   ],
-  "url": "https://www.swarovskifoundation.org/",
-  "status": "MODIFIED"
+  "category": "health",
+  "url": "https://gutscharity.org.uk",
+  "crm": "4101154379@2506405019@monday.com",
+  "UNSDG": 3.0,
+  "status": "PUBLISHED"
 }
