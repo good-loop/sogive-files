@@ -3,14 +3,10 @@
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@type": "NGO",
-  "displayName": "Swarovski Foundation",
-  "name": "Swarovski-foundation",
-  "logo": "https://media.good-loop.com/uploads/standard/4f5ecf7c-159f-4be8-8ee1-9892aa90833e-1658978134813816329.png",
-  "id": "swarovski-foundation",
+  "name": "ticket-to-dream",
+  "id": "ticket-to-dream",
   "suggest": [
-    "Swarovski-foundation",
-    "Swarovski Foundation"
+    "ticket-to-dream"
   ],
-  "url": "https://www.swarovskifoundation.org/",
-  "status": "PUBLISHED"
+  "status": "DRAFT"
 }
