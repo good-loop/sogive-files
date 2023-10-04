@@ -2,15 +2,18 @@
   "t4gTheme": {
     "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
+  "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Women Who Code",
-  "name": "women-who-code",
-  "logo": "https://media.good-loop.com/uploads/standard/FullLogo-Teal-255383166697179011.svg#ccrop:85",
-  "id": "women-who-code",
+  "created": "2023-09-12T19:05:07Z",
   "suggest": [
-    "women-who-code",
-    "Women Who Code"
+    "wirfueryannic e.V."
   ],
-  "url": "https://www.womenwhocode.com/",
-  "status": "DRAFT"
+  "url": "www.wirfueryannic.de",
+  "UNSDG": 3.0,
+  "name": "wirfueryannic e.V.",
+  "logo": "https://media.good-loop.com/uploads/standard/WFY__LogoSchriftzug-16918309724078425619.png#ccrop:92",
+  "id": "wirfueryannic-e-v",
+  "category": "health",
+  "crm": "5149870906@2506405019@monday.com",
+  "status": "MODIFIED"
 }
