@@ -1,27 +1,21 @@
 {
-  "simpleImpact": {
-    "@class": "com.goodloop.data.charity.Impact",
-    "name": "Purchase of interactive equipment for children with cancer",
-    "amount": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 100000000,
-      "value": "10000.0"
-    },
-    "n": 1.0
+  "t4gTheme": {
+    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
   },
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-11-03T16:08:55Z",
-  "name": "Kingston Hospital Charity",
-  "id": "kingston-hospital-charity",
+  "displayName": "Hope Foudnation",
+  "created": "2023-11-07T09:12:44Z",
   "suggest": [
-    "Kingston Hospital Charity"
+    "hope-foundation",
+    "Hope Foudnation"
   ],
-  "category": "health",
-  "url": "www.khc.org.uk",
-  "crm": "5449141845@2506405019@monday.com",
-  "UNSDG": 3.0,
+  "url": "https://quyhyvong.com/",
+  "UNSDG": 4.0,
+  "name": "hope-foundation",
+  "logo": "https://media.good-loop.com/uploads/standard/hope-9852555885801350528.svg#ccrop:85",
+  "id": "hope-foundation",
+  "category": "education",
+  "crm": "5465460858@2506405019@monday.com",
   "status": "PUBLISHED"
 }
