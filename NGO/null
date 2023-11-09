@@ -1,49 +1,28 @@
 {
-  "scotlandCharityRegNum": "SC044246",
-  "t4gTheme": {
-    "t4gLogo": "https://my.good-loop.com/img/newtab/logo/white.png"
-  },
-  "color": "#017d49",
-  "@type": "NGO",
-  "displayName": "THE TRUSSELL TRUST",
-  "description": "The Trussell Trust operates 3 food banks and supports a network of 428 more. These food banks take referrals from local agencies such as children\u0027s centres, housing associations, advice charities and mental health teams. They provide those in need with boxes containing three days of emergency food and other essential home supplies. Boxes are carefully designed to provide a balanced supply of food for any household size.",
-  "altlogo": "https://media.good-loop.com/uploads/standard/trussell__trust__logo__white-3646778911141497305.png#ccrop:75",
-  "UNSDG": 3.0,
-  "logo": "https://media.good-loop.com/uploads/standard/trussell-8187236671737861665.svg#ccrop:75",
-  "id": "the-trussell-trust",
-  "summaryDescription": "Aims to end hunger and poverty in the UK",
-  "crm": "5476802251@2506405019@monday.com",
-  "images": "https://app.sogive.org/uploads/justinbartongmail.comemail/ttt-og-image-6198868315212526701.jpg",
+  "scotlandCharityRegNum": "SC038505",
   "@class": "com.goodloop.data.NGO",
-  "created": "2023-11-08T16:40:23Z",
-  "impacts": [
-    {
-      "@class": "com.goodloop.data.charity.Impact",
-      "charity": "the-trussell-trust",
-      "name": "three day emergency food supplies (singular: supply)",
-      "amount": {
-        "@class": "com.goodloop.data.Money",
-        "year": 0,
-        "currency": "GBP",
-        "value100p": 260100,
-        "value": "26.01"
-      },
-      "n": 1.0
-    }
-  ],
+  "@type": "NGO",
+  "created": "2023-11-09T14:16:50Z",
   "suggest": [
-    "THE TRUSSELL TRUST",
-    "THE TRUSSELL TRUST"
+    "Variety, the Children\u0027s Charity "
   ],
-  "url": "https://www.trusselltrust.org/",
+  "url": "www.variety.org.uk",
+  "UNSDG": 3.0,
   "simpleImpact": {
     "@class": "com.goodloop.data.charity.Impact",
-    "name": "three day emergency food supplies (singular: supply)"
+    "name": "Weighted cuddly toy for a child with anxiety, sensory conditions, or Autism.",
+    "amount": {
+      "@class": "com.goodloop.data.Money",
+      "year": 0,
+      "currency": "GBP",
+      "value100p": 400000,
+      "value": "40.0"
+    },
+    "n": 1.0
   },
-  "name": "THE TRUSSELL TRUST",
-  "logo_white": "https://app.sogive.org/uploads/sysadmingood-loop.comemail/trussell_trust_logo_white.png",
-  "lastModified": "2020-11-16T16:17:19Z",
-  "category": "community",
-  "englandWalesCharityRegNum": "1110522",
+  "name": "Variety, the Children\u0027s Charity ",
+  "id": "variety-the-children-s-charity",
+  "category": "health",
+  "crm": "5483132270@2506405019@monday.com",
   "status": "PUBLISHED"
 }
