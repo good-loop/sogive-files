@@ -1,28 +1,18 @@
 {
-  "scotlandCharityRegNum": "SC038505",
+  "scotlandCharityRegNum": "SC038911",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "created": "2023-11-09T14:16:50Z",
+  "displayName": "Christian Action Research And Education",
+  "created": "2023-11-16T20:57:14Z",
   "suggest": [
-    "Variety, the Children\u0027s Charity "
+    "CARE",
+    "Christian Action Research And Education"
   ],
-  "url": "www.variety.org.uk",
-  "UNSDG": 3.0,
-  "simpleImpact": {
-    "@class": "com.goodloop.data.charity.Impact",
-    "name": "Weighted cuddly toy for a child with anxiety, sensory conditions, or Autism.",
-    "amount": {
-      "@class": "com.goodloop.data.Money",
-      "year": 0,
-      "currency": "GBP",
-      "value100p": 400000,
-      "value": "40.0"
-    },
-    "n": 1.0
-  },
-  "name": "Variety, the Children\u0027s Charity ",
-  "id": "variety-the-children-s-charity",
-  "category": "health",
-  "crm": "5483132270@2506405019@monday.com",
+  "url": "www.care.org.uk",
+  "UNSDG": 5.0,
+  "name": "CARE",
+  "id": "care",
+  "category": "human services",
+  "crm": "5526737659@2506405019@monday.com",
   "status": "PUBLISHED"
 }
