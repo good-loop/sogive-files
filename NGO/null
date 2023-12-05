@@ -1,18 +1,16 @@
 {
-  "scotlandCharityRegNum": "SC038911",
+  "xero": "da0f3e4e-7999-4b1b-88af-233563e002fd",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Christian Action Research And Education",
-  "created": "2023-11-16T20:57:14Z",
+  "created": "2023-09-07T17:52:08Z",
+  "name": "Canada\u0027s Children\u0027s Hospital Foundations",
+  "id": "canada-s-children-s-hospital-foundations",
   "suggest": [
-    "CARE",
-    "Christian Action Research And Education"
+    "Canada\u0027s Children\u0027s Hospital Foundations"
   ],
-  "url": "www.care.org.uk",
-  "UNSDG": 5.0,
-  "name": "CARE",
-  "id": "care",
-  "category": "human services",
-  "crm": "5526737659@2506405019@monday.com",
+  "category": "health",
+  "url": "https://childrenshospitals.ca",
+  "crm": "5124584187@2506405019@monday.com",
+  "UNSDG": 3.0,
   "status": "PUBLISHED"
 }
