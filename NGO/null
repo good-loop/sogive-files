@@ -1,21 +1,19 @@
 {
-  "circleCrop": "85.0",
-  "images": "https://media.good-loop.com/uploads/standard/my__good__loop__recycle-17429373860662628225.png",
   "@class": "com.goodloop.data.NGO",
   "@type": "NGO",
-  "displayName": "Wrap",
-  "created": "2024-01-20T01:00:08Z",
-  "description": "Wrap promote and encourage sustainable resource use through product design, waste minimisation, re-use, recycling and reprocessing of waste materials.\n\nWe work across six continents with governments, businesses and citizens to create a world where resources are sourced and used sustainably.\n\n",
+  "displayName": "The Orchid Project",
+  "created": "2023-06-26T11:58:04Z",
   "suggest": [
-    "wrap",
-    "Wrap"
+    "The Orchid Project",
+    "The Orchid Project"
   ],
-  "url": "https://wrap.org.uk/",
-  "xero": "80ed6900-30b7-4298-adf7-0ac60a039998",
-  "name": "wrap",
-  "logo": "https://media.good-loop.com/uploads/standard/Waste____Resources__Action__Programme__logo-1334207624415395617.svg#ccrop:90",
-  "id": "wrap",
-  "category": "environment",
-  "subcategory": "Climate Action",
+  "url": "https://www.theorchardproject.org.uk/",
+  "UNSDG": 15.0,
+  "xero": "aeb0a920-abe2-4fb9-bd8e-607aaffe4382",
+  "name": "The Orchid Project",
+  "logo": "https://media.good-loop.com/uploads/standard/orchid_project-9130880318323852935.png",
+  "id": "orchid-project",
+  "category": "community",
+  "crm": "2506405521@2506405019@monday.com",
   "status": "PUBLISHED"
 }
